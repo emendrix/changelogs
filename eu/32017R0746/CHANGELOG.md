@@ -10,6 +10,155 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0746-20240709 -->
+## Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical […]
+### `02017R0746-20230320` → `02017R0746-20240709`
+
+- **Act** `eu:32017R0746` · **In force** 2024-07-09 · **Detected** 2026-08-12
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **1 disputed**
+- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 124 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R0746-20230320` · `v2` = `02017R0746-20240709`
+
+---
+
+**INSERTED · Art. 10a** · applies from: unknown
+
+*amended by* `32024R1860`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 74 — Coordinated assessment procedure for performance studies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 74 PA 14 ALN 1`, `AR 74 PA 14 ALN 2` · *dates* -2029-05-25 -2029-05-26 · *amended by* `32024R1860`
+
+Paragraph 14 no longer sets the mandatory application of the coordinated assessment procedure by reference to the fixed date of 26 May 2029, and instead ties mandatory application by all Member States to a date calculated as 5 years from the publication of the notice referred to in Article 34(3) of Regulation (EU) 2017/745 confirming that the electronic system under Article 30(2), point (e), is functional. [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_74)
+
+The earlier fixed cut-off of 25 May 2029, before which the procedure applied only to Member States that had agreed to use it, is replaced with a period defined as before that new calculated date and at the earliest six months from the publication of the same notice. [Art. 74, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_74) [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_74)
+
+*before* (`02017R0746-20230320`)
+
+> Article 74
+> Coordinated assessment procedure for performance studies
+> 1. By means of the electronic system referred to in Article 69, the sponsor of a performance study to be conducted in more than one Member State may submit, for the purpose of Article 66, a single application that, upon receipt, is transmitted electronically to all Member States in which the performance study is to be conducted.
+> 2. The sponsor shall propose in the single application referred to in paragraph 1 that one of the Member States in which the performance study is to be conducted acts as coordinating Member State. The Member States in which the performance study is to be conducted shall, within six days of submission of the application, agree on one of them taking the role of the coordinating Member State. If they do not agree on a coordinating Member State, the coordinating Member State proposed by the sponsor shall assume that role.
+> 3. Under the direction of the coordinating Member State referred to in paragraph 2, the Member States concerned shall coordinate their assessment of the application, in particular of the documentation referred to in Chapter I of Annex XIV.
+> However, the completeness of the documentation referred to in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2. of Part A of Annex XIII shall be assessed separately by each Member State concerned in accordance with Article 66(1) to (5).
+> 4. With regard to documentation other than that referred to […truncated by emendrix: 6801 characters omitted…]
+
+*after* (`02017R0746-20240709`)
+
+> Article 74
+> Coordinated assessment procedure for performance studies
+> 1. By means of the electronic system referred to in Article 69, the sponsor of a performance study to be conducted in more than one Member State may submit, for the purpose of Article 66, a single application that, upon receipt, is transmitted electronically to all Member States in which the performance study is to be conducted.
+> 2. The sponsor shall propose in the single application referred to in paragraph 1 that one of the Member States in which the performance study is to be conducted acts as coordinating Member State. The Member States in which the performance study is to be conducted shall, within six days of submission of the application, agree on one of them taking the role of the coordinating Member State. If they do not agree on a coordinating Member State, the coordinating Member State proposed by the sponsor shall assume that role.
+> 3. Under the direction of the coordinating Member State referred to in paragraph 2, the Member States concerned shall coordinate their assessment of the application, in particular of the documentation referred to in Chapter I of Annex XIV.
+> However, the completeness of the documentation referred to in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2. of Part A of Annex XIII shall be assessed separately by each Member State concerned in accordance with Article 66(1) to (5).
+> 4. With regard to documentation other than that referred to […truncated by emendrix: 7304 characters omitted…]
+
+**MODIFIED · Art. 110 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 110 PA 2 ALN 2`, `AR 110 PA 2 ALN 2 PTA (a)`, `AR 110 PA 2 ALN 2 PTA (b)`, `AR 110 PA 3 ALN 1`, `AR 110 PA 3 ALN 2`, `AR 110 PA 3 ALN 3`, `AR 110 PA 3 ALN 4`, `AR 110 PA 3 ALN 5`, `AR 110 PA 3a`, `AR 110 PA 3b`, `AR 110 PA 3c`, `AR 110 PA 3d`, `AR 110 PA 3e`, `AR 110 PA 11` · *dates* +2024-07-09 +2025-09-26 +2026-09-26 +2027-09-26 +2027-12-31 +2028-12-31 +2029-12-31 · *amended by* `32024R1860`
+
+Paragraph 2's second subparagraph now extends validity of certificates issued from 25 May 2017 that were still valid on 26 May 2022 and not withdrawn afterwards through 31 December 2027, and adds conditions for certificates that had already expired before 9 July 2024, requiring either a signed conformity-assessment agreement or a competent authority derogation or requirement under Articles 54(1) or 92(1), where the prior text simply set a 27 May 2025 void date. [Art. 110, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_110) [Art. 110, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110)
+
+Former paragraph 3, which allowed continued placement on the market under conditions listed directly within it and used dates in 2025-2027, has been split into new paragraphs 3, 3a, 3b, 3c, 3d and 3e, moving the device categories, the conditions, and the surveillance-responsibility text into separate numbered paragraphs and changing the applicable dates to 31 December 2027, 2028 and 2029 along with new intermediate deadlines in 2025, 2026 and 2027. [Art. 110, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_110) [Art. 110, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110)
+
+A new paragraph 11 has been added stating that Article 10a also applies to the devices referred to in paragraphs 3a and 3b. [Art. 110, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110)
+
+*before* (`02017R0746-20230320`)
+
+> Article 110
+> Transitional provisions
+> 1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.
+> 2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2025.
+> Certificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 shall become void by 27 May 2025.
+> 3. By way of derogation from Article 5 of this Regulation, the devices referred to in the second and third subparagraphs of this paragraph may be placed on the market or put into service until the dates set out in those subparagraphs, provided that, from the date of application of this Regulation, those devices continue to comply with Directive 98/79/EC, and provided that there are no significant changes in the design and intended purpose of those devices.
+> Devices with a certificate that was issued in accordance with Directive 98/79/EC and which is valid by virtue of paragraph 2 of this Article may be placed on the market or put into service until 26 May 2025.
+> Devices for which the conformity assessment procedure pursuant to Directive 98/79/EC did not require the involvement of a notified body, for which a declaration of conformity was drawn up prior to 26 May 2022 in […truncated by emendrix: 3138 characters omitted…]
+
+*after* (`02017R0746-20240709`)
+
+> Article 110
+> Transitional provisions
+> 1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.
+> 2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2025.
+> Certificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 that were still valid on 26 May 2022 and that have not been withdrawn thereafter shall continue to remain valid after the end of the period indicated on the certificate until 31 December 2027. Certificates issued by notified bodies in accordance with that Directive from 25 May 2017 that were still valid on 26 May 2022 and that have expired before 9 July 2024 shall be considered to be valid until 31 December 2027 only if one of the following conditions is fulfilled:
+> (a) before the date of expiry of the certificate, the manufacturer and a notified body have signed a written agreement in accordance with Section 4.3, second subparagraph, of Annex VII to this Regulation for the conformity assessment in respect of the device covered by the expired certificate or in respect of a device intended to substitute that device;
+> (b) a competent authority of a Member State has granted a derogation from the applicable […truncated by emendrix: 7055 characters omitted…]
+
+**MODIFIED · Art. 112 — Repeal** · applies from: unchanged
+
+*within* `AR 112 ALN 1`, `AR 112 ALN 1 PTA (a)`, `AR 112 ALN 1 PTA (b)`, `AR 112 ALN 2` · *amended by* `32024R1860`
+
+The cross-references to Article 110 have been changed from citing paragraphs (3) and (4) to citing paragraphs (3) to (4), and the repeal dates for the exceptions in points (a) and (b) are now tied to the date in Article 113(3)(f) alone, linked to the application of obligations and requirements relating to specific electronic systems referenced in Article 30(2), rather than to the later of the dates in Article 113(2) and 113(3)(f). [Art. 112, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112)
+
+Point (a) now refers to Article 12(1), point (c) rather than point (c) of Article 12(1), and adds a reference to the corresponding Annexes to that Directive, while tying the repeal timing to the electronic systems in Article 30(2), points (e) and (f). [Art. 112, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112) [Art. 112, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_112)
+
+Point (b) similarly rephrases the reference to Article 12(1), points (a) and (b), adds the phrase concerning corresponding Annexes to that Directive, and ties its repeal timing to the electronic systems in Article 30(2), points (a) to (d), instead of the fixed 18-month period after the later of the two prior dates. [Art. 112, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112) [Art. 112, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_112)
+
+*before* (`02017R0746-20230320`)
+
+> Article 112
+> Repeal
+> Without prejudice to Articles 110 (3) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022 with the exception of:
+> (a) Article 11, point (c) of Article 12(1) and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation; and
+> (b) Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.
+> As regards the devices referred to in Article 110(3) and (4) of this Regulation, Directive 98/79/EC shall continue to apply to the extent necessary for the application of those paragraphs.
+> Decision 2010/227/EU adopted in implementation of Directives 90/385/EEC, 93/42/EEC and 98/79/EC shall be repealed with effect from the later of the dates referred to in Article 113(2) […truncated by emendrix: 223 characters omitted…]
+
+*after* (`02017R0746-20240709`)
+
+> Article 112
+> Repeal
+> Without prejudice to Article 110(3) to (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and to the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022, with the exception of:
+> (a) Article 11, Article 12(1), point (c), and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes to that Directive, which are repealed, as applicable, with effect from the date referred to in Article 113(3), point (f), of this Regulation in respect of the application of the obligations and requirements that relate to the electronic systems referred to in Article 30(2), points (e) and (f), respectively, of this Regulation;
+> (b) Article 10, Article 12(1), points (a) and (b), and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes to that Directive, which are repealed, as applicable, with effect from the date referred to in Article 113(3), point (f), of this Regulation in respect of the application of the obligations and requirements that relate to the electronic systems referred to in Article 30(2), points (a) to (d), respectively, of this Regulation.
+> As regards the device […truncated by emendrix: 574 characters omitted…]
+
+**MODIFIED · Art. 113 — Entry into force and date of application** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 113 PA 3 ALN 1 PTA (f)`, `AR 113 PA 3 ALN 1 PTA (fa)`, `AR 113 PA 3 ALN 1 PTA (fb)`, `AR 113 PA 3 ALN 1 PTA (fc)`, `AR 113 PA 3 ALN 1 PTA (fd)`, `AR 113 PA 3 ALN 1 PTA (j)` · *dates* -2028-05-26 +2030-12-31 · *amended by* `32024R1860`
+
+Point (f) is reworded to tie the application of the listed provisions to when the electronic systems referred to in Article 30(2) become functional, removing the earlier wording that conditioned this on Eudamed not being fully functional by 26 May 2022 due to unforeseen circumstances, and it now also lists Article 51(5), Article 74(1) to (13) without prejudice to Article 74(14), and Article 110(3d) among the affected provisions, replacing the prior reference to Article 74(1) to (13) and the second sentence of the first subparagraph of Article 110(3). [Art. 113, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113) [Art. 113, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_113)
+
+New points (fa), (fb), (fc) and (fd) are added, setting out obligations for manufacturers and notified bodies to enter information into the electronic system referred to in Article 30(2) within specified periods after the date set out in point (f), and imposing registration duties tied to PSUR submission and vigilance reporting under Articles 81(2), 82 and 83. [Art. 113, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113)
+
+Point (j) changes the date from which Article 5(5), point (d), applies from 26 May 2028 to 31 December 2030. [Art. 113, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113) [Art. 113, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_113)
+
+*before* (`02017R0746-20230320`)
+
+> Article 113
+> Entry into force and date of application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 26 May 2022.
+> 3. By way of derogation from paragraph 2:
+> (a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);
+> (b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;
+> (c) Article 97 shall apply from 26 May 2018;
+> (d) Article 100 shall apply from 25 November 2020;
+> (e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;
+> (f) without prejudice to the obligations on the Commission pursuant to Article 34 of Regulation (EU) 2017/745, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1) of that Regulation, Eudamed is not fully functional on 26 May 2022, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3) of that Regulation. The provisions […truncated by emendrix: 1339 characters omitted…]
+
+*after* (`02017R0746-20240709`)
+
+> Article 113
+> Entry into force and date of application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 26 May 2022.
+> 3. By way of derogation from paragraph 2:
+> (a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);
+> (b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;
+> (c) Article 97 shall apply from 26 May 2018;
+> (d) Article 100 shall apply from 25 November 2020;
+> (e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;
+> (f) without prejudice to the obligations of the Commission pursuant to Article 34 of Regulation (EU) 2017/745, the obligations and requirements that relate to any of the electronic systems referred to in Article 30(2) of this Regulation shall apply from the date corresponding to 6 months from the date of publication of the notice referred to in Article 34(3) of Regulation (EU) 2017/745, informing that the relevant electronic system is functional and meets the functional specifications drawn up pursuant to Article 34( […truncated by emendrix: 3814 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0746-20240709 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0746-20230320 -->
 ## Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical […]
 ### `02017R0746-20230311` → `02017R0746-20230320`

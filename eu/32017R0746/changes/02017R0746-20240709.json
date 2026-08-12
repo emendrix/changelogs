@@ -1,0 +1,1329 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0746",
+    "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+  },
+  "from_version": "02017R0746-20230320",
+  "to_version": "02017R0746-20240709",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2024-07-09"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 5,
+    "unchanged_units": 124,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 5,
+    "substantive": 5,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20240709",
+          "location": "AR 10a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "24 annotations in (2023-03-20, 2024-07-09]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (1)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20240709",
+          "location": "AR 74"
+        },
+        "heading": "Coordinated assessment procedure for performance studies",
+        "before": "Article 74\nCoordinated assessment procedure for performance studies\n1. By means of the electronic system referred to in Article 69, the sponsor of a performance study to be conducted in more than one Member State may submit, for the purpose of Article 66, a single application that, upon receipt, is transmitted electronically to all Member States in which the performance study is to be conducted.\n2. The sponsor shall propose in the single application referred to in paragraph 1 that one of the Member States in which the performance study is to be conducted acts as coordinating Member State. The Member States in which the performance study is to be conducted shall, within six days of submission of the application, agree on one of them taking the role of the coordinating Member State. If they do not agree on a coordinating Member State, the coordinating Member State proposed by the sponsor shall assume that role.\n3. Under the direction of the coordinating Member State referred to in paragraph 2, the Member States concerned shall coordinate their assessment of the application, in particular of the documentation referred to in Chapter I of Annex XIV.\nHowever, the completeness of the documentation referred to in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2. of Part A of Annex XIII shall be assessed separately by each Member State concerned in accordance with Article 66(1) to (5).\n4. With regard to documentation other than that referred to in the second subparagraph of paragraph 3, the coordinating Member State shall:\n(a) within six days of receipt of the single application, notify the sponsor that it is the coordinating Member State (notification date);\n(b) for the purpose of the validation of the application, take into account any considerations submitted within seven days of the notification date by any Member State concerned;\n(c) within 10 days of the notification date, assess whether the performance study falls within the scope of this Regulation and whether the application is complete and shall notify the sponsor accordingly. Article 66(1) and (3) to (5) shall apply to the coordinating Member State in relation to that assessment;\n(d) establish the results of its assessment in a draft assessment report to be transmitted within 26 days of the validation date to the Member States concerned. By day 38 after the validation date, the other Member States concerned shall transmit their comments and proposals on the draft assessment report and the underlying application to the coordinating Member State which shall take due account of those comments and proposals in its finalisation of the final assessment report, to be transmitted within 45 days of the validation date to the sponsor and the other Member States concerned.\nThe final assessment report shall be taken into account by all Member States concerned when deciding on the sponsor's application in accordance with Article 66(7).\n5. As regards the assessment of the documentation referred to in the second subparagraph of paragraph 3, each Member State concerned may request, on a single occasion, additional information from the sponsor. The sponsor shall submit the requested additional information within the period set by the Member State concerned, which shall not exceed 12 days from the receipt of the request. The expiry of the last deadline pursuant to point (d) of paragraph 4 shall be suspended from the date of the request until such time as the additional information has been received.\n6. For class C and D devices, the coordinating Member State may also extend the periods referred to in paragraph 4 by a further 50 days, for the purpose of consulting with experts.\n7. The Commission may, by means of implementing acts, further specify the procedures and timescales for coordinated assessments to be taken into account by Member States concerned when deciding on the sponsor's application. Such implementing acts may also set out the procedures and timescales for coordinated assessment in the case of substantial modifications pursuant to paragraph 12 of this Article and in the case of reporting of adverse events pursuant to Article 76(4) and in the case of performance studies involving companion diagnostics, where the medicinal products are under a concurrent coordinated assessment of a clinical trial under Regulation (EU) No 536/2014. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).\n8. Where the conclusion of the coordinating Member State concerning the area of coordinated assessment is that the conduct of the performance study is acceptable or acceptable subject to compliance with specific conditions, that conclusion shall be deemed to be the conclusion of all Member State(s) concerned.\nNotwithstanding the first subparagraph, a Member State concerned may only disagree with the conclusion of the coordinating Member State concerning the area of coordinated assessment on the following grounds:\n(a) when it considers that participation in the performance study would lead to a subject receiving treatment inferior to that received in normal clinical practice in that Member State concerned;\n(b) infringement of national law; or\n(c) considerations as regards subject safety and data reliability and robustness submitted under point (d) of paragraph 4.\nWhere one of the Member States concerned disagrees with the conclusion on the basis of the second subparagraph of this paragraph, it shall communicate its disagreement, together with a detailed justification, through the electronic system referred to in Article 69 to the Commission, to all other Member States concerned, and to the sponsor.\n9. Where the conclusion of the coordinating Member State concerning the area of coordinated assessment is that the performance study is not acceptable, that conclusion shall be deemed to be the conclusion of all Member States concerned.\n10. A Member State concerned shall refuse to authorise a performance study if it disagrees with the conclusion of the coordinating Member State as regards any of the grounds referred to in the second subparagraph of paragraph 8, or if it finds, on duly justified grounds, that the aspects addressed in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV are not complied with, or where an ethics committee has issued a negative opinion in relation to that performance study which is valid in accordance with national law for that entire Member State. That Member State shall provide for an appeal procedure in respect of such refusal.\n11. Each Member State concerned shall notify the sponsor through the electronic system referred to in Article 69 as to whether the performance study is authorised, whether it is authorised subject to conditions, or whether authorisation has been refused. Notification shall be done by way of one single decision within five days of the transmission, pursuant to point (d) of paragraph 4 of this Article, by the coordinating Member State of the final assessment report. Where an authorisation of a performance study is subject to conditions, those conditions may only be such that, by their nature, they cannot be fulfilled at the time of that authorisation.\n12. Any substantial modifications as referred to in Article 71 shall be notified to the Member States concerned by means of the electronic system referred to in Article 69. Any assessment as to whether there are grounds for disagreement as referred to in the second subparagraph of paragraph 8 of this Article shall be carried out under the direction of the coordinating Member State, except for substantial modifications concerning sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2 of Part A of Annex XIII, which shall be assessed separately by each Member State concerned.\n13. The Commission shall provide administrative support to the coordinating Member State in the accomplishment of its tasks under this Chapter.\n14. The procedure set out in this Article shall, until 25 May 2029, be applied only by those of the Member States in which the performance studies are to be conducted which have agreed to apply it. From 26 May 2029, all Member States shall be required to apply that procedure.",
+        "after": "Article 74\nCoordinated assessment procedure for performance studies\n1. By means of the electronic system referred to in Article 69, the sponsor of a performance study to be conducted in more than one Member State may submit, for the purpose of Article 66, a single application that, upon receipt, is transmitted electronically to all Member States in which the performance study is to be conducted.\n2. The sponsor shall propose in the single application referred to in paragraph 1 that one of the Member States in which the performance study is to be conducted acts as coordinating Member State. The Member States in which the performance study is to be conducted shall, within six days of submission of the application, agree on one of them taking the role of the coordinating Member State. If they do not agree on a coordinating Member State, the coordinating Member State proposed by the sponsor shall assume that role.\n3. Under the direction of the coordinating Member State referred to in paragraph 2, the Member States concerned shall coordinate their assessment of the application, in particular of the documentation referred to in Chapter I of Annex XIV.\nHowever, the completeness of the documentation referred to in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2. of Part A of Annex XIII shall be assessed separately by each Member State concerned in accordance with Article 66(1) to (5).\n4. With regard to documentation other than that referred to in the second subparagraph of paragraph 3, the coordinating Member State shall:\n(a) within six days of receipt of the single application, notify the sponsor that it is the coordinating Member State (notification date);\n(b) for the purpose of the validation of the application, take into account any considerations submitted within seven days of the notification date by any Member State concerned;\n(c) within 10 days of the notification date, assess whether the performance study falls within the scope of this Regulation and whether the application is complete and shall notify the sponsor accordingly. Article 66(1) and (3) to (5) shall apply to the coordinating Member State in relation to that assessment;\n(d) establish the results of its assessment in a draft assessment report to be transmitted within 26 days of the validation date to the Member States concerned. By day 38 after the validation date, the other Member States concerned shall transmit their comments and proposals on the draft assessment report and the underlying application to the coordinating Member State which shall take due account of those comments and proposals in its finalisation of the final assessment report, to be transmitted within 45 days of the validation date to the sponsor and the other Member States concerned.\nThe final assessment report shall be taken into account by all Member States concerned when deciding on the sponsor's application in accordance with Article 66(7).\n5. As regards the assessment of the documentation referred to in the second subparagraph of paragraph 3, each Member State concerned may request, on a single occasion, additional information from the sponsor. The sponsor shall submit the requested additional information within the period set by the Member State concerned, which shall not exceed 12 days from the receipt of the request. The expiry of the last deadline pursuant to point (d) of paragraph 4 shall be suspended from the date of the request until such time as the additional information has been received.\n6. For class C and D devices, the coordinating Member State may also extend the periods referred to in paragraph 4 by a further 50 days, for the purpose of consulting with experts.\n7. The Commission may, by means of implementing acts, further specify the procedures and timescales for coordinated assessments to be taken into account by Member States concerned when deciding on the sponsor's application. Such implementing acts may also set out the procedures and timescales for coordinated assessment in the case of substantial modifications pursuant to paragraph 12 of this Article and in the case of reporting of adverse events pursuant to Article 76(4) and in the case of performance studies involving companion diagnostics, where the medicinal products are under a concurrent coordinated assessment of a clinical trial under Regulation (EU) No 536/2014. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).\n8. Where the conclusion of the coordinating Member State concerning the area of coordinated assessment is that the conduct of the performance study is acceptable or acceptable subject to compliance with specific conditions, that conclusion shall be deemed to be the conclusion of all Member State(s) concerned.\nNotwithstanding the first subparagraph, a Member State concerned may only disagree with the conclusion of the coordinating Member State concerning the area of coordinated assessment on the following grounds:\n(a) when it considers that participation in the performance study would lead to a subject receiving treatment inferior to that received in normal clinical practice in that Member State concerned;\n(b) infringement of national law; or\n(c) considerations as regards subject safety and data reliability and robustness submitted under point (d) of paragraph 4.\nWhere one of the Member States concerned disagrees with the conclusion on the basis of the second subparagraph of this paragraph, it shall communicate its disagreement, together with a detailed justification, through the electronic system referred to in Article 69 to the Commission, to all other Member States concerned, and to the sponsor.\n9. Where the conclusion of the coordinating Member State concerning the area of coordinated assessment is that the performance study is not acceptable, that conclusion shall be deemed to be the conclusion of all Member States concerned.\n10. A Member State concerned shall refuse to authorise a performance study if it disagrees with the conclusion of the coordinating Member State as regards any of the grounds referred to in the second subparagraph of paragraph 8, or if it finds, on duly justified grounds, that the aspects addressed in Sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV are not complied with, or where an ethics committee has issued a negative opinion in relation to that performance study which is valid in accordance with national law for that entire Member State. That Member State shall provide for an appeal procedure in respect of such refusal.\n11. Each Member State concerned shall notify the sponsor through the electronic system referred to in Article 69 as to whether the performance study is authorised, whether it is authorised subject to conditions, or whether authorisation has been refused. Notification shall be done by way of one single decision within five days of the transmission, pursuant to point (d) of paragraph 4 of this Article, by the coordinating Member State of the final assessment report. Where an authorisation of a performance study is subject to conditions, those conditions may only be such that, by their nature, they cannot be fulfilled at the time of that authorisation.\n12. Any substantial modifications as referred to in Article 71 shall be notified to the Member States concerned by means of the electronic system referred to in Article 69. Any assessment as to whether there are grounds for disagreement as referred to in the second subparagraph of paragraph 8 of this Article shall be carried out under the direction of the coordinating Member State, except for substantial modifications concerning sections 1.13, 4.2, 4.3 and 4.4 of Chapter I of Annex XIV and point (c) of Section 2.3.2 of Part A of Annex XIII, which shall be assessed separately by each Member State concerned.\n13. The Commission shall provide administrative support to the coordinating Member State in the accomplishment of its tasks under this Chapter.\n14. All Member States shall be required to apply the procedure set out in this Article from the date corresponding to 5 years from the date of publication of the notice referred to in Article 34(3) of Regulation (EU) 2017/745, informing that the electronic system referred to in Article 30(2), point (e), of this Regulation is functional and meets the functional specifications drawn up pursuant to Article 34(1) of Regulation (EU) 2017/745.\nBefore the date set out in the first subparagraph of this paragraph and at the earliest 6 months from the date of publication of the notice referred to in that subparagraph, the procedure set out in this Article shall be applied only by those Member States in which the performance study is to be conducted which have agreed to apply it.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 74 PA 14 ALN 1",
+          "AR 74 PA 14 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2029-05-25",
+          "2029-05-26"
+        ],
+        "dates_added": [],
+        "in_force": "2024-07-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1860 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 14 no longer sets the mandatory application of the coordinated assessment procedure by reference to the fixed date of 26 May 2029, and instead ties mandatory application by all Member States to a date calculated as 5 years from the publication of the notice referred to in Article 34(3) of Regulation (EU) 2017/745 confirming that the electronic system under Article 30(2), point (e), is functional.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_74",
+              "label": "Art. 74, 02017R0746-20240709"
+            }
+          ]
+        },
+        {
+          "text": "The earlier fixed cut-off of 25 May 2029, before which the procedure applied only to Member States that had agreed to use it, is replaced with a period defined as before that new calculated date and at the earliest six months from the publication of the same notice.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_74",
+              "label": "Art. 74, 02017R0746-20230320"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_74",
+              "label": "Art. 74, 02017R0746-20240709"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20240709",
+          "location": "AR 110"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 110\nTransitional provisions\n1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.\n2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2025.\nCertificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 shall become void by 27 May 2025.\n3. By way of derogation from Article 5 of this Regulation, the devices referred to in the second and third subparagraphs of this paragraph may be placed on the market or put into service until the dates set out in those subparagraphs, provided that, from the date of application of this Regulation, those devices continue to comply with Directive 98/79/EC, and provided that there are no significant changes in the design and intended purpose of those devices.\nDevices with a certificate that was issued in accordance with Directive 98/79/EC and which is valid by virtue of paragraph 2 of this Article may be placed on the market or put into service until 26 May 2025.\nDevices for which the conformity assessment procedure pursuant to Directive 98/79/EC did not require the involvement of a notified body, for which a declaration of conformity was drawn up prior to 26 May 2022 in accordance with that Directive, and for which the conformity assessment procedure pursuant to this Regulation requires the involvement of a notified body, may be placed on the market or put into service until the following dates:\n(a) 26 May 2025, for class D devices;\n(b) 26 May 2026, for class C devices;\n(c) 26 May 2027, for class B devices;\n(d) 26 May 2027, for class A devices placed on the market in sterile condition.\nBy way of derogation from the first subparagraph of this paragraph, the requirements of this Regulation relating to post-market surveillance, market surveillance, vigilance, registration of economic operators and of devices shall apply to devices referred to in the second and third subparagraphs of this paragraph, instead of the corresponding requirements in Directive 98/79/EC.\nWithout prejudice to Chapter IV and paragraph 1 of this Article, the notified body that issued the certificate referred to in the second subparagraph of this paragraph shall continue to be responsible for the appropriate surveillance in respect of all applicable requirements relating to the devices it has certified.\n4. Devices lawfully placed on the market pursuant to Directive 98/79/EC prior to 26 May 2022, and devices lawfully placed on the market from 26 May 2022 pursuant to paragraph 3 of this Article may continue to be made available on the market or put into service.\n5. By way of derogation from Directive 98/79/EC, devices which comply with this Regulation may be placed on the market before 26 May 2022.\n6. By way of derogation from Directive 98/79/EC, conformity assessment bodies which comply with this Regulation may be designated and notified prior to 26 May 2022. Notified bodies which are designated and notified in accordance with this Regulation may carry out the conformity assessment procedures laid down in this Regulation and issue certificates in accordance with this Regulation prior to 26 May 2022.\n7. As regards devices subject to the procedures laid down in Article 48(3) and (4), paragraph 5 of this Article applies provided that the necessary appointments to the MDCG and expert panels and of EU reference laboratories have been made.\n8. By way of derogation from Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, manufacturers, authorised representatives, importers and notified bodies which, during the period starting on the later of the dates referred to in point (f) of Article 113(3) and ending 18 months later, comply with Articles 26(3), 28(1) and 51(5) of this Regulation shall be considered to comply with the laws and regulations adopted by Member States in accordance with Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC as specified in Decision 2010/227/EU.\n9. Authorisations granted by the competent authorities of the Member States in accordance with Article 9(12) of Directive 98/79/EC shall keep the validity indicated in the authorisation.\n10. Until the Commission has designated, pursuant to Article 24(2), issuing entities, GS1, HIBCC and ICCBBA shall be considered to be designated issuing entities.",
+        "after": "Article 110\nTransitional provisions\n1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.\n2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2025.\nCertificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 that were still valid on 26 May 2022 and that have not been withdrawn thereafter shall continue to remain valid after the end of the period indicated on the certificate until 31 December 2027. Certificates issued by notified bodies in accordance with that Directive from 25 May 2017 that were still valid on 26 May 2022 and that have expired before 9 July 2024 shall be considered to be valid until 31 December 2027 only if one of the following conditions is fulfilled:\n(a) before the date of expiry of the certificate, the manufacturer and a notified body have signed a written agreement in accordance with Section 4.3, second subparagraph, of Annex VII to this Regulation for the conformity assessment in respect of the device covered by the expired certificate or in respect of a device intended to substitute that device;\n(b) a competent authority of a Member State has granted a derogation from the applicable conformity assessment procedure in accordance with Article 54(1) of this Regulation or has required the manufacturer, in accordance with Article 92(1) of this Regulation, to carry out the applicable conformity assessment procedure.\n3. By way of derogation from Article 5 and provided the conditions set out in paragraph 3c of this Article are met, devices referred to in paragraphs 3a and 3b of this Article may be placed on the market or put into service until the dates set out in those paragraphs.\n3a. Devices which have a certificate that was issued in accordance with Directive 98/79/EC and that is valid by virtue of paragraph 2 of this Article may be placed on the market or put into service until 31 December 2027.\n3b. Devices for which the conformity assessment procedure pursuant to Directive 98/79/EC did not require the involvement of a notified body, for which a declaration of conformity was drawn up prior to 26 May 2022 in accordance with that Directive, and for which the conformity assessment procedure pursuant to this Regulation requires the involvement of a notified body, may be placed on the market or put into service until the following dates:\n(a) 31 December 2027, for class D devices;\n(b) 31 December 2028, for class C devices;\n(c) 31 December 2029, for class B devices and for class A devices placed on the market in sterile condition.\n3c. Devices referred to in paragraphs 3a and 3b of this Article may be placed on the market or put into service until the dates referred to in those paragraphs only if the following conditions are met:\n(a) those devices continue to comply with Directive 98/79/EC;\n(b) there are no significant changes in the design and intended purpose;\n(c) the devices do not present an unacceptable risk to the health or safety of patients, users or other persons, or to other aspects of the protection of public health;\n(d) no later than 26 May 2025, the manufacturer has put in place a quality management system in accordance with Article 10(8);\n(e) the manufacturer or the authorised representative has lodged a formal application with a notified body in accordance with Section 4.3, first subparagraph, of Annex VII for conformity assessment in respect of a device referred to in paragraph 3a or 3b of this Article or in respect of a device intended to substitute that device, no later than:\n(i) 26 May 2025, for devices referred to in paragraph 3a and paragraph 3b, point (a), of this Article;\n(ii) 26 May 2026, for devices referred to in paragraph 3b, point (b), of this Article;\n(iii) 26 May 2027, for devices referred to in paragraph 3b, point (c), of this Article;\n(f) the notified body and the manufacturer have signed a written agreement in accordance with Section 4.3, second subparagraph, of Annex VII no later than:\n(i) 26 September 2025, for devices referred to in paragraph 3a and paragraph 3b, point (a), of this Article;\n(ii) 26 September 2026, for devices referred to in paragraph 3b, point (b), of this Article;\n(iii) 26 September 2027, for devices referred to in paragraph 3b, point (c), of this Article.\n3d. By way of derogation from paragraph 3 of this Article, the requirements of this Regulation relating to post-market surveillance, market surveillance, vigilance, and to the registration of economic operators and of devices shall apply to devices referred to in paragraphs 3a and 3b of this Article, instead of the corresponding requirements in Directive 98/79/EC.\n3e. Without prejudice to Chapter IV and paragraph 1 of this Article, the notified body that issued the certificate referred to in paragraph 3a of this Article shall continue to be responsible for the appropriate surveillance in respect of the applicable requirements relating to the devices it has certified, unless the manufacturer has agreed with a notified body designated in accordance with Article 38 that the latter shall carry out such surveillance.\nNo later than 26 September 2025, the notified body that has signed the written agreement referred to in paragraph 3c, point (f), of this Article shall become responsible for the surveillance in respect of the devices covered by the written agreement. Where the written agreement covers a device intended to substitute a device which has a certificate that was issued in accordance with Directive 98/79/EC, the surveillance shall be conducted in respect of the device that is being substituted.\nThe arrangements for the transfer of the surveillance from the notified body that issued the certificate to the notified body designated in accordance with Article 38 shall be clearly defined in an agreement between the manufacturer and the notified body designated in accordance with Article 38 and, where practicable, the notified body that issued the certificate. The notified body designated in accordance with Article 38 shall not be responsible for conformity assessment activities carried out by the notified body that issued the certificate.\n4. Devices lawfully placed on the market pursuant to Directive 98/79/EC prior to 26 May 2022, and devices lawfully placed on the market from 26 May 2022 pursuant to paragraph 3 of this Article may continue to be made available on the market or put into service.\n5. By way of derogation from Directive 98/79/EC, devices which comply with this Regulation may be placed on the market before 26 May 2022.\n6. By way of derogation from Directive 98/79/EC, conformity assessment bodies which comply with this Regulation may be designated and notified prior to 26 May 2022. Notified bodies which are designated and notified in accordance with this Regulation may carry out the conformity assessment procedures laid down in this Regulation and issue certificates in accordance with this Regulation prior to 26 May 2022.\n7. As regards devices subject to the procedures laid down in Article 48(3) and (4), paragraph 5 of this Article applies provided that the necessary appointments to the MDCG and expert panels and of EU reference laboratories have been made.\n8. By way of derogation from Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, manufacturers, authorised representatives, importers and notified bodies which, during the period starting on the later of the dates referred to in point (f) of Article 113(3) and ending 18 months later, comply with Articles 26(3), 28(1) and 51(5) of this Regulation shall be considered to comply with the laws and regulations adopted by Member States in accordance with Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC as specified in Decision 2010/227/EU.\n9. Authorisations granted by the competent authorities of the Member States in accordance with Article 9(12) of Directive 98/79/EC shall keep the validity indicated in the authorisation.\n10. Until the Commission has designated, pursuant to Article 24(2), issuing entities, GS1, HIBCC and ICCBBA shall be considered to be designated issuing entities.\n11. Article 10a shall also apply to devices referred to in paragraphs 3a and 3b of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 110 PA 2 ALN 2",
+          "AR 110 PA 2 ALN 2 PTA (a)",
+          "AR 110 PA 2 ALN 2 PTA (b)",
+          "AR 110 PA 3 ALN 1",
+          "AR 110 PA 3 ALN 2",
+          "AR 110 PA 3 ALN 3",
+          "AR 110 PA 3 ALN 4",
+          "AR 110 PA 3 ALN 5",
+          "AR 110 PA 3a",
+          "AR 110 PA 3b",
+          "AR 110 PA 3c",
+          "AR 110 PA 3d",
+          "AR 110 PA 3e",
+          "AR 110 PA 11"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-07-09",
+          "2025-09-26",
+          "2026-09-26",
+          "2027-09-26",
+          "2027-12-31",
+          "2028-12-31",
+          "2029-12-31"
+        ],
+        "in_force": "2024-07-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1860 J; 32024R1860 DEL; 32024R1860 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (3) (a); AR 002 (3) (b); AR 002 (3) (c); AR 002 (3) (d); AR 002 (3) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2's second subparagraph now extends validity of certificates issued from 25 May 2017 that were still valid on 26 May 2022 and not withdrawn afterwards through 31 December 2027, and adds conditions for certificates that had already expired before 9 July 2024, requiring either a signed conformity-assessment agreement or a competent authority derogation or requirement under Articles 54(1) or 92(1), where the prior text simply set a 27 May 2025 void date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_110",
+              "label": "Art. 110, 02017R0746-20230320"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110",
+              "label": "Art. 110, 02017R0746-20240709"
+            }
+          ]
+        },
+        {
+          "text": "Former paragraph 3, which allowed continued placement on the market under conditions listed directly within it and used dates in 2025-2027, has been split into new paragraphs 3, 3a, 3b, 3c, 3d and 3e, moving the device categories, the conditions, and the surveillance-responsibility text into separate numbered paragraphs and changing the applicable dates to 31 December 2027, 2028 and 2029 along with new intermediate deadlines in 2025, 2026 and 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_110",
+              "label": "Art. 110, 02017R0746-20230320"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110",
+              "label": "Art. 110, 02017R0746-20240709"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 11 has been added stating that Article 10a also applies to the devices referred to in paragraphs 3a and 3b.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_110",
+              "label": "Art. 110, 02017R0746-20240709"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20240709",
+          "location": "AR 112"
+        },
+        "heading": "Repeal",
+        "before": "Article 112\nRepeal\nWithout prejudice to Articles 110 (3) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022 with the exception of:\n(a) Article 11, point (c) of Article 12(1) and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation; and\n(b) Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nAs regards the devices referred to in Article 110(3) and (4) of this Regulation, Directive 98/79/EC shall continue to apply to the extent necessary for the application of those paragraphs.\nDecision 2010/227/EU adopted in implementation of Directives 90/385/EEC, 93/42/EEC and 98/79/EC shall be repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nReferences to the repealed Directive shall be understood as references to this Regulation and shall be read in accordance with the correlation table laid down in Annex XV.",
+        "after": "Article 112\nRepeal\nWithout prejudice to Article 110(3) to (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and to the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022, with the exception of:\n(a) Article 11, Article 12(1), point (c), and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes to that Directive, which are repealed, as applicable, with effect from the date referred to in Article 113(3), point (f), of this Regulation in respect of the application of the obligations and requirements that relate to the electronic systems referred to in Article 30(2), points (e) and (f), respectively, of this Regulation;\n(b) Article 10, Article 12(1), points (a) and (b), and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes to that Directive, which are repealed, as applicable, with effect from the date referred to in Article 113(3), point (f), of this Regulation in respect of the application of the obligations and requirements that relate to the electronic systems referred to in Article 30(2), points (a) to (d), respectively, of this Regulation.\nAs regards the devices referred to in Article 110(3) to (4) of this Regulation, Directive 98/79/EC shall continue to apply to the extent necessary for the application of those paragraphs.\nDecision 2010/227/EU adopted in implementation of Directives 90/385/EEC, 93/42/EEC and 98/79/EC shall be repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nReferences to the repealed Directive shall be understood as references to this Regulation and shall be read in accordance with the correlation table laid down in Annex XV.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 112 ALN 1",
+          "AR 112 ALN 1 PTA (a)",
+          "AR 112 ALN 1 PTA (b)",
+          "AR 112 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-07-09",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1860 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (4) (a); AR 002 (4) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The cross-references to Article 110 have been changed from citing paragraphs (3) and (4) to citing paragraphs (3) to (4), and the repeal dates for the exceptions in points (a) and (b) are now tied to the date in Article 113(3)(f) alone, linked to the application of obligations and requirements relating to specific electronic systems referenced in Article 30(2), rather than to the later of the dates in Article 113(2) and 113(3)(f).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112",
+              "label": "Art. 112, 02017R0746-20240709"
+            }
+          ]
+        },
+        {
+          "text": "Point (a) now refers to Article 12(1), point (c) rather than point (c) of Article 12(1), and adds a reference to the corresponding Annexes to that Directive, while tying the repeal timing to the electronic systems in Article 30(2), points (e) and (f).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112",
+              "label": "Art. 112, 02017R0746-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_112",
+              "label": "Art. 112, 02017R0746-20230320"
+            }
+          ]
+        },
+        {
+          "text": "Point (b) similarly rephrases the reference to Article 12(1), points (a) and (b), adds the phrase concerning corresponding Annexes to that Directive, and ties its repeal timing to the electronic systems in Article 30(2), points (a) to (d), instead of the fixed 18-month period after the later of the two prior dates.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_112",
+              "label": "Art. 112, 02017R0746-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_112",
+              "label": "Art. 112, 02017R0746-20230320"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20240709",
+          "location": "AR 113"
+        },
+        "heading": "Entry into force and date of application",
+        "before": "Article 113\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 26 May 2022.\n3. By way of derogation from paragraph 2:\n(a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);\n(b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;\n(c) Article 97 shall apply from 26 May 2018;\n(d) Article 100 shall apply from 25 November 2020;\n(e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;\n(f) without prejudice to the obligations on the Commission pursuant to Article 34 of Regulation (EU) 2017/745, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1) of that Regulation, Eudamed is not fully functional on 26 May 2022, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3) of that Regulation. The provisions referred to in the preceding sentence are:\nArticle 26,\nArticle 28,\nArticle 29,\nthe second sentence of Article 36(2),\nArticle 38(10),\nArticle 39(2),\nthe second subparagraph of Article 40(12),\npoints (d) and (e) of Article 42(7),\nArticle 49(2),\nArticle 50(1),\nArticles 66 to 73,\nparagraphs 1 to 13 of Article 74,\nArticles 75 to 77,\nArticle 81(2),\nArticles 82 and 83,\nArticle 84(5) and (7) and the third subparagraph of Article 84(8),\nArticle 85,\nArticle 88(4), (7) and (8),\nArticle 90(2) and (4),\nthe last sentence of Article 92(2),\nArticle 94(4),\nthe second sentence of the first subparagraph of Article 110(3).\nUntil Eudamed is fully functional the corresponding provisions of Directive 98/79/EC shall continue to apply for the purpose of meeting the obligations laid down in the provisions listed in the first paragraph of this point regarding exchange of information including, and in particular, information regarding performance studies, vigilance reporting, registration of devices and economic operators, and certificate notifications.\n(g) the procedure set out in Article 74 shall apply from 26 May 2029 without prejudice to Article 74(14);\n(h) Article 110(10) shall apply from 26 May 2019;\n(i) Article 5(5), points (b) and (c) and (e) to (i), shall apply from 26 May 2024;\n(j) Article 5(5), point (d), shall apply from 26 May 2028.",
+        "after": "Article 113\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 26 May 2022.\n3. By way of derogation from paragraph 2:\n(a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);\n(b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;\n(c) Article 97 shall apply from 26 May 2018;\n(d) Article 100 shall apply from 25 November 2020;\n(e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;\n(f) without prejudice to the obligations of the Commission pursuant to Article 34 of Regulation (EU) 2017/745, the obligations and requirements that relate to any of the electronic systems referred to in Article 30(2) of this Regulation shall apply from the date corresponding to 6 months from the date of publication of the notice referred to in Article 34(3) of Regulation (EU) 2017/745, informing that the relevant electronic system is functional and meets the functional specifications drawn up pursuant to Article 34(1) of that Regulation. The provisions referred to in the preceding sentence are:\nArticle 26,\nArticle 28,\nArticle 29,\nthe second sentence of Article 36(2),\nArticle 38(10),\nArticle 39(2),\nthe second subparagraph of Article 40(12),\npoints (d) and (e) of Article 42(7),\nArticle 49(2),\nArticle 50(1),\nArticle 51(5),\nArticles 66 to 73,\nArticle 74(1) to (13), without prejudice to Article 74(14),\nArticles 75 to 77,\nArticle 81(2),\nArticles 82 and 83,\nArticle 84(5) and (7) and the third subparagraph of Article 84(8),\nArticle 85,\nArticle 88(4), (7) and (8),\nArticle 90(2) and (4),\nthe last sentence of Article 92(2),\nArticle 94(4),\nArticle 110(3d).\nUntil the date of application of the provisions referred to in the first subparagraph of this point, the corresponding provisions of Directive 98/79/EC regarding information on vigilance reporting, performance studies, registration of devices and economic operators, and certificate notifications shall continue to apply.\n(fa) no later than 6 months from the date set out in point (f), first subparagraph, of this paragraph, manufacturers shall ensure that the information to be entered in Eudamed in accordance with Article 26 is entered in the electronic system referred to in Article 30(2), points (a) and (b), including regarding the following devices, provided that those devices are also placed on the market from the date set out in point (f), first subparagraph, of this paragraph:\n(i) devices for which the manufacturer has undertaken a conformity assessment in accordance with Article 48;\n(ii) devices placed on the market pursuant to Article 110(3), (3a) or (3b), unless the device, for which the manufacturer has undertaken a conformity assessment in accordance with Article 48, is already registered in Eudamed;\n(fb) no later than 12 months from the date set out in point (f), first subparagraph, of this paragraph, notified bodies shall ensure that the information to be entered in Eudamed in accordance with Article 51(5) is entered in the electronic system referred to in Article 30(2), point (d), including regarding devices referred to in point (fa)(i) of this paragraph; for those devices, only the latest relevant certificate and, where applicable, any subsequent decision taken by the notified body related to such certificate shall be entered;\n(fc) by way of derogation from point (f), first subparagraph, of this paragraph, the obligations to upload the summary of safety and performance in accordance with Article 29(1) and to notify competent authorities in accordance with Article 50(1), through the electronic system referred in Article 30(2), point (d), shall apply to devices referred to in point (fa) of this paragraph when the certificate is entered in Eudamed in accordance with point (fb) of this paragraph;\n(fd) without prejudice to point (f), first subparagraph, of this paragraph, when a manufacturer is to submit a PSUR in accordance with Article 81(2) of this Regulation, to report a serious incident or a field safety corrective action in accordance with Article 82 of this Regulation, or to submit a trend report in accordance with Article 83 of this Regulation through the electronic system referred to in Article 30(2), point (f), of this Regulation, it shall also register the device, which is the subject of the PSUR or the vigilance reporting, in the electronic system referred to in Article 30(2), points (a) and (b), of this Regulation, except if such device was placed on the market in accordance with Directive 98/79/EC;\n(g) the procedure set out in Article 74 shall apply from 26 May 2029 without prejudice to Article 74(14);\n(h) Article 110(10) shall apply from 26 May 2019;\n(i) Article 5(5), points (b) and (c) and (e) to (i), shall apply from 26 May 2024;\n(j) Article 5(5), point (d), shall apply from 31 December 2030.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 113 PA 3 ALN 1 PTA (f)",
+          "AR 113 PA 3 ALN 1 PTA (fa)",
+          "AR 113 PA 3 ALN 1 PTA (fb)",
+          "AR 113 PA 3 ALN 1 PTA (fc)",
+          "AR 113 PA 3 ALN 1 PTA (fd)",
+          "AR 113 PA 3 ALN 1 PTA (j)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2028-05-26"
+        ],
+        "dates_added": [
+          "2030-12-31"
+        ],
+        "in_force": "2024-07-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1860 R; 32024R1860 J; 32024R1860 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (5) (a); AR 002 (5) (b) (i) (1); AR 002 (5) (b) (i) (2); AR 002 (5) (b) (i) (3); AR 002 (5) (b) (i) (4); AR 002 (5) (b) (ii); AR 002 (5) (c); AR 002 (5) (d); AR 002 (5) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (f) is reworded to tie the application of the listed provisions to when the electronic systems referred to in Article 30(2) become functional, removing the earlier wording that conditioned this on Eudamed not being fully functional by 26 May 2022 due to unforeseen circumstances, and it now also lists Article 51(5), Article 74(1) to (13) without prejudice to Article 74(14), and Article 110(3d) among the affected provisions, replacing the prior reference to Article 74(1) to (13) and the second sentence of the first subparagraph of Article 110(3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113",
+              "label": "Art. 113, 02017R0746-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_113",
+              "label": "Art. 113, 02017R0746-20230320"
+            }
+          ]
+        },
+        {
+          "text": "New points (fa), (fb), (fc) and (fd) are added, setting out obligations for manufacturers and notified bodies to enter information into the electronic system referred to in Article 30(2) within specified periods after the date set out in point (f), and imposing registration duties tied to PSUR submission and vigilance reporting under Articles 81(2), 82 and 83.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113",
+              "label": "Art. 113, 02017R0746-20240709"
+            }
+          ]
+        },
+        {
+          "text": "Point (j) changes the date from which Article 5(5), point (d), applies from 26 May 2028 to 31 December 2030.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20240709",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20240709#art_113",
+              "label": "Art. 113, 02017R0746-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230320",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230320#art_113",
+              "label": "Art. 113, 02017R0746-20230320"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0746",
+      "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+    },
+    "from_version": "02017R0746-20230320",
+    "to_version": "02017R0746-20240709",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 74",
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 74",
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": "24 annotations in (2023-03-20, 2024-07-09]",
+        "claims": [
+          {
+            "location": "AR 110 PA 3e",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1 TIRE",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (fd)",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (fa)",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (fb)",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (a)",
+            "change_type": "DELETED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (j) TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 8",
+            "change_type": "DELETED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3b",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 112 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 14",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 2 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (g)",
+            "change_type": "DELETED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 112 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3d",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1 TIRE 12",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3c",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 11",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1 TIRE",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (fc)",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-09",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 10a",
+          "AR 74",
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": "32024R1860, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 10a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 14",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 2 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3e",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 8",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 002 (3) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 11",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 112 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (4) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 112 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (4) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (a)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 002 (5) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (5) (b) (i) (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1 TIRE 10",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (5) (b) (i) (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (5) (b) (i) (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (5) (b) (i) (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (f) ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (5) (b) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (5) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (g)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 002 (5) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (j)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002 (5) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 4,
+        "right_units": 4,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 5,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.888888888888889,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 5,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.888888888888889,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 10a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 10a"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 5,
+    "explained": 4,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 28534,
+      "output_tokens": 2380,
+      "requests": 5,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 5,
+    "passed_first": 4,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 18,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
