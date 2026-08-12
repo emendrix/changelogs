@@ -1,0 +1,615 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1115",
+    "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+  },
+  "from_version": "32023R1115",
+  "to_version": "02023R1115-20241226",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2024-12-26"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 37,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1115",
+            "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+          },
+          "version": "02023R1115-20241226",
+          "location": "AR 29"
+        },
+        "heading": "Assessment of countries",
+        "before": "Article 29\nAssessment of countries\n1. This Regulation establishes a three-tier system for the assessment of countries or parts thereof. For that purpose, Member States and third countries, or parts thereof, shall be classified into one of the following risk categories:\n(a) high risk refers to countries or parts thereof, for which the assessment referred to in paragraph 3 results in the identification of a high risk of producing in such countries or in parts thereof, relevant commodities for which the relevant products do not comply with Article 3, point (a);\n(b) low risk refers to countries or parts thereof, for which the assessment referred to in paragraph 3 concludes that there is sufficient assurance that instances of producing in such countries or in parts thereof, relevant commodities for which the relevant products do not comply with Article 3, point (a), are exceptional;\n(c) standard risk refers to countries or parts thereof which do not fall in either the category high risk or the category low risk.\n2. On 29 June 2023, all countries shall be assigned a standard level of risk. The Commission shall classify countries or parts thereof, that present a low or high risk in accordance with paragraph 1. The list of the countries or parts thereof, that present a low or high risk shall be published by means of implementing acts to be adopted in accordance with the examination procedure referred to in Article 36(2), no later than 30 December 2024. That list shall be reviewed, and updated if appropriate, as often as necessary in light of new evidence.\n3. The classification of low-risk and high-risk countries or parts thereof, pursuant to paragraph 1 shall be based on an objective and transparent assessment by the Commission, taking into account the latest scientific evidence and internationally recognised sources. The classification shall be based primarily on the following assessment criteria:\n(a) rate of deforestation and forest degradation;\n(b) rate of expansion of agriculture land for relevant commodities;\n(c) production trends of relevant commodities and of relevant products.\n4. The assessment referred to in paragraph 3 may also take into account:\n(a) information submitted by the country concerned, regional authorities concerned, operators, NGOs and third parties, including indigenous peoples, local communities and civil society organisations, with regard to the effective covering of emissions and removals from agriculture, forestry and land use in the nationally determined contribution to the UNFCCC;\n(b) agreements and other instruments between the country concerned and the Union and/or its Member States that address deforestation and forest degradation and facilitate compliance of relevant commodities and relevant products with Article 3 and their effective implementation;\n(c) whether the country concerned has national or subnational laws in place, including in accordance with Article 5 of the Paris Agreement, and takes effective enforcement measures to tackle deforestation and forest degradation, and to avoid and penalise activities leading to deforestation and forest degradation and in particular whether it applies penalties of sufficient severity to deprive of the benefits accruing from deforestation or forest degradation;\n(d) whether the country concerned makes relevant data available transparently; and, if applicable, the existence, compliance with, or effective enforcement of laws protecting human rights, the rights of indigenous peoples, local communities and other customary tenure rights holders;\n(e) sanctions imposed by the UN Security Council or the Council of the European Union on imports or exports of the relevant commodities and relevant products.\n5. The Commission shall engage in a specific dialogue with all countries that are, or risk to be classified as, high risk, with the objective to reduce their level of risk.\n6. Without prejudice to paragraph 5, the Commission shall formally notify the country concerned of its intention to classify that country or a part thereof to a different risk category and invite it to provide any information deemed useful in that regard. The Commission shall also inform the competent authorities of such intention.\nThe Commission shall include the following information in the notification:\n(a) the reason or reasons for the intention to change the risk classification of the country or parts thereof;\n(b) the invitation to respond to the Commission in writing with regard to the intention to changing the risk classification of the country or parts thereof;\n(c) the consequences of its classification as a high or low risk country.\n7. The Commission shall allow the country concerned sufficient time to reply to the notification. Where the notification concerns an intention on the part of the Commission to classify the country or a part thereof to a higher risk, in its reply, the country concerned may provide the Commission with information on measures taken by it to remedy the situation.\n8. The Commission shall, without delay, notify the country concerned and the competent authorities of inclusion or removal of a country, or parts thereof, from the list referred to in paragraph 2.",
+        "after": "Article 29\nAssessment of countries\n1. This Regulation establishes a three-tier system for the assessment of countries or parts thereof. For that purpose, Member States and third countries, or parts thereof, shall be classified into one of the following risk categories:\n(a) high risk refers to countries or parts thereof, for which the assessment referred to in paragraph 3 results in the identification of a high risk of producing in such countries or in parts thereof, relevant commodities for which the relevant products do not comply with Article 3, point (a);\n(b) low risk refers to countries or parts thereof, for which the assessment referred to in paragraph 3 concludes that there is sufficient assurance that instances of producing in such countries or in parts thereof, relevant commodities for which the relevant products do not comply with Article 3, point (a), are exceptional;\n(c) standard risk refers to countries or parts thereof which do not fall in either the category high risk or the category low risk.\n2. On 29 June 2023, all countries shall be assigned a standard level of risk. The Commission shall classify countries or parts thereof, that present a low or high risk in accordance with paragraph 1 of this Article. The list of the countries or parts thereof, that present a low or high risk shall be published by means of implementing acts to be adopted in accordance with the examination procedure referred to in Article 36(2), no later than 30 June 2025. That list shall be reviewed, and updated if appropriate, as often as necessary in light of new evidence.\n3. The classification of low-risk and high-risk countries or parts thereof, pursuant to paragraph 1 shall be based on an objective and transparent assessment by the Commission, taking into account the latest scientific evidence and internationally recognised sources. The classification shall be based primarily on the following assessment criteria:\n(a) rate of deforestation and forest degradation;\n(b) rate of expansion of agriculture land for relevant commodities;\n(c) production trends of relevant commodities and of relevant products.\n4. The assessment referred to in paragraph 3 may also take into account:\n(a) information submitted by the country concerned, regional authorities concerned, operators, NGOs and third parties, including indigenous peoples, local communities and civil society organisations, with regard to the effective covering of emissions and removals from agriculture, forestry and land use in the nationally determined contribution to the UNFCCC;\n(b) agreements and other instruments between the country concerned and the Union and/or its Member States that address deforestation and forest degradation and facilitate compliance of relevant commodities and relevant products with Article 3 and their effective implementation;\n(c) whether the country concerned has national or subnational laws in place, including in accordance with Article 5 of the Paris Agreement, and takes effective enforcement measures to tackle deforestation and forest degradation, and to avoid and penalise activities leading to deforestation and forest degradation and in particular whether it applies penalties of sufficient severity to deprive of the benefits accruing from deforestation or forest degradation;\n(d) whether the country concerned makes relevant data available transparently; and, if applicable, the existence, compliance with, or effective enforcement of laws protecting human rights, the rights of indigenous peoples, local communities and other customary tenure rights holders;\n(e) sanctions imposed by the UN Security Council or the Council of the European Union on imports or exports of the relevant commodities and relevant products.\n5. The Commission shall engage in a specific dialogue with all countries that are, or risk to be classified as, high risk, with the objective to reduce their level of risk.\n6. Without prejudice to paragraph 5, the Commission shall formally notify the country concerned of its intention to classify that country or a part thereof to a different risk category and invite it to provide any information deemed useful in that regard. The Commission shall also inform the competent authorities of such intention.\nThe Commission shall include the following information in the notification:\n(a) the reason or reasons for the intention to change the risk classification of the country or parts thereof;\n(b) the invitation to respond to the Commission in writing with regard to the intention to changing the risk classification of the country or parts thereof;\n(c) the consequences of its classification as a high or low risk country.\n7. The Commission shall allow the country concerned sufficient time to reply to the notification. Where the notification concerns an intention on the part of the Commission to classify the country or a part thereof to a higher risk, in its reply, the country concerned may provide the Commission with information on measures taken by it to remedy the situation.\n8. The Commission shall, without delay, notify the country concerned and the competent authorities of inclusion or removal of a country, or parts thereof, from the list referred to in paragraph 2.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 29 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3234",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2024-12-30"
+        ],
+        "dates_added": [
+          "2025-06-30"
+        ],
+        "in_force": "2024-12-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R3234 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The deadline by which the Commission must publish the list of low- and high-risk countries or parts thereof through implementing acts is changed from 30 December 2024 to 30 June 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "32023R1115",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115#art_29",
+              "label": "Art. 29, 32023R1115"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_29",
+              "label": "Art. 29, 02023R1115-20241226"
+            }
+          ]
+        },
+        {
+          "text": "The reference to the classification criteria in paragraph 1 is clarified by adding the words 'of this Article' after the paragraph reference.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_29",
+              "label": "Art. 29, 02023R1115-20241226"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1115",
+            "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+          },
+          "version": "02023R1115-20241226",
+          "location": "AR 37"
+        },
+        "heading": "Repeal",
+        "before": "Article 37\nRepeal\n1. Regulation (EU) No 995/2010 is repealed with effect from 30 December 2024.\n2. However, Regulation (EU) No 995/2010 shall continue to apply until 31 December 2027 to timber and timber products as defined in Article 2, point (a), of Regulation (EU) No 995/2010 that were produced before 29 June 2023 and placed on the market from 30 December 2024.\n3. By way of derogation from Article 1(2) of this Regulation, the timber and timber products as defined in Article 2, point (a), of Regulation (EU) No 995/2010 that were produced before 29 June 2023 and placed on the market from 31 December 2027 shall comply with Article 3 of this Regulation.",
+        "after": "Article 37\nRepeal\n1. Regulation (EU) No 995/2010 is repealed with effect from 30 December 2025.\n2. However, Regulation (EU) No 995/2010 shall continue to apply until 31 December 2028 to timber and timber products as defined in Article 2, point (a), of Regulation (EU) No 995/2010 that were produced before 29 June 2023 and placed on the market from 30 December 2025.\n3. By way of derogation from Article 1(2) of this Regulation, the timber and timber products as defined in Article 2, point (a), of Regulation (EU) No 995/2010 that were produced before 29 June 2023 and placed on the market from 31 December 2028 shall comply with Article 3 of this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 37 PA 1 ALN 1",
+          "AR 37 PA 2 ALN 1",
+          "AR 37 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3234",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2024-12-30",
+          "2027-12-31"
+        ],
+        "dates_added": [
+          "2025-12-30",
+          "2028-12-31"
+        ],
+        "in_force": "2024-12-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "2 dates were added, so no single one can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R3234 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The repeal date for Regulation (EU) No 995/2010 was changed from 30 December 2024 to 30 December 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "32023R1115",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115#art_37",
+              "label": "Art. 37, 32023R1115"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_37",
+              "label": "Art. 37, 02023R1115-20241226"
+            }
+          ]
+        },
+        {
+          "text": "The date until which that Regulation continues to apply, and the date from which certain timber and timber products placed on the market must comply with Article 3, were each changed from 31 December 2027 to 31 December 2028, along with the corresponding market-placement date in paragraph 2 changing from 30 December 2024 to 30 December 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "32023R1115",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115#art_37",
+              "label": "Art. 37, 32023R1115"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_37",
+              "label": "Art. 37, 02023R1115-20241226"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1115",
+            "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+          },
+          "version": "02023R1115-20241226",
+          "location": "AR 38"
+        },
+        "heading": "Entry into force and date of application",
+        "before": "Article 38\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. Subject to paragraph 3 of this Article, Articles 3 to 13, Articles 16 to 24 and Articles 26, 31 and 32 shall apply from 30 December 2024.\n3. Except as regards the products covered in the Annex to Regulation (EU) No 995/2010, for operators that by 31 December 2020 were established as micro-undertakings or small undertakings pursuant to Article 3(1) or (2) of Directive 2013/34/EU, respectively, the Articles referred to in paragraph 2 of this Article shall apply from 30 June 2025.",
+        "after": "Article 38\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. Subject to paragraph 3 of this Article, Articles 3 to 13, Articles 16 to 24 and Articles 26, 31 and 32 shall apply from 30 December 2025.\n3. Except as regards the products covered in the Annex to Regulation (EU) No 995/2010, for operators that by 31 December 2020 were established as micro-undertakings or small undertakings pursuant to Article 3(1) or (2) of Directive 2013/34/EU, respectively, the Articles referred to in paragraph 2 of this Article shall apply from 30 June 2026.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 38 PA 2 ALN 1",
+          "AR 38 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3234",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2024-12-30",
+          "2025-06-30"
+        ],
+        "dates_added": [
+          "2025-12-30",
+          "2026-06-30"
+        ],
+        "in_force": "2024-12-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "2 dates were added, so no single one can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R3234 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date from which Articles 3 to 13, 16 to 24 and 26, 31 and 32 apply under paragraph 2 was changed from 30 December 2024 to 30 December 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "32023R1115",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115#art_38",
+              "label": "Art. 38, 32023R1115"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_38",
+              "label": "Art. 38, 02023R1115-20241226"
+            }
+          ]
+        },
+        {
+          "text": "The date from which those same articles apply for the micro- and small-undertaking operators described in paragraph 3 was changed from 30 June 2025 to 30 June 2026.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "32023R1115",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1115#art_38",
+              "label": "Art. 38, 32023R1115"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20241226",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_38",
+              "label": "Art. 38, 02023R1115-20241226"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1115",
+      "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+    },
+    "from_version": "32023R1115",
+    "to_version": "02023R1115-20241226",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 29",
+          "AR 37",
+          "AR 38"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 29",
+          "AR 37",
+          "AR 38"
+        ],
+        "note": "4 annotations in (the act itself, 2024-12-26]",
+        "claims": [
+          {
+            "location": "AR 38 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-26",
+            "source": "32024R3234 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 29 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-26",
+            "source": "32024R3234 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 38 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-26",
+            "source": "32024R3234 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 37",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-26",
+            "source": "32024R3234 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 29",
+          "AR 37",
+          "AR 38"
+        ],
+        "note": "32024R3234, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 29 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": "Regulation (EU) 2024/3234 of the European Parliament and of the Council of 19 December 2024 amending Regulation (EU) 2023/1115 as regards provisions relating to the date of application"
+            }
+          },
+          {
+            "location": "AR 37",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": "Regulation (EU) 2024/3234 of the European Parliament and of the Council of 19 December 2024 amending Regulation (EU) 2023/1115 as regards provisions relating to the date of application"
+            }
+          },
+          {
+            "location": "AR 38 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3234",
+              "display_name": "Regulation (EU) 2024/3234 of the European Parliament and of the Council of 19 December 2024 amending Regulation (EU) 2023/1115 as regards provisions relating to the date of application"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 3,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 11403,
+      "output_tokens": 721,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
