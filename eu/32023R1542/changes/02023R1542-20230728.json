@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1542",
+    "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+  },
+  "from_version": "32023R1542",
+  "to_version": "02023R1542-20230728",
+  "detected_on": "2026-08-12",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 109,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20230728",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter and scope",
+        "before": "Article 1\nSubject matter and scope\n1. This Regulation lays down requirements on sustainability, safety, labelling, marking and information to allow the placing on the market or putting into service of batteries within the Union. It also lays down minimum requirements for extended producer responsibility, the collection and treatment of waste batteries and for reporting.\n2. This Regulation imposes battery due diligence obligations on economic operators placing batteries on the market or putting them into service. It also lays down requirements for green public procurement when procuring batteries or products into which batteries are incorporated.\n3. This Regulation applies to all categories of batteries, namely portable batteries, starting, lighting and ignition batteries (SLI batteries), light means of transport batteries (LMT batteries), electric vehicle batteries and industrial batteries, regardless of their shape, volume, weight, design, material composition, chemistry, use or purpose. It shall also apply to batteries that are incorporated into or added to products or that are specifically designed to be incorporated into or added to products.\nFor the purposes of Chapter II, where batteries placed on the market can be considered to fall under more than one category, they shall be deemed to fall under the category to which the strictest requirements apply.\n4. In cases where battery cells or battery modules are made available on the market for end use, without any further incorporation or assembly into larger battery packs or batteries, they shall be considered to have been placed on the market as batteries for the purposes of this Regulation, and the requirements for the most similar battery category shall apply. In cases where it can be considered that such battery cells or battery modules fall under more than one battery category, they shall be deemed to fall under the category to which the strictest requirements apply.\n5. This Regulation does not apply to batteries that are incorporated into or that are specifically designed to be incorporated into:\n(a) equipment connected with the protection of Member States’ essential security interests, arms, munitions and war material, with the exclusion of products that are not intended for specifically military purposes; and\n(b) equipment designed to be sent into space.\n6. Chapters III and VIII of this Regulation do not apply to equipment specifically designed for the safety of nuclear installations, as defined in Article 3 of Council Directive 2009/71/EuratomCouncil Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 172, 2.7.2009, p. 18)..",
+        "after": "Article 1\nSubject matter and scope\n1. This Regulation lays down requirements on sustainability, safety, labelling, marking and information to allow the placing on the market or putting into service of batteries within the Union. It also lays down minimum requirements for extended producer responsibility, the collection and treatment of waste batteries and for reporting.\n2. This Regulation imposes battery due diligence obligations on economic operators placing batteries on the market or putting them into service. It also lays down requirements for green public procurement when procuring batteries or products into which batteries are incorporated.\n3. This Regulation applies to all categories of batteries, namely portable batteries, starting, lighting and ignition batteries (SLI batteries), light means of transport batteries (LMT batteries), electric vehicle batteries and industrial batteries, regardless of their shape, volume, weight, design, material composition, chemistry, use or purpose. It shall also apply to batteries that are incorporated into or added to products or that are specifically designed to be incorporated into or added to products.\nFor the purposes of Chapter II, where batteries placed on the market can be considered to fall under more than one category, they shall be deemed to fall under the category to which the strictest requirements apply.\n4. In cases where battery cells or battery modules are made available on the market for end use, without any further incorporation or assembly into larger battery packs or batteries, they shall be considered to have been placed on the market as batteries for the purposes of this Regulation, and the requirements for the most similar battery category shall apply. In cases where it can be considered that such battery cells or battery modules fall under more than one battery category, they shall be deemed to fall under the category to which the strictest requirements apply.\n5. This Regulation does not apply to batteries that are incorporated into or that are specifically designed to be incorporated into:\n(a) equipment connected with the protection of Member States’ essential security interests, arms, munitions and war material, with the exclusion of products that are not intended for specifically military purposes; and\n(b) equipment designed to be sent into space.\n6. Chapters III and IX of this Regulation do not apply to equipment specifically designed for the safety of nuclear installations, as defined in Article 3 of Council Directive 2009/71/EuratomCouncil Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 172, 2.7.2009, p. 18)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 6 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-07-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference to which chapters do not apply to equipment specifically designed for the safety of nuclear installations was changed from Chapters III and VIII to Chapters III and IX.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "32023R1542",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1542#art_1",
+              "label": "Art. 1, 32023R1542"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20230728",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20230728#art_1",
+              "label": "Art. 1, 02023R1542-20230728"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20230728",
+          "location": "AR 92"
+        },
+        "heading": "Amendment to Directive 2008/98/EC",
+        "before": "Article 92\nAmendment to Directive 2008/98/EC\nIn Article 8a(7) of Directive 2008/98/EC, the following subparagraph is added:For batteries, as defined in Article 2, point (1), of Regulation (EU) 2023/1542 of the European Parliament and of CouncilRegulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1).., Member States shall take measures to ensure that extended producer responsibility schemes that have been established before 4 July 2018, comply with this Article by 18 August 2025.",
+        "after": "Article 92\nAmendment to Directive 2008/98/EC\nIn Article 8a(7) of Directive 2008/98/EC, the following subparagraph is added:For batteries, as defined in Article 3(1), point (1), of Regulation (EU) 2023/1542 of the European Parliament and of the CouncilRegulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1).., Member States shall take measures to ensure that extended producer responsibility schemes that have been established before 4 July 2018, comply with this Article by 18 August 2025.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 92 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-07-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The cross-reference to the definition of 'batteries' was changed from Article 2, point (1), to Article 3(1), point (1), of Regulation (EU) 2023/1542.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "32023R1542",
+                "location": "AR 92"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1542#art_92",
+              "label": "Art. 92, 32023R1542"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20230728",
+                "location": "AR 92"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20230728#art_92",
+              "label": "Art. 92, 02023R1542-20230728"
+            }
+          ]
+        },
+        {
+          "text": "The wording naming the Regulation's co-legislators was also adjusted, from 'European Parliament and of Council' to 'European Parliament and of the Council'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20230728",
+                "location": "AR 92"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20230728#art_92",
+              "label": "Art. 92, 02023R1542-20230728"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1542",
+      "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+    },
+    "from_version": "32023R1542",
+    "to_version": "02023R1542-20230728",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 92"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2023-07-28]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 6920,
+      "output_tokens": 356,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
