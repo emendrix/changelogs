@@ -1,0 +1,6 @@
+emendrix output repository b7f4a1c2-9e3d
+
+This file marks the repository as one emendrix created and may commit into. Without it
+emendrix refuses to write here, which is the point: a path naming somebody else's
+repository would otherwise be indistinguishable from this one, and a mis-scoped commit
+is the one mistake this tool must not be able to make.
