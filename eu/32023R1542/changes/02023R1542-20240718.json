@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1542",
+    "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+  },
+  "from_version": "02023R1542-20230728",
+  "to_version": "02023R1542-20240718",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2024-07-18"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 110,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20240718",
+          "location": "AR 77"
+        },
+        "heading": "Battery passport",
+        "before": "Article 77\nBattery passport\n1. From 18 February 2027 each LMT battery, each industrial battery with a capacity greater than 2 kWh and each electric vehicle battery placed on the market or put into service shall have an electronic record (battery passport).\n2. The battery passport shall contain information relating to the battery model and information specific to the individual battery, including resulting from the use of that battery, as set out in Annex XIII.\nThe information in the battery passport shall comprise:\n(a) information accessible to the general public in accordance with point 1 of Annex XIII;\n(b) information accessible only to notified bodies, market surveillance authorities and the Commission in accordance with points 2 and 3 of Annex XIII; and\n(c) information accessible only to any natural or legal person with a legitimate interest in accessing and processing that information for the purposes referred to in points (a) and (b) of the third subparagraph in accordance with points 2 and 4 of Annex XIII.\nThe purposes for accessing and processing the information as referred to in point (c) of the second subparagraph, shall:\n(a) concern dismantling of the battery, including safety measures to be taken during the dismantling, and the detailed composition of the battery model and be essential to allow repairers, remanufacturers, second-life operators and recyclers to conduct their respective economic activities in accordance with this Regulation; or\n(b) in the case of individual batteries, be essential to the purchaser of the battery or parties acting on the purchaser’s behalf, for the purpose of making the individual battery available to independent energy aggregators or energy market participants.\nThe information referred to in the second subparagraph shall be included in the battery passport to the extent applicable to the category or sub-category of battery concerned.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend Annex XIII as regards the information to be included in the battery passport in view of technical and scientific progress.\n3. The battery passport shall be accessible through the QR code referred to in Article 13(6) which links to a unique identifier that the economic operator placing the battery on the market shall attribute to it.\nThe QR code and the unique identifier shall comply with the ISO/IEC standards 15459-1:2014, 15459-2:2015, 15459-3:2014, 15459-4:2014, 15459-5:2014 and 15459-6:2014 or their equivalent.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the second subparagraph of this paragraph in light of technical and scientific progress by replacing the standards referred to in that subparagraph or adding other European or international standards with which the QR code and the unique identifier shall comply.\n4. The economic operator placing the battery on the market shall ensure that the information in the battery passport is accurate, complete and up to date. It may give written authorisation to any other operator to act on its behalf.\n5. All information included in the battery passport shall be based on open standards and be in an interoperable format, transferable through an open interoperable data exchange network without vendor lock-in, machine-readable, structured and searchable, in accordance with the essential requirements laid down in Article 78.\n6. The access to information included in the battery passport shall be regulated in accordance with the essential requirements laid down in Article 78.\n7. For a battery that has been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred to the economic operator that has placed that battery on the market or has put it into service. Such battery shall have a new battery passport linked to the battery passport or passports of the original battery or batteries.\nWhere the status of a battery changes to that of a waste battery, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred either to the producer or, where appointed in accordance with Article 57(1), the producer responsibility organisation, or the waste management operator selected in accordance with Article 57(8).\n8. A battery passport shall cease to exist after the battery has been recycled.\n9. By 18 August 2026, the Commission shall adopt implementing acts specifying which persons are to be considered persons with a legitimate interest as referred to in points 2 and 4 respectively of Annex XIII for the purposes of paragraph 2, point (c), of this Article and to which information listed in those points they shall have access, and to what extent they can download, share, publish and re-use that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).\nThe criteria for specifying the persons referred to in paragraph 2, point (c), and for determining the extent to which they can download, share, publish and re-use the information referred to in points 2 and 4 of Annex XIII shall be the following:\n(a) the necessity of having such information in order to evaluate the status and residual value of the battery and its capability for further use;\n(b) the necessity of having such information for the purpose of preparation for re-use, preparation for repurposing, repurposing, remanufacturing or recycling of the battery, or for choosing between those operations;\n(c) the need to ensure that the accessing and processing of information in the battery passport that is commercially sensitive is limited to the minimum necessary in accordance with applicable Union law.",
+        "after": "Article 77\nBattery passport\n1. From 18 February 2027 each LMT battery, each industrial battery with a capacity greater than 2 kWh and each electric vehicle battery placed on the market or put into service shall have an electronic record (battery passport).\n2. The battery passport shall contain information relating to the battery model and information specific to the individual battery, including resulting from the use of that battery, as set out in Annex XIII.\nThe information in the battery passport shall comprise:\n(a) information accessible to the general public in accordance with point 1 of Annex XIII;\n(b) information accessible only to notified bodies, market surveillance authorities and the Commission in accordance with points 2 and 3 of Annex XIII; and\n(c) information accessible only to any natural or legal person with a legitimate interest in accessing and processing that information for the purposes referred to in points (a) and (b) of the third subparagraph in accordance with points 2 and 4 of Annex XIII.\nThe purposes for accessing and processing the information as referred to in point (c) of the second subparagraph, shall:\n(a) concern dismantling of the battery, including safety measures to be taken during the dismantling, and the detailed composition of the battery model and be essential to allow repairers, remanufacturers, second-life operators and recyclers to conduct their respective economic activities in accordance with this Regulation; or\n(b) in the case of individual batteries, be essential to the purchaser of the battery or parties acting on the purchaser’s behalf, for the purpose of making the individual battery available to independent energy aggregators or energy market participants.\nThe information referred to in the second subparagraph shall be included in the battery passport to the extent applicable to the category or sub-category of battery concerned.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend Annex XIII as regards the information to be included in the battery passport in view of technical and scientific progress.\n3. The battery passport shall be accessible through the QR code referred to in Article 13(6) which links to a unique identifier that the economic operator placing the battery on the market shall attribute to it.\nThe QR code and the unique identifier shall comply with the ISO/IEC standards 15459-1:2014, 15459-2:2015, 15459-3:2014, 15459-4:2014, 15459-5:2014 and 15459-6:2014 or their equivalent.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the second subparagraph of this paragraph in light of technical and scientific progress by replacing the standards referred to in that subparagraph or adding other European or international standards with which the QR code and the unique identifier shall comply.\n4. The economic operator placing the battery on the market shall ensure that the information in the battery passport is accurate, complete and up to date. It may give written authorisation to any other operator to act on its behalf.\n5. All information included in the battery passport shall be based on open standards and be in an interoperable format, transferable through an open interoperable data exchange network without vendor lock-in, machine-readable, structured and searchable, in accordance with the essential requirements laid down in Article 78.\n6. The access to information included in the battery passport shall be regulated in accordance with the essential requirements laid down in Article 78.\n7. For a battery that has been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred to the economic operator that has placed that battery on the market or has put it into service. Such battery shall have a new battery passport linked to the battery passport or passports of the original battery or batteries.\nWhere the status of a battery changes to that of a waste battery, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred either to the producer or, where appointed in accordance with Article 57(1), the producer responsibility organisation, or the waste management operator selected in accordance with Article 57(8).\n8. A battery passport shall cease to exist after the battery has been recycled.\n9. By 18 August 2026, the Commission shall adopt implementing acts specifying which persons are to be considered persons with a legitimate interest as referred to in points 2 and 4 respectively of Annex XIII for the purposes of paragraph 2, point (c), of this Article and to which information listed in those points they shall have access, and to what extent they can download, share, publish and re-use that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).\nThe criteria for specifying the persons referred to in paragraph 2, point (c), and for determining the extent to which they can download, share, publish and re-use the information referred to in points 2 and 4 of Annex XIII shall be the following:\n(a) the necessity of having such information in order to evaluate the status and residual value of the battery and its capability for further use;\n(b) the necessity of having such information for the purpose of preparation for re-use, preparation for repurposing, repurposing, remanufacturing or recycling of the battery, or for choosing between those operations;\n(c) the need to ensure that the accessing and processing of information in the battery passport that is commercially sensitive is limited to the minimum necessary in accordance with applicable Union law.\n10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the CouncilRegulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 77 PA 10"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-06-13"
+        ],
+        "in_force": "2024-07-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1781 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R1781, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 10 has been added requiring the economic operator that places the battery on the market or puts it into service to upload the unique identifier into the registry referred to in Article 13(1) of Regulation (EU) 2024/1781.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20240718",
+                "location": "AR 77"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_77",
+              "label": "Art. 77, 02023R1542-20240718"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph was absent from the earlier version of Article 77, which ended at paragraph 9 with the criteria for legitimate-interest access.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20230728",
+                "location": "AR 77"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20230728#art_77",
+              "label": "Art. 77, 02023R1542-20230728"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20240718",
+          "location": "AR 78"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2023-07-28, 2024-07-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 078",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1542",
+      "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+    },
+    "from_version": "02023R1542-20230728",
+    "to_version": "02023R1542-20240718",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 77"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 77"
+        ],
+        "note": "1 annotations in (2023-07-28, 2024-07-18]",
+        "claims": [
+          {
+            "location": "AR 77 PA 10",
+            "change_type": "INSERTED",
+            "in_force": "2024-07-18",
+            "source": "32024R1781 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1781",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 78"
+        ],
+        "note": "32024R1781, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 78",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 078",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1781",
+              "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 77",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 78",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 78"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 6161,
+      "output_tokens": 219,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
