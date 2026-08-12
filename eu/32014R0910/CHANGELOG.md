@@ -10,6 +10,103 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0910-20241018 -->
+## Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification […]
+### `02014R0910-20240520` → `02014R0910-20241018`
+
+- **Act** `eu:32014R0910` · **In force** 2024-10-18 · **Detected** 2026-08-12
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 2 modified · 2 deleted · 0 renumbered · 0 deferred · 90 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02014R0910-20240520` · `v2` = `02014R0910-20241018`
+
+---
+
+**MODIFIED · Art. 5a — European Digital Identity Wallets** · applies from: unchanged
+
+*within* `AR 5a PA 16 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In paragraph 16(b), the term describing the privacy-preserving property that must be ensured is spelled differently between the two versions, changing from 'unlikeability' to 'unlinkability'. [Art. 5a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a) [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_5a)
+
+*before* (`02014R0910-20240520`)
+
+> Article 5a
+> European Digital Identity Wallets
+> 1. For the purpose of ensuring that all natural and legal persons in the Union have secure, trusted and seamless cross-border access to public and private services, while having full control over their data, each Member State shall provide at least one European Digital Identity Wallet within 24 months of the date of entry into force of the implementing acts referred to in paragraph 23 of this Article and in Article 5c(6).
+> 2. European Digital Identity Wallets shall be provided in one or more of the following ways:
+> (a) directly by a Member State;
+> (b) under a mandate from a Member State;
+> (c) independently of a Member State but recognised by that Member State.
+> 3. The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
+> 4. European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
+> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12073 characters omitted…]
+
+*after* (`02014R0910-20241018`)
+
+> Article 5a
+> European Digital Identity Wallets
+> 1. For the purpose of ensuring that all natural and legal persons in the Union have secure, trusted and seamless cross-border access to public and private services, while having full control over their data, each Member State shall provide at least one European Digital Identity Wallet within 24 months of the date of entry into force of the implementing acts referred to in paragraph 23 of this Article and in Article 5c(6).
+> 2. European Digital Identity Wallets shall be provided in one or more of the following ways:
+> (a) directly by a Member State;
+> (b) under a mandate from a Member State;
+> (c) independently of a Member State but recognised by that Member State.
+> 3. The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
+> 4. European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
+> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12073 characters omitted…]
+
+**DELETED · Art. 19** · applies from: unknown
+
+*amended by* `32022L2555`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 42** · applies from: unknown
+
+*amended by* `32022L2555`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47 — Exercise of the delegation** · applies from: unchanged
+
+*within* `AR 47 PA 2 ALN 1`, `AR 47 PA 3 ALN 1`, `AR 47 PA 5 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In paragraphs 2, 3, and 5, the cross-reference to Article 5c(7) is replaced with a cross-reference to Article 5c(8), while the references to Article 24(4b) and Article 30(4) remain unchanged. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
+
+No other wording in these paragraphs, or in paragraphs 1 and 4, differs between the two versions. [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_47) [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
+
+*before* (`02014R0910-20240520`)
+
+> Article 47
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 5c(7), Article 24(4b) and Article 30(4) shall be conferred on the Commission for an indeterminate period of time from 17 September 2014.
+> 3. The delegation of power referred to in Article 5c(7), Article 24(4b) and Article 30(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 5c(7), Article 24(4b) or Article 30(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Par […truncated by emendrix: 26 characters omitted…]
+
+*after* (`02014R0910-20241018`)
+
+> Article 47
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 5c(8), Article 24(4b) and Article 30(4) shall be conferred on the Commission for an indeterminate period of time from 17 September 2014.
+> 3. The delegation of power referred to in Article 5c(8), Article 24(4b) and Article 30(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 5c(8), Article 24(4b) or Article 30(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Par […truncated by emendrix: 26 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0910-20241018 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0910-20240520 -->
 ## Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification […]
 ### `32014R0910` → `02014R0910-20240520`
