@@ -1,0 +1,385 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0746",
+    "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+  },
+  "from_version": "02017R0746-20220128",
+  "to_version": "02017R0746-20230311",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2023-03-11"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 127,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20230311",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R0503",
+            "display_name": "Commission Delegated Regulation (EU) 2023/503 of 1 December 2022 amending Regulation (EU) 2017/746 of the European Parliament and of the Council as regards the frequency of complete re-assessments of notified bodies (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2022-01-28, 2023-03-11]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20230311",
+          "location": "AR 40"
+        },
+        "heading": "Monitoring and re-assessment of notified bodies",
+        "before": "Article 40\nMonitoring and re-assessment of notified bodies\n1. Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability to conduct the conformity assessment activities relating to the devices for which they have been designated.\n2. The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its obligations set out in this Regulation. Notified bodies shall, upon request by their authority responsible for notified bodies, supply all relevant information and documents, required to enable the authority, the Commission and other Member States to verify compliance.\n3. Where the Commission or the authority of a Member State submits a request to a notified body established on the territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send a copy of that request to the authority responsible for notified bodies of that other Member State. The notified body concerned shall respond without delay and within 15 days at the latest to the request. The authority responsible for notified bodies of the Member State in which the body is established shall ensure that requests submitted by authorities of any other Member State or by the Commission are resolved by the notified body unless there is a legitimate reason for not doing so in which case the matter may be referred to the MDCG.\n4. At least once a year, the authorities responsible for notified bodies shall re-assess whether the notified bodies established on their respective territory and, where appropriate, the subsidiaries and subcontractors under the responsibility of those notified bodies still satisfy the requirements and fulfil their obligations set out in Annex VII. That review shall include an on-site audit of each notified body and, where necessary, of its subsidiaries and subcontractors.\nThe authority responsible for notified bodies shall conduct its monitoring and assessment activities according to an annual assessment plan to ensure that it can effectively monitor the continued compliance of the notified body with the requirements of this Regulation. That plan shall provide a reasoned schedule for the frequency of assessment of the notified body and, in particular, associated subsidiaries and subcontractors. The authority shall submit its annual plan for monitoring or assessment for each notified body for which it is responsible to the MDCG and to the Commission.\n5. The monitoring of notified bodies by the authority responsible for notified bodies shall include observed audits of notified body personnel, including where necessary any personnel from subsidiaries and subcontractors, as that personnel in the process of conducting quality management system assessments at a manufacturer's facility.\n6. The monitoring of notified bodies conducted by the authority responsible for notified bodies shall consider data arising from market surveillance, vigilance and post-market surveillance to help guide its activities.\nThe authority responsible for notified bodies shall provide for a systematic follow-up of complaints and other information, including from other Member States, which may indicate non-fulfilment of the obligations by a notified body or its deviation from common or best practice.\n7. The authority responsible for notified bodies may in addition to regular monitoring or on-site assessments conduct short-notice, unannounced or for-cause reviews if needed to address a particular issue or to verify compliance.\n8. The authority responsible for notified bodies shall review the assessments by notified bodies of manufacturers' technical documentation, in particular the performance evaluation documentation as further outlined in Article 41.\n9. The authority responsible for notified bodies shall document and record any findings regarding non-compliance of the notified body with the requirements set out in Annex VII and shall monitor the timely implementation of corrective and preventive actions.\n10. Three years after notification of a notified body, and again every fourth year thereafter, a complete re-assessment to determine whether the notified body still satisfies the requirements set out in Annex VII shall be conducted by the authority responsible for notified bodies of the Member State in which the body is established and by a joint assessment team appointed for the purpose of the procedure described in Articles 34 and 35.\n11. The Commission is empowered to adopt delegated acts in accordance with Article 108 in order to amend paragraph 10 of this Article to modify the frequency at which the complete re-assessment referred to in that paragraph is to be carried out.\n12. The Member States shall report to the Commission and to the MDCG, at least once a year, on their monitoring and on-site assessment activities regarding notified bodies and, where applicable, subsidiaries and subcontractors. The report shall provide details of the outcome of those activities, including activities pursuant to paragraph 7, and shall be treated as confidential by the MDCG and the Commission; however, it shall contain a summary which shall be made publicly available.\nThe summary of the report shall be uploaded to the electronic system referred to in Article 52.",
+        "after": "Article 40\nMonitoring and re-assessment of notified bodies\n1. Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability to conduct the conformity assessment activities relating to the devices for which they have been designated.\n2. The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its obligations set out in this Regulation. Notified bodies shall, upon request by their authority responsible for notified bodies, supply all relevant information and documents, required to enable the authority, the Commission and other Member States to verify compliance.\n3. Where the Commission or the authority of a Member State submits a request to a notified body established on the territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send a copy of that request to the authority responsible for notified bodies of that other Member State. The notified body concerned shall respond without delay and within 15 days at the latest to the request. The authority responsible for notified bodies of the Member State in which the body is established shall ensure that requests submitted by authorities of any other Member State or by the Commission are resolved by the notified body unless there is a legitimate reason for not doing so in which case the matter may be referred to the MDCG.\n4. At least once a year, the authorities responsible for notified bodies shall re-assess whether the notified bodies established on their respective territory and, where appropriate, the subsidiaries and subcontractors under the responsibility of those notified bodies still satisfy the requirements and fulfil their obligations set out in Annex VII. That review shall include an on-site audit of each notified body and, where necessary, of its subsidiaries and subcontractors.\nThe authority responsible for notified bodies shall conduct its monitoring and assessment activities according to an annual assessment plan to ensure that it can effectively monitor the continued compliance of the notified body with the requirements of this Regulation. That plan shall provide a reasoned schedule for the frequency of assessment of the notified body and, in particular, associated subsidiaries and subcontractors. The authority shall submit its annual plan for monitoring or assessment for each notified body for which it is responsible to the MDCG and to the Commission.\n5. The monitoring of notified bodies by the authority responsible for notified bodies shall include observed audits of notified body personnel, including where necessary any personnel from subsidiaries and subcontractors, as that personnel in the process of conducting quality management system assessments at a manufacturer's facility.\n6. The monitoring of notified bodies conducted by the authority responsible for notified bodies shall consider data arising from market surveillance, vigilance and post-market surveillance to help guide its activities.\nThe authority responsible for notified bodies shall provide for a systematic follow-up of complaints and other information, including from other Member States, which may indicate non-fulfilment of the obligations by a notified body or its deviation from common or best practice.\n7. The authority responsible for notified bodies may in addition to regular monitoring or on-site assessments conduct short-notice, unannounced or for-cause reviews if needed to address a particular issue or to verify compliance.\n8. The authority responsible for notified bodies shall review the assessments by notified bodies of manufacturers' technical documentation, in particular the performance evaluation documentation as further outlined in Article 41.\n9. The authority responsible for notified bodies shall document and record any findings regarding non-compliance of the notified body with the requirements set out in Annex VII and shall monitor the timely implementation of corrective and preventive actions.\n10. 5 years after notification of a notified body, and again every 5 years thereafter, a complete re-assessment to determine whether the notified body still satisfies the requirements set out in Annex VII shall be conducted by the authority responsible for notified bodies of the Member State in which the body is established and by a joint assessment team in accordance with the procedure described in Article 35.\nThe authority responsible for notified bodies of the Member State in which the notified body is established may conduct a complete re-assessment prior to the dates referred to in the first subparagraph upon request by the notified body or where, based on the results of the annual assessments performed in accordance with paragraph 4 of this Article, it has concerns regarding the continued fulfilment by the notified body of the requirements set out in Annex VII.\nComplete re-assessments that have already started prior to 11 March 2023 shall continue to be conducted, unless the authority responsible for notified bodies of the Member State in which the notified body is established decides to suspend or terminate the ongoing complete re-assessment taking into account its own resources and the resources of the notified body already spent on the re-assessment, as well as the results of the annual assessments conducted in accordance with paragraph 4 of this Article. Before suspending or terminating an ongoing complete re-assessment, the authority responsible for notified bodies shall hear the notified body concerned.\n11. The Commission is empowered to adopt delegated acts in accordance with Article 108 in order to amend paragraph 10 of this Article to modify the frequency at which the complete re-assessment referred to in that paragraph is to be carried out.\n12. The Member States shall report to the Commission and to the MDCG, at least once a year, on their monitoring and on-site assessment activities regarding notified bodies and, where applicable, subsidiaries and subcontractors. The report shall provide details of the outcome of those activities, including activities pursuant to paragraph 7, and shall be treated as confidential by the MDCG and the Commission; however, it shall contain a summary which shall be made publicly available.\nThe summary of the report shall be uploaded to the electronic system referred to in Article 52.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 40 PA 10 ALN 1",
+          "AR 40 PA 10 ALN 2",
+          "AR 40 PA 10 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R0503",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2023-03-11"
+        ],
+        "in_force": "2023-03-11",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R0503 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R0503, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The interval for the complete re-assessment of a notified body changed from three years after notification and every fourth year thereafter to five years after notification and every fifth year thereafter, and the reference to the joint assessment team procedure now cites Article 35 alone rather than Articles 34 and 35.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_40",
+              "label": "Art. 40, 02017R0746-20220128"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230311",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230311#art_40",
+              "label": "Art. 40, 02017R0746-20230311"
+            }
+          ]
+        },
+        {
+          "text": "Two new subparagraphs were added allowing the authority responsible for notified bodies to conduct a complete re-assessment earlier than the scheduled dates upon the notified body's request or based on concerns from annual assessments, and addressing the continuation, suspension or termination of complete re-assessments already underway before 11 March 2023.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20230311",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230311#art_40",
+              "label": "Art. 40, 02017R0746-20230311"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0746",
+      "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+    },
+    "from_version": "02017R0746-20220128",
+    "to_version": "02017R0746-20230311",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 40"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 40"
+        ],
+        "note": "1 annotations in (2022-01-28, 2023-03-11]",
+        "claims": [
+          {
+            "location": "AR 40 PA 10",
+            "change_type": "MODIFIED",
+            "in_force": "2023-03-11",
+            "source": "32023R0503 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R0503",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32023R0503, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 10",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R0503",
+              "display_name": "Commission Delegated Regulation (EU) 2023/503 of 1 December 2022 amending Regulation (EU) 2017/746 of the European Parliament and of the Council as regards the frequency of complete re-assessments of notified bodies (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 6048,
+      "output_tokens": 310,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
