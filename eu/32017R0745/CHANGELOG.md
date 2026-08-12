@@ -10,6 +10,57 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20260101 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20250110` → `02017R0745-20260101`
+
+- **Act** `eu:32017R0745` · **In force** 2026-01-01 · **Detected** 2026-08-12
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 140 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20250110` · `v2` = `02017R0745-20260101`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I SCT 10 SCT 10.4 SCT 10.4.1 PTA (b)`, `AN I SCT 10 SCT 10.4 SCT 10.4.2 PTA (d)`, `AN I SCT 10 SCT 10.4 SCT 10.4.3`, `AN I SCT 10 SCT 10.4 SCT 10.4.4` · *dates* -2018-05-26 -2020-05-26 · *amended by* `32025R2457`
+
+Section 10.4.1(b) now defines the covered endocrine-disrupting substances by reference to Category 1 classification under Annex VI of Regulation (EC) No 1272/2008, in addition to substances identified under the Article 59 REACH procedure or under Regulation (EU) No 528/2012, replacing the earlier text that relied only on the REACH Article 59 procedure or a delegated act under Regulation (EU) No 528/2012. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+
+Section 10.4.2(d) now refers to the latest relevant guidelines generally, dropping the earlier reference to guidelines from the relevant scientific committee. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+
+Sections 10.4.3 and 10.4.4 now describe the Commission requesting the European Chemicals Agency (ECHA) to prepare and update phthalate and other CMR/endocrine-disruptor guidelines on a recurring at-least-every-five-years basis, with possible consultation of ECHA's Committee for Risk Assessment and Committee for Socio-economic Analysis, replacing the earlier text that set a mandate deadline of 26 May 2018 for guidelines to be ready by 26 May 2020 and referred to a relevant scientific committee rather than ECHA. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+
+*before* (`02017R0745-20250110`)
+
+> ANNEX I
+> GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+> CHAPTER I
+> GENERAL REQUIREMENTS
+> 1. Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.
+> 2. The requirement in this Annex to reduce risks as far as possible means the reduction of risks as far as possible without adversely affecting the benefit-risk ratio.
+> 3. Manufacturers shall establish, implement, document and maintain a risk management system.
+> Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
+> (a) establish and document a risk management plan for each device;
+> (b) identify and analyse the known and foreseeable hazards associated with each device;
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50131 characters omitted…]
+
+*after* (`02017R0745-20260101`)
+
+> ANNEX I
+> GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+> CHAPTER I
+> GENERAL REQUIREMENTS
+> 1. Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.
+> 2. The requirement in this Annex to reduce risks as far as possible means the reduction of risks as far as possible without adversely affecting the benefit-risk ratio.
+> 3. Manufacturers shall establish, implement, document and maintain a risk management system.
+> Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
+> (a) establish and document a risk management plan for each device;
+> (b) identify and analyse the known and foreseeable hazards associated with each device;
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50935 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20260101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20250110 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20240709` → `02017R0745-20250110`
