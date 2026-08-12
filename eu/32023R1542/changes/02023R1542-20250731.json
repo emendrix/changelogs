@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1542",
+    "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+  },
+  "from_version": "02023R1542-20240718",
+  "to_version": "02023R1542-20250731",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2025-07-31"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 108,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20250731",
+          "location": "AR 32"
+        },
+        "heading": "Challenge to the competence of notified bodies",
+        "before": "Article 32\nChallenge to the competence of notified bodies\n1. The Commission shall investigate all cases where it has a doubt, or a doubt is brought to its attention, in particular by economic operators and other relevant stakeholders, regarding the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.\n2. The notifying authority shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.\n3. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.\n4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requiring the notifying Member State to take the necessary corrective action, including withdrawal of the notification if necessary. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 74(2).",
+        "after": "Article 32\nChallenge to the competence of notified bodies\n1. The Commission shall investigate all cases where it has a doubt, or a doubt is brought to its attention, in particular by economic operators and other relevant stakeholders, regarding the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.\n2. The notifying authority shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.\n3. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.\n4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requiring the notifying Member State to take the necessary corrective action, including withdrawal of the notification if necessary. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 90(2).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 32 PA 4 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2024-07-18, 2025-07-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32025R1561, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only textual change in Article 32(4) is the cross-reference to the advisory procedure, which points to Article 74(2) in the earlier version and to Article 90(2) in the later version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20240718",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_32",
+              "label": "Art. 32, 02023R1542-20240718"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20250731",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_32",
+              "label": "Art. 32, 02023R1542-20250731"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20250731",
+          "location": "AR 48"
+        },
+        "heading": "Battery due diligence policies",
+        "before": "Article 48\nBattery due diligence policies\n1. From 18 August 2025, economic operators that place batteries on the market or put them into service shall fulfil the due diligence obligations laid down in paragraphs 2 and 3 of this Article, and in Articles 49, 50 and 52 and shall, to that end, set up and implement battery due diligence policies.\n2. Economic operators referred to in paragraph 1 of this Article shall have their battery due diligence policies verified by a notified body in accordance with Article 51 (third-party verification) and periodically audited by that notified body to make sure that the battery due diligence policies are maintained and applied in accordance with Articles 49, 50 and 52. The notified body shall provide the audited economic operator with an audit report.\n3. Economic operators referred to in paragraph 1 of this Article shall keep documentation demonstrating their fulfilment of the obligations laid down in Articles 49, 50 and 52, including the verification report and approval decision referred to in Article 51 and the audit reports referred to in paragraph 2 of this Article, for 10 years after the last battery manufactured under the relevant battery due diligence policy has been placed on the market.\n4. Without prejudice to the individual responsibility of economic operators for their battery due diligence policies, economic operators referred to in paragraph 1 of this Article may, for the purposes of compliance with the requirements laid down in Articles 48, 49, 50 and 52, collaborate with other actors, including through due diligence schemes recognised under this Regulation.\n5. By 18 February 2025, the Commission shall publish guidelines as regards the application of the due diligence requirements laid down in Articles 49 and 50, with regard to the risks referred to in point 2 of Annex X, and in line, in particular, with the international instruments referred to in points 3 and 4 of Annex X.\n6. Member States may, in order to provide information and support to economic operators in fulfilling the due diligence obligations under this Regulation, set up and operate, individually or jointly, dedicated websites, platforms or portals.\n7. The Commission may complement the Member State support measures referred to in paragraph 6, by building on existing Union action to support due diligence in the Union and in third countries, and may devise new measures to help economic operators fulfil their obligations under this Regulation.\n8. The Commission shall regularly assess the need to update the list of raw materials and risk categories set out in Annex X.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to:\n(a) amend the list of raw materials in point 1 of Annex X and of risk categories in point 2 of Annex X, in view of scientific and technological progress in battery manufacturing and chemistries and amendments to Regulation (EU) 2017/821;\n(b) amend the list of international instruments in point 3 of Annex X, in accordance with developments within the relevant international fora concerning standards related to due diligence policies and to protection of the environment and of social rights;\n(c) amend the obligations on the economic operators referred to in paragraph 1 of this Article which are laid down in Articles 49 and 50 in view of amendments to Regulation (EU) 2017/821, and amend the list of internationally recognised due diligence instruments set out in point 4 of Annex X.",
+        "after": "Article 48\nBattery due diligence policies\n1. From 18 August 2027, economic operators that place batteries on the market or put them into service shall fulfil the due diligence obligations laid down in paragraphs 2 and 3 of this Article, and in Articles 49, 50 and 52 and shall, to that end, set up and implement battery due diligence policies.\n2. Economic operators referred to in paragraph 1 of this Article shall have their battery due diligence policies verified by a notified body in accordance with Article 51 (third-party verification) and periodically audited by that notified body to make sure that the battery due diligence policies are maintained and applied in accordance with Articles 49, 50 and 52. The notified body shall provide the audited economic operator with an audit report.\n3. Economic operators referred to in paragraph 1 of this Article shall keep documentation demonstrating their fulfilment of the obligations laid down in Articles 49, 50 and 52, including the verification report and approval decision referred to in Article 51 and the audit reports referred to in paragraph 2 of this Article, for 10 years after the last battery manufactured under the relevant battery due diligence policy has been placed on the market.\n4. Without prejudice to the individual responsibility of economic operators for their battery due diligence policies, economic operators referred to in paragraph 1 of this Article may, for the purposes of compliance with the requirements laid down in Articles 48, 49, 50 and 52, collaborate with other actors, including through due diligence schemes recognised under this Regulation.\n5. By 26 July 2026, the Commission shall publish guidelines as regards the application of the due diligence requirements laid down in Articles 49 and 50, with regard to the risks referred to in point 2 of Annex X, and in line, in particular, with the international instruments referred to in points 3 and 4 of Annex X.\n6. Member States may, in order to provide information and support to economic operators in fulfilling the due diligence obligations under this Regulation, set up and operate, individually or jointly, dedicated websites, platforms or portals.\n7. The Commission may complement the Member State support measures referred to in paragraph 6, by building on existing Union action to support due diligence in the Union and in third countries, and may devise new measures to help economic operators fulfil their obligations under this Regulation.\n8. The Commission shall regularly assess the need to update the list of raw materials and risk categories set out in Annex X.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to:\n(a) amend the list of raw materials in point 1 of Annex X and of risk categories in point 2 of Annex X, in view of scientific and technological progress in battery manufacturing and chemistries and amendments to Regulation (EU) 2017/821;\n(b) amend the list of international instruments in point 3 of Annex X, in accordance with developments within the relevant international fora concerning standards related to due diligence policies and to protection of the environment and of social rights;\n(c) amend the obligations on the economic operators referred to in paragraph 1 of this Article which are laid down in Articles 49 and 50 in view of amendments to Regulation (EU) 2017/821, and amend the list of internationally recognised due diligence instruments set out in point 4 of Annex X.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 48 PA 1 ALN 1",
+          "AR 48 PA 5 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R1561",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2025-02-18",
+          "2025-08-18"
+        ],
+        "dates_added": [
+          "2026-07-26",
+          "2027-08-18"
+        ],
+        "in_force": "2025-07-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "2 dates were added, so no single one can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R1561 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (a); AR 001 (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date by which economic operators must fulfil the battery due diligence obligations and set up battery due diligence policies changed from 18 August 2025 to 18 August 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20240718",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_48",
+              "label": "Art. 48, 02023R1542-20240718"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20250731",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_48",
+              "label": "Art. 48, 02023R1542-20250731"
+            }
+          ]
+        },
+        {
+          "text": "The deadline for the Commission to publish guidelines on the application of the due diligence requirements changed from 18 February 2025 to 26 July 2026.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20240718",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_48",
+              "label": "Art. 48, 02023R1542-20240718"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20250731",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_48",
+              "label": "Art. 48, 02023R1542-20250731"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1542",
+            "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+          },
+          "version": "02023R1542-20250731",
+          "location": "AN XIII"
+        },
+        "heading": "ANNEX XIII",
+        "before": "ANNEX XIII\nINFORMATION TO BE INCLUDED IN THE BATTERY PASSPORT\n1. PUBLICLY ACCESSIBLE INFORMATION RELATING TO THE BATTERY MODEL\nA battery passport shall include the following information relating to the battery model, which shall be accessible to the public:\n(a) the information specified in Part A of Annex VI;\n(b) the material composition of the battery, including its chemistry, hazardous substances present in the battery, other than mercury, cadmium or lead, and critical raw materials present in the battery;\n(c) the carbon footprint information referred to in Article 7(1) and (2);\n(d) information on responsible sourcing as indicated in the report on battery due diligence policy referred to in Article 52(3);\n(e) recycled content information as contained in the documentation referred to in Article 8(1);\n(f) the share of renewable content;\n(g) rated capacity (in Ah);\n(h) minimal, nominal and maximum voltage, with temperature ranges when relevant;\n(i) original power capability (in Watts) and limits, with temperature range when relevant;\n(j) expected battery lifetime expressed in cycles, and reference test used;\n(k) capacity threshold for exhaustion (only for electric vehicle batteries);\n(l) temperature range the battery can withstand when not in use (reference test);\n(m) period for which the commercial warranty for the calendar life applies;\n(n) initial round trip energy efficiency and at 50 % of cycle-life;\n(o) internal battery cell and pack resistance;\n(p) c-rate of relevant cycle-life test.\n(q) the marking requirements laid down in Article 13(3) and (4);\n(r) the EU declaration of conformity referred to in Article 18;\n(s) the information regarding the prevention and management of waste batteries laid down in Article 74(1), points (a) to (f).\n2. INFORMATION RELATING TO THE BATTERY MODEL ACCESSIBLE ONLY TO PERSONS WITH A LEGITIMATE INTEREST AND THE COMMISSION\nA battery passport shall include the following information relating to the battery model, which shall be accessible only to persons with a legitimate interest and the Commission:\n(a) detailed composition, including materials used in the cathode, anode and electrolyte;\n(b) part numbers for components and contact details of sources for replacement spares;\n(c) dismantling information, including at least:\nexploded diagrams of the battery system/pack showing the location of battery cells,\ndisassembly sequences,\ntype and number of fastening techniques to be unlocked,\ntools required for disassembly,\nwarnings if risk of damaging parts exist,\namount of cells used and layout;\n(d) safety measures.\n3. INFORMATION ACCESSIBLE ONLY TO NOTIFIED BODIES, MARKET SURVEILLANCE AUTHORITIES AND THE COMMISSION\nA battery passport shall include the following information relating to the battery model, which shall be accessible only to notified bodies, market surveillance authorities and the Commission:\nresults of test reports proving compliance with the requirements laid down in this Regulation or any delegated or implementing act adopted pursuant to this Regulation.\n4. INFORMATION AND DATA RELATING TO AN INDIVIDUAL BATTERY ACCESSIBLE ONLY TO PERSONS WITH A LEGITIMATE INTEREST\nA battery passport shall include the following specific information and data relating to an individual battery, which shall be accessible only to persons with a legitimate interest:\n(a) the values for performance and durability parameters referred to in Article 10(1), when the battery is placed on the market and when it is subject to changes in its status;\n(b) information on the state of health of the battery pursuant to Article 14;\n(c) information on the status of the battery, defined as original, repurposed, re-used, remanufactured or waste;\n(d) information and data resulting from its use, including the number of charging and discharging cycles and negative events, such as accidents, as well as periodically recorded information on the operating environmental conditions, including temperature, and on the state of charge.",
+        "after": "ANNEX XIII\nINFORMATION TO BE INCLUDED IN THE BATTERY PASSPORT\n1. PUBLICLY ACCESSIBLE INFORMATION RELATING TO THE BATTERY MODEL\nA battery passport shall include the following information relating to the battery model, which shall be accessible to the public:\n(a) the information specified in Part A of Annex VI;\n(b) the material composition of the battery, including its chemistry, hazardous substances present in the battery, other than mercury, cadmium or lead, and critical raw materials present in the battery;\n(c) the carbon footprint information referred to in Article 7(1) and (2);\n(d) information on responsible sourcing as indicated in the report on battery due diligence policy referred to in Article 52(3);\n(e) recycled content information as contained in the documentation referred to in Article 8(1);\n(f) the share of renewable content;\n(g) rated capacity (in Ah);\n(h) minimal, nominal and maximum voltage, with temperature ranges when relevant;\n(i) original power capability (in Watts) and limits, with temperature range when relevant;\n(j) expected battery lifetime expressed in cycles, and reference test used;\n(k) capacity threshold for exhaustion (only for electric vehicle batteries);\n(l) temperature range the battery can withstand when not in use (reference test);\n(m) period for which the commercial warranty for the calendar life applies;\n(n) initial round trip energy efficiency and at 50 % of cycle-life;\n(o) internal battery cell and pack resistance;\n(p) c-rate of relevant cycle-life test.\n(q) the marking requirements laid down in Article 13(4) and (5);\n(r) the EU declaration of conformity referred to in Article 18;\n(s) the information regarding the prevention and management of waste batteries laid down in Article 74(1), points (a) to (f).\n2. INFORMATION RELATING TO THE BATTERY MODEL ACCESSIBLE ONLY TO PERSONS WITH A LEGITIMATE INTEREST AND THE COMMISSION\nA battery passport shall include the following information relating to the battery model, which shall be accessible only to persons with a legitimate interest and the Commission:\n(a) detailed composition, including materials used in the cathode, anode and electrolyte;\n(b) part numbers for components and contact details of sources for replacement spares;\n(c) dismantling information, including at least:\nexploded diagrams of the battery system/pack showing the location of battery cells,\ndisassembly sequences,\ntype and number of fastening techniques to be unlocked,\ntools required for disassembly,\nwarnings if risk of damaging parts exist,\namount of cells used and layout;\n(d) safety measures.\n3. INFORMATION ACCESSIBLE ONLY TO NOTIFIED BODIES, MARKET SURVEILLANCE AUTHORITIES AND THE COMMISSION\nA battery passport shall include the following information relating to the battery model, which shall be accessible only to notified bodies, market surveillance authorities and the Commission:\nresults of test reports proving compliance with the requirements laid down in this Regulation or any delegated or implementing act adopted pursuant to this Regulation.\n4. INFORMATION AND DATA RELATING TO AN INDIVIDUAL BATTERY ACCESSIBLE ONLY TO PERSONS WITH A LEGITIMATE INTEREST\nA battery passport shall include the following specific information and data relating to an individual battery, which shall be accessible only to persons with a legitimate interest:\n(a) the values for performance and durability parameters referred to in Article 10(1), when the battery is placed on the market and when it is subject to changes in its status;\n(b) information on the state of health of the battery pursuant to Article 14;\n(c) information on the status of the battery, defined as original, repurposed, re-used, remanufactured or waste;\n(d) information and data resulting from its use, including the number of charging and discharging cycles and negative events, such as accidents, as well as periodically recorded information on the operating environmental conditions, including temperature, and on the state of charge.",
+        "previous_location": null,
+        "changed_within": [
+          "AN XIII SCT 1 PTA (q)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2024-07-18, 2025-07-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32025R1561, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (q) of section 1, the cross-reference to the marking requirements changes from Article 13(3) and (4) to Article 13(4) and (5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20240718",
+                "location": "AN XIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#anx_XIII",
+              "label": "Annex XIII, 02023R1542-20240718"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1542",
+                  "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+                },
+                "version": "02023R1542-20250731",
+                "location": "AN XIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#anx_XIII",
+              "label": "Annex XIII, 02023R1542-20250731"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1542",
+      "display_name": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)"
+    },
+    "from_version": "02023R1542-20240718",
+    "to_version": "02023R1542-20250731",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 32",
+          "AR 48",
+          "AN XIII"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 48"
+        ],
+        "note": "2 annotations in (2024-07-18, 2025-07-31]",
+        "claims": [
+          {
+            "location": "AR 48 PA 5 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2025-07-31",
+            "source": "32025R1561 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1561",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 48 PA 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2025-07-31",
+            "source": "32025R1561 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1561",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 48"
+        ],
+        "note": "32025R1561, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 48 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1561",
+              "display_name": "Regulation (EU) 2025/1561 of the European Parliament and of the Council of 18 July 2025 amending Regulation (EU) 2023/1542 as regards obligations of economic operators concerning battery due diligence policies (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 48 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1561",
+              "display_name": "Regulation (EU) 2025/1561 of the European Parliament and of the Council of 18 July 2025 amending Regulation (EU) 2023/1542 as regards obligations of economic operators concerning battery due diligence policies (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 32",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN XIII",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 3,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 12901,
+      "output_tokens": 513,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 8,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

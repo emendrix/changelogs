@@ -10,6 +10,125 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02023R1542-20250731 -->
+## Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste […]
+### `02023R1542-20240718` → `02023R1542-20250731`
+
+- **Act** `eu:32023R1542` · **In force** 2025-07-31 · **Detected** 2026-08-12
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 108 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02023R1542-20240718` · `v2` = `02023R1542-20250731`
+
+---
+
+**MODIFIED · Art. 32 — Challenge to the competence of notified bodies** · applies from: unchanged
+
+*within* `AR 32 PA 4 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only textual change in Article 32(4) is the cross-reference to the advisory procedure, which points to Article 74(2) in the earlier version and to Article 90(2) in the later version. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_32)
+
+*before* (`02023R1542-20240718`)
+
+> Article 32
+> Challenge to the competence of notified bodies
+> 1. The Commission shall investigate all cases where it has a doubt, or a doubt is brought to its attention, in particular by economic operators and other relevant stakeholders, regarding the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.
+> 2. The notifying authority shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.
+> 3. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+> 4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requiring the notifying Member State to take the necessary corrective action, including withdrawal of the notification if necessary. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 74(2).
+
+*after* (`02023R1542-20250731`)
+
+> Article 32
+> Challenge to the competence of notified bodies
+> 1. The Commission shall investigate all cases where it has a doubt, or a doubt is brought to its attention, in particular by economic operators and other relevant stakeholders, regarding the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.
+> 2. The notifying authority shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.
+> 3. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+> 4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requiring the notifying Member State to take the necessary corrective action, including withdrawal of the notification if necessary. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 90(2).
+
+**MODIFIED · Art. 48 — Battery due diligence policies** · applies from: unknown (2 dates were added, so no single one can be read as the application date)
+
+*within* `AR 48 PA 1 ALN 1`, `AR 48 PA 5 ALN 1` · *dates* -2025-02-18 -2025-08-18 +2026-07-26 +2027-08-18 · *amended by* `32025R1561`
+
+The date by which economic operators must fulfil the battery due diligence obligations and set up battery due diligence policies changed from 18 August 2025 to 18 August 2027. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_48)
+
+The deadline for the Commission to publish guidelines on the application of the due diligence requirements changed from 18 February 2025 to 26 July 2026. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#art_48)
+
+*before* (`02023R1542-20240718`)
+
+> Article 48
+> Battery due diligence policies
+> 1. From 18 August 2025, economic operators that place batteries on the market or put them into service shall fulfil the due diligence obligations laid down in paragraphs 2 and 3 of this Article, and in Articles 49, 50 and 52 and shall, to that end, set up and implement battery due diligence policies.
+> 2. Economic operators referred to in paragraph 1 of this Article shall have their battery due diligence policies verified by a notified body in accordance with Article 51 (third-party verification) and periodically audited by that notified body to make sure that the battery due diligence policies are maintained and applied in accordance with Articles 49, 50 and 52. The notified body shall provide the audited economic operator with an audit report.
+> 3. Economic operators referred to in paragraph 1 of this Article shall keep documentation demonstrating their fulfilment of the obligations laid down in Articles 49, 50 and 52, including the verification report and approval decision referred to in Article 51 and the audit reports referred to in paragraph 2 of this Article, for 10 years after the last battery manufactured under the relevant battery due diligence policy has been placed on the market.
+> 4. Without prejudice to the individual responsibility of economic operators for their battery due diligence policies, economic operators referred to in paragraph 1 of this Article may, for the purposes of compliance with the requirements laid down in […truncated by emendrix: 1994 characters omitted…]
+
+*after* (`02023R1542-20250731`)
+
+> Article 48
+> Battery due diligence policies
+> 1. From 18 August 2027, economic operators that place batteries on the market or put them into service shall fulfil the due diligence obligations laid down in paragraphs 2 and 3 of this Article, and in Articles 49, 50 and 52 and shall, to that end, set up and implement battery due diligence policies.
+> 2. Economic operators referred to in paragraph 1 of this Article shall have their battery due diligence policies verified by a notified body in accordance with Article 51 (third-party verification) and periodically audited by that notified body to make sure that the battery due diligence policies are maintained and applied in accordance with Articles 49, 50 and 52. The notified body shall provide the audited economic operator with an audit report.
+> 3. Economic operators referred to in paragraph 1 of this Article shall keep documentation demonstrating their fulfilment of the obligations laid down in Articles 49, 50 and 52, including the verification report and approval decision referred to in Article 51 and the audit reports referred to in paragraph 2 of this Article, for 10 years after the last battery manufactured under the relevant battery due diligence policy has been placed on the market.
+> 4. Without prejudice to the individual responsibility of economic operators for their battery due diligence policies, economic operators referred to in paragraph 1 of this Article may, for the purposes of compliance with the requirements laid down in […truncated by emendrix: 1990 characters omitted…]
+
+**MODIFIED · Annex XIII — ANNEX XIII** · applies from: unchanged
+
+*within* `AN XIII SCT 1 PTA (q)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point (q) of section 1, the cross-reference to the marking requirements changes from Article 13(3) and (4) to Article 13(4) and (5). [Annex XIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#anx_XIII) [Annex XIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20250731#anx_XIII)
+
+*before* (`02023R1542-20240718`)
+
+> ANNEX XIII
+> INFORMATION TO BE INCLUDED IN THE BATTERY PASSPORT
+> 1. PUBLICLY ACCESSIBLE INFORMATION RELATING TO THE BATTERY MODEL
+> A battery passport shall include the following information relating to the battery model, which shall be accessible to the public:
+> (a) the information specified in Part A of Annex VI;
+> (b) the material composition of the battery, including its chemistry, hazardous substances present in the battery, other than mercury, cadmium or lead, and critical raw materials present in the battery;
+> (c) the carbon footprint information referred to in Article 7(1) and (2);
+> (d) information on responsible sourcing as indicated in the report on battery due diligence policy referred to in Article 52(3);
+> (e) recycled content information as contained in the documentation referred to in Article 8(1);
+> (f) the share of renewable content;
+> (g) rated capacity (in Ah);
+> (h) minimal, nominal and maximum voltage, with temperature ranges when relevant;
+> (i) original power capability (in Watts) and limits, with temperature range when relevant;
+> (j) expected battery lifetime expressed in cycles, and reference test used;
+> (k) capacity threshold for exhaustion (only for electric vehicle batteries);
+> (l) temperature range the battery can withstand when not in use (reference test);
+> (m) period for which the commercial warranty for the calendar life applies;
+> (n) initial round trip energy efficiency and at 50 % of cycle-life;
+> (o) internal battery cell and pack resistance;
+> (p) c-rate of relevant cy […truncated by emendrix: 2492 characters omitted…]
+
+*after* (`02023R1542-20250731`)
+
+> ANNEX XIII
+> INFORMATION TO BE INCLUDED IN THE BATTERY PASSPORT
+> 1. PUBLICLY ACCESSIBLE INFORMATION RELATING TO THE BATTERY MODEL
+> A battery passport shall include the following information relating to the battery model, which shall be accessible to the public:
+> (a) the information specified in Part A of Annex VI;
+> (b) the material composition of the battery, including its chemistry, hazardous substances present in the battery, other than mercury, cadmium or lead, and critical raw materials present in the battery;
+> (c) the carbon footprint information referred to in Article 7(1) and (2);
+> (d) information on responsible sourcing as indicated in the report on battery due diligence policy referred to in Article 52(3);
+> (e) recycled content information as contained in the documentation referred to in Article 8(1);
+> (f) the share of renewable content;
+> (g) rated capacity (in Ah);
+> (h) minimal, nominal and maximum voltage, with temperature ranges when relevant;
+> (i) original power capability (in Watts) and limits, with temperature range when relevant;
+> (j) expected battery lifetime expressed in cycles, and reference test used;
+> (k) capacity threshold for exhaustion (only for electric vehicle batteries);
+> (l) temperature range the battery can withstand when not in use (reference test);
+> (m) period for which the commercial warranty for the calendar life applies;
+> (n) initial round trip energy efficiency and at 50 % of cycle-life;
+> (o) internal battery cell and pack resistance;
+> (p) c-rate of relevant cy […truncated by emendrix: 2492 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1542-20250731 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1542-20240718 -->
 ## Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste […]
 ### `02023R1542-20230728` → `02023R1542-20240718`
