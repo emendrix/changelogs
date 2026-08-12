@@ -1,0 +1,675 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0746",
+    "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+  },
+  "from_version": "02017R0746-20170505",
+  "to_version": "02017R0746-20220128",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2022-01-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 125,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20220128",
+          "location": "AR 110"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 110\nTransitional provisions\n1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.\n2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2024.\nCertificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 shall become void by 27 May 2024.\n3. By way of derogation from Article 5 of this Regulation, a device with a certificate that was issued in accordance with Directive 98/79/EC and which is valid by virtue of paragraph 2 of this Article may only be placed on the market or put into service provided that from the date of application of this Regulation it continues to comply with that Directive, and provided there are no significant changes in the design and intended purpose. However, the requirements of this Regulation relating to post-market surveillance, market surveillance, vigilance, registration of economic operators and of devices shall apply and replace the corresponding requirements in that Directive.\nWithout prejudice to Chapter IV and paragraph 1 of this Article, the notified body that issued the certificate referred to in the first subparagraph shall continue to be responsible for the appropriate surveillance in respect of all applicable requirements relating to the devices it has certified.\n4. Devices lawfully placed on the market pursuant to Directive 98/79/EC prior to 26 May 2022 and devices placed on the market from 26 May 2022 by virtue of a certificate as referred to in paragraph 2 of this Article, may continue to be made available on the market or put into service until 27 May 2025.\n5. By way of derogation from Directive 98/79/EC, devices which comply with this Regulation may be placed on the market before 26 May 2022.\n6. By way of derogation from Directive 98/79/EC, conformity assessment bodies which comply with this Regulation may be designated and notified prior to 26 May 2022. Notified bodies which are designated and notified in accordance with this Regulation may carry out the conformity assessment procedures laid down in this Regulation and issue certificates in accordance with this Regulation prior to 26 May 2022.\n7. As regards devices subject to the procedures laid down in Article 48(3) and (4), paragraph 5 of this Article applies provided that the necessary appointments to the MDCG and expert panels and of EU reference laboratories have been made.\n8. By way of derogation from Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, manufacturers, authorised representatives, importers and notified bodies which, during the period starting on the later of the dates referred to in point (f) of Article 113(3) and ending 18 months later, comply with Articles 26(3), 28(1) and 51(5) of this Regulation shall be considered to comply with the laws and regulations adopted by Member States in accordance with Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC as specified in Decision 2010/227/EU.\n9. Authorisations granted by the competent authorities of the Member States in accordance with Article 9(12) of Directive 98/79/EC shall keep the validity indicated in the authorisation.\n10. Until the Commission has designated, pursuant to Article 24(2), issuing entities, GS1, HIBCC and ICCBBA shall be considered to be designated issuing entities.",
+        "after": "Article 110\nTransitional provisions\n1. From 26 May 2022, any publication of a notification in respect of a notified body in accordance with Directive 98/79/EC shall become void.\n2. Certificates issued by notified bodies in accordance with Directive 98/79/EC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex VI to Directive 98/79/EC which shall become void at the latest on 27 May 2025.\nCertificates issued by notified bodies in accordance with Directive 98/79/EC from 25 May 2017 shall become void by 27 May 2025.\n3. By way of derogation from Article 5 of this Regulation, the devices referred to in the second and third subparagraphs of this paragraph may be placed on the market or put into service until the dates set out in those subparagraphs, provided that, from the date of application of this Regulation, those devices continue to comply with Directive 98/79/EC, and provided that there are no significant changes in the design and intended purpose of those devices.\nDevices with a certificate that was issued in accordance with Directive 98/79/EC and which is valid by virtue of paragraph 2 of this Article may be placed on the market or put into service until 26 May 2025.\nDevices for which the conformity assessment procedure pursuant to Directive 98/79/EC did not require the involvement of a notified body, for which a declaration of conformity was drawn up prior to 26 May 2022 in accordance with that Directive, and for which the conformity assessment procedure pursuant to this Regulation requires the involvement of a notified body, may be placed on the market or put into service until the following dates:\n(a) 26 May 2025, for class D devices;\n(b) 26 May 2026, for class C devices;\n(c) 26 May 2027, for class B devices;\n(d) 26 May 2027, for class A devices placed on the market in sterile condition.\nBy way of derogation from the first subparagraph of this paragraph, the requirements of this Regulation relating to post-market surveillance, market surveillance, vigilance, registration of economic operators and of devices shall apply to devices referred to in the second and third subparagraphs of this paragraph, instead of the corresponding requirements in Directive 98/79/EC.\nWithout prejudice to Chapter IV and paragraph 1 of this Article, the notified body that issued the certificate referred to in the second subparagraph of this paragraph shall continue to be responsible for the appropriate surveillance in respect of all applicable requirements relating to the devices it has certified.\n4. Devices lawfully placed on the market pursuant to Directive 98/79/EC prior to 26 May 2022 may continue to be made available on the market or put into service until 26 May 2025.\nDevices lawfully placed on the market from 26 May 2022 pursuant to paragraph 3 of this Article may continue to be made available on the market or put into service until the following dates:\n(a) 26 May 2026, for devices referred to in paragraph 3, second subparagraph, or in paragraph 3, third subparagraph, point (a);\n(b) 26 May 2027, for devices referred to in paragraph 3, third subparagraph, point (b);\n(c) 26 May 2028, for devices referred to in paragraph 3, third subparagraph, points (c) and (d).\n5. By way of derogation from Directive 98/79/EC, devices which comply with this Regulation may be placed on the market before 26 May 2022.\n6. By way of derogation from Directive 98/79/EC, conformity assessment bodies which comply with this Regulation may be designated and notified prior to 26 May 2022. Notified bodies which are designated and notified in accordance with this Regulation may carry out the conformity assessment procedures laid down in this Regulation and issue certificates in accordance with this Regulation prior to 26 May 2022.\n7. As regards devices subject to the procedures laid down in Article 48(3) and (4), paragraph 5 of this Article applies provided that the necessary appointments to the MDCG and expert panels and of EU reference laboratories have been made.\n8. By way of derogation from Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, manufacturers, authorised representatives, importers and notified bodies which, during the period starting on the later of the dates referred to in point (f) of Article 113(3) and ending 18 months later, comply with Articles 26(3), 28(1) and 51(5) of this Regulation shall be considered to comply with the laws and regulations adopted by Member States in accordance with Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC as specified in Decision 2010/227/EU.\n9. Authorisations granted by the competent authorities of the Member States in accordance with Article 9(12) of Directive 98/79/EC shall keep the validity indicated in the authorisation.\n10. Until the Commission has designated, pursuant to Article 24(2), issuing entities, GS1, HIBCC and ICCBBA shall be considered to be designated issuing entities.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 110 PA 2 ALN 1",
+          "AR 110 PA 2 ALN 2",
+          "AR 110 PA 3 ALN 1",
+          "AR 110 PA 3 ALN 2",
+          "AR 110 PA 3 ALN 3",
+          "AR 110 PA 3 ALN 4",
+          "AR 110 PA 3 ALN 5",
+          "AR 110 PA 4 ALN 1",
+          "AR 110 PA 4 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R0112",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2024-05-27"
+        ],
+        "dates_added": [
+          "2025-05-26",
+          "2026-05-26",
+          "2027-05-26",
+          "2028-05-26"
+        ],
+        "in_force": "2022-01-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R0112 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1) (a) (i); AR 001 (1) (a) (ii); AR 001 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2's void-by date for certificates has moved from 27 May 2024 to 27 May 2025 in both the Annex VI exception and the from-25-May-2017 category.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20170505",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_110",
+              "label": "Art. 110, 02017R0746-20170505"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_110",
+              "label": "Art. 110, 02017R0746-20220128"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 now sets out separate market/put-into-service deadlines depending on device class and certification route, adding a new subparagraph listing 26 May 2025, 26 May 2026 and 26 May 2027 dates for devices whose conformity assessment previously did not involve a notified body but now does, whereas the earlier text used a single continued-compliance rule without these class-based dates.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20170505",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_110",
+              "label": "Art. 110, 02017R0746-20170505"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_110",
+              "label": "Art. 110, 02017R0746-20220128"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 has been split into two subparagraphs, replacing the former single 27 May 2025 continued-availability deadline with a 26 May 2025 deadline for devices placed on the market before 26 May 2022 and a new set of staggered deadlines of 26 May 2026, 26 May 2027 and 26 May 2028 for devices placed on the market from 26 May 2022 under paragraph 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20170505",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_110",
+              "label": "Art. 110, 02017R0746-20170505"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 110"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_110",
+              "label": "Art. 110, 02017R0746-20220128"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20220128",
+          "location": "AR 112"
+        },
+        "heading": "Repeal",
+        "before": "Article 112\nRepeal\nWithout prejudice to Articles 110 (3) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022 with the exception of:\n(a) Article 11, point (c) of Article 12(1) and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation; and\n(b) Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nAs regards the devices referred to in Article 110(3) and (4) of this Regulation, Directive 98/79/EC shall continue to apply until 27 May 2025 to the extent necessary for the application of those paragraphs.\nDecision 2010/227/EU adopted in implementation of Directives 90/385/EEC, 93/42/EEC and 98/79/EC shall be repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nReferences to the repealed Directive shall be understood as references to this Regulation and shall be read in accordance with the correlation table laid down in Annex XV.",
+        "after": "Article 112\nRepeal\nWithout prejudice to Articles 110 (3) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and the obligations of manufacturers as regards the making available of documentation, under Directive 98/79/EC, that Directive is repealed with effect from 26 May 2022 with the exception of:\n(a) Article 11, point (c) of Article 12(1) and Article 12(2) and (3) of Directive 98/79/EC, and the obligations relating to vigilance and performance studies provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation; and\n(b) Article 10, points (a) and (b) of Article 12(1) and Article 15(5) of Directive 98/79/EC, and the obligations relating to registration of devices and economic operators, and certificate notifications provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nAs regards the devices referred to in Article 110(3) and (4) of this Regulation, Directive 98/79/EC shall continue to apply until 26 May 2028 to the extent necessary for the application of those paragraphs.\nDecision 2010/227/EU adopted in implementation of Directives 90/385/EEC, 93/42/EEC and 98/79/EC shall be repealed with effect from the later of the dates referred to in Article 113(2) and point (f) of Article 113(3) of this Regulation.\nReferences to the repealed Directive shall be understood as references to this Regulation and shall be read in accordance with the correlation table laid down in Annex XV.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 112 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R0112",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2025-05-27"
+        ],
+        "dates_added": [
+          "2028-05-26"
+        ],
+        "in_force": "2022-01-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R0112 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date until which Directive 98/79/EC continues to apply for the devices referred to in Article 110(3) and (4) has been changed from 27 May 2025 to 26 May 2028.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20170505",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_112",
+              "label": "Art. 112, 02017R0746-20170505"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 112"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_112",
+              "label": "Art. 112, 02017R0746-20220128"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0746",
+            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+          },
+          "version": "02017R0746-20220128",
+          "location": "AR 113"
+        },
+        "heading": "Entry into force and date of application",
+        "before": "Article 113\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 26 May 2022.\n3. By way of derogation from paragraph 2:\n(a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);\n(b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;\n(c) Article 97 shall apply from 26 May 2018;\n(d) Article 100 shall apply from 25 November 2020;\n(e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;\n(f) without prejudice to the obligations on the Commission pursuant to Article 34 of Regulation (EU) 2017/745, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1) of that Regulation, Eudamed is not fully functional on 26 May 2022, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3) of that Regulation. The provisions referred to in the preceding sentence are:\nArticle 26,\nArticle 28,\nArticle 29,\nthe second sentence of Article 36(2),\nArticle 38(10),\nArticle 39(2),\nthe second subparagraph of Article 40(12),\npoints (d) and (e) of Article 42(7),\nArticle 49(2),\nArticle 50(1),\nArticles 66 to 73,\nparagraphs 1 to 13 of Article 74,\nArticles 75 to 77,\nArticle 81(2),\nArticles 82 and 83,\nArticle 84(5) and (7) and the third subparagraph of Article 84(8),\nArticle 85,\nArticle 88(4), (7) and (8),\nArticle 90(2) and (4),\nthe last sentence of Article 92(2),\nArticle 94(4),\nthe second sentence of the first subparagraph of Article 110(3).\nUntil Eudamed is fully functional the corresponding provisions of Directive 98/79/EC shall continue to apply for the purpose of meeting the obligations laid down in the provisions listed in the first paragraph of this point regarding exchange of information including, and in particular, information regarding performance studies, vigilance reporting, registration of devices and economic operators, and certificate notifications.\n(g) the procedure set out in Article 74 shall apply from 26 May 2029 without prejudice to Article 74(14);\n(h) Article 110(10) shall apply from 26 May 2019.",
+        "after": "Article 113\nEntry into force and date of application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 26 May 2022.\n3. By way of derogation from paragraph 2:\n(a) Articles 26(3) and 51(5) shall apply from 18 months after the later of the dates referred to in point (f);\n(b) Articles 31 to 46 and Article 96 shall apply from 26 November 2017. However, from that date until 26 May 2022 the obligations on notified bodies pursuant to Articles 31 to 46 shall apply only to those bodies which submit an application for designation in accordance with Article 34;\n(c) Article 97 shall apply from 26 May 2018;\n(d) Article 100 shall apply from 25 November 2020;\n(e) for class D devices, Article 24(4) shall apply from 26 May 2023. For class B and class C devices Article 24(4) shall apply from 26 May 2025. For class A devices Article 24(4) shall apply from 26 May 2027;\n(f) without prejudice to the obligations on the Commission pursuant to Article 34 of Regulation (EU) 2017/745, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1) of that Regulation, Eudamed is not fully functional on 26 May 2022, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3) of that Regulation. The provisions referred to in the preceding sentence are:\nArticle 26,\nArticle 28,\nArticle 29,\nthe second sentence of Article 36(2),\nArticle 38(10),\nArticle 39(2),\nthe second subparagraph of Article 40(12),\npoints (d) and (e) of Article 42(7),\nArticle 49(2),\nArticle 50(1),\nArticles 66 to 73,\nparagraphs 1 to 13 of Article 74,\nArticles 75 to 77,\nArticle 81(2),\nArticles 82 and 83,\nArticle 84(5) and (7) and the third subparagraph of Article 84(8),\nArticle 85,\nArticle 88(4), (7) and (8),\nArticle 90(2) and (4),\nthe last sentence of Article 92(2),\nArticle 94(4),\nthe second sentence of the first subparagraph of Article 110(3).\nUntil Eudamed is fully functional the corresponding provisions of Directive 98/79/EC shall continue to apply for the purpose of meeting the obligations laid down in the provisions listed in the first paragraph of this point regarding exchange of information including, and in particular, information regarding performance studies, vigilance reporting, registration of devices and economic operators, and certificate notifications.\n(g) the procedure set out in Article 74 shall apply from 26 May 2029 without prejudice to Article 74(14);\n(h) Article 110(10) shall apply from 26 May 2019;\n(i) Article 5(5), points (b) and (c) and (e) to (i), shall apply from 26 May 2024;\n(j) Article 5(5), point (d), shall apply from 26 May 2028.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 113 PA 3 ALN 1 PTA (h)",
+          "AR 113 PA 3 ALN 1 PTA (i)",
+          "AR 113 PA 3 ALN 1 PTA (j)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R0112",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-05-26",
+          "2028-05-26"
+        ],
+        "in_force": "2022-01-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R0112 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (h) now ends with a semicolon instead of a full stop, and two new points, (i) and (j), have been added after it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_113",
+              "label": "Art. 113, 02017R0746-20220128"
+            }
+          ]
+        },
+        {
+          "text": "Point (i) states that Article 5(5), points (b), (c) and (e) to (i), shall apply from 26 May 2024, and point (j) states that Article 5(5), point (d), shall apply from 26 May 2028, neither of which appeared in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20220128",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_113",
+              "label": "Art. 113, 02017R0746-20220128"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0746",
+                  "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+                },
+                "version": "02017R0746-20170505",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_113",
+              "label": "Art. 113, 02017R0746-20170505"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0746",
+      "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
+    },
+    "from_version": "02017R0746-20170505",
+    "to_version": "02017R0746-20220128",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": "7 annotations in (2017-05-05, 2022-01-28]",
+        "claims": [
+          {
+            "location": "AR 113 PA 3 PTA (j)",
+            "change_type": "INSERTED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 2 ALN 2 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 2 ALN 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 112 ALN 2 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 113 PA 3 PTA (i)",
+            "change_type": "INSERTED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 110 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2022-01-28",
+            "source": "32022R0112 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 110",
+          "AR 112",
+          "AR 113"
+        ],
+        "note": "32022R0112, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 110 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": "Regulation (EU) 2022/112 of the European Parliament and of the Council of 25 January 2022 amending Regulation (EU) 2017/746 as regards transitional provisions for certain in vitro diagnostic medical devices and the deferred application of conditions for in-house devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 2 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": "Regulation (EU) 2022/112 of the European Parliament and of the Council of 25 January 2022 amending Regulation (EU) 2017/746 as regards transitional provisions for certain in vitro diagnostic medical devices and the deferred application of conditions for in-house devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 110 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": "Regulation (EU) 2022/112 of the European Parliament and of the Council of 25 January 2022 amending Regulation (EU) 2017/746 as regards transitional provisions for certain in vitro diagnostic medical devices and the deferred application of conditions for in-house devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 112",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": "Regulation (EU) 2022/112 of the European Parliament and of the Council of 25 January 2022 amending Regulation (EU) 2017/746 as regards transitional provisions for certain in vitro diagnostic medical devices and the deferred application of conditions for in-house devices (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 113 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0112",
+              "display_name": "Regulation (EU) 2022/112 of the European Parliament and of the Council of 25 January 2022 amending Regulation (EU) 2017/746 as regards transitional provisions for certain in vitro diagnostic medical devices and the deferred application of conditions for in-house devices (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 3,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 13617,
+      "output_tokens": 884,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
