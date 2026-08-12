@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32022R1925",
+    "display_name": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)"
+  },
+  "from_version": "32022R1925",
+  "to_version": "02022R1925-20221012",
+  "detected_on": "2026-08-12",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 53,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32022R1925",
+            "display_name": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)"
+          },
+          "version": "02022R1925-20221012",
+          "location": "AR 13"
+        },
+        "heading": "Anti-circumvention",
+        "before": "Article 13\nAnti-circumvention\n1. An undertaking providing core platform services shall not segment, divide, subdivide, fragment or split those services through contractual, commercial, technical or any other means in order to circumvent the quantitative thresholds laid down in Article 3(2). No such practice of an undertaking shall prevent the Commission from designating it as a gatekeeper pursuant to Article 3(4).\n2. The Commission may, when it suspects that an undertaking providing core platform services is engaged in a practice laid down in paragraph 1, require from that undertaking any information that it deems necessary to determine whether that undertaking has engaged in such a practice.\n3. The gatekeeper shall ensure that the obligations of Articles 5, 6 and 7 are fully and effectively complied with.\n4. The gatekeeper shall not engage in any behaviour that undermines effective compliance with the obligations of Articles 5, 6 and 7 regardless of whether that behaviour is of a contractual, commercial or technical nature, or of any other nature, or consists in the use of behavioural techniques or interface design.\n5. Where consent for collecting, processing, cross-using and sharing of personal data is required to ensure compliance with this Regulation, a gatekeeper shall take the necessary steps either to enable business users to directly obtain the required consent to their processing, where that consent is required under Regulation (EU) 2016/679 or Directive 2002/58/EC, or to comply with Union data protection and privacy rules and principles in other ways, including by providing business users with duly anonymised data where appropriate. The gatekeeper shall not make the obtaining of that consent by the business user more burdensome than for its own services.\n6. The gatekeeper shall not degrade the conditions or quality of any of the core platform services provided to business users or end users who avail themselves of the rights or choices laid down in Articles 5, 6 and 7, or make the exercise of those rights or choices unduly difficult, including by offering choices to the end-user in a non-neutral manner, or by subverting end users’ or business users' autonomy, decision-making, or free choice via the structure, design, function or manner of operation of a user interface or a part thereof.\n7. Where the gatekeeper circumvents or attempts to circumvent any of the obligations in Article 5, 6, or 7 in a manner described in paragraphs 4, 5 and 6 of this Article, the Commission may open proceedings pursuant to Article 20 and adopt an implementing act referred to in Article 8(2) in order to specify the measures that the gatekeeper is to implement.\n8. Paragraph 6 of this Article is without prejudice to the powers of the Commission under Articles 29, 30 and 31.",
+        "after": "Article 13\nAnti-circumvention\n1. An undertaking providing core platform services shall not segment, divide, subdivide, fragment or split those services through contractual, commercial, technical or any other means in order to circumvent the quantitative thresholds laid down in Article 3(2). No such practice of an undertaking shall prevent the Commission from designating it as a gatekeeper pursuant to Article 3(4).\n2. The Commission may, when it suspects that an undertaking providing core platform services is engaged in a practice laid down in paragraph 1, require from that undertaking any information that it deems necessary to determine whether that undertaking has engaged in such a practice.\n3. The gatekeeper shall ensure that the obligations of Articles 5, 6 and 7 are fully and effectively complied with.\n4. The gatekeeper shall not engage in any behaviour that undermines effective compliance with the obligations of Articles 5, 6 and 7 regardless of whether that behaviour is of a contractual, commercial or technical nature, or of any other nature, or consists in the use of behavioural techniques or interface design.\n5. Where consent for collecting, processing, cross-using and sharing of personal data is required to ensure compliance with this Regulation, a gatekeeper shall take the necessary steps either to enable business users to directly obtain the required consent to their processing, where that consent is required under Regulation (EU) 2016/679 or Directive 2002/58/EC, or to comply with Union data protection and privacy rules and principles in other ways, including by providing business users with duly anonymised data where appropriate. The gatekeeper shall not make the obtaining of that consent by the business user more burdensome than for its own services.\n6. The gatekeeper shall not degrade the conditions or quality of any of the core platform services provided to business users or end users who avail themselves of the rights or choices laid down in Articles 5, 6 and 7, or make the exercise of those rights or choices unduly difficult, including by offering choices to the end-user in a non-neutral manner, or by subverting end users’ or business users' autonomy, decision-making, or free choice via the structure, design, function or manner of operation of a user interface or a part thereof.\n7. Where the gatekeeper circumvents or attempts to circumvent any of the obligations in Article 5, 6, or 7 in a manner described in paragraphs 4, 5 and 6 of this Article, the Commission may open proceedings pursuant to Article 20 and adopt an implementing act referred to in Article 8(2) in order to specify the measures that the gatekeeper is to implement.\n8. Paragraph 7 of this Article is without prejudice to the powers of the Commission under Articles 29, 30 and 31.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 8 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2022-10-12]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 8, the internal cross-reference was changed from paragraph 6 to paragraph 7 of the same Article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32022R1925",
+                  "display_name": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)"
+                },
+                "version": "32022R1925",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925#art_13",
+              "label": "Art. 13, 32022R1925"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32022R1925",
+                  "display_name": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)"
+                },
+                "version": "02022R1925-20221012",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02022R1925-20221012#art_13",
+              "label": "Art. 13, 02022R1925-20221012"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32022R1925",
+      "display_name": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)"
+    },
+    "from_version": "32022R1925",
+    "to_version": "02022R1925-20221012",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 13"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2022-10-12]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 4166,
+      "output_tokens": 122,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
