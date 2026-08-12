@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20230311 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20200424` → `02017R0745-20230311`
+
+- **Act** `eu:32017R0745` · **In force** 2023-03-11 · **Detected** 2026-08-12
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20200424` · `v2` = `02017R0745-20230311`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32023R0502`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 44 — Monitoring and re-assessment of notified bodies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 44 PA 10 ALN 1`, `AR 44 PA 10 ALN 2`, `AR 44 PA 10 ALN 3` · *dates* +2023-03-11 · *amended by* `32023R0502`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelAPIError: Connection error..*
+
+*before* (`02017R0745-20200424`)
+
+> Article 44
+> Monitoring and re-assessment of notified bodies
+> 1. Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability to conduct the conformity assessment activities relating to the devices for which they have been designated.
+> 2. The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its obligations set out in this Regulation. Notified bodies shall, upon request by their authority responsible for notified bodies, supply all relevant information and documents, required to enable the authority, the Commission and other Member States to verify compliance.
+> 3. Where the Commission or the authority of a Member State submits a request to a notified body established on the territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send a copy of that request to the authority responsible for notified bodies of that other Member State. The notified body concerned shall respond without delay and within 15 days at the latest to the request. The authority responsible for notified bodies of the Member State in which the body is established shall ensure that requests submitted by authori […truncated by emendrix: 4067 characters omitted…]
+
+*after* (`02017R0745-20230311`)
+
+> Article 44
+> Monitoring and re-assessment of notified bodies
+> 1. Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability to conduct the conformity assessment activities relating to the devices for which they have been designated.
+> 2. The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its obligations set out in this Regulation. Notified bodies shall, upon request by their authority responsible for notified bodies, supply all relevant information and documents, required to enable the authority, the Commission and other Member States to verify compliance.
+> 3. Where the Commission or the authority of a Member State submits a request to a notified body established on the territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send a copy of that request to the authority responsible for notified bodies of that other Member State. The notified body concerned shall respond without delay and within 15 days at the latest to the request. The authority responsible for notified bodies of the Member State in which the body is established shall ensure that requests submitted by authori […truncated by emendrix: 5169 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20230311 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20200424 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20170505` → `02017R0745-20200424`
