@@ -1,0 +1,832 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1230",
+    "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+  },
+  "from_version": "32023R1230",
+  "to_version": "02023R1230-20230629",
+  "detected_on": "2026-08-12",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 7,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 59,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 6"
+        },
+        "heading": "Categories of machinery and related products listed in Annex I subject to relevant conformity assessment procedures",
+        "before": "Article 6\nCategories of machinery and related products listed in Annex I subject to relevant conformity assessment procedures\n1. Machinery and related products that fall within the categories listed in Annex I, Part A, shall be subject to the specific conformity assessment procedures referred to in Article 25(2), and machinery and related products that fall within the categories listed in Annex I, Part B shall be subject to the specific conformity assessment procedures referred to in Article 25(3).\n2. The Commission is empowered to adopt delegated acts in accordance with Article 47 to amend Annex I, after consulting the stakeholders concerned, in the light of technical progress, advances in knowledge or new scientific evidence by adding to the list of categories of machinery and related products in Annex I a new category of machinery or related products, withdrawing an existing category of machinery or related products from that list or moving a category of machinery or related products from one Part of Annex I to another Part of that Annex, in accordance with the criteria and the procedures laid down in paragraphs 4, 5 and 7 of this Article.\n3. Before adopting a delegated act, the Commission shall seek the views of experts in the relevant expert group in accordance with Article 47(4).\n4. The Commission shall assess the seriousness of the inherent potential risk presented by a category of machinery or related product for the purpose of determining whether to add that category of machinery or related product to Annex I or to withdraw that category of machinery or related product from Annex I. That assessment shall be established based on the combination of the probability of occurrence of harm and the severity of that harm.\nIn determining the probability and severity of harm, the following criteria shall, where relevant, be taken into account:\n(a) the nature of the hazard inherent to the function of the category of machinery or related product, taking into account the intended use and any reasonably foreseeable misuse;\n(b) the severity of harm which a person would suffer, including the degree of reversibility of that harm;\n(c) the number of persons potentially affected by the harm;\n(d) the frequency and the duration of the exposure to the hazard that a person would be exposed to in the course of the intended use or any reasonably foreseeable misuse of the category of machinery or related product;\n(e) the possibilities of avoiding or limiting harm;\n(f) in the case of safety components, the likelihood of serious consequences for the safety of the persons exposed to harm in the event of their failure.\n5. When conducting the assessment referred in paragraph 4, the Commission shall consider the following elements:\n(a) indications of harm that have been caused in the past by machinery or related products which have been used for their intended use or following any reasonably foreseeable misuse;\n(b) information about safety defects detected in the course of market surveillance, and material possibly available in the information systems administered by the Commission;\n(c) information about known accidents and serious close calls, including the characteristics of those accidents or close calls;\n(d) data on accidents or damage to health caused by the machinery or related product for at least the preceding four years. In particular, information obtained, inter alia, from the Information and Communication System on Market Surveillance (ICSMS), safeguard clauses, Safety Gate Rapid Alert System, the European Injury Database (EU-IDB), Eurostat’s European Statistics on Accidents at Work (ESAW) and the Machinery Administrative Cooperation Group (AdCo).\nIn addition to points (a) to (d) of this paragraph, the Commission shall take into account any other information available that is relevant to the assessment referred to in paragraph 4.\n6. The data and information referred to in paragraph 5, points (a) to (d), shall be provided by Member States in accordance with paragraph 9.\n7. A category of machinery or related product shall be included in Annex I, Part A, if, according to the assessment referred to in paragraph 4, and taking into account the available information, including the data referred to in paragraph 5, it presents a serious inherent potential risk, and one or more of the following conditions is fulfilled:\n(a) there is a lack of harmonised standards or common specifications covering the relevant essential health and safety requirements;\n(b) residual risks exist, including those which, according to the manufacturer, could be reduced by particular training or personal protective equipment, and the data and information referred to in paragraph 5, demonstrate the recurrence of similar serious or fatal accidents or damage to health in connection with those residual risks;\n(c) data and information exist which according to the Commission demonstrate recurring wrongful application of the relevant harmonised standards or common specifications and for which the market surveillance activities that were carried out have not led to major improvements of the market situation, in a reasonable period;\n(d) there is a degree of uncertainty in the existing risk assessment methods related to new categories of machinery or technologies.\nAny other category of machinery or related product that, according to that assessment, presents a serious inherent potential risk but does not fulfil one or more of the conditions in points (a) to (d) shall be included in Annex I, Part B.\n8. A Member State which has concerns about a category of machinery or related product being listed or not in Annex I shall immediately inform the Commission of those concerns and provide reasons in support thereof.\nThe Commission shall conduct the assessment referred to in paragraph 4 immediately after being informed by a Member State.\nAfter making that assessment, the Commission may initiate the procedure laid down in paragraph 2.\n9. By 14 July 2025, and every five years thereafter, Member States shall provide the data and information referred to in paragraph 5, including information to the effect that none of the events referred to in paragraph 5 has occurred, for every category of machinery or related products which is included in Annex I or which is not included in Annex I where that non-inclusion is a cause of concern for the Member State.\n10. The Commission shall adopt implementing acts setting out and, where necessary in the light of technological and market development, updating a template concerning the collection by Member States of the data and the information referred to in paragraph 5, points (a) to (d).\nWhen adopting those implementing acts, the Commission shall issue guidance to Member States on the collection and transmission of comparable, high-quality data and information.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(3).\nThe first such implementing act shall be adopted not later than 14 July 2024.\n11. If necessary after the Commission report referred to in Article 53(3), the Commission shall adopt delegated acts in accordance with Article 47 to supplement paragraph 5 of this Article by specifying the obligations of Member States to provide data and information required pursuant to this Article through the establishment of a common methodology concerning the data and information to be collected, including the methods for their collection and compilation, and the procedures for their transmission, as well as the relevant definitions, in order to ensure that sufficient and comparable data is available for the Commission to carry out the assessment referred to in paragraph 4.",
+        "after": "Article 6\nCategories of machinery and related products listed in Annex I subject to relevant conformity assessment procedures\n1. Machinery and related products that fall within the categories listed in Annex I, Part A, shall be subject to the specific conformity assessment procedures referred to in Article 25(2), and machinery and related products that fall within the categories listed in Annex I, Part B shall be subject to the specific conformity assessment procedures referred to in Article 25(3).\n2. The Commission is empowered to adopt delegated acts in accordance with Article 47 to amend Annex I, after consulting the stakeholders concerned, in the light of technical progress, advances in knowledge or new scientific evidence by adding to the list of categories of machinery and related products in Annex I a new category of machinery or related products, withdrawing an existing category of machinery or related products from that list or moving a category of machinery or related products from one Part of Annex I to another Part of that Annex, in accordance with the criteria and the procedures laid down in paragraphs 4, 5 and 7 of this Article.\n3. Before adopting a delegated act, the Commission shall seek the views of experts in the relevant expert group in accordance with Article 47(4).\n4. The Commission shall assess the seriousness of the inherent potential risk presented by a category of machinery or related product for the purpose of determining whether to add that category of machinery or related product to Annex I or to withdraw that category of machinery or related product from Annex I. That assessment shall be established based on the combination of the probability of occurrence of harm and the severity of that harm.\nIn determining the probability and severity of harm, the following criteria shall, where relevant, be taken into account:\n(a) the nature of the hazard inherent to the function of the category of machinery or related product, taking into account the intended use and any reasonably foreseeable misuse;\n(b) the severity of harm which a person would suffer, including the degree of reversibility of that harm;\n(c) the number of persons potentially affected by the harm;\n(d) the frequency and the duration of the exposure to the hazard that a person would be exposed to in the course of the intended use or any reasonably foreseeable misuse of the category of machinery or related product;\n(e) the possibilities of avoiding or limiting harm;\n(f) in the case of safety components, the likelihood of serious consequences for the safety of the persons exposed to harm in the event of their failure.\n5. When conducting the assessment referred in paragraph 4, the Commission shall consider the following elements:\n(a) indications of harm that have been caused in the past by machinery or related products which have been used for their intended use or following any reasonably foreseeable misuse;\n(b) information about safety defects detected in the course of market surveillance, and material possibly available in the information systems administered by the Commission;\n(c) information about known accidents and serious close calls, including the characteristics of those accidents or close calls;\n(d) data on accidents or damage to health caused by the machinery or related product for at least the preceding four years. In particular, information obtained, inter alia, from the Information and Communication System on Market Surveillance (ICSMS), safeguard clauses, Safety Gate Rapid Alert System, the European Injury Database (EU-IDB), Eurostat’s European Statistics on Accidents at Work (ESAW) and the Machinery Administrative Cooperation Group (AdCo).\nIn addition to points (a) to (d) of this paragraph, the Commission shall take into account any other information available that is relevant to the assessment referred to in paragraph 4.\n6. The data and information referred to in paragraph 5, points (a) to (d), shall be provided by Member States in accordance with paragraph 9.\n7. A category of machinery or related product shall be included in Annex I, Part A, if, according to the assessment referred to in paragraph 4, and taking into account the available information, including the data referred to in paragraph 5, it presents a serious inherent potential risk, and one or more of the following conditions is fulfilled:\n(a) there is a lack of harmonised standards or common specifications covering the relevant essential health and safety requirements;\n(b) residual risks exist, including those which, according to the manufacturer, could be reduced by particular training or personal protective equipment, and the data and information referred to in paragraph 5, demonstrate the recurrence of similar serious or fatal accidents or damage to health in connection with those residual risks;\n(c) data and information exist which according to the Commission demonstrate recurring wrongful application of the relevant harmonised standards or common specifications and for which the market surveillance activities that were carried out have not led to major improvements of the market situation, in a reasonable period;\n(d) there is a degree of uncertainty in the existing risk assessment methods related to new categories of machinery or technologies.\nAny other category of machinery or related product that, according to that assessment, presents a serious inherent potential risk but does not fulfil one or more of the conditions in points (a) to (d) shall be included in Annex I, Part B.\n8. A Member State which has concerns about a category of machinery or related product being listed or not in Annex I shall immediately inform the Commission of those concerns and provide reasons in support thereof.\nThe Commission shall conduct the assessment referred to in paragraph 4 immediately after being informed by a Member State.\nAfter making that assessment, the Commission may initiate the procedure laid down in paragraph 2.\n9. By 20 July 2025, and every five years thereafter, Member States shall provide the data and information referred to in paragraph 5, including information to the effect that none of the events referred to in paragraph 5 has occurred, for every category of machinery or related products which is included in Annex I or which is not included in Annex I where that non-inclusion is a cause of concern for the Member State.\n10. The Commission shall adopt implementing acts setting out and, where necessary in the light of technological and market development, updating a template concerning the collection by Member States of the data and the information referred to in paragraph 5, points (a) to (d).\nWhen adopting those implementing acts, the Commission shall issue guidance to Member States on the collection and transmission of comparable, high-quality data and information.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(3).\nThe first such implementing act shall be adopted not later than 20 July 2024.\n11. If necessary after the Commission report referred to in Article 53(3), the Commission shall adopt delegated acts in accordance with Article 47 to supplement paragraph 5 of this Article by specifying the obligations of Member States to provide data and information required pursuant to this Article through the establishment of a common methodology concerning the data and information to be collected, including the methods for their collection and compilation, and the procedures for their transmission, as well as the relevant definitions, in order to ensure that sufficient and comparable data is available for the Commission to carry out the assessment referred to in paragraph 4.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 6 PA 9 ALN 1",
+          "AR 6 PA 10 ALN 4"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2024-07-14",
+          "2025-07-14"
+        ],
+        "dates_added": [
+          "2024-07-20",
+          "2025-07-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The deadline in paragraph 9 for Member States to provide the data and information referred to in paragraph 5 was changed from 14 July 2025 to 20 July 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_6",
+              "label": "Art. 6, 32023R1230"
+            }
+          ]
+        },
+        {
+          "text": "The deadline in paragraph 10 for the Commission to adopt the first implementing act was changed from 14 July 2024 to 20 July 2024.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_6",
+              "label": "Art. 6, 32023R1230"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 47"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 47\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 6(2), 6(11) and 7(2) shall be conferred on the Commission for a period of five years from 13 July 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 6(2), 6(11) and 7(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Articles 6(2), 6(11) or 7(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 47\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 6(2), 6(11) and 7(2) shall be conferred on the Commission for a period of five years from 19 July 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 6(2), 6(11) and 7(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Articles 6(2), 6(11) or 7(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 47 PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2023-07-13"
+        ],
+        "dates_added": [
+          "2023-07-19"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is the start date for the five-year delegation period, which moved from 13 July 2023 to 19 July 2023.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_47",
+              "label": "Art. 47, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_47",
+              "label": "Art. 47, 02023R1230-20230629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 50"
+        },
+        "heading": "Penalties",
+        "before": "Article 50\nPenalties\n1. Member States shall lay down the rules on penalties applicable to infringements by economic operators of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive and may include criminal penalties for serious infringements.\n2. Member States shall, by 14 October 2026, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.",
+        "after": "Article 50\nPenalties\n1. Member States shall lay down the rules on penalties applicable to infringements by economic operators of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive and may include criminal penalties for serious infringements.\n2. Member States shall, by 20 October 2026, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 50 PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2026-10-14"
+        ],
+        "dates_added": [
+          "2026-10-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The notification deadline by which Member States must inform the Commission of their penalty rules and measures was changed from 14 October 2026 to 20 October 2026.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 50"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_50",
+              "label": "Art. 50, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 50"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_50",
+              "label": "Art. 50, 02023R1230-20230629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 51"
+        },
+        "heading": "Repeals",
+        "before": "Article 51\nRepeals\n1. Directive 73/361/EEC is repealed.\nReferences to the repealed Directive 73/361/EEC shall be construed as references to this Regulation.\n2. Directive 2006/42/EC is repealed with effect from 14 January 2027.\nReferences to the repealed Directive 2006/42/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex XII.",
+        "after": "Article 51\nRepeals\n1. Directive 73/361/EEC is repealed.\nReferences to the repealed Directive 73/361/EEC shall be construed as references to this Regulation.\n2. Directive 2006/42/EC is repealed with effect from 20 January 2027.\nReferences to the repealed Directive 2006/42/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex XII.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 51 PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2027-01-14"
+        ],
+        "dates_added": [
+          "2027-01-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date on which Directive 2006/42/EC is stated to be repealed has changed from 14 January 2027 to 20 January 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 51"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_51",
+              "label": "Art. 51, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 51"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_51",
+              "label": "Art. 51, 02023R1230-20230629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 52"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 52\nTransitional provisions\n1. Member States shall not impede the making available on the market of products which were placed on the market in conformity with Directive 2006/42/EC before 14 January 2027. However, Chapter VI of this Regulation shall apply, from 13 July 2023, mutatis mutandis to such products instead of Article 11 of that Directive, including products for which a procedure has already been initiated under Article 11 of Directive 2006/42/EC.\n2. EC type-examination certificates and approval decisions issued in accordance with Article 12 of Directive 2006/42/EC shall remain valid until they expire.",
+        "after": "Article 52\nTransitional provisions\n1. Member States shall not impede the making available on the market of products which were placed on the market in conformity with Directive 2006/42/EC before 20 January 2027. However, Chapter VI of this Regulation shall apply, from 19 July 2023, mutatis mutandis to such products instead of Article 11 of that Directive, including products for which a procedure has already been initiated under Article 11 of Directive 2006/42/EC.\n2. EC type-examination certificates and approval decisions issued in accordance with Article 12 of Directive 2006/42/EC shall remain valid until they expire.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 52 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2023-07-13",
+          "2027-01-14"
+        ],
+        "dates_added": [
+          "2023-07-19",
+          "2027-01-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date before which products placed on the market in conformity with Directive 2006/42/EC may not be impeded from being made available was changed from 14 January 2027 to 20 January 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 52"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_52",
+              "label": "Art. 52, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 52"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_52",
+              "label": "Art. 52, 02023R1230-20230629"
+            }
+          ]
+        },
+        {
+          "text": "The date from which Chapter VI applies mutatis mutandis to such products instead of Article 11 of that Directive was changed from 13 July 2023 to 19 July 2023.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 52"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_52",
+              "label": "Art. 52, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 52"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_52",
+              "label": "Art. 52, 02023R1230-20230629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 53"
+        },
+        "heading": "Evaluation and review",
+        "before": "Article 53\nEvaluation and review\n1. By 14 July 2028 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The reports shall be made public.\n2. Taking account of technical progress and practical experience gained in Member States as indicated in Article 6, the Commission shall in its report include an evaluation on the following aspects of this Regulation:\n(a) the essential health and safety requirements set out in Annex III;\n(b) the conformity assessment procedure applicable to machinery or related products listed in Annex I.\nWhere appropriate, the report shall be accompanied by a legislative proposal for amendment of the relevant provisions of this Regulation.\n3. By 14 July 2026 and every five years thereafter, the Commission shall submit a specific report on the assessment of Article 6(4) and (5) of this Regulation to the European Parliament and to the Council. The reports shall be made public.\nThe Commission shall include in its reports the following:\n(a) a summary of data and information provided by Member States in accordance with Article 6(5) during the reporting period;\n(b) an assessment of the list of categories of machinery or related products in Annex I in view of the criteria set out in Article 6(4).\nIn the reports, the Commission shall assess the appropriateness and availability of data and information provided by Member States, including its sufficiency and suitability for the purposes of making comparisons, identifying any shortcomings, necessary to ensure effective functioning and enforcement of Article 6.",
+        "after": "Article 53\nEvaluation and review\n1. By 20 July 2028 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The reports shall be made public.\n2. Taking account of technical progress and practical experience gained in Member States as indicated in Article 6, the Commission shall in its report include an evaluation on the following aspects of this Regulation:\n(a) the essential health and safety requirements set out in Annex III;\n(b) the conformity assessment procedure applicable to machinery or related products listed in Annex I.\nWhere appropriate, the report shall be accompanied by a legislative proposal for amendment of the relevant provisions of this Regulation.\n3. By 20 July 2026 and every five years thereafter, the Commission shall submit a specific report on the assessment of Article 6(4) and (5) of this Regulation to the European Parliament and to the Council. The reports shall be made public.\nThe Commission shall include in its reports the following:\n(a) a summary of data and information provided by Member States in accordance with Article 6(5) during the reporting period;\n(b) an assessment of the list of categories of machinery or related products in Annex I in view of the criteria set out in Article 6(4).\nIn the reports, the Commission shall assess the appropriateness and availability of data and information provided by Member States, including its sufficiency and suitability for the purposes of making comparisons, identifying any shortcomings, necessary to ensure effective functioning and enforcement of Article 6.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 53 PA 1 ALN 1",
+          "AR 53 PA 3 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2026-07-14",
+          "2028-07-14"
+        ],
+        "dates_added": [
+          "2026-07-20",
+          "2028-07-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The deadline in paragraph 1 for the Commission's evaluation and review report was changed from 14 July 2028 to 20 July 2028.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_53",
+              "label": "Art. 53, 32023R1230"
+            }
+          ]
+        },
+        {
+          "text": "The deadline in paragraph 3 for the Commission's specific report on Article 6(4) and (5) was changed from 14 July 2026 to 20 July 2026.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_53",
+              "label": "Art. 53, 32023R1230"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1230",
+            "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+          },
+          "version": "02023R1230-20230629",
+          "location": "AR 54"
+        },
+        "heading": "Entry into force and application",
+        "before": "Article 54\nEntry into force and application\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nIt shall apply from 14 January 2027.\nHowever, the following Articles shall apply from the following dates:\n(a) Articles 26 to 42 from 14 January 2024;\n(b) Article 50(1) from 14 October 2023;\n(c) Article 6(7) and Articles 48 and 52 from 13 July 2023;\n(d) Article 6(2) to (6), (8) and (11) and Articles 47 and 53(3) from 14 July 2024.",
+        "after": "Article 54\nEntry into force and application\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nIt shall apply from 20 January 2027.\nHowever, the following Articles shall apply from the following dates:\n(a) Articles 26 to 42 from 20 January 2024;\n(b) Article 50(1) from 20 October 2026;\n(c) Article 6(7) and Articles 48 and 52 from 19 July 2023;\n(d) Article 6(2) to (6), (8) and (11) and Articles 47 and 53(3) from 20 July 2024.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 54 ALN 2",
+          "AR 54 ALN 3 PTA (a)",
+          "AR 54 ALN 3 PTA (b)",
+          "AR 54 ALN 3 PTA (c)",
+          "AR 54 ALN 3 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2023-07-13",
+          "2023-10-14",
+          "2024-01-14",
+          "2024-07-14",
+          "2027-01-14"
+        ],
+        "dates_added": [
+          "2023-07-19",
+          "2024-01-20",
+          "2024-07-20",
+          "2026-10-20",
+          "2027-01-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2023-06-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The general application date changed from 14 January 2027 to 20 January 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_54",
+              "label": "Art. 54, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_54",
+              "label": "Art. 54, 02023R1230-20230629"
+            }
+          ]
+        },
+        {
+          "text": "The specific dates for the listed Articles also shifted: point (a) moved from 14 January 2024 to 20 January 2024, point (b) moved from 14 October 2023 to 20 October 2026, point (c) moved from 13 July 2023 to 19 July 2023, and point (d) moved from 14 July 2024 to 20 July 2024.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "32023R1230",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#art_54",
+              "label": "Art. 54, 32023R1230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1230",
+                  "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+                },
+                "version": "02023R1230-20230629",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_54",
+              "label": "Art. 54, 02023R1230-20230629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1230",
+      "display_name": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC of the European Parliament and of the Council and Council Directive 73/361/EEC (Text with EEA relevance)"
+    },
+    "from_version": "32023R1230",
+    "to_version": "02023R1230-20230629",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 6",
+          "AR 47",
+          "AR 50",
+          "AR 51",
+          "AR 52",
+          "AR 53",
+          "AR 54"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2023-06-29]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 7,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 28930,
+      "output_tokens": 1518,
+      "requests": 8,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 7,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 18,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
