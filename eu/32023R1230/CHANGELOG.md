@@ -10,6 +10,105 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02023R1230-20260727 -->
+## Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing […]
+### `02023R1230-20260529` → `02023R1230-20260727`
+
+- **Act** `eu:32023R1230` · **In force** 2026-07-27 · **Detected** 2026-08-12
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02023R1230-20260529` · `v2` = `02023R1230-20260727`
+
+---
+
+**MODIFIED · Art. 8 — Essential health and safety requirements for products within the scope of this Regulation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 8 ALN 3`, `AR 8 ALN 4` · *dates* +2024-06-13 +2028-08-02 · *amended by* `32026R1744`
+
+The provision adds two new paragraphs empowering the Commission to adopt delegated acts amending Annex III to add health and safety requirements for Artificial Intelligence systems classified as high-risk under Article 6(1) of Regulation (EU) 2024/1689, where those systems are safety components or products covered by this Regulation, with those requirements to reflect specified provisions of that Regulation. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_8)
+
+A further new paragraph requires the Commission, when adopting those delegated acts, to take into account the objectives of Regulation (EU) 2024/1689 and to ensure a consistent level of protection, and states that the delegated acts shall apply by 2 August 2028. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_8)
+
+The first two paragraphs on essential health and safety requirements for machinery, related products, and partly completed machinery remain unchanged between the two versions. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_8)
+
+*before* (`02023R1230-20260529`)
+
+> Article 8
+> Essential health and safety requirements for products within the scope of this Regulation
+> Machinery or related products shall only be made available on the market or put into service if, where properly installed and maintained and used for their intended use or under conditions which can reasonably be foreseen, they meet the essential health and safety requirements set out in Annex III.
+> Partly completed machinery shall only be made available on the market if it meets the relevant essential health and safety requirements set out in Annex III.
+
+*after* (`02023R1230-20260727`)
+
+> Article 8
+> Essential health and safety requirements for products within the scope of this Regulation
+> Machinery or related products shall only be made available on the market or put into service if, where properly installed and maintained and used for their intended use or under conditions which can reasonably be foreseen, they meet the essential health and safety requirements set out in Annex III.
+> Partly completed machinery shall only be made available on the market if it meets the relevant essential health and safety requirements set out in Annex III.
+> The Commission shall adopt delegated acts in accordance with Article 47 of this Regulation to amend Annex III to this Regulation by adding health and safety requirements in respect of Artificial Intelligence (AI) systems that are classified as high-risk pursuant to Article 6(1) of Regulation (EU) 2024/1689 of the European Parliament and of the CouncilRegulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj). due to the fact that they are a safety component in a product covered by this Regulation, or they are themselves a product covered by this Regulatio […truncated by emendrix: 444 characters omitted…]
+
+**MODIFIED · Art. 20 — Presumption of conformity of products within the scope of this Regulation** · applies from: unchanged
+
+*within* `AR 20 PA 10` · *amended by* `32026R1744`
+
+A new paragraph 10 has been added stating that, until harmonised standards or common specifications are referenced or adopted under this Article for high-risk AI systems, such systems within the scope of this Regulation that comply with the relevant harmonised standards or common specifications adopted under Articles 40 and 41 of Regulation (EU) 2024/1689 are presumed to conform with the essential health and safety requirements in Annex III relating to high-risk AI systems. [Art. 20, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_20)
+
+Paragraphs 1 through 9 remain textually unchanged between the two versions. [Art. 20, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_20) [Art. 20, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_20)
+
+*before* (`02023R1230-20260529`)
+
+> Article 20
+> Presumption of conformity of products within the scope of this Regulation
+> 1. A product within the scope of this Regulation which is in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential health and safety requirements set out in Annex III covered by those standards or parts thereof.
+> 2. The Commission shall, as provided in Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards for the essential health and safety requirements set out in Annex III.
+> 3. The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential health and safety requirements set out in Annex III for products within the scope of this Regulation.
+> Those implementing acts shall only be adopted where the following conditions are fulfilled:
+> (a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard for the essential health and safety requirements set out in Annex III and:
+> (i) the request has not been accepted; or
+> (ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012 […truncated by emendrix: 2952 characters omitted…]
+
+*after* (`02023R1230-20260727`)
+
+> Article 20
+> Presumption of conformity of products within the scope of this Regulation
+> 1. A product within the scope of this Regulation which is in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential health and safety requirements set out in Annex III covered by those standards or parts thereof.
+> 2. The Commission shall, as provided in Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards for the essential health and safety requirements set out in Annex III.
+> 3. The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential health and safety requirements set out in Annex III for products within the scope of this Regulation.
+> Those implementing acts shall only be adopted where the following conditions are fulfilled:
+> (a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard for the essential health and safety requirements set out in Annex III and:
+> (i) the request has not been accepted; or
+> (ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012 […truncated by emendrix: 3482 characters omitted…]
+
+**MODIFIED · Art. 47 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 47 PA 2 ALN 1`, `AR 47 PA 3 ALN 1`, `AR 47 PA 6 ALN 1` · *dates* +2026-07-27 · *amended by* `32026R1744`
+
+Paragraph 2 now adds a separate five-year delegation period beginning 27 July 2026 for the power referred to in Article 8, third paragraph, alongside the existing delegation covering Article 6(2) and (11) and Article 7(2). [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_47)
+
+Paragraph 3 correspondingly extends the revocable delegation of power to include Article 8, third paragraph, in addition to Article 6(2) and (11) and Article 7(2). [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_47)
+
+Paragraph 6 likewise extends the non-objection entry-into-force procedure for delegated acts to cover acts adopted pursuant to Article 8, third paragraph, in addition to those adopted under Article 6(2) and (11) and Article 7(2). [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260727#art_47)
+
+*before* (`02023R1230-20260529`)
+
+> Article 47
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 6(2), 6(11) and 7(2) shall be conferred on the Commission for a period of five years from 19 July 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegation of power referred to in Articles 6(2), 6(11) and 7(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to th […truncated by emendrix: 544 characters omitted…]
+
+*after* (`02023R1230-20260727`)
+
+> Article 47
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 6(2) and (11) and Article 7(2), shall be conferred on the Commission for a period of five years from 19 July 2023. The power to adopt delegated acts referred to in Article 8, third paragraph, shall be conferred on the Commission for a period of five years from 27 July 2026. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension no later than three months before the end of each period.
+> 3. The delegation of power referred to in Article 6(2) and (11), Article 7(2) and Article 8, third paragraph, may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles l […truncated by emendrix: 789 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1230-20260727 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1230-20260529 -->
 ## Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing […]
 ### `02023R1230-20230629` → `02023R1230-20260529`
