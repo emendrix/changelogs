@@ -10,6 +10,137 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20230320 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20230311` → `02017R0745-20230320`
+
+- **Act** `eu:32017R0745` · **In force** 2023-03-20 · **Detected** 2026-08-12
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 137 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20230311` · `v2` = `02017R0745-20230320`
+
+---
+
+**MODIFIED · Art. 120 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 120 PA 2 ALN 2`, `AR 120 PA 2 ALN 2 PTA (a)`, `AR 120 PA 2 ALN 2 PTA (b)`, `AR 120 PA 3 ALN 1`, `AR 120 PA 3 ALN 2`, `AR 120 PA 3a`, `AR 120 PA 3b`, `AR 120 PA 3c`, `AR 120 PA 3d`, `AR 120 PA 3e`, `AR 120 PA 3f`, `AR 120 PA 4 ALN 1` · *dates* -2024-05-27 -2025-05-26 +2023-03-20 +2024-09-26 +2026-05-26 +2027-12-31 +2028-12-31 · *amended by* `32023R0607`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02017R0745-20230311`)
+
+> Article 120
+> Transitional provisions
+> 1. From 26 May 2021, any publication of a notification in respect of a notified body in accordance with Directives 90/385/EEC and 93/42/EEC shall become void.
+> 2. Certificates issued by notified bodies in accordance with Directives 90/385/EEC and 93/42/EEC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex 4 to Directive 90/385/EEC or Annex IV to Directive 93/42/EEC which shall become void at the latest on 27 May 2022.
+> Certificates issued by notified bodies in accordance with Directives 90/385/EEC and 93/42/EEC from 25 May 2017 shall remain valid until the end of the period indicated on the certificate, which shall not exceed five years from its issuance. They shall however become void at the latest on 27 May 2024.
+> 3. By way of derogation from Article 5 of this Regulation, a device which is a class I device pursuant to Directive 93/42/EEC, for which the declaration of conformity was drawn up prior to 26 May 2021 and for which the conformity assessment procedure pursuant to this Regulation requires the involvement of a notified body, or which has a certificate that was issued in accordance with Directive 90/385/EEC or Directive 93/42/EEC and that is valid by virtue of paragraph 2 of this Article, may be placed on the market or put into service until 26 May 2024, provided that from 26 May 2021 it continues to comply with either of those Direc […truncated by emendrix: 3771 characters omitted…]
+
+*after* (`02017R0745-20230320`)
+
+> Article 120
+> Transitional provisions
+> 1. From 26 May 2021, any publication of a notification in respect of a notified body in accordance with Directives 90/385/EEC and 93/42/EEC shall become void.
+> 2. Certificates issued by notified bodies in accordance with Directives 90/385/EEC and 93/42/EEC prior to 25 May 2017 shall remain valid until the end of the period indicated on the certificate, except for certificates issued in accordance with Annex 4 to Directive 90/385/EEC or Annex IV to Directive 93/42/EEC which shall become void at the latest on 27 May 2022.
+> Certificates issued by notified bodies in accordance with Directives 90/385/EEC and 93/42/EEC from 25 May 2017 that were still valid on 26 May 2021 and that have not been withdrawn afterwards shall remain valid after the end of the period indicated on the certificate until the date set out in paragraph 3a of this Article applicable for the relevant risk class of the devices. Certificates issued by notified bodies in accordance with those Directives from 25 May 2017 that were still valid on 26 May 2021 and that have expired before 20 March 2023 shall be considered to be valid until the dates set out in paragraph 3a of this Article only if one of the following conditions is fulfilled:
+> (a) before the date of expiry of the certificate, the manufacturer and a notified body have signed a written agreement in accordance with Section 4.3, second subparagraph, of Annex VII to this Regulation for the conformity assessment in respect of […truncated by emendrix: 8760 characters omitted…]
+
+**MODIFIED · Art. 122 — Repeal** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 122 ALN 1`, `AR 122 ALN 2` · *dates* -2025-05-27 · *amended by* `32023R0607`
+
+The cross-references to Article 120 have been broadened from paragraphs (3) and (4) to paragraphs (3) to (3e) and (4) in both the opening clause and the paragraph on continued application of the repealed Directives. [Art. 122, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230311#art_122) [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_122)
+
+The paragraph on continued application of the Directives no longer specifies an end date of 27 May 2025, instead stating that those Directives continue to apply without stating a cut-off date. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_122)
+
+That same paragraph also now refers to 'the first paragraph of this Article' rather than simply 'the first paragraph'. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_122)
+
+*before* (`02017R0745-20230311`)
+
+> Article 122
+> Repeal
+> Without prejudice to Articles 120(3) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and to the obligations of manufacturers as regards the making available of documentation, under Directives 90/385/EEC and 93/42/EEC, those Directives are repealed with effect from 26 May 2021, with the exception of:
+> Articles 8 and 10, points (b) and (c) of Article 10b(1), Article 10b(2) and Article 10b(3) of Directive 90/385/EEC, and the obligations relating to vigilance and clinical investigations provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in point (d) of Article 123(3) of this Regulation;
+> Article 10a, point (a) of Article 10b(1) and Article 11(5) of Directive 90/385/EEC, and the obligations relating to registration of devices and economic operators, and to certificate notifications, provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in point (d) of Article 123(3) of this Regulation;
+> Article 10, points (c) and (d) of Article 14a(1), Article 14a(2), Article 14a(3) and Article 15 of Directive 93/42/EEC, and the obligations relating to vigilance and clinical investigations provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in point (d) of Article 123(3) of this Regulation; and
+> Article 14 […truncated by emendrix: 1187 characters omitted…]
+
+*after* (`02017R0745-20230320`)
+
+> Article 122
+> Repeal
+> Without prejudice to Article 120(3) to (3e) and (4) of this Regulation, and without prejudice to the obligations of the Member States and manufacturers as regards vigilance and to the obligations of manufacturers as regards the making available of documentation, under Directives 90/385/EEC and 93/42/EEC, those Directives are repealed with effect from 26 May 2021, with the exception of:
+> Articles 8 and 10, points (b) and (c) of Article 10b(1), Article 10b(2) and Article 10b(3) of Directive 90/385/EEC, and the obligations relating to vigilance and clinical investigations provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in point (d) of Article 123(3) of this Regulation;
+> Article 10a, point (a) of Article 10b(1) and Article 11(5) of Directive 90/385/EEC, and the obligations relating to registration of devices and economic operators, and to certificate notifications, provided for in the corresponding Annexes, which are repealed with effect from 18 months after the later of the dates referred to in point (d) of Article 123(3) of this Regulation;
+> Article 10, points (c) and (d) of Article 14a(1), Article 14a(2), Article 14a(3) and Article 15 of Directive 93/42/EEC, and the obligations relating to vigilance and clinical investigations provided for in the corresponding Annexes, which are repealed with effect from the later of the dates referred to in point (d) of Article 123(3) of this Regulation; and
+> Art […truncated by emendrix: 1199 characters omitted…]
+
+**MODIFIED · Art. 123 — Entry into force and date of application** · applies from: unchanged
+
+*within* `AR 123 PA 3 ALN 1 PTA (d)` · *amended by* `32023R0607`
+
+In the list of provisions tied to Eudamed functionality under point (d), the reference to the second sentence of the first subparagraph of Article 120(3) was replaced with a reference to Article 120(3d). [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_123)
+
+*before* (`02017R0745-20230311`)
+
+> Article 123
+> Entry into force and date of application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 26 May 2021.
+> 3. By way of derogation from paragraph 2:
+> (a) Articles 35 to 50 shall apply from 26 November 2017. However, from that date until 26 May 2021, the obligations on notified bodies pursuant to Articles 35 to 50 shall apply only to those bodies which submit an application for designation in accordance with Article 38;
+> (b) Articles 101 and 103 shall apply from 26 November 2017;
+> (c) Article 102 shall apply from 26 May 2018;
+> (d) without prejudice to the obligations on the Commission pursuant to Article 34, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1), Eudamed is not fully functional on 26 May 2021, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3). The provisions referred to in the preceding sentence are:
+> Article 29,
+> Article 31,
+> Article 32,
+> Article 33(4),
+> the second sentence of Article 40(2),
+> Article 42(10),
+> Article 43(2),
+> the second subparagraph of Article 44(12),
+> points (d) and (e) of Article 46(7),
+> Article 53(2),
+> Article 54(3),
+> Article 55(1),
+> Articles 70 to 77,
+> paragraphs 1 to 13 of Article 78,
+> Articles 79 to 82,
+> Article 86(2),
+> Articles 87 and […truncated by emendrix: 1557 characters omitted…]
+
+*after* (`02017R0745-20230320`)
+
+> Article 123
+> Entry into force and date of application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 26 May 2021.
+> 3. By way of derogation from paragraph 2:
+> (a) Articles 35 to 50 shall apply from 26 November 2017. However, from that date until 26 May 2021, the obligations on notified bodies pursuant to Articles 35 to 50 shall apply only to those bodies which submit an application for designation in accordance with Article 38;
+> (b) Articles 101 and 103 shall apply from 26 November 2017;
+> (c) Article 102 shall apply from 26 May 2018;
+> (d) without prejudice to the obligations on the Commission pursuant to Article 34, where, due to circumstances that could not reasonably have been foreseen when drafting the plan referred to in Article 34(1), Eudamed is not fully functional on 26 May 2021, the obligations and requirements that relate to Eudamed shall apply from the date corresponding to six months after the date of publication of the notice referred to in Article 34(3). The provisions referred to in the preceding sentence are:
+> Article 29,
+> Article 31,
+> Article 32,
+> Article 33(4),
+> the second sentence of Article 40(2),
+> Article 42(10),
+> Article 43(2),
+> the second subparagraph of Article 44(12),
+> points (d) and (e) of Article 46(7),
+> Article 53(2),
+> Article 54(3),
+> Article 55(1),
+> Articles 70 to 77,
+> paragraphs 1 to 13 of Article 78,
+> Articles 79 to 82,
+> Article 86(2),
+> Articles 87 and […truncated by emendrix: 1509 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20230320 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20230311 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20200424` → `02017R0745-20230311`
