@@ -10,6 +10,78 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0746-20250110 -->
+## Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical […]
+### `02017R0746-20240709` → `02017R0746-20250110`
+
+- **Act** `eu:32017R0746` · **In force** 2025-01-10 · **Detected** 2026-08-12
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 128 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02017R0746-20240709` · `v2` = `02017R0746-20250110`
+
+---
+
+**INSERTED · Art. 10a — Obligations in case of interruption or discontinuation of supply of certain devices** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R1860`
+
+A new Article 10a is added, requiring a manufacturer who anticipates that supply of a device will be interrupted or discontinued, and who considers this could foreseeably cause serious harm or a risk of serious harm to patients or public health in one or more Member States, to inform the competent authority of the Member State where it or its authorised representative is established, along with the economic operators, health institutions and healthcare professionals it directly supplies. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110#art_10a)
+
+This notification is to be given at least six months before the anticipated interruption or discontinuation except in exceptional circumstances, and must state the reasons for it, with the receiving competent authority then informing other Member States' competent authorities and the Commission without undue delay. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110#art_10a)
+
+Economic operators who receive this information are in turn required to pass it on without undue delay to any other economic operators, health institutions and healthcare professionals they directly supply. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110#art_10a)
+
+*after* (`02017R0746-20250110`)
+
+> Article 10a
+> Obligations in case of interruption or discontinuation of supply of certain devices
+> 1. Where a manufacturer anticipates an interruption or a discontinuation of the supply of a device and where it is reasonably foreseeable that such interruption or discontinuation could result in serious harm or a risk of serious harm to patients or public health in one or more Member States, the manufacturer shall inform the competent authority of the Member State where it or its authorised representative is established, as well as the economic operators, health institutions and healthcare professionals to whom it directly supplies the device, of the anticipated interruption or discontinuation.
+> The information referred to in the first subparagraph shall, other than in exceptional circumstances, be provided at least 6 months before the anticipated interruption or discontinuation. The manufacturer shall specify the reasons for the interruption or discontinuation in the information provided to the competent authority.
+> 2. The competent authority that has received the information referred to in paragraph 1 shall, without undue delay, inform the competent authorities of the other Member States and the Commission of the anticipated interruption or discontinuation.
+> 3. The economic operators who have received the information from the manufacturer in accordance with paragraph 1 or from another economic operator in the supply chain shall, without undue delay, inform any other economic operat […truncated by emendrix: 145 characters omitted…]
+
+**MODIFIED · Art. 74** · applies from: unknown
+
+*amended by* `32024R1860`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 110** · applies from: unknown
+
+*amended by* `32024R1860`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 112** · applies from: unknown
+
+*amended by* `32024R1860`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 113** · applies from: unknown
+
+*amended by* `32024R1860`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0746-20250110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0746-20240709 -->
 ## Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical […]
 ### `02017R0746-20230320` → `02017R0746-20240709`
