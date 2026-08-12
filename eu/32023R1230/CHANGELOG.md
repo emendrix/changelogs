@@ -10,6 +10,157 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02023R1230-20260529 -->
+## Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing […]
+### `02023R1230-20230629` → `02023R1230-20260529`
+
+- **Act** `eu:32023R1230` · **In force** 2026-05-29 · **Detected** 2026-08-12
+- **Touched** 7 provisions — 7 substantive · 0 date-only · **6 disputed**
+- **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02023R1230-20230629` · `v2` = `02023R1230-20260529`
+
+---
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 3 ALN 1 PO 36`, `AR 3 ALN 1 PO 37`, `AR 3 ALN 1 PO 38` · *dates* +2024-10-09 · *amended by* `32024R2748`
+
+The list of definitions now includes two additional entries beyond the original 36: point 37 defining 'crisis-relevant goods' by reference to Article 3, point (6), of Regulation (EU) 2024/2747, and point 38 defining 'internal market emergency mode' by reference to Article 3, point (3), of the same Regulation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_3)
+
+Point 36, defining 'professional user', is unchanged in substance, with its ending punctuation adjusted from a full stop to a semicolon to accommodate the new points that follow. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20230629#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_3)
+
+*before* (`02023R1230-20230629`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) machinery means:
+> (a) an assembly, fitted with or intended to be fitted with a drive system other than directly applied human or animal effort, consisting of linked parts or components, at least one of which moves, and which are joined together for a specific application;
+> (b) an assembly referred to in point (a), missing only the components to connect it on site or to sources of energy and motion;
+> (c) an assembly referred to points (a) and (b), ready to be installed and able to function as it stands only if mounted on a means of transport, or installed in a building or a structure;
+> (d) assemblies of machinery referred to in points (a), (b) and (c), or of partly completed machinery, which, in order to achieve the same end, are arranged and controlled so that they function as an integral whole;
+> (e) an assembly of linked parts or components, at least one of which moves, and which are joined together, intended for lifting loads and whose only power source is directly applied human effort;
+> (f) an assembly as referred to in points (a) to (e) missing only the uploading of the software intended for the specific application foreseen by the manufacturer;
+> (2) interchangeable equipment means a device which, after the putting into service of machinery or an agricultural or forestry tractor, is assembled with that machinery or agricultural or forestry tractor by the operator in order to change it […truncated by emendrix: 7870 characters omitted…]
+
+*after* (`02023R1230-20260529`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) machinery means:
+> (a) an assembly, fitted with or intended to be fitted with a drive system other than directly applied human or animal effort, consisting of linked parts or components, at least one of which moves, and which are joined together for a specific application;
+> (b) an assembly referred to in point (a), missing only the components to connect it on site or to sources of energy and motion;
+> (c) an assembly referred to points (a) and (b), ready to be installed and able to function as it stands only if mounted on a means of transport, or installed in a building or a structure;
+> (d) assemblies of machinery referred to in points (a), (b) and (c), or of partly completed machinery, which, in order to achieve the same end, are arranged and controlled so that they function as an integral whole;
+> (e) an assembly of linked parts or components, at least one of which moves, and which are joined together, intended for lifting loads and whose only power source is directly applied human effort;
+> (f) an assembly as referred to in points (a) to (e) missing only the uploading of the software intended for the specific application foreseen by the manufacturer;
+> (2) interchangeable equipment means a device which, after the putting into service of machinery or an agricultural or forestry tractor, is assembled with that machinery or agricultural or forestry tractor by the operator in order to change it […truncated by emendrix: 8562 characters omitted…]
+
+**INSERTED · Art. 25a — Application of emergency procedures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 25a has been added, setting out conditions under which Articles 25b to 25e apply, namely that the Commission has adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 for the relevant machinery and related products, that those products have been designated as crisis-relevant goods under Article 18(4) of that Regulation, and that an internal market emergency mode activated under Article 18 of that Regulation is in effect. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25a)
+
+The new article also states that Article 25c(7) continues to apply during the emergency mode and after its expiry or deactivation, and that the Commission may adopt implementing acts on corrective or restrictive actions, procedures, and labelling and traceability requirements for machinery and related products under Articles 25c and 25d, following the examination procedure in Article 48(3). [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25a)
+
+*after* (`02023R1230-20260529`)
+
+> Article 25a
+> Application of emergency procedures
+> 1. Articles 25b to 25e of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to machinery and related products covered by this Regulation.
+> 2. Articles 25b to 25e of this Regulation shall apply only to machinery and related products which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.
+> 3. Articles 25b to 25e of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.
+> However, Article 25c(7) of this Regulation shall apply during the internal market emergency mode and after its expiry or deactivation.
+> 4. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to machinery and related products placed on the market or put into service in accordance with Articles 25c and 25d. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(3).
+
+**INSERTED · Art. 25b — Prioritisation of the conformity assessment of machinery and related products designated as crisis-relevant goods** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out how notified bodies are to handle conformity assessments for machinery and related products designated as crisis-relevant goods. [Art. 25b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25b)
+
+It defines its own scope by reference to the list in the emergency implementing act and to the conformity assessment procedures requiring notified body involvement, directs notified bodies to prioritise related applications regardless of when they were lodged, states that such prioritisation must not create disproportionate additional costs for the manufacturers who lodged the applications, and calls for reasonable efforts to increase testing capacities. [Art. 25b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25b)
+
+*after* (`02023R1230-20260529`)
+
+> Article 25b
+> Prioritisation of the conformity assessment of machinery and related products designated as crisis-relevant goods
+> 1. This Article applies to all types of machinery and related products listed in the implementing act referred to in Article 25a(1) that are subject to the conformity assessment procedures referred to in Article 25 that require the mandatory involvement of a notified body.
+> 2. The notified bodies shall make best efforts to process as a matter of priority all applications for a conformity assessment of machinery and related products referred to in paragraph 1 of this Article, irrespective of whether those applications have been lodged before or after the activation of the emergency procedures pursuant to Article 25a.
+> 3. The prioritisation of applications for a conformity assessment of machinery and related products pursuant to paragraph 2 shall not result in additional disproportionate additional costs for the manufacturers, who have lodged those applications.
+> 4. The notified bodies shall make reasonable efforts to increase their testing capacities for machinery and related products referred to in paragraph 1 in respect of which they have been notified.
+
+**INSERTED · Art. 25c — Derogation from conformity assessment procedures requiring the mandatory involvement of a notified body** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article allowing a Member State to authorise, on a duly justified request from an economic operator, the placing on the market or putting into service of specific machinery or related products for which mandatory notified-body conformity assessment procedures were not carried out but for which compliance with the applicable essential health and safety requirements has been demonstrated by other means. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25c)
+
+The provision sets out related mechanisms including Commission notification and possible extension of the authorisation's validity across the Union, urgency procedures for adopting implementing acts, conditions such as an end date tied to activation of the internal market emergency mode, exemption from CE marking, and market surveillance powers, all attached to this newly added text. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25c)
+
+*after* (`02023R1230-20260529`)
+
+> Article 25c
+> Derogation from conformity assessment procedures requiring the mandatory involvement of a notified body
+> 1. By way of derogation from Article 25, a Member State may authorise, on a duly justified request from an economic operator, the placing on the market or putting into service within the territory of that Member State, of specific machinery or related products listed in the implementing act referred to in Article 25a(1) and for which the conformity assessment procedures referred to in Article 25 that require the mandatory involvement of a notified body have not been carried out but for which the compliance with all the applicable essential health and safety requirements set out in Annex III has been demonstrated in accordance with procedures referred to in that authorisation.
+> 2. The Member State shall immediately inform the Commission and the other Member States of any authorisation granted in accordance with paragraph 1 of this Article. Provided that the requirements set out in the authorisation ensure conformity with the applicable essential health and safety requirements laid down in Annex III, the Commission shall adopt, without delay, an implementing act extending for a limited period of time the validity of the authorisation granted by a Member State in accordance with paragraph 1 of this Article to the territory of the whole Union and shall set out the conditions under which the specific machinery or related products may be placed on the market or put int […truncated by emendrix: 4331 characters omitted…]
+
+**INSERTED · Art. 25d — Presumption of conformity based on standards and common specifications** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 25d is a newly added provision setting out when the Commission may adopt implementing acts listing standards or establishing common specifications for machinery or related products designated as crisis-relevant goods, covering the essential health and safety requirements of Annex III where harmonised standards are missing or delayed, or where an internal market emergency mode significantly restricts use of existing harmonised standards. [Art. 25d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25d)
+
+The provision describes the procedure for adopting and time-limiting such implementing acts, the consultation steps the Commission must follow beforehand, the resulting presumption of conformity and its cessation after the emergency mode ends, a derogation concerning products already placed on the market, and a mechanism for Member States to flag inadequacies in a listed standard or specification. [Art. 25d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25d)
+
+*after* (`02023R1230-20260529`)
+
+> Article 25d
+> Presumption of conformity based on standards and common specifications
+> 1. Where machinery or related products have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications for such machinery or related products to cover the applicable essential health and safety requirements set out in Annex III to this Regulation in the following cases:
+> (a) where a reference to harmonised standards covering the applicable essential health and safety requirements set out in Annex III to this Regulation has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period; or
+> (b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that cover the applicable essential health and safety requirements set out in Annex III to this Regulation and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.
+> 2. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes o […truncated by emendrix: 3204 characters omitted…]
+
+**INSERTED · Art. 25e — Prioritisation of market surveillance activities and mutual assistance among authorities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article requiring Member States to prioritise market surveillance activities for machinery and related products listed in the implementing act referred to in Article 25a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network. [Art. 25e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25e)
+
+It also newly provides that market surveillance authorities are to make best efforts to assist other such authorities during an internal market emergency mode, including through mobilising expert teams or providing logistical support such as reinforcing testing capacity for the listed machinery and related products. [Art. 25e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25e)
+
+*after* (`02023R1230-20260529`)
+
+> Article 25e
+> Prioritisation of market surveillance activities and mutual assistance among authorities
+> 1. The Member States shall prioritise the market surveillance activities for machinery and related products listed in the implementing act referred to in Article 25a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
+> 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for machinery and the related products listed in the implementing act referred to in Article 25a(1).
+
+**INSERTED · CHA IVa** · applies from: unknown
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1230-20260529 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1230-20230629 -->
 ## Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing […]
 ### `32023R1230` → `02023R1230-20230629`
