@@ -1,0 +1,357 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0745",
+    "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+  },
+  "from_version": "02017R0745-20240709",
+  "to_version": "02017R0745-20250110",
+  "detected_on": "2026-08-12",
+  "in_force": [
+    "2025-01-01",
+    "2025-01-10"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 139,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0745",
+            "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+          },
+          "version": "02017R0745-20250110",
+          "location": "AR 10a"
+        },
+        "heading": "Obligations in case of interruption or discontinuation of supply of certain devices",
+        "before": null,
+        "after": "Article 10a\nObligations in case of interruption or discontinuation of supply of certain devices\n1. Where a manufacturer anticipates an interruption or a discontinuation of the supply of a device, other than a custom-made device, and where it is reasonably foreseeable that such interruption or discontinuation could result in serious harm or a risk of serious harm to patients or public health in one or more Member States, the manufacturer shall inform the competent authority of the Member State where it or its authorised representative is established, as well as the economic operators, health institutions and healthcare professionals to whom it directly supplies the device, of the anticipated interruption or discontinuation.\nThe information referred to in the first subparagraph shall, other than in exceptional circumstances, be provided at least 6 months before the anticipated interruption or discontinuation. The manufacturer shall specify the reasons for the interruption or discontinuation in the information provided to the competent authority.\n2. The competent authority that has received the information referred to in paragraph 1 shall, without undue delay, inform the competent authorities of the other Member States and the Commission of the anticipated interruption or discontinuation.\n3. The economic operators who have received the information from the manufacturer in accordance with paragraph 1 or from another economic operator in the supply chain shall, without undue delay, inform any other economic operators, health institutions and healthcare professionals to whom they directly supply the device, of the anticipated interruption or discontinuation.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1860",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1860 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32024R0568, 32024R1860",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 10a is added, requiring a manufacturer that anticipates an interruption or discontinuation of supply of a device, other than a custom-made device, reasonably foreseeable to cause serious harm or a risk of serious harm to patients or public health in one or more Member States, to inform the relevant competent authority and the economic operators, health institutions and healthcare professionals it directly supplies, and to state the reasons for the interruption or discontinuation, generally at least six months in advance.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20250110",
+                "location": "AR 10a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_10a",
+              "label": "Art. 10a, 02017R0745-20250110"
+            }
+          ]
+        },
+        {
+          "text": "The article further provides that the competent authority receiving this information must, without undue delay, notify the competent authorities of other Member States and the Commission, and that economic operators who receive such information must, without undue delay, pass it on to other economic operators, health institutions and healthcare professionals they directly supply.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20250110",
+                "location": "AR 10a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_10a",
+              "label": "Art. 10a, 02017R0745-20250110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0745",
+            "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+          },
+          "version": "02017R0745-20250110",
+          "location": "AR 106"
+        },
+        "heading": "Provision of scientific, technical and clinical opinions and advice",
+        "before": "Article 106\nProvision of scientific, technical and clinical opinions and advice\n1. The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.\n2. Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.\n3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clinical approaches in the Union. The Commission shall determine the number of members of each panel in accordance with the requisite needs.\nThe members of expert panels shall perform their tasks with impartiality and objectivity. They shall neither seek nor take instructions from notified bodies or manufacturers. Each member shall draw up a declaration of interests, which shall be made publicly available.\nThe Commission shall establish systems and procedures to actively manage and prevent potential conflicts of interest.\n4. Expert panels shall take into account relevant information provided by stakeholders including patients' organisations and healthcare professionals when preparing their scientific opinions.\n5. The Commission, following consultation with the MDCG, may appoint advisors to expert panels following publication in the Official Journal of the European Union and on the Commission website following a call for expressions of interest. Depending on the type of task and the need for specific expertise, advisors may be appointed to the expert panels for a maximum period of three years and their appointment may be renewed.\n6. The Commission, following consultation with the MDCG, may include advisors on a central list of available experts who, whilst not being formally appointed to a panel, are available to provide advice and to support the work of the expert panel as needed. That list shall be published on the Commission website.\n7. The Commission may, by means of implementing acts and following consultation with the MDCG, designate expert laboratories, on the basis of their expertise in:\nphysico-chemical characterisation, or\nmicrobiological, biocompatibility, mechanical, electrical, electronic or non-clinical biological and toxicological testing\nof specific devices, categories or groups of devices.\nThe Commission shall only designate expert laboratories for which a Member State or the Joint Research Centre has submitted an application for designation.\n8. Expert laboratories shall satisfy the following criteria:\n(a) have adequate and appropriately qualified staff with adequate knowledge and experience in the field of the devices for which they are designated;\n(b) possess the necessary equipment to carry out the tasks assigned to them;\n(c) have the necessary knowledge of international standards and best practices;\n(d) have an appropriate administrative organisation and structure;\n(e) ensure that their staff observe the confidentiality of information and data obtained in carrying out their tasks.\n9. Expert panels appointed for clinical evaluation in relevant medical fields shall fulfil the tasks provided for in Article 54(1) and Article 61(2) and Section 5.1 of Annex IX or Section 6 of Annex X, as applicable.\n10. Expert panels and expert laboratories may have the following tasks, depending on the requisite needs:\n(a) to provide scientific, technical and clinical assistance to the Commission and the MDCG in relation to the implementation of this Regulation;\n(b) to contribute to the development and maintenance of appropriate guidance and CS for:\nclinical investigations,\nclinical evaluation and PMCF,\nperformance studies,\nperformance evaluation and post-market performance follow-up,\nphysico-chemical characterisation, and\nmicrobiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing\nfor specific devices, or a category or group of devices, or for specific hazards related to a category or group of devices;\n(c) to develop and review clinical evaluation guidance and performance evaluation guidance for performance of conformity assessment in line with the state of the art with regard to clinical evaluation, performance evaluation, physico-chemical characterisation, and microbiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing;\n(d) to contribute to the development of standards at international level, ensuring that such standards reflect the state of the art;\n(e) to provide opinions in response to consultations by manufacturers in accordance with Article 61(2), notified bodies and Member States in accordance with paragraphs 11 to 13 of this Article.\n(f) to contribute to identification of concerns and emerging issues on the safety and performance of medical devices;\n(g) to provide views in accordance with Article 48(4) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices.\n11. The Commission, shall facilitate the access of Member States and notified bodies and manufacturers to advice provided by expert panels and expert laboratories concerning, inter alia, the criteria for an appropriate data set for assessment of the conformity of a device, in particular with regard to the clinical data required for clinical evaluation, with regard to physico-chemical characterisation, and with regard to microbiological, biocompatibility, mechanical, electrical, electronic and non-clinical toxicological testing.\n12. When adopting its scientific opinion in accordance with paragraph 9, the members of the expert panels shall use their best endeavours to reach consensus. If consensus cannot be reached, the expert panels shall decide by a majority of their members, and the scientific opinion shall mention the divergent positions and the grounds on which they are based.\nThe Commission shall publish the scientific opinion and advice delivered in accordance with paragraphs 9 and 11 of this Article, ensuring consideration of aspects of confidentiality as set out in Article 109. The clinical evaluation guidance referred to in point (c) of paragraph 10 shall be published following consultation with the MDCG.\n13. The Commission may require manufacturers and notified bodies to pay fees for the advice provided by expert panels and expert laboratories. The structure and the level of fees as well as the scale and structure of recoverable costs shall be adopted by the Commission by means of implementing acts, taking into account the objectives of the adequate implementation of this Regulation, protection of health and safety, support of innovation and cost-effectiveness and the necessity to achieve active participation in the expert panels. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).\n14. The fees payable to the Commission in accordance with the procedure under paragraph 13 of this Article shall be set in a transparent manner and on the basis of the costs for the services provided. The fees payable shall be reduced in the case of a clinical evaluation consultation procedure initiated in accordance with point (c) of Section 5.1 of Annex IX involving a manufacturer who is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.\n15. The Commission is empowered to adopt delegated acts in accordance with Article 115 to amend the tasks of expert panels and expert laboratories referred to in paragraph 10 of this Article.",
+        "after": "Article 106\nProvision of scientific, technical and clinical opinions and advice\n1. The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.\n2. Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.\n3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clinical approaches in the Union. The Commission shall determine the number of members of each panel in accordance with the requisite needs.\nThe members of expert panels shall perform their tasks with impartiality and objectivity. They shall neither seek nor take instructions from notified bodies or manufacturers. Each member shall draw up a declaration of interests, which shall be made publicly available.\nThe Commission shall establish systems and procedures to actively manage and prevent potential conflicts of interest.\n4. Expert panels shall take into account relevant information provided by stakeholders including patients' organisations and healthcare professionals when preparing their scientific opinions.\n5. The Commission, following consultation with the MDCG, may appoint advisors to expert panels following publication in the Official Journal of the European Union and on the Commission website following a call for expressions of interest. Depending on the type of task and the need for specific expertise, advisors may be appointed to the expert panels for a maximum period of three years and their appointment may be renewed.\n6. The Commission, following consultation with the MDCG, may include advisors on a central list of available experts who, whilst not being formally appointed to a panel, are available to provide advice and to support the work of the expert panel as needed. That list shall be published on the Commission website.\n7. The Commission may, by means of implementing acts and following consultation with the MDCG, designate expert laboratories, on the basis of their expertise in:\nphysico-chemical characterisation, or\nmicrobiological, biocompatibility, mechanical, electrical, electronic or non-clinical biological and toxicological testing\nof specific devices, categories or groups of devices.\nThe Commission shall only designate expert laboratories for which a Member State or the Joint Research Centre has submitted an application for designation.\n8. Expert laboratories shall satisfy the following criteria:\n(a) have adequate and appropriately qualified staff with adequate knowledge and experience in the field of the devices for which they are designated;\n(b) possess the necessary equipment to carry out the tasks assigned to them;\n(c) have the necessary knowledge of international standards and best practices;\n(d) have an appropriate administrative organisation and structure;\n(e) ensure that their staff observe the confidentiality of information and data obtained in carrying out their tasks.\n9. Expert panels appointed for clinical evaluation in relevant medical fields shall fulfil the tasks provided for in Article 54(1) and Article 61(2) and Section 5.1 of Annex IX or Section 6 of Annex X, as applicable.\n10. Expert panels and expert laboratories may have the following tasks, depending on the requisite needs:\n(a) to provide scientific, technical and clinical assistance to the Commission and the MDCG in relation to the implementation of this Regulation;\n(b) to contribute to the development and maintenance of appropriate guidance and CS for:\nclinical investigations,\nclinical evaluation and PMCF,\nperformance studies,\nperformance evaluation and post-market performance follow-up,\nphysico-chemical characterisation, and\nmicrobiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing\nfor specific devices, or a category or group of devices, or for specific hazards related to a category or group of devices;\n(c) to develop and review clinical evaluation guidance and performance evaluation guidance for performance of conformity assessment in line with the state of the art with regard to clinical evaluation, performance evaluation, physico-chemical characterisation, and microbiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing;\n(d) to contribute to the development of standards at international level, ensuring that such standards reflect the state of the art;\n(e) to provide opinions in response to consultations by manufacturers in accordance with Article 61(2), notified bodies and Member States in accordance with paragraphs 11 to 13 of this Article.\n(f) to contribute to identification of concerns and emerging issues on the safety and performance of medical devices;\n(g) to provide views in accordance with Article 48(4) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices.\n11. The Commission, shall facilitate the access of Member States and notified bodies and manufacturers to advice provided by expert panels and expert laboratories concerning, inter alia, the criteria for an appropriate data set for assessment of the conformity of a device, in particular with regard to the clinical data required for clinical evaluation, with regard to physico-chemical characterisation, and with regard to microbiological, biocompatibility, mechanical, electrical, electronic and non-clinical toxicological testing.\n12. When adopting its scientific opinion in accordance with paragraph 9, the members of the expert panels shall use their best endeavours to reach consensus. If consensus cannot be reached, the expert panels shall decide by a majority of their members, and the scientific opinion shall mention the divergent positions and the grounds on which they are based.\nThe Commission shall publish the scientific opinion and advice delivered in accordance with paragraphs 9 and 11 of this Article, ensuring consideration of aspects of confidentiality as set out in Article 109. The clinical evaluation guidance referred to in point (c) of paragraph 10 shall be published following consultation with the MDCG.\n13. The Commission may require manufacturers and notified bodies to pay fees for the advice provided by expert panels and expert laboratories. The structure and the level of fees as well as the scale and structure of recoverable costs shall be adopted by the Commission by means of implementing acts, taking into account the objectives of the adequate implementation of this Regulation, protection of health and safety, support of innovation and cost-effectiveness and the necessity to achieve active participation in the expert panels. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).\n14. The fees established in accordance with the procedure under paragraph 13 of this Article shall be set in a transparent manner and on the basis of the costs for the services provided. The fees payable shall be reduced in the case of a clinical evaluation consultation procedure initiated in accordance with Section 5.1, point (c), of Annex IX involving a manufacturer who is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.\nThe fees related to the advice provided by expert panels are payable to EMA pursuant to Article 30, point (f), of Regulation (EU) 2022/123 of the European Parliament and of the CouncilRegulation (EU) 2022/123 of the European Parliament and of the Council of 25 January 2022 on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices (OJ L 20, 31.1.2022, p. 1)..\nThe fees related to the advice provided by expert laboratories are payable to the Commission.\n15. The Commission is empowered to adopt delegated acts in accordance with Article 115 to amend the tasks of expert panels and expert laboratories referred to in paragraph 10 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 106 PA 14 ALN 1",
+          "AR 106 PA 14 ALN 2",
+          "AR 106 PA 14 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R0568",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2022-01-25"
+        ],
+        "in_force": "2025-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R0568 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32024R0568, 32024R1860",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 14 changes the phrase describing who the fees are payable to, from fees payable to the Commission to fees established under the procedure in paragraph 13, and rewords the cross-reference to Annex IX, Section 5.1, point (c).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20240709",
+                "location": "AR 106"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20240709#art_106",
+              "label": "Art. 106, 02017R0745-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20250110",
+                "location": "AR 106"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106",
+              "label": "Art. 106, 02017R0745-20250110"
+            }
+          ]
+        },
+        {
+          "text": "Two new paragraphs are added specifying that fees related to advice from expert panels are payable to EMA under Article 30, point (f), of Regulation (EU) 2022/123, and that fees related to advice from expert laboratories are payable to the Commission.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20250110",
+                "location": "AR 106"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106",
+              "label": "Art. 106, 02017R0745-20250110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0745",
+      "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+    },
+    "from_version": "02017R0745-20240709",
+    "to_version": "02017R0745-20250110",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 10a",
+          "AR 106"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 10a",
+          "AR 106"
+        ],
+        "note": "2 annotations in (2024-07-09, 2025-01-10]",
+        "claims": [
+          {
+            "location": "AR 106 PA 14",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-01",
+            "source": "32024R0568 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R0568",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 10a",
+            "change_type": "INSERTED",
+            "in_force": "2025-01-10",
+            "source": "32024R1860 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1860",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32024R0568, 32024R1860",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 10694,
+      "output_tokens": 618,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

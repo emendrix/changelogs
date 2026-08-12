@@ -10,6 +10,60 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20250110 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20240709` → `02017R0745-20250110`
+
+- **Act** `eu:32017R0745` · **In force** 2025-01-01, 2025-01-10 · **Detected** 2026-08-12
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20240709` · `v2` = `02017R0745-20250110`
+
+---
+
+**INSERTED · Art. 10a — Obligations in case of interruption or discontinuation of supply of certain devices** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R1860`
+
+A new Article 10a is added, requiring a manufacturer that anticipates an interruption or discontinuation of supply of a device, other than a custom-made device, reasonably foreseeable to cause serious harm or a risk of serious harm to patients or public health in one or more Member States, to inform the relevant competent authority and the economic operators, health institutions and healthcare professionals it directly supplies, and to state the reasons for the interruption or discontinuation, generally at least six months in advance. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_10a)
+
+The article further provides that the competent authority receiving this information must, without undue delay, notify the competent authorities of other Member States and the Commission, and that economic operators who receive such information must, without undue delay, pass it on to other economic operators, health institutions and healthcare professionals they directly supply. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_10a)
+
+*after* (`02017R0745-20250110`)
+
+> Article 10a
+> Obligations in case of interruption or discontinuation of supply of certain devices
+> 1. Where a manufacturer anticipates an interruption or a discontinuation of the supply of a device, other than a custom-made device, and where it is reasonably foreseeable that such interruption or discontinuation could result in serious harm or a risk of serious harm to patients or public health in one or more Member States, the manufacturer shall inform the competent authority of the Member State where it or its authorised representative is established, as well as the economic operators, health institutions and healthcare professionals to whom it directly supplies the device, of the anticipated interruption or discontinuation.
+> The information referred to in the first subparagraph shall, other than in exceptional circumstances, be provided at least 6 months before the anticipated interruption or discontinuation. The manufacturer shall specify the reasons for the interruption or discontinuation in the information provided to the competent authority.
+> 2. The competent authority that has received the information referred to in paragraph 1 shall, without undue delay, inform the competent authorities of the other Member States and the Commission of the anticipated interruption or discontinuation.
+> 3. The economic operators who have received the information from the manufacturer in accordance with paragraph 1 or from another economic operator in the supply chain shall, without undue delay […truncated by emendrix: 180 characters omitted…]
+
+**MODIFIED · Art. 106 — Provision of scientific, technical and clinical opinions and advice** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 106 PA 14 ALN 1`, `AR 106 PA 14 ALN 2`, `AR 106 PA 14 ALN 3` · *dates* +2022-01-25 · *amended by* `32024R0568`
+
+Paragraph 14 changes the phrase describing who the fees are payable to, from fees payable to the Commission to fees established under the procedure in paragraph 13, and rewords the cross-reference to Annex IX, Section 5.1, point (c). [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20240709#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
+
+Two new paragraphs are added specifying that fees related to advice from expert panels are payable to EMA under Article 30, point (f), of Regulation (EU) 2022/123, and that fees related to advice from expert laboratories are payable to the Commission. [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
+
+*before* (`02017R0745-20240709`)
+
+> Article 106
+> Provision of scientific, technical and clinical opinions and advice
+> 1. The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.
+> 2. Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.
+> 3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clini […truncated by emendrix: 7050 characters omitted…]
+
+*after* (`02017R0745-20250110`)
+
+> Article 106
+> Provision of scientific, technical and clinical opinions and advice
+> 1. The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.
+> 2. Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.
+> 3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clini […truncated by emendrix: 7568 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20250110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20240709 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20230320` → `02017R0745-20240709`
