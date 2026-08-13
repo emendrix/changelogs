@@ -10,6 +10,61 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20191030 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20190702` → `02006R1907-20191030`
+
+- **Act** `eu:32006R1907` · **In force** 2019-07-04, 2019-10-30 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20190702` · `v2` = `02006R1907-20191030`
+
+---
+
+**MODIFIED · Annex V — ANNEX V** · applies from: unchanged
+
+*within* `AN V PO 12` · *amended by* `32019R1691`
+
+Point 12 of Annex V now lists digestate alongside compost and biogas as an additional substance exempted from the registration obligation, where previously only compost and biogas were named. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20190702#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_V)
+
+*before* (`02006R1907-20190702`)
+
+> ANNEX V
+> EXEMPTIONS FROM THE OBLIGATION TO REGISTER IN ACCORDANCE WITH ARTICLE 2(7)(b)
+> 1. Substances which result from a chemical reaction that occurs incidental to exposure of another substance or article to environmental factors such as air, moisture, microbial organisms or sunlight.
+> 2. Substances which result from a chemical reaction that occurs incidental to storage of another substance, mixture or article.
+> 3. Substances which result from a chemical reaction occurring upon end use of other substances, mixtures or articles and which are not themselves manufactured, imported or placed on the market.
+> 4. Substances which are not themselves manufactured, imported or placed on the market and which result from a chemical reaction that occurs when:
+> (a) a stabiliser, colorant, flavouring agent, antioxidant, filler, solvent, carrier, surfactant, plasticiser, corrosion inhibitor, antifoamer or defoamer, dispersant, precipitation inhibitor, desiccant, binder, emulsifier, de-emulsifier, dewatering agent, agglomerating agent, adhesion promoter, flow modifier, pH neutraliser, sequesterant, coagulant, flocculant, fire retardant, lubricant, chelating agent, or quality control reagent functions as intended; or
+> (b) a substance solely intended to provide a specific physicochemical characteristic functions as intended.
+> 5. By-products, unless they are imported or placed on the market themselves.
+> 6. Hydrates of a substance or hydrated ions, formed by association of a substance with water, provid […truncated by emendrix: 2544 characters omitted…]
+
+*after* (`02006R1907-20191030`)
+
+> ANNEX V
+> EXEMPTIONS FROM THE OBLIGATION TO REGISTER IN ACCORDANCE WITH ARTICLE 2(7)(b)
+> 1. Substances which result from a chemical reaction that occurs incidental to exposure of another substance or article to environmental factors such as air, moisture, microbial organisms or sunlight.
+> 2. Substances which result from a chemical reaction that occurs incidental to storage of another substance, mixture or article.
+> 3. Substances which result from a chemical reaction occurring upon end use of other substances, mixtures or articles and which are not themselves manufactured, imported or placed on the market.
+> 4. Substances which are not themselves manufactured, imported or placed on the market and which result from a chemical reaction that occurs when:
+> (a) a stabiliser, colorant, flavouring agent, antioxidant, filler, solvent, carrier, surfactant, plasticiser, corrosion inhibitor, antifoamer or defoamer, dispersant, precipitation inhibitor, desiccant, binder, emulsifier, de-emulsifier, dewatering agent, agglomerating agent, adhesion promoter, flow modifier, pH neutraliser, sequesterant, coagulant, flocculant, fire retardant, lubricant, chelating agent, or quality control reagent functions as intended; or
+> (b) a substance solely intended to provide a specific physicochemical characteristic functions as intended.
+> 5. By-products, unless they are imported or placed on the market themselves.
+> 6. Hydrates of a substance or hydrated ions, formed by association of a substance with water, provid […truncated by emendrix: 2555 characters omitted…]
+
+**MODIFIED · Annex XIV** · applies from: unknown
+
+*amended by* `32020R2160`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20191030 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20190702 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20190107` → `02006R1907-20190702`
