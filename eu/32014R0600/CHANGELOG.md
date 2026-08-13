@@ -10,6 +10,52 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20240109 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20220101` → `02014R0600-20240109`
+
+- **Act** `eu:32014R0600` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 82 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20220101` · `v2` = `02014R0600-20240109`
+
+---
+
+**MODIFIED · Art. 8** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 23a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+This is a newly inserted provision requiring that certain information already referenced elsewhere in the Regulation be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859, with ESMA designated as the collection body for that purpose. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_23a)
+
+The provision also sets requirements that the information be submitted in a data extractable format and be accompanied by specified metadata, including the investment firm's name, legal entity identifier where available, the type of information, and whether it contains personal data. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_23a)
+
+*after* (`02014R0600-20240109`)
+
+> Article 23a
+> Accessibility of information on the European single access point
+> From 10 January 2030, the information referred to in Article 14(6), Article 15(1), second subparagraph, Articles 18(4) and 27(1), Article 34, Articles 40(5), 42(5), 44(2), 45(6) and Article 48 of this Regulation, shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. The collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the investment firm to which the information relates;
+> (ii) where available, the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+> (iv) an indication of whether the information cont […truncated by emendrix: 19 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20220101 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20210626` → `02014R0600-20220101`
