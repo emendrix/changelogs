@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1223",
+    "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+  },
+  "from_version": "02009R1223-20150416",
+  "to_version": "02009R1223-20150716",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2015-07-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 49,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1223",
+            "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+          },
+          "version": "02009R1223-20150716",
+          "location": "AN V"
+        },
+        "heading": "LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS",
+        "before": "ANNEX V\nLIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS\nPreamble\n1. For the purposes of this list:\nSalts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.\nEsters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.\n2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.\nFor use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applied on a large part of the body.For other uses than preservatives, see Annex III, entry No 197.For use other than as a preservative, see Annex III, No 287.For use other than as a preservative, see Annex III, No 286.\nReference number Substance identification Conditions Wording of conditions of use and warnings\nChemical name/INN Name of Common Ingredients Glossary CAS number EC number Product type, Body parts Maximum concentration in ready for use preparation Other\na b c d e f g h i\n1 Benzoic acid and its sodium salt Benzoic acid\nSodium Benzoate 65-85-0\n532-32-1 200-618-2\n208-534-8 Rinse-off products, except oral products 2,5 % (acid) Oral products 1,7 % (acid)\nLeave-on products 0,5 % (acid)\n1a Salts of benzoic acid other than that listed under reference number 1 and esters of benzoic acid Ammonium benzoate, calcium benzoate, potassium benzoate, magnesium benzoate, MEA-benzoate, methyl benzoate, ethyl benzoate, propyl benzoate, butyl benzoate, isobutyl benzoate, isopropyl benzoate, phenyl benzoate 1863-63-4, 2090-05-3, 582-25-2, 553-70-8, 4337-66-0, 93-58-3, 93-89-0, 2315-68-6, 136-60-7, 120-50-3, 939-48-0, 93-99-2 217-468-9, 218-235-4, 209-481-3, 209-045-2, 224-387-2, 202-259-7, 202-284-3, 219-020-8, 205-252-7, 204-401-3, 213-361-6, 202-293-2 0,5 % (acid) 2 Propionic acid and its salts Propionic acid, ammonium propionate, calcium propionate, magnesium propionate, potassium propionate, sodium propionate 79-09-4, 17496-08-1, 4075-81-4, 557-27-7, 327-62-8, 137-40-6 201-176-3, 241-503-7, 223-795-8, 209-166-0, 206-323-5, 205-290-4 2 % (acid) 3 Salicylic acid and its salts Salicylic acid, calcium salicylate, magnesium salicylate, MEA-salicylate, sodium salicylate, potassium salicylate, TEA-salicylate 69-72-7, 824-35-1, 18917-89-0, 59866-70-5, 54-21-7, 578-36-9, 2174-16-5 200-712-3, 212-525-4, 242-669-3, 261-963-2, 200-198-0, 209-421-6, 218-531-3 0,5 % (acid) Not to be used in products for children under 3 years of age, except for shampoos Not to be used for children under 3 years of age\n4 Hexa-2,4-dienoic acid and its salts Sorbic acid, calcium sorbate, sodium sorbate, potassium sorbate 110-44-1, 7492-55-9, 7757-81-5, 24634-61-5 203-768-7, 231-321-6, 231-819-3, 246-376-1 0,6 % (acid) 5 Formal-dehyde, paraformaldehyde Formaldehyde\nParaformaldehyde 50-00-0, 30525-89-4 200-001-8 Oral products 0,1 % (free formaldehyde) Not to be used in aerosol dispensers (sprays) Other products 0,2 % (free formaldehyde)\n6 Moved or deleted\n7 Biphenyl-2-ol, and its salts o-Phenylphenol, sodium o-phenylphenate, potassium o-phenylphenate, MEA o-phenylphenate 90-43-7, 132-27-4, 13707-65-8, 84145-04-0 201-993-5, 205-055-6, 237-243-9, 282-227-7 0,2 % (as phenol) 8 Pyrithione zinc Zinc pyrithione 13463-41-7 236-671-3 Hair products 1,0 % Only in rinse-off products\nNot to be used in oral products Other products 0,5 %\n9 Inorganic sulphites and hydrogen- sulphites Sodium sulfite, ammonium bisulfite, ammonium sulfite, potassium sulfite, potassium hydrogen sulfite, sodium bisulfite, sodium metabisulfite, potassium metabisulfite 7757-83-7, 10192-30-0, 10196-04-0, 10117-38-1, 7773-03-7, 7631-90-5, 7681-57-4, 16731-55-8 231-821-4, 233-469-7, 233-484-9, 233-321-1, 231-870-1, 231-548-0, 231-673-0, 240-795-3 0,2 % (as free SO2) 10 Moved or deleted\n11 Chlorobutanol Chlorobutanol 57-15-8 200-317-6 0,5 % Not to be used in aerosol dispensers (sprays) Contains Chlorobutanol\n12 4-Hydroxybenzoic acid and its Methyl- and Ethyl- esters, and their salts 4-Hydroxybenzoic acid\nmethylparaben\npotassium ethylparaben\npotassium paraben\nsodium methylparaben\nsodium ethylparaben\nethylparaben\nsodium paraben\npotassium methylparaben\ncalcium paraben 99-96-7\n99-76-3\n36457-19-9\n16782-08-4\n5026-62-0\n35285-68-8\n120-47-8\n114-63-6\n26112-07-2\n69959-44-0 202-804-9\n202-785-7\n253-048-1\n240-830-2\n225-714-1\n252-487-6\n204-399-4\n204-051-1\n247-464-2\n274-235-4 0,4 % (as acid) for single ester\n0,8 % (as acid) for mixtures of esters 12a Butyl 4-hydroxybenzoate and its salts\nPropyl 4-hydroxybenzoate and its salts Butylparaben\npropylparaben\nsodium propylparaben\nsodium butylparaben\npotassium butylparaben\npotassium propylparaben 94-26-8\n94-13-3\n35285-69-9\n36457-20-2\n38566-94-8\n84930-16-5 202-318-7\n202-307-7\n252-488-1\n253-049-7\n254-009-1\n284-597-5 0,14 % (as acid) for the sum of the individual concentrations\n0,8 % (as acid) for mixtures of substances mentioned in entry 12 and 12a, where the sum of the individual concentrations of butyl- and propylparaben and their salts does not exceed 0,14 % Not to be used in leave-on products designed for application on the nappy area of children under three years of age. For leave-on products designed for children under three years of age:\nDo not use on the nappy area\n13 3-Acetyl-6-methylpyran-2,4 (3H)-dione and its salts Dehydroacetic acid, sodium dehydroacetate 520-45-6, 4418-26-2, 16807-48-0 208-293-9, 224-580-1 0,6 % (as acid) Not to be used in aerosol dispensers (sprays) 14 Formic acid and its sodium salt Formic acid, sodium formate 64-18-6, 141-53-7 200-579-1, 205-488-0 0,5 % (as acid) 15 3,3'-Dibromo-4,4'-hexamethylenedioxydi-benzamidine and its salts (including isethionate) Dibromohexamidine Isethionate 93856-83-8 299-116-4 0,1 % 16 Thiomersal Thimerosal 54-64-8 200-210-4 Eye products 0,007 % (of Hg)\nIf mixed with other mercurial compounds authorised by this Regulation, the maximum concentration of Hg remains fixed at 0,007 % Contains Thiomersal\n17 Phenylmercuric salts (including borate) Phenyl Mercuric Acetate, Phenyl Mercuric Benzoate 62-38-4, 94-43-9 200-532-5, 202-331-8 Eye products 0,007 % (of Hg)\nIf mixed with other mercurial compounds authorised by this Regulation, the maximum concentration of Hg remains fixed at 0,007 % Contains Phenylmercuric compounds\n18 Undec-10-enoic acid and its salts Undecylenic acid, potassium undecylenate, sodium undecylenate, calcium undecylenate, TEA-undecylenate, MEA-undecylenate 112-38-9, 6159-41-7, 3398-33-2, 1322-14-1, 84471-25-0, 56532-40-2 203-965-8, 222-264-8, 215-331-8, 282-908-9, 260-247-7 0,2 % (as acid) 19 5- Pyrimidinamine, 1,3-bis (2-ethylhexyl) hexahydro-5-methyl- Hexetidine 141-94-6 205-513-5 0,1 % 20 5-Bromo-5-nitro-1,3-dioxane 5-Bromo-5-nitro-1,3-dioxane 30007-47-7 250-001-7 Rinse-off products 0,1 % Avoid formation of nitrosamines 21 Bronopol 2-Bromo-2-nitropropane-1,3-diol 52-51-7 200-143-0 0,1 % Avoid formation of nitrosamines 22 2,4-Dichlorobenzyl alcohol Dichlorobenzyl Alcohol 1777-82-8 217-210-5 0,15 % 23 1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl) urea Triclocarban 101-20-2 202-924-1 0,2 % Purity criteria:\n3,3',4,4'-Tetrachloroazobenzene <1 ppm\n3,3',4,4'-Tetrachloroazoxybenzene <1 ppm 24 Chlorocresol p-Chloro-m-Cresol 59-50-7 200-431-6 Not to be used in products applied on mucuous membranes 0,2 % 25 5-Chloro-2- (2,4- dichlorophenoxy) phenol Triclosan 3380-34-5 222-182-2 (a) Toothpastes\nHand soaps\nBody soaps/Shower gels\nDeodorants (non-spray)\nFace powders and blemish concealers\nNail products for cleaning the fingernails and toenails before the application of artificial nail systems (a) 0,3 % (b) Mouthwashes (b) 0,2 % 26 Chloro-xylenol Chloroxylenol 88-04-0 201-793-8 0,5 % 27 N,N″-methylenebis[N′-[3-(hydroxymethyl)-2,5-dioxoimidazolidin-4-yl]urea] Imidazolidinyl urea 39236-46-9 254-372-6 0,6 % 28 Poly(methylene),.alpha.,.omega.-bis[[[(aminoiminomethyl)amino]iminomethyl] amino]-, dihydrochloride Polyaminopropyl biguanide 70170-61-5, 28757-47-3, 133029-32-0 0,3 % 29 2-Phenoxyethanol Phenoxyethanol 122-99-6 204-589-7 1,0 % 30 Methenamine Methenamine 100-97-0 202-905-8 0,15 % 31 Methenamine 3-chloroallylochloride Quaternium-15 4080-31-3 223-805-0 0,2 % 32 1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one Climbazole 38083-17-9 253-775-4 0,5 % 33 1,3-Bis (hydroxymethyl)-5,5-dimethylimidazolidine-2,4-dione DMDM Hydantoin 6440-58-0 229-222-8 0,6 % 34 Benzyl alcohol Benzyl Alcohol 100-51-6 202-859-9 1,0 % 35 1-Hydroxy-4-methyl-6-(2,4,4-trimethylpentyl) 2-pyridon and its monoethanolamine salt 1-Hydroxy-4-methyl-6-(2,4,4-trimethylpentyl) 2-pyridon, Piroctone Olamine 50650-76-5, 68890-66-4 272-574-2 Rinse-off products 1,0 % Other products 0,5 %\n36 Moved or deleted\n37 2,2'-methylenebis(6-bromo-4-chlorophenol) Bromochlorophene 15435-29-7 239-446-8 0,1 % 38 4-Isopropyl-m-cresol o-Cymen-5-ol 3228-02-2 221-761-7 0,1 % 39 Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-methylisothiazol-3(2H)-one with magnesium chloride and magnesium nitrate Methylchloroisothiazolinone and Methylisothiazolinone 26172-55-4, 2682-20-4, 55965-84-9 247-500-7, 220-239-6 0,0015 % (of a mixture in the ratio 3:1 of 5-chloro-2-methylisothiazol 3(2H)-one and 2-methylisothiazol-3 (2H)-one 40 2-Benzyl-4-chlorophenol Chlorophene 120-32-1 204-385-8 0,2 % 41 2-Chloroacetamide Chloroacetamide 79-07-2 201-174-2 0,3 % Contains chloroacetamide\n42 N,N″-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediamidine and its digluconate, diacetate and dihydrochloride Chlorhexidine, Chlorhexidine Diacetate, Chlorhexidine Digluconate, Chlorhexidine Dihydrochloride 55-56-1, 56-95-1, 18472-51-0, 3697-42-5 200-238-7, 200-302-4, 242-354-0, 223-026-6 0,3 % (as chlorhexidine) 43 1-Phenoxypropan-2-ol Phenoxyisopropanol 770-35-4 212-222-7 Only for rinse-off products 1,0 % 44 Alkyl (C12-22) trimethyl ammonium bromide and chloride Behentrimonium chloride, 17301-53-0, 241-327-0, 0,1 % cetrimonium bromide, 57-09-0, 200-311-3,\ncetrimonium chloride, 112-02-7, 203-928-6,\nlaurtrimonium bromide, 1119-94-4, 214-290-3,\nlaurtrimonium chloride, 112-00-5, 203-927-0,\nsteartrimonium bromide, 1120-02-1, 214-294-5,\nsteartrimonium chloride 112-03-8 203-929-1\n45 4,4-Dimethyl-1,3-oxazolidine Dimethyl Oxazolidine 51200-87-4 257-048-2 0,1 % pH > 6 46 N-(Hydroxymethyl)-N-(dihydroxymethyl-1,3-dioxo-2,5-imidazolidinyl-4)-N'-(hydroxymethyl) urea Diazolidinyl Urea 78491-02-8 278-928-2 0,5 % 47 Benzenecarboximidamide, 4,4'-(1,6-hexanediylbis (oxy))bis- and its salts (including isethionate and p-hydroxybenzoate) Hexamidine, Hexamidine diisethionate, Hexamidine paraben 3811-75-4, 659-40-5, 93841-83-9 211-533-5, 299-055-3 0,1 % 48 Glutaraldehyde (Pentane-1,5-dial) Glutaral 111-30-8 203-856-5 0,1 % Not to be used in aerosols (sprays) Contains glutaral\n49 5-Ethyl-3,7-dioxa-1-azabicyclo [3.3.0] octane 7-Ethylbicyclooxazolidine 7747-35-5 231-810-4 0,3 % Not to be used in oral products and in products applied on mucous membranes 50 3-(p-Chlorophenoxy)-propane-1,2 diol Chlorphenesin 104-29-0 203-192-6 0,3 % 51 Sodium hydroxymethylamino acetate Sodium Hydroxymethylglycinate 70161-44-3 274-357-8 0,5 % 52 Silver chloride deposited on titanium dioxide Silver chloride 7783-90-6 232-033-3 0,004 % (as AgCl) 20 % AgCl (w/w) on TiO2. Not to be used in products for children under 3 years of age, in oral products and in eye and lip products 53 Benzenemethanaminium, N,N-dimethyl-N-[2-[2-[4-(1,1,3,3,-tetramethylbutyl)phenoxy]ethoxy] ethyl]-, chloride Benzethonium Chloride 121-54-0 204-479-9 (a) Rinse-off products\n(b) Leave-on products other than oral products 0,1 % 54 Benzalkonium chloride, bromide and saccharinate Benzalkonium chloride, benzalkonium bromide, benzalkonium saccharinate 8001-54-5, 63449-41-2, 91080-29-4, 68989-01-5, 68424-85-1, 68391-01-5, 61789-71-7, 85409-22-9 264-151-6, 293-522-5, 273-545-7, 270-325-2, 269-919-4, 263-080-8, 287-089-1 0,1 % (as benzalkonium chloride) Avoid contact with eyes\n55 Methanol, (phenylmethoxy-) Benzylhemiformal 14548-60-8 238-588-8 Rinse-off products 0,15 % 56 3-Iodo-2-propynylbutylcarbamate Iodopropynyl butylcarbamate 55406-53-6 259-627-5 (a) Rinse-off products\n(b) Leave-on products\n(c) Deo-dorants/anti-perspirants (a) 0,02 %\n(b) 0,01 %,\n(c) 0,0075 % Not to be used in oral and lip products\n(a) Not to be used in products for children under 3 years of age, except in bath products/shower gels and shampoo\n(b) Not to be used in body lotion and body cream\n(b) and (c) Not to be used in products for children under 3 years of age (a) Not to be used for children under 3 years of age\n(b) and (c) Not to be used for children under 3 years of age\n57 2-Methyl-2H-isothiazol-3-one Methylisothiazolinone 2682-20-4 220-239-6 0,01 % 58 Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride Ethyl Lauroyl Arginate HCl 60372-77-2 434-630-6 0,4 % Not to be used in lip products, oral products and spray products 59 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, monohydrate and 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, silver(1+) salt, monohydrate Citric acid (and) Silver citrate — 460-890-5 0,2 %, corresponding to 0,0024 % of silver Not to be used in oral products and eye products ",
+        "after": "ANNEX V\nLIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS\nPreamble\n1. For the purposes of this list:\nSalts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.\nEsters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.\n2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.\nFor use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applied on a large part of the body.For other uses than preservatives, see Annex III, entry No 197.For use other than as a preservative, see Annex III, No 287.For use other than as a preservative, see Annex III, No 286.Methylisothiazolinone is also regulated in entry 57. The two entries are mutually exclusive: the use of the mixture of Methylchloroisothiazolinone (and) Methylisothiazolinone is incompatible with the use of Methylisothiazolinone alone in the same product.Methylisothiazolinone is also regulated in entry 39 in a mixture with Methylchloroisothiazolinone. The two entries are mutually exclusive: the use of the mixture of Methylchloroisothiazolinone (and) Methylisothiazolinone is incompatible with the use of Methylisothiazolinone alone in the same product.\nReference number Substance identification Conditions Wording of conditions of use and warnings\nChemical name/INN Name of Common Ingredients Glossary CAS number EC number Product type, Body parts Maximum concentration in ready for use preparation Other\na b c d e f g h i\n1 Benzoic acid and its sodium salt Benzoic acid\nSodium Benzoate 65-85-0\n532-32-1 200-618-2\n208-534-8 Rinse-off products, except oral products 2,5 % (acid) Oral products 1,7 % (acid)\nLeave-on products 0,5 % (acid)\n1a Salts of benzoic acid other than that listed under reference number 1 and esters of benzoic acid Ammonium benzoate, calcium benzoate, potassium benzoate, magnesium benzoate, MEA-benzoate, methyl benzoate, ethyl benzoate, propyl benzoate, butyl benzoate, isobutyl benzoate, isopropyl benzoate, phenyl benzoate 1863-63-4, 2090-05-3, 582-25-2, 553-70-8, 4337-66-0, 93-58-3, 93-89-0, 2315-68-6, 136-60-7, 120-50-3, 939-48-0, 93-99-2 217-468-9, 218-235-4, 209-481-3, 209-045-2, 224-387-2, 202-259-7, 202-284-3, 219-020-8, 205-252-7, 204-401-3, 213-361-6, 202-293-2 0,5 % (acid) 2 Propionic acid and its salts Propionic acid, ammonium propionate, calcium propionate, magnesium propionate, potassium propionate, sodium propionate 79-09-4, 17496-08-1, 4075-81-4, 557-27-7, 327-62-8, 137-40-6 201-176-3, 241-503-7, 223-795-8, 209-166-0, 206-323-5, 205-290-4 2 % (acid) 3 Salicylic acid and its salts Salicylic acid, calcium salicylate, magnesium salicylate, MEA-salicylate, sodium salicylate, potassium salicylate, TEA-salicylate 69-72-7, 824-35-1, 18917-89-0, 59866-70-5, 54-21-7, 578-36-9, 2174-16-5 200-712-3, 212-525-4, 242-669-3, 261-963-2, 200-198-0, 209-421-6, 218-531-3 0,5 % (acid) Not to be used in products for children under 3 years of age, except for shampoos Not to be used for children under 3 years of age\n4 Hexa-2,4-dienoic acid and its salts Sorbic acid, calcium sorbate, sodium sorbate, potassium sorbate 110-44-1, 7492-55-9, 7757-81-5, 24634-61-5 203-768-7, 231-321-6, 231-819-3, 246-376-1 0,6 % (acid) 5 Formal-dehyde, paraformaldehyde Formaldehyde\nParaformaldehyde 50-00-0, 30525-89-4 200-001-8 Oral products 0,1 % (free formaldehyde) Not to be used in aerosol dispensers (sprays) Other products 0,2 % (free formaldehyde)\n6 Moved or deleted\n7 Biphenyl-2-ol, and its salts o-Phenylphenol, sodium o-phenylphenate, potassium o-phenylphenate, MEA o-phenylphenate 90-43-7, 132-27-4, 13707-65-8, 84145-04-0 201-993-5, 205-055-6, 237-243-9, 282-227-7 0,2 % (as phenol) 8 Pyrithione zinc Zinc pyrithione 13463-41-7 236-671-3 Hair products 1,0 % Only in rinse-off products\nNot to be used in oral products Other products 0,5 %\n9 Inorganic sulphites and hydrogen- sulphites Sodium sulfite, ammonium bisulfite, ammonium sulfite, potassium sulfite, potassium hydrogen sulfite, sodium bisulfite, sodium metabisulfite, potassium metabisulfite 7757-83-7, 10192-30-0, 10196-04-0, 10117-38-1, 7773-03-7, 7631-90-5, 7681-57-4, 16731-55-8 231-821-4, 233-469-7, 233-484-9, 233-321-1, 231-870-1, 231-548-0, 231-673-0, 240-795-3 0,2 % (as free SO2) 10 Moved or deleted\n11 Chlorobutanol Chlorobutanol 57-15-8 200-317-6 0,5 % Not to be used in aerosol dispensers (sprays) Contains Chlorobutanol\n12 4-Hydroxybenzoic acid and its Methyl- and Ethyl- esters, and their salts 4-Hydroxybenzoic acid\nmethylparaben\npotassium ethylparaben\npotassium paraben\nsodium methylparaben\nsodium ethylparaben\nethylparaben\nsodium paraben\npotassium methylparaben\ncalcium paraben 99-96-7\n99-76-3\n36457-19-9\n16782-08-4\n5026-62-0\n35285-68-8\n120-47-8\n114-63-6\n26112-07-2\n69959-44-0 202-804-9\n202-785-7\n253-048-1\n240-830-2\n225-714-1\n252-487-6\n204-399-4\n204-051-1\n247-464-2\n274-235-4 0,4 % (as acid) for single ester\n0,8 % (as acid) for mixtures of esters 12a Butyl 4-hydroxybenzoate and its salts\nPropyl 4-hydroxybenzoate and its salts Butylparaben\npropylparaben\nsodium propylparaben\nsodium butylparaben\npotassium butylparaben\npotassium propylparaben 94-26-8\n94-13-3\n35285-69-9\n36457-20-2\n38566-94-8\n84930-16-5 202-318-7\n202-307-7\n252-488-1\n253-049-7\n254-009-1\n284-597-5 0,14 % (as acid) for the sum of the individual concentrations\n0,8 % (as acid) for mixtures of substances mentioned in entry 12 and 12a, where the sum of the individual concentrations of butyl- and propylparaben and their salts does not exceed 0,14 % Not to be used in leave-on products designed for application on the nappy area of children under three years of age. For leave-on products designed for children under three years of age:\nDo not use on the nappy area\n13 3-Acetyl-6-methylpyran-2,4 (3H)-dione and its salts Dehydroacetic acid, sodium dehydroacetate 520-45-6, 4418-26-2, 16807-48-0 208-293-9, 224-580-1 0,6 % (as acid) Not to be used in aerosol dispensers (sprays) 14 Formic acid and its sodium salt Formic acid, sodium formate 64-18-6, 141-53-7 200-579-1, 205-488-0 0,5 % (as acid) 15 3,3'-Dibromo-4,4'-hexamethylenedioxydi-benzamidine and its salts (including isethionate) Dibromohexamidine Isethionate 93856-83-8 299-116-4 0,1 % 16 Thiomersal Thimerosal 54-64-8 200-210-4 Eye products 0,007 % (of Hg)\nIf mixed with other mercurial compounds authorised by this Regulation, the maximum concentration of Hg remains fixed at 0,007 % Contains Thiomersal\n17 Phenylmercuric salts (including borate) Phenyl Mercuric Acetate, Phenyl Mercuric Benzoate 62-38-4, 94-43-9 200-532-5, 202-331-8 Eye products 0,007 % (of Hg)\nIf mixed with other mercurial compounds authorised by this Regulation, the maximum concentration of Hg remains fixed at 0,007 % Contains Phenylmercuric compounds\n18 Undec-10-enoic acid and its salts Undecylenic acid, potassium undecylenate, sodium undecylenate, calcium undecylenate, TEA-undecylenate, MEA-undecylenate 112-38-9, 6159-41-7, 3398-33-2, 1322-14-1, 84471-25-0, 56532-40-2 203-965-8, 222-264-8, 215-331-8, 282-908-9, 260-247-7 0,2 % (as acid) 19 5- Pyrimidinamine, 1,3-bis (2-ethylhexyl) hexahydro-5-methyl- Hexetidine 141-94-6 205-513-5 0,1 % 20 5-Bromo-5-nitro-1,3-dioxane 5-Bromo-5-nitro-1,3-dioxane 30007-47-7 250-001-7 Rinse-off products 0,1 % Avoid formation of nitrosamines 21 Bronopol 2-Bromo-2-nitropropane-1,3-diol 52-51-7 200-143-0 0,1 % Avoid formation of nitrosamines 22 2,4-Dichlorobenzyl alcohol Dichlorobenzyl Alcohol 1777-82-8 217-210-5 0,15 % 23 1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl) urea Triclocarban 101-20-2 202-924-1 0,2 % Purity criteria:\n3,3',4,4'-Tetrachloroazobenzene <1 ppm\n3,3',4,4'-Tetrachloroazoxybenzene <1 ppm 24 Chlorocresol p-Chloro-m-Cresol 59-50-7 200-431-6 Not to be used in products applied on mucuous membranes 0,2 % 25 5-Chloro-2- (2,4- dichlorophenoxy) phenol Triclosan 3380-34-5 222-182-2 (a) Toothpastes\nHand soaps\nBody soaps/Shower gels\nDeodorants (non-spray)\nFace powders and blemish concealers\nNail products for cleaning the fingernails and toenails before the application of artificial nail systems (a) 0,3 % (b) Mouthwashes (b) 0,2 % 26 Chloro-xylenol Chloroxylenol 88-04-0 201-793-8 0,5 % 27 N,N″-methylenebis[N′-[3-(hydroxymethyl)-2,5-dioxoimidazolidin-4-yl]urea] Imidazolidinyl urea 39236-46-9 254-372-6 0,6 % 28 Poly(methylene),.alpha.,.omega.-bis[[[(aminoiminomethyl)amino]iminomethyl] amino]-, dihydrochloride Polyaminopropyl biguanide 70170-61-5, 28757-47-3, 133029-32-0 0,3 % 29 2-Phenoxyethanol Phenoxyethanol 122-99-6 204-589-7 1,0 % 30 Methenamine Methenamine 100-97-0 202-905-8 0,15 % 31 Methenamine 3-chloroallylochloride Quaternium-15 4080-31-3 223-805-0 0,2 % 32 1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one Climbazole 38083-17-9 253-775-4 0,5 % 33 1,3-Bis (hydroxymethyl)-5,5-dimethylimidazolidine-2,4-dione DMDM Hydantoin 6440-58-0 229-222-8 0,6 % 34 Benzyl alcohol Benzyl Alcohol 100-51-6 202-859-9 1,0 % 35 1-Hydroxy-4-methyl-6-(2,4,4-trimethylpentyl) 2-pyridon and its monoethanolamine salt 1-Hydroxy-4-methyl-6-(2,4,4-trimethylpentyl) 2-pyridon, Piroctone Olamine 50650-76-5, 68890-66-4 272-574-2 Rinse-off products 1,0 % Other products 0,5 %\n36 Moved or deleted\n37 2,2'-methylenebis(6-bromo-4-chlorophenol) Bromochlorophene 15435-29-7 239-446-8 0,1 % 38 4-Isopropyl-m-cresol o-Cymen-5-ol 3228-02-2 221-761-7 0,1 % 39 Mixture of 5-Chloro-2-methyl-isothiazol-3(2H)-one and 2-methylisothiazol-3(2H)-one Methylchloroisothiazolinone (and) Methylisothiazolinone 26172-55-4, 2682-20-4, 55965-84-9 247-500-7, 220-239-6 Rinse-off products 0,0015 % (of a mixture in the ratio 3:1 of 5-chloro-2-methylisothiazol 3(2H)-one and 2-methylisothiazol-3 (2H)-one) 40 2-Benzyl-4-chlorophenol Chlorophene 120-32-1 204-385-8 0,2 % 41 2-Chloroacetamide Chloroacetamide 79-07-2 201-174-2 0,3 % Contains chloroacetamide\n42 N,N″-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediamidine and its digluconate, diacetate and dihydrochloride Chlorhexidine, Chlorhexidine Diacetate, Chlorhexidine Digluconate, Chlorhexidine Dihydrochloride 55-56-1, 56-95-1, 18472-51-0, 3697-42-5 200-238-7, 200-302-4, 242-354-0, 223-026-6 0,3 % (as chlorhexidine) 43 1-Phenoxypropan-2-ol Phenoxyisopropanol 770-35-4 212-222-7 Only for rinse-off products 1,0 % 44 Alkyl (C12-22) trimethyl ammonium bromide and chloride Behentrimonium chloride, 17301-53-0, 241-327-0, 0,1 % cetrimonium bromide, 57-09-0, 200-311-3,\ncetrimonium chloride, 112-02-7, 203-928-6,\nlaurtrimonium bromide, 1119-94-4, 214-290-3,\nlaurtrimonium chloride, 112-00-5, 203-927-0,\nsteartrimonium bromide, 1120-02-1, 214-294-5,\nsteartrimonium chloride 112-03-8 203-929-1\n45 4,4-Dimethyl-1,3-oxazolidine Dimethyl Oxazolidine 51200-87-4 257-048-2 0,1 % pH > 6 46 N-(Hydroxymethyl)-N-(dihydroxymethyl-1,3-dioxo-2,5-imidazolidinyl-4)-N'-(hydroxymethyl) urea Diazolidinyl Urea 78491-02-8 278-928-2 0,5 % 47 Benzenecarboximidamide, 4,4'-(1,6-hexanediylbis (oxy))bis- and its salts (including isethionate and p-hydroxybenzoate) Hexamidine, Hexamidine diisethionate, Hexamidine paraben 3811-75-4, 659-40-5, 93841-83-9 211-533-5, 299-055-3 0,1 % 48 Glutaraldehyde (Pentane-1,5-dial) Glutaral 111-30-8 203-856-5 0,1 % Not to be used in aerosols (sprays) Contains glutaral\n49 5-Ethyl-3,7-dioxa-1-azabicyclo [3.3.0] octane 7-Ethylbicyclooxazolidine 7747-35-5 231-810-4 0,3 % Not to be used in oral products and in products applied on mucous membranes 50 3-(p-Chlorophenoxy)-propane-1,2 diol Chlorphenesin 104-29-0 203-192-6 0,3 % 51 Sodium hydroxymethylamino acetate Sodium Hydroxymethylglycinate 70161-44-3 274-357-8 0,5 % 52 Silver chloride deposited on titanium dioxide Silver chloride 7783-90-6 232-033-3 0,004 % (as AgCl) 20 % AgCl (w/w) on TiO2. Not to be used in products for children under 3 years of age, in oral products and in eye and lip products 53 Benzenemethanaminium, N,N-dimethyl-N-[2-[2-[4-(1,1,3,3,-tetramethylbutyl)phenoxy]ethoxy] ethyl]-, chloride Benzethonium Chloride 121-54-0 204-479-9 (a) Rinse-off products\n(b) Leave-on products other than oral products 0,1 % 54 Benzalkonium chloride, bromide and saccharinate Benzalkonium chloride, benzalkonium bromide, benzalkonium saccharinate 8001-54-5, 63449-41-2, 91080-29-4, 68989-01-5, 68424-85-1, 68391-01-5, 61789-71-7, 85409-22-9 264-151-6, 293-522-5, 273-545-7, 270-325-2, 269-919-4, 263-080-8, 287-089-1 0,1 % (as benzalkonium chloride) Avoid contact with eyes\n55 Methanol, (phenylmethoxy-) Benzylhemiformal 14548-60-8 238-588-8 Rinse-off products 0,15 % 56 3-Iodo-2-propynylbutylcarbamate Iodopropynyl butylcarbamate 55406-53-6 259-627-5 (a) Rinse-off products\n(b) Leave-on products\n(c) Deo-dorants/anti-perspirants (a) 0,02 %\n(b) 0,01 %,\n(c) 0,0075 % Not to be used in oral and lip products\n(a) Not to be used in products for children under 3 years of age, except in bath products/shower gels and shampoo\n(b) Not to be used in body lotion and body cream\n(b) and (c) Not to be used in products for children under 3 years of age (a) Not to be used for children under 3 years of age\n(b) and (c) Not to be used for children under 3 years of age\n57 2-Methyl-2H-isothiazol-3-one Methylisothiazolinone 2682-20-4 220-239-6 0,01 % 58 Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride Ethyl Lauroyl Arginate HCl 60372-77-2 434-630-6 0,4 % Not to be used in lip products, oral products and spray products 59 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, monohydrate and 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, silver(1+) salt, monohydrate Citric acid (and) Silver citrate — 460-890-5 0,2 %, corresponding to 0,0024 % of silver Not to be used in oral products and eye products ",
+        "previous_location": null,
+        "changed_within": [
+          "AN V"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R1003",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2015-07-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R1003 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014R1003, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The preamble gains two added notes stating that Methylisothiazolinone entry 57 and the Methylchloroisothiazolinone/Methylisothiazolinone mixture entry 39 are mutually exclusive, meaning the mixture cannot be used in the same product as Methylisothiazolinone alone.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20150716",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_V",
+              "label": "Annex V, 02009R1223-20150716"
+            }
+          ]
+        },
+        {
+          "text": "Entry 39 itself changes its restriction column from an unrestricted maximum concentration figure to one limited specifically to rinse-off products, and the concentration figure is now enclosed in parentheses at the end of the value.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20150416",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V",
+              "label": "Annex V, 02009R1223-20150416"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20150716",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_V",
+              "label": "Annex V, 02009R1223-20150716"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1223",
+      "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+    },
+    "from_version": "02009R1223-20150416",
+    "to_version": "02009R1223-20150716",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN V"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN V"
+        ],
+        "note": "1 annotations in (2015-04-16, 2015-07-16]",
+        "claims": [
+          {
+            "location": "AN V",
+            "change_type": "MODIFIED",
+            "in_force": "2015-07-16",
+            "source": "32014R1003 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R1003",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32014R1003, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN V",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 17210,
+      "output_tokens": 283,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
