@@ -1,0 +1,1241 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0978",
+    "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+  },
+  "from_version": "32012R0978",
+  "to_version": "02012R0978-20140228",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-01-01",
+    "2014-02-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 10,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 11,
+    "unchanged_units": 43,
+    "disputed": 11
+  },
+  "counts": {
+    "touched": 11,
+    "substantive": 11,
+    "date_only": 0,
+    "disputed": 11,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "02012R0978-20140228",
+          "location": "AN"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0182",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-02-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0182 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN I"
+        },
+        "heading": "ANNEX I",
+        "before": "ANNEX I\nEligible countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the scheme referred to in Article 3\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nThis designation is without prejudice to positions on status, and is in line with UN Security Council Resolution 1244 (1999) and the International Court of Justice Opinion on the Kosovo’s declaration of independence.\nA B\nAE United Arab Emirates\nAF Afghanistan\nAG Antigua and Barbuda\nAL Albania\nAM Armenia\nAO Angola\nAR Argentina\nAZ Azerbaijan\nBA Bosnia and Herzegovina\nBB Barbados\nBD Bangladesh\nBF Burkina Faso\nBH Bahrain\nBI Burundi\nBJ Benin\nBN Brunei\nBO Bolivia\nBR Brazil\nBS Bahamas\nBT Bhutan\nBW Botswana\nBY Belarus\nBZ Belize\nCD Democratic Republic of the Congo\nCF Central African Republic\nCG Congo\nCI Côte d’Ivoire\nCK Cook Islands\nCL Chile\nCM Cameroon\nCN China\nCO Colombia\nCR Costa Rica\nCU Cuba\nCV Cape Verde\nDJ Djibouti\nDM Dominica\nDO Dominican Republic\nDZ Algeria\nEC Ecuador\nEG Egypt\nER Eritrea\nET Ethiopia\nFJ Fiji\nFM Micronesia\nGA Gabon\nGD Grenada\nGE Georgia\nGH Ghana\nGM Gambia, The\nGN Guinea\nGQ Equatorial Guinea\nGT Guatemala\nGW Guinea-Bissau\nGY Guyana\nHK Hong Kong\nHN Honduras\nHR Croatia\nHT Haiti\nID Indonesia\nIN India\nIQ Iraq\nIR Iran\nJM Jamaica\nJO Jordan\nKE Kenya\nKG Kyrgyzstan\nKH Cambodia\nKI Kiribati\nKM Comoros\nKN Saint Kitts and Nevis\nKW Kuwait\nKZ Kazakhstan\nLA Laos\nLB Lebanon\nLC Saint Lucia\nLK Sri Lanka\nLR Liberia\nLS Lesotho\nLY Libya\nMA Morocco\nMD Moldova\nME Montenegro\nMG Madagascar\nMH Marshall Islands\nMK former Yugoslav Republic of Macedonia, the\nML Mali\nMM Burma/Myanmar\nMN Mongolia\nMO Macao\nMR Mauritania\nMU Mauritius\nMV Maldives\nMW Malawi\nMX Mexico\nMY Malaysia\nMZ Mozambique\nNA Namibia\nNE Niger\nNG Nigeria\nNI Nicaragua\nNP Nepal\nNR Nauru\nNU Niue\nOM Oman\nPA Panama\nPE Peru\nPG Papua New Guinea\nPH Philippines\nPK Pakistan\nPW Palau\nPY Paraguay\nQA Qatar\nRS Serbia\nRU Russia\nRW Rwanda\nSA Saudi Arabia\nSB Solomon Islands\nSC Seychelles\nSD Sudan\nSL Sierra Leone\nSN Senegal\nSO Somalia\nSR Suriname\nST São Tomé and Príncipe\nSV El Salvador\nSY Syria\nSZ Swaziland\nTD Chad\nTG Togo\nTH Thailand\nTJ Tajikistan\nTL Timor-Leste\nTM Turkmenistan\nTN Tunisia\nTO Tonga\nTT Trinidad and Tobago\nTV Tuvalu\nTZ Tanzania\nUA Ukraine\nUG Uganda\nUY Uruguay\nUZ Uzbekistan\nVC Saint Vincent and the Grenadines\nVE Venezuela\nVN Vietnam\nVU Vanuatu\nWS Samoa\nXK Kosovo\nYE Yemen\nZA South Africa\nZM Zambia\nZW Zimbabwe\nEligible countries of the scheme referred to in Article 3 which have been temporarily withdrawn from the scheme, in respect of all or of certain products originating in these countries\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nBY Belarus\nMM Burma/Myanmar",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1421",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R1421 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of eligible countries and territories, along with the separate list of countries temporarily withdrawn from the scheme, that previously made up Annex I no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_I",
+              "label": "Annex I, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "ANNEX II\nBeneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the general arrangement referred to in point (a) of Article 1(2)\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nAF Afghanistan\nAM Armenia\nAO Angola\nAZ Azerbaijan\nBD Bangladesh\nBF Burkina Faso\nBI Burundi\nBJ Benin\nBO Bolivia\nBT Bhutan\nCD Democratic Republic of the Congo\nCF Central African Republic\nCG Congo\nCK Cook Islands\nCN China\nCO Colombia\nCR Costa Rica\nCV Cape Verde\nDJ Djibouti\nEC Ecuador\nER Eritrea\nET Ethiopia\nFM Micronesia\nGE Georgia\nGM Gambia, The\nGN Guinea\nGQ Equatorial Guinea\nGT Guatemala\nGW Guinea-Bissau\nHN Honduras\nHT Haiti\nID Indonesia\nIN India\nIQ Iraq\nIR Iran\nKG Kyrgyzstan\nKH Cambodia\nKI Kiribati\nKM Comoros\nLA Laos\nLK Sri Lanka\nLR Liberia\nLS Lesotho\nMG Madagascar\nMH Marshall Islands\nML Mali\nMM Burma/Myanmar\nMN Mongolia\nMR Mauritania\nMV Maldives\nMW Malawi\nMZ Mozambique\nNE Niger\nNG Nigeria\nNI Nicaragua\nNP Nepal\nNR Nauru\nNU Niue\nPA Panama\nPE Peru\nPH Philippines\nPK Pakistan\nPY Paraguay\nRW Rwanda\nSB Solomon Islands\nSD Sudan\nSL Sierra Leone\nSN Senegal\nSO Somalia\nST São Tomé and Príncipe\nSV El Salvador\nSY Syria\nTD Chad\nTG Togo\nTH Thailand\nTJ Tajikistan\nTL Timor-Leste\nTM Turkmenistan\nTO Tonga\nTV Tuvalu\nTZ Tanzania\nUA Ukraine\nUG Uganda\nUZ Uzbekistan\nVN Vietnam\nVU Vanuatu\nWS Samoa\nYE Yemen\nZM Zambia\nBeneficiary countries of the general arrangement referred to in point (a) of Article 1(2) which have been temporarily withdrawn from that arrangement, in respect of all or of certain products originating in these countries\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nMM Burma/Myanmar",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0154",
+            "display_name": null
+          },
+          {
+            "corpus": "eu",
+            "key": "32013R1421",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0154 R; 32013R1421 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex II, which listed beneficiary countries under the general arrangement and separately identified countries such as Burma/Myanmar as temporarily withdrawn from it, no longer appears in the later version of the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_II",
+              "label": "Annex II, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN III"
+        },
+        "heading": "ANNEX III",
+        "before": "ANNEX III\nBeneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special incentive arrangement for sustainable development and good governance referred to in point (b) of Article 1(2)\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nBeneficiary countries of the special incentive arrangement for sustainable development and good governance referred to in point (b) of Article 1(2) which have been temporarily withdrawn from that arrangement, in respect of all or of certain products originating in these countries\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\n",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0001",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0001 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex III, which listed beneficiary countries of the special incentive arrangement for sustainable development and good governance along with a separate list of countries temporarily withdrawn from that arrangement, no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_III",
+              "label": "Annex III, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN IV"
+        },
+        "heading": "ANNEX IV",
+        "before": "ANNEX IV\nBeneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special arrangement for the least-developed countries referred to in point (c) of Article 1(2)\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nAF Afghanistan\nAO Angola\nBD Bangladesh\nBF Burkina Faso\nBI Burundi\nBJ Benin\nBT Bhutan\nCD Democratic Republic of the Congo\nCF Central African Republic\nDJ Djibouti\nER Eritrea\nET Ethiopia\nGM Gambia, The\nGN Guinea\nGQ Equatorial Guinea\nGW Guinea-Bissau\nHT Haiti\nKH Cambodia\nKI Kiribati\nKM Comoros\nLA Laos\nLR Liberia\nLS Lesotho\nMG Madagascar\nML Mali\nMM Burma/Myanmar\nMR Mauritania\nMV Maldives\nMW Malawi\nMZ Mozambique\nNE Niger\nNP Nepal\nRW Rwanda\nSB Solomon Islands\nSD Sudan\nSL Sierra Leone\nSN Senegal\nSO Somalia\nST São Tomé and Príncipe\nTD Chad\nTG Togo\nTL Timor-Leste\nTV Tuvalu\nTZ Tanzania\nUG Uganda\nVU Vanuatu\nWS Samoa\nYE Yemen\nZM Zambia\nBeneficiary countries of the special arrangement for the least-developed countries referred to in point (c) of Article 1(2) which have been temporarily withdrawn from that arrangement, in respect of all or of certain products originating in these countries\nColumn A\nalphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics\nColumn B\nname\nA B\nMM Burma/Myanmar",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1421",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R1421 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex IV, which listed the beneficiary countries of the special arrangement for the least-developed countries and separately listed those temporarily withdrawn from it, no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN IV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IV",
+              "label": "Annex IV, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN V"
+        },
+        "heading": "ANNEX V",
+        "before": "ANNEX V\nList of products included in the general arrangement referred to in point (a) of Article 1(2)\nNotwithstanding the rules for the interpretation of the Combined Nomenclature (CN), the description of the products is to be considered as indicative, the tariff preferences being determined by the CN codes. Where ex CN codes are indicated, the tariff preferences are to be determined by the CN code and the description, together.\nEntry of products with a CN code marked with an asterisk (*) is subject to the conditions laid down in the relevant Union law.\nThe column Section lists GSP sections (Article 2(h))\nThe column Chapter lists CN chapters covered by a GSP section (Article 2(i))\nThe column Sensitive/non-sensitive refers to the products included in the general arrangement (Article 6). These products are listed as being either NS (non-sensitive, for the purposes of Article 7(1)) or S (sensitive, for the purposes of Article 7(2)).\nFor reasons of simplification, the products are listed in groups. These may include products for which Common Customs Tariff duties were withdrawn or suspended.\nSection Chapter CN code Description Sensitive/non-sensitive\nS-1a 01 01012990 Live horses, other than pure-bred breeding animals, other than for slaughter S\n01013000 Live asses S\n01019000 Live mules and hinnies S\n01042010* Live, pure-bred breeding goats S\n01061410 Live domestic rabbits S\n01063910 Live pigeons S\n02 020500 Meat of horses, asses, mules or hinnies, fresh, chilled or frozen S\n02068091 Edible offal of horses, asses, mules or hinnies, fresh or chilled, other than for the manufacture of pharmaceutical products S\n02069091 Edible offal of horses, asses, mules or hinnies, frozen, other than for the manufacture of pharmaceutical products S\n02071491 Livers, frozen, of fowls of the species Gallus domesticus S\n02072791 Livers, frozen, of turkeys S\n02074595\n02075595\n02076091 Livers, frozen, of ducks, geese or guinea fowls, other than fatty livers of ducks or geese S\n02089070 Frogs’ legs NS\n02109910 Meat of horses, salted, in brine or dried S\n02109959 Offal of bovine animals, salted, in brine, dried or smoked, other than thick skirt and thin skirt S\nex02109985 Offal of sheep or goats, salted, in brine, dried or smoked S\nex02109985 Offal, salted, in brine, dried or smoked, other than poultry liver, other than of domestic swine, of bovine animals or of sheep or goats S\n04 04031051 Yogurt, flavoured or containing added fruit, nuts or cocoa S\n04031053\n04031059\n04031091\n04031093\n04031099\n04039071 Buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, flavoured or containing added fruit, nuts or cocoa S\n04039073\n04039079\n04039091\n04039093\n04039099\n04052010 Dairy spreads, of a fat content, by weight, of 39 % or more but not exceeding 75 % S\n04052030\n04071990\n04072990\n04079090 Birds’ eggs, in shell, fresh, preserved or cooked, other than of poultry S\n04100000 Edible products of animal origin, not elsewhere specified or included S\n05 05119939 Natural sponges of animal origin, other than raw S\nS-1b 03 ex Chapter 3 Fish and crustaceans, molluscs and other aquatic invertebrates, except for products under subheading 03011900 S\n03011900 Live, ornamental saltwater fish NS\nS-2a 06 ex Chapter 6 Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage, except for products under subheading 06031200 and 06042040 S\n06031200 Fresh cut carnations and buds of a kind suitable for bouquets or for ornamental purposes NS\n06042040 Conifer branches, fresh NS\nS-2b 07 0701 Potatoes, fresh or chilled S\n070310 Onions and shallots, fresh or chilled S\n07039000 Leeks and other alliaceous vegetables, fresh or chilled S\n0704 Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled S\n0705 Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled S\n0706 Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled S\nex07070005 Cucumbers, fresh or chilled, from 16 May to 31 October S\n0708 Leguminous vegetables, shelled or unshelled, fresh or chilled S\n07092000 Asparagus, fresh or chilled S\n07093000 Aubergines (eggplants), fresh or chilled S\n07094000 Celery other than celeriac, fresh or chilled S\n07095100\nex070959 Mushrooms, fresh or chilled, excluding the products under subheading 07095950 S\n07096010 Sweet peppers, fresh or chilled S\n07096099 Fruits of the genus Capsicum or of the genus Pimenta, fresh or chilled, other than sweet peppers, other than for the manufacture of capsaicin or capsicum oleoresin dyes and other than for the industrial manufacture of essential oils or resinoids S\n07097000 Spinach, New Zealand spinach and orache spinach (garden spinach), fresh or chilled S\nex07099100 Globe artichokes, fresh or chilled, from 1 July to 31 October S\n07099210* Olives, fresh or chilled, for uses other than the production of oil S\n07099310 Courgettes, fresh or chilled S\n07099390\n07099990 Other vegetables, fresh or chilled S\n07099910 Salad vegetables, fresh or chilled, other than lettuce (Lactuca sativa) and chicory (Cichorium spp.) S\n07099920 Chard (or white beet) and cardoons, fresh or chilled S\n07099940 Capers, fresh or chilled S\n07099950 Fennel, fresh or chilled S\nex0710 Vegetables (uncooked or cooked by steaming or boiling in water), frozen, except for the product of subheading 07108085 S\nex0711 Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption, excluding the products under subheading 07112090 S\nex0712 Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared, excluding olives and the products under subheading 07129019 S\n0713 Dried leguminous vegetables, shelled, whether or not skinned or split S\n07142010* Sweet potatoes, fresh, whole, and intended for human consumption NS\n07142090 Sweet potatoes, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets, other than fresh and whole and intended for human consumption S\n07149090 Jerusalem artichokes and similar roots and tubers with high inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith NS\n08 08021190 Almonds, fresh or dried, whether or not shelled, other than bitter S\n08021290\n08022100 Hazelnuts or filberts (Corylus spp.), fresh or dried, whether or not shelled S\n08022200\n08023100 Walnuts, fresh or dried, whether or not shelled S\n08023200\n08024100\n08024200 Chestnuts (Castanea spp.), fresh or dried, whether or not shelled or peeled S\n08025100\n08025200 Pistachios, fresh or dried, whether or not shelled or peeled NS\n08026100\n08026200 Macadamia nuts, fresh or dried, whether or not shelled or peeled NS\n08029050 Pine nuts, fresh or dried, whether or not shelled or peeled NS\n08029085 Other nuts, fresh or dried, whether or not shelled or peeled NS\n08031010 Plantains, fresh S\n08031090\n08039090 Bananas, including plantains, dried S\n08041000 Dates, fresh or dried S\n08042010 Figs, fresh or dried S\n08042090\n08043000 Pineapples, fresh or dried S\n08044000 Avocados, fresh or dried S\nex080520 Mandarins (including tangerines and satsumas), and clementines, wilkings and similar citrus hybrids, fresh or dried, from 1 March to 31 October S\n08054000 Grapefruit, including pomelos, fresh or dried NS\n08055090 Limes (Citrus aurantifolia, Citrus latifolia), fresh or dried S\n08059000 Other citrus fruit, fresh or dried S\nex08061010 Table grapes, fresh, from 1 January to 20 July and from 21 November to 31 December, excluding grapes of the variety Emperor (Vitis vinifera cv.) from 1 to 31 December S\n08061090 Other grapes, fresh S\nex080620 Dried grapes, excluding products under subheading ex08062030 in immediate containers of a net capacity exceeding 2 kg S\n08071100 Melons (including watermelons), fresh S\n08071900\n08081010 Cider apples, fresh, in bulk, from 16 September to 15 December S\n08083010 Perry pears, fresh, in bulk, from 1 August to 31 December S\nex08083090 Other pears, fresh, from 1 May to 30 June S\n08084000 Quinces, fresh S\nex08091000 Apricots, fresh, from 1 January to 31 May and from 1 August to 31 December S\n08092100 Sour cherries (Prunus cerasus), fresh S\nex080929 Cherries, fresh, from 1 January to 20 May and from 11 August to 31 December, other than sour cherries (Prunus cerasus) S\nex080930 Peaches, including nectarines, fresh, from 1 January to 10 June and from 1 October to 31 December S\nex08094005 Plums, fresh, from 1 January to 10 June and from 1 October to 31 December S\n08094090 Sloes, fresh S\nex08101000 Strawberries, fresh, from 1 January to 30 April and from 1 August to 31 December S\n081020 Raspberries, blackberries, mulberries and loganberries, fresh S\n08103000 Black-, white- or redcurrants and gooseberries, fresh S\n08104030 Fruit of the species Vaccinium myrtillus, fresh S\n08104050 Fruit of the species Vaccinium macrocarpon and Vaccinium corymbosum, fresh S\n08104090 Other fruits of the genus Vaccinium, fresh S\n08105000 Kiwifruit, fresh S\n08106000 Durians, fresh S\n08107000 Persimmons S\n08109075 Other fruit, fresh\nex0811 Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter, except for products under subheadings 081110 and 081120 S\nex0812 Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption, except for products under subheading 08129030 S\n08129030 Papaws (papayas) NS\n08131000 Apricots, dried S\n08132000 Prunes S\n08133000 Apples, dried S\n08134010 Peaches, including nectarines, dried S\n08134030 Pears, dried S\n08134050 Papaws (papayas), dried NS\n08134095 Other fruit, dried, other than that of headings 0801 to 0806 NS\n08135012 Mixtures of dried fruit (other than that of headings 0801 to 0806) of papaws (papayas), tamarinds, cashew apples, lychees, jackfruit, sapodilla plums, passion fruit, carambola or pitahaya, but not containing prunes S\n08135015 Other mixtures of dried fruit (other than that of headings 0801 to 0806), not containing prunes S\n08135019 Mixtures of dried fruit (other than that of headings 0801 to 0806), containing prunes S\n08135031 Mixtures exclusively of tropical nuts of headings 0801 and 0802 S\n08135039 Mixtures exclusively of nuts of headings 0801 and 0802, other than of tropical nuts S\n08135091 Other mixtures of nuts and dried fruits of Chapter 8, not containing prunes or figs S\n08135099 Other mixtures of nuts and dried fruits of Chapter 8 S\n08140000 Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions NS\nS-2c 09 ex Chapter 9 Coffee, tea, maté and spices, except the products under subheadings 09011200, 09012100, 09012200, 09019090 and 09042110, headings 09050000 and 09070000, and subheadings 09109190, 09109933, 09109939, 09109950 and 09109999 NS\n09011200 Coffee, not roasted, decaffeinated S\n09012100 Coffee, roasted, not decaffeinated S\n09012200 Coffee, roasted, decaffeinated S\n09019090 Coffee substitutes containing coffee in any proportion S\n09042110 Sweet peppers, dried, neither crushed nor ground S\n0905 Vanilla S\n0907 Cloves (whole fruit, cloves and stems) S\n09109190 Mixtures of two or more products under different headings of headings 0904 to 0910, crushed or ground S\n09109933 Thyme; bay leaves S\n09109939\n09109950\n09109999 Other spices, crushed or ground, other than mixtures of two or more products under different headings of headings 0904 to 0910 S\nS-2d 10 10085000 Quinoa (Chenopodium quinoa) S\n11 11042917 Hulled cereal grains excluding barley, oats, maize, rice and wheat S\n1105 Flour, meal, powder, flakes, granules and pellets of potatoes S\n11061000 Flour, meal and powder of the dried leguminous vegetables of heading 0713 S\n110630 Flour, meal and powder of products from Chapter 8 S\n11082000 Inulin S\n12 ex Chapter 12 Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, except for products under subheadings 12092100, 12092380, 12092950, 12092980, 12093000, 12099180 and 12099991; industrial or medicinal plants, except for products under subheading 12119030, and excluding products under heading 1210 and subheadings 121291 and 12129300 S\n12092100 Lucerne (alfalfa) seed, of a kind used for sowing NS\n12092380 Other fescue seed, of a kind used for sowing NS\n12092950 Lupine seed, of a kind used for sowing NS\n12092980 Seeds of other forage plants, of a kind used for sowing NS\n12093000 Seeds of herbaceous plants cultivated principally for their flowers, of a kind used for sowing NS\n12099180 Other vegetable seeds, of a kind used for sowing NS\n12099991 Seeds of plants cultivated principally for their flowers, of a kind used for sowing, other than those of subheading 12093000 NS\n12119030 Tonquin beans, fresh or dried, whether or not cut, crushed or powdered NS\n13 ex Chapter 13 Lac; gums, resins and other vegetable saps and extracts, except for products under subheading 13021200 S\n13021200 Vegetable saps and extracts, of liquorice NS\nS-3 15 15019000 Poultry fat, other than that of headings 0209 or 1503 S\n15021090\n15029090 Fats of bovine animals, sheep or goats, other than those of heading 1503 and other than for industrial uses other than the manufacture of foodstuffs for human consumption S\n15030019 Lard stearin and oleostearin, other than for industrial uses S\n15030090 Lard oil, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared, other than tallow oil for industrial uses other than the manufacture of foodstuffs for human consumption S\n1504 Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified S\n15050010 Wool grease, crude S\n1507 Soya-bean oil and its fractions, whether or not refined, but not chemically modified S\n1508 Groundnut oil and its fractions, whether or not refined, but not chemically modified S\n15111090 Palm oil, crude, other than for technical or industrial uses other than the manufacture of foodstuffs for human consumption S\n151190 Palm oil and its fractions, whether or not refined but not chemically modified, other than crude oil S\n1512 Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified S\n1513 Coconut (copra), palm-kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified S\n1514 Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified S\n1515 Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified S\nex1516 Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared, except for products under subheading 15162010 S\n15162010 Hydrogenated castor oil, so called opal-wax NS\n1517 Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of Chapter 15, other than edible fats or oils or their fractions of heading 1516 S\n151800 Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of Chapter 15, not elsewhere specified or included S\n15219099 Beeswax and other insect waxes, whether or not refined or coloured, other than raw S\n15220010 Degras S\n15220091 Oil foots and dregs; soapstocks, other than containing oil having the characteristics of olive oil S\nS-4a 16 16010010 Sausages and similar products, of liver, and food preparations based on liver S\n16022010 Goose or duck liver, prepared or preserved S\n16024190 Ham and cuts thereof, prepared or preserved, of swine other than of domestic swine S\n16024290 Shoulders and cuts thereof, prepared or preserved, of swine other than of domestic swine S\n16024990 Other prepared or preserved meat or meat offal, including mixtures, of swine other than of domestic swine S\n16029031 Other prepared or preserved meat or meat offal, of game or rabbit S\n16029069 Other prepared or preserved meat or meat offal, of sheep or goats or other animals, not containing uncooked bovine meat or offal and not containing meat or meat offal of domestic swine S\n16029091\n16029095\n16029099\n16029078\n16030010 Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates, in immediate packings of a net content not exceeding 1 kg S\n1604 Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs S\n1605 Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved S\nS-4b 17 17025000 Chemically pure fructose S\n17029010 Chemically pure maltose S\n1704 Sugar confectionery (including white chocolate), not containing cocoa S\n18 Chapter 18 Cocoa and cocoa preparations S\n19 ex Chapter 19 Preparations of cereals, flour, starch or milk; pastrycooks’ products, except for products under subheadings 19012000 and 19019091 S\n19012000 Mixes and doughs for the preparation of bakers’ wares of heading 1905 NS\n19019091 Other, containing no milkfats, sucrose, isoglucose, glucose or starch or containing less than 1,5 % milk fat, 5 % sucrose (including invert sugar) or isoglucose, 5 % glucose or starch, excluding food preparations in powder form of goods of headings 0401 to 0404 NS\n20 ex Chapter 20 Preparations of vegetables, fruit, nuts or other parts of plants, except for products under subheadings 20082019, 20082039, and excluding products under heading 2002 and subheadings 20058000, 20084019, 20084031, 20084051 to 20084090, 20087019, 20087051, 20087061 to 20087098 S\n20082019 Pineapples, otherwise prepared or preserved, containing added spirit, not elsewhere specified or included NS\n20082039\n21 ex Chapter 21 Miscellaneous edible preparations, except for products under subheadings 210120 and 21022019, and excluding products under subheadings 210610, 21069030, 21069051, 21069055 and 21069059 S\n210120 Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences or concentrates, or with a basis of tea or maté NS\n21022019 Other inactive yeasts NS\n22 ex Chapter 22 Beverages, spirits and vinegar, excluding products under heading 2207, subheadings 22041011 to 22043010 and subheading 220840 S\n23 23025000 Residues and wastes of a similar kind, whether or not in the form of pellets, resulting from the grinding or other working of leguminous plants S\n23070019 Other wine lees S\n23080019 Other grape marc S\n23080090 Other vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included NS\n23091090 Other dog or cat food put up for retail sale, other than containing starch or glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 17023050 to 17023090, 17024090, 17029050 and 21069055 or milk products S\n23099010 Fish or marine mammal solubles, of a kind used in animal feeding NS\n23099091 Beetpulp with added molasses, of a kind used in animal feeding S\n23099096 Other preparations of a kind used in animal feeding, whether or not containing by weight 49 % or more of choline chloride on an organic or inorganic base S\nS-4c 24 ex Chapter 24 Tobacco and manufactured tobacco substitutes, except for products under subheading 24011060 S\n24011060 Sun-cured Oriental type tobacco, unstemmed or unstripped NS\nS-5 25 25199010 Magnesium oxide, other than calcined natural magnesium carbonate NS\n2522 Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825 NS\n2523 Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers NS\n27 Chapter 27 Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes NS\nS-6a 28 2801 Fluorine, chlorine, bromine and iodine NS\n28020000 Sulphur, sublimed or precipitated; colloidal sulphur NS\nex2804 Hydrogen, rare gases and other non-metals, excluding products under subheading 28046900 NS\n280519 Alkali or alkaline-earth metals other than sodium and calcium NS\n280530 Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed NS\n2806 Hydrogen chloride (hydrochloric acid); chlorosulphuric acid NS\n280700 Sulphuric acid; oleum NS\n28080000 Nitric acid; sulphonitric acids NS\n2809 Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined NS\n28100090 Oxides of boron, other than diboron trioxide; boric acids NS\n2811 Other inorganic acids and other inorganic oxygen compounds of non-metals NS\n2812 Halides and halide oxides of non-metals NS\n2813 Sulphides of non-metals; commercial phosphorus trisulphide NS\n2814 Ammonia, anhydrous or in aqueous solution S\n2815 Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxide of sodium or potassium S\n2816 Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium NS\n28170000 Zinc oxide; zinc peroxide S\n281810 Artificial corundum, whether or not chemically defined S\n281820 Aluminium oxide, other than artificial corundum NS\n2819 Chromium oxides and hydroxides S\n2820 Manganese oxides S\n2821 Iron oxides and hydroxides; earth colours containing by weight 70 % or more of combined iron evaluated as Fe2O3 NS\n28220000 Cobalt oxides and hydroxides; commercial cobalt oxides NS\n28230000 Titanium oxides S\n2824 Lead oxides; red lead and orange lead NS\nex2825 Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides, except for products under subheadings 28251000 and 28258000 NS\n28251000 Hydrazine and hydroxylamine and their inorganic salts S\n28258000 Antimony oxides S\n2826 Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts NS\nex2827 Chlorides, chloride oxides and chloride hydroxides, except for products under subheadings 28271000 and 28273200; bromides and bromide oxides; iodides and iodide oxides NS\n28271000 Ammonium chloride S\n28273200 Aluminium chloride S\n2828 Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites NS\n2829 Chlorates and perchlorates; bromates and perbromates; iodates and periodates NS\nex2830 Sulphides, except for products under subheading 28301000; polysulphides, whether or not chemically defined NS\n28301000 Sodium sulphides S\n2831 Dithionites and sulphoxylates NS\n2832 Sulphites; thiosulphates NS\n2833 Sulphates; alums; peroxosulphates (persulphates) NS\n28341000 Nitrites S\n28342100 Nitrates NS\n283429\n2835 Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined S\nex2836 Carbonates, except for products under subheadings 28362000, 28364000 and 28366000; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate NS\n28362000 Disodium carbonate S\n28364000 Potassium carbonates S\n28366000 Barium carbonate S\n2837 Cyanides, cyanide oxides and complex cyanides NS\n2839 Silicates; commercial alkali metal silicates NS\n2840 Borates; peroxoborates (perborates) NS\nex2841 Salts of oxometallic or peroxometallic acids, except for the product of subheading 28416100 NS\n28416100 Potassium permanganate S\n2842 Other salts of inorganic acids or peroxoacids (including aluminosilicates, whether or not chemically defined), other than azides NS\n2843 Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals NS\nex28443011 Cermets containing uranium depleted in U-235 or compounds of this product, other than unwrought NS\nex28443051 Cermets containing thorium or compounds of thorium, other than unwrought NS\n28459090 Isotopes other than those of heading 2844, and compounds, inorganic or organic, of such isotopes, whether or not chemically defined, other than deuterium and compounds thereof, hydrogen and compounds thereof enriched in deuterium or mixtures and solutions containing these products NS\n2846 Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals NS\n28470000 Hydrogen peroxide, whether or not solidified with urea NS\n28480000 Phosphides, whether or not chemically defined, excluding ferrophosphorus NS\nex2849 Carbides, whether or not chemically defined, except for products under subheadings 28492000 and 28499030 NS\n28492000 Silicon carbide, whether or not chemically defined S\n28499030 Carbides of tungsten, whether or not chemically defined S\nex285000 Hydrides, nitrides, azides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849 NS\nex28500060 Silicides, whether or not chemically defined S\n28520000 Compounds, inorganic or organic, of mercury, excluding amalgams NS\n285300 Other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals NS\n29 2903 Halogenated derivatives of hydrocarbons S\nex2904 Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated, except for products under subheading 29042000 NS\n29042000 Derivatives containing only nitro or only nitroso groups S\nex2905 Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives, except for the product of subheading 29054500, and excluding products under subheadings 29054300 and 290544 S\n29054500 Glycerol NS\n2906 Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives NS\nex2907 Phenols, except for products under subheadings 29071590 and ex29072200; phenol-alcohols NS\n29071590 Naphthols and their salts, other than 1-naphthol S\nex29072200 Hydroquinone (quinol) S\n2908 Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols NS\n2909 Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives S\n2910 Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives NS\n29110000 Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives NS\nex2912 Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde, except for the product of subheading 29124100 NS\n29124100 Vanillin (4-hydroxy-3-methoxybenzaldehyde) S\n29130000 Halogenated, sulphonated, nitrated or nitrosated derivatives of products under heading 2912 NS\nex2914 Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives, except for products under subheadings 29141100, ex291429 and 29142200 NS\n29141100 Acetone S\nex291429 Camphor S\n29142200 Cyclohexanone and methylcyclohexanones S\n2915 Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives S\nex2916 Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids, and their halogenated, sulphonated, nitrated or nitrosated derivatives, except for products under subheadings ex29161100, 291612 and 291614 NS\nex29161100 Acrylic acid S\n291612 Esters of acrylic acid S\n291614 Esters of methacrylic acid S\nex2917 Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives, except for products under subheadings 29171100, ex29171200, 29171400, 29173200, 29173500 and 29173600 NS\n29171100 Oxalic acid, its salts and esters S\nex29171200 Adipic acid and its salts S\n29171400 Maleic anhydride S\n29173200 Dioctyl orthophthalates S\n29173500 Phthalic anhydride S\n29173600 Terephthalic acid and its salts S\nex2918 Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives, except for products under subheadings 29181400, 29181500, 29182100, 29182200 and ex29182900 NS\n29181400 Citric acid S\n29181500 Salts and esters of citric acid S\n29182100 Salicylic acid and its salts S\n29182200 o-Acetylsalicylic acid, its salts and esters S\nex29182900 Sulphosalicylic acids, hydroxynaphthoic acids; their salts and esters S\n2919 Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives NS\n2920 Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives NS\n2921 Amine-function compounds S\n2922 Oxygen-function amino-compounds S\n2923 Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined NS\nex2924 Carboxyamide-function compounds and amide-function compounds of carbonic acid, except for products under subheading 29242300 S\n29242300 2-Acetamidobenzoic acid (N-acetylanthranilic acid) and its salts NS\n2925 Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds NS\nex2926 Nitrile-function compounds, except for the product of subheading 29261000 NS\n29261000 Acrylonitrile S\n29270000 Diazo-, azo- or azoxy-compounds S\n29280090 Other organic derivatives of hydrazine or of hydroxylamine NS\n292910 Isocyanates S\n29299000 Other compounds with other nitrogen function NS\n29302000 Thiocarbamates and dithiocarbamates, and thiuram mono-, di- or tetrasulphides; dithiocarbonates (xanthates) NS\n29303000\nex29309099\n29304090 Methionine, captafol (ISO), methamidophos (ISO), and other organo-sulphur compounds other than dithiocarbonates (xanthates) S\n29305000\n29309013\n29309016\n29309020\n29309060\nex29309099\n293100 Other organo-inorganic compounds NS\nex2932 Heterocyclic compounds with oxygen hetero-atom(s) only, except for products under subheadings 29321200, 29321300 and ex29322090 NS\n29321200 2-Furaldehyde (furfuraldehyde) S\n29321300 Furfuryl alcohol and tetrahydrofurfuryl alcohol S\nex29322090 Coumarin, methylcoumarins and ethylcoumarins S\nex2933 Heterocylic compounds with nitrogen hetero-atom(s) only, except for the product of subheading 29336100 NS\n29336100 Melamine S\n2934 Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds NS\n29350090 Other sulphonamides S\n2938 Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives NS\nex29400000 Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose, and except for rhamnose, raffinose and mannose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products under headings 2937, 2938 or 2939 S\nex29400000 Rhamnose, raffinose and mannose NS\n29412030 Dihydrostreptomycin, its salts, esters and hydrates NS\n29420000 Other organic compounds NS\nS-6b 31 310221 Ammonium sulphate NS\n310240 Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances NS\n310250 Sodium nitrate NS\n310260 Double salts and mixtures of calcium nitrate and ammonium nitrate NS\n310310 Superphosphates S\n3105 Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of Chapter 31 in tablets or similar forms or in packages of a gross weight not exceeding 10 kg S\n32 ex Chapter 32 Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks; except for products under headings 3204 and 3206, and excluding products under subheadings 32019020, ex32019090 (tanning extracts of eucalyptus), ex32019090 (tanning extracts derived from gambier and myrobalan fruits) and ex32019090 (other tanning extracts of vegetable origin) NS\n32012000 Wattle extract NS\n3204 Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in note 3 to Chapter 32 based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined S\n3206 Other colouring matter; preparations as specified in note 3 to Chapter 32, other than those of headings 3203, 3204 or 3205; inorganic products of a kind used as luminophores, whether or not chemically defined S\n33 Chapter 33 Essential oils and resinoids; perfumery, cosmetic or toilet preparations NS\n34 Chapter 34 Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster NS\n35 3501 Casein, caseinates and other casein derivatives; casein glues S\n35029090 Albuminates and other albumin derivatives NS\n350300 Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501 NS\n35040000 Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed NS\n35051050 Starches, esterified or etherified NS\n3506 Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg NS\n3507 Enzymes; prepared enzymes not elsewhere specified or included S\n36 Chapter 36 Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations NS\n37 Chapter 37 Photographic or cinematographic goods NS\n38 ex Chapter 38 Miscellaneous chemical products, except for products under headings 3802 and 381700, subheadings 38231200 and 38237000, and heading 3825, and excluding the products under subheadings 380910 and 382460 NS\n3802 Activated carbon; activated natural mineral products; animal black, including spent animal black S\n381700 Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of headings 2707 or 2902 S\n38231200 Oleic acid S\n38237000 Industrial fatty alcohols S\n3825 Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in note 6 to Chapter 38 S\nS-7a 39 ex Chapter 39 Plastics and articles thereof, except for products under headings 3901, 3902, 3903 and 3904, subheadings 39061000, 39071000, 390760 and 390799, headings 3908 and 3920, and subheadings ex39219010 and 39232100 NS\n3901 Polymers of ethylene, in primary forms S\n3902 Polymers of propylene or of other olefins, in primary forms S\n3903 Polymers of styrene, in primary forms S\n3904 Polymers of vinyl chloride or of other halogenated olefins, in primary forms S\n39061000 Poly(methyl methacrylate) S\n39071000 Polyacetals S\n390760 Poly(ethylene terephthalate), except for products of subheading 39076020 S\n39076020 Poly(ethylene terephthalate), in primary forms, having a viscosity number of 78 ml/g or higher NS\n390799 Other polyesters, other than unsaturated S\n3908 Polyamides in primary forms S\n3920 Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials S\nex39219010 Other plates, sheets, film, foil and strip, of polyesters, other than cellular products and other than corrugated sheets and plates S\n39232100 Sacks and bags (including cones), of polymers of ethylene S\nS-7b 40 ex Chapter 40 Rubber and articles thereof, except for products under heading 4010 NS\n4010 Conveyor or transmission belts or belting, of vulcanised rubber S\nS-8a 41 ex4104 Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared, excluding the products under subheadings 41044119 and 41044919 S\nex41063100 Tanned or crust hides and skins of swine, without hair on, in the wet state (including wet-blue), split but not further prepared, or in the dry state (crust), whether or not split, but not further prepared NS\n41063200\n4107 Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 4114 S\n41120000 Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 4114 S\nex4113 Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 4114, except for products under subheading 41131000 NS\n41131000 Of goats or kids S\n4114 Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather S\n41151000 Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls S\nS-8b 42 ex Chapter 42 Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut); except for products under headings 4202 and 4203 NS\n4202 Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper S\n4203 Articles of apparel and clothing accessories, of leather or of composition leather S\n43 Chapter 43 Furskins and artificial fur; manufactures thereof NS\nS-9a 44 ex Chapter 44 Wood and articles of wood, except for products under headings 4410, 4411, 4412, subheadings 441810, 44182010, 44187100, 44201011, 44209010 and 44209091; wood charcoal NS\n4410 Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances S\n4411 Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances S\n4412 Plywood, veneered panels and similar laminated wood S\n441810 Windows, French windows and their frames, of wood S\n44182010 Doors and their frames and thresholds, of tropical wood as specified in additional note 2 to Chapter 44 S\n44187100 Assembled flooring panels for mosaic floors, of wood S\n44201011 Statuettes and other ornaments, of tropical wood as specified in additional note 2 to Chapter 44; wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, and wooden articles of furniture not falling in Chapter 94, of tropical wood as specified in additional note 2 to Chapter 44 S\n44209010\n44209091\nS-9b 45 ex Chapter 45 Cork and articles of cork, except for products under heading 4503 NS\n4503 Articles of natural cork S\n46 Chapter 46 Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork S\nS-11a 50 Chapter 50 Silk S\n51 ex Chapter 51 Wool, fine or coarse animal hair, excluding the products under heading 5105; horsehair yarn and woven fabric S\n52 Chapter 52 Cotton S\n53 Chapter 53 Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn S\n54 Chapter 54 Man-made filaments; strip and the like of man-made textile materials S\n55 Chapter 55 Man-made staple fibres S\n56 Chapter 56 Wadding, felt and non-wovens; special yarns; twine, cordage, ropes and cables and articles thereof S\n57 Chapter 57 Carpets and other textile floor coverings S\n58 Chapter 58 Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery S\n59 Chapter 59 Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use S\n60 Chapter 60 Knitted or crocheted fabrics S\nS-11b 61 Chapter 61 Articles of apparel and clothing accessories, knitted or crocheted S\n62 Chapter 62 Articles of apparel and clothing accessories, not knitted or crocheted S\n63 Chapter 63 Other made-up textile articles; sets; worn clothing and worn textile articles; rags S\nS-12a 64 Chapter 64 Footwear, gaiters and the like; parts of such articles S\nS-12b 65 Chapter 65 Headgear and parts thereof NS\n66 Chapter 66 Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof S\n67 Chapter 67 Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair NS\nS-13 68 Chapter 68 Articles of stone, plaster, cement, asbestos, mica or similar materials NS\n69 Chapter 69 Ceramic products S\n70 Chapter 70 Glass and glassware S\nS-14 71 ex Chapter 71 Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin; except for products under heading 7117 NS\n7117 Imitation jewellery S\nS-15a 72 7202 Ferro-alloys S\n73 Chapter 73 Articles of iron or steel NS\nS-15b 74 Chapter 74 Copper and articles thereof S\n75 75051200 Bars, rods and profiles, of nickel alloys NS\n75052200 Wire, of nickel alloys NS\n75062000 Plates, sheets, strip and foil, of nickel alloys NS\n75072000 Nickel tube or pipe fittings NS\n76 ex Chapter 76 Aluminium and articles thereof, excluding the products under heading 7601 S\n78 ex Chapter 78 Lead and articles thereof, excluding the products under heading 7801 S\n780199 Unwrought lead other than refined and other than containing by weight antimony as the principal other element NS\n79 ex Chapter 79 Zinc and articles thereof, excluding the products under headings 7901 and 7903 S\n81 ex Chapter 81 Other base metals; cermets; articles thereof, excluding the products under subheadings 81011000, 81021000, 81029400, 81092000, 81101000, 81122190, 81125100, 81125900, 811292 and 81130020, except for products under subheadings 81019400, 81041100, 81041900, 81072000, 81082000 and 81083000 S\n81019400 Unwrought tungsten (wolfram), including bars and rods obtained simply by sintering NS\n81041100 Unwrought magnesium, containing at least 99,8 % by weight of magnesium NS\n81041900 Unwrought magnesium other than of subheading 81041100 NS\n81072000 Unwrought cadmium; powders NS\n81082000 Unwrought titanium; powders NS\n81083000 Titanium waste and scrap NS\n82 Chapter 82 Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal S\n83 Chapter 83 Miscellaneous articles of base metal S\nS-16 84 ex Chapter 84 Nuclear reactors, boilers, machinery and mechanical appliances, and parts thereof, except for products under subheadings 84011000 and 84072110 NS\n84011000 Nuclear reactors S\n84072110 Outboard motors, of a cylinder capacity not exceeding 325 cm3 S\n85 ex Chapter 85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles, except for products under subheadings 85165000, 85176939, 85177015, 85177019, 851920, 851930, 85198111 to 85198145, 85198185, 85198911 to 85198919, headings 8521, 8525 and 8527, subheadings 852849, 852859 and 852869 to 852872, heading 8529 and subheadings 854011 and 854012 NS\n85165000 Microwave ovens S\n85176939 Reception apparatus for radio-telephony or radio telegraphy, other than portable receivers for calling, alerting or paging S\n85177015 Aerials and aerial reflectors of all kinds, other than aerials for radio-telegraphic or radio-telephonic apparatus; parts suitable for use therewith S\n85177019\n851920 Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment; turntables (record-decks) S\n851930\n85198111 to 85198145 Sound-reproducing apparatus (including cassette-players), not incorporating a sound-recording device S\n85198185 Other magnetic tape recorders incorporating sound-reproducing apparatus, other than cassette-type S\n85198911 to 85198919 Other sound-reproducing apparatus, not incorporating a sound-recording device S\nex8521 Video recording or reproducing apparatus, whether or not incorporating a video tuner, except products of subheading 85219000 S\n85219000 Video recording or reproducing apparatus (excluding magnetic tape-type); video recording or reproducing apparatus, whether or not incorporating a video tuner (excluding magnetic tape-type and video camera recorders) NS\n8525 Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound-recording or -reproducing apparatus; television cameras; digital cameras and video camera recorders S\n8527 Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound-recording or -reproducing apparatus or a clock S\n852849 Monitors and projectors, not incorporating television-reception apparatus, other than of a kind used solely or principally in an automatic data-processing system of heading 8471; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound- or video-recording or -reproducing apparatus S\n852859\n852869 to 852872\n8529 Parts suitable for use solely or principally with the apparatus of headings 8525 to 8528 S\n854011 Cathode ray television picture tubes, including video monitor cathode ray tubes, colour, or black-and-white or other monochrome S\n85401200\nS-17a 86 Chapter 86 Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic-signalling equipment of all kinds NS\nS-17b 87 ex Chapter 87 Vehicles other than railway or tramway rolling stock, and parts and accessories thereof, except for products under headings 8702, 8703, 8704, 8705, 870600, 8707, 8708, 8709, 8711, 871200 and 8714 NS\n8702 Motor vehicles for the transport of ten or more persons, including the driver S\n8703 Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars S\n8704 Motor vehicles for the transport of goods S\n8705 Special-purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire-fighting vehicles, concrete-mixer lorries, road-sweeper lorries, spraying lorries, mobile workshops, mobile radiological units) S\n870600 Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705 S\n8707 Bodies (including cabs), for the motor vehicles of headings 8701 to 8705 S\n8708 Parts and accessories of the motor vehicles of headings 8701 to 8705 S\n8709 Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short-distance transport of goods; tractors of the type used on railway-station platforms; parts of the foregoing vehicles S\n8711 Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without sidecars; sidecars S\n871200 Bicycles and other cycles (including delivery tricycles), not motorised S\n8714 Parts and accessories of vehicles of headings 8711 to 8713 S\n88 Chapter 88 Aircraft, spacecraft, and parts thereof NS\n89 Chapter 89 Ships, boats and floating structures NS\nS-18 90 Chapter 90 Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof S\n91 Chapter 91 Clocks and watches and parts thereof S\n92 Chapter 92 Musical instruments; parts and accessories of such articles NS\nS-20 94 ex Chapter 94 Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings, except for products under heading 9405 NS\n9405 Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included S\n95 ex Chapter 95 Toys, games and sports requisites; parts and accessories thereof; except for products under subheadings 95030035 to 95030099 NS\n95030035 to 95030099 Other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds S\n96 Chapter 96 Miscellaneous manufactured articles NS",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex V, which set out the list of products covered by the general arrangement, including the section and chapter headings, CN codes, product descriptions, and sensitive/non-sensitive classifications, no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_V",
+              "label": "Annex V, 32012R0978"
+            }
+          ]
+        },
+        {
+          "text": "The before text was cut off partway through the listing, so only part of the original annex content could be reviewed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_V",
+              "label": "Annex V, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN VI"
+        },
+        "heading": "ANNEX VI",
+        "before": "ANNEX VI\nModalities for the application of Article 8\n1. Article 8 shall apply when the percentage share referred to in paragraph 1 of that Article exceeds 17,5 %.\n2. Article 8 shall apply for each of the GSP sections S-11a and S-11b of Annex V, when the percentage share referred to in paragraph 1 of that Article exceeds 14,5 %.",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex VI, which set out the modalities for applying Article 8, including the 17,5% threshold and the separate 14,5% threshold for GSP sections S-11a and S-11b of Annex V, no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VI",
+              "label": "Annex VI, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN VII"
+        },
+        "heading": "ANNEX VII",
+        "before": "ANNEX VII\nModalities for the application of Chapter III of this Regulation\n1. For the purposes of Chapter III a vulnerable country means a country:\n(a) of which, in terms of value, the seven largest GSP sections of its imports into the Union of products listed in Annex IX represent more than the threshold of 75 % in value of its total imports of products listed in that Annex, as an average during the last three consecutive years;\nand\n(b) of which the imports of products listed in Annex IX into the Union represent less than the threshold of 2 % in value of the total imports into the Union of products listed in that Annex originating in countries listed in Annex II, as an average during the last three consecutive years.\n2. For the purposes of point (a) of Article 9(1), the data to be used in application of point 1 of this Annex are those available on 1 September of the year preceding the year of the request referred to in Article 10(1).\n3. For the purposes of Article 11, the data to be used in application of point 1 of this Annex are those available on 1 September of the year preceding the year when the delegated act referred to in Article 11(2) is adopted.",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex VII, which set out the modalities for determining a vulnerable country under Chapter III, including the thresholds and reference dates used for that assessment, no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VII",
+              "label": "Annex VII, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN VIII"
+        },
+        "heading": "ANNEX VIII",
+        "before": "ANNEX VIII\nConventions referred to in Article 9\nPART A\nCore human and labour rights UN/ILO Conventions\n1. Convention on the Prevention and Punishment of the Crime of Genocide (1948)\n2. International Convention on the Elimination of All Forms of Racial Discrimination (1965)\n3. International Covenant on Civil and Political Rights (1966)\n4. International Covenant on Economic Social and Cultural Rights (1966)\n5. Convention on the Elimination of All Forms of Discrimination Against Women (1979)\n6. Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (1984)\n7. Convention on the Rights of the Child (1989)\n8. Convention concerning Forced or Compulsory Labour, No 29 (1930)\n9. Convention concerning Freedom of Association and Protection of the Right to Organise, No 87 (1948)\n10. Convention concerning the Application of the Principles of the Right to Organise and to Bargain Collectively, No 98 (1949)\n11. Convention concerning Equal Remuneration of Men and Women Workers for Work of Equal Value, No 100 (1951)\n12. Convention concerning the Abolition of Forced Labour, No 105 (1957)\n13. Convention concerning Discrimination in Respect of Employment and Occupation, No 111 (1958)\n14. Convention concerning Minimum Age for Admission to Employment, No 138 (1973)\n15. Convention concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour, No 182 (1999)\nPART B\nConventions related to the environment and to governance principles\n16. Convention on International Trade in Endangered Species of Wild Fauna and Flora (1973)\n17. Montreal Protocol on Substances that Deplete the Ozone Layer (1987)\n18. Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal (1989)\n19. Convention on Biological Diversity (1992)\n20. The United Nations Framework Convention on Climate Change (1992)\n21. Cartagena Protocol on Biosafety (2000)\n22. Stockholm Convention on persistent Organic Pollutants (2001)\n23. Kyoto Protocol to the United Nations Framework Convention on Climate Change (1998)\n24. United Nations Single Convention on Narcotic Drugs (1961)\n25. United Nations Convention on Psychotropic Substances (1971)\n26. United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (1988)\n27. United Nations Convention against Corruption (2004)",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex VIII, which listed core UN/ILO human and labour rights conventions in Part A and conventions on environment and governance principles in Part B, is no longer present in the later version of the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VIII",
+              "label": "Annex VIII, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN IX"
+        },
+        "heading": "ANNEX IX",
+        "before": "ANNEX IX\nList of products included in the special incentive arrangement for sustainable development and good governance referred to in point (b) of Article 1(2)\nNotwithstanding the rules for the interpretation of the Combined Nomenclature, the description of the products is to be considered as indicative, the tariff preferences being determined by the CN codes. Where ex CN codes are indicated, the tariff preferences are to be determined by the CN code and the description, together.\nEntry of products with a CN code marked with an asterisk (*) is subject to the conditions laid down in the relevant Union law.\nThe column Section lists GSP sections (Article 2(h))\nThe column Chapter lists CN chapters covered by a GSP section (Article 2(i))\nFor reasons of simplification, the products are listed in groups. These may include products for which Common Customs Tariff duties were withdrawn or suspended.\nFor the products under subheading 030613, the duty shall be 3,6 %.For the products under subheading 17041090, the specific duty shall be limited to 16 % of the customs value.\nSection Chapter CN code Description S-1a 01 01012990 Live horses, other than pure-bred breeding animals, other than for slaughter 01013000 Live asses 01019000 Live mules and hinnies 01042010* Live, pure-bred breeding goats 01061410 Live domestic rabbits 01063910 Live pigeons 02 020500 Meat of horses, asses, mules or hinnies, fresh, chilled or frozen 02068091 Edible offal of horses, asses, mules or hinnies, fresh or chilled, other than for the manufacture of pharmaceutical products 02069091 Edible offal of horses, asses, mules or hinnies, frozen, other than for the manufacture of pharmaceutical products 02071491 Livers, frozen, of fowls of the species Gallus domesticus 02072791 Livers, frozen, of turkeys 02074595\n02075595\n02076091 Livers, frozen, of ducks, geese or guinea fowls, other than fatty livers of ducks or geese ex0208 Other meat and edible meat offal, fresh, chilled or frozen, excluding products under subheading 02084020 02109910 Meat of horses, salted, in brine or dried 02109959 Offal of bovine animals, salted, in brine, dried or smoked, other than thick skirt and thin skirt ex02109985 Offal of sheep or goats, salted, in brine, dried or smoked ex02109985 Offal, salted, in brine, dried or smoked, other than poultry liver, other than of domestic swine, of bovine animals or of sheep or goats 04 04031051 Yogurt, flavoured or containing added fruit, nuts or cocoa 04031053\n04031059\n04031091\n04031093\n04031099\n04039071 Buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, flavoured or containing added fruit, nuts or cocoa 04039073\n04039079\n04039091\n04039093\n04039099\n04052010 Dairy spreads, of a fat content, by weight, of 39 % or more but not exceeding 75 % 04052030\n04071990\n04072990\n04079090 Birds’ eggs, in shell, fresh, preserved or cooked, other than of poultry 04090000 Natural honey 04100000 Edible products of animal origin, not elsewhere specified or included 05 05119939 Natural sponges of animal origin, other than raw S-1b 03 Chapter 3 Fish and crustaceans, molluscs and other aquatic invertebrates S-2a 06 Chapter 6 Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage S-2b 07 0701 Potatoes, fresh or chilled 070310 Onions and shallots, fresh or chilled 07039000 Leeks and other alliaceous vegetables, fresh or chilled 0704 Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled 0705 Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled 0706 Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled ex07070005 Cucumbers, fresh or chilled, from 16 May to 31 October 0708 Leguminous vegetables, shelled or unshelled, fresh or chilled 07092000 Asparagus, fresh or chilled 07093000 Aubergines (eggplants), fresh or chilled 07094000 Celery other than celeriac, fresh or chilled 07095100 Mushrooms, fresh or chilled, excluding the products under subheading 07095950 ex070959\n07096010 Sweet peppers, fresh or chilled 07096099 Fruits of the genus Capsicum or of the genus Pimenta, fresh or chilled, other than sweet peppers, other than for the manufacture of capsaicin or capsicum oleoresin dyes and other than for the industrial manufacture of essential oils or resinoids 07097000 Spinach, New Zealand spinach and orache spinach (garden spinach), fresh or chilled 07099210* Olives, fresh or chilled, for uses other than the production of oil 07099910 Salad vegetables, fresh or chilled, other than lettuce (Lactuca sativa) and chicory (Cichorium spp.) 07099920 Chard (or white beet) and cardoons, fresh or chilled 07099310 Courgettes, fresh or chilled 07099940 Capers, fresh or chilled 07099950 Fennel, fresh or chilled ex07099100 Globe artichokes, fresh or chilled, from 1 July to 31 October 07099390\n07099990 Other vegetables, fresh or chilled 0710 Vegetables (uncooked or cooked by steaming or boiling in water), frozen ex0711 Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption, excluding the products under subheading 07112090 ex0712 Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared, excluding olives and the products under subheading 07129019 0713 Dried leguminous vegetables, shelled, whether or not skinned or split 07142010* Sweet potatoes, fresh, whole, and intended for human consumption 07142090 Sweet potatoes, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets, other than fresh and whole and intended for human consumption 07149090 Jerusalem artichokes and similar roots and tubers with high inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith 08 08021190 Almonds, fresh or dried, whether or not shelled, other than bitter 08021290\n08022100 Hazelnuts or filberts (Corylus spp.), fresh or dried, whether or not shelled 08022200\n08023100 Walnuts, fresh or dried, whether or not shelled 08023200\n08024100\n08024200 Chestnuts (Castanea spp.), fresh or dried, whether or not shelled or peeled 08025100\n08025200 Pistachios, fresh or dried, whether or not shelled or peeled 08026100\n08026200 Macadamia nuts, fresh or dried, whether or not shelled or peeled 08029050 Pine nuts, fresh or dried, whether or not shelled or peeled 08029085 Other nuts, fresh or dried, whether or not shelled or peeled 08031010 Plantains, fresh 08031090\n08039090 Bananas, including plantains, dried 08041000 Dates, fresh or dried 08042010 Figs, fresh or dried 08042090\n08043000 Pineapples, fresh or dried 08044000 Avocados, fresh or dried ex080520 Mandarins (including tangerines and satsumas), and clementines, wilkings and similar citrus hybrids, fresh or dried, from 1 March to 31 October 08054000 Grapefruit, including pomelos, fresh or dried 08055090 Limes (Citrus aurantifolia, Citrus latifolia), fresh or dried 08059000 Other citrus fruit, fresh or dried ex08061010 Table grapes, fresh, from 1 January to 20 July and from 21 November to 31 December, excluding grapes of the variety Emperor (Vitis vinifera cv.) from 1 to 31 December 08061090 Other grapes, fresh ex080620 Dried grapes, excluding products under subheading ex08062030 in immediate containers of a net capacity exceeding 2 kg 08071100 Melons (including watermelons), fresh 08071900\n08081010 Cider apples, fresh, in bulk, from 16 September to 15 December 08083010 Perry pears, fresh, in bulk, from 1 August to 31 December ex08083090 Other pears, fresh, from 1 May to 30 June 08084000 Quinces, fresh ex08091000 Apricots, fresh, from 1 January to 31 May and from 1 August to 31 December 08092100 Sour cherries (Prunus cerasus), fresh ex080929 Cherries, fresh, from 1 January to 20 May and from 11 August to 31 December, other than sour cherries (Prunus cerasus) ex080930 Peaches, including nectarines, fresh, from 1 January to 10 June and from 1 October to 31 December ex08094005 Plums, fresh, from 1 January to 10 June and from 1 October to 31 December 08094090 Sloes, fresh ex08101000 Strawberries, fresh, from 1 January to 30 April and from 1 August to 31 December 081020 Raspberries, blackberries, mulberries and loganberries, fresh 08103000 Black-, white- or redcurrants and groseberries, fresh 08104030 Fruit of the species Vaccinium myrtillus, fresh 08104050 Fruit of the species Vaccinium macrocarpon and Vaccinium corymbosum, fresh 08104090 Other fruits of the genus Vaccinium, fresh 08105000 Kiwifruit, fresh 08106000 Durians, fresh 08107000 Persimmons 08109075 Other fruit, fresh\n0811 Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter, 0812 Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption 08131000 Apricots, dried 08132000 Prunes 08133000 Apples, dried 08134010 Peaches, including nectarines, dried 08134030 Pears, dried 08134050 Papaws (papayas), dried 08134095 Other fruit, dried, other than that of headings 0801 to 0806 08135012 Mixtures of dried fruit (other than that of headings 0801 to 0806) of papaws (papayas), tamarinds, cashew apples, lychees, jackfruit, sapodilla plums, passion fruit, carambola or pitahaya, but not containing prunes 08135015 Other mixtures of dried fruit (other than that of headings 0801 to 0806), not containing prunes 08135019 Mixtures of dried fruit (other than that of headings 0801 to 0806), containing prunes 08135031 Mixtures exclusively of tropical nuts of headings 0801 and 0802 08135039 Mixtures exclusively of nuts of headings 0801 and 0802, other than of tropical nuts 08135091 Other mixtures of nuts and dried fruits of Chapter 8, not containing prunes or figs 08135099 Other mixtures of nuts and dried fruits of Chapter 8 08140000 Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions S-2c 09 Chapter 9 Coffee, tea, maté and spices S-2d 10 10085000 Quinoa (Chenopodium quinoa) 11 11042917 Hulled cereal grains excluding barley, oats, maize, rice and wheat. 1105 Flour, meal, powder, flakes, granules and pellets of potatoes 11061000 Flour, meal and powder of the dried leguminous vegetables of heading 0713 110630 Flour, meal and powder of products from Chapter 8 11082000 Inulin 12 ex Chapter 12 Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder excluding products under heading 1210 and subheadings 121291 and 12129300 13 Chapter 13 Lac; gums, resins and other vegetable saps and extracts S-3 15 15019000 Poultry fat, other than that of heading 0209 or 1503 15021090\n15029090 Fats of bovine animals, sheep or goats, other than those of heading 1503 and other than for industrial uses other than the manufacture of foodstuffs for human consumption 15030019 Lard stearin and oleostearin, other than for industrial uses 15030090 Lard oil, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared, other than tallow oil for industrial uses other than the manufacture of foodstuffs for human consumption 1504 Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified 15050010 Wool grease, crude 1507 Soya-bean oil and its fractions, whether or not refined, but not chemically modified 1508 Groundnut oil and its fractions, whether or not refined, but not chemically modified 15111090 Palm oil, crude, other than for technical or industrial uses other than the manufacture of foodstuffs for human consumption 151190 Palm oil and its fractions, whether or not refined but not chemically modified, other than crude oil 1512 Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified 1513 Coconut (copra), palm-kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified 1514 Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified 1515 Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified 1516 Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared 1517 Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of Chapter 15, other than edible fats or oils or their fractions of heading 1516 151800 Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of Chapter 15, not elsewhere specified or included 15219099 Beeswax and other insect waxes, whether or not refined or coloured, other than raw 15220010 Degras 15220091 Oil foots and dregs; soapstocks, other than containing oil having the characteristics of olive oil S-4a 16 16010010 Sausages and similar products, of liver, and food preparations based on liver 16022010 Goose or duck liver, prepared or preserved 16024190 Ham and cuts thereof, prepared or preserved, of swine other than of domestic swine 16024290 Shoulders and cuts thereof, prepared or preserved, of swine other than of domestic swine 16024990 Other prepared or preserved meat or meat offal, including mixtures, of swine other than of domestic swine 16025031\n16025095 Other prepared or preserved meat or meat offal, cooked, of bovine animals, whether or not in airtight containers 16029031 Other prepared or preserved meat or meat offal, of game or rabbit 16029069 Other prepared or preserved meat or meat offal, of sheep or goats or other animals, not containing uncooked bovine meat or offal and not containing meat or meat offal of domestic swine 16029091\n16029095\n16029099\n16029078\n16030010 Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates, in immediate packings of a net content not exceeding 1 kg 1604 Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs 1605 Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved S-4b 17 17025000 Chemically pure fructose 17029010 Chemically pure maltose 1704 Sugar confectionery (including white chocolate), not containing cocoa 18 Chapter 18 Cocoa and cocoa preparations 19 Chapter 19 Preparations of cereals, flour, starch or milk; pastrycooks’ products 20 Chapter 20 Preparations of vegetables, fruit, nuts or other parts of plants 21 ex Chapter 21 Miscellaneous edible preparations excluding products under subheadings 210610, 21069030, 21069051, 21069055 and 21069059 22 ex Chapter 22 Beverages, spirits and vinegar excluding products under subheadings 22041011 to 22043010 and subheading 220840 23 23025000 Residues and wastes of a similar kind, whether or not in the form of pellets, resulting from the grinding or other working of leguminous plants 23070019 Other wine lees 23080019 Other grape marc 23080090 Other vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included 23091090 Other dog or cat food put up for retail sale, other than containing starch or glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 17023050 to 17023090, 17024090, 17029050 and 21069055 or milk products 23099010 Fish or marine mammal solubles, of a kind used in animal feeding 23099091 Beetpulp with added molasses, of a kind used in animal feeding 23099096 Other preparations of a kind used in animal feeding, whether or not containing by weight 49 % or more of choline chloride on an organic or inorganic base S-4c 24 Chapter 24 Tobacco and manufactured tobacco substitutes S-5 25 25199010 Magnesium oxide, other than calcined natural magnesium carbonate 2522 Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825 2523 Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers 27 Chapter 27 Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes S-6a 28 2801 Fluorine, chlorine, bromine and iodine 28020000 Sulphur, sublimed or precipitated; colloidal sulphur ex2804 Hydrogen, rare gases and other non-metals, excluding products under subheading 28046900 280519 Alkali or alkaline-earth metals other than sodium and calcium 280530 Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed 2806 Hydrogen chloride (hydrochloric acid); chlorosulphuric acid 280700 Sulphuric acid; oleum 28080000 Nitric acid; sulphonitric acids 2809 Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined 28100090 Oxides of boron, other than diboron trioxide; boric acids 2811 Other inorganic acids and other inorganic oxygen compounds of non-metals 2812 Halides and halide oxides of non-metals 2813 Sulphides of non-metals; commercial phosphorus trisulphide 2814 Ammonia, anhydrous or in aqueous solution 2815 Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxide of sodium or potassium 2816 Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium 28170000 Zinc oxide; zinc peroxide 281810 Artificial corundum, whether or not chemically defined 281820 Aluminium oxide other than artificial corundum 2819 Chromium oxides and hydroxides 2820 Manganese oxides 2821 Iron oxides and hydroxides; earth colours containing by weight 70 % or more of combined iron evaluated as Fe2O3 28220000 Cobalt oxides and hydroxides; commercial cobalt oxides 28230000 Titanium oxides 2824 Lead oxides; red lead and orange lead 2825 Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides 2826 Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts 2827 Chlorides, chloride oxides and chloride hydroxides bromides and bromide oxides; iodides and iodide oxides 2828 Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites 2829 Chlorates and perchlorates; bromates and perbromates; iodates and periodates 2830 Sulphides; polysulphides, whether or not chemically defined 2831 Dithionites and sulphoxylates 2832 Sulphites; thiosulphates 2833 Sulphates; alums; peroxosulphates (persulphates) 28341000 Nitrites 28342100 Nitrates 283429\n2835 Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined 2836 Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate 2837 Cyanides, cyanide oxides and complex cyanides 2839 Silicates; commercial alkali metal silicates 2840 Borates; peroxoborates (perborates) 2841 Salts of oxometallic or peroxometallic acids, 2842 Other salts of inorganic acids or peroxoacids (including aluminosilicates, whether or not chemically defined), other than azides 2843 Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals ex28443011 Cermets containing uranium depleted in U-235 or compounds of this product, other than unwrought ex28443051 Cermets containing thorium or compounds of thorium, other than unwrought 28459090 Isotopes other than those of heading 2844, and compounds, inorganic or organic, of such isotopes, whether or not chemically defined, other than deuterium and compounds thereof, hydrogen and compounds thereof enriched in deuterium or mixtures and solutions containing these products 2846 Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals 28470000 Hydrogen peroxide, whether or not solidified with urea 28480000 Phosphides, whether or not chemically defined, excluding ferrophosphorus 2849 Carbides, whether or not chemically defined 285000 Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 2849 28520000 Compounds, inorganic or organic, of mercury, excluding amalgams 285300 Other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals 29 2903 Halogenated derivatives of hydrocarbons 2904 Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated ex2905 Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives, excluding products under subheadings 29054300 and 290544 2906 Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives 2907 Phenols; phenol-alcohols 2908 Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols 2909 Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives 2910 Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives 29110000 Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives 2912 Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde 29130000 Halogenated, sulphonated, nitrated or nitrosated derivatives of products under heading 2912 2914 Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives 2915 Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives 2916 Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids, and their halogenated, sulphonated, nitrated or nitrosated derivatives 2917 Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids and their halogenated, sulphonated, nitrated or nitrosated derivatives 2918 Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives 2919 Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives 2920 Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives 2921 Amine-function compounds 2922 Oxygen-function amino-compounds 2923 Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined 2924 Carboxyamide-function compounds and amide-function compounds of carbonic acid 2925 Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds 2926 Nitrile-function compounds 29270000 Diazo-, azo- or azoxy-compounds 29280090 Other organic derivatives of hydrazine or of hydroxylamine 292910 Isocyanates 29299000 Other compounds with other nitrogen function 29302000 Thiocarbamates and dithiocarbamates, and thiuram mono-, di- or tetrasulphides; dithiocarbonates (xanthates) 29303000\nex29309099\n29304090 Methionine, captafol (ISO), methamidophos (ISO), and other organo-sulphur compounds other than dithiocarbonates (xanthates) 29305000\n29309013\n29309016\n29309020\n29309060\nex29309099\n293100 Other organo-inorganic compounds 2932 Heterocyclic compounds with oxygen hetero-atom(s) only 2933 Heterocylic compounds with nitrogen hetero-atom(s) only 2934 Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds 29350090 Other sulphonamides 2938 Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives 29400000 Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products under heading 2937, 2938 or 2939 Corrected according to CN description\n29412030 Dihydrostreptomycin, its salts, esters and hydrates 29420000 Other organic compounds S-6b 31 3102 Mineral or chemical fertilisers, nitrogenous 310310 Superphosphates 3105 Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of Chapter 31 in tablets or similar forms or in packages of a gross weight not exceeding 10 kg 32 ex Chapter 32 Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks; excluding products under subheadings 32012000, 32019020, ex32019090 (tanning extracts of eucalyptus), ex32019090 (tanning extracts derived from gambier and myrobalan fruits) and ex32019090 (other tanning extracts of vegetable origin) 33 Chapter 33 Essential oils and resinoids; perfumery, cosmetic or toilet preparations 34 Chapter 34 Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster 35 3501 Casein, caseinates and other casein derivatives; casein glues 35029090 Albuminates and other albumin derivatives 350300 Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501 35040000 Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed 35051050 Starches, esterified or etherified 3506 Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg 3507 Enzymes; prepared enzymes not elsewhere specified or included 36 Chapter 36 Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations 37 Chapter 37 Photographic or cinematographic goods 38 ex Chapter 38 Miscellaneous chemical products excluding the products under subheadings 380910 and 382460 S-7a 39 Chapter 39 Plastics and articles thereof S-7b 40 Chapter 40 Rubber and articles thereof S-8a 41 ex4104 Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared, excluding the products under subheadings 41044119 and 41044919 ex41063100 Tanned or crust hides and skins of swine, without hair on, in the wet state (including wet-blue), split but not further prepared, or in the dry state (crust), whether or not split, but not further prepared 41063200\n4107 Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 4114 41120000 Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 4114 4113 Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 4114, 4114 Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather 41151000 Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls S-8b 42 Chapter 42 Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut) 43 Chapter 43 Furskins and artificial fur; manufactures thereof S-9a 44 Chapter 44 Wood and articles of wood, wood charcoal S-9b 45 Chapter 45 Cork and articles of cork 46 Chapter 46 Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork S-11a 50 Chapter 50 Silk 51 ex Chapter 51 Wool, fine or coarse animal hair, excluding the products under heading 5105; horsehair yarn and woven fabric 52 Chapter 52 Cotton 53 Chapter 53 Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn 54 Chapter 54 Man-made filaments; strip and the like of man-made textile materials 55 Chapter 55 Man-made staple fibres 56 Chapter 56 Wadding, felt and non-wovens; special yarns; twine, cordage, ropes and cables and articles thereof 57 Chapter 57 Carpets and other textile floor coverings 58 Chapter 58 Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery 59 Chapter 59 Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use 60 Chapter 60 Knitted or crocheted fabrics S-11b 61 Chapter 61 Articles of apparel and clothing accessories, knitted or crocheted 62 Chapter 62 Articles of apparel and clothing accessories, not knitted or crocheted 63 Chapter 63 Other made-up textile articles; sets; worn clothing and worn textile articles; rags S-12a 64 Chapter 64 Footwear, gaiters and the like; parts of such articles S-12b 65 Chapter 65 Headgear and parts thereof 66 Chapter 66 Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof 67 Chapter 67 Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair S-13 68 Chapter 68 Articles of stone, plaster, cement, asbestos, mica or similar materials 69 Chapter 69 Ceramic products 70 Chapter 70 Glass and glassware S-14 71 Chapter 71 Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin S-15a 72 7202 Ferro-alloys 73 Chapter 73 Articles of iron or steel S-15b 74 Chapter 74 Copper and articles thereof 75 75051200 Bars, rods and profiles, of nickel alloys 75052200 Wire, of nickel alloys 75062000 Plates, sheets, strip and foil, of nickel alloys 75072000 Nickel tube or pipe fittings 76 ex Chapter 76 Aluminium and articles thereof, excluding the products under heading 7601 78 ex Chapter 78 Lead and articles thereof, except for products of subheading 780199 780199 Unwrought lead other than refined and other than containing by weight antimony as the principal other element 79 ex Chapter 79 Zinc and articles thereof, excluding the products under headings 7901 and 7903 81 ex Chapter 81 Other base metals; cermets; articles thereof, excluding the products under subheadings 81011000, 81019400, 81021000, 81029400, 81041100, 81041900, 81072000, 81082000, 81083000, 81092000, 81101000, 81122190, 81125100, 81125900, 811292 and 81130020 82 Chapter 82 Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal 83 Chapter 83 Miscellaneous articles of base metal S-16 84 Chapter 84 Nuclear reactors, boilers, machinery and mechanical appliances, and parts thereof 85 Chapter 85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles S-17a 86 Chapter 86 Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic-signalling equipment of all kinds S-17b 87 Chapter 87 Vehicles other than railway or tramway rolling stock, and parts and accessories thereof 88 Chapter 88 Aircraft, spacecraft, and parts thereof 89 Chapter 89 Ships, boats and floating structures S-18 90 Chapter 90 Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof 91 Chapter 91 Clocks and watches and parts thereof 92 Chapter 92 Musical instruments; parts and accessories of such articles S-20 94 Chapter 94 Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like; prefabricated buildings 95 Chapter 95 Toys, games and sports requisites; parts and accessories thereof 96 Chapter 96 Miscellaneous manufactured articles ",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex IX, which set out the full list of products covered by the special incentive arrangement for sustainable development and good governance, including its section and chapter groupings, CN codes, product descriptions, and accompanying notes, no longer appears in the later version of the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN IX"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IX",
+              "label": "Annex IX, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "32012R0978",
+          "location": "AN X"
+        },
+        "heading": "ANNEX X",
+        "before": "ANNEX X\nCORRELATION TABLE\nRegulation (EC) No 732/2008 This Regulation\nArticle 1 Article 1\n— Article 2, point (a)\nArticle 2, point (a) Article 2, point (g)\nArticle 2, point (b) Article 2, point (h)\nArticle 2, point (c) Article 2, points (b) to (f)\n— Article 2, point (i)\n— Article 2, point (j)\n— Article 2, point (k)\n— Article 2, point (l)\nArticle 3(1) and Article 3(2), first subparagraph Article 4(1)\nArticle 3(2), second subparagraph —\nArticle 3(3) Article 5(4)\n— Article 4(2) and (3)\nArticle 4 Article 6(1) and Article 11(1)\nArticle 5(1) and (2) Article 33(1) and (2)\nArticle 5(3) —\nArticle 6(1) to (6) Article 7(1) to (6)\nArticle 6(7) —\nArticle 7(1) and (2) Article 12(1) and (2)\nArticle 7(3) —\nArticle 8(1) Article 9(1)\n— Article 9(2)\nArticle 8(2) Annex VII\nArticle 8(3), first subparagraph Article 13(1)\n— Article 13(2)\nArticle 8(3), second subparagraph Article 14(1)\n— Article 14(2) and (3)\nArticle 9(1) and (2) Article 10(1) and (2)\nArticle 9(3) —\n— Article 10(3)\nArticle 10(1) —\nArticle 10(2) Article 10(4)\n— Article 10(5)\nArticle 10(3) Article 10(6)\nArticle 10(4) —\nArticle 10(5) —\nArticle 10(6) —\n— Article 10(7)\n— Article 16\nArticle 11(1) to (7) Article 18\nArticle 11(8) Article 17\nArticle 12 —\nArticle 13 Article 8 and Annex VI\nArticle 14 Article 34\nArticle 15(1) Article 19(1)\nArticle 15(2) Article 15(1)\n— Article 15(2)\nArticle 15(3) Article 19(2)\n— Article 20\nArticle 16 Article 21\nArticle 17 Article 15(3) and Article 19(3)\nArticle 18 Article 15(4) to (7) and Article 19(4) to (7)\nArticle 19 Article 15(8) to (12) and Article 19(8) to (14)\nArticle 20(1) Article 22\nArticle 20(2) and (3) Article 24(1) to (3)\nArticle 20(4) Article 23\nArticle 20(5) Article 10(4)\nArticle 20(6) Article 26\nArticle 20(7) Article 25\n— Article 27\n— Article 28\nArticle 20(8) Article 29\nArticle 21 Article 30\nArticle 22(1) Article 31\nArticle 22(2) —\nArticle 23 Article 32\nArticle 24 —\nArticle 25, point (a) Article 6(2) and Article 11(2)\nArticle 25, point (b) Article 3(3) and Article 17(2) and (3)\nArticle 25, point (c) Article 5(2)\nArticle 25, point (d) Article 8(3)\nArticle 25, point (e) Article 10(4)\nArticle 26 Article 35\n— Article 36\n— Article 37\n— Article 38\nArticle 27(1) and (2) Article 39(1)\nArticle 27(3) —\nArticle 27(4) and (5) Article 39(2) to (4)\nArticle 28 —\nArticle 29 —\nArticle 30 —\nArticle 31 —\n— Article 40\n— Article 41\n— Article 42\nArticle 32(1) Article 43(1)\nArticle 32(2) Article 43(2) and (3)\n— Annex I\nAnnex I Annexes II, III and IV\nAnnex II Annexes V and IX\nAnnex III, Part A Annex VIII, Part A\nAnnex III, Part B Annex VIII, Part B\n— Annex X",
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "a deleted provision has no application date to move"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Annex X, which contained a correlation table mapping provisions of Regulation (EC) No 732/2008 to provisions of this Regulation, has been removed entirely and no longer appears in the text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0978",
+                  "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+                },
+                "version": "32012R0978",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_X",
+              "label": "Annex X, 32012R0978"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0978",
+      "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+    },
+    "from_version": "32012R0978",
+    "to_version": "02012R0978-20140228",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN I",
+          "AN II",
+          "AN III",
+          "AN IV",
+          "AN V",
+          "AN VI",
+          "AN VII",
+          "AN VIII",
+          "AN IX",
+          "AN X"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN",
+          "AN I",
+          "AN II",
+          "AN III",
+          "AN IV"
+        ],
+        "note": "6 annotations in (the act itself, 2014-02-28]",
+        "claims": [
+          {
+            "location": "AN II",
+            "change_type": "MODIFIED",
+            "in_force": "2014-02-22",
+            "source": "32013R0154 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0154",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": "2014-01-01",
+            "source": "32013R1421 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1421",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN II",
+            "change_type": "MODIFIED",
+            "in_force": "2014-01-01",
+            "source": "32013R1421 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1421",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I",
+            "change_type": "MODIFIED",
+            "in_force": "2014-01-01",
+            "source": "32013R1421 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1421",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III",
+            "change_type": "MODIFIED",
+            "in_force": "2014-01-01",
+            "source": "32014R0001 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0001",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN",
+            "change_type": "MODIFIED",
+            "in_force": "2014-02-28",
+            "source": "32014R0182 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0182",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 10,
+        "right_units": 5,
+        "shared": 4,
+        "precision": 0.4,
+        "recall": 0.8,
+        "f1": 0.5333333333333333,
+        "kind_mismatches": 4
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN I",
+        "reason": "signals disagree on the kind of change",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN II",
+        "reason": "signals disagree on the kind of change",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN III",
+        "reason": "signals disagree on the kind of change",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN IV",
+        "reason": "signals disagree on the kind of change",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN V",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VII",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VIII",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN IX",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN X",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AN"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 11,
+    "explained": 10,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 1,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 59164,
+      "output_tokens": 1348,
+      "requests": 10,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 11,
+    "passed_first": 10,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
