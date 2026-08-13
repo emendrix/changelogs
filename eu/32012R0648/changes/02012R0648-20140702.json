@@ -1,0 +1,725 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20140101",
+  "to_version": "02012R0648-20140702",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-04-01",
+    "2014-07-02"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 5,
+    "unchanged_units": 93,
+    "disputed": 4
+  },
+  "counts": {
+    "touched": 5,
+    "substantive": 5,
+    "date_only": 0,
+    "disputed": 4,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140702",
+          "location": "AR 50a"
+        },
+        "heading": "Calculation of K CCP",
+        "before": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "after": "Article 50a\nCalculation of KCCP\n1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio\nwhere:\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 50a PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2014-01-01, 2014-07-02]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The formula for KCCP in paragraph 2 lost its mathematical symbols (the summation sign, minus signs, and multiplication dots), rendering the expression as a run of terms without those operators.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a",
+              "label": "Art. 50a, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a",
+              "label": "Art. 50a, 02012R0648-20140702"
+            }
+          ]
+        },
+        {
+          "text": "The surrounding wording of the article, including the paragraph text and the list of defined terms, is otherwise unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a",
+              "label": "Art. 50a, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a",
+              "label": "Art. 50a, 02012R0648-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140702",
+          "location": "AR 50b"
+        },
+        "heading": "General rules for the calculation of K CCP",
+        "before": "Article 50b\nGeneral rules for the calculation of KCCP\nFor the purposes of the calculation laid down in Article 50a(2), the following shall apply:\n\n(a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:\n\n(i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;\n\n(ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;\n\n(iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;\n\n(b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;\n\n(c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervisory volatility adjustments in accordance with the Financial Collateral Comprehensive Method specified in Article 224 of Regulation (EU) No 575/2013;\n\n(e) where a CCP has exposures to one or more CCPs it shall treat any such exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of KCCP;\n\n\n(f) where a CCP has in place a binding contractual arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the CCP shall consider that initial margin as prefunded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;\n\n(h) when applying the Mark-to-Market Method as set out in Article 274 of Regulation (EU) No 575/2013, a CCP shall replace the formula in point (c)(ii) of Article 298(1) of that Regulation with the following:\nPCEred = 0.15 · PCEgross + 0.85 · NGR · PCEgross\nwhere the numerator of NGR is calculated in accordance with Article 274(1) of that Regulation and just before the variation margin is actually exchanged at the end of the settlement period, and the denominator is gross replacement cost;\n\n(i) where a CCP cannot calculate the value of NGR as set out in point (c)(ii) of Article 298(1) of Regulation (EU) No 575/2013, it shall:\n\n(i) notify those of its clearing members which are institutions and their competent authorities about its inability to calculate NGR and the reasons why it is unable to carry out the calculation;\n\n(ii) for a period of three months, it may use a value of NGR of 0,3 to perform the calculation of PCEred specified in point (h) of this Article;\n\n(j) where, at the end of the period specified in point (ii) of point (i), the CCP would still be unable to calculate the value of NGR, it shall do the following:\n\n(i) stop calculating KCCP;\n\n(ii) notify those of its clearing members which are institutions and their competent authorities that it has stopped calculating KCCP;\n\n(k) for the purpose of calculating the potential future exposure for options and swaptions in accordance with the Mark-to-Market Method specified in Article 274 of Regulation (EU) No 575/2013, a CCP shall multiply the notional amount of the contract by the absolute value of the option's delta (δV/ δp) as set out in point (a) of Article 280(1) of that Regulation;\n\n\n(l) where a CCP has more than one default fund, it shall carry out the calculation laid down in Article 50a(2) for each default fund separately.",
+        "after": "Article 50b\nGeneral rules for the calculation of KCCP\nFor the purposes of the calculation laid down in Article 50a(2), the following shall apply:\n(a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:\n(i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;\n(ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;\n(iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;\n(b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;\n(c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervisory volatility adjustments in accordance with the Financial Collateral Comprehensive Method specified in Article 224 of Regulation (EU) No 575/2013;\n(e) where a CCP has exposures to one or more CCPs it shall treat any such exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of KCCP;\n(f) where a CCP has in place a binding contractual arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the CCP shall consider that initial margin as prefunded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;\n(h) when applying the Mark-to-Market Method as set out in Article 274 of Regulation (EU) No 575/2013, a CCP shall replace the formula in point (c)(ii) of Article 298(1) of that Regulation with the following:\nPCEred0.15PCEgross0.85NGR PCEgross\nwhere the numerator of NGR is calculated in accordance with Article 274(1) of that Regulation and just before the variation margin is actually exchanged at the end of the settlement period, and the denominator is gross replacement cost;\n(i) where a CCP cannot calculate the value of NGR as set out in point (c)(ii) of Article 298(1) of Regulation (EU) No 575/2013, it shall:\n(i) notify those of its clearing members which are institutions and their competent authorities about its inability to calculate NGR and the reasons why it is unable to carry out the calculation;\n(ii) for a period of three months, it may use a value of NGR of 0,3 to perform the calculation of PCEred specified in point (h) of this Article;\n(j) where, at the end of the period specified in point (ii) of point (i), the CCP would still be unable to calculate the value of NGR, it shall do the following:\n(i) stop calculating KCCP;\n(ii) notify those of its clearing members which are institutions and their competent authorities that it has stopped calculating KCCP;\n(k) for the purpose of calculating the potential future exposure for options and swaptions in accordance with the Mark-to-Market Method specified in Article 274 of Regulation (EU) No 575/2013, a CCP shall multiply the notional amount of the contract by the absolute value of the option's delta (δV/ δp) as set out in point (a) of Article 280(1) of that Regulation;\n(l) where a CCP has more than one default fund, it shall carry out the calculation laid down in Article 50a(2) for each default fund separately.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 50b ALN 1 PTA (h)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2014-01-01, 2014-07-02]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only visible change in point (h) is that the formula for PCEred lost its spacing and mathematical symbols, rendering it as a run-together string of characters instead of the earlier spaced-out equation with a multiplication dot.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b",
+              "label": "Art. 50b, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50b",
+              "label": "Art. 50b, 02012R0648-20140702"
+            }
+          ]
+        },
+        {
+          "text": "All surrounding text of Article 50b, including the rest of point (h) and points (a) through (l), remains the same in both versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b",
+              "label": "Art. 50b, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50b",
+              "label": "Art. 50b, 02012R0648-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140702",
+          "location": "AR 50d"
+        },
+        "heading": "Calculation of specific items to be reported by the CCP",
+        "before": "Article 50d\nCalculation of specific items to be reported by the CCP\nFor the purposes of Article 50c, the following shall apply:\n\n(a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;\n\n(b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources DFCCPa to the total amount of pre-funded contributions (DF) as follows:\nDF = DFCCP + DFCM + DFCCPa.\n\n(c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:\nβ = PCEred,1 + PCEred,2ΣiPCEred,i\nwhere:\n\nPCEred,i\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;\nPCEred,1\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value;\nPCEred,2\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the second largest PCEred value.",
+        "after": "Article 50d\nCalculation of specific items to be reported by the CCP\nFor the purposes of Article 50c, the following shall apply:\n(a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;\n(b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources DFCCPa to the total amount of pre-funded contributions (DF) as follows:\nDF DFCCP DFCM DFCCPa.\n(c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:\nβPCEred,1 PCEred,2iPCEred,i\nwhere:\nPCEred,i\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;\nPCEred,1\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value;\nPCEred,2\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the second largest PCEred value.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 50d ALN 1 PTA (b)",
+          "AR 50d ALN 1 PTA (c)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2014-01-01, 2014-07-02]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b), the formula showing DF as the sum of DFCCP, DFCM and DFCCPa with equals signs and plus signs is rendered without those equals and plus signs in the later text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d",
+              "label": "Art. 50d, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50d",
+              "label": "Art. 50d, 02012R0648-20140702"
+            }
+          ]
+        },
+        {
+          "text": "In point (c), the formula for the concentration factor beta likewise loses its equals sign and plus signs between the PCEred terms in the later text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d",
+              "label": "Art. 50d, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 50d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50d",
+              "label": "Art. 50d, 02012R0648-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140702",
+          "location": "AR 81"
+        },
+        "heading": "Transparency and data availability",
+        "before": "Article 81\nTransparency and data availability\n1.\nA trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2.\nA trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3.\nA trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n\n(a) ESMA;\n\n(b) the ESRB;\n\n\n(c) the competent authority supervising CCPs accessing the trade repository;\n\n(d) the competent authority supervising the trading venues of the reported contracts;\n\n(e) the relevant members of the ESCB;\n\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;\n\n(h) the relevant Union securities and market authorities;\n\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n\n(j) the Agency for the Cooperation of Energy Regulators.\n4.\nESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5.\nIn order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) the ESRB;\n(c) the competent authority supervising CCPs accessing the trade repository;\n(d) the competent authority supervising the trading venues of the reported contracts;\n(e) the relevant members of the ESCB;\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;\n(h) the relevant Union securities and market authorities;\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n(j) the Agency for the Cooperation of Energy Regulators;\n(k) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 81 PA 3 ALN 1 PTA (j)",
+          "AR 81 PA 3 ALN 1 PTA (k)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0059",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2014-05-15"
+        ],
+        "in_force": "2014-07-02",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014L0059 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been changed so that point (j), previously ending the list with the Agency for the Cooperation of Energy Regulators, is followed by a new point (k) naming resolution authorities designated under Article 3 of Directive 2014/59/EU.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_81",
+              "label": "Art. 81, 02012R0648-20140101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81",
+              "label": "Art. 81, 02012R0648-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140702",
+          "location": "AR 89"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0610",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-04-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0610 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20140101",
+    "to_version": "02012R0648-20140702",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 50a",
+          "AR 50b",
+          "AR 50d",
+          "AR 81"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 81",
+          "AR 89"
+        ],
+        "note": "2 annotations in (2014-01-01, 2014-07-02]",
+        "claims": [
+          {
+            "location": "AR 89 PA 1 L 1",
+            "change_type": "MODIFIED",
+            "in_force": "2014-04-01",
+            "source": "32017R0610 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0610",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 81 .3 PO K)",
+            "change_type": "INSERTED",
+            "in_force": "2014-07-02",
+            "source": "32014L0059 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0059",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32017R0610, 32014L0059",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 4,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 50a",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 50b",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 50d",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 89",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 89"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 5,
+    "explained": 4,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 16891,
+      "output_tokens": 918,
+      "requests": 4,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 5,
+    "passed_first": 4,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 7,
+    "citations": 14,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

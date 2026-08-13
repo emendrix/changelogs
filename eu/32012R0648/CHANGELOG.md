@@ -10,6 +10,233 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20140702 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20140101` → `02012R0648-20140702`
+
+- **Act** `eu:32012R0648` · **In force** 2014-04-01, 2014-07-02 · **Detected** 2026-08-13
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20140101` · `v2` = `02012R0648-20140702`
+
+---
+
+**MODIFIED · Art. 50a — Calculation of K CCP** · applies from: unchanged
+
+*within* `AR 50a PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula for KCCP in paragraph 2 lost its mathematical symbols (the summation sign, minus signs, and multiplication dots), rendering the expression as a run of terms without those operators. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
+
+The surrounding wording of the article, including the paragraph text and the list of defined terms, is otherwise unchanged between the two versions. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
+
+*before* (`02012R0648-20140101`)
+
+> Article 50a
+> Calculation of KCCP
+> 1.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+>
+> 2.
+> A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio
+> where:
+>
+> EBRMi
+> exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted to the CCP by clearing member i;
+> DFi
+> the pre-funded contribution of clearing member i;
+> RW
+> a risk weight of 20 %;
+> capital ratio
+> 8 %.
+> All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+> 3.
+> A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
+> 4.
+> For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to […truncated by emendrix: 575 characters omitted…]
+
+*after* (`02012R0648-20140702`)
+
+> Article 50a
+> Calculation of KCCP
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio
+> where:
+> EBRMi
+> exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted to the CCP by clearing member i;
+> DFi
+> the pre-funded contribution of clearing member i;
+> RW
+> a risk weight of 20 %;
+> capital ratio
+> 8 %.
+> All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+> 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
+> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 560 characters omitted…]
+
+**MODIFIED · Art. 50b — General rules for the calculation of K CCP** · applies from: unchanged
+
+*within* `AR 50b ALN 1 PTA (h)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only visible change in point (h) is that the formula for PCEred lost its spacing and mathematical symbols, rendering it as a run-together string of characters instead of the earlier spaced-out equation with a multiplication dot. [Art. 50b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b) [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50b)
+
+All surrounding text of Article 50b, including the rest of point (h) and points (a) through (l), remains the same in both versions. [Art. 50b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b) [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50b)
+
+*before* (`02012R0648-20140101`)
+
+> Article 50b
+> General rules for the calculation of KCCP
+> For the purposes of the calculation laid down in Article 50a(2), the following shall apply:
+>
+> (a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:
+>
+> (i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;
+>
+> (ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;
+>
+> (iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;
+>
+> (b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;
+>
+> (c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the su […truncated by emendrix: 2578 characters omitted…]
+
+*after* (`02012R0648-20140702`)
+
+> Article 50b
+> General rules for the calculation of KCCP
+> For the purposes of the calculation laid down in Article 50a(2), the following shall apply:
+> (a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:
+> (i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;
+> (ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;
+> (iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;
+> (b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;
+> (c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervis […truncated by emendrix: 2545 characters omitted…]
+
+**MODIFIED · Art. 50d — Calculation of specific items to be reported by the CCP** · applies from: unchanged
+
+*within* `AR 50d ALN 1 PTA (b)`, `AR 50d ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+In point (b), the formula showing DF as the sum of DFCCP, DFCM and DFCCPa with equals signs and plus signs is rendered without those equals and plus signs in the later text. [Art. 50d, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d) [Art. 50d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50d)
+
+In point (c), the formula for the concentration factor beta likewise loses its equals sign and plus signs between the PCEred terms in the later text. [Art. 50d, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d) [Art. 50d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50d)
+
+*before* (`02012R0648-20140101`)
+
+> Article 50d
+> Calculation of specific items to be reported by the CCP
+> For the purposes of Article 50c, the following shall apply:
+>
+> (a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;
+>
+> (b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources DFCCPa to the total amount of pre-funded contributions (DF) as follows:
+> DF = DFCCP + DFCM + DFCCPa.
+>
+> (c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:
+> β = PCEred,1 + PCEred,2ΣiPCEred,i
+> where:
+>
+> PCEred,i
+> the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;
+> PCEred,1
+> the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest […truncated by emendrix: 189 characters omitted…]
+
+*after* (`02012R0648-20140702`)
+
+> Article 50d
+> Calculation of specific items to be reported by the CCP
+> For the purposes of Article 50c, the following shall apply:
+> (a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;
+> (b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources DFCCPa to the total amount of pre-funded contributions (DF) as follows:
+> DF DFCCP DFCM DFCCPa.
+> (c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:
+> βPCEred,1 PCEred,2iPCEred,i
+> where:
+> PCEred,i
+> the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;
+> PCEred,1
+> the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value;
+> P […truncated by emendrix: 173 characters omitted…]
+
+**MODIFIED · Art. 81 — Transparency and data availability** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 81 PA 3 ALN 1 PTA (j)`, `AR 81 PA 3 ALN 1 PTA (k)` · *dates* +2014-05-15 · *amended by* `32014L0059`
+
+The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been changed so that point (j), previously ending the list with the Agency for the Cooperation of Energy Regulators, is followed by a new point (k) naming resolution authorities designated under Article 3 of Directive 2014/59/EU. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81)
+
+*before* (`02012R0648-20140101`)
+
+> Article 81
+> Transparency and data availability
+> 1.
+> A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2.
+> A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3.
+> A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+>
+> (a) ESMA;
+>
+> (b) the ESRB;
+>
+>
+> (c) the competent authority supervising CCPs accessing the trade repository;
+>
+> (d) the competent authority supervising the trading venues of the reported contracts;
+>
+> (e) the relevant members of the ESCB;
+>
+> (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+>
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+>
+> (h) the relevant Union securities and market authorities;
+>
+> (i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;
+>
+> (j) the Agency for the Cooperation of Energy Regulators.
+> 4.
+> ESMA shall share the information necessary for the ex […truncated by emendrix: 966 characters omitted…]
+
+*after* (`02012R0648-20140702`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) the ESRB;
+> (c) the competent authority supervising CCPs accessing the trade repository;
+> (d) the competent authority supervising the trading venues of the reported contracts;
+> (e) the relevant members of the ESCB;
+> (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+> (h) the relevant Union securities and market authorities;
+> (i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;
+> (j) the Agency for the Cooperation of Energy Regulators;
+> (k) the resolution authorities designated under Article 3 of Direct […truncated by emendrix: 1552 characters omitted…]
+
+**MODIFIED · Art. 89** · applies from: unknown
+
+*amended by* `32017R0610`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20140702 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20140101 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `32012R0648` → `02012R0648-20140101`
