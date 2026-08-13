@@ -10,6 +10,224 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20180101 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20160719` → `02013R0575-20180101`
+
+- **Act** `eu:32013R0575` · **In force** 2018-01-01 · **Detected** 2026-08-13
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **3 disputed**
+- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 522 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20160719` · `v2` = `02013R0575-20180101`
+
+---
+
+**MODIFIED · Art. 308 — Own funds requirements for pre-funded contributions to the default fund of a QCCP** · applies from: unchanged
+
+*within* `AR 308 PA 3 ALN 1`, `AR 308 PA 3 ALN 1 PTA (b)`, `AR 308 PA 3 ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20160719`)
+
+> Article 308
+> Own funds requirements for pre-funded contributions to the default fund of a QCCP
+> 1. The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.
+> 2. An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki1β  NN  2  DFiDFCM  KCM
+> where:
+> β
+> the concentration factor communicated to the institution by the CCP;
+> N
+> the number of clearing members communicated to the institution by the CCP;
+> DFCM
+> the sum of pre-funded contributions of all clearing members of the CCP iDFicommunicated to the institution by the CCP;
+> KCM
+> the sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 iKi.
+> 3. An institution shall calculate KCM as follows:
+> (a) where KCCP ≤ DFCCP, the institution shall use the following formula:
+> KCMc1  DFCM*;
+> (b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:
+> KCMc2  KCCP  DFCCPc1  DF *  KCCP;
+> (c) where DF* < KCCP, the institution shall use the following formula:
+> KCMc2  μ  KCCP  DF *c2  DFCM*
+> where:
+> DFCCP
+> the pre-funded financial resources of the CCP communicated to the institution by […truncated by emendrix: 725 characters omitted…]
+
+*after* (`02013R0575-20180101`)
+
+> Article 308
+> Own funds requirements for pre-funded contributions to the default fund of a QCCP
+> 1. The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.
+> 2. An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki1β  NN  2  DFiDFCM  KCM
+> where:
+> β
+> the concentration factor communicated to the institution by the CCP;
+> N
+> the number of clearing members communicated to the institution by the CCP;
+> DFCM
+> the sum of pre-funded contributions of all clearing members of the CCP iDFicommunicated to the institution by the CCP;
+> KCM
+> the sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 iKi.
+> 3. An institution shall calculate KCM as follows:
+> (a) where KCCP ≤ DFCCP, the institution shall use the following formula:
+> KCMc1  DFCM*;
+> (b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:
+> KCMc2  KCCP  DFCCPc1  DF*  KCCP;
+> (c) where DF* < KCCP, the institution shall use the following formula:
+> KCMc2  μ  KCCP  DF*c2  DFCM*
+> where:
+> DFCCP
+> the pre-funded financial resources of the CCP communicated to the institution by th […truncated by emendrix: 720 characters omitted…]
+
+**MODIFIED · Art. 309 — Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP** · applies from: unchanged
+
+*within* `AR 309 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only visible difference between the two versions of Article 309(1) is a formatting change in the spacing of the formula notation, with no change to the words or figures used in the provision. [Art. 309, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_309) [Art. 309, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_309)
+
+*before* (`02013R0575-20160719`)
+
+> Article 309
+> Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+> 1. An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Kic2  μ  DFi UCi
+> where c2·and μ are defined as in Article 308(3).
+> 2. For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.
+> 3. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.
+
+*after* (`02013R0575-20180101`)
+
+> Article 309
+> Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+> 1. An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Kic2 μ DFi UCi
+> where c2·and μ are defined as in Article 308(3).
+> 2. For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.
+> 3. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.
+
+**MODIFIED · Art. 384 — Standardised method** · applies from: unchanged
+
+*within* `AR 384 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+In the discount factor formula given for the index hedge notional amount Bind, the exponent and denominator term was changed from Miind to Mind. [Art. 384, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_384) [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_384)
+
+*before* (`02013R0575-20160719`)
+
+> Article 384
+> Standardised method
+> 1. An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K2.33  h  i 0.5  wi  Mi  EADitotal  MihedgeBi  ind wind  Mind Bind2 i 0.75  wi2  Mi  EADitotal  MihedgeBi2
+> where:
+> h
+> the one-year risk horizon (in units of a year); h = 1;
+> wi
+> the weight applicable to counterparty i.
+> Counterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:
+> (a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;
+> (b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;
+> EADitotal
+> the total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the calculation of the own funds […truncated by emendrix: 2502 characters omitted…]
+
+*after* (`02013R0575-20180101`)
+
+> Article 384
+> Standardised method
+> 1. An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K2.33  h  i 0.5  wi  Mi  EADitotal  MihedgeBi  ind wind  Mind Bind2 i 0.75  wi2  Mi  EADitotal  MihedgeBi2
+> where:
+> h
+> the one-year risk horizon (in units of a year); h = 1;
+> wi
+> the weight applicable to counterparty i.
+> Counterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:
+> (a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;
+> (b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;
+> EADitotal
+> the total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the calculation of the own funds […truncated by emendrix: 2500 characters omitted…]
+
+**INSERTED · Art. 473a — Introduction of IFRS 9** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32017R2395`
+
+A new Article 473a is added, setting out a transitional regime allowing certain institutions to include a specially calculated amount in Common Equity Tier 1 capital in connection with the introduction of IFRS 9, covering how that amount is computed, adjusted, and phased in through declining factors from 2018 to 2022. [Art. 473a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_473a)
+
+The provision also requires institutions to notify their competent authority of decisions to apply or reverse these transitional arrangements, to make related disclosures, and directs the EBA to issue guidelines on those disclosure requirements. [Art. 473a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_473a)
+
+*after* (`02013R0575-20180101`)
+
+> Article 473a
+> Introduction of IFRS 9
+> 1. By way of derogation from Article 50 and until the end of the transitional period set out in paragraph 6 of this Article, the following may include in their Common Equity Tier 1 capital the amount calculated in accordance with this paragraph:
+> (a) institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (b) institutions that, pursuant to Article 24(2) of this Regulation, effect the valuation of assets and off-balance sheet items and the determination of own funds in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (c) institutions that effect the valuation of assets and off-balance sheet items in conformity with accounting standards under Directive 86/635/EEC and that use an expected credit loss model that is the same as the one used in international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002.
+> The amount referred to in the first subparagraph shall be calculated as the sum of the following:
+> (a) for exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three, the amount (ABSA) calculated in accordance with the following formula:
+> ABSAA2,SA A4,SA t · f
+> where:
+> A2,SA
+> the amount calcula […truncated by emendrix: 11374 characters omitted…]
+
+**MODIFIED · Art. 493 — Transitional provisions for large exposures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 493 PA 4`, `AR 493 PA 5`, `AR 493 PA 6`, `AR 493 PA 7` · *dates* +2017-12-12 +2017-12-31 +2018-12-31 +2019-12-31 · *amended by* `32017R2395`
+
+The after text adds four new paragraphs, numbered 4 through 7, that were not present before. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+
+Paragraph 4 sets declining limits on certain exposures expressed as percentages of an institution's Tier 1 capital, running from 100% until 31 December 2018 down to 50% until 31 December 2020, and applies those limits after taking into account credit risk mitigation under Articles 399 to 403. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+
+Paragraph 5 lists the categories of exposures to which paragraph 4 applies, paragraph 6 conditions that application on the exposure having carried a 0% risk weight under the version of Article 495(2) in force on 31 December 2017 and on having been incurred on or after 12 December 2017, and paragraph 7 exempts from Article 395(1) an exposure incurred before 12 December 2017 that carried that same 0% risk weight on 31 December 2017. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+
+*before* (`02013R0575-20160719`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+
+*after* (`02013R0575-20180101`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 6951 characters omitted…]
+
+**MODIFIED · Art. 496 — Own funds requirements for covered bonds** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 496 PA 1 ALN 1` · *dates* -2017-12-31 · *amended by* `32017R2188`
+
+Paragraph 1 no longer contains the opening time limit that had confined the competent authorities' waiver power to the period until 31 December 2017. [Art. 496, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_496) [Art. 496, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_496)
+
+Aside from removing that date restriction, the wording describing the waiver and its two conditions in points (a) and (b) is unchanged, as are paragraphs 2 and 3. [Art. 496, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_496)
+
+*before* (`02013R0575-20160719`)
+
+> Article 496
+> Own funds requirements for covered bonds
+> 1. Until 31 December 2017, competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that both of the following conditions are fulfilled:
+> (a) the securitised residential property or commercial immovable property exposures were originated by a member of the same consolidated group of which the issuer of the covered bonds is a member, or by an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, where that common group membership or affiliation shall be determined at the time the senior units are made collateral for covered bonds;
+> (b) a member of the same consolidated group of which the issuer of the covered bonds is a member, or an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, retains the whole first loss tranche supporting those senior units.
+> 2. Until 31 December 2014, for the purposes of point (c) of Article 129(1), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013 shall be considered to qualify for credit quality step 1.
+> 3. Until 31 December 2014, for the purposes of Article 129(5), the senior unsecured exposures of institutions which quali […truncated by emendrix: 120 characters omitted…]
+
+*after* (`02013R0575-20180101`)
+
+> Article 496
+> Own funds requirements for covered bonds
+> 1. Competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that both of the following conditions are fulfilled:
+> (a) the securitised residential property or commercial immovable property exposures were originated by a member of the same consolidated group of which the issuer of the covered bonds is a member, or by an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, where that common group membership or affiliation shall be determined at the time the senior units are made collateral for covered bonds;
+> (b) a member of the same consolidated group of which the issuer of the covered bonds is a member, or an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, retains the whole first loss tranche supporting those senior units.
+> 2. Until 31 December 2014, for the purposes of point (c) of Article 129(1), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013 shall be considered to qualify for credit quality step 1.
+> 3. Until 31 December 2014, for the purposes of Article 129(5), the senior unsecured exposures of institutions which qualified for a 20 % risk wei […truncated by emendrix: 96 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20180101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20160719 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20150118` → `02013R0575-20160719`

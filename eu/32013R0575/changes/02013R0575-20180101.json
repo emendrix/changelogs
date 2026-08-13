@@ -1,0 +1,809 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20160719",
+  "to_version": "02013R0575-20180101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2018-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 522,
+    "disputed": 3
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 3,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 308"
+        },
+        "heading": "Own funds requirements for pre-funded contributions to the default fund of a QCCP",
+        "before": "Article 308\nOwn funds requirements for pre-funded contributions to the default fund of a QCCP\n1. The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.\n2. An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki1β  NN  2  DFiDFCM  KCM\nwhere:\nβ\nthe concentration factor communicated to the institution by the CCP;\nN\nthe number of clearing members communicated to the institution by the CCP;\nDFCM\nthe sum of pre-funded contributions of all clearing members of the CCP iDFicommunicated to the institution by the CCP;\nKCM\nthe sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 iKi.\n3. An institution shall calculate KCM as follows:\n(a) where KCCP ≤ DFCCP, the institution shall use the following formula:\nKCMc1  DFCM*;\n(b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:\nKCMc2  KCCP  DFCCPc1  DF *  KCCP;\n(c) where DF* < KCCP, the institution shall use the following formula:\nKCMc2  μ  KCCP  DF *c2  DFCM*\nwhere:\nDFCCP\nthe pre-funded financial resources of the CCP communicated to the institution by the CCP;\nKCCP\nthe hypothetical capital of the CCP communicated to the institution by the CCP;\nDF*\nDFCCP DFCM*;\nDFCM*\nDFCM  2  DFi;;\nDFi\nthe average pre-funded contribution, 1N DFCM, communicated to the institution by the CCP;\nc1\na capital factor equal to max 1.6 %DF *KCCP0.3, 0.16%\nc2\na capital factor equal to 100 %;\nμ\n1,2.\n4. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 2 multiplied by 12,5.\n5. Where KCCP is equal to zero, institutions shall use the value for c1 of 0,16 % for the purpose of the calculation in paragraph 3.",
+        "after": "Article 308\nOwn funds requirements for pre-funded contributions to the default fund of a QCCP\n1. The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.\n2. An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki1β  NN  2  DFiDFCM  KCM\nwhere:\nβ\nthe concentration factor communicated to the institution by the CCP;\nN\nthe number of clearing members communicated to the institution by the CCP;\nDFCM\nthe sum of pre-funded contributions of all clearing members of the CCP iDFicommunicated to the institution by the CCP;\nKCM\nthe sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 iKi.\n3. An institution shall calculate KCM as follows:\n(a) where KCCP ≤ DFCCP, the institution shall use the following formula:\nKCMc1  DFCM*;\n(b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:\nKCMc2  KCCP  DFCCPc1  DF*  KCCP;\n(c) where DF* < KCCP, the institution shall use the following formula:\nKCMc2  μ  KCCP  DF*c2  DFCM*\nwhere:\nDFCCP\nthe pre-funded financial resources of the CCP communicated to the institution by the CCP;\nKCCP\nthe hypothetical capital of the CCP communicated to the institution by the CCP;\nDF*\nDFCCP DFCM*;\nDFCM*\nDFCM  2  DFi;\nDFi\nthe average pre-funded contribution, 1N DFCM, communicated to the institution by the CCP;\nc1\na capital factor equal to max 1.6 %DF*KCCP0.3,0.16%\nc2\na capital factor equal to 100 %;\nμ\n1,2.\n4. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 2 multiplied by 12,5.\n5. Where KCCP is equal to zero, institutions shall use the value for c1 of 0,16 % for the purpose of the calculation in paragraph 3.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 308 PA 3 ALN 1",
+          "AR 308 PA 3 ALN 1 PTA (b)",
+          "AR 308 PA 3 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-07-19, 2018-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "UnexpectedModelBehavior: Exceeded maximum output retries (1)"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 309"
+        },
+        "heading": "Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP",
+        "before": "Article 309\nOwn funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP\n1. An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Kic2  μ  DFi UCi\nwhere c2·and μ are defined as in Article 308(3).\n2. For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.\n3. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.",
+        "after": "Article 309\nOwn funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP\n1. An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Kic2 μ DFi UCi\nwhere c2·and μ are defined as in Article 308(3).\n2. For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.\n3. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 309 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-07-19, 2018-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only visible difference between the two versions of Article 309(1) is a formatting change in the spacing of the formula notation, with no change to the words or figures used in the provision.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20160719",
+                "location": "AR 309"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_309",
+              "label": "Art. 309, 02013R0575-20160719"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 309"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_309",
+              "label": "Art. 309, 02013R0575-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 384"
+        },
+        "heading": "Standardised method",
+        "before": "Article 384\nStandardised method\n1. An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K2.33  h  i 0.5  wi  Mi  EADitotal  MihedgeBi  ind wind  Mind Bind2 i 0.75  wi2  Mi  EADitotal  MihedgeBi2\nwhere:\nh\nthe one-year risk horizon (in units of a year); h = 1;\nwi\nthe weight applicable to counterparty i.\nCounterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:\n(a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;\n(b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;\nEADitotal\nthe total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the calculation of the own funds requirements for counterparty credit risk for that counterparty. An institution using one of the methods set out in Sections 3 and 4 of Title II, Chapter 6, may use as the fully adjusted exposure value in accordance with Article 223(5).\nFor an institution not using the method set out in Section 6 of Title II, Chapter 6, the exposure shall be discounted by applying the following factor:1  e0.05  Mi0.05  Mi\nBi\nthe notional of purchased single name credit default swap hedges (summed if more than one position) referencing counterparty i and used to hedge CVA risk.\nThat notional amount shall be discounted by applying the following factor:1  e0.05  Mihedge0.05  Mihedge\nBind\nis the full notional of one or more index credit default swap of purchased protection used to hedge CVA risk.\nThat notional amount shall be discounted by applying the following factor:1  e0.05  Miind0.05  Miind\nwind\nis the weight applicable to index hedges.\nAn institution shall determine wind by calculating a weighted average of wi that are applicable to the individual constituents of the index;\nMi\nthe effective maturity of the transactions with counterparty i.\nFor an institution using the method set out in Section 6 of Title II, Chapter 6, Mi shall be calculated in accordance with Article 162(2)(g). However, for that purpose, Mi shall not be capped at five years but at the longest contractual remaining maturity in the netting set.\nFor an institution not using the method set out in Section 6 of Title II, Chapter 6, Mi is the average notional weighted maturity as referred to in point (b) of Article 162(2). However, for that purpose, Mi shall not be capped at five years but at the longest contractual remaining maturity in the netting set.\nMihedge\nthe maturity of the hedge instrument with notional Bi (the quantities MihedgeBi are to be summed if these are several positions);\nMind\nthe maturity of the index hedge.\nIn the case of more than one index hedge position, Mind is the notional-weighted maturity.\n2. Where a counterparty is included in an index on which a credit default swap used for hedging counterparty credit risk is based, the institution may subtract the notional amount attributable to that counterparty in accordance with its reference entity weight from the index CDS notional amount and treat it as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.\nTable 1\nCredit quality step Weight wi\n1 0,7 %\n2 0,8 %\n3 1,0 %\n4 2,0 %\n5 3,0 %\n6 10,0 %",
+        "after": "Article 384\nStandardised method\n1. An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K2.33  h  i 0.5  wi  Mi  EADitotal  MihedgeBi  ind wind  Mind Bind2 i 0.75  wi2  Mi  EADitotal  MihedgeBi2\nwhere:\nh\nthe one-year risk horizon (in units of a year); h = 1;\nwi\nthe weight applicable to counterparty i.\nCounterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:\n(a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;\n(b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;\nEADitotal\nthe total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the calculation of the own funds requirements for counterparty credit risk for that counterparty. An institution using one of the methods set out in Sections 3 and 4 of Title II, Chapter 6, may use as the fully adjusted exposure value in accordance with Article 223(5).\nFor an institution not using the method set out in Section 6 of Title II, Chapter 6, the exposure shall be discounted by applying the following factor:1  e0.05  Mi0.05  Mi\nBi\nthe notional of purchased single name credit default swap hedges (summed if more than one position) referencing counterparty i and used to hedge CVA risk.\nThat notional amount shall be discounted by applying the following factor:1  e0.05  Mihedge0.05  Mihedge\nBind\nis the full notional of one or more index credit default swap of purchased protection used to hedge CVA risk.\nThat notional amount shall be discounted by applying the following factor:1  e0.05  Mind0.05  Mind\nwind\nis the weight applicable to index hedges.\nAn institution shall determine wind by calculating a weighted average of wi that are applicable to the individual constituents of the index;\nMi\nthe effective maturity of the transactions with counterparty i.\nFor an institution using the method set out in Section 6 of Title II, Chapter 6, Mi shall be calculated in accordance with Article 162(2)(g). However, for that purpose, Mi shall not be capped at five years but at the longest contractual remaining maturity in the netting set.\nFor an institution not using the method set out in Section 6 of Title II, Chapter 6, Mi is the average notional weighted maturity as referred to in point (b) of Article 162(2). However, for that purpose, Mi shall not be capped at five years but at the longest contractual remaining maturity in the netting set.\nMihedge\nthe maturity of the hedge instrument with notional Bi (the quantities MihedgeBi are to be summed if these are several positions);\nMind\nthe maturity of the index hedge.\nIn the case of more than one index hedge position, Mind is the notional-weighted maturity.\n2. Where a counterparty is included in an index on which a credit default swap used for hedging counterparty credit risk is based, the institution may subtract the notional amount attributable to that counterparty in accordance with its reference entity weight from the index CDS notional amount and treat it as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.\nTable 1\nCredit quality step Weight wi\n1 0,7 %\n2 0,8 %\n3 1,0 %\n4 2,0 %\n5 3,0 %\n6 10,0 %",
+        "previous_location": null,
+        "changed_within": [
+          "AR 384 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-07-19, 2018-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the discount factor formula given for the index hedge notional amount Bind, the exponent and denominator term was changed from Miind to Mind.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20160719",
+                "location": "AR 384"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_384",
+              "label": "Art. 384, 02013R0575-20160719"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 384"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_384",
+              "label": "Art. 384, 02013R0575-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 473a"
+        },
+        "heading": "Introduction of IFRS 9",
+        "before": null,
+        "after": "Article 473a\nIntroduction of IFRS 9\n1. By way of derogation from Article 50 and until the end of the transitional period set out in paragraph 6 of this Article, the following may include in their Common Equity Tier 1 capital the amount calculated in accordance with this paragraph:\n(a) institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;\n(b) institutions that, pursuant to Article 24(2) of this Regulation, effect the valuation of assets and off-balance sheet items and the determination of own funds in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;\n(c) institutions that effect the valuation of assets and off-balance sheet items in conformity with accounting standards under Directive 86/635/EEC and that use an expected credit loss model that is the same as the one used in international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002.\nThe amount referred to in the first subparagraph shall be calculated as the sum of the following:\n(a) for exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three, the amount (ABSA) calculated in accordance with the following formula:\nABSAA2,SA A4,SA t · f\nwhere:\nA2,SA\nthe amount calculated in accordance with paragraph 2;\nA4,SA\nthe amount calculated in accordance with paragraph 4 based on the amounts calculated in accordance with paragraph 3;\nf\nthe applicable factor laid down in paragraph 6;\nt\nincrease of Common Equity Tier 1 capital that is due to tax deductibility of the amounts A2,SA and A4,SA;\n(b) for exposures which are subject to risk weighting in accordance with Chapter 3 of Title II of Part Three, the amount (ABIRB) calculated in accordance with the following formula:\nABIRBA2,IRB A4,IRB t · f\nwhere:\nA2,IRB\nthe amount calculated in accordance with paragraph 2 adjusted in accordance with point (a) of paragraph 5;\nA4,IRB\nthe amount calculated in accordance with paragraph 4 based on the amounts calculated in accordance with paragraph 3 which are adjusted in accordance with points (b) and (c) of paragraph 5;\nf\nthe applicable factor laid down in paragraph 6;\nt\nincrease of Common Equity Tier 1 capital that is due to tax deductibility of the amounts A2,IRB and A4,IRB.\n2. Institutions shall calculate the amounts A2,SA and A2,IRB referred to, respectively, in points (a) and (b) of the second subparagraph of paragraph 1 as the greater of the amounts referred to in points (a) and (b) of this paragraph separately for their exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three and for their exposures which are subject to risk weighting in accordance with Chapter 3 of Title II of Part Three:\n(a) zero;\n(b) the amount calculated in accordance with point (i) reduced by the amount calculated in accordance with point (ii):\n(i) the sum of the 12-month expected credit losses determined in accordance with paragraph 5.5.5 of IFRS 9 as set out in the Annex to Commission Regulation (EC) No 1126/2008 (Annex relating to IFRS 9) and the amount of the loss allowance for lifetime expected credit losses determined in accordance with paragraph 5.5.3 of the Annex relating to IFRS 9 as of 1 January 2018 or on the date of initial application of IFRS 9;\n(ii) the total amount of impairment losses on financial assets classified as loans and receivables, held-to-maturity investments and available-for-sale financial assets, as defined in paragraph 9 of IAS 39, other than equity instruments and units or shares in collective investment undertakings, determined in accordance with paragraphs 63, 64, 65, 67, 68 and 70 of IAS 39 as set out in the Annex to Regulation (EC) No 1126/2008 as of 31 December 2017 or the day before the date of initial application of IFRS 9.\n3. Institutions shall calculate the amount by which the amount referred to in point (a) exceeds the amount referred to in point (b) separately for their exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three and for their exposures which are subject to risk weighting in accordance with Chapter 3 of Title II of Part Three:\n(a) the sum of the 12-month expected credit losses determined in accordance with paragraph 5.5.5 of the Annex relating to IFRS 9 and the amount of the loss allowance for lifetime expected credit losses determined in accordance with paragraph 5.5.3 of the Annex relating to IFRS 9 excluding the loss allowance for lifetime expected credit losses for financial assets that are credit-impaired as defined in Appendix A to the Annex relating to IFRS 9 as of the reporting date;\n(b) the sum of the 12-month expected credit losses determined in accordance with paragraph 5.5.5 of the Annex relating to IFRS 9 and the amount of the loss allowance for lifetime expected credit losses determined in accordance with paragraph 5.5.3 of the Annex relating to IFRS 9 excluding the loss allowance for lifetime expected credit losses for financial assets that are credit-impaired as defined in Appendix A to the Annex relating to IFRS 9 as of 1 January 2018 or on the date of initial application of IFRS 9.\n4. For exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three, where the amount specified in accordance with point (a) of paragraph 3 exceeds the amount specified in point (b) of paragraph 3, institutions shall set A4,SA as equal to the difference between those amounts, otherwise they shall set A4,SA as equal to zero.\nFor exposures which are subject to risk weighting in accordance with Chapter 3 of Title II of Part Three, where the amount specified in accordance with point (a) of paragraph 3, after applying point (b) of paragraph 5, exceeds the amount for these exposures as specified in point (b) of paragraph 3, after applying point (c) of paragraph 5, institutions shall set A4,IRB as equal to the difference between those amounts, otherwise they shall set A4,IRB as equal to zero.\n5. For exposures which are subject to risk weighting in accordance with Chapter 3 of Title II of Part Three, institutions shall apply paragraphs 2 to 4 as follows:\n(a) for the calculation of A2,IRB institutions shall reduce each of the amounts calculated in accordance with points (b)(i) and (ii) of paragraph 2 of this Article by the sum of expected loss amounts calculated in accordance with Article 158(5), (6) and (10) as of 31 December 2017 or the day before the date of initial application of IFRS 9. Where for the amount referred to in point (b)(i) of paragraph 2 of this Article the calculation results in a negative number, the institution shall set the value of that amount as equal to zero. Where for the amount referred to in point (b)(ii) of paragraph 2 of this Article the calculation results in a negative number, the institution shall set the value of that amount as equal to zero;\n(b) institutions shall replace the amount calculated in accordance with point (a) of paragraph 3 of this Article by the sum of the 12-month expected credit losses determined in accordance with paragraph 5.5.5 of the Annex relating to IFRS 9 and the amount of the loss allowance for lifetime expected credit losses determined in accordance with paragraph 5.5.3 of the Annex relating to IFRS 9 excluding the loss allowance for lifetime expected credit losses for financial assets that are credit-impaired, as defined in Appendix A to the Annex relating to IFRS 9, reduced by the sum of related expected loss amounts for the same exposures calculated in accordance with Article 158(5), (6) and (10) as of the reporting date. Where the calculation results in a negative number, the institution shall set the value of the amount referred to in point (a) of paragraph 3 of this Article as equal to zero;\n(c) institutions shall replace the amount calculated in accordance with point (b) of paragraph 3 of this Article by the sum of the 12-month expected credit losses determined in accordance with paragraph 5.5.5 of the Annex relating to IFRS 9 and the amount of the loss allowance for lifetime expected credit losses determined in accordance with paragraph 5.5.3 of the Annex relating to IFRS 9 excluding the loss allowance for lifetime expected credit losses for financial assets that are credit-impaired, as defined in Appendix A to the Annex relating to IFRS 9, as of 1 January 2018 or on the date of initial application of IFRS 9, reduced by the sum of related expected loss amounts for the same exposures calculated in accordance with Article 158(5), (6) and (10). Where the calculation results in a negative number, the institution shall set the value of the amount referred to in point (b) of paragraph 3 of this Article as equal to zero.\n6. Institutions shall apply the following factors to calculate the amounts ABSA and ABIRB referred to in points (a) and (b) of the second subparagraph of paragraph 1 respectively:\n(a) 0,95 during the period from 1 January 2018 to 31 December 2018;\n(b) 0,85 during the period from 1 January 2019 to 31 December 2019;\n(c) 0,7 during the period from 1 January 2020 to 31 December 2020;\n(d) 0,5 during the period from 1 January 2021 to 31 December 2021;\n(e) 0,25 during the period from 1 January 2022 to 31 December 2022.\nInstitutions whose financial year commences after 1 January 2018 but before 1 January 2019 shall adjust the dates in points (a) to (e) of the first subparagraph so that they correspond to their financial year, shall report the adjusted dates to their competent authority and shall publicly disclose them.\nInstitutions which start to apply accounting standards as referred to in paragraph 1 on or after 1 January 2019 shall apply the relevant factors in accordance with points (b) to (e) of the first subparagraph starting with the factor corresponding to the year of the first application of those accounting standards.\n7. Where an institution includes in its Common Equity Tier 1 capital an amount in accordance with paragraph 1 of this Article, it shall recalculate all requirements laid down in this Regulation and in Directive 2013/36/EU that use any of the following items by not taking into account the effects that the expected credit loss provisions that it included in its Common Equity Tier 1 capital have on those items:\n(a) the amount of deferred tax assets that is deducted from Common Equity Tier 1 capital in accordance with point (c) of Article 36(1) or risk weighted in accordance with Article 48(4);\n(b) the exposure value as determined in accordance with Article 111(1) whereby the specific credit risk adjustments by which the exposure value shall be reduced shall be multiplied by the following scaling factor (sf):\nsf1 ABSA/RASA\nwhere:\nABSA\nthe amount calculated in accordance with point (a) of the second subparagraph of paragraph 1;\nRASA\nthe total amount of specific credit risk adjustments;\n(c) the amount of Tier 2 items calculated in accordance with point (d) of Article 62.\n8. During the period set out in paragraph 6 of this Article, in addition to disclosing the information required in Part Eight, institutions that have decided to apply the transitional arrangements set out in this Article shall disclose the amounts of own funds, Common Equity Tier 1 capital and Tier 1 capital, the Common Equity Tier 1 capital ratio, the Tier 1 capital ratio, the total capital ratio and the leverage ratio they would have in case they were not to apply this Article.\n9. An institution shall decide whether to apply the arrangements set out in this Article during the transitional period and shall inform the competent authority of its decision by 1 February 2018. Where an institution has received the prior permission of the competent authority, it may reverse once, during the transitional period, its initial decision. Institutions shall publicly disclose any decision taken in accordance with this subparagraph.\nAn institution that has decided to apply the transitional arrangements set out in this Article may decide not to apply paragraph 4 in which case it shall inform the competent authority of its decision by 1 February 2018. In such a case, the institution shall set the amount A4 referred to in paragraph 1 as equal to zero. Where an institution has received the prior permission of the competent authority, it may reverse once, during the transitional period, its initial decision. Institutions shall publicly disclose any decision taken in accordance with this subparagraph.\n10. In accordance with Article 16 of Regulation (EU) No 1093/2010, the EBA shall issue guidelines by 30 June 2018 on the disclosure requirements laid down in this Article.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R2395",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2018-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R2395 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 473a is added, setting out a transitional regime allowing certain institutions to include a specially calculated amount in Common Equity Tier 1 capital in connection with the introduction of IFRS 9, covering how that amount is computed, adjusted, and phased in through declining factors from 2018 to 2022.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 473a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_473a",
+              "label": "Art. 473a, 02013R0575-20180101"
+            }
+          ]
+        },
+        {
+          "text": "The provision also requires institutions to notify their competent authority of decisions to apply or reverse these transitional arrangements, to make related disclosures, and directs the EBA to issue guidelines on those disclosure requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 473a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_473a",
+              "label": "Art. 473a, 02013R0575-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 493"
+        },
+        "heading": "Transitional provisions for large exposures",
+        "before": "Article 493\nTransitional provisions for large exposures\n1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.\n2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:\n(a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;\n(b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC relating to energy supplies.\nOn the basis of that report, the Commission may submit proposals to amend this Regulation.\n3. By way of derogation from Article 400(2) and (3), Member States may, for a transitional period until the entry into force of any legal act following the review in accordance with Article 507, but not after 31 December 2028, fully or partially exempt the following exposures from the application of Article 395(1):\n(a) covered bonds falling within Article 129(1), (3) and (6);\n(b) asset items constituting claims on regional governments or local authorities of Member States where those claims would be assigned a 20 % risk weight under Part Three, Title II, Chapter 2 and other exposures to or guaranteed by those regional governments or local authorities, claims on which would be assigned a 20 % risk weight under Part Three, Title II, Chapter 2;\n(c) exposures, including participations or other kinds of holdings, incurred by an institution to its parent undertaking, to other subsidiaries of that parent undertaking or to its own subsidiaries, in so far as those undertakings are covered by the supervision on a consolidated basis to which the institution itself is subject, in accordance with this Regulation, Directive 2002/87/EC or with equivalent standards in force in a third country. Exposures that do not meet those criteria, whether or not exempted from Article 395(1) of this Regulation, shall be treated as exposures to a third party;\n(d) asset items constituting claims on and other exposures, including participations or other kinds of holdings, to regional or central credit institutions with which the credit institution belongs to a network in accordance with legal or statutory provisions and which are responsible, under those provisions, for cash-clearing operations within the network;\n(e) asset items constituting claims on and other exposures to credit institutions incurred by credit institutions, one of which operates on a non-competitive basis and provides or guarantees loans under legislative programmes or its statutes, to promote specified sectors of the economy under some form of government oversight and restrictions on the use of the loans, provided that the respective exposures arise from such loans that are passed on to the beneficiaries via credit institutions or from the guarantees of these loans;\n(f) asset items constituting claims on and other exposures to institutions, provided that those exposures do not constitute such institutions' own funds, do not last longer than the following business day and are not denominated in a major trading currency;\n(g) asset items constituting claims on central banks in the form of required minimum reserves held at those central banks which are denominated in their national currencies;\n(h) asset items constituting claims on central governments in the form of statutory liquidity requirements held in government securities which are denominated and funded in their national currencies provided that, at the discretion of the competent authority, the credit assessment of those central governments assigned by a nominated ECAI is investment grade;\n(i) 50 % of medium/low risk off-balance sheet documentary credits and of medium/low risk off-balance sheet undrawn credit facilities referred to in Annex I and subject to the competent authorities' agreement, 80 % of guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions;\n(j) legally required guarantees used when a mortgage loan financed by issuing mortgage bonds is paid to the mortgage borrower before the final registration of the mortgage in the land register, provided that the guarantee is not used as reducing the risk in calculating the risk- weighted exposure amounts;\n(k) assets items constituting claims on and other exposures to recognised exchanges.",
+        "after": "Article 493\nTransitional provisions for large exposures\n1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.\n2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:\n(a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;\n(b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC relating to energy supplies.\nOn the basis of that report, the Commission may submit proposals to amend this Regulation.\n3. By way of derogation from Article 400(2) and (3), Member States may, for a transitional period until the entry into force of any legal act following the review in accordance with Article 507, but not after 31 December 2028, fully or partially exempt the following exposures from the application of Article 395(1):\n(a) covered bonds falling within Article 129(1), (3) and (6);\n(b) asset items constituting claims on regional governments or local authorities of Member States where those claims would be assigned a 20 % risk weight under Part Three, Title II, Chapter 2 and other exposures to or guaranteed by those regional governments or local authorities, claims on which would be assigned a 20 % risk weight under Part Three, Title II, Chapter 2;\n(c) exposures, including participations or other kinds of holdings, incurred by an institution to its parent undertaking, to other subsidiaries of that parent undertaking or to its own subsidiaries, in so far as those undertakings are covered by the supervision on a consolidated basis to which the institution itself is subject, in accordance with this Regulation, Directive 2002/87/EC or with equivalent standards in force in a third country. Exposures that do not meet those criteria, whether or not exempted from Article 395(1) of this Regulation, shall be treated as exposures to a third party;\n(d) asset items constituting claims on and other exposures, including participations or other kinds of holdings, to regional or central credit institutions with which the credit institution belongs to a network in accordance with legal or statutory provisions and which are responsible, under those provisions, for cash-clearing operations within the network;\n(e) asset items constituting claims on and other exposures to credit institutions incurred by credit institutions, one of which operates on a non-competitive basis and provides or guarantees loans under legislative programmes or its statutes, to promote specified sectors of the economy under some form of government oversight and restrictions on the use of the loans, provided that the respective exposures arise from such loans that are passed on to the beneficiaries via credit institutions or from the guarantees of these loans;\n(f) asset items constituting claims on and other exposures to institutions, provided that those exposures do not constitute such institutions' own funds, do not last longer than the following business day and are not denominated in a major trading currency;\n(g) asset items constituting claims on central banks in the form of required minimum reserves held at those central banks which are denominated in their national currencies;\n(h) asset items constituting claims on central governments in the form of statutory liquidity requirements held in government securities which are denominated and funded in their national currencies provided that, at the discretion of the competent authority, the credit assessment of those central governments assigned by a nominated ECAI is investment grade;\n(i) 50 % of medium/low risk off-balance sheet documentary credits and of medium/low risk off-balance sheet undrawn credit facilities referred to in Annex I and subject to the competent authorities' agreement, 80 % of guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions;\n(j) legally required guarantees used when a mortgage loan financed by issuing mortgage bonds is paid to the mortgage borrower before the final registration of the mortgage in the land register, provided that the guarantee is not used as reducing the risk in calculating the risk- weighted exposure amounts;\n(k) assets items constituting claims on and other exposures to recognised exchanges.\n4. By way of derogation from Article 395(1), competent authorities may allow institutions to incur any of the exposures provided for in paragraph 5 of this Article meeting the conditions set out in paragraph 6 of this Article, up to the following limits:\n(a) 100 % of the institution’s Tier 1 capital until 31 December 2018;\n(b) 75 % of the institution’s Tier 1 capital until 31 December 2019;\n(c) 50 % of the institution’s Tier 1 capital until 31 December 2020.\nThe limits referred to in points (a), (b) and (c) of the first subparagraph shall apply to exposure values after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403.\n5. The transitional arrangements set out in paragraph 4 shall apply to the following exposures:\n(a) asset items constituting claims on central governments, central banks, or public sector entities of Member States;\n(b) asset items constituting claims expressly guaranteed by central governments, central banks, or public sector entities of Member States;\n(c) other exposures to, or guaranteed by, central governments, central banks, or public sector entities of Member States;\n(d) asset items constituting claims on regional governments or local authorities of Member States treated as exposures to a central government in accordance with Article 115(2);\n(e) other exposures to, or guaranteed by, regional governments or local authorities of Member States treated as exposures to a central government in accordance with Article 115(2).\nFor the purposes of points (a), (b) and (c) of the first subparagraph, the transitional arrangements set out in paragraph 4 of this Article shall apply only to asset items and other exposures to, or guaranteed by, public sector entities which are treated as exposures to a central government, a regional government or a local authority in accordance with Article 116(4). Where asset items and other exposures to, or guaranteed by, public sector entities are treated as exposures to a regional government or a local authority in accordance with Article 116(4), the transitional arrangements set out in paragraph 4 of this Article shall apply only where exposures to that regional government or local authority are treated as exposures to a central government in accordance with Article 115(2).\n6. The transitional arrangements set out in paragraph 4 of this Article shall apply only where an exposure referred to in paragraph 5 of this Article meets all of the following conditions:\n(a) the exposure would be assigned a risk weight of 0 % in accordance with the version of Article 495(2) in force on 31 December 2017;\n(b) the exposure was incurred on or after 12 December 2017.\n7. An exposure as referred to in paragraph 5 of this Article incurred before 12 December 2017 to which a risk weight of 0 % was assigned on 31 December 2017 in accordance with Article 495(2) shall be exempted from the application of Article 395(1).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 493 PA 4",
+          "AR 493 PA 5",
+          "AR 493 PA 6",
+          "AR 493 PA 7"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R2395",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2017-12-12",
+          "2017-12-31",
+          "2018-12-31",
+          "2019-12-31"
+        ],
+        "in_force": "2018-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R2395 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The after text adds four new paragraphs, numbered 4 through 7, that were not present before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 493"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493",
+              "label": "Art. 493, 02013R0575-20180101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 sets declining limits on certain exposures expressed as percentages of an institution's Tier 1 capital, running from 100% until 31 December 2018 down to 50% until 31 December 2020, and applies those limits after taking into account credit risk mitigation under Articles 399 to 403.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 493"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493",
+              "label": "Art. 493, 02013R0575-20180101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 5 lists the categories of exposures to which paragraph 4 applies, paragraph 6 conditions that application on the exposure having carried a 0% risk weight under the version of Article 495(2) in force on 31 December 2017 and on having been incurred on or after 12 December 2017, and paragraph 7 exempts from Article 395(1) an exposure incurred before 12 December 2017 that carried that same 0% risk weight on 31 December 2017.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 493"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493",
+              "label": "Art. 493, 02013R0575-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20180101",
+          "location": "AR 496"
+        },
+        "heading": "Own funds requirements for covered bonds",
+        "before": "Article 496\nOwn funds requirements for covered bonds\n1. Until 31 December 2017, competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that both of the following conditions are fulfilled:\n(a) the securitised residential property or commercial immovable property exposures were originated by a member of the same consolidated group of which the issuer of the covered bonds is a member, or by an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, where that common group membership or affiliation shall be determined at the time the senior units are made collateral for covered bonds;\n(b) a member of the same consolidated group of which the issuer of the covered bonds is a member, or an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, retains the whole first loss tranche supporting those senior units.\n2. Until 31 December 2014, for the purposes of point (c) of Article 129(1), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013 shall be considered to qualify for credit quality step 1.\n3. Until 31 December 2014, for the purposes of Article 129(5), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013shall be considered to qualify for a 20 % risk weight.",
+        "after": "Article 496\nOwn funds requirements for covered bonds\n1. Competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that both of the following conditions are fulfilled:\n(a) the securitised residential property or commercial immovable property exposures were originated by a member of the same consolidated group of which the issuer of the covered bonds is a member, or by an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, where that common group membership or affiliation shall be determined at the time the senior units are made collateral for covered bonds;\n(b) a member of the same consolidated group of which the issuer of the covered bonds is a member, or an entity affiliated to the same central body to which the issuer of the covered bonds is affiliated, retains the whole first loss tranche supporting those senior units.\n2. Until 31 December 2014, for the purposes of point (c) of Article 129(1), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013 shall be considered to qualify for credit quality step 1.\n3. Until 31 December 2014, for the purposes of Article 129(5), the senior unsecured exposures of institutions which qualified for a 20 % risk weight under national law before 28 June 2013shall be considered to qualify for a 20 % risk weight.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 496 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R2188",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2017-12-31"
+        ],
+        "dates_added": [],
+        "in_force": "2018-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R2188 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 no longer contains the opening time limit that had confined the competent authorities' waiver power to the period until 31 December 2017.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20160719",
+                "location": "AR 496"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_496",
+              "label": "Art. 496, 02013R0575-20160719"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 496"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_496",
+              "label": "Art. 496, 02013R0575-20180101"
+            }
+          ]
+        },
+        {
+          "text": "Aside from removing that date restriction, the wording describing the waiver and its two conditions in points (a) and (b) is unchanged, as are paragraphs 2 and 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 496"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_496",
+              "label": "Art. 496, 02013R0575-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20160719",
+    "to_version": "02013R0575-20180101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 308",
+          "AR 309",
+          "AR 384",
+          "AR 473a",
+          "AR 493",
+          "AR 496"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 473a",
+          "AR 493",
+          "AR 496"
+        ],
+        "note": "6 annotations in (2016-07-19, 2018-01-01]",
+        "claims": [
+          {
+            "location": "AR 473a",
+            "change_type": "INSERTED",
+            "in_force": "2018-01-01",
+            "source": "32017R2395 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2395",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 493 PA 5",
+            "change_type": "INSERTED",
+            "in_force": "2018-01-01",
+            "source": "32017R2395 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2395",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 493 PA 7",
+            "change_type": "INSERTED",
+            "in_force": "2018-01-01",
+            "source": "32017R2395 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2395",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 493 PA 4",
+            "change_type": "INSERTED",
+            "in_force": "2018-01-01",
+            "source": "32017R2395 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2395",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 493 PA 6",
+            "change_type": "INSERTED",
+            "in_force": "2018-01-01",
+            "source": "32017R2395 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2395",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 496 PA 1 FR 1",
+            "change_type": "MODIFIED",
+            "in_force": "2018-01-01",
+            "source": "32017R2188 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2188",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32017R2395, 32017R2188",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 308",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 309",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 384",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 5,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 32964,
+      "output_tokens": 1427,
+      "requests": 6,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 5,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 9,
+    "citations": 12,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
