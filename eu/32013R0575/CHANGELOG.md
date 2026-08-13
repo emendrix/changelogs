@@ -10,6 +10,2889 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20201228 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20200627` → `02013R0575-20201228`
+
+- **Act** `eu:32013R0575` · **In force** 2020-12-28 · **Detected** 2026-08-13
+- **Touched** 274 provisions — 274 substantive · 0 date-only · **269 disputed**
+- **Diff** 157 inserted · 117 modified · 0 deleted · 0 renumbered · 0 deferred · 637 unchanged
+- **Gate** 0 sentences quoted verbatim · 269 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20200627` · `v2` = `02013R0575-20201228`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 8** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 10** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11 — General treatment** · applies from: unchanged
+
+*within* `AR 11 PA 1 ALN 1`, `AR 11 PA 2 ALN 1`, `AR 11 PA 2 ALN 1 PTA (a)`, `AR 11 PA 2 ALN 1 PTA (b)`, `AR 11 PA 2 ALN 1 PTA (c)`, `AR 11 PA 2 ALN 2`, `AR 11 PA 4 ALN 1`, `AR 11 PA 4 ALN 2`, `AR 11 PA 5 ALN 1`, `AR 11 PA 5 ALN 2`, `AR 11 PA 6` · *amended by* `32019R0876`
+
+Paragraph 1 now references Parts Two, Three, Four, Seven and Seven A instead of Parts Two to Four and Part Seven, and adds an exception for point (d) of Article 430(1). [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_11)
+
+Paragraph 2, which previously addressed institutions controlled by a parent financial holding company or mixed financial holding company and their consolidated obligations under Parts Two to Four and Part Seven, has been replaced with new wording extending the terms institution, parent institution in a Member State, EU parent institution and parent undertaking to certain financial holding companies, mixed financial holding companies and designated institutions or entities described in points (a), (b) and (c), together with rules on whose consolidated situation applies to the undertakings in points (b) and (c). [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_11)
+
+Paragraph 4, formerly concerned with the central body under Article 10, is now a new provision on EU parent institutions complying with Part Six and point (d) of Article 430(1) on a consolidated basis, including a liquidity sub-group rule, while the former paragraph 4 content on the central body now appears as paragraph 5 with an added reference to Chapter 2 of Regulation (EU) 2017/2402, and the former paragraph 5 on structurally separated institutions now appears as paragraph 6 with its obligation extended to Parts Two to Eight and its reference to "structurally separated institutions" changed to "an institution". [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_11)
+
+*before* (`02013R0575-20200627`)
+
+> Article 11
+> General treatment
+> 1. Parent institutions in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of their consolidated situation. The parent undertakings and their subsidiaries subject to this Regulation shall set up a proper organisational structure and appropriate internal control mechanisms in order to ensure that the data required for consolidation are duly processed and forwarded. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure a proper consolidation.
+> 2. Institutions controlled by a parent financial holding company or a parent mixed financial holding company in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of the consolidated situation of that financial holding company or mixed financial holding company.
+> Where more than one institution is controlled by a parent financial holding company or by a parent mixed financial holding company in a Member State, the first subparagraph shall apply only to the institution to which supervision on a consolidated basis applies in accordance with Article 111 of Directive 2013/36/EU.
+> 3. EU parent institutions, institutions controlled by an EU parent financial holding company and institutions controlled by […truncated by emendrix: 2908 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 11
+> General treatment
+> 1. Parent institutions in a Member State shall comply, to the extent and in the manner set out in Article 18, with the obligations laid down in Parts Two, Three, Four, Seven and Seven A on the basis of their consolidated situation, with the exception of point (d) of Article 430(1). The parent undertakings and their subsidiaries that are subject to this Regulation shall set up a proper organisational structure and appropriate internal control mechanisms in order to ensure that the data required for consolidation are duly processed and forwarded. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure proper consolidation.
+> 2. For the purpose of ensuring that the requirements of this Regulation are applied on a consolidated basis, the terms institution, parent institution in a Member State, EU parent institution and parent undertaking, as the case may be, shall also refer to:
+> (a) a financial holding company or mixed financial holding company approved in accordance with Article 21a of Directive 2013/36/EU;
+> (b) a designated institution controlled by a parent financial holding company or parent mixed financial holding company where such a parent is not subject to approval in accordance with Article 21a(4) of Directive 2013/36/EU;
+> (c) a financial holding company, mixed financial holding company or institution designated in accordance with point (d) of Article 21a(6) of D […truncated by emendrix: 4804 characters omitted…]
+
+**MODIFIED · Art. 12** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 12a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 15** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Methods of prudential consolidation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 18 PA 1 ALN 1`, `AR 18 PA 2 ALN 1`, `AR 18 PA 2 ALN 1 PTA (a)`, `AR 18 PA 2 ALN 1 PTA (b)`, `AR 18 PA 2 ALN 1 PTA (c)`, `AR 18 PA 3 ALN 1`, `AR 18 PA 5 ALN 1`, `AR 18 PA 6 ALN 1`, `AR 18 PA 6 ALN 1 PTA (a)`, `AR 18 PA 6 ALN 1 PTA (b)`, `AR 18 PA 6 ALN 2`, `AR 18 PA 7 ALN 1`, `AR 18 PA 7 ALN 2`, `AR 18 PA 7 ALN 2 PTA (a)`, `AR 18 PA 7 ALN 2 PTA (b)`, `AR 18 PA 7 ALN 2 PTA (c)`, `AR 18 PA 7 ALN 3`, `AR 18 PA 8 ALN 1`, `AR 18 PA 8 ALN 1 PTA (a)`, `AR 18 PA 8 ALN 1 PTA (b)` · *dates* -2016-12-31 +2020-12-28 · *amended by* `32019R0876`
+
+Paragraph 1 now names institutions, financial holding companies and mixed financial holding companies as the entities carrying out full consolidation, dropping the earlier reference to parent financial holding or mixed financial holding companies, and it exempts paragraphs 3 to 6 and 9 rather than paragraphs 2 to 8 when Part Six and point (d) of Article 430(1) apply. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_18)
+
+The former proportional-consolidation option and its three conditions in old paragraph 2 are removed and replaced by a new paragraph 2 stating that ancillary services undertakings are included in consolidation under the methods laid down in the Article, with the cross-reference for related undertakings changed from Article 12(1) of Directive 83/349/EEC to Article 22(7) of Directive 2013/34/EU, and the equivalent reference in paragraph 6 changed to Article 22(7), (8) and (9) of Directive 2013/34/EU. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_18)
+
+Former paragraph 7, which mandated draft regulatory technical standards by 31 December 2016, is replaced by new text on applying the equity method or an alternative method to subsidiaries or participations that are not institutions, financial institutions or ancillary services undertakings, subject to conditions including that the institution does not already apply the equity method on 28 December 2020, and a new paragraph 8 sets conditions under which competent authorities may require full or proportional consolidation of such undertakings, while the former paragraph 8 on ancillary services undertakings and asset management companies is removed and the regulatory-standards paragraph is renumbered as paragraph 9. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_18)
+
+*before* (`02013R0575-20200627`)
+
+> Article 18
+> Methods of prudential consolidation
+> 1. The institutions that are required to comply with the requirements referred to in Section 1 on the basis of their consolidated situation shall carry out a full consolidation of all institutions and financial institutions that are its subsidiaries or, where relevant, the subsidiaries of the same parent financial holding company or parent mixed financial holding company. Paragraphs 2 to 8 of this Article shall not apply where Part Six applies on the basis of an institution's consolidated situation.
+> For the purposes of Article 11(3a), institutions that are required to comply with the requirements referred to in Article 92a or 92b on a consolidated basis shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries in the relevant resolution groups.
+> 2. However, the competent authorities may on a case-by-case basis permit proportional consolidation according to the share of capital that the parent undertaking holds in the subsidiary. Proportional consolidation may only be permitted where all of the following conditions are fulfilled:
+> (a) the liability of the parent undertaking is limited to the share of capital that the parent undertaking holds in the subsidiary in view of the liability of the other shareholders or members;
+> (b) the solvency of those other shareholders or members is satisfactory;
+> (c) the liability of the other shareholders and members is clearly established in a lega […truncated by emendrix: 3138 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 18
+> Methods of prudential consolidation
+> 1. Institutions, financial holding companies and mixed financial holding companies that are required to comply with the requirements referred to in Section 1 of this Chapter on the basis of their consolidated situation shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries. Paragraphs 3 to 6 and paragraph 9 of this Article shall not apply where Part Six and point (d) of Article 430(1) apply on the basis of the consolidated situation of an institution, financial holding company or mixed financial holding company or on the sub-consolidated situation of a liquidity sub-group as set out in Articles 8 and 10.
+> For the purposes of Article 11(3a), institutions that are required to comply with the requirements referred to in Article 92a or 92b on a consolidated basis shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries in the relevant resolution groups.
+> 2. Ancillary services undertakings shall be included in consolidation in the cases, and in accordance with the methods, laid down in this Article.
+> 3. Where undertakings are related within the meaning of Article 22(7) of Directive 2013/34/EU, competent authorities shall determine how consolidation is to be carried out.
+> 4. The consolidating supervisor shall require the proportional consolidation according to the share of capital held of participations in institutions and financ […truncated by emendrix: 3843 characters omitted…]
+
+**MODIFIED · Art. 22** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 26** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 28** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 33** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 36** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 37** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 39** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 45** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 49** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 52** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 54** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 59** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 62** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 63** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 66** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 69** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72d** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72e** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72f** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72g** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72h** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72i** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72j** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72k** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 72l** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 73** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 75** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 76** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 77** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 78** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 78a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 79** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 79a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 80** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 82** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 83** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 88a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 92** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 92a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 92b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 94** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 102** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 103** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 104** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 104a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 104b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 105** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 106** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 107** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 117** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 118** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 123** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 124 — Exposures secured by mortgages on immovable property** · applies from: unchanged
+
+*within* `AR 124 PA 1 ALN 1`, `AR 124 PA 1 ALN 2`, `AR 124 PA 1a`, `AR 124 PA 2 ALN 1`, `AR 124 PA 2 ALN 1 PTA (b)`, `AR 124 PA 2 ALN 2`, `AR 124 PA 2 ALN 3`, `AR 124 PA 2 ALN 4`, `AR 124 PA 2 ALN 4 PTA (a)`, `AR 124 PA 2 ALN 4 PTA (b)`, `AR 124 PA 2 ALN 5`, `AR 124 PA 2 ALN 6`, `AR 124 PA 3 ALN 1`, `AR 124 PA 6` · *amended by* `32019R0876`
+
+The provision now names the authority designated under a new paragraph 1a, rather than the competent authority generally, as the body responsible for periodically assessing and adjusting the 35% and 50% risk weights referred to in Articles 125 and 126, and it adds detailed rules on designation, coordination and information-sharing between that authority and the competent authority. [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_124)
+
+The data source for the assessment is changed from Article 101 to Article 430a, the notification and opinion process now runs through EBA and the ESRB with a one-month response period, and the risk-weight ranges (35%-150% for residential and 50%-150% for commercial) are restated as a defined list rather than descriptive text. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_124)
+
+A new paragraph 6 is added requiring institutions of one Member State to apply the risk weights and criteria set by another Member State's authority to their corresponding exposures located there, a provision absent from the earlier text. [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_124)
+
+*before* (`02013R0575-20200627`)
+
+> Article 124
+> Exposures secured by mortgages on immovable property
+> 1. An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions under Article 125 or 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the immovable property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+> The part of an exposure treated as fully secured by immovable property shall not be higher than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the property in question.
+> 2. Based on the data collected under Article 101, and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the risk-weight of 35 % for exposures secured by mortgages on residential property referred to in Article 125 and the risk weight of 50 % for exposures secured on commercial immovable property referred to in Article 126 located in their territory are appropriately based on:
+> (a) the loss experience of exposures secured by immovable property;
+> (b) forward-looking immovable property markets developments;
+> Competent authorities may set a higher risk weight or stricter […truncated by emendrix: 2886 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 124
+> Exposures secured by mortgages on immovable property
+> 1. An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions set out in Article 125 or 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the immovable property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+> The part of an exposure that is treated as fully secured by immovable property shall not be greater than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the immovable property in question.
+> 1a. Member States shall designate an authority to be responsible for the application of paragraph 2. That authority shall be the competent authority or the designated authority.
+> Where the authority designated by the Member State for the application of this Article is the competent authority, it shall ensure that the relevant national bodies and authorities which have a macroprudential mandate are duly informed of the competent authority's intention to make use of this Article, and are appropriately involved in the assessment of financial stability concerns in its Member State in accordance with paragraph […truncated by emendrix: 5249 characters omitted…]
+
+**MODIFIED · Art. 128** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 132** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 132a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 132b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 132c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 144** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 152** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 158** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 164 — Loss Given Default (LGD)** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 164 PA 1 ALN 1`, `AR 164 PA 2 ALN 1`, `AR 164 PA 4 ALN 1`, `AR 164 PA 4 ALN 2`, `AR 164 PA 5 ALN 1`, `AR 164 PA 5 ALN 2`, `AR 164 PA 5 ALN 3`, `AR 164 PA 6 ALN 1`, `AR 164 PA 6 ALN 2`, `AR 164 PA 6 ALN 3`, `AR 164 PA 7 ALN 1`, `AR 164 PA 10` · *dates* -2014-12-31 · *amended by* `32019R0876`
+
+Paragraph 5 no longer restates the competent-authorities' periodic assessment duty; instead it now requires each Member State to designate an authority responsible for applying paragraph 6, sets out that this authority is either the competent authority or a designated authority, and adds coordination and information-sharing requirements between them, including cooperation with macroprudential bodies and coordination with measures under Article 458 of the Regulation and Article 133 of Directive 2013/36/EU. [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_164)
+
+The periodic assessment and higher-minimum-LGD-setting process, previously in paragraphs 5 and 6, is now placed in paragraph 6 and refers to data collected under Article 430a instead of Article 101, to mortgages on residential or commercial immovable property located in one or more parts of a Member State's territory instead of property located in the competent authority's territory generally, and adds a requirement to notify EBA and the ESRB before the decision, with those bodies given one month to provide an opinion. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_164)
+
+A new paragraph 7 introduces a six-month transitional period for institutions to apply higher minimum LGD values set under paragraph 6, the former regulatory-technical-standards mandate with a 31 December 2014 submission deadline has been removed, and the cross-border application rule, now paragraph 10 instead of paragraph 7, refers to values determined under paragraph 6 and to exposures located in one or more parts of another Member State rather than to that Member State as a whole. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_164)
+
+*before* (`02013R0575-20200627`)
+
+> Article 164
+> Loss Given Default (LGD)
+> 1. Institutions shall provide own estimates of LGDs subject to requirements as specified in Section 6 and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+> 2. Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+> 3. For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+> 4. The exposur […truncated by emendrix: 3025 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 164
+> Loss Given Default (LGD)
+> 1. Institutions shall provide own estimates of LGDs subject to the requirements specified in Section 6 of this Chapter and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+> 2. Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and the permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+> 3. For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respect […truncated by emendrix: 5113 characters omitted…]
+
+**MODIFIED · Art. 201** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 204a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 223** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 272** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 273** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 273a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 273b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 283** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 298** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 299** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 300** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 301** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 302** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 303** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 304** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 305** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 306** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 307** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 308** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 309** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 316** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325aa** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ab** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ac** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ad** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ae** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325af** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ag** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ah** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ai** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325aj** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ak** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325al** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325an** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ao** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ap** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325aq** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ar** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325as** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325at** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325au** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325av** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325aw** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ax** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ay** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325az** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325ba** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bb** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bc** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bd** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325be** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bf** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bg** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bh** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bi** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bj** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bk** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bl** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bm** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bn** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bo** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325bp** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325d** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325e** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325f** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325g** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325h** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325i** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325j** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325k** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325l** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325m** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325n** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325o** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325p** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325q** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325r** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325s** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325t** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325u** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325v** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325w** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325x** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325y** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 325z** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 384** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 385** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 390** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 391** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 392** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 394** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 395** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 396** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 397** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 399** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 400** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 401** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 402** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 403** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 411** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 412** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 413** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 415** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 416** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 419** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 422** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 423** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 424** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 425** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aa** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ab** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ac** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ad** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ae** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428af** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ag** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ah** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ai** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aj** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ak** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428al** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428am** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428an** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ao** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ap** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aq** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ar** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428as** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428at** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428au** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428av** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aw** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ax** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ay** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428az** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428d** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428e** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428f** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428g** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428h** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428i** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428j** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428k** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428l** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428m** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428n** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428o** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428p** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428q** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428r** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428s** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428t** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428u** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428v** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428w** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428x** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428y** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428z** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 430** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 430a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 430b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 430c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 456** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 457** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 458 — Macroprudential or systemic risk identified at the level of a Member State** · applies from: unchanged
+
+*within* `AR 458 PA 2 ALN 1`, `AR 458 PA 2 ALN 1 PTA (a)`, `AR 458 PA 2 ALN 1 PTA (b)`, `AR 458 PA 2 ALN 1 PTA (c)`, `AR 458 PA 2 ALN 1 PTA (d)`, `AR 458 PA 2 ALN 1 PTA (e)`, `AR 458 PA 2 ALN 1 PTA (f)`, `AR 458 PA 2 ALN 2`, `AR 458 PA 4 ALN 2`, `AR 458 PA 4 ALN 6`, `AR 458 PA 4 ALN 6 PTA (b)`, `AR 458 PA 4 ALN 6 PTA (c)`, `AR 458 PA 4 ALN 6 PTA (d)`, `AR 458 PA 4 ALN 6 PTA (e)`, `AR 458 PA 4 ALN 7`, `AR 458 PA 4 ALN 8`, `AR 458 PA 5 ALN 1`, `AR 458 PA 9 ALN 1`, `AR 458 PA 10 ALN 1` · *amended by* `32019R0876`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20200627`)
+
+> Article 458
+> Macroprudential or systemic risk identified at the level of a Member State
+> 1. Member States shall designate the authority in charge of the application of this Article. This authority shall be the competent authority or the designated authority.
+> 2. Where the authority determined in accordance with paragraph 1 identifies changes in the intensity of macroprudential or systemic risk in the financial system with the potential to have serious negative consequences to the financial system and the real economy in a specific Member State and which that authority considers would better be addressed by means of stricter national measures, it shall notify the European Parliament, the Council, the Commission, the ESRB and EBA of that fact and submit relevant quantitative or qualitative evidence of all of the following:
+> (a) the changes in the intensity of macroprudential or systemic risk;
+> (b) the reasons why such changes could pose a threat to financial stability at national level;
+> (c) a justification of why Articles 124 and 164 of this Regulation and Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU cannot adequately address the macroprudential or systemic risk identified, taking into account the relative effectiveness of those measures;
+> (d) draft national measures for domestically authorised institutions, or a subset of those institutions, intended to mitigate the changes in the intensity of risk and concerning:
+> (i) the level of own funds laid down in Article […truncated by emendrix: 5868 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 458
+> Macroprudential or systemic risk identified at the level of a Member State
+> 1. Member States shall designate the authority in charge of the application of this Article. This authority shall be the competent authority or the designated authority.
+> 2. Where the authority designated in accordance with paragraph 1 of this Article identifies changes in the intensity of macroprudential or systemic risk in the financial system with the potential to have serious negative consequences to the financial system and the real economy in a specific Member State and which that authority considers that cannot be addressed by means of other macroprudential tools set out in this Regulation and in Directive 2013/36/EU as effectively as by implementing stricter national measures, it shall notify the Commission and the ESRB accordingly. The ESRB shall forward the notification to the European Parliament, to the Council and to EBA without delay.
+> The notification shall be accompanied by the following documents and include, where appropriate, relevant quantitative or qualitative evidence on:
+> (a) the changes in the intensity of macroprudential or systemic risk;
+> (b) the reasons why such changes could pose a threat to financial stability at national level or to the real economy;
+> (c) an explanation as to why the authority considers that the macroprudential tools set out in Articles 124 and 164 of this Regulation and Articles 133 and 136 of Directive 2013/36/EU would be less suitable and effectiv […truncated by emendrix: 6109 characters omitted…]
+
+**MODIFIED · Art. 460** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 461a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 462** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 471** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 493 — Transitional provisions for large exposures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 493 PA 1 ALN 1` · *dates* -1993-05-10 +2004-04-21 +2021-06-26 · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 1 now sets a fixed end date of 26 June 2021 for the exemption from Articles 387 to 403, replacing the earlier wording that tied the exemption's expiry to 31 December 2020 or an amendment under paragraph 2, whichever came first. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_493)
+
+The reference to financial instruments in Section C of Annex I has been expanded to include point (11) alongside points (5) to (10), and the instrument list is now tied to Directive 2014/65/EU instead of Directive 2004/39/EC. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_493)
+
+The reference to the prior directive not applying on 31 December 2006 now names Directive 2004/39/EC itself, with its own citation details, in place of the earlier reference to Council Directive 93/22/EEC of 10 May 1993. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_493)
+
+*before* (`02013R0575-20200627`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 6951 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the CouncilDirective 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fir […truncated by emendrix: 7110 characters omitted…]
+
+**MODIFIED · Art. 494** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 494a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 494b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 497** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 498 — Exemption for Commodities dealers** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 498 ALN 1`, `AR 498 PA 1`, `AR 498 PA 2`, `AR 498 PA 3` · *dates* -2015-12-31 -2020-12-31 +2021-06-26 · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20200627`)
+
+> Article 498
+> Exemption for Commodities dealers
+> 1. The provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to which Directive 93/22/EEC did not apply on 31 December 2006.
+> This exemption shall apply until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraphs 2 and 3, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC relating to energy supplies, including electr […truncated by emendrix: 145 characters omitted…]
+
+*after* (`02013R0575-20201228`)
+
+> Article 498
+> Exemption for Commodities dealers
+> Until 26 June 2021, the provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC did not apply on 31 December 2006.
+
+**MODIFIED · Art. 499** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 500** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 501a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 501b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 501c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 504a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 507** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 510** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 511** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 513** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 514** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 518a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 519b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 519c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · TIT** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · SCT 3** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20201228 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20200627 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20191225` → `02013R0575-20200627`
