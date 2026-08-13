@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R1131",
+    "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+  },
+  "from_version": "32017R1131",
+  "to_version": "02017R1131-20190101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2019-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 46,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20190101",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32018R0990",
+            "display_name": "Commission Delegated Regulation (EU) 2018/990 of 10 April 2018 amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies (Text with EEA relevance.)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (the act itself, 2019-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20190101",
+          "location": "AR 11"
+        },
+        "heading": "Eligible securitisations and ABCPs",
+        "before": "Article 11\nEligible securitisations and ABCPs\n1. Both a securitisation and an ABCP shall be considered to be eligible for investment by an MMF provided that the securitisation or ABCP is sufficiently liquid, has received a favourable assessment pursuant to Articles 19 to 22, and is any of the following:\n(a) a securitisation referred to in Article 13 of Commission Delegated Regulation (EU) 2015/61Commission Delegated Regulation (EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the Council with regard to liquidity coverage requirement for Credit Institutions (OJ L 11, 17.1.2015, p. 1).;\n(b) an ABCP issued by an ABCP programme which:\n(i) is fully supported by a regulated credit institution that covers all liquidity, credit and material dilution risks, as well as ongoing transaction costs and ongoing programme-wide costs related to the ABCP, if necessary to guarantee the investor the full payment of any amount under the ABCP;\n(ii) is not a re-securitisation and the exposures underlying the securitisation at the level of each ABCP transaction do not include any securitisation position;\n(iii) does not include a synthetic securitisation as defined in point (11) of Article 242 of Regulation (EU) No 575/2013;\n(c) a simple, transparent and standardised (STS) securitisation or ABCP.\n2. A short-term MMF may invest in the securitisations or ABCPs referred to in paragraph 1 provided any of the following conditions is fulfilled, as applicable:\n(a) the legal maturity at issuance of the securitisations referred to in point (a) of paragraph 1 is 2 years or less and the time remaining until the next interest rate reset date is 397 days or less;\n(b) the legal maturity at issuance or residual maturity of the securitisations or ABCPs referred to in points (b) and (c) of paragraph 1 is 397 days or less;\n(c) the securitisations referred to in points (a) and (c) of paragraph 1 are amortising instruments and have a WAL of 2 years or less.\n3. A standard MMF may invest in the securitisations or ABCPs referred to in paragraph 1 provided any of the following conditions is fulfilled, as applicable:\n(a) the legal maturity at issuance or residual maturity of the securitisations and ABCPs referred to in points (a), (b) and (c) of paragraph 1 is 2 years or less and the time remaining until the next interest rate reset date is 397 days or less;\n(b) the securitisations referred to in points (a) and (c) of paragraph 1 are amortising instruments and have a WAL of 2 years or less.\n4. The Commission shall adopt, by 6 months from the date of entry into force of the proposed Regulation on STS securitisations, a delegated act in accordance with Article 45 amending this Article by introducing a cross-reference to the criteria identifying STS securitisations and ABCPs in the corresponding provisions of that Regulation. The amendment shall become effective at the latest by 6 months after the date of entry into force of that delegated act or from the date of application of the corresponding provisions in the proposed Regulation on STS securitisations, whichever is the later.\nFor the purposes of the first subparagraph, the criteria identifying STS securitisations and ABCPs shall include at least the following:\n(a) requirements relating to the simplicity of the securitisation, including its true sale character and the respect of standards relating to the underwriting of the exposures;\n(b) requirements relating to standardisation of the securitisation, including risk retention requirements;\n(c) requirements relating to the transparency of the securitisation, including the provision of information to potential investors;\n(d) for ABCPs, in addition to points (a), (b) and (c), requirements relating to the sponsor and to the sponsor support of the ABCP programme.",
+        "after": "Article 11\nEligible securitisations and ABCPs\n1. Both a securitisation and an ABCP shall be considered to be eligible for investment by an MMF provided that the securitisation or ABCP is sufficiently liquid, has received a favourable assessment pursuant to Articles 19 to 22, and is any of the following:\n(a) a securitisation referred to in Article 13 of Commission Delegated Regulation (EU) 2015/61Commission Delegated Regulation (EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the Council with regard to liquidity coverage requirement for Credit Institutions (OJ L 11, 17.1.2015, p. 1).;\n(b) an ABCP issued by an ABCP programme which:\n(i) is fully supported by a regulated credit institution that covers all liquidity, credit and material dilution risks, as well as ongoing transaction costs and ongoing programme-wide costs related to the ABCP, if necessary to guarantee the investor the full payment of any amount under the ABCP;\n(ii) is not a re-securitisation and the exposures underlying the securitisation at the level of each ABCP transaction do not include any securitisation position;\n(iii) does not include a synthetic securitisation as defined in point (11) of Article 242 of Regulation (EU) No 575/2013;\n(c) a simple, transparent and standardised (STS) securitisation, as determined in accordance with the criteria and conditions laid down in Articles 20, 21 and 22 of Regulation (EU) 2017/2402 of the European Parliament and of the CouncilRegulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (OJ L 347, 28.12.2017, p. 35)., or an STS ABCP, as determined in accordance with the criteria and conditions laid down in Articles 24, 25 and 26 of that Regulation.\n2. A short-term MMF may invest in the securitisations or ABCPs referred to in paragraph 1 provided any of the following conditions is fulfilled, as applicable:\n(a) the legal maturity at issuance of the securitisations referred to in point (a) of paragraph 1 is 2 years or less and the time remaining until the next interest rate reset date is 397 days or less;\n(b) the legal maturity at issuance or residual maturity of the securitisations or ABCPs referred to in points (b) and (c) of paragraph 1 is 397 days or less;\n(c) the securitisations referred to in points (a) and (c) of paragraph 1 are amortising instruments and have a WAL of 2 years or less.\n3. A standard MMF may invest in the securitisations or ABCPs referred to in paragraph 1 provided any of the following conditions is fulfilled, as applicable:\n(a) the legal maturity at issuance or residual maturity of the securitisations and ABCPs referred to in points (a), (b) and (c) of paragraph 1 is 2 years or less and the time remaining until the next interest rate reset date is 397 days or less;\n(b) the securitisations referred to in points (a) and (c) of paragraph 1 are amortising instruments and have a WAL of 2 years or less.\n4. The Commission shall adopt, by 6 months from the date of entry into force of the proposed Regulation on STS securitisations, a delegated act in accordance with Article 45 amending this Article by introducing a cross-reference to the criteria identifying STS securitisations and ABCPs in the corresponding provisions of that Regulation. The amendment shall become effective at the latest by 6 months after the date of entry into force of that delegated act or from the date of application of the corresponding provisions in the proposed Regulation on STS securitisations, whichever is the later.\nFor the purposes of the first subparagraph, the criteria identifying STS securitisations and ABCPs shall include at least the following:\n(a) requirements relating to the simplicity of the securitisation, including its true sale character and the respect of standards relating to the underwriting of the exposures;\n(b) requirements relating to standardisation of the securitisation, including risk retention requirements;\n(c) requirements relating to the transparency of the securitisation, including the provision of information to potential investors;\n(d) for ABCPs, in addition to points (a), (b) and (c), requirements relating to the sponsor and to the sponsor support of the ABCP programme.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 11 PA 1 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32018R0990",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2017-12-12"
+        ],
+        "in_force": "2019-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32018R0990 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32018R0990, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (c) of Article 11(1) no longer refers generically to a simple, transparent and standardised (STS) securitisation or ABCP, but instead specifies that STS status is determined in accordance with the criteria and conditions laid down in Articles 20, 21 and 22 of Regulation (EU) 2017/2402 for securitisations, or Articles 24, 25 and 26 of that Regulation for STS ABCPs.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20190101",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20190101#art_11",
+              "label": "Art. 11, 02017R1131-20190101"
+            }
+          ]
+        },
+        {
+          "text": "The earlier text of that point simply named the category without any cross-reference to another Regulation's criteria.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "32017R1131",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1131#art_11",
+              "label": "Art. 11, 32017R1131"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R1131",
+      "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+    },
+    "from_version": "32017R1131",
+    "to_version": "02017R1131-20190101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 11"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 11"
+        ],
+        "note": "1 annotations in (the act itself, 2019-01-01]",
+        "claims": [
+          {
+            "location": "AR 11 PA 1 PO (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2019-01-01",
+            "source": "32018R0990 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32018R0990",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32018R0990, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32018R0990",
+              "display_name": "Commission Delegated Regulation (EU) 2018/990 of 10 April 2018 amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 11",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 5363,
+      "output_tokens": 266,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
