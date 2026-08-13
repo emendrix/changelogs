@@ -1,0 +1,816 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32024R0573",
+    "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+  },
+  "from_version": "32024R0573",
+  "to_version": "02024R0573-20240220",
+  "detected_on": "2026-08-13",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 7,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 41,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 10"
+        },
+        "heading": "Certification and training",
+        "before": "Article 10\nCertification and training\n1. Natural persons shall be certified to carry out the following activities involving fluorinated greenhouse gases within the meaning of Article 4(7), Article 5(1) and Article 8(2), covering the fluorinated greenhouse gases specified therein, or involving relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant:\n(a) installation, maintenance or servicing, repair or decommissioning of the equipment listed in Article 5(2), points (a) to (f), and in Article 5(3), points (a) and (b);\n(b) leak checks of the equipment referred to in Article 5(2), points (a) to (e), and in Article 5(3), points (a) and (b);\n(c) recovery from equipment listed in Article 8(2), and in Article 8(3), point (a).\nNatural persons shall hold at least a training attestation to carry out the following activities involving fluorinated greenhouse gases within the meaning of Article 4(7), Article 5(1) and Article 8(3), covering the fluorinated greenhouse gases specified therein, or involving relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant:\n(a) maintenance or servicing, or repair of air-conditioning equipment in motor vehicles falling within the scope of Directive 2006/40/EC, and recovering of fluorinated greenhouse gases from such equipment;\n(b) recovering fluorinated greenhouse gases from equipment listed in Article 8(3), points (b) and (c), and in Article 8(10), second subparagraph;\n(c) maintenance or servicing, repair and leak checks of equipment listed in Article 5(3), point (c).\n2. Legal persons shall be certified within the meaning of Article 4(7), covering the fluorinated greenhouse gases specified therein, to carry out the installation, maintenance or servicing, repair or decommissioning of the equipment listed in Article 5(2), points (a) to (e), and in Article 5(3), points (a) and (b), involving fluorinated greenhouse gases or relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant.\n3. Within 1 year following the entry into force of the implementing act referred to in paragraph 8, Member States shall establish or adapt certification programmes, including evaluation processes, and ensure that training on practical skills and theoretical knowledge is available for natural persons carrying out the activities referred to in paragraph 1. Member States shall also ensure that training programmes for obtaining training attestations in accordance with paragraph 1, second subparagraph, are available.\n4. Within 1 year following the entry into force of the implementing act referred to in paragraph 8, Member States shall establish or adapt certification programmes for legal persons referred to in paragraph 2.\n5. The certification programmes and training on practical skills and theoretical knowledge provided for in paragraph 3 shall cover the following:\n(a) applicable regulations and technical standards;\n(b) emission prevention;\n(c) recovery of fluorinated greenhouse gases listed in Annex I and in Section 1 of Annex II;\n(d) safe handling of equipment of the type and size covered by the certificate;\n(e) safe handling of equipment containing flammable or toxic gases or operating under high-pressure or involving other relevant risks;\n(f) the measures for improving or maintaining the energy efficiency of equipment during installation, or maintenance or servicing.\n6. The certification programmes and training on practical skills and theoretical knowledge provided for in paragraph 3 that concern aircraft shall be reflected in the process of updating the certification specifications and other detailed specifications, acceptable means of compliance and guidance material issued by the European Aviation Safety Agency pursuant to Article 76(3) and Article 115 of Regulation (EU) 2018/1139.\n7. Certificates under the certification programmes referred to in paragraph 3 shall be subject to the condition that the applicant has successfully completed an evaluation process as referred to in that paragraph.\n8. By 12 March 2026, the Commission shall, by means of implementing acts, establish the minimum requirements for certification programmes and training attestations referred to in paragraphs 3 and 4 for the activities referred to in paragraph 1. Those minimum requirements shall specify, for each type of equipment referred to in paragraph 1, the required practical skills and theoretical knowledge, differentiating, where appropriate, between different activities to be covered, the arrangements of the certification or attestation as well as the conditions for mutual recognition of certificates and training attestations. The Commission shall, by means of implementing acts, adapt, where necessary, such minimum requirements. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n9. Existing certificates and training attestations issued in accordance with Regulation (EU) No 517/2014 shall remain valid, in accordance with the conditions under which they were originally issued. By 12 March 2027, Member States shall ensure that certified natural persons are required to participate in refreshment training courses or complete an evaluation process referred to in paragraph 3, at least every 7 years. Member States shall ensure that natural persons who hold a certificate or training attestation under Regulation (EU) No 517/2014 shall participate in such refreshment training courses or complete such evaluation processes for the first time no later than 12 March 2029.\n10. Within 1 year following the entry into force of the implementing act under paragraph 8, Member States shall notify the Commission of their certification and training programmes.\nMember States shall recognise certificates and training attestations issued in another Member State in accordance with this Article. They shall not restrict the freedom to provide services or the freedom of establishment because a certificate was issued in another Member State.\n11. The Commission may, by means of implementing acts, determine the format of the notification referred to in paragraph 10. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n12. An undertaking shall only assign an activity referred to in paragraph 1 or 2 to another undertaking after verification that the latter holds the necessary certificates for the required activities referred to in paragraph 1 or 2, respectively.\n13. Where the obligations under this Article relating to the provision of certification and training would impose disproportionate burdens on a Member State because of the small size of its population and the consequent lack of demand for such certification and training, compliance may be achieved through the recognition of certificates issued in other Member States.\nMember States which apply the first subparagraph shall inform the Commission. The Commission shall thereafter inform the other Member States.\n14. This Article shall not prevent Member States from setting up further certification and training programmes in respect of equipment and activities other than those referred to in paragraph 1.",
+        "after": "Article 10\nCertification and training\n1. Natural persons shall be certified to carry out the following activities involving fluorinated greenhouse gases within the meaning of Article 4(7), Article 5(1) and Article 8(1), covering the fluorinated greenhouse gases specified therein, or involving relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant:\n(a) installation, maintenance or servicing, repair or decommissioning of the equipment listed in Article 5(2), points (a) to (f), and in Article 5(3), points (a) and (b);\n(b) leak checks of the equipment referred to in Article 5(2), points (a) to (e), and in Article 5(3), points (a) and (b);\n(c) recovery from equipment listed in Article 8(2), and in Article 8(3), point (a).\nNatural persons shall hold at least a training attestation to carry out the following activities involving fluorinated greenhouse gases within the meaning of Article 4(7), Article 5(1), Article 8(1), and Article 8(10), covering the fluorinated greenhouse gases specified therein, or involving relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant:\n(a) maintenance or servicing, or repair of air-conditioning equipment in motor vehicles falling within the scope of Directive 2006/40/EC, and recovering of fluorinated greenhouse gases from such equipment;\n(b) recovering fluorinated greenhouse gases from equipment listed in Article 8(3), points (b) and (c), and in Article 8(10), second subparagraph;\n(c) maintenance or servicing, repair and leak checks of equipment listed in Article 5(3), point (c).\n2. Legal persons shall be certified within the meaning of Article 4(7), covering the fluorinated greenhouse gases specified therein, to carry out the installation, maintenance or servicing, repair or decommissioning of the equipment listed in Article 5(2), points (a) to (e), and in Article 5(3), points (a) and (b), involving fluorinated greenhouse gases or relevant alternatives to fluorinated greenhouse gases, including natural refrigerants, where relevant.\n3. Within 1 year following the entry into force of the implementing act referred to in paragraph 8, Member States shall establish or adapt certification programmes, including evaluation processes, and ensure that training on practical skills and theoretical knowledge is available for natural persons carrying out the activities referred to in paragraph 1. Member States shall also ensure that training programmes for obtaining training attestations in accordance with paragraph 1, second subparagraph, are available.\n4. Within 1 year following the entry into force of the implementing act referred to in paragraph 8, Member States shall establish or adapt certification programmes for legal persons referred to in paragraph 2.\n5. The certification programmes and training on practical skills and theoretical knowledge provided for in paragraph 3 shall cover the following:\n(a) applicable regulations and technical standards;\n(b) emission prevention;\n(c) recovery of fluorinated greenhouse gases listed in Annex I and in Section 1 of Annex II;\n(d) safe handling of equipment of the type and size covered by the certificate;\n(e) safe handling of equipment containing flammable or toxic gases or operating under high-pressure or involving other relevant risks;\n(f) the measures for improving or maintaining the energy efficiency of equipment during installation, or maintenance or servicing.\n6. The certification programmes and training on practical skills and theoretical knowledge provided for in paragraph 3 that concern aircraft shall be reflected in the process of updating the certification specifications and other detailed specifications, acceptable means of compliance and guidance material issued by the European Aviation Safety Agency pursuant to Article 76(3) and Article 115 of Regulation (EU) 2018/1139.\n7. Certificates under the certification programmes referred to in paragraph 3 shall be subject to the condition that the applicant has successfully completed an evaluation process as referred to in that paragraph.\n8. By 12 March 2026, the Commission shall, by means of implementing acts, establish the minimum requirements for certification programmes and training attestations referred to in paragraphs 3 and 4 for the activities referred to in paragraph 1. Those minimum requirements shall specify, for each type of equipment referred to in paragraph 1, the required practical skills and theoretical knowledge, differentiating, where appropriate, between different activities to be covered, the arrangements of the certification or attestation as well as the conditions for mutual recognition of certificates and training attestations. The Commission shall, by means of implementing acts, adapt, where necessary, such minimum requirements. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n9. Existing certificates and training attestations issued in accordance with Regulation (EU) No 517/2014 shall remain valid, in accordance with the conditions under which they were originally issued. By 12 March 2027, Member States shall ensure that certified natural persons are required to participate in refresher courses or complete an evaluation process referred to in paragraph 3, at least every 7 years. Member States shall ensure that natural persons who hold a certificate or training attestation under Regulation (EU) No 517/2014 shall participate in such refresher courses or complete such evaluation processes for the first time no later than 12 March 2029.\n10. Within 1 year following the entry into force of the implementing act under paragraph 8, Member States shall notify the Commission of their certification and training programmes.\nMember States shall recognise certificates and training attestations issued in another Member State in accordance with this Article. They shall not restrict the freedom to provide services or the freedom of establishment because a certificate was issued in another Member State.\n11. The Commission may, by means of implementing acts, determine the format of the notification referred to in paragraph 10. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n12. An undertaking shall only assign an activity referred to in paragraph 1 or 2 to another undertaking after verification that the latter holds the necessary certificates for the required activities referred to in paragraph 1 or 2, respectively.\n13. Where the obligations under this Article relating to the provision of certification and training would impose disproportionate burdens on a Member State because of the small size of its population and the consequent lack of demand for such certification and training, compliance may be achieved through the recognition of certificates issued in other Member States.\nMember States which apply the first subparagraph shall inform the Commission. The Commission shall thereafter inform the other Member States.\n14. This Article shall not prevent Member States from setting up further certification and training programmes in respect of equipment and activities other than those referred to in paragraph 1.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 1 ALN 1",
+          "AR 10 PA 1 ALN 2",
+          "AR 10 PA 9 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 1's first subparagraph, the cross-reference for natural persons requiring certification changes from Article 8(2) to Article 8(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10",
+              "label": "Art. 10, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 1's second subparagraph, the cross-reference for natural persons requiring a training attestation is expanded from Article 8(3) alone to Article 8(1) and Article 8(10) together.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10",
+              "label": "Art. 10, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 9, the term \"refreshment training courses\" is replaced with \"refresher courses\" in both sentences where it appears.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10",
+              "label": "Art. 10, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 12"
+        },
+        "heading": "Labelling and product and equipment information",
+        "before": "Article 12\nLabelling and product and equipment information\n1. The following products and equipment that contain fluorinated greenhouse gases or whose functioning relies upon those gases shall only be placed on the market, subsequently supplied or made available to any other person, if they are labelled as:\n(a) refrigeration equipment;\n(b) air-conditioning equipment;\n(c) heat pumps;\n(d) fire protection equipment;\n(e) electrical switchgear;\n(f) aerosol dispenser that contain fluorinated greenhouse gases, including metered dose inhalers;\n(g) all fluorinated greenhouse gas containers;\n(h) fluorinated greenhouse gas-based solvents; or\n(i) organic Rankine cycles.\n2. Products or equipment that are subject to an exemption as referred to in Article 11(5) as well as products or equipment containing fluorinated greenhouse gases listed in Section 1 of Annex I that are subject to an exemption as referred to in Article 16(4) shall be labelled accordingly, specifying the end date of the exemption, and shall include a reference that those products or equipment may only be used for the purpose for which an exemption under that Article was granted.\n3. The label required pursuant to paragraph 1 shall indicate the following information:\n(a) an indication that the product or equipment contains fluorinated greenhouse gases or that its functioning relies upon such gases;\n(b) the accepted industry designation for the fluorinated greenhouse gases concerned or, if no such designation is available, the chemical name;\n(c) from 1 January 2017, the quantity expressed in weight and in CO2 equivalent of fluorinated greenhouse gases contained in the product or equipment, or the quantity of fluorinated greenhouse gases for which the equipment is designed, and the global warming potential of those gases.\nThe label shall indicate the following information, where applicable:\n(a) a reference that the fluorinated greenhouse gases are contained in hermetically sealed equipment;\n(b) a reference that the electrical switchgear has a tested leakage rate of less than 0,1 % per year as set out in the technical specification of the manufacturer.\nWhere products or equipment have been retrofitted and the fluorinated greenhouse gases have been changed, those products or equipment shall be relabelled with updated information as referred to in this paragraph.\n4. The label required pursuant to paragraph 1 shall be clearly legible and indelible and shall be placed either:\n(a) adjacent to the service ports for charging or recovering the fluorinated greenhouse gas; or\n(b) on that part of the product or equipment that contains the fluorinated greenhouse gas.\nThe label shall be written in the official languages of the Member State in which the good is to be placed on the market, made available or supplied.\n5. Foams and pre-blended polyols that contain fluorinated greenhouse gases listed in Annexes I and II shall not be placed on the market, made available or supplied unless the fluorinated greenhouse gases are identified with a label using the accepted industry designation or, if no such designation is available, the chemical name. The label shall clearly indicate that the foam or pre-blended polyol contains fluorinated greenhouse gases. In the case of foam panels and laminated boards, that information shall be clearly and indelibly stated on the panels or boards.\n6. Where relevant, refilled containers containing fluorinated greenhouse gases shall be relabelled with updated information as referred to in the first subparagraph of paragraph 3.\n7. Containers containing reclaimed or recycled fluorinated greenhouse gases listed in Annexes I and II shall be labelled with an indication that the substance has been reclaimed or recycled. In the case of reclamation, information on the batch number and the name and address of the reclamation facility in the Union shall be included.\n8. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for destruction shall be labelled with an indication that the contents of the container are for destruction only.\n9. Containers containing fluorinated greenhouse gases listed in Annex I and intended for direct export shall be labelled with an indication that the contents of the container are for direct export only.\n10. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for use in military equipment shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n11. Containers containing fluorinated greenhouse gases listed in Annexes I and II and placed on the market, made available or supplied for etching of semiconductor material or cleaning of chemicals vapour deposition chambers within the semiconductor manufacturing sector shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n12. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for feedstock use shall be labelled with an indication that the contents of the container are to be used as feedstock only.\n13. Containers containing fluorinated greenhouse gases listed in Section 1 of Annex I and placed on the market, made available or supplied for producing metered dose inhalers for the delivery of pharmaceutical ingredients shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n14. In the case of containers containing fluorinated greenhouse gases listed in Section 1 of Annex I, the label referred to in paragraphs 8 to 12 shall include the indication exempted from quota under Regulation (EU) 2024/573 of the European Parliament and of the Council.\nIn the absence of the labelling requirements referred to in the first subparagraph of this paragraph and in paragraphs 8 to 12, the hydrofluorocarbons shall be subject to the quota requirements pursuant to Article 16(1).\n15. In the cases referred to in points 2(b), 4, 5(c), 7(b), (c) and (d), 8(b) to (e), 9(b) to (f), 11(c), 16, 17(a), (b) and (c), and 19(a) and (b) of Annex IV, the product or equipment shall be labelled with an indication that it shall be used only where required by the safety requirements or national safety standards, as applicable. Those requirements or standards shall be specified on the label. In the cases referred to in points 19 and 21 of Annex IV, the product or equipment shall be labelled with an indication that the product or equipment is to be used only where required by the medical application specified on the label.\n16. The information referred to in paragraphs 3 and 5 shall be included in instruction manuals for the products and equipment concerned.\nIn the case of products and equipment that contain fluorinated greenhouse gases listed in Annexes I and II with a global warming potential of 150 or more, that information shall also be included in descriptions used for advertising.\n17. The Commission may, by means of implementing acts, determine the format of the labels referred to in paragraph 1 and paragraphs 4 to 15 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n18. The Commission is empowered to adopt delegated acts in accordance with Article 32 to amend the labelling requirements set out in paragraphs 4 to 15 of this Article where appropriate in view of commercial or technological development.",
+        "after": "Article 12\nLabelling and product and equipment information\n1. Products and equipment that contain fluorinated greenhouse gases or whose functioning relies upon those gases shall be placed on the market, subsequently supplied or made available to any other person, only if they are labelled. This applies to:\n(a) refrigeration equipment;\n(b) air-conditioning equipment;\n(c) heat pumps;\n(d) fire protection equipment;\n(e) electrical switchgear;\n(f) aerosol dispenser that contain fluorinated greenhouse gases, including metered dose inhalers;\n(g) all fluorinated greenhouse gas containers;\n(h) fluorinated greenhouse gas-based solvents; or\n(i) organic Rankine cycles.\n2. Products or equipment that are subject to an exemption as referred to in Article 11(5) as well as products or equipment containing fluorinated greenhouse gases listed in Section 1 of Annex I that are subject to an exemption as referred to in Article 16(4) shall be labelled accordingly, specifying the end date of the exemption, and shall include a reference that those products or equipment may only be used for the purpose for which an exemption under that Article was granted.\n3. The label required pursuant to paragraph 1 shall indicate the following information:\n(a) an indication that the product or equipment contains fluorinated greenhouse gases or that its functioning relies upon such gases;\n(b) the accepted industry designation for the fluorinated greenhouse gases concerned or, if no such designation is available, the chemical name;\n(c) from 1 January 2017, the quantity expressed in weight and in CO2 equivalent of fluorinated greenhouse gases contained in the product or equipment, or the quantity of fluorinated greenhouse gases for which the equipment is designed, and the global warming potential of those gases.\nThe label shall indicate the following information, where applicable:\n(a) a reference that the fluorinated greenhouse gases are contained in hermetically sealed equipment;\n(b) a reference that the electrical switchgear has a tested leakage rate of less than 0,1 % per year as set out in the technical specification of the manufacturer.\nWhere products or equipment have been retrofitted and the fluorinated greenhouse gases have been changed, those products or equipment shall be relabelled with updated information as referred to in this paragraph.\n4. The label required pursuant to paragraph 1 shall be clearly legible and indelible and shall be placed either:\n(a) adjacent to the service ports for charging or recovering the fluorinated greenhouse gas; or\n(b) on that part of the product or equipment that contains the fluorinated greenhouse gas.\nThe label shall be written in the official languages of the Member State in which the good is to be placed on the market, made available or supplied.\n5. Foams and pre-blended polyols that contain fluorinated greenhouse gases listed in Annexes I and II shall not be placed on the market, made available or supplied unless the fluorinated greenhouse gases are identified with a label using the accepted industry designation or, if no such designation is available, the chemical name. The label shall clearly indicate that the foam or pre-blended polyol contains fluorinated greenhouse gases. In the case of foam panels and laminated boards, that information shall be clearly and indelibly stated on the panels or boards.\n6. Where relevant, refilled containers containing fluorinated greenhouse gases shall be relabelled with updated information as referred to in the first subparagraph of paragraph 3.\n7. Containers containing reclaimed or recycled fluorinated greenhouse gases listed in Annexes I and II shall be labelled with an indication that the substance has been reclaimed or recycled. In the case of reclamation, information on the batch number and the name and address of the reclamation facility in the Union shall be included.\n8. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for destruction shall be labelled with an indication that the contents of the container are for destruction only.\n9. Containers containing fluorinated greenhouse gases listed in Annex I and intended for direct export shall be labelled with an indication that the contents of the container are for direct export only.\n10. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for use in military equipment shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n11. Containers containing fluorinated greenhouse gases listed in Annexes I and II and placed on the market, made available or supplied for etching of semiconductor material or cleaning of chemicals vapour deposition chambers within the semiconductor manufacturing sector shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n12. Containers containing fluorinated greenhouse gases listed in Annex I and placed on the market, made available or supplied for feedstock use shall be labelled with an indication that the contents of the container are to be used as feedstock only.\n13. Containers containing fluorinated greenhouse gases listed in Section 1 of Annex I and placed on the market, made available or supplied for producing metered dose inhalers for the delivery of pharmaceutical ingredients shall be labelled with an indication that the contents of the container are to be used for that purpose only.\n14. In the case of containers containing fluorinated greenhouse gases listed in Section 1 of Annex I, the label referred to in paragraphs 8 to 12 shall include the indication exempted from quota under Regulation (EU) 2024/573 of the European Parliament and of the Council.\nIn the absence of the labelling requirements referred to in the first subparagraph of this paragraph and in paragraphs 8 to 12, the hydrofluorocarbons shall be subject to the quota requirements pursuant to Article 16(1).\n15. In the cases referred to in points 2(b), 4, 5(c), 7(b), (c) and (d), 8(b) to (e), 9(b) to (f), 11(c), 16, 17(a), (b) and (c), and 19(a) and (b) of Annex IV, the product or equipment shall be labelled with an indication that it shall be used only where required by the safety requirements or national safety standards, as applicable. Those requirements or standards shall be specified on the label. In the cases referred to in points 19 and 21 of Annex IV, the product or equipment shall be labelled with an indication that the product or equipment is to be used only where required by the medical application specified on the label.\n16. The information referred to in paragraphs 3 and 5 shall be included in instruction manuals for the products and equipment concerned.\nIn the case of products and equipment that contain fluorinated greenhouse gases listed in Annexes I and II with a global warming potential of 150 or more, that information shall also be included in descriptions used for advertising.\n17. The Commission may, by means of implementing acts, determine the format of the labels referred to in paragraph 1 and paragraphs 4 to 15 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n18. The Commission is empowered to adopt delegated acts in accordance with Article 32 to amend the labelling requirements set out in paragraphs 4 to 15 of this Article where appropriate in view of commercial or technological development.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 12 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The opening sentence of paragraph 1 has been restructured, changing the phrasing from listing products and equipment that shall only be placed on the market if labelled as certain categories, to stating that such products and equipment shall be placed on the market only if labelled, followed by a separate sentence saying this applies to the listed categories.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_12",
+              "label": "Art. 12, 32024R0573"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12",
+              "label": "Art. 12, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "The list of categories itself, from refrigeration equipment through organic Rankine cycles, remains unchanged, as does the rest of Article 12.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12",
+              "label": "Art. 12, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 13"
+        },
+        "heading": "Control of use",
+        "before": "Article 13\nControl of use\n1. The use of SF6 in magnesium die-casting and in the recycling of magnesium die-casting alloys shall be prohibited.\n2. The use of SF6 to fill vehicle tyres shall be prohibited.\n3. The use of fluorinated greenhouse gases, with a global warming potential of 2500 or more, for the maintenance or servicing of refrigeration equipment with a charge size of 40 tonnes of CO2 equivalent or more, shall be prohibited. From 1 January 2025, the use of fluorinated greenhouse gases, with a global warming potential of 2500 or more, for the maintenance or servicing of any refrigeration equipment shall be prohibited.\nThe prohibitions referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C.\nThe prohibitions referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2030:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that they have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\nThe prohibitions referred to in the first subparagraph shall not apply to refrigeration equipment for which an exemption has been authorised in accordance with Article 11(5).\n4. From 1 January 2026, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 2500 or more, for the maintenance or servicing of air-conditioning equipment and heat pumps shall be prohibited.\nThe prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2032:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided those gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\n5. From 1 January 2032, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 750 or more, for the maintenance or servicing of stationary refrigeration equipment, with the exclusion of chillers, shall be prohibited.\nThe prohibition referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C or equipment intended for applications designed to cool nuclear power stations.\nThe prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided such gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\n6. Following a substantiated request by a competent authority of a Member State and taking into account the objectives of this Regulation, the Commission shall assess the availability of reclaimed and recycled fluorinated greenhouse gases falling within the scope of paragraphs 4 and 5. Where the Commission’s assessment points to a verified shortage of a reclaimed and recycled fluorinated greenhouse gas, the Commission may, exceptionally, by means of implementing acts, authorise an exemption from the prohibitions set out in paragraph 4 or 5, for up to 4 years, to the extent needed to address the shortage identified.\n7. From 1 January 2035, the use of SF6 for the maintenance or servicing of electrical switchgear equipment shall be prohibited unless it is reclaimed or recycled, except if it is proved that reclaimed or recycled SF6:\n(a) cannot be used on technical grounds; or\n(b) are not available in the event of an emergency repair situation.\nIn such cases, the user shall provide evidence, upon request, setting out the justification for use to the competent authority of the Member State concerned or to the Commission.\nThis paragraph shall not apply to military equipment.\n8. The use of desflurane as an inhalation anaesthetic shall be prohibited from 1 January 2026, except where such use is strictly required and no other anaesthetic can be used on medical grounds. The healthcare institution shall keep evidence of the medical justification, and provide it, upon request, to the competent authority of the Member State concerned or to the Commission.\n9. The putting into operation of the following electrical switchgear using, or whose functioning relies upon, fluorinated greenhouse gases in insulating or breaking medium shall be prohibited as follows:\n(a) from 1 January 2026, medium voltage electrical switchgear for primary and secondary distribution up to and including 24 kV;\n(b) from 1 January 2030, medium voltage electrical switchgear for primary and secondary distribution from more than 24 kV up to and including 52 kV;\n(c) from 1 January 2028, high voltage electrical switchgear from 52 kV up to and including 145 kV and up to and including 50 kA short circuit current, with a global warming potential of 1 or more;\n(d) from 1 January 2032, high voltage electrical switchgear of more than 145 kV or more than 50 kA short circuit current, with a global warming potential of 1 or more.\n10. The taking out of operation of an electrical switchgear which is operating within the Union and the subsequent putting into operation of that electrical switchgear at a different site in the Union shall not be considered as putting into operation for the purposes of this Article.\n11. By way of derogation from paragraph 9, the putting into operation of electrical switchgear using or whose functioning relies upon insulating or breaking medium with a global warming potential lower than 1000 is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned one of the following situations applies:\n(a) during the first 2 years after the relevant dates referred to in paragraph 9, points (a) and (b), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases were received;\n(b) during the first 2 years after the relevant dates referred to in paragraph 9, points (c) and (d), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one was received;\n(c) after the 2-year period referred to in point (a), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases; or\n(d) after the 2-year period referred to in point (b), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one.\n12. By way of derogation from paragraph 11, the putting into operation of electrical switchgear with insulating or breaking medium with a global warming potential of 1000 or more is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned, no bid was received for electrical switchgear with insulating or breaking medium with a global warming potential of less than 1000.\n13. Paragraph 9 shall not apply to electrical switchgear for which it has been established pursuant to ecodesign requirements adopted under Directive 2009/125/EC that its life cycle CO2 equivalent emissions would be lower than those of equivalent equipment which meets the relevant ecodesign requirements and would comply with the global warming potential limits in paragraph 9.\n14. Paragraph 9 shall not apply where the operator can provide evidence that the order for the electrical switchgear has been placed before 11 March 2024.\n15. Paragraph 9 shall not apply where the devices to extend existing electrical switchgear that use fluorinated greenhouse gases with a lower global warming potential than the fluorinated greenhouse gases used in the existing electrical switchgear are not compatible with the existing electrical switchgear, and the use of those devices would require the replacement of the existing entire electrical switchgear.\n16. Where a derogation listed in paragraph 10, 11, 12, 13, 14 or 15 applies, the operator shall keep documentation establishing the evidence for the derogation for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.\n17. The operator shall notify the competent authority in the Member State where the electrical switchgear is put into operation when applying a derogation listed in paragraph 11, 12, 14 or 15.\n18. Parts of equipment may be installed for repair or servicing of existing electrical switchgear provided that there is no change of the type of fluorinated greenhouse gas used that leads to an increase of the global warming potential of the fluorinated greenhouse gas used or an increase in the amount of fluorinated greenhouse gases contained in the equipment.\n19. The putting into operation of any equipment or utilisation of any product listed in points 2(b), 4, 5(c), 7(b), (c) and (d), 8(b) to (e), 9(b) to (f), 11(c), 17(c) and 19(b) of Annex IV after the respective prohibition date specified in those points shall be prohibited unless the operator can provide evidence that:\n(a) the relevant safety requirements at the particular location do not permit the installation of equipment using fluorinated greenhouse gases below the global warming potential value specified in the respective prohibitions; or\n(b) the equipment was placed on the market before the relevant prohibition date set out in Annex IV.\n20. The operator shall keep documentation establishing the evidence referred to in paragraph 19 for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.",
+        "after": "Article 13\nControl of use\n1. The use of SF6 in magnesium die-casting and in the recycling of magnesium die-casting alloys shall be prohibited.\n2. The use of SF6 to fill vehicle tyres shall be prohibited.\n3. The use of fluorinated greenhouse gases, with a global warming potential of 2500 or more, for the maintenance or servicing of refrigeration equipment with a charge size of 40 tonnes of CO2 equivalent or more, shall be prohibited. From 1 January 2025, the use of fluorinated greenhouse gases, with a global warming potential of 2500 or more, for the maintenance or servicing of any refrigeration equipment shall be prohibited.\nThe prohibitions referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C.\nThe prohibitions referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2030:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that they have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\nThe prohibitions referred to in the first subparagraph shall not apply to refrigeration equipment for which an exemption has been authorised in accordance with Article 11(5).\n4. From 1 January 2026, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 2500 or more, for the maintenance or servicing of air-conditioning equipment and heat pumps shall be prohibited.\nThe prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2032:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided those gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\n5. From 1 January 2032, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 750 or more, for the maintenance or servicing of stationary refrigeration equipment, with the exclusion of chillers, shall be prohibited.\nThe prohibition referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C or equipment intended for applications designed to cool nuclear power stations.\nThe prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases:\n(a) reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided that containers containing those gases have been labelled in accordance with Article 12(7);\n(b) recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided such gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.\n6. Following a substantiated request by a competent authority of a Member State and taking into account the objectives of this Regulation, the Commission shall assess the availability of reclaimed and recycled fluorinated greenhouse gases falling within the scope of paragraphs 4 and 5. Where the Commission’s assessment points to a verified shortage of a reclaimed and recycled fluorinated greenhouse gas, the Commission may, exceptionally, by means of implementing acts, authorise an exemption from the prohibitions set out in paragraph 4 or 5, for up to 4 years, to the extent needed to address the shortage identified. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n7. From 1 January 2035, the use of SF6 for the maintenance or servicing of electrical switchgear equipment shall be prohibited unless it is reclaimed or recycled, except if it is proved that reclaimed or recycled SF6:\n(a) cannot be used on technical grounds; or\n(b) are not available in the event of an emergency repair situation.\nIn such cases, the user shall provide evidence, upon request, setting out the justification for use to the competent authority of the Member State concerned or to the Commission.\nThis paragraph shall not apply to military equipment.\n8. The use of desflurane as an inhalation anaesthetic shall be prohibited from 1 January 2026, except where such use is strictly required and no other anaesthetic can be used on medical grounds. The healthcare institution shall keep evidence of the medical justification, and provide it, upon request, to the competent authority of the Member State concerned or to the Commission.\n9. The putting into operation of the following electrical switchgear using, or whose functioning relies upon, fluorinated greenhouse gases in insulating or breaking medium shall be prohibited as follows:\n(a) from 1 January 2026, medium voltage electrical switchgear for primary and secondary distribution up to and including 24 kV;\n(b) from 1 January 2030, medium voltage electrical switchgear for primary and secondary distribution from more than 24 kV up to and including 52 kV;\n(c) from 1 January 2028, high voltage electrical switchgear from more than 52 kV up to and including 145 kV and up to and including 50 kA short circuit current, with a global warming potential of 1 or more;\n(d) from 1 January 2032, high voltage electrical switchgear of more than 145 kV or more than 50 kA short circuit current, with a global warming potential of 1 or more.\n10. The taking out of operation of an electrical switchgear which is operating within the Union and the subsequent putting into operation of that electrical switchgear at a different site in the Union shall not be considered as putting into operation for the purposes of this Article.\n11. By way of derogation from paragraph 9, the putting into operation of electrical switchgear using or whose functioning relies upon fluorinated greenhouse gases as insulating or breaking medium with a global warming potential lower than 1000 is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned one of the following situations applies:\n(a) during the first 2 years after the relevant dates referred to in paragraph 9, points (a) and (b), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases were received;\n(b) during the first 2 years after the relevant dates referred to in paragraph 9, points (c) and (d), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one was received;\n(c) after the 2-year period referred to in point (a), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases; or\n(d) after the 2-year period referred to in point (b), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one.\n12. By way of derogation from paragraph 11, the putting into operation of electrical switchgear with insulating or breaking medium with a global warming potential of 1000 or more is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned, no bid was received for electrical switchgear with insulating or breaking medium with a global warming potential of less than 1000.\n13. Paragraph 9 shall not apply to electrical switchgear for which it has been established pursuant to ecodesign requirements adopted under Directive 2009/125/EC that its life cycle CO2 equivalent emissions would be lower than those of equivalent equipment which meets the relevant ecodesign requirements and would comply with the global warming potential limits in paragraph 9.\n14. Paragraph 9 shall not apply where the operator can provide evidence that the order for the electrical switchgear has been placed before 11 March 2024.\n15. Paragraph 9 shall not apply where the devices to extend existing electrical switchgear that use fluorinated greenhouse gases with a lower global warming potential than the fluorinated greenhouse gases used in the existing electrical switchgear are not compatible with the existing electrical switchgear, and the use of those devices would require the replacement of the existing entire electrical switchgear.\n16. Where a derogation listed in paragraph 10, 11, 12, 13, 14 or 15 applies, the operator shall keep documentation establishing the evidence for the derogation for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.\n17. The operator shall notify the competent authority in the Member State where the electrical switchgear is put into operation when applying a derogation listed in paragraph 11, 12, 14 or 15.\n18. Parts of equipment may be installed for repair or servicing of existing electrical switchgear provided that there is no change of the type of fluorinated greenhouse gas used that leads to an increase of the global warming potential of the fluorinated greenhouse gas used or an increase in the amount of fluorinated greenhouse gases contained in the equipment.\n19. The putting into operation of any equipment or utilisation of any product listed in points 2(b), 4, 5(c), 7(b), (c) and (d), 8(b) to (e), 9(b) to (f), 11(c), 17(c) and 19(b) of Annex IV after the respective prohibition date specified in those points shall be prohibited unless the operator can provide evidence that:\n(a) the relevant safety requirements at the particular location do not permit the installation of equipment or utilisation of products using fluorinated greenhouse gases below the global warming potential value specified in the respective prohibitions; or\n(b) the equipment or product was placed on the market before the relevant prohibition date set out in Annex IV.\n20. The operator shall keep documentation establishing the evidence referred to in paragraph 19 for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 6 ALN 1",
+          "AR 13 PA 9 ALN 1 PTA (c)",
+          "AR 13 PA 11 ALN 1",
+          "AR 13 PA 19 ALN 1 PTA (a)",
+          "AR 13 PA 19 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 now adds that the implementing acts authorising an exemption from the paragraph 4 or 5 prohibitions must be adopted in accordance with the examination procedure referred to in Article 34(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13",
+              "label": "Art. 13, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 9(c) now specifies that the high voltage electrical switchgear range covered runs from more than 52 kV, rather than from 52 kV, up to and including 145 kV.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13",
+              "label": "Art. 13, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 11's opening clause now refers to fluorinated greenhouse gases as the insulating or breaking medium, and paragraph 19(a) and (b) now refer to utilisation of products alongside equipment, wording not present in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13",
+              "label": "Art. 13, 02024R0573-20240220"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_13",
+              "label": "Art. 13, 32024R0573"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 22"
+        },
+        "heading": "Imports and exports",
+        "before": "Article 22\nImports and exports\n1. The import and export of fluorinated greenhouse gases, and products and equipment containing those gases or whose functioning relies upon those gases shall be subject to the presentation of a valid licence to customs authorities issued by the Commission pursuant to Article 20(4) and (5), except in the case of temporary storage.\nThis paragraph does not apply to products and equipment that are personal effects.\n2. Fluorinated greenhouse gases imported into the Union shall be considered as virgin gases.\n3. From 12 March 2025 the export of foams, technical aerosols, stationary refrigeration and stationary air-conditioning equipment and stationary heat pumps as referred to in Annex IV that contain, or whose functioning relies upon, fluorinated greenhouse gases with a GWP of 1000 or more shall be prohibited.\nThe prohibition set out in the first subparagraph shall not apply to military equipment or to products and equipment that can be placed on the market in the Union in accordance with Annex IV.\n4. By way of derogation from paragraph 3, the Commission may, by means of implementing acts, for cases of an exceptional nature, following a substantiated request by the competent authority of the Member State concerned, and taking into account the objectives of this Regulation, authorise the export of the products and equipment referred to paragraph 3, where it is demonstrated that in view of the economic value and the expected remaining lifetime of the specific good, the prohibition of export would impose a disproportionate burden on the exporter. Such exports shall only be allowed if they are in accordance with the national law of the country of destination.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n5. Undertakings with an establishment within the Union shall take all necessary measures to ensure that the export of refrigeration and air-conditioning equipment and of heat pumps, does not violate import restrictions that the importing state has notified under the Protocol.",
+        "after": "Article 22\nImports and exports\n1. The import and export of fluorinated greenhouse gases, and products and equipment containing fluorinated greenhouse gases shall be subject to the presentation of a valid licence to customs authorities issued by the Commission pursuant to Article 20(4) and (5), except in the case of temporary storage.\nThis paragraph does not apply to products and equipment that are personal effects.\n2. Fluorinated greenhouse gases imported into the Union shall be considered as virgin gases.\n3. From 12 March 2025 the export of foams, technical aerosols, stationary refrigeration and stationary air-conditioning equipment and stationary heat pumps as referred to in Annex IV that contain, or whose functioning relies upon, fluorinated greenhouse gases with a GWP of 1000 or more shall be prohibited.\nThe prohibition set out in the first subparagraph shall not apply to military equipment or to products and equipment that can be placed on the market in the Union in accordance with Annex IV.\n4. By way of derogation from paragraph 3, the Commission may, by means of implementing acts, for cases of an exceptional nature, following a substantiated request by the competent authority of the Member State concerned, and taking into account the objectives of this Regulation, authorise the export of the products and equipment referred to paragraph 3, where it is demonstrated that in view of the economic value and the expected remaining lifetime of the specific good, the prohibition of export would impose a disproportionate burden on the exporter. Such exports shall only be allowed if they are in accordance with the national law of the country of destination.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).\n5. Undertakings with an establishment within the Union shall take all necessary measures to ensure that the export of refrigeration and air-conditioning equipment and of heat pumps, does not violate import restrictions that the importing state has notified under the Protocol.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 22 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 1, the phrase describing products and equipment covered by the licence requirement was changed from referring to those 'containing those gases or whose functioning relies upon those gases' to simply 'containing fluorinated greenhouse gases', dropping the reference to equipment whose functioning relies upon such gases.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_22",
+              "label": "Art. 22, 32024R0573"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_22",
+              "label": "Art. 22, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 23"
+        },
+        "heading": "Trade controls",
+        "before": "Article 23\nTrade controls\n1. Customs authorities and market surveillance authorities shall enforce the prohibitions and other restrictions set out in this Regulation with regard to imports and exports.\n2. For the purposes of release for free circulation, the undertaking holding quota or authorisations to use quota as required under this Regulation, and registered in the F-gas Portal pursuant to Article 20 shall be the importer indicated in the customs declaration.\nFor the purpose of imports other than release for free circulation, the undertaking registered in the F-gas Portal pursuant to Article 20 shall be the declarant indicated in the customs declaration who is the holder of the authorisation for a special procedure other than transit, unless there is a transfer of rights and obligations pursuant to Article 218 of Regulation (EU) No 952/2013 to allow another person to be the declarant. In the case of transit procedure, the undertaking holding quota or authorisations to use quota as required under this Regulation shall be the holder of the procedure.\nFor the purposes of exports, the undertaking registered in the F-gas Portal pursuant to Article 20 shall be the exporter indicated in the customs declaration.\n3. In cases of imports of fluorinated greenhouse gases, and products and equipment containing those gases or whose functioning relies upon those gases, the importer or, where not available, the declarant, indicated in the customs declaration or in the temporary storage declaration, and in cases of exports the exporter indicated in the customs declaration, shall provide to customs authorities the following information, where relevant, in the customs declaration:\n(a) F-gas Portal registration identification number;\n(b) Economic Operators Registration and Identification (EORI) number;\n(c) net mass of bulk gases and of gases contained in products and equipment, and in parts thereof;\n(d) commodity code under which the goods are classified;\n(e) tonnes of CO2 equivalent of bulk gases and of gases contained in products or equipment, and in parts thereof.\n4. Customs authorities shall verify, in particular, whether in cases of release for free circulation the importer indicated in the customs declaration has quota or authorisations to use quota as required under this Regulation before releasing the goods for free circulation. Customs authorities shall ensure that in cases of imports the importer indicated in the customs declaration, or where not available, the declarant, and in cases of exports the exporter indicated in the customs declaration is registered in the F-gas Portal pursuant to Article 20.\n5. Where relevant, customs authorities shall communicate information regarding the customs clearance of goods to the F-gas Portal via the EU Single Window Environment for Customs.\n6. Importers of fluorinated greenhouse gases listed in Annex I and in Section 1 of Annex II in refillable containers shall make available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted a declaration of conformity as referred to in Article 11(4), including evidence confirming the arrangements in place for the return of the container for the purpose of refilling.\n7. Importers of fluorinated greenhouse gases shall make available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted the evidence referred to in Article 4(6).\n8. The declaration of conformity and the documentation referred to in Article 19(2) shall be made available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted.\n9. Customs authorities shall verify compliance with the rules on imports and exports set out in this Regulation, when carrying out the controls based on risk analysis in the context of the Customs Risk Management System and in accordance with Article 46 of Regulation (EU) No 952/2013. That risk analysis shall take into account, in particular, any available information on the likelihood of illegal trade in fluorinated greenhouse gases and the compliance history of the undertaking concerned.\n10. Based on risk analysis, when carrying out physical customs controls on the substances, products and equipment covered by this Regulation, the customs authority shall, in particular, verify the following on imports and exports:\n(a) that the goods presented correspond to those described in the licence and in the customs declaration;\n(b) that the product or equipment presented does not fall under the prohibitions referred to in Article 11(1) and (3);\n(c) that the goods are appropriately labelled in accordance with Article 12 before those goods are released for free circulation.\nThe importer or where the importer is not available, the declarant, or the exporter, as appropriate, shall make the licence available to customs authorities during the controls in accordance with Article 15 of Regulation (EU) No 952/2013.\n11. Customs authorities or market surveillance authorities shall take all necessary measures to prevent attempts to import or export the substances, products and equipment covered by this Regulation that were already not allowed to enter or exit the territory.\n12. Customs authorities shall confiscate or seize non-refillable containers as referred to in Article 11(3), second subparagraph, point (a), of this Regulation, that are prohibited by this Regulation for disposal by destruction in accordance with Articles 197 and 198 of Regulation (EU) No 952/2013 or shall inform the competent authorities in order to ensure the confiscation and seizure of such containers for disposal by destruction. Market surveillance authorities shall also withdraw or recall from the market such containers in accordance with Article 16 of Regulation (EU) 2019/1020.\nIn other cases, not referred to in the first subparagraph, of unlawful import, subsequent supply, or export carried out in violation of this Regulation, in particular where fluorinated greenhouse gases listed in Section 1 of Annex I are placed on the market in bulk or charged in products and equipment in violation of the quota and authorisation requirements set out in this Regulation, customs authorities or market surveillance authorities may take alternative measures. Such measures may include auctioning provided that the subsequent placing on the market is in accordance with this Regulation.\nThe export of fluorinated greenhouse gases listed in Section 1 of Annex I for which the non-compliance has been established after their release for free circulation, shall be prohibited.\n13. Member States shall designate or approve customs offices or other places and shall specify the route to those offices and places, in accordance with Articles 135 and 267 of Regulation (EU) No 952/2013, for the presentation to customs authorities of the fluorinated greenhouse gases listed in Annex I to, and of the products and equipment referred to in Article 19 of this Regulation, at their entry into or at their exit from the customs territory of the Union. Controls shall be carried out by customs office personnel or by other authorised persons in accordance with national rules, who are knowledgeable about matters related to the prevention of illegal activities covered by this Regulation and have access to suitable equipment to carry out the relevant physical controls based on risk analysis.\nOnly the designated or approved customs offices or other places referred to in the first subparagraph shall be authorised to open or end a transit procedure of the gases and products or equipment covered by this Regulation.",
+        "after": "Article 23\nTrade controls\n1. Customs authorities and market surveillance authorities shall enforce the prohibitions and other restrictions set out in this Regulation with regard to imports and exports.\n2. For the purposes of release for free circulation, the undertaking holding quota or authorisations to use quota as required under this Regulation, and registered in the F-gas Portal pursuant to Article 20 shall be the importer indicated in the customs declaration.\nFor the purpose of imports other than release for free circulation, the undertaking registered in the F-gas Portal pursuant to Article 20 shall be the declarant indicated in the customs declaration who is the holder of the authorisation for a special procedure other than transit, unless there is a transfer of rights and obligations pursuant to Article 218 of Regulation (EU) No 952/2013 to allow another person to be the declarant. In the case of transit procedure, the undertaking registered in the F-gas Portal pursuant to Article 20 shall be the holder of the procedure.\nFor the purposes of exports, the undertaking registered in the F-gas Portal pursuant to Article 20 shall be the exporter indicated in the customs declaration.\n3. In cases of imports of fluorinated greenhouse gases, and products and equipment containing those gases or whose functioning relies upon those gases, the importer or, where not available, the declarant, indicated in the customs declaration or in the temporary storage declaration, and in cases of exports the exporter indicated in the customs declaration, shall provide to customs authorities the following information, where relevant, in the customs declaration:\n(a) F-gas Portal registration identification number;\n(b) Economic Operators Registration and Identification (EORI) number;\n(c) net mass of bulk gases and of gases contained in products and equipment, and in parts thereof;\n(d) commodity code under which the goods are classified;\n(e) tonnes of CO2 equivalent of bulk gases and of gases contained in products or equipment, and in parts thereof.\n4. Customs authorities shall verify, in particular, whether in cases of release for free circulation the importer indicated in the customs declaration has quota or authorisations to use quota as required under this Regulation before releasing the goods for free circulation. Customs authorities shall ensure that in cases of imports the importer indicated in the customs declaration, or where not available, the declarant, and in cases of exports the exporter indicated in the customs declaration is registered in the F-gas Portal pursuant to Article 20.\n5. Where relevant, customs authorities shall communicate information regarding the customs clearance of goods to the F-gas Portal via the EU Single Window Environment for Customs.\n6. Importers of fluorinated greenhouse gases listed in Annex I and in Section 1 of Annex II in refillable containers shall make available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted a declaration of conformity as referred to in Article 11(4), including evidence confirming the arrangements in place for the return of the container for the purpose of refilling.\n7. Importers of fluorinated greenhouse gases shall make available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted the evidence referred to in Article 4(6).\n8. The declaration of conformity and the documentation referred to in Article 19(2) shall be made available to customs authorities at the time when the customs declaration related to the release for free circulation is submitted.\n9. Customs authorities shall verify compliance with the rules on imports and exports set out in this Regulation, when carrying out the controls based on risk analysis in the context of the Customs Risk Management System and in accordance with Article 46 of Regulation (EU) No 952/2013. That risk analysis shall take into account, in particular, any available information on the likelihood of illegal trade in fluorinated greenhouse gases and the compliance history of the undertaking concerned.\n10. Based on risk analysis, when carrying out physical customs controls on the substances, products and equipment covered by this Regulation, the customs authority shall, in particular, verify the following on imports and exports:\n(a) that the goods presented correspond to those described in the licence and in the customs declaration;\n(b) that the product or equipment presented does not fall under the prohibitions referred to in Article 11(1) and (3);\n(c) that the goods are appropriately labelled in accordance with Article 12 before those goods are released for free circulation.\nThe importer or where the importer is not available, the declarant, or the exporter, as appropriate, shall make the licence available to customs authorities during the controls in accordance with Article 15 of Regulation (EU) No 952/2013.\n11. Customs authorities or market surveillance authorities shall take all necessary measures to prevent attempts to import or export the substances, products and equipment covered by this Regulation that were already not allowed to enter or exit the territory.\n12. Customs authorities shall confiscate or seize non-refillable containers as referred to in Article 11(3), second subparagraph, point (a), of this Regulation, that are prohibited by this Regulation for disposal by destruction in accordance with Articles 197 and 198 of Regulation (EU) No 952/2013 or shall inform the competent authorities in order to ensure the confiscation and seizure of such containers for disposal by destruction. Market surveillance authorities shall also withdraw or recall from the market such containers in accordance with Article 16 of Regulation (EU) 2019/1020.\nIn other cases, not referred to in the first subparagraph, of unlawful import, subsequent supply, or export carried out in violation of this Regulation, in particular where fluorinated greenhouse gases listed in Section 1 of Annex I are placed on the market in bulk or charged in products and equipment in violation of the quota and authorisation requirements set out in this Regulation, customs authorities or market surveillance authorities may take alternative measures. Such measures may include auctioning provided that the subsequent placing on the market is in accordance with this Regulation.\nThe export of fluorinated greenhouse gases listed in Section 1 of Annex I for which the non-compliance has been established after their release for free circulation, shall be prohibited.\n13. Member States shall designate or approve customs offices or other places and shall specify the route to those offices and places, in accordance with Articles 135 and 267 of Regulation (EU) No 952/2013, for the presentation to customs authorities of the fluorinated greenhouse gases listed in Annex I to, and of the products and equipment referred to in Article 19 of this Regulation, at their entry into or at their exit from the customs territory of the Union. Controls shall be carried out by customs office personnel or by other authorised persons in accordance with national rules, who are knowledgeable about matters related to the prevention of illegal activities covered by this Regulation and have access to suitable equipment to carry out the relevant physical controls based on risk analysis.\nOnly the designated or approved customs offices or other places referred to in the first subparagraph shall be authorised to open or end a transit procedure of the gases and products or equipment covered by this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 23 PA 2 ALN 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the sentence describing the transit procedure, the identity of the undertaking treated as the holder of the procedure is now defined by reference to registration in the F-gas Portal pursuant to Article 20, rather than by holding quota or authorisations to use quota as required under the Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_23",
+              "label": "Art. 23, 32024R0573"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_23",
+              "label": "Art. 23, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AR 32"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 32\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 8(12), Article 12(18), Article 16(3), Article 17(6), Article 24(1), Article 25(2), Article 35(1) and Article 35(2) shall be conferred on the Commission for an indeterminate period of time from 11 March 2024.\n3. The delegation of power referred to in Article 8(12), Article 12(18), Article 16 (3), Article 17(6), Article 24(1), Article 25(2), Article 35(1) and Article 35(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 8(12), Article 12(18), Article 16(3), Article 17(6), Article 24(1), Article 25(2), Article 35(1) and Article 35(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 32\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 8(12), Article 12(18), Article 16(3), Article 17(6), Article 17(7), second subparagraph, Article 24(1), Article 25(2), Article 35(1) and Article 35(2) shall be conferred on the Commission for an indeterminate period of time from 11 March 2024.\n3. The delegation of power referred to in Article 8(12), Article 12(18), Article 16 (3), Article 17(6), Article 17(7), second subparagraph, Article 24(1), Article 25(2), Article 35(1) and Article 35(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 8(12), Article 12(18), Article 16(3), Article 17(6), Article 17(7), second subparagraph, Article 24(1), Article 25(2), Article 35(1) and Article 35(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 32 PA 2 ALN 1",
+          "AR 32 PA 3 ALN 1",
+          "AR 32 PA 6 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of provisions to which the delegated power relates is extended to include a reference to Article 17(7), second subparagraph, in the paragraph setting the duration of the delegation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32",
+              "label": "Art. 32, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "The same addition of Article 17(7), second subparagraph, is made to the paragraph on revocation of the delegated power.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32",
+              "label": "Art. 32, 02024R0573-20240220"
+            }
+          ]
+        },
+        {
+          "text": "The same addition of Article 17(7), second subparagraph, is made to the paragraph governing entry into force of delegated acts and the objection period.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32",
+              "label": "Art. 32, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R0573",
+            "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+          },
+          "version": "02024R0573-20240220",
+          "location": "AN IV"
+        },
+        "heading": "Placing on the market prohibitions referred to in Article 11(1)",
+        "before": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 for chillers above 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
+        "after": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 or more for chillers above a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
+        "previous_location": null,
+        "changed_within": [
+          "AN IV"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-02-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (7)(d) concerning chillers, the threshold gas is now described as a GWP of 750 'or more' rather than a flat GWP of 750, and the capacity qualifier is changed to chillers above a rated capacity of 12 kW rather than simply chillers above 12 kW.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AN IV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#anx_IV",
+              "label": "Annex IV, 32024R0573"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "02024R0573-20240220",
+                "location": "AN IV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#anx_IV",
+              "label": "Annex IV, 02024R0573-20240220"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32024R0573",
+      "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+    },
+    "from_version": "32024R0573",
+    "to_version": "02024R0573-20240220",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 10",
+          "AR 12",
+          "AR 13",
+          "AR 22",
+          "AR 23",
+          "AR 32",
+          "AN IV"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2024-02-20]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 7,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 51907,
+      "output_tokens": 1878,
+      "requests": 8,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 7,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 14,
+    "citations": 19,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
