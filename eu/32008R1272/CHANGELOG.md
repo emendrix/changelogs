@@ -10,6 +10,121 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20221217 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20220301` → `02008R1272-20221217`
+
+- **Act** `eu:32008R1272` · **In force** 2022-12-17 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20220301` · `v2` = `02008R1272-20221217`
+
+---
+
+**MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
+
+*within* `AN III SCT 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20220301`)
+
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+> 1. Part 1: hazard statements
+> The hazard statements shall be applied in accordance with Parts 2, 3, 4 and 5 of Annex I.
+> In selecting the hazard statements in accordance with Articles 21 and 27, suppliers may use the combined hazard statements provided for in this Annex.
+> In accordance with Article 27 the following principles of precedence for hazard statements may apply to labelling:
+> (a) if the hazard statement H410 Very toxic to aquatic life with long lasting effects is assigned, the statement H400 Very toxic to aquatic life may be omitted;
+> (b) if the statement H314 Causes severe skin burns and eye damage is assigned, the statement H318 Causes serious eye damage may be omitted.
+> In order to indicate the route of administration or exposure the combined hazard statements in Table 1.2 may be used.
+> Table 1.1
+> Hazard statements for physical hazards
+> The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
+> H200 Language 2.1 — Explosives, Unstable explosives
+> BG Нестабилен експлозив.
+> ES Explosivo inestable.
+> CS Nestabilní výbušnina.
+> DA Ustabilt eksplosiv.
+> DE Instabil, explosiv.
+> ET Ebapüsiv lõhkeaine.
+> EL Ασταθή εκρηκτικά.
+> EN Unstable explosives.
+> FR Explosif instable.
+> GA Pléascáin éagobhsaí.
+> HR Nestabilni eksplozivi.
+> IT Esplosivo instabile.
+> LV Nestabili sprādzienbīstami materiāli.
+> LT Nestabilios sprog […truncated by emendrix: 183774 characters omitted…]
+
+*after* (`02008R1272-20221217`)
+
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+> 1. Part 1: hazard statements
+> The hazard statements shall be applied in accordance with Parts 2, 3, 4 and 5 of Annex I.
+> In selecting the hazard statements in accordance with Articles 21 and 27, suppliers may use the combined hazard statements provided for in this Annex.
+> In accordance with Article 27 the following principles of precedence for hazard statements may apply to labelling:
+> (a) if the hazard statement H410 Very toxic to aquatic life with long lasting effects is assigned, the statement H400 Very toxic to aquatic life may be omitted;
+> (b) if the statement H314 Causes severe skin burns and eye damage is assigned, the statement H318 Causes serious eye damage may be omitted.
+> In order to indicate the route of administration or exposure the combined hazard statements in Table 1.2 may be used.
+> Table 1.1
+> Hazard statements for physical hazards
+> The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
+> H200 Language 2.1 — Explosives, Unstable explosives
+> BG Нестабилен експлозив.
+> ES Explosivo inestable.
+> CS Nestabilní výbušnina.
+> DA Ustabilt eksplosiv.
+> DE Instabil, explosiv.
+> ET Ebapüsiv lõhkeaine.
+> EL Ασταθή εκρηκτικά.
+> EN Unstable explosives.
+> FR Explosif instable.
+> GA Pléascáin éagobhsaí.
+> HR Nestabilni eksplozivi.
+> IT Esplosivo instabile.
+> LV Nestabili sprādzienbīstami materiāli.
+> LT Nestabilios sprog […truncated by emendrix: 183775 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 3` · *amended by* `32021R0849`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20220301`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2017101 characters omitted…]
+
+*after* (`02008R1272-20221217`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2024410 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20221217 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20220301 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20211001` → `02008R1272-20220301`
