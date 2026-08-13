@@ -10,6 +10,43 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200227 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20200101` → `02006R1907-20200227`
+
+- **Act** `eu:32006R1907` · **In force** 2020-02-27 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20200101` · `v2` = `02006R1907-20200227`
+
+---
+
+**MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XIV` · *dates* -2019-09-01 -2021-03-01 +2021-08-27 +2021-09-01 +2021-11-27 +2022-02-27 +2022-05-27 +2023-02-27 +2023-03-01 +2023-05-27 +2023-08-27 +2023-11-27 · *amended by* `32020R0171`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory transitional-arrangements text has been revised so that the repair-related spare-parts provisions now also cover complex products in addition to articles, and the two reference dates within that text were changed from 1 September 2019 and 1 March 2021 to 1 September 2021 and 1 March 2023 respectively. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
+
+The AFTER text adds eleven new numbered entries, 44 through 54, each listing a substance with its EC and CAS numbers, intrinsic properties, and latest application and sunset dates ranging from 27 August 2021 through 27 November 2023, which are not present in the BEFORE text. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
+
+Entries 1 through 43 remain textually identical between the two versions. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
+
+*before* (`02006R1907-20200101`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2019 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without that spare part, and for the use of the substance (on its own or in a mixture) for the repair of such articles where that substance on its own or in a mixture was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.1 March 2021 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without those spare parts, and for the use of the substance (on its own or in a mixture) for the repair of such articles, where that substance was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.Does not meet the criteria for identification as a carcinogen if it contains < 0,005 % (w/w) benzo[a]pyrene […truncated by emendrix: 7548 characters omitted…]
+
+*after* (`02006R1907-20200227`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 9815 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20200227 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200101 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20191030` → `02006R1907-20200101`
