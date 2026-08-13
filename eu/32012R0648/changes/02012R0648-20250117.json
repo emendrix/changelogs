@@ -1,0 +1,1652 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20241224",
+  "to_version": "02012R0648-20250117",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2025-01-17"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 10,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 10,
+    "unchanged_units": 132,
+    "disputed": 4
+  },
+  "counts": {
+    "touched": 10,
+    "substantive": 10,
+    "date_only": 0,
+    "disputed": 4,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 3"
+        },
+        "heading": "Intragroup transactions",
+        "before": "Article 3\nIntragroup transactions\n1. In relation to a non-financial counterparty, an intragroup transaction shall be an OTC derivative contract entered into with another counterparty which is part of the same group provided that the following conditions are met:\n(a) both counterparties are included in the same consolidation on a full basis and they are subject to appropriate centralised risk evaluation, measurement and control procedures; and\n(b) that other counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5.\n2. In relation to a financial counterparty, an intragroup transaction shall be any of the following:\n(a) an OTC derivative contract entered into with another counterparty which is part of the same group, provided that all of the following conditions are met:\n(i) the financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5;\n(ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;\n(iii) both counterparties are included in the same consolidation on a full basis; and\n(iv) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures;\n(b) an OTC derivative contract entered into with another counterparty where both counterparties are part of the same institutional protection scheme, referred to in Article 113(7) of Regulation (EU) No 575/2013, provided that the condition set out in point (a)(ii) of this paragraph is met;\n(c) an OTC derivative contract entered into between credit institutions affiliated to the same central body or between such credit institution and the central body, as referred to in Article 10(1) of Regulation (EU) No 575/2013;\n(d) an OTC derivative contract entered into with a non-financial counterparty which is part of the same group, provided that the following conditions are met:\n(i) both counterparties to the derivative contract are included in the same consolidation on a full basis and they are subject to appropriate centralised risk evaluation, measurement and control procedures; and\n(ii) the non-financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5.\n3. For the purposes of this Article, counterparties shall be considered to be included in the same consolidation when both counterparties are any of the following:\n(a) included in a consolidation in accordance with Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or with the International Financial Reporting Standards (IFRS) adopted pursuant to Regulation (EC) No 1606/2002 or, in relation to a group the parent undertaking of which has its head office in a third country, in accordance with generally accepted accounting principles of a third country determined to be equivalent to IFRS in accordance with Commission Regulation (EC) No 1569/2007Commission Regulation (EC) No 1569/2007 of 21 December 2007 establishing a mechanism for the determination of equivalence of accounting standards applied by third country issuers of securities pursuant to Directives 2003/71/EC and 2004/109/EC of the European Parliament and of the Council (OJ L 340, 22.12.2007, p. 66). (or accounting standards of a third country the use of which is permitted in accordance with Article 4 of that Regulation); or\n(b) covered by the same consolidated supervision in accordance with Directive 2013/36/EU or, in relation to a group the parent undertaking of which has its head office in a third country, the same consolidated supervision by a third-country competent authority verified as equivalent to that governed by the principles laid down in Article 127 of that Directive.\n4. For the purposes of this Article, transactions with counterparties established in any of the following third countries shall not benefit from any of the exemptions for intragroup transactions:\n(a) where the third country is a high-risk third country, as referred to in Article 29 of Regulation (EU) 2024/1624 of the European Parliament and of the CouncilRegulation (EU) 2024/1624 of the European Parliament and of the Council of 31 May 2024 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (OJ L, 2024/1624, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1624/oj).;\n(b) where the third country is listed in Annex I to the Council conclusions on the revised EU list of non-cooperative jurisdictions for tax purposes in its most up-to-date version.\n5. Where appropriate due to identified issues in the legal, supervisory and enforcement arrangements of a third country and where those issues result in increased risks, including counterparty credit risk and legal risk, the Commission is empowered to adopt delegated acts in accordance with Article 82 to supplement this Regulation by identifying the third countries whose entities are not permitted to benefit from any of the exemptions for intragroup transactions despite those third countries not being third countries as referred to in paragraph 4 of this Article.",
+        "after": "Article 3\nIntragroup transactions\n1. In relation to a non-financial counterparty, an intragroup transaction shall be an OTC derivative contract entered into with another counterparty which is part of the same group provided that the following conditions are met:\n(a) both counterparties are included in the same consolidation on a full basis and they are subject to appropriate centralised risk evaluation, measurement and control procedures; and\n(b) that other counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5.\n2. In relation to a financial counterparty, an intragroup transaction shall be any of the following:\n(a) an OTC derivative contract entered into with another counterparty which is part of the same group, provided that all of the following conditions are met:\n(i) the financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5;\n(ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;\n(iii) both counterparties are included in the same consolidation on a full basis; and\n(iv) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures;\n(b) an OTC derivative contract entered into with another counterparty where both counterparties are part of the same institutional protection scheme, referred to in Article 113(7) of Regulation (EU) No 575/2013, provided that the condition set out in point (a)(ii) of this paragraph is met;\n(c) an OTC derivative contract entered into between credit institutions affiliated to the same central body or between such credit institution and the central body, as referred to in Article 10(1) of Regulation (EU) No 575/2013;\n(d) an OTC derivative contract entered into with a non-financial counterparty which is part of the same group, provided that the following conditions are met:\n(i) both counterparties to the derivative contract are included in the same consolidation on a full basis and they are subject to appropriate centralised risk evaluation, measurement and control procedures; and\n(ii) the non-financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5.\n3. For the purposes of this Article, counterparties shall be considered to be included in the same consolidation when both counterparties are any of the following:\n(a) included in a consolidation in accordance with Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or with the International Financial Reporting Standards (IFRS) adopted pursuant to Regulation (EC) No 1606/2002 or, in relation to a group the parent undertaking of which has its head office in a third country, in accordance with generally accepted accounting principles of a third country determined to be equivalent to IFRS in accordance with Commission Regulation (EC) No 1569/2007Commission Regulation (EC) No 1569/2007 of 21 December 2007 establishing a mechanism for the determination of equivalence of accounting standards applied by third country issuers of securities pursuant to Directives 2003/71/EC and 2004/109/EC of the European Parliament and of the Council (OJ L 340, 22.12.2007, p. 66). (or accounting standards of a third country the use of which is permitted in accordance with Article 4 of that Regulation); or\n(b) covered by the same consolidated supervision in accordance with Directive 2013/36/EU or, in relation to a group the parent undertaking of which has its head office in a third country, the same consolidated supervision by a third-country competent authority verified as equivalent to that governed by the principles laid down in Article 127 of that Directive.\n4. For the purposes of this Article, transactions with counterparties established in any of the following third countries shall not benefit from any of the exemptions for intragroup transactions:\n(a) where the third country is a high-risk third country, as referred to in Article 9 of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73, ELI: http://data.europa.eu/eli/dir/2015/849/oj).;\n(b) where the third country is listed in Annex I to the Council conclusions on the revised EU list of non-cooperative jurisdictions for tax purposes in its most up-to-date version.\n5. Where appropriate due to identified issues in the legal, supervisory and enforcement arrangements of a third country and where those issues result in increased risks, including counterparty credit risk and legal risk, the Commission is empowered to adopt delegated acts in accordance with Article 82 to supplement this Regulation by identifying the third countries whose entities are not permitted to benefit from any of the exemptions for intragroup transactions despite those third countries not being third countries as referred to in paragraph 4 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 PA 4 ALN 1 PTA (a)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2024-05-31"
+        ],
+        "dates_added": [
+          "2015-05-20"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "14 annotations in (2024-12-24, 2025-01-17]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2554, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference identifying a high-risk third country in point (a) of paragraph 4 changed from citing Article 29 of Regulation (EU) 2024/1624 to citing Article 9 of Directive (EU) 2015/849.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3",
+              "label": "Art. 3, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_3",
+              "label": "Art. 3, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "The accompanying footnote description of the cited act was replaced accordingly, now naming Directive (EU) 2015/849 of 20 May 2015 with its own title and Official Journal reference instead of Regulation (EU) 2024/1624 of 31 May 2024.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3",
+              "label": "Art. 3, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_3",
+              "label": "Art. 3, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 4a"
+        },
+        "heading": "Financial counterparties that are subject to the clearing obligation",
+        "before": "Article 4a\nFinancial counterparties that are subject to the clearing obligation\n1. Every 12 months, a financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.\nWhere a financial counterparty does not calculate its positions, or where the result of that calculation exceeds any of the clearing thresholds specified pursuant to point (b) of Article 10(4), the financial counterparty shall:\n(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;\n(b) establish clearing arrangements within four months after the notification referred to in point (a) of this subparagraph; and\n(c) become subject to the clearing obligation referred to in Article 4 for all OTC derivative contracts pertaining to any class of OTC derivatives which is subject to the clearing obligation entered into or novated more than four months following the notification referred to in point (a) of this subparagraph.\n2. A financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1, shall remain subject to that obligation and shall continue clearing until that financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of Article 10(4).\nThe financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of that position.\n3. In calculating the positions referred to in paragraph 1, the financial counterparty shall include all OTC derivative contracts entered into by that financial counterparty or entered into by other entities within the group to which that financial counterparty belongs.\nNotwithstanding the first subparagraph, for UCITS and AIFs, the positions referred to in paragraph 1 shall be calculated at the level of the fund.\nUCITS management companies which manage more than one UCITSs and AIFMs which manage more than one AIF shall be able to demonstrate to the relevant competent authority that the calculation of positions at the fund level does not lead to:\n(a) a systematic underestimation of the positions of any of the funds they manage or the positions of the manager; and\n(b) a circumvention of the clearing obligation.\nThe relevant competent authorities of the financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.",
+        "after": "Article 4a\nFinancial counterparties that are subject to the clearing obligation\n1. Every 12 months, a financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.\nWhere a financial counterparty does not calculate its positions, or where the result of that calculation exceeds any of the clearing thresholds specified pursuant to point (b) of Article 10(4), the financial counterparty shall:\n(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;\n(b) establish clearing arrangements within four months after the notification referred to in point (a) of this subparagraph; and\n(c) become subject to the clearing obligation referred to in Article 4 for all OTC derivative contracts pertaining to any class of OTC derivatives which is subject to the clearing obligation entered into or novated more than four months following the notification referred to in point (a) of this subparagraph.\n2. A financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1, shall remain subject to that obligation and shall continue clearing until that financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of Article 10(4).\nThe financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of that position.\n3. In calculating the positions referred to in paragraph 1, the financial counterparty shall include all OTC derivative contracts entered into by that financial counterparty or entered into by other entities within the group to which that financial counterparty belongs.\nNotwithstanding the first subparagraph, for UCITS and AIFs, the positions referred to in paragraph 1 shall be calculated at the level of the fund.\nUCITS management companies which manage more than one UCITSs and AIFMs which manage more than one AIF shall be able to demonstrate to the relevant competent authority that the calculation of positions at the fund level does not lead to:\n(a) a systematic underestimation of the positions of any of the funds they manage or the positions of the manager; and\n(b) a circumvention of the clearing obligation.\nThe relevant competent authorities of the financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.\n4. ESMA, after having consulted the ESRB and other relevant authorities, shall develop draft regulatory technical standards to specify the value of the clearing thresholds applicable to aggregate positions where necessary to ensure the prudent coverage of financial counterparties under the clearing obligation.\nWhere ESMA, in accordance with Article 10(4a), reviews the clearing thresholds specified pursuant to Article 10(4), first subparagraph, point (b), ESMA shall also review the clearing threshold specified pursuant to the first subparagraph of this paragraph.\nESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 25 December 2025.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n5. For the purposes of this Article and Article 10, uncleared position means the aggregate month-end average position for the previous 12 months in OTC derivative contracts that are not cleared by a CCP authorised under Article 14 or recognised under Article 25.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4a PA 4",
+          "AR 4a PA 5"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [
+          "2025-12-25"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "14 annotations in (2024-12-24, 2025-01-17]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2554, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The after text adds a new paragraph 4 requiring ESMA, after consulting the ESRB and other relevant authorities, to develop draft regulatory technical standards specifying the value of clearing thresholds applicable to aggregate positions, to review that threshold when it reviews the thresholds under Article 10(4), and to submit those draft standards to the Commission by 25 December 2025, along with a delegation of power to the Commission to adopt them.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 4a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_4a",
+              "label": "Art. 4a, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "The after text also adds a new paragraph 5 defining an uncleared position, for the purposes of this Article and Article 10, as the aggregate month-end average position for the previous 12 months in OTC derivative contracts not cleared by a CCP authorised under Article 14 or recognised under Article 25.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 4a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_4a",
+              "label": "Art. 4a, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 through 3 remain worded the same as in the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 4a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_4a",
+              "label": "Art. 4a, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 4a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_4a",
+              "label": "Art. 4a, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 10"
+        },
+        "heading": "Non-financial counterparties",
+        "before": "Article 10\nNon-financial counterparties\n1. Every 12 months, a non-financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.\nWhere a non-financial counterparty does not calculate its positions, or where the result of that calculation in respect of one or more classes of OTC derivatives exceeds the clearing thresholds specified pursuant to point (b) of the first subparagraph of paragraph 4, that non-financial counterparty shall:\n(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;\n(b) establish clearing arrangements within four months of the notification referred to in point (a) of this subparagraph;\n(c) become subject to the clearing obligation referred to in Article 4 for the OTC derivative contracts entered into or novated more than four months following the notification referred to in point (a) of this subparagraph that pertain to those asset classes in respect of which the result of the calculation exceeds the clearing thresholds or, where the non-financial counterparty has not calculated its position, that pertain to any class of OTC derivatives which is subject to the clearing obligation.\n2. A non-financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1 of this Article, shall remain subject to that obligation and shall continue clearing until that non-financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of paragraph 4 of this Article.\nThe non-financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of the position.\n2a. The relevant competent authorities of the non-financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.\n3. In calculating the positions referred to in paragraph 1, the non-financial counterparty shall include all the OTC derivative contracts entered into by the non-financial counterparty or by other non-financial entities within the group to which the non-financial counterparty belongs, which are not objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of the non-financial counterparty or of that group.\n4. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards, after consulting the ESRB and other relevant authorities, specifying:\n(a) criteria for establishing which OTC derivative contracts are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity referred to in paragraph 3; and\n(b) values of the clearing thresholds, which are determined taking into account the systemic relevance of the sum of net positions and exposures per counterparty and per class of OTC derivatives.\nAfter conducting an open public consultation, ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\nAfter consulting the ESRB and other relevant authorities, ESMA shall periodically review the clearing thresholds referred to in point (b) of the first subparagraph and, where necessary taking into account, in particular, the interconnectedness of financial counterparties, propose to amend the regulatory technical standards in accordance with this paragraph.\nThat periodic review shall be accompanied by a report by ESMA on the subject.\n5. Each Member State shall designate an authority responsible for ensuring that the obligation under paragraph 1 is met.",
+        "after": "Article 10\nNon-financial counterparties\n1. Every 12 months, a non-financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.\nWhere a non-financial counterparty does not calculate its positions, or where the result of that calculation in respect of one or more classes of OTC derivatives exceeds the clearing thresholds specified pursuant to point (b) of the first subparagraph of paragraph 4, that non-financial counterparty shall:\n(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;\n(b) establish clearing arrangements within four months of the notification referred to in point (a) of this subparagraph;\n(c) become subject to the clearing obligation referred to in Article 4 for the OTC derivative contracts entered into or novated more than four months following the notification referred to in point (a) of this subparagraph that pertain to those asset classes in respect of which the result of the calculation exceeds the clearing thresholds or, where the non-financial counterparty has not calculated its position, that pertain to any class of OTC derivatives which is subject to the clearing obligation.\n2. A non-financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1 of this Article, shall remain subject to that obligation and shall continue clearing until that non-financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of paragraph 4 of this Article.\nThe non-financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of the position.\n2a. The relevant competent authorities of the non-financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.\n3. In calculating the positions referred to in paragraph 1, the non-financial counterparty shall include all the OTC derivative contracts entered into by the non-financial counterparty or by other non-financial entities within the group to which the non-financial counterparty belongs, which are not objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of the non-financial counterparty or of that group.\n4. ESMA, after having consulted the ESRB and other relevant authorities, shall develop draft regulatory technical standards to specify:\n(a) the criteria for establishing which OTC derivative contracts are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity referred to in paragraph 3;\n(b) the values of the clearing thresholds for uncleared positions, which are determined taking into account the calculation methodology set out in paragraph 3 of this Article and Article 4a(3), the systemic relevance of the sum of net positions and exposures per counterparty and per class of OTC derivatives; and\n(c) the mechanisms triggering a review of the values of the clearing thresholds, following significant price fluctuations in the underlying class of OTC derivatives or a significant increase of financial stability risks.\nESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 25 December 2025.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n4a. ESMA, in consultation with the ESRB, shall review the clearing thresholds referred to in paragraph 4, first subparagraph, point (b), of this Article and in Article 4a(4), taking into account, in particular, the interconnectedness of financial counterparties and the need to ensure the prudent coverage of financial counterparties under the clearing obligation. That review shall be conducted at least every two years, or earlier where necessary or where required under the mechanisms established under paragraph 4, first subparagraph, point (c). As a result of that review, ESMA may, in the regulatory technical standards adopted pursuant to paragraph 4, propose changes to the thresholds specified in the first subparagraph, point (b), of that paragraph. When reviewing the clearing thresholds, ESMA shall consider whether the classes of OTC derivatives, for which a clearing threshold has been set, are still the relevant classes of OTC derivatives or if new classes should be introduced.\nThat periodic review shall be accompanied by a report by ESMA on the subject.\n4b. The relevant competent authorities of the non-financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions and evaluate and assess the level of exposure in OTC derivative contracts at group level.\n5. Each Member State shall designate an authority responsible for ensuring that the obligations of non-financial counterparties under this Regulation are met. That authority, in cooperation with the authorities responsible for the other entities of the group, shall report to ESMA at least every two years, and more frequently where an emergency situation is identified under Article 24, on the outcome of the assessment of the level of exposure in OTC derivatives of the non-financial counterparties for which it is responsible. The authority responsible for the Union parent undertaking of the group to which the non-financial counterparty belongs shall report to ESMA, at least every two years, on the outcome of the assessment of the level of exposure in OTC derivatives of the group.\nAt least every two years from 24 December 2024, ESMA shall present a report to the European Parliament, the Council and the Commission on the activities of Union non-financial counterparties in OTC derivatives, identifying areas where there is a lack of convergence and coherence in the application of this Regulation as well as potential risks to the financial stability of the Union.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 4 ALN 1",
+          "AR 10 PA 4 ALN 1 PTA (a)",
+          "AR 10 PA 4 ALN 1 PTA (b)",
+          "AR 10 PA 4 ALN 1 PTA (c)",
+          "AR 10 PA 4 ALN 2",
+          "AR 10 PA 4 ALN 3",
+          "AR 10 PA 4 ALN 4",
+          "AR 10 PA 4 ALN 5",
+          "AR 10 PA 4a",
+          "AR 10 PA 4b",
+          "AR 10 PA 5 ALN 1",
+          "AR 10 PA 5 ALN 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2012-09-30"
+        ],
+        "dates_added": [
+          "2024-12-24",
+          "2025-12-25"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "14 annotations in (2024-12-24, 2025-01-17]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2554, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4 now instructs ESMA to specify a third element, the mechanisms triggering a review of clearing threshold values following significant price fluctuations or increased financial stability risks, in addition to the criteria and threshold values it previously covered, and the deadline for submitting the draft regulatory technical standards to the Commission changes from 30 September 2012 to 25 December 2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_10",
+              "label": "Art. 10, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_10",
+              "label": "Art. 10, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "The former paragraph 4 provisions on periodic review of clearing thresholds are replaced by a new paragraph 4a setting a review at least every two years or earlier where required, and a new paragraph 4b restates the cooperation-procedure obligation while adding evaluation and assessment of group-level exposure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_10",
+              "label": "Art. 10, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 5 is expanded so that the designated authority's duty is described by reference to non-financial counterparties' obligations under the Regulation generally, and new reporting duties are added requiring reports to ESMA at least every two years on exposure levels, together with an ESMA report to the European Parliament, the Council and the Commission at least every two years from 24 December 2024.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_10",
+              "label": "Art. 10, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 26"
+        },
+        "heading": "General provisions",
+        "before": "Article 26\nGeneral provisions\n1. A CCP shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.\nWithout prejudice to interoperability arrangements under Title V or the conduct of its investment policy in accordance with Article 47, a CCP shall not be or become a clearing member, a client, or establish indirect clearing arrangements with a clearing member with the aim of undertaking clearing activities at a CCP.\n2. A CCP shall adopt policies and procedures which are sufficiently effective so as to ensure compliance with this Regulation, including compliance of its managers and employees with all the provisions of this Regulation.\n3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures.\n4. A CCP shall maintain a clear separation between the reporting lines for risk management and those for the other operations of the CCP.\n5. A CCP shall adopt, implement and maintain a remuneration policy which promotes sound and effective risk management and which does not create incentives to relax risk standards.\n6. A CCP shall maintain information technology systems adequate to deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security and the integrity and confidentiality of the information maintained.\n7. A CCP shall make its governance arrangements, the rules governing the CCP, and its admission criteria for clearing membership, available publicly free of charge.\n8. The CCP shall be subject to frequent and independent audits. The results of those audits shall be communicated to the board of the CCP and shall be made available to ESMA and to the CCP’s competent authority.\n9. In order to ensure consistent application of this Article, ESMA, after consulting the members of the ESCB, shall develop draft regulatory technical standards specifying the minimum content of the rules and governance arrangements referred to in paragraphs 1 to 8.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 26\nGeneral provisions\n1. A CCP shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.\nWithout prejudice to interoperability arrangements under Title V or the conduct of its investment policy in accordance with Article 47, a CCP shall not be or become a clearing member, a client, or establish indirect clearing arrangements with a clearing member with the aim of undertaking clearing activities at a CCP.\n2. A CCP shall adopt policies and procedures which are sufficiently effective so as to ensure compliance with this Regulation, including compliance of its managers and employees with all the provisions of this Regulation.\n3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures, including ICT systems managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)..\n4. A CCP shall maintain a clear separation between the reporting lines for risk management and those for the other operations of the CCP.\n5. A CCP shall adopt, implement and maintain a remuneration policy which promotes sound and effective risk management and which does not create incentives to relax risk standards.\n6. A CCP shall maintain information technology systems adequate to deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security and the integrity and confidentiality of the information maintained.\n7. A CCP shall make its governance arrangements, the rules governing the CCP, and its admission criteria for clearing membership, available publicly free of charge.\n8. The CCP shall be subject to frequent and independent audits. The results of those audits shall be communicated to the board of the CCP and shall be made available to ESMA and to the CCP’s competent authority.\n9. In order to ensure consistent application of this Article, ESMA, after consulting the members of the ESCB, shall develop draft regulatory technical standards specifying the minimum content of the rules and governance arrangements referred to in paragraphs 1 to 8.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 26 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2022-12-14"
+        ],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R; 32022R2554 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (1) (a); AR 060 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 now adds a requirement that the systems, resources and procedures a CCP employs include ICT systems managed in accordance with Regulation (EU) 2022/2554 on digital operational resilience for the financial sector.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_26",
+              "label": "Art. 26, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "The remainder of the article, including paragraphs 1, 2 and 4 through 9, is unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_26",
+              "label": "Art. 26, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_26",
+              "label": "Art. 26, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 34"
+        },
+        "heading": "Business continuity",
+        "before": "Article 34\nBusiness continuity\n1. A CCP shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan aiming at ensuring the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations. Such a plan shall at least allow for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date.\n2. A CCP shall establish, implement and maintain an adequate procedure ensuring the timely and orderly settlement or transfer of the assets and positions of clients and clearing members in the event of a withdrawal of authorisation pursuant to a decision under Article 20.\n3. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the minimum content and requirements of the business continuity policy and of the disaster recovery plan.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 34\nBusiness continuity\n1. A CCP shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, which shall include ICT business continuity policy and ICT response and recovery plans put in place and implemented in accordance with Regulation (EU) 2022/2554, aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations.\n2. A CCP shall establish, implement and maintain an adequate procedure ensuring the timely and orderly settlement or transfer of the assets and positions of clients and clearing members in the event of a withdrawal of authorisation pursuant to a decision under Article 20.\n3. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the minimum content and requirements of the business continuity policy and of the disaster recovery plan, excluding ICT business continuity policy and disaster recovery plans.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 34 PA 1 ALN 1",
+          "AR 34 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (2) (a); AR 060 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now specifies that the business continuity policy and disaster recovery plan must include ICT business continuity policy and ICT response and recovery plans put in place and implemented in accordance with Regulation (EU) 2022/2554, while the earlier sentence about recovering all transactions at the time of disruption to allow continued operation and settlement on the scheduled date has been removed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_34",
+              "label": "Art. 34, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 now excludes ICT business continuity policy and disaster recovery plans from the scope of the regulatory technical standards that ESMA is to develop on the minimum content and requirements of the business continuity policy and disaster recovery plan.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_34",
+              "label": "Art. 34, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "The prior version of both paragraphs contained no such references to ICT business continuity or to Regulation (EU) 2022/2554.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_34",
+              "label": "Art. 34, 02012R0648-20241224"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 56"
+        },
+        "heading": "Application for registration",
+        "before": "Article 56\nApplication for registration\n1. For the purposes of Article 55(1), a trade repository shall submit either of the following to ESMA:\n(a) an application for registration;\n(b) an application for an extension of the registration where the trade repository is already registered under Chapter III of Regulation (EU) 2015/2365.\n2. ESMA shall assess whether the application is complete within 20 working days of receipt of the application.\nWhere the application is not complete, ESMA shall set a deadline by which the trade repository is to provide additional information.\nAfter assessing an application as complete, ESMA shall notify the trade repository accordingly.\n3. To ensure the consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the following:\n(a) the details of the application for the registration referred to in point (a) of paragraph 1;\n(b) the details of the simplified application for the extension of the registration referred to in point (b) of paragraph 1.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n4. To ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards specifying the following:\n(a) the format of the application for registration referred to in point (a) of paragraph 1;\n(b) the format of the application for an extension of the registration referred to in point (b) of paragraph 1.\nWith regard to point (b) of the first subparagraph, ESMA shall develop a simplified format.\nESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "after": "Article 56\nApplication for registration\n1. For the purposes of Article 55(1), a trade repository shall submit either of the following to ESMA:\n(a) an application for registration;\n(b) an application for an extension of the registration where the trade repository is already registered under Chapter III of Regulation (EU) 2015/2365.\n2. ESMA shall assess whether the application is complete within 20 working days of receipt of the application.\nWhere the application is not complete, ESMA shall set a deadline by which the trade repository is to provide additional information.\nAfter assessing an application as complete, ESMA shall notify the trade repository accordingly.\n3. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details, other than for requirements related to ICT risk management, of the application for registration referred to in paragraph 1.\n(a) the details of the application for the registration referred to in point (a) of paragraph 1;\n(b) the details of the simplified application for the extension of the registration referred to in point (b) of paragraph 1.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n4. To ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards specifying the following:\n(a) the format of the application for registration referred to in point (a) of paragraph 1;\n(b) the format of the application for an extension of the registration referred to in point (b) of paragraph 1.\nWith regard to point (b) of the first subparagraph, ESMA shall develop a simplified format.\nESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 56 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "UnexpectedModelBehavior: Exceeded maximum output retries (1)"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 79"
+        },
+        "heading": "Operational reliability",
+        "before": "Article 79\nOperational reliability\n1. A trade repository shall identify sources of operational risk and minimise them through the development of appropriate systems, controls and procedures. Such systems shall be reliable and secure and have adequate capacity to handle the information received.\n2. A trade repository shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan aiming at ensuring the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations. Such a plan shall at least provide for the establishment of backup facilities.\n3. A trade repository from which registration has been withdrawn shall ensure orderly substitution including the transfer of data to other trade repositories and the redirection of reporting flows to other trade repositories.",
+        "after": "Article 79\nOperational reliability\n1. A trade repository shall identify sources of operational risk and minimise them also through the development of appropriate systems, controls and procedures, including ICT systems managed in accordance with Regulation (EU) 2022/2554.\n2. A trade repository shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan including ICT business continuity policy and ICT response and recovery plans established in accordance with Regulation (EU) 2022/2554, aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations.\n3. A trade repository from which registration has been withdrawn shall ensure orderly substitution including the transfer of data to other trade repositories and the redirection of reporting flows to other trade repositories.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 79 PA 1 ALN 1",
+          "AR 79 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now specifies that the systems, controls and procedures a trade repository develops to identify and minimise operational risk sources include ICT systems managed in accordance with Regulation (EU) 2022/2554, and describes those systems as being developed 'also through' rather than simply 'through' such development, dropping the separate sentence on reliability, security and capacity to handle information.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 79"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_79",
+              "label": "Art. 79, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 79"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_79",
+              "label": "Art. 79, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 adds that the business continuity policy and disaster recovery plan must include an ICT business continuity policy and ICT response and recovery plans established under Regulation (EU) 2022/2554, and removes the earlier sentence requiring the plan to at least provide for backup facilities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 79"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_79",
+              "label": "Art. 79, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AR 79"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_79",
+              "label": "Art. 79, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AR 80"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AN I"
+        },
+        "heading": "ANNEX I",
+        "before": "ANNEX I\nList of infringements referred to in Article 65(1)\nI. Infringements relating to organisational requirements or conflicts of interest:\n(a) a trade repository infringes Article 78(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent the disclosure of confidential information;\n(b) a trade repository infringes Article 78(2) by not maintaining or operating effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, its employees, and any person directly or indirectly linked to them by close links;\n(c) a trade repository infringes Article 78(3) by not establishing adequate policies and procedures sufficient to ensure compliance, including that of its managers and employees, with all the provisions of this Regulation;\n(d) a trade repository infringes Article 78(4) by not maintaining or operating an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities;\n(e) a trade repository infringes Article 78(5) by not separating operationally its ancillary services from its function of centrally collecting and maintaining records of derivatives;\n(f) a trade repository infringes Article 78(6) by not ensuring that its senior management and the members of the board are of sufficiently good repute and experience so as to ensure the sound and prudent management of the trade repository;\n(g) a trade repository infringes Article 78(7) by not having objective non-discriminatory and publicly disclosed requirements for access by services providers and undertakings subject to the reporting obligation under Article 9;\n(h) a trade repository infringes Article 78(8) by not publicly disclosing the prices and fees associated with services provided under this Regulation, by not allowing reporting entities to access specific services separately or by charging prices and fees that are not cost related;\n(i) a trade repository infringes point (a) of Article 78(9) by not establishing adequate procedures for the effective reconciliation of data between trade repositories;\n(j) a trade repository infringes point (b) of Article 78(9) by not establishing adequate procedures to verify the completeness and correctness of the data reported;\n(k) a trade repository infringes point (c) of Article 78(9) by not establishing adequate policies for the orderly transfer of data to other trade repositories where requested by the counterparties and CCPs referred to in Article 9 or where otherwise necessary.\nII. Infringements relating to operational requirements:\n(a) a trade repository infringes Article 79(1) by not identifying sources of operational risk or by not minimising those risks through the development of appropriate systems, controls and procedures;\n(b) a trade repository infringes Article 79(2) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan aimed at ensuring the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations;\n(c) a trade repository infringes Article 80(1) by not ensuring the confidentiality, integrity or protection of the information received under Article 9;\n(d) a trade repository infringes Article 80(2) by using the data that it receives under this Regulation for commercial purposes without the relevant counterparties having provided their consent;\n(e) a trade repository infringes Article 80(3) by not promptly recording the information received under Article 9 or by not maintaining it for at least 10 years following the termination of the relevant contracts or by not employing timely and efficient record-keeping procedures to document changes to recorded information;\n(f) a trade repository infringes Article 80(4) by not calculating the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with Article 9;\n(g) a trade repository infringes Article 80(5) by not allowing the parties to a contract to access and correct the information on that contract in a timely manner;\n(h) a trade repository infringes Article 80(6) by not taking all reasonable steps to prevent any misuse of the information maintained in its systems.\nIII. Infringements relating to transparency and the availability of information:\n(a) a trade repository infringes Article 81(1) by not regularly publishing, in an easily accessible way, aggregate positions by class of derivatives on the contracts reported to it;\n(b) a trade repository infringes Article 81(2) by not allowing the entities referred to in Article 81(3) direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\nIV. Infringements relating to obstacles to the supervisory activities:\n(a) a trade repository infringes Article 61(1) by providing incorrect or misleading information in response to a simple request for information by ESMA in accordance with Article 61(2) or in response to a decision by ESMA requiring information in accordance with Article 61(3);\n(b) a trade repository provides incorrect or misleading answers to questions asked pursuant to Article 62(1)(c);\n(c) a trade repository does not comply in due time with a supervisory measure adopted by ESMA pursuant to Article 73;\n(d) a trade repository infringes Article 55(4) by not notifying ESMA in due time of any material changes to the conditions for its registration.",
+        "after": "ANNEX I\nList of infringements referred to in Article 65(1)\nI. Infringements relating to organisational requirements or conflicts of interest:\n(a) a trade repository infringes Article 78(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent the disclosure of confidential information;\n(b) a trade repository infringes Article 78(2) by not maintaining or operating effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, its employees, and any person directly or indirectly linked to them by close links;\n(c) a trade repository infringes Article 78(3) by not establishing adequate policies and procedures sufficient to ensure compliance, including that of its managers and employees, with all the provisions of this Regulation;\n(d) a trade repository infringes Article 78(4) by not maintaining or operating an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities;\n(e) a trade repository infringes Article 78(5) by not separating operationally its ancillary services from its function of centrally collecting and maintaining records of derivatives;\n(f) a trade repository infringes Article 78(6) by not ensuring that its senior management and the members of the board are of sufficiently good repute and experience so as to ensure the sound and prudent management of the trade repository;\n(g) a trade repository infringes Article 78(7) by not having objective non-discriminatory and publicly disclosed requirements for access by services providers and undertakings subject to the reporting obligation under Article 9;\n(h) a trade repository infringes Article 78(8) by not publicly disclosing the prices and fees associated with services provided under this Regulation, by not allowing reporting entities to access specific services separately or by charging prices and fees that are not cost related;\n(i) a trade repository infringes point (a) of Article 78(9) by not establishing adequate procedures for the effective reconciliation of data between trade repositories;\n(j) a trade repository infringes point (b) of Article 78(9) by not establishing adequate procedures to verify the completeness and correctness of the data reported;\n(k) a trade repository infringes point (c) of Article 78(9) by not establishing adequate policies for the orderly transfer of data to other trade repositories where requested by the counterparties and CCPs referred to in Article 9 or where otherwise necessary.\nII. Infringements relating to operational requirements:\n(a) a trade repository infringes Article 79(1) by not identifying sources of operational risk or by not minimising those risks through the development of appropriate systems, controls and procedures including ICT systems managed in accordance with Regulation (EU) 2022/2554;\n(b) a trade repository infringes Article 79(2) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan established in accordance with Regulation (EU) 2022/2554, aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations;\n(c) a trade repository infringes Article 80(1) by not ensuring the confidentiality, integrity or protection of the information received under Article 9;\n(d) a trade repository infringes Article 80(2) by using the data that it receives under this Regulation for commercial purposes without the relevant counterparties having provided their consent;\n(e) a trade repository infringes Article 80(3) by not promptly recording the information received under Article 9 or by not maintaining it for at least 10 years following the termination of the relevant contracts or by not employing timely and efficient record-keeping procedures to document changes to recorded information;\n(f) a trade repository infringes Article 80(4) by not calculating the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with Article 9;\n(g) a trade repository infringes Article 80(5) by not allowing the parties to a contract to access and correct the information on that contract in a timely manner;\n(h) a trade repository infringes Article 80(6) by not taking all reasonable steps to prevent any misuse of the information maintained in its systems.\nIII. Infringements relating to transparency and the availability of information:\n(a) a trade repository infringes Article 81(1) by not regularly publishing, in an easily accessible way, aggregate positions by class of derivatives on the contracts reported to it;\n(b) a trade repository infringes Article 81(2) by not allowing the entities referred to in Article 81(3) direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\nIV. Infringements relating to obstacles to the supervisory activities:\n(a) a trade repository infringes Article 61(1) by providing incorrect or misleading information in response to a simple request for information by ESMA in accordance with Article 61(2) or in response to a decision by ESMA requiring information in accordance with Article 61(3);\n(b) a trade repository provides incorrect or misleading answers to questions asked pursuant to Article 62(1)(c);\n(c) a trade repository does not comply in due time with a supervisory measure adopted by ESMA pursuant to Article 73;\n(d) a trade repository infringes Article 55(4) by not notifying ESMA in due time of any material changes to the conditions for its registration.",
+        "previous_location": null,
+        "changed_within": [
+          "AN I PTI (ii) PTA (a)",
+          "AN I PTI (ii) PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R; 32022R2554 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (6) (a); AR 060 (6) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point II(a), the description of systems, controls and procedures for identifying and minimising operational risk now adds a reference to ICT systems managed in accordance with Regulation (EU) 2022/2554.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#anx_I",
+              "label": "Annex I, 02012R0648-20250117"
+            }
+          ]
+        },
+        {
+          "text": "In point II(b), the business continuity policy and disaster recovery plan is now described as established in accordance with Regulation (EU) 2022/2554, and the wording changed from stating the plan is aimed at ensuring continuity to stating it is aiming to ensure continuity.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#anx_I",
+              "label": "Annex I, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#anx_I",
+              "label": "Annex I, 02012R0648-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20250117",
+          "location": "AN III"
+        },
+        "heading": "List of infringements referred to in Article 25j(1)",
+        "before": "ANNEX III\nList of infringements referred to in Article 25j(1)\nI. Infringements relating to capital requirements:\n(a) a Tier 2 CCP infringes Article 16(1) by not having a permanent and available initial capital of at least EUR 7,5 million;\n(b) a Tier 2 CCP infringes Article 16(2) by not having capital, including retained earnings and reserves, which is proportionate to the risk stemming from its activities and at all times sufficient to ensure an orderly winding-down or restructuring of that activities over an appropriate time span and an adequate protection of the CCP against credit, counterparty, market, operational, legal and business risks which are not already covered by specific financial resources as referred to in Articles 41 to 44.\nII. Infringements relating to organisational requirements or conflicts of interest:\n(a) a Tier 2 CCP infringes Article 26(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed and adequate internal control mechanisms, including sound administrative and accounting procedures or by becoming a clearing member, a client, or establishing indirect clearing arrangements with a clearing member with the aim to undertake clearing activities at another CCP, unless such clearing activities are undertaken under an interoperability arrangement under Title V or where conducting its investment policies under Article 47;\n(b) a Tier 2 CCP infringes Article 26(2) by not adopting policies and procedures which are sufficiently effective to ensure compliance including that of its managers and employees, with this Regulation;\n(c) a Tier 2 CCP infringes Article 26(3) by not maintaining or operating an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities or by not employing appropriate and proportionate systems, resources or procedures;\n(d) a Tier 2 CCP infringes Article 26(4) by not maintaining a clear separation between the reporting lines for risk management and those for other operations of the CCP;\n(e) a Tier 2 CCP infringes Article 26(5) by not adopting, implementing or maintaining a remuneration policy which promotes sound and effective risk management and which does not create incentives to relax risk standards;\n(f) a Tier 2 CCP infringes Article 26(6) by not maintaining information technology systems adequate to deal with the complexity, variety and type of services and activities performed to ensure high standards of security and the integrity and confidentiality of the information maintained;\n(g) a Tier 2 CCP infringes Article 26(7) by not making its governance arrangements, the rules governing the CCP, or its admission criteria for clearing membership available publicly free of charge;\n(h) a Tier 2 CCP infringes Article 26(8) by not being subject to frequent and independent audits or by not communicating the results of those audits to the board or by not making those results available to ESMA;\n(i) a Tier 2 CCP infringes Article 27(1) or the second subparagraph of Article 27(2) by not ensuring that its senior management and the members of the board are of sufficiently good repute and experience to ensure the sound and prudent management of the CCP;\n(j) a Tier 2 CCP infringes Article 27(2) by not ensuring that at least one third, but no less than two, of the members of that board are independent or by not inviting the representatives of the clients of clearing members to board meetings for matters relevant to Articles 38 and 39 or by linking the compensation of the independent and other non-executive members of the board to the business performance of the CCP;\n(k) a Tier 2 CCP infringes Article 27(3) by not clearly determining the roles and responsibilities of the board or by not making the minutes of the board meeting available to ESMA or the auditors;\n(l) a Tier 2 CCP infringes Article 28(1) by not establishing a risk committee or by not composing that risk committee of representatives of its clearing members, independent members of the board and representatives of its clients, by composing the risk committee in a way that one of those groups of representatives has a majority in the risk committee, or by not duly informing ESMA of the activities and decisions of the risk committee where ESMA has requested to be duly informed;\n(m) a Tier 2 CCP infringes Article 28(2) by not clearly determining the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria or the election mechanism of risk committee members or by not making those governance arrangements publicly available or by not determining that the risk committee is chaired by an independent member of the board and reports directly to the board and holds regular meetings;\n(n) a Tier 2 CCP infringes Article 28(3) by not allowing the risk committee to advise the board on any arrangements that may impact the risk management of the CCP or by not making reasonable efforts to consult the risk committee on developments impacting the risk management of the CCP in emergency situations;\n(o) a Tier 2 CCP infringes Article 28(5) by not promptly informing ESMA of any decision in which the board decides not to follow the advice of the risk committee;\n(p) a Tier 2 CCP infringes Article 29(1) by not maintaining all the records on the services and activity provided by that CCP for a period of at least 10 years, which are required to enable ESMA to monitor the CCP's compliance with this Regulation;\n(q) a Tier 2 CCP infringes Article 29(2) by not maintaining, for a period of at least 10 years following the termination of a contract, all information on all contracts it has processed in a way that enables the identification of the original terms of a transaction before clearing by that CCP;\n(r) a Tier 2 CCP infringes Article 29(3) by not making the records and information referred to in paragraphs 1 and 2 of Article 29, or all information on the positions of cleared contracts, irrespective of the venue where the transactions were executed, available upon request to ESMA and the relevant members of the ESCB;\n(s) a Tier 2 CCP infringes Article 30(1) by not, or by falsely or by incompletely, informing ESMA of the identities of its shareholders or members, whether direct or indirect, natural or legal, persons that have qualifying holdings or of the amounts of those holdings;\n(t) a Tier 2 CCP infringes Article 30(4) by allowing the persons referred to in Article 30(1) exercise an influence which is likely to be prejudicial to the sound and prudent management of the CCP;\n(u) a Tier 2 CCP infringes Article 31(1) by not, or by falsely or by incompletely, notifying ESMA of any change to its management or not providing ESMA with all information necessary to assess compliance with Article 27(1) or the second subparagraph of Article 27(2);\n(v) a Tier 2 CCP infringes Article 33(1) by not maintaining or operating effective written organisational and administrative arrangements to identify or manage any potential conflict of interest between itself, including its managers, employees or any person with direct or indirect control or close links, and its clearing members or their clients known to the CCP or by not maintaining or implementing adequate procedures aiming at resolving possible conflicts of interest;\n(w) a Tier 2 CCP infringes Article 33(2) by not clearly disclosing the general nature or sources of conflicts of interest, before accepting new transactions from the clearing member concerned, to the clearing member or to a concerned client of that clearing member who is known to the CCP where the organisational or administrative arrangements of that CCP to manage a conflict of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to the interest of a clearing member or client are prevented;\n(x) a Tier 2 CCP infringes Article 33(3) by not taking into account in its written arrangements any circumstances, of which it is or should be aware, which may give rise to a conflict of interest arising as a result of the structure and business activities of other undertakings with which it has a parent undertaking or a subsidiary relationship;\n(y) a Tier 2 CCP infringes Article 33(5) by not taking all reasonable steps to prevent any misuse of the information held in its systems or preventing the use of that information for other business activities, or by a natural person who has a close link to a CCP or a legal person that has a parent undertaking or a subsidiary relationship with the CCP using confidential information recorded in that CCP for any commercial purposes without the prior consent of the client to whom such confidential information belongs;\n(z) a Tier 2 CCP infringes Article 36(1) by not acting fairly and professionally in accordance with the best interests of its clearing members and their clients;\n(aa) a Tier 2 CCP infringes Article 36(2) by not having accessible, transparent and fair rules for the prompt handling of complaints;\n(ab) a Tier 2 CCP infringes Article 37(1) or (2) by using, on an ongoing basis, discriminatory, opaque or subjective admission criteria, or by otherwise failing to ensure fair and open access to that CCP on an ongoing basis or by failing to ensure on an ongoing basis that its clearing members have sufficient financial resources and operational capacity to meet the obligations arising from the participation in that CCP, or by not having admission criteria that ensure that CCPs or clearing houses cannot be clearing members, directly or indirectly, of the CCP, or by failing to conduct a comprehensive review of compliance by its clearing members on an annual basis;\n(aba) a Tier 2 CCP infringes Article 37(1a) by accepting non-financial counterparties as clearing members where such counterparties have not demonstrated how they intend to fulfil the margin requirements and default fund contributions, or by failing to review the arrangements established to monitor that the condition for such non-financial counterparties to act as clearing members is met;\n(ac) a Tier 2 CCP infringes Article 37(4) by failing to have objective and transparent procedures for the suspension and the orderly exit of clearing members that no longer meet the criteria referred to in Article 37(1);\n(ad) a Tier 2 CCP infringes Article 37(5) by denying access to a clearing member meeting the criteria referred to in Article 37(1) where such denial of access is not duly justified in writing and based on a comprehensive risk analysis;\n(ae) a Tier 2 CCP infringes Article 38(1) by not allowing the clients of its clearing members separate access to the specific services provided;\n(af) a Tier 2 CCP infringes Article 39(7) by not offering the different levels of segregation referred to in that paragraph on reasonable commercial terms.\nIII. Infringements relating to operational requirements:\n(a) a Tier 2 CCP infringes Article 34(1) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan aimed at ensuring the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP's obligations, which at least allows for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date;\n(b) a Tier 2 CCP infringes Article 34(2) by not establishing, implementing or maintaining an adequate procedure aimed at ensuring the timely and orderly settlement or transfer of the assets and positions of clients and clearing members in the event of withdrawal of recognition pursuant to a decision under Article 25;\n(c) a Tier 2 CCP infringes the second subparagraph of Article 35(1) by outsourcing major activities linked to the risk management of that CCP without ESMA's approval;\n(d) a Tier 2 CCP infringes Article 39(1) by not keeping separate records and accounts that enable it, at any time and without delay, to distinguish in accounts with the CCP the assets and positions held for the account of one clearing member from the assets and positions held for the account of any other clearing member and from its own assets;\n(e) a Tier 2 CCP infringes Article 39(2) by not offering to keep and not keeping where so requested separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the account of its clients;\n(f) a Tier 2 CCP infringes Article 39(3) by not offering to keep and not keeping where so requested separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients, or by not offering its clearing members the possibility to open more accounts in their own name for the account of their clients where so requested;\n(g) a Tier 2 CCP infringes Article 40 by not measuring and assessing its liquidity and credit exposures to each clearing member and, where relevant, to another CCP with which it has concluded an interoperability arrangement on a near to real-time basis or by not having access to the relevant pricing sources to effectively measure its exposures on a reasonable cost basis;\n(h) a Tier 2 CCP infringes Article 41(1) by not imposing, calling or collecting margins to limit its credit exposures from its clearing members or, where relevant, from CCPs with which it has concluded an interoperability arrangement, or by imposing, calling or collecting margins which are not sufficient to cover potential exposures that the CCP estimates to occur until the liquidation of the relevant positions or to cover losses that result at least 99 % of the exposures movements over an appropriate time horizon or sufficient to ensure that the CCP fully collateralises its exposures with all its clearing members and, where relevant, with all CCPs with which it has concluded an interoperability arrangement, at least on a daily basis, or, by failing to continuously monitor and revise the level of margins to reflect the current market conditions taking into account any potentially procyclical effects;\n(i) a Tier 2 CCP infringes Article 41(2) by failing to adopt models and parameters in setting its margin requirements that capture the risk characteristics of the products cleared taking into account the interval between margin collections, market liquidity and the possibility of changes over the duration of the transaction;\n(j) a Tier 2 CCP infringes Article 41(3) by not calling and collecting margins on an intraday basis, at least when predefined thresholds are exceeded or by holding intraday variation margin payments after it has collected all such payments due, instead of passing them on, where possible;\n(k) a Tier 2 CCP infringes Article 42(3) by not maintaining a default fund which at least enables it to withstand, under extreme but plausible market conditions, the default of the clearing member to which it has the largest exposures or of the second and third largest clearing members if the sum of their exposures are larger, or by developing scenarios that do not include the most volatile periods that have been experienced by the markets for which the CCP provides its services and a range of potential future scenarios, which take into account sudden sales of financial resources and rapid reductions in market liquidity;\n(l) a Tier 2 CCP infringes Article 43(2) where its default fund referred to in Article 42 and its other financial resources referred to in Article 43(1) do not enable it to withstand the default of the two clearing members to which it has the largest exposures under extreme but plausible market conditions;\n(m) a Tier 2 CCP infringes Article 44(1) by not having access at all times to adequate liquidity to perform its services and activities or by not measuring on a daily basis its potential liquidity needs;\n(n) a Tier 2 CCP infringes Article 45(1), (2) and (3) by not using the margins posted by a defaulting clearing member prior to other financial resources in covering losses;\n(o) a Tier 2 CCP infringes Article 45(4) by not using dedicated own resources before using the default fund contributions of non-defaulting clearing members;\n(oa) a Tier 2 CCP infringes Article 45a(1) by taking any of the actions listed under points (a), (b) and (c) of that paragraph where ESMA has required the CCP to refrain from taking any such actions for a period specified by ESMA;\n(p) a Tier 2 CCP infringes Article 46(1) by accepting anything other than highly liquid collateral with minimal credit and market risk to cover its initial and ongoing exposure to its clearing members where other collateral is not allowed under the delegated act adopted by the Commission under Article 46(3);\n(pa) a Tier 2 CCP infringes Article 46(1) by accepting public guarantees, public bank guarantees or commercial bank guarantees, where such guarantees are not unconditionally available upon request within the liquidation period referred to in Article 41, or by not setting, in its operating rules, the minimum acceptable level of collateralisation for the guarantees it accepts, or by accepting public guarantees, public bank guarantees or commercial bank guarantees to cover exposures other than its initial and ongoing exposure to its clearing members that are non-financial counterparties or to clients of clearing members, provided that those clients of clearing members are non-financial counterparties or by, where public guarantees, public bank guarantees or commercial bank guarantees are provided to the CCP, not complying with the requirements set out under the third subparagraph, points (a) to (e), of that paragraph;\n(q) a Tier 2 CCP infringes Article 47(1) by investing its financial resources other than in cash or highly liquid financial instruments with minimum market and credit risk and capable of being liquidated rapidly with minimal adverse price effect;\n(r) a Tier 2 CCP infringes Article 47(3) by not depositing financial instruments posted as margins or as default fund contributions with operators of securities settlement systems that ensure the full protection of those financial instruments where those are available or by not using other highly secure arrangements with authorised financial institutions;\n(s) a Tier 2 CCP infringes Article 47(4) by performing cash deposits other than through highly secure arrangements with authorised financial institutions or through the use of standing deposit facilities of central banks or other comparable means provided by central banks;\n(t) a Tier 2 CCP infringes Article 47(5) by depositing assets with a third party without ensuring that the assets belonging to the clearing members are identifiable separately from the assets belonging to the CCP and from assets belonging to that third party by means of differently titled accounts on the books of the third party or any other equivalent measures that achieve the same level of protection or by not having prompt access to the financial instruments when required;\n(u) a Tier 2 CCP infringes Article 47(6) by investing its capital or the sums arising from the requirements laid down in Articles 41 to 44 in its own securities or those of its parent undertaking or its subsidiary;\n(v) a Tier 2 CCP infringes Article 48(1) by not having detailed procedures in place to be followed where a clearing member does not comply with the participation requirements laid down in Article 37 within the time limit and in accordance with the procedures established by the CCP, or by not setting out in detail the procedures to be followed in the event the default of a clearing member is not declared by the CCP, or by not reviewing those procedures annually;\n(w) a Tier 2 CCP infringes Article 48(2) by failing to take prompt action to contain losses and liquidity pressures resulting from clearing member defaults and to ensure that the closing out of any clearing member's positions does not disrupt its operations or expose the non-defaulting clearing members to losses they cannot anticipate or control;\n(x) a Tier 2 CCP infringes Article 48(3) by failing to promptly inform ESMA before the default procedure is declared or triggered;\n(y) a Tier 2 CCP infringes Article 48(4) by not verifying that its default procedures are enforceable and not taking all reasonable steps to ensure that it has the legal powers to liquidate the proprietary positions of the defaulting clearing member and to transfer or liquidate the clients' positions of the defaulting clearing member;\n(z) a Tier 2 CCP infringes Article 49(1) by not regularly reviewing its models and parameters adopted to calculate its margin requirements, default fund contributions, collateral requirements or other risk control mechanisms; by not subjecting those models to rigorous and frequent stress tests to assess their resilience in extreme but plausible market conditions; by not performing back tests to assess the reliability of the methodology adopted; by failing to obtain independent validation; by failing to inform ESMA of the results of the tests performed; or by failing to obtain ESMA's validation before adopting any significant change to the models and parameters where ESMA did not allow for a provisional adoption of that change prior to its validation;\n(aa) a Tier 2 CCP infringes Article 49(2) by not regularly testing the key aspects of its default procedures or by failing to take all reasonable steps to ensure that all clearing members understand them and have appropriate arrangements in place to respond to a default event;\n(ab) a Tier 2 CCP infringes Article 50(1) by not using, where practical and available, central bank money to settle its transactions or by not taking steps to strictly limit cash settlement risks where central bank money is not used;\n(ac) a Tier 2 CCP infringes Article 50(3) by not eliminating principal risks through the use of delivery-versus-payment mechanisms to the extent possible, where that CCP has an obligation to make or receive deliveries of financial instruments;\n(ad) a Tier 2 CCP infringes Article 50a or Article 50b by not calculating KCCP as specified in those Articles or by not following the rules for the calculation of KCCP set out in Articles 50a(2), 50b and 50d;\n(ae) a Tier 2 CCP infringes Article 50a(3) by calculating KCCP less than quarterly or less frequently than required by ESMA in accordance with Article 50a(3);\n(af) a Tier 2 CCP infringes Article 51(2) by not having non-discriminatory access both to the data that it needs for the performance of its functions from a trading venue to the extent that the CCP complies with the operational and technical requirements established by that trading venue and to the relevant settlement system;\n(ag) a Tier 2 CCP infringes Article 52(1) by entering into an interoperability arrangement without fulfilling any of the requirements set out in points (a) to (d) of that paragraph;\n(ah) a Tier 2 CCP infringes Article 53(1) by not distinguishing in accounts the assets and positions held for the account of another CCP with whom it has entered into an interoperability arrangement;\n(ai) a Tier 2 CCP infringes Article 54(1) by entering into an interoperability arrangement, or making a material change to an approved interoperability arrangement under Title V, without the prior approval of ESMA.\nIV. Infringements relating to transparency and the availability of information:\n(a) a Tier 2 CCP infringes Article 38(1) by not publicly disclosing the prices and fees of each service provided separately including discounts and rebates and the conditions to benefit from those reductions;\n(b) a Tier 2 CCP infringes Article 38(1) by not disclosing the information on costs and revenues of its services to ESMA;\n(c) a Tier 2 CCP infringes Article 38(2) by not disclosing to its clearing members and their clients the risks associated with the services provided;\n(d) a Tier 2 CCP infringes Article 38(3) by not disclosing to its clearing members or ESMA the price information used to calculate its end-of-day exposures to its clearing members or by not publicly disclosing the volume of cleared transactions for each instrument cleared by the CCP on an aggregated basis;\n(e) a Tier 2 CCP infringes Article 38(4) by not publicly disclosing the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties including the operational and technical requirements referred to in Article 7;\n(f) a Tier 2 CCP infringes Article 38(5) by not publicly disclosing any breaches by clearing members of the criteria referred to in Article 37(1) or the requirements laid down in Article 38(1) except where ESMA considered that such a disclosure would constitute a threat to financial stability or to market confidence or would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved;\n(g) a Tier 2 CCP infringes Article 38(6) by not providing its clearing members with a simulation tool allowing them to determine the amount of additional initial margin, at portfolio level, that the CCP may require upon the clearing of a new transaction, including simulation of the margin requirements that they might be subject to under different scenarios, or by not making that tool accessible on a secured access basis;\n(h) a Tier 2 CCP infringes Article 38(7) by not providing its clearing members with information on the initial margin models it uses, as detailed in points (a), (b) and (c) of that paragraph, in a clear and transparent manner;\n(ha) a Tier 2 CCP infringes Article 38(8) by not providing, or providing with a significant delay, in response to a request by a clearing member, the information requested to allow that clearing member to comply with the first subparagraph of that paragraph, where such information has not already been provided;\n(i) a Tier 2 CCP infringes Article 39(7) by not publicly disclosing the levels of protection and the costs associated with the different levels of segregation that it provides;\n(j) a Tier 2 CCP infringes Article 49(3) by not publicly disclosing key aspects on its risk management model or assumptions adopted to perform the stress test referred to in Article 49(1);\n(k) a Tier 2 CCP infringes Article 50(2) by not clearly stating its obligations with respect to deliveries of financial instruments, including whether it has an obligation to make or receive delivery of a financial instrument or whether it indemnifies participants for losses incurred in the delivery process;\n(l) a Tier 2 CCP infringes Article 50c(1) by not reporting the information referred in points (a) to (e) of Article 50c(1) to those of its clearing members which are institutions or to their competent authorities;\n(m) a Tier 2 CCP infringes Article 50c(2) by notifying those of its clearing members which are institutions less than quarterly or less frequently than required by ESMA in accordance with Article 50c(2).\nV. Infringements relating to obstacles to the supervisory activities:\n(a) a CCP infringes Article 25f by failing to provide information in response to a decision requiring information pursuant to Article 25f(3), or by providing incorrect or misleading information in response to a simple request for information by ESMA in accordance with Article 25f(2) or in response to a decision by ESMA requiring information in accordance with Article 25f(3);\n(b) a Tier 2 CCP or its representatives provide incorrect or misleading answers to questions asked pursuant to point (c) of Article 25g(1);\n(c) a Tier 2 CCP infringes point (e) of Article 25g(1) by not complying with ESMA’s request for records of telephone or data traffic;\n(d) a Tier 2 CCP does not comply in due time with a supervisory measure required by a decision adopted by ESMA pursuant to Article 25q;\n(e) a Tier 2 CCP does not submit to an on-site inspection required by an inspection decision adopted by ESMA pursuant to Article 25h.",
+        "after": "ANNEX III\nList of infringements referred to in Article 25j(1)\nI. Infringements relating to capital requirements:\n(a) a Tier 2 CCP infringes Article 16(1) by not having a permanent and available initial capital of at least EUR 7,5 million;\n(b) a Tier 2 CCP infringes Article 16(2) by not having capital, including retained earnings and reserves, which is proportionate to the risk stemming from its activities and at all times sufficient to ensure an orderly winding-down or restructuring of that activities over an appropriate time span and an adequate protection of the CCP against credit, counterparty, market, operational, legal and business risks which are not already covered by specific financial resources as referred to in Articles 41 to 44.\nII. Infringements relating to organisational requirements or conflicts of interest:\n(a) a Tier 2 CCP infringes Article 26(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed and adequate internal control mechanisms, including sound administrative and accounting procedures or by becoming a clearing member, a client, or establishing indirect clearing arrangements with a clearing member with the aim to undertake clearing activities at another CCP, unless such clearing activities are undertaken under an interoperability arrangement under Title V or where conducting its investment policies under Article 47;\n(b) a Tier 2 CCP infringes Article 26(2) by not adopting policies and procedures which are sufficiently effective to ensure compliance including that of its managers and employees, with this Regulation;\n(c) a Tier 2 CCP infringes Article 26(3) by not maintaining or operating an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities or by not employing appropriate and proportionate systems, resources or procedures including ICT systems managed in accordance with Regulation (EU) 2022/2554;\n(d) a Tier 2 CCP infringes Article 26(4) by not maintaining a clear separation between the reporting lines for risk management and those for other operations of the CCP;\n(e) a Tier 2 CCP infringes Article 26(5) by not adopting, implementing or maintaining a remuneration policy which promotes sound and effective risk management and which does not create incentives to relax risk standards;\n(f) a Tier 2 CCP infringes Article 26(6) by not maintaining information technology systems adequate to deal with the complexity, variety and type of services and activities performed to ensure high standards of security and the integrity and confidentiality of the information maintained;\n(g) a Tier 2 CCP infringes Article 26(7) by not making its governance arrangements, the rules governing the CCP, or its admission criteria for clearing membership available publicly free of charge;\n(h) a Tier 2 CCP infringes Article 26(8) by not being subject to frequent and independent audits or by not communicating the results of those audits to the board or by not making those results available to ESMA;\n(i) a Tier 2 CCP infringes Article 27(1) or the second subparagraph of Article 27(2) by not ensuring that its senior management and the members of the board are of sufficiently good repute and experience to ensure the sound and prudent management of the CCP;\n(j) a Tier 2 CCP infringes Article 27(2) by not ensuring that at least one third, but no less than two, of the members of that board are independent or by not inviting the representatives of the clients of clearing members to board meetings for matters relevant to Articles 38 and 39 or by linking the compensation of the independent and other non-executive members of the board to the business performance of the CCP;\n(k) a Tier 2 CCP infringes Article 27(3) by not clearly determining the roles and responsibilities of the board or by not making the minutes of the board meeting available to ESMA or the auditors;\n(l) a Tier 2 CCP infringes Article 28(1) by not establishing a risk committee or by not composing that risk committee of representatives of its clearing members, independent members of the board and representatives of its clients, by composing the risk committee in a way that one of those groups of representatives has a majority in the risk committee, or by not duly informing ESMA of the activities and decisions of the risk committee where ESMA has requested to be duly informed;\n(m) a Tier 2 CCP infringes Article 28(2) by not clearly determining the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria or the election mechanism of risk committee members or by not making those governance arrangements publicly available or by not determining that the risk committee is chaired by an independent member of the board and reports directly to the board and holds regular meetings;\n(n) a Tier 2 CCP infringes Article 28(3) by not allowing the risk committee to advise the board on any arrangements that may impact the risk management of the CCP or by not making reasonable efforts to consult the risk committee on developments impacting the risk management of the CCP in emergency situations;\n(o) a Tier 2 CCP infringes Article 28(5) by not promptly informing ESMA of any decision in which the board decides not to follow the advice of the risk committee;\n(p) a Tier 2 CCP infringes Article 29(1) by not maintaining all the records on the services and activity provided by that CCP for a period of at least 10 years, which are required to enable ESMA to monitor the CCP's compliance with this Regulation;\n(q) a Tier 2 CCP infringes Article 29(2) by not maintaining, for a period of at least 10 years following the termination of a contract, all information on all contracts it has processed in a way that enables the identification of the original terms of a transaction before clearing by that CCP;\n(r) a Tier 2 CCP infringes Article 29(3) by not making the records and information referred to in paragraphs 1 and 2 of Article 29, or all information on the positions of cleared contracts, irrespective of the venue where the transactions were executed, available upon request to ESMA and the relevant members of the ESCB;\n(s) a Tier 2 CCP infringes Article 30(1) by not, or by falsely or by incompletely, informing ESMA of the identities of its shareholders or members, whether direct or indirect, natural or legal, persons that have qualifying holdings or of the amounts of those holdings;\n(t) a Tier 2 CCP infringes Article 30(4) by allowing the persons referred to in Article 30(1) exercise an influence which is likely to be prejudicial to the sound and prudent management of the CCP;\n(u) a Tier 2 CCP infringes Article 31(1) by not, or by falsely or by incompletely, notifying ESMA of any change to its management or not providing ESMA with all information necessary to assess compliance with Article 27(1) or the second subparagraph of Article 27(2);\n(v) a Tier 2 CCP infringes Article 33(1) by not maintaining or operating effective written organisational and administrative arrangements to identify or manage any potential conflict of interest between itself, including its managers, employees or any person with direct or indirect control or close links, and its clearing members or their clients known to the CCP or by not maintaining or implementing adequate procedures aiming at resolving possible conflicts of interest;\n(w) a Tier 2 CCP infringes Article 33(2) by not clearly disclosing the general nature or sources of conflicts of interest, before accepting new transactions from the clearing member concerned, to the clearing member or to a concerned client of that clearing member who is known to the CCP where the organisational or administrative arrangements of that CCP to manage a conflict of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to the interest of a clearing member or client are prevented;\n(x) a Tier 2 CCP infringes Article 33(3) by not taking into account in its written arrangements any circumstances, of which it is or should be aware, which may give rise to a conflict of interest arising as a result of the structure and business activities of other undertakings with which it has a parent undertaking or a subsidiary relationship;\n(y) a Tier 2 CCP infringes Article 33(5) by not taking all reasonable steps to prevent any misuse of the information held in its systems or preventing the use of that information for other business activities, or by a natural person who has a close link to a CCP or a legal person that has a parent undertaking or a subsidiary relationship with the CCP using confidential information recorded in that CCP for any commercial purposes without the prior consent of the client to whom such confidential information belongs;\n(z) a Tier 2 CCP infringes Article 36(1) by not acting fairly and professionally in accordance with the best interests of its clearing members and their clients;\n(aa) a Tier 2 CCP infringes Article 36(2) by not having accessible, transparent and fair rules for the prompt handling of complaints;\n(ab) a Tier 2 CCP infringes Article 37(1) or (2) by using, on an ongoing basis, discriminatory, opaque or subjective admission criteria, or by otherwise failing to ensure fair and open access to that CCP on an ongoing basis or by failing to ensure on an ongoing basis that its clearing members have sufficient financial resources and operational capacity to meet the obligations arising from the participation in that CCP, or by not having admission criteria that ensure that CCPs or clearing houses cannot be clearing members, directly or indirectly, of the CCP, or by failing to conduct a comprehensive review of compliance by its clearing members on an annual basis;\n(aba) a Tier 2 CCP infringes Article 37(1a) by accepting non-financial counterparties as clearing members where such counterparties have not demonstrated how they intend to fulfil the margin requirements and default fund contributions, or by failing to review the arrangements established to monitor that the condition for such non-financial counterparties to act as clearing members is met;\n(ac) a Tier 2 CCP infringes Article 37(4) by failing to have objective and transparent procedures for the suspension and the orderly exit of clearing members that no longer meet the criteria referred to in Article 37(1);\n(ad) a Tier 2 CCP infringes Article 37(5) by denying access to a clearing member meeting the criteria referred to in Article 37(1) where such denial of access is not duly justified in writing and based on a comprehensive risk analysis;\n(ae) a Tier 2 CCP infringes Article 38(1) by not allowing the clients of its clearing members separate access to the specific services provided;\n(af) a Tier 2 CCP infringes Article 39(7) by not offering the different levels of segregation referred to in that paragraph on reasonable commercial terms.\nIII. Infringements relating to operational requirements:\n(a) a Tier 2 CCP infringes Article 34(1) by not establishing, implementing or maintaining an adequate business continuity policy and response and recovery plan set up in accordance with Regulation (EU) 2022/2554, aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations, which at least allows for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date;\n(b) a Tier 2 CCP infringes Article 34(2) by not establishing, implementing or maintaining an adequate procedure aimed at ensuring the timely and orderly settlement or transfer of the assets and positions of clients and clearing members in the event of withdrawal of recognition pursuant to a decision under Article 25;\n(c) a Tier 2 CCP infringes the second subparagraph of Article 35(1) by outsourcing major activities linked to the risk management of that CCP without ESMA's approval;\n(d) a Tier 2 CCP infringes Article 39(1) by not keeping separate records and accounts that enable it, at any time and without delay, to distinguish in accounts with the CCP the assets and positions held for the account of one clearing member from the assets and positions held for the account of any other clearing member and from its own assets;\n(e) a Tier 2 CCP infringes Article 39(2) by not offering to keep and not keeping where so requested separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the account of its clients;\n(f) a Tier 2 CCP infringes Article 39(3) by not offering to keep and not keeping where so requested separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients, or by not offering its clearing members the possibility to open more accounts in their own name for the account of their clients where so requested;\n(g) a Tier 2 CCP infringes Article 40 by not measuring and assessing its liquidity and credit exposures to each clearing member and, where relevant, to another CCP with which it has concluded an interoperability arrangement on a near to real-time basis or by not having access to the relevant pricing sources to effectively measure its exposures on a reasonable cost basis;\n(h) a Tier 2 CCP infringes Article 41(1) by not imposing, calling or collecting margins to limit its credit exposures from its clearing members or, where relevant, from CCPs with which it has concluded an interoperability arrangement, or by imposing, calling or collecting margins which are not sufficient to cover potential exposures that the CCP estimates to occur until the liquidation of the relevant positions or to cover losses that result at least 99 % of the exposures movements over an appropriate time horizon or sufficient to ensure that the CCP fully collateralises its exposures with all its clearing members and, where relevant, with all CCPs with which it has concluded an interoperability arrangement, at least on a daily basis, or, by failing to continuously monitor and revise the level of margins to reflect the current market conditions taking into account any potentially procyclical effects;\n(i) a Tier 2 CCP infringes Article 41(2) by failing to adopt models and parameters in setting its margin requirements that capture the risk characteristics of the products cleared taking into account the interval between margin collections, market liquidity and the possibility of changes over the duration of the transaction;\n(j) a Tier 2 CCP infringes Article 41(3) by not calling and collecting margins on an intraday basis, at least when predefined thresholds are exceeded or by holding intraday variation margin payments after it has collected all such payments due, instead of passing them on, where possible;\n(k) a Tier 2 CCP infringes Article 42(3) by not maintaining a default fund which at least enables it to withstand, under extreme but plausible market conditions, the default of the clearing member to which it has the largest exposures or of the second and third largest clearing members if the sum of their exposures are larger, or by developing scenarios that do not include the most volatile periods that have been experienced by the markets for which the CCP provides its services and a range of potential future scenarios, which take into account sudden sales of financial resources and rapid reductions in market liquidity;\n(l) a Tier 2 CCP infringes Article 43(2) where its default fund referred to in Article 42 and its other financial resources referred to in Article 43(1) do not enable it to withstand the default of the two clearing members to which it has the largest exposures under extreme but plausible market conditions;\n(m) a Tier 2 CCP infringes Article 44(1) by not having access at all times to adequate liquidity to perform its services and activities or by not measuring on a daily basis its potential liquidity needs;\n(n) a Tier 2 CCP infringes Article 45(1), (2) and (3) by not using the margins posted by a defaulting clearing member prior to other financial resources in covering losses;\n(o) a Tier 2 CCP infringes Article 45(4) by not using dedicated own resources before using the default fund contributions of non-defaulting clearing members;\n(oa) a Tier 2 CCP infringes Article 45a(1) by taking any of the actions listed under points (a), (b) and (c) of that paragraph where ESMA has required the CCP to refrain from taking any such actions for a period specified by ESMA;\n(p) a Tier 2 CCP infringes Article 46(1) by accepting anything other than highly liquid collateral with minimal credit and market risk to cover its initial and ongoing exposure to its clearing members where other collateral is not allowed under the delegated act adopted by the Commission under Article 46(3);\n(pa) a Tier 2 CCP infringes Article 46(1) by accepting public guarantees, public bank guarantees or commercial bank guarantees, where such guarantees are not unconditionally available upon request within the liquidation period referred to in Article 41, or by not setting, in its operating rules, the minimum acceptable level of collateralisation for the guarantees it accepts, or by accepting public guarantees, public bank guarantees or commercial bank guarantees to cover exposures other than its initial and ongoing exposure to its clearing members that are non-financial counterparties or to clients of clearing members, provided that those clients of clearing members are non-financial counterparties or by, where public guarantees, public bank guarantees or commercial bank guarantees are provided to the CCP, not complying with the requirements set out under the third subparagraph, points (a) to (e), of that paragraph;\n(q) a Tier 2 CCP infringes Article 47(1) by investing its financial resources other than in cash or highly liquid financial instruments with minimum market and credit risk and capable of being liquidated rapidly with minimal adverse price effect;\n(r) a Tier 2 CCP infringes Article 47(3) by not depositing financial instruments posted as margins or as default fund contributions with operators of securities settlement systems that ensure the full protection of those financial instruments where those are available or by not using other highly secure arrangements with authorised financial institutions;\n(s) a Tier 2 CCP infringes Article 47(4) by performing cash deposits other than through highly secure arrangements with authorised financial institutions or through the use of standing deposit facilities of central banks or other comparable means provided by central banks;\n(t) a Tier 2 CCP infringes Article 47(5) by depositing assets with a third party without ensuring that the assets belonging to the clearing members are identifiable separately from the assets belonging to the CCP and from assets belonging to that third party by means of differently titled accounts on the books of the third party or any other equivalent measures that achieve the same level of protection or by not having prompt access to the financial instruments when required;\n(u) a Tier 2 CCP infringes Article 47(6) by investing its capital or the sums arising from the requirements laid down in Articles 41 to 44 in its own securities or those of its parent undertaking or its subsidiary;\n(v) a Tier 2 CCP infringes Article 48(1) by not having detailed procedures in place to be followed where a clearing member does not comply with the participation requirements laid down in Article 37 within the time limit and in accordance with the procedures established by the CCP, or by not setting out in detail the procedures to be followed in the event the default of a clearing member is not declared by the CCP, or by not reviewing those procedures annually;\n(w) a Tier 2 CCP infringes Article 48(2) by failing to take prompt action to contain losses and liquidity pressures resulting from clearing member defaults and to ensure that the closing out of any clearing member's positions does not disrupt its operations or expose the non-defaulting clearing members to losses they cannot anticipate or control;\n(x) a Tier 2 CCP infringes Article 48(3) by failing to promptly inform ESMA before the default procedure is declared or triggered;\n(y) a Tier 2 CCP infringes Article 48(4) by not verifying that its default procedures are enforceable and not taking all reasonable steps to ensure that it has the legal powers to liquidate the proprietary positions of the defaulting clearing member and to transfer or liquidate the clients' positions of the defaulting clearing member;\n(z) a Tier 2 CCP infringes Article 49(1) by not regularly reviewing its models and parameters adopted to calculate its margin requirements, default fund contributions, collateral requirements or other risk control mechanisms; by not subjecting those models to rigorous and frequent stress tests to assess their resilience in extreme but plausible market conditions; by not performing back tests to assess the reliability of the methodology adopted; by failing to obtain independent validation; by failing to inform ESMA of the results of the tests performed; or by failing to obtain ESMA's validation before adopting any significant change to the models and parameters where ESMA did not allow for a provisional adoption of that change prior to its validation;\n(aa) a Tier 2 CCP infringes Article 49(2) by not regularly testing the key aspects of its default procedures or by failing to take all reasonable steps to ensure that all clearing members understand them and have appropriate arrangements in place to respond to a default event;\n(ab) a Tier 2 CCP infringes Article 50(1) by not using, where practical and available, central bank money to settle its transactions or by not taking steps to strictly limit cash settlement risks where central bank money is not used;\n(ac) a Tier 2 CCP infringes Article 50(3) by not eliminating principal risks through the use of delivery-versus-payment mechanisms to the extent possible, where that CCP has an obligation to make or receive deliveries of financial instruments;\n(ad) a Tier 2 CCP infringes Article 50a or Article 50b by not calculating KCCP as specified in those Articles or by not following the rules for the calculation of KCCP set out in Articles 50a(2), 50b and 50d;\n(ae) a Tier 2 CCP infringes Article 50a(3) by calculating KCCP less than quarterly or less frequently than required by ESMA in accordance with Article 50a(3);\n(af) a Tier 2 CCP infringes Article 51(2) by not having non-discriminatory access both to the data that it needs for the performance of its functions from a trading venue to the extent that the CCP complies with the operational and technical requirements established by that trading venue and to the relevant settlement system;\n(ag) a Tier 2 CCP infringes Article 52(1) by entering into an interoperability arrangement without fulfilling any of the requirements set out in points (a) to (d) of that paragraph;\n(ah) a Tier 2 CCP infringes Article 53(1) by not distinguishing in accounts the assets and positions held for the account of another CCP with whom it has entered into an interoperability arrangement;\n(ai) a Tier 2 CCP infringes Article 54(1) by entering into an interoperability arrangement, or making a material change to an approved interoperability arrangement under Title V, without the prior approval of ESMA.\nIV. Infringements relating to transparency and the availability of information:\n(a) a Tier 2 CCP infringes Article 38(1) by not publicly disclosing the prices and fees of each service provided separately including discounts and rebates and the conditions to benefit from those reductions;\n(b) a Tier 2 CCP infringes Article 38(1) by not disclosing the information on costs and revenues of its services to ESMA;\n(c) a Tier 2 CCP infringes Article 38(2) by not disclosing to its clearing members and their clients the risks associated with the services provided;\n(d) a Tier 2 CCP infringes Article 38(3) by not disclosing to its clearing members or ESMA the price information used to calculate its end-of-day exposures to its clearing members or by not publicly disclosing the volume of cleared transactions for each instrument cleared by the CCP on an aggregated basis;\n(e) a Tier 2 CCP infringes Article 38(4) by not publicly disclosing the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties including the operational and technical requirements referred to in Article 7;\n(f) a Tier 2 CCP infringes Article 38(5) by not publicly disclosing any breaches by clearing members of the criteria referred to in Article 37(1) or the requirements laid down in Article 38(1) except where ESMA considered that such a disclosure would constitute a threat to financial stability or to market confidence or would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved;\n(g) a Tier 2 CCP infringes Article 38(6) by not providing its clearing members with a simulation tool allowing them to determine the amount of additional initial margin, at portfolio level, that the CCP may require upon the clearing of a new transaction, including simulation of the margin requirements that they might be subject to under different scenarios, or by not making that tool accessible on a secured access basis;\n(h) a Tier 2 CCP infringes Article 38(7) by not providing its clearing members with information on the initial margin models it uses, as detailed in points (a), (b) and (c) of that paragraph, in a clear and transparent manner;\n(ha) a Tier 2 CCP infringes Article 38(8) by not providing, or providing with a significant delay, in response to a request by a clearing member, the information requested to allow that clearing member to comply with the first subparagraph of that paragraph, where such information has not already been provided;\n(i) a Tier 2 CCP infringes Article 39(7) by not publicly disclosing the levels of protection and the costs associated with the different levels of segregation that it provides;\n(j) a Tier 2 CCP infringes Article 49(3) by not publicly disclosing key aspects on its risk management model or assumptions adopted to perform the stress test referred to in Article 49(1);\n(k) a Tier 2 CCP infringes Article 50(2) by not clearly stating its obligations with respect to deliveries of financial instruments, including whether it has an obligation to make or receive delivery of a financial instrument or whether it indemnifies participants for losses incurred in the delivery process;\n(l) a Tier 2 CCP infringes Article 50c(1) by not reporting the information referred in points (a) to (e) of Article 50c(1) to those of its clearing members which are institutions or to their competent authorities;\n(m) a Tier 2 CCP infringes Article 50c(2) by notifying those of its clearing members which are institutions less than quarterly or less frequently than required by ESMA in accordance with Article 50c(2).\nV. Infringements relating to obstacles to the supervisory activities:\n(a) a CCP infringes Article 25f by failing to provide information in response to a decision requiring information pursuant to Article 25f(3), or by providing incorrect or misleading information in response to a simple request for information by ESMA in accordance with Article 25f(2) or in response to a decision by ESMA requiring information in accordance with Article 25f(3);\n(b) a Tier 2 CCP or its representatives provide incorrect or misleading answers to questions asked pursuant to point (c) of Article 25g(1);\n(c) a Tier 2 CCP infringes point (e) of Article 25g(1) by not complying with ESMA’s request for records of telephone or data traffic;\n(d) a Tier 2 CCP does not comply in due time with a supervisory measure required by a decision adopted by ESMA pursuant to Article 25q;\n(e) a Tier 2 CCP does not submit to an on-site inspection required by an inspection decision adopted by ESMA pursuant to Article 25h.",
+        "previous_location": null,
+        "changed_within": [
+          "AN III PTI (ii) PTA (c)",
+          "AN III PTI (iii) PTA (a)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 DEL; 32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 060 (7) (a) (i); AR 060 (7) (a) (ii); AR 060 (7) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point II(c), on infringing Article 26(3), now adds a reference to systems, resources or procedures including ICT systems managed in accordance with Regulation (EU) 2022/2554, a phrase absent from the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#anx_III",
+              "label": "Annex III, 02012R0648-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#anx_III",
+              "label": "Annex III, 02012R0648-20241224"
+            }
+          ]
+        },
+        {
+          "text": "Point III(a), on infringing Article 34(1), replaces the earlier reference to a disaster recovery plan with a response and recovery plan set up in accordance with Regulation (EU) 2022/2554, while the rest of the description of the business continuity policy's purpose is otherwise unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20250117",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#anx_III",
+              "label": "Annex III, 02012R0648-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#anx_III",
+              "label": "Annex III, 02012R0648-20241224"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20241224",
+    "to_version": "02012R0648-20250117",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 4a",
+          "AR 10",
+          "AR 26",
+          "AR 34",
+          "AR 56",
+          "AR 79",
+          "AN I",
+          "AN III"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 26",
+          "AR 34",
+          "AR 56",
+          "AR 79",
+          "AR 80",
+          "AN I",
+          "AN III"
+        ],
+        "note": "14 annotations in (2024-12-24, 2025-01-17]",
+        "claims": [
+          {
+            "location": "AN I SCT II PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 56 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 79 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I SCT II PTA (c)",
+            "change_type": "DELETED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I SCT II PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 26 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III SCT II PTA (f)",
+            "change_type": "DELETED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III SCT II PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III SCT III PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 26 PA 6",
+            "change_type": "DELETED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 80 PA 1",
+            "change_type": "DELETED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 79 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 34 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 34 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 26",
+          "AR 34",
+          "AR 56",
+          "AR 79",
+          "AR 80",
+          "AN I",
+          "AN III"
+        ],
+        "note": "32022R2554, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 26 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 26 PA 6",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 060 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 34 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 34 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 56 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 79 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 80 PA 1",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 060 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN I SCT II PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (6) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN I SCT II PTA (c)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 060 (6) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN III SCT II PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (7) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN III SCT II PTA (f)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 060 (7) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN III SCT III PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 060 (7) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 9,
+        "right_units": 7,
+        "shared": 6,
+        "precision": 0.6666666666666666,
+        "recall": 0.8571428571428571,
+        "f1": 0.75,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 7,
+        "shared": 6,
+        "precision": 0.6666666666666666,
+        "recall": 0.8571428571428571,
+        "f1": 0.75,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 7,
+        "right_units": 7,
+        "shared": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 3",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 4a",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 10",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 80",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 80"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 10,
+    "explained": 8,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 53937,
+      "output_tokens": 2687,
+      "requests": 8,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 10,
+    "passed_first": 8,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 19,
+    "citations": 29,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
