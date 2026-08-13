@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20210626 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20200101` → `02010R1093-20210626`
+
+- **Act** `eu:32010R1093` · **In force** 2021-06-26 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20200101` · `v2` = `02010R1093-20210626`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 2 PTI (vii)`, `AR 4 ALN 1 PO 2 PTI (viii)` · *dates* +2019-11-27 +2019-12-05 · *amended by* `32019R2033`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The list of competent authorities in point (2) now ends with a semicolon after item (vii) instead of a full stop, and a new item (viii) has been added covering competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034, referenced together with Regulation (EU) 2019/2033. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_4)
+
+The earlier version of Article 4 ended its list of competent authorities at item (vii), referring only to bodies and authorities under Article 20 of Directive 2008/48/EC, without any equivalent item (viii). [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_4)
+
+*before* (`02010R1093-20200101`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institution means any undertaking that is subject to regulation and supervision pursuant to any of the legislative acts referred to in Article 1(2);
+> (1a) financial sector operator means an entity as referred to in Article 2 of Directive (EU) 2015/849, which is either a financial institution as defined in point (1) of this Article or in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010;
+> (2) competent authorities means:
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013;
+> (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions;
+> (iii) with regard to Directive (EU) 2015/849, the authorities and bodies that supervise financial sector operators and are competent for ensuring their compliance with the requirements of that Directive;
+> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 2909 characters omitted…]
+
+*after* (`02010R1093-20210626`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institution means any undertaking that is subject to regulation and supervision pursuant to any of the legislative acts referred to in Article 1(2);
+> (1a) financial sector operator means an entity as referred to in Article 2 of Directive (EU) 2015/849, which is either a financial institution as defined in point (1) of this Article or in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010;
+> (2) competent authorities means:
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013;
+> (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions;
+> (iii) with regard to Directive (EU) 2015/849, the authorities and bodies that supervise financial sector operators and are competent for ensuring their compliance with the requirements of that Directive;
+> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 3698 characters omitted…]
+
+**MODIFIED · Art. 61** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20210626 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20200101 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20190330` → `02010R1093-20200101`
