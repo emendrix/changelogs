@@ -10,6 +10,436 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20200627 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20191225` → `02013R0575-20200627`
+
+- **Act** `eu:32013R0575` · **In force** 2020-06-27 · **Detected** 2026-08-13
+- **Touched** 17 provisions — 17 substantive · 0 date-only · **8 disputed**
+- **Diff** 5 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 631 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20191225` · `v2` = `02013R0575-20200627`
+
+---
+
+**MODIFIED · Art. 47a — Non-performing exposures** · applies from: unchanged
+
+*within* `AR 47a PA 6 ALN 2`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The sentence on full and timely repayment in Article 47a(6) changed from stating that repayment shall not be considered likely unless the obligor has executed regular and timely payments of the specified amounts, to stating that repayment may be considered likely where the obligor has executed such payments. [Art. 47a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_47a) [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_47a)
+
+*before* (`02013R0575-20191225`)
+
+> Article 47a
+> Non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), exposure shall include any of the following items, provided they are not included in the trading book of the institution:
+> (a) a debt instrument, including a debt security, a loan, an advance and a demand deposit;
+> (b) a loan commitment given, a financial guarantee given or any other commitment given, irrespective of whether it is revocable or irrevocable, with the exception of undrawn credit facilities that may be cancelled unconditionally at any time and without notice, or that effectively provide for automatic cancellation due to deterioration in the borrower's creditworthiness.
+> 2. For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument shall be its accounting value measured without taking into account any specific credit risk adjustments, additional value adjustments in accordance with Articles 34 and 105, amounts deducted in accordance with point (m) of Article 36(1), other own funds reductions related to the exposure or partial write-offs made by the institution since the last time the exposure was classified as non-performing.
+> For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument that was purchased at a price lower than the amount owed by the debtor shall include the difference between the purchase price and the amount owed by the debtor.
+> For the purposes of point (m) of Article 36(1), the exposure value of a loan commi […truncated by emendrix: 4745 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 47a
+> Non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), exposure shall include any of the following items, provided they are not included in the trading book of the institution:
+> (a) a debt instrument, including a debt security, a loan, an advance and a demand deposit;
+> (b) a loan commitment given, a financial guarantee given or any other commitment given, irrespective of whether it is revocable or irrevocable, with the exception of undrawn credit facilities that may be cancelled unconditionally at any time and without notice, or that effectively provide for automatic cancellation due to deterioration in the borrower's creditworthiness.
+> 2. For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument shall be its accounting value measured without taking into account any specific credit risk adjustments, additional value adjustments in accordance with Articles 34 and 105, amounts deducted in accordance with point (m) of Article 36(1), other own funds reductions related to the exposure or partial write-offs made by the institution since the last time the exposure was classified as non-performing.
+> For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument that was purchased at a price lower than the amount owed by the debtor shall include the difference between the purchase price and the amount owed by the debtor.
+> For the purposes of point (m) of Article 36(1), the exposure value of a loan commi […truncated by emendrix: 4738 characters omitted…]
+
+**MODIFIED · Art. 47c — Deduction for non-performing exposures** · applies from: unchanged
+
+*within* `AR 47c PA 4 ALN 1` · *amended by* `32020R0873`
+
+Paragraph 4 now extends the preferential factors to the secured part of a non-performing exposure that is guaranteed or counter-guaranteed by an eligible protection provider referred to in points (a) to (e) of Article 201(1), where unsecured exposures to that provider would be assigned a risk weight of 0% under Chapter 2 of Title II of Part Three, in addition to exposures guaranteed or insured by an official export credit agency as before. [Art. 47c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_47c)
+
+The introductory phrase of paragraph 4 was also tightened to specify that the derogation is from paragraph 3 of this Article, rather than simply from paragraph 3. [Art. 47c, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_47c) [Art. 47c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_47c)
+
+*before* (`02013R0575-20191225`)
+
+> Article 47c
+> Deduction for non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), institutions shall determine the applicable amount of insufficient coverage separately for each non-performing exposure to be deducted from Common Equity Tier 1 items by subtracting the amount determined in point (b) of this paragraph from the amount determined in point (a) of this paragraph, where the amount referred to in point (a) exceeds the amount referred to in point (b):
+> (a) the sum of:
+> (i) the unsecured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 2;
+> (ii) the secured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 3;
+> (b) the sum of the following items provided they relate to the same non-performing exposure:
+> (i) specific credit risk adjustments;
+> (ii) additional value adjustments in accordance with Articles 34 and 105;
+> (iii) other own funds reductions;
+> (iv) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach, the absolute value of the amounts deducted pursuant to point (d) of Article 36(1) which relate to non-performing exposures, where the absolute value attributable to each non-performing exposure is determined by multiplying the amounts deducted pursuant to point (d) of Article 36(1) by the contribution of the expected loss amount for the non-performing exposure to total expected loss amounts for d […truncated by emendrix: 5894 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 47c
+> Deduction for non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), institutions shall determine the applicable amount of insufficient coverage separately for each non-performing exposure to be deducted from Common Equity Tier 1 items by subtracting the amount determined in point (b) of this paragraph from the amount determined in point (a) of this paragraph, where the amount referred to in point (a) exceeds the amount referred to in point (b):
+> (a) the sum of:
+> (i) the unsecured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 2;
+> (ii) the secured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 3;
+> (b) the sum of the following items provided they relate to the same non-performing exposure:
+> (i) specific credit risk adjustments;
+> (ii) additional value adjustments in accordance with Articles 34 and 105;
+> (iii) other own funds reductions;
+> (iv) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach, the absolute value of the amounts deducted pursuant to point (d) of Article 36(1) which relate to non-performing exposures, where the absolute value attributable to each non-performing exposure is determined by multiplying the amounts deducted pursuant to point (d) of Article 36(1) by the contribution of the expected loss amount for the non-performing exposure to total expected loss amounts for d […truncated by emendrix: 6143 characters omitted…]
+
+**MODIFIED · Art. 114** · applies from: unknown
+
+*amended by* `32020R0873`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 123 — Retail exposures** · applies from: unchanged
+
+*within* `AR 123 ALN 5`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The after text adds a new paragraph covering loans granted by a credit institution to pensioners or employees with a permanent contract that are secured by an unconditional transfer of part of the borrower's pension or salary, assigning such exposures a risk weight of 35 % instead of the 75 % applied elsewhere in the article. [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_123)
+
+This new paragraph sets out four conditions, covering the authorisation to deduct payments directly from pension or salary, insurance coverage of specified risks, a cap of 20 % of net monthly pension or salary on aggregate qualifying loan payments, and a maximum original maturity of ten years. [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_123)
+
+The preceding text of the article, covering the 75 % risk weight criteria for retail exposures, securities exclusion, and lease payments, is unchanged between the two versions. [Art. 123, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_123) [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_123)
+
+*before* (`02013R0575-20191225`)
+
+> Article 123
+> Retail exposures
+> Exposures that comply with the following criteria shall be assigned a risk weight of 75 %:
+> (a) the exposure shall be either to a natural person or persons, or to a small or medium-sized enterprise (SME);
+> (b) the exposure shall be one of a significant number of exposures with similar characteristics such that the risks associated with such lending are substantially reduced;
+> (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding exposures fully and completely secured on residential property collateral that have been assigned to the exposure class laid down in point (i) of Article 112, shall not, to the knowledge of the institution, exceed EUR 1 million. The institution shall take reasonable steps to acquire this knowledge.
+> Securities shall not be eligible for the retail exposure class.
+> Exposures that do not comply with the criteria referred to in points (a) to (c) of the first subparagraph shall not be eligible for the retail exposures class.
+> The present value of retail minimum lease payments is eligible for the retail exposure class.
+
+*after* (`02013R0575-20200627`)
+
+> Article 123
+> Retail exposures
+> Exposures that comply with the following criteria shall be assigned a risk weight of 75 %:
+> (a) the exposure shall be either to a natural person or persons, or to a small or medium-sized enterprise (SME);
+> (b) the exposure shall be one of a significant number of exposures with similar characteristics such that the risks associated with such lending are substantially reduced;
+> (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding exposures fully and completely secured on residential property collateral that have been assigned to the exposure class laid down in point (i) of Article 112, shall not, to the knowledge of the institution, exceed EUR 1 million. The institution shall take reasonable steps to acquire this knowledge.
+> Securities shall not be eligible for the retail exposure class.
+> Exposures that do not comply with the criteria referred to in points (a) to (c) of the first subparagraph shall not be eligible for the retail exposures class.
+> The present value of retail minimum lease payments is eligible for the retail exposure class.
+> Exposures due to loans granted by a credit institution to pensioners or employees with a permanent contract against the unconditional transfer of part of the borrower's pension or salary to that credit institution shall be assigned a risk weight of 35 %, provided that all the followi […truncated by emendrix: 791 characters omitted…]
+
+**MODIFIED · Art. 150 — Conditions for permanent partial use** · applies from: unchanged
+
+*within* `AR 150 PA 1 ALN 1 PTA (d) PTI (ii)` · *amended by* `32020R0873`
+
+Point (d)(ii) now refers to exposures to central governments and central banks generally, rather than specifically to the central government and central bank of a Member State. [Art. 150, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_150)
+
+The reference to a 0% risk weight being assigned under Article 495(2) has been removed, leaving only the reference to Article 114(2) or (4). [Art. 150, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_150) [Art. 150, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_150)
+
+*before* (`02013R0575-20191225`)
+
+> Article 150
+> Conditions for permanent partial use
+> 1. Where institutions have received the prior permission of the competent authorities, institutions permitted to use the IRB Approach in the calculation of risk-weighted exposure amounts and expected loss amounts for one or more exposure classes may apply the Standardised Approach for the following exposures:
+> (a) the exposure class laid down in Article 147(2)(a), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+> (b) the exposure class laid down in Article 147(2)(b), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+> (c) exposures in non-significant business units as well as exposure classes or types of exposures that are immaterial in terms of size and perceived risk profile;
+> (d) exposures to central governments and central banks of the Member States and their regional governments, local authorities, administrative bodies and public sector entities provided that:
+> (i) there is no difference in risk between the exposures to that central government and central bank and those other exposures because of specific public arrangements; and
+> (ii) exposures to the central government and central bank are assigned a 0 % risk weight under Article 114(2) or (4) or Article 495(2);
+> (e) exposures of an institution to a cou […truncated by emendrix: 2891 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 150
+> Conditions for permanent partial use
+> 1. Where institutions have received the prior permission of the competent authorities, institutions permitted to use the IRB Approach in the calculation of risk-weighted exposure amounts and expected loss amounts for one or more exposure classes may apply the Standardised Approach for the following exposures:
+> (a) the exposure class laid down in Article 147(2)(a), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+> (b) the exposure class laid down in Article 147(2)(b), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+> (c) exposures in non-significant business units as well as exposure classes or types of exposures that are immaterial in terms of size and perceived risk profile;
+> (d) exposures to central governments and central banks of the Member States and their regional governments, local authorities, administrative bodies and public sector entities provided that:
+> (i) there is no difference in risk between the exposures to that central government and central bank and those other exposures because of specific public arrangements; and
+> (ii) exposures to central governments and central banks are assigned a 0 % risk weight under Article 114(2) or (4);
+> (e) exposures of an institution to a counterparty which is i […truncated by emendrix: 2871 characters omitted…]
+
+**MODIFIED · Art. 429a** · applies from: unknown
+
+*amended by* `32020R0873`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 467** · applies from: unknown
+
+*amended by* `32020R0873`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 468 — Temporary treatment of unrealised gains and losses measured at fair value through other comprehensive income in view of the COVID-19 pandemic** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 468`, `AR 468 PA 1 ALN 1`, `AR 468 PA 2 ALN 1`, `AR 468 PA 2 ALN 1 PTA (a)`, `AR 468 PA 2 ALN 1 PTA (b)`, `AR 468 PA 2 ALN 1 PTA (c)`, `AR 468 PA 2 ALN 2`, `AR 468 PA 2 ALN 3`, `AR 468 PA 3 ALN 1`, `AR 468 PA 4 ALN 1`, `AR 468 PA 4 ALN 1 PTA (a)`, `AR 468 PA 4 ALN 1 PTA (b)`, `AR 468 PA 5` · *dates* -2013-01-01 -2014-01-01 -2014-12-31 -2015-01-01 -2015-12-31 -2016-01-01 -2016-12-31 -2017-01-01 -2017-12-31 +2019-12-31 +2020-01-01 +2020-12-31 +2021-01-01 +2021-12-31 +2022-01-01 +2022-12-31 · *amended by* `32020R0873`
+
+The provision was replaced entirely, changing from a phase-out regime for unrealised fair-value gains running from 2013 to 2017 to a new temporary treatment covering unrealised gains and losses on debt instruments measured at fair value through other comprehensive income, running from 2020 to 2022 in view of the COVID-19 pandemic. [Art. 468, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_468) [Art. 468, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_468)
+
+The mechanics changed from a fixed removal of a percentage of unrealised gains under paragraphs 1 to 3, and a separate derogation on derivative liability fair-value gains and losses under paragraph 4, to a formula-based amount A applied to accumulated unrealised gains and losses on specified sovereign and public-sector exposures, using yearly factors, an opt-in notification and reversal process, related recalculation obligations, and expanded disclosure requirements. [Art. 468, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_468) [Art. 468, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_468)
+
+The applicable date ranges and percentages were replaced, with the earlier 2013 to 2017 dates and percentage bands removed and new dates of 2019 to 2022 and factors of 1, 0.7 and 0.4 introduced for the corresponding years. [Art. 468, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_468)
+
+*before* (`02013R0575-20191225`)
+
+> Article 468
+> Unrealised gains measured at fair value
+> 1. By way of derogation from Article 35, during the period from 1 January 2014 to 31 December 2017, institutions shall remove from their Common Equity Tier 1 items the applicable percentage of unrealised gains related to assets or liabilities measured at fair value and reported on the balance sheet, excluding those referred to in Article 33 and all other unrealised gains with the exception of those related to investment properties reported as part of the profit and loss account. The resulting residual amount shall not be removed from Common Equity Tier 1 items.
+> 2. For the purposes of paragraph 1, the applicable percentage shall be 100 % during the period from 1 January 2014 to 31 December 2014, and shall, after that date, fall within the following ranges:
+> (a) 60 % to 100 % during the period from 1 January 2015 to 31 December 2015;
+> (b) 40 % to 100 % during the period from 1 January 2016 to 31 December 2016;
+> (c) 20 % to 100 % for the period from 1 January 2017 to 31 December 2017.
+> From 1 January 2015, where under Article 467 a competent authority requires institutions to include in the calculation of Common Equity Tier 1 capital 100 % of their unrealised losses measured at fair value, that competent authority may also permit institutions to include in that calculation 100 % of their unrealised gains at fair value.
+> From 1 January 2015, where under Article 467 a competent authority requires institutions to include a percentage o […truncated by emendrix: 1218 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 468
+> Temporary treatment of unrealised gains and losses measured at fair value through other comprehensive income in view of the COVID-19 pandemic
+> 1. By way of derogation from Article 35, during the period from 1 January 2020 to 31 December 2022 (the period of temporary treatment), institutions may remove from the calculation of their Common Equity Tier 1 items the amount A, determined in accordance with the following formula:
+> where:
+> a
+> the amount of unrealised gains and losses accumulated since 31 December 2019 accounted for as fair value changes of debt instruments measured at fair value through other comprehensive income in the balance sheet, corresponding to exposures to central governments, to regional governments or to local authorities referred to in Article 115(2) of this Regulation and to public sector entities referred to in Article 116(4) of this Regulation, excluding those financial assets that are credit-impaired as defined in Appendix A to the Annex to Commission Regulation (EC) No 1126/2008 (Annex relating to IFRS 9); and
+> f
+> the factor applicable for each reporting year during the period of temporary treatment in accordance with paragraph 2.
+> 2. Institutions shall apply the following factors f to calculate the amount A referred in paragraph 1:
+> (a) 1 during the period from 1 January 2020 to 31 December 2020;
+> (b) 0,7 during the period from 1 January 2021 to 31 December 2021;
+> (c) 0,4 during the period from 1 January 2022 to 31 December 2022.
+> 3. Where an instit […truncated by emendrix: 1987 characters omitted…]
+
+**MODIFIED · Art. 473a — Introduction of IFRS 9** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 473a PA 1 ALN 1`, `AR 473a PA 1 ALN 2`, `AR 473a PA 1 ALN 2 PTA (a)`, `AR 473a PA 1 ALN 2 PTA (b)`, `AR 473a PA 3 ALN 1 PTA (a)`, `AR 473a PA 3 ALN 1 PTA (b)`, `AR 473a PA 5 ALN 1 PTA (b)`, `AR 473a PA 5 ALN 1 PTA (c)`, `AR 473a PA 6 ALN 1`, `AR 473a PA 6 ALN 1 PTA (a)`, `AR 473a PA 6 ALN 1 PTA (b)`, `AR 473a PA 6 ALN 1 PTA (c)`, `AR 473a PA 6 ALN 1 PTA (d)`, `AR 473a PA 6 ALN 1 PTA (e)`, `AR 473a PA 6 ALN 2`, `AR 473a PA 6 ALN 3`, `AR 473a PA 6a`, `AR 473a PA 7a`, `AR 473a PA 8 ALN 1`, `AR 473a PA 9 ALN 1`, `AR 473a PA 9 ALN 2`, `AR 473a PA 9 ALN 3`, `AR 473a PA 9 ALN 4` · *dates* -2018-12-31 -2019-01-01 -2019-12-31 +2023-01-01 +2023-12-31 +2024-01-01 +2024-12-31 · *amended by* `32020R0873`
+
+The transitional-period reference and the formulas in paragraph 1 are expanded to add a second factor and a second set of tax-deductibility terms, splitting the earlier single scaling factor and tax term into f1/f2 and t1/t2/t3, and referencing a new paragraph 6a alongside paragraph 6. [Art. 473a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_473a) [Art. 473a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_473a)
+
+Paragraphs 3 and 5 change the fixed comparison dates from 31 December 2017/1 January 2018 to 1 January 2020 or the date of initial application of IFRS 9 whichever is later, and add exclusions tied to Article 468 for exposures measured at fair value through other comprehensive income. [Art. 473a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_473a) [Art. 473a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_473a)
+
+Paragraph 6's phase-in factors and date ranges are replaced with new percentages running through 2023 and 2024, a new paragraph 6a introduces a separate factor schedule f2 running through 2024, and a new paragraph 7a on risk-weighting and leverage-exposure treatment is added, while paragraph 9 adds provisions on reversing decisions without the prior one-time limit and on a new option to not apply paragraph 2, plus a duty for competent authorities to notify EBA. [Art. 473a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_473a) [Art. 473a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_473a)
+
+*before* (`02013R0575-20191225`)
+
+> Article 473a
+> Introduction of IFRS 9
+> 1. By way of derogation from Article 50 and until the end of the transitional period set out in paragraph 6 of this Article, the following may include in their Common Equity Tier 1 capital the amount calculated in accordance with this paragraph:
+> (a) institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (b) institutions that, pursuant to Article 24(2) of this Regulation, effect the valuation of assets and off-balance sheet items and the determination of own funds in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (c) institutions that effect the valuation of assets and off-balance sheet items in conformity with accounting standards under Directive 86/635/EEC and that use an expected credit loss model that is the same as the one used in international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002.
+> The amount referred to in the first subparagraph shall be calculated as the sum of the following:
+> (a) for exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three, the amount (ABSA) calculated in accordance with the following formula:
+> ABSAA2,SA A4,SA t · f
+> where:
+> A2,SA
+> the amount calcula […truncated by emendrix: 11374 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 473a
+> Introduction of IFRS 9
+> 1. By way of derogation from Article 50 and until the end of the transitional periods set out in paragraphs 6 and 6a of this Article, the following may include in their Common Equity Tier 1 capital the amount calculated in accordance with this paragraph:
+> (a) institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (b) institutions that, pursuant to Article 24(2) of this Regulation, effect the valuation of assets and off-balance sheet items and the determination of own funds in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002;
+> (c) institutions that effect the valuation of assets and off-balance sheet items in conformity with accounting standards under Directive 86/635/EEC and that use an expected credit loss model that is the same as the one used in international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002.
+> The amount referred to in the first subparagraph shall be calculated as the sum of the following:
+> (a) for exposures which are subject to risk weighting in accordance with Chapter 2 of Title II of Part Three, the amount (ABSA) calculated in accordance with the following formula:
+> where:
+> A2,SA
+> the amount calculated in accord […truncated by emendrix: 18018 characters omitted…]
+
+**MODIFIED · Art. 495** · applies from: unknown
+
+*amended by* `32020R0873`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 500a — Temporary treatment of public debt issued in the currency of another Member State** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0873`
+
+A new Article 500a is added, setting out a temporary derogation for exposures to central governments and central banks of Member States that are denominated and funded in another Member State's domestic currency, applying reduced risk weights of 0%, 20% and 50% of the Article 114(2) weight for the years up to and including 2022, 2023 and 2024 respectively. [Art. 500a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500a)
+
+It also lets competent authorities allow institutions to exceed the large-exposure limits of Articles 395(1) and 493(4) for such exposures, up to tiered percentages of Tier 1 capital of 100%, 75% and 50% for periods ending in 2023, 2024 and 2025 respectively, calculated after credit risk mitigation under Articles 399 to 403. [Art. 500a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500a)
+
+A further derogation permits institutions, with prior competent authority permission and subject to Article 150's conditions, to apply the Standardised Approach under point (ii) of point (d) of Article 150(1) to exposures given a 0% risk weight under this new article. [Art. 500a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500a)
+
+*after* (`02013R0575-20200627`)
+
+> Article 500a
+> Temporary treatment of public debt issued in the currency of another Member State
+> 1. By way of derogation from Article 114(2), until 31 December 2024, for exposures to the central governments and central banks of Member States, where those exposures are denominated and funded in the domestic currency of another Member State, the following apply:
+> (a) until 31 December 2022, the risk weight applied to the exposure values shall be 0 % of the risk weight assigned to those exposures in accordance with Article 114(2);
+> (b) in 2023, the risk weight applied to the exposure values shall be 20 % of the risk weight assigned to those exposures in accordance with Article 114(2);
+> (c) in 2024, the risk weight applied to the exposure values shall be 50 % of the risk weight assigned to those exposures in accordance with Article 114(2).
+> 2. By way of derogation from Articles 395(1) and 493(4), competent authorities may allow institutions to incur exposures referred to in paragraph 1 of this Article, up to the following limits:
+> (a) 100 % of the institution’s Tier 1 capital until 31 December 2023;
+> (b) 75 % of the institution’s Tier 1 capital between 1 January and 31 December 2024;
+> (c) 50 % of the institution’s Tier 1 capital between 1 January and 31 December 2025.
+> The limits referred to in points (a), (b) and (c) of the first subparagraph of this paragraph shall apply to exposure values after taking into account the effect of the credit risk mitigation in accordance with Articles 399 […truncated by emendrix: 398 characters omitted…]
+
+**INSERTED · Art. 500b — Temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0873`
+
+A new Article 500b is inserted, allowing an institution to exclude certain central bank exposures, namely legal-tender coins and banknotes and claims on the central bank including reserves, from its total exposure measure by way of derogation from Article 429(4), subject to a cap based on the daily average of those exposures over the most recent full reserve maintenance period, and subject to conditions on currency matching, maturity, competent authority determination and public declaration of exceptional circumstances, and disclosure of the leverage ratio without the exclusion. [Art. 500b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500b)
+
+*after* (`02013R0575-20200627`)
+
+> Article 500b
+> Temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic
+> 1. By way of derogation from Article 429(4), until 27 June 2021, an institution may exclude from its total exposure measure the following exposures to the institution’s central bank, subject to the conditions set out in paragraphs 2 and 3 of this Article:
+> (a) coins and banknotes constituting legal currency in the jurisdiction of the central bank;
+> (b) assets representing claims on the central bank, including reserves held at the central bank.
+> The amount excluded by the institution shall not exceed the daily average amount of the exposures listed in points (a) and (b) of the first subparagraph over the most recent full reserve maintenance period of the institution’s central bank.
+> 2. An institution may exclude the exposures listed in paragraph 1 where the institution’s competent authority has determined, after consultation with the relevant central bank, and publicly declared that exceptional circumstances exist that warrant the exclusion in order to facilitate the implementation of monetary policies.
+> The exposures to be excluded under paragraph 1 shall meet both of the following conditions:
+> (a) they are denominated in the same currency as the deposits taken by the institution;
+> (b) their average maturity does not significantly exceed the average maturity of the deposits taken by the institution.
+> An institution that excludes exposures to its cent […truncated by emendrix: 163 characters omitted…]
+
+**INSERTED · Art. 500c — Exclusion of overshootings from the calculation of the back-testing addend in view of the COVID-19 pandemic** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0873`
+
+A new Article 500c is added, allowing competent authorities, in exceptional circumstances and on a case-by-case basis, to permit institutions to exclude certain back-testing overshootings from the calculation of the addend referred to in Article 366(3), departing from that provision. [Art. 500c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500c)
+
+The exclusion applies only to overshootings that do not stem from deficiencies in the internal model and that occurred between 1 January 2020 and 31 December 2021. [Art. 500c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500c)
+
+*after* (`02013R0575-20200627`)
+
+> Article 500c
+> Exclusion of overshootings from the calculation of the back-testing addend in view of the COVID-19 pandemic
+> By way of derogation from Article 366(3), competent authorities may, in exceptional circumstances and in individual cases, permit institutions to exclude the overshootings evidenced by the institution’s back-testing on hypothetical or actual changes from the calculation of the addend set out in Article 366(3), provided that those overshootings do not result from deficiencies in the internal model and provided that they occurred between 1 January 2020 and 31 December 2021.
+
+**INSERTED · Art. 500d — Temporary calculation of the exposure value of regular-way purchases and sales awaiting settlement in view of the COVID-19 pandemic** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0873`
+
+A new Article 500d has been added, setting out a temporary alternative method institutions may use to calculate the exposure value of regular-way purchases and sales awaiting settlement, as a derogation from Article 429(4). [Art. 500d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500d)
+
+The new provision distinguishes treatment under trade date accounting from treatment under settlement date accounting, describes limited offsetting conditions tied to delivery-versus-payment settlement and fair-value trading book treatment, and defines what counts as a regular-way purchase or sale. [Art. 500d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_500d)
+
+*after* (`02013R0575-20200627`)
+
+> Article 500d
+> Temporary calculation of the exposure value of regular-way purchases and sales awaiting settlement in view of the COVID-19 pandemic
+> 1. By way of derogation from Article 429(4), until 27 June 2021, institutions may calculate the exposure value of regular-way purchases and sales awaiting settlement in accordance with paragraphs 2, 3 and 4 of this Article.
+> 2. Institutions shall treat cash related to regular-way sales and securities related to regular-way purchases which remain on the balance sheet until the settlement date as assets in accordance with point (a) of Article 429(4).
+> 3. Institutions that, in accordance with the applicable accounting framework, apply trade date accounting to regular-way purchases and sales which are awaiting settlement shall reverse out any offsetting between cash receivables for regular-way sales awaiting settlement and cash payables for regular-way purchases awaiting settlement allowed under that accounting framework. After institutions have reversed out the accounting offsetting, they may offset between those cash receivables and cash payables where the related regular-way sales and purchases are both settled on a delivery-versus-payment basis.
+> 4. Institutions that, in accordance with the applicable accounting framework, apply settlement date accounting to regular-way purchases and sales which are awaiting settlement shall include in the total exposure measure the full nominal value of commitments to pay related to regular-way purchas […truncated by emendrix: 810 characters omitted…]
+
+**MODIFIED · Art. 501 — Adjustment of risk-weighted non-defaulted SME exposures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 501`, `AR 501 PA 1 ALN 1`, `AR 501 PA 2 ALN 1`, `AR 501 PA 2 ALN 1 PTA (a)`, `AR 501 PA 2 ALN 1 PTA (b)`, `AR 501 PA 2 ALN 1 PTA (c)`, `AR 501 PA 3`, `AR 501 PA 4`, `AR 501 PA 5` · *dates* -2016-06-28
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The article's heading changed from referring to a capital requirements deduction for credit risk on SME exposures to referring to an adjustment of risk-weighted non-defaulted SME exposures. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+
+Paragraph 1 changed from a flat multiplication of SME credit risk capital requirements by a fixed factor to a formula adjusting risk-weighted exposure amounts for non-defaulted SME exposures, introducing defined terms RWEA* and E* and thresholds expressed in euro amounts. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+
+The list of definitional points in paragraph 2 was altered, removing the earlier separate provisions on excluding exposures in default and on the EUR 1.5 million exposure ceiling and reporting requirement, and on the Commission and EBA reporting obligations that had appeared in paragraphs 3 through 5, replacing them with a single point on institutions taking reasonable steps to determine E* and obtain required information. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+
+*before* (`02013R0575-20191225`)
+
+> Article 501
+> Capital requirements deduction for credit risk on exposures to SMEs
+> 1. Capital requirements for credit risk on exposures to SMEs shall be multiplied by the factor 0,7619.
+> 2. For the purpose of this Article:
+> (a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire such knowledge.
+> 3. Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.
+> 4. The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and to […truncated by emendrix: 531 characters omitted…]
+
+*after* (`02013R0575-20200627`)
+
+> Article 501
+> Adjustment of risk-weighted non-defaulted SME exposures
+> 1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*
+> where:
+> RWEA*
+> the RWEA adjusted by an SME supporting factor; and
+> E*
+> the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME.
+> 2. For the purposes of this Article:
+> (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).
+
+**MODIFIED · Art. 501a — Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services** · applies from: unchanged
+
+*within* `AR 501a PA 1`, `AR 501a PA 2`, `AR 501a PA 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The before text contains only paragraphs 4 and 5, dealing with the Commission's reporting obligation and EBA's supporting analysis, with no paragraphs 1 through 3 present. [Art. 501a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501a)
+
+The after text adds paragraphs 1 through 3, setting out detailed eligibility criteria for a 0,75 multiplier on own funds requirements for credit risk, conditions for cash flow predictability, and a six-monthly reporting requirement to competent authorities, while retaining paragraphs 4 and 5 unchanged. [Art. 501a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501a)
+
+*before* (`02013R0575-20191225`)
+
+> Article 501a
+> Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services
+> 4. The Commission shall, by 28 June 2022 report on the impact of the own funds requirements laid down in this Regulation on lending to infrastructure project entities and shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.
+> 5. For the purposes of paragraph 4, EBA shall report on the following to the Commission:
+> (a) an analysis of the evolution of the trends and conditions in markets for infrastructure lending and project finance over the period referred to in paragraph 4;
+> (b) an analysis of the effective riskiness of entities referred to in point (b) of paragraph 1 over a full economic cycle;
+> (c) the consistency of own funds requirements laid down in this Regulation with the outcomes of the analysis under points (a) and (b) of this paragraph.
+
+*after* (`02013R0575-20200627`)
+
+> Article 501a
+> Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services
+> 1. Own funds requirements for credit risk calculated in accordance with Title II of Part III shall be multiplied by a factor of 0,75, provided that the exposure complies with all the following criteria:
+> (a) the exposure is included either in the corporate exposure class or in the specialised lending exposures class, with the exclusion of exposures in default;
+> (b) the exposure is to an entity which was created specifically to finance or operate physical structures or facilities, systems and networks that provide or support essential public services;
+> (c) the source of repayment of the obligation is represented for not less than two thirds of its amount by the income generated by the assets being financed, rather than the independent capacity of a broader commercial enterprise, or by subsidies, grants or funding provided by one or more of the entities listed in points (b)(i) and (b)(ii) of paragraph 2;
+> (d) the obligor can meet its financial obligations even under severely stressed conditions that are relevant for the risk of the project;
+> (e) the cash flows that the obligor generates are predictable and cover all future loan repayments during the duration of the loan;
+> (f) the re-financing risk of the exposure is low or adequately mitigated, taking into account a […truncated by emendrix: 5991 characters omitted…]
+
+**INSERTED · Art. 518b — Report on overshootings and supervisory powers to limit distributions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0873`
+
+A new Article 518b is added, requiring the Commission to report to the European Parliament and the Council by 31 December 2021 on whether exceptional circumstances causing serious economic disturbance in financial markets justify letting competent authorities exclude certain overshootings from institutions' market risk internal models, and granting those authorities additional binding powers to restrict distributions by institutions during such periods. [Art. 518b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_518b)
+
+The provision also states that the Commission shall consider further measures if appropriate. [Art. 518b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_518b)
+
+*after* (`02013R0575-20200627`)
+
+> Article 518b
+> Report on overshootings and supervisory powers to limit distributions
+> By 31 December 2021, the Commission shall report to the European Parliament and to the Council on whether exceptional circumstances that trigger serious economic disturbance in the orderly functioning and integrity of financial markets justify:
+> (a) during such periods, permitting competent authorities to exclude from institutions’ market risk internal models overshootings that do not result from deficiencies in those models;
+> (b) during such periods, granting additional binding powers to competent authorities to impose restrictions on distributions by institutions.
+> The Commission shall consider further measures, if appropriate.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20200627 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20191225 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20190627` → `02013R0575-20191225`
