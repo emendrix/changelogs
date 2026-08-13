@@ -10,6 +10,673 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20250201 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20241210` → `02008R1272-20250201`
+
+- **Act** `eu:32008R1272` · **In force** 2025-02-01 · **Detected** 2026-08-13
+- **Touched** 20 provisions — 20 substantive · 0 date-only · **20 disputed**
+- **Diff** 0 inserted · 19 modified · 1 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20241210` · `v2` = `02008R1272-20250201`
+
+---
+
+**MODIFIED · Art. 1 — Purpose and scope** · applies from: unchanged
+
+*within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 1
+> Purpose and scope
+> 1. The purpose of this Regulation is to ensure a high level of protection of human health and the environment as well as the free movement of substances, mixtures and articles as referred to in Article 4(8) by:
+> (a) harmonising the criteria for classification of substances and mixtures, and the rules on labelling and packaging for hazardous substances and mixtures;
+> (b) providing an obligation for:
+> (i) manufacturers, importers and downstream users to classify substances and mixtures placed on the market;
+> (ii) suppliers to label and package substances and mixtures placed on the market;
+> (iii) manufacturers, producers of articles and importers to classify those substances not placed on the market that are subject to registration or notification under Regulation (EC) No 1907/2006;
+> (c) providing an obligation for manufacturers and importers of substances to notify the Agency of such classifications and label elements if these have not been submitted to the Agency as part of a registration under Regulation (EC) No 1907/2006;
+> (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
+> (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d);
+> (f) providing an obligation for downstream users, importers and distributors referred […truncated by emendrix: 2486 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 1
+> Purpose and scope
+> 1. The purpose of this Regulation is to ensure a high level of protection of human health and the environment as well as the free movement of substances, mixtures and articles as referred to in Article 4(8) by:
+> (a) harmonising the criteria for classification of substances and mixtures, and the rules on labelling and packaging for hazardous substances and mixtures;
+> (b) providing an obligation for:
+> (i) manufacturers, importers and downstream users to classify substances and mixtures placed on the market;
+> (ii) suppliers to label and package substances and mixtures placed on the market;
+> (iii) manufacturers, producers of articles and importers to classify those substances not placed on the market that are subject to registration or notification under Regulation (EC) No 1907/2006;
+> (c) providing an obligation for manufacturers and importers of substances to notify the Agency of such classifications and label elements if these have not been submitted to the Agency as part of a registration under Regulation (EC) No 1907/2006;
+> (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
+> (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d).
+> 2. This Regulation shall not apply to the following:
+> (a) radioactive substances and m […truncated by emendrix: 2247 characters omitted…]
+
+**MODIFIED · Art. 5 — Identification and examination of available information on substances** · applies from: unchanged
+
+*within* `AR 5 PA 1 ALN 1 PTA (ca)`, `AR 5 PA 3`, `AR 5 PA 4`, `AR 5 PA 5`, `AR 5 PA 6`, `AR 5 PA 7`, `AR 5 PA 8`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 5
+> Identification and examination of available information on substances
+> 1. Manufacturers, importers and downstream users of a substance shall identify the relevant available information for the purposes of determining whether the substance entails a physical, health or environmental hazard as set out in Annex I, and, in particular, the following:
+> (a) data generated in accordance with any of the methods referred to in Article 8(3);
+> (b) epidemiological data and experience on the effects on humans, such as occupational data and data from accident databases;
+> (c) any other information generated in accordance with section 1 of Annex XI to Regulation (EC) No 1907/2006;
+> (ca) data obtained from new approach methodologies;
+> (d) any new scientific information;
+> (e) any other information generated under internationally recognised chemical programmes.
+> The information shall relate to the forms or physical states in which the substance is placed on the market and in which it can reasonably be expected to be used.
+> 2. Manufacturers, importers and downstream users shall examine the information referred to in paragraph 1 to ascertain whether it is adequate, reliable and scientifically valid for the purpose of the evaluation pursuant to Chapter 2 of this Title.
+> 3. A substance containing more than one constituent, in the form of an individual constituent, an identified impurity or an additive, for which relevant information referred to in paragraph 1 is available, shall be evaluated using t […truncated by emendrix: 4035 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 5
+> Identification and examination of available information on substances
+> 1. Manufacturers, importers and downstream users of a substance shall identify the relevant available information for the purposes of determining whether the substance entails a physical, health or environmental hazard as set out in Annex I, and, in particular, the following:
+> (a) data generated in accordance with any of the methods referred to in Article 8(3);
+> (b) epidemiological data and experience on the effects on humans, such as occupational data and data from accident databases;
+> (c) any other information generated in accordance with section 1 of Annex XI to Regulation (EC) No 1907/2006;
+> (d) any new scientific information;
+> (e) any other information generated under internationally recognised chemical programmes.
+> The information shall relate to the forms or physical states in which the substance is placed on the market and in which it can reasonably be expected to be used.
+> 2. Manufacturers, importers and downstream users shall examine the information referred to in paragraph 1 to ascertain whether it is adequate, reliable and scientifically valid for the purpose of the evaluation pursuant to Chapter 2 of this Title.
+
+**MODIFIED · Art. 6 — Identification and examination of available information on mixtures** · applies from: unchanged
+
+*within* `AR 6 PA 3 ALN 1`, `AR 6 PA 3 ALN 2`, `AR 6 PA 4 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 6
+> Identification and examination of available information on mixtures
+> 1. Manufacturers, importers and downstream users of a mixture shall identify the relevant available information on the mixture itself or the substances contained in it for the purposes of determining whether the mixture entails a physical, health or environmental hazard as set out in Annex I, and, in particular, the following:
+> (a) data generated in accordance with any of the methods referred to in Article 8(3) on the mixture itself or the substances contained in it;
+> (b) epidemiological data and experience on the effects on humans for the mixture itself or the substances contained in it, such as occupational data or data from accident databases;
+> (c) any other information generated in accordance with section 1 of Annex XI to Regulation (EC) No 1907/2006 for the mixture itself or the substances contained in it;
+> (d) any other information generated under internationally recognised chemical programmes for the mixture itself or the substances contained in it.
+> The information shall relate to the forms or physical states in which the mixture is placed on the market and, when relevant, in which it can reasonably be expected to be used.
+> 2. Subject to paragraphs 3 and 4, where the information referred to in paragraph 1 is available for the mixture itself, and the manufacturer, importer or downstream user has ascertained that information to be adequate and reliable and where applicable, scientifically valid, tha […truncated by emendrix: 2346 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 6
+> Identification and examination of available information on mixtures
+> 1. Manufacturers, importers and downstream users of a mixture shall identify the relevant available information on the mixture itself or the substances contained in it for the purposes of determining whether the mixture entails a physical, health or environmental hazard as set out in Annex I, and, in particular, the following:
+> (a) data generated in accordance with any of the methods referred to in Article 8(3) on the mixture itself or the substances contained in it;
+> (b) epidemiological data and experience on the effects on humans for the mixture itself or the substances contained in it, such as occupational data or data from accident databases;
+> (c) any other information generated in accordance with section 1 of Annex XI to Regulation (EC) No 1907/2006 for the mixture itself or the substances contained in it;
+> (d) any other information generated under internationally recognised chemical programmes for the mixture itself or the substances contained in it.
+> The information shall relate to the forms or physical states in which the mixture is placed on the market and, when relevant, in which it can reasonably be expected to be used.
+> 2. Subject to paragraphs 3 and 4, where the information referred to in paragraph 1 is available for the mixture itself, and the manufacturer, importer or downstream user has ascertained that information to be adequate and reliable and where applicable, scientifically valid, tha […truncated by emendrix: 1756 characters omitted…]
+
+**MODIFIED · Art. 9 — Evaluation of hazard information for substances and mixtures** · applies from: unchanged
+
+*within* `AR 9 PA 3 ALN 1`, `AR 9 PA 4 ALN 1`, `AR 9 PA 4 ALN 2`, `AR 9 PA 4 ALN 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 9
+> Evaluation of hazard information for substances and mixtures
+> 1. Manufacturers, importers and downstream users of a substance or a mixture shall evaluate the information identified in accordance with Chapter 1 of this Title by applying to it the criteria for classification for each hazard class or differentiation in Parts 2 to 5 of Annex I, so as to ascertain the hazards associated with the substance or mixture.
+> 2. In evaluating available test data for a substance or a mixture which have been obtained from test methods other than those referred to in Article 8(3), manufacturers, importers and downstream users shall compare the test methods employed with those indicated in that Article in order to determine whether the use of those test methods affects the evaluation referred to in paragraph 1 of this Article.
+> 3. Where the criteria referred to in paragraph 1 cannot be applied directly to available identified information, manufacturers, importers and downstream users shall carry out an evaluation by applying a weight of evidence determination using expert judgement in accordance with section 1.1.1 of Annex I to this Regulation, weighing all available information having a bearing on the determination of the hazards of the substance or the mixture, and in accordance with section 1.2 of Annex XI to Regulation (EC) No 1907/2006.
+> 4. When evaluating hazard information for mixtures, manufacturers, importers and downstream users shall, where test data for the mixture itself ar […truncated by emendrix: 1415 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 9
+> Evaluation of hazard information for substances and mixtures
+> 1. Manufacturers, importers and downstream users of a substance or a mixture shall evaluate the information identified in accordance with Chapter 1 of this Title by applying to it the criteria for classification for each hazard class or differentiation in Parts 2 to 5 of Annex I, so as to ascertain the hazards associated with the substance or mixture.
+> 2. In evaluating available test data for a substance or a mixture which have been obtained from test methods other than those referred to in Article 8(3), manufacturers, importers and downstream users shall compare the test methods employed with those indicated in that Article in order to determine whether the use of those test methods affects the evaluation referred to in paragraph 1 of this Article.
+> 3. Where the criteria cannot be applied directly to available identified information, manufacturers, importers and downstream users shall carry out an evaluation by applying a weight of evidence determination using expert judgement in accordance with section 1.1.1 of Annex I to this Regulation, weighing all available information having a bearing on the determination of the hazards of the substance or the mixture, and in accordance with section 1.2 of Annex XI to Regulation (EC) No 1907/2006.
+> 4. Where only the information referred to in Article 6(5) is available, manufacturers, importers and downstream users shall apply the bridging principles referred to in sect […truncated by emendrix: 762 characters omitted…]
+
+**MODIFIED · Art. 10 — Concentration limits and M-factors for classification of substances and mixtures** · applies from: unchanged
+
+*within* `AR 10`, `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 1 ALN 3`, `AR 10 PA 2 ALN 1`, `AR 10 PA 3 ALN 1`, `AR 10 PA 4 ALN 1`, `AR 10 PA 5 ALN 1`, `AR 10 PA 5 ALN 2`, `AR 10 PA 6 ALN 1`, `AR 10 PA 7 ALN 1`, `AR 10 PA 8`, `AR 10 PA 9`, `AR 10 PA 10`, `AR 10 PA 11`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 10
+> Concentration limits, M-factors and acute toxicity estimates for classification of substances and mixtures
+> 1. Specific concentration limits and generic concentration limits are limits assigned to a substance indicating a threshold at or above which the presence of that substance in another substance or in a mixture as an identified impurity, additive or individual constituent leads to the classification of the substance or mixture as hazardous.
+> Specific concentration limits shall be set by the manufacturer, importer or downstream user where adequate and reliable scientific information shows that the hazard of a substance is evident when that substance is present at a level below the concentrations set for any hazard class in Part 2 of Annex I or below the generic concentration limits set for any hazard class in Parts 3, 4 and 5 of Annex I.
+> Manufacturers, importers and downstream users may set a specific concentration limit for a substance in exceptional circumstances where adequate, reliable and conclusive scientific information shows that the hazard of a substance classified as hazardous is not evident at a level above the concentrations set for the relevant hazard class in Part 2 of Annex I or above the generic concentration limits set for the relevant hazard class in Parts 3, 4 and 5 of that Annex.
+> 2. Manufacturers, importers and downstream users shall establish M-factors for substances classified as hazardous to the aquatic environment, acute category 1 or chro […truncated by emendrix: 2679 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 10
+> Concentration limits and M-factors for classification of substances and mixtures
+> 1. Specific concentration limits and generic concentration limits are limits assigned to a substance indicating a threshold at or above which the presence of that substance in another substance or in a mixture as an identified impurity, additive or individual constituent leads to the classification of the substance or mixture as hazardous.
+> Specific concentration limits shall be set by the manufacturer, importer or downstream user where adequate and reliable scientific information shows that the hazard of a substance is evident when the substance is present at a level below the concentrations set for any hazard class in Part 2 of Annex I or below the generic concentration limits set for any hazard class in Parts 3, 4 and 5 of Annex I.
+> In exceptional circumstances specific concentration limits may be set by the manufacturer, importer or downstream user where he has adequate, reliable and conclusive scientific information that a hazard of a substance classified as hazardous is not evident at a level above the concentrations set for the relevant hazard class in Part 2 of Annex I or above the generic concentration limits set for the relevant hazard class in Parts 3, 4 and 5 of that Annex.
+> 2. M-factors for substances classified as hazardous to the aquatic environment, acute category 1 or chronic category 1, shall be established by manufacturers, importers and downstream users.
+> 3. Notwithstan […truncated by emendrix: 1433 characters omitted…]
+
+**MODIFIED · Art. 18 — Product identifiers** · applies from: unchanged
+
+*within* `AR 18 PA 3 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 18
+> Product identifiers
+> 1. The label shall include details permitting the identification of the substance or mixture (hereinafter referred to as product identifiers).
+> The term used for identification of the substance or mixture shall be the same as that used in the safety data sheet drawn up in accordance with Article 31 of Regulation (EC) No 1907/2006 (hereinafter referred to as safety data sheet), without prejudice to Article 17(2) of this Regulation.
+> 2. The product identifier for a substance shall consist of at least the following:
+> (a) if the substance is included in Part 3 of Annex VI, a name and an identification number as given therein;
+> (b) if the substance is not included in Part 3 of Annex VI, but appears in the classification and labelling inventory, a name and an identification number as given therein;
+> (c) if the substance is not included in Part 3 of Annex VI nor in the classification and labelling inventory, the number provided by the CAS (hereinafter referred to as the CAS number), together with the name set out in the nomenclature provided by the IUPAC (hereinafter referred to as the IUPAC Nomenclature), or the CAS number together with another international chemical name(s); or
+> (d) if the CAS number is not available, the name set out in the IUPAC Nomenclature or another international chemical name(s).
+> Where the name in the IUPAC nomenclature exceeds 100 characters, one of the other names (usual name, trade name, abbreviation) referred to in section 2.1.2 […truncated by emendrix: 1323 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 18
+> Product identifiers
+> 1. The label shall include details permitting the identification of the substance or mixture (hereinafter referred to as product identifiers).
+> The term used for identification of the substance or mixture shall be the same as that used in the safety data sheet drawn up in accordance with Article 31 of Regulation (EC) No 1907/2006 (hereinafter referred to as safety data sheet), without prejudice to Article 17(2) of this Regulation.
+> 2. The product identifier for a substance shall consist of at least the following:
+> (a) if the substance is included in Part 3 of Annex VI, a name and an identification number as given therein;
+> (b) if the substance is not included in Part 3 of Annex VI, but appears in the classification and labelling inventory, a name and an identification number as given therein;
+> (c) if the substance is not included in Part 3 of Annex VI nor in the classification and labelling inventory, the number provided by the CAS (hereinafter referred to as the CAS number), together with the name set out in the nomenclature provided by the IUPAC (hereinafter referred to as the IUPAC Nomenclature), or the CAS number together with another international chemical name(s); or
+> (d) if the CAS number is not available, the name set out in the IUPAC Nomenclature or another international chemical name(s).
+> Where the name in the IUPAC nomenclature exceeds 100 characters, one of the other names (usual name, trade name, abbreviation) referred to in section 2.1.2 […truncated by emendrix: 1116 characters omitted…]
+
+**MODIFIED · Art. 25 — Supplemental information on the label** · applies from: unchanged
+
+*within* `AR 25 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1, 2 and 6 to 9, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1), points (a) to (g), and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any othe […truncated by emendrix: 2445 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1 and 2, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1) (a) to (g) and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any other statements that […truncated by emendrix: 2428 characters omitted…]
+
+**MODIFIED · Art. 29 — Exemptions from labelling and packaging requirements** · applies from: unchanged
+
+*within* `AR 29 PA 1 ALN 1`, `AR 29 PA 3 ALN 1`, `AR 29 PA 4b`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 29
+> Exemptions from labelling and packaging requirements
+> 1. Where the packaging of a substance or a mixture is either in such a shape or form or is so small that it is impossible to meet the requirements laid down in Article 31 for a label in the languages of the Member State in which the substance or mixture is placed on the market, the label elements set out in Article 17(1), shall be provided in accordance with section 1.5.1 of Annex I.
+> 2. If the full label information cannot be provided in the way specified in paragraph 1 the label information may be reduced in accordance with section 1.5.2 of Annex I.
+> 3. Where a hazardous substance or mixture referred to in Part 5 of Annex II is supplied to the general public without packaging, the labelling information shall be provided in accordance with the provision referring to that substance or mixture in that Part.
+> 4. For certain mixtures classified as hazardous to the environment, exemptions to certain provisions on environmental labelling or specific provisions in relation to environmental labelling may be determined in accordance with the procedure referred to in Article 53, where it can be demonstrated that there would be a reduction in the environmental impact. Such exemptions or specific provisions are defined in Part 2 of Annex II.
+> 4a. Where under Annex VIII the submitter creates a unique formula identifier, the submitter may, instead of including it in the supplemental information on the label, opt to show it in ano […truncated by emendrix: 857 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 29
+> Exemptions from labelling and packaging requirements
+> 1. Where the packaging of a substance or a mixture is either in such a shape or form or is so small that it is impossible to meet the requirements of Article 31 for a label in the languages of the Member State in which the substance or mixture is placed on the market, the label elements in accordance with the first subparagraph of Article 17(2) shall be provided in accordance with section 1.5.1 of Annex I.
+> 2. If the full label information cannot be provided in the way specified in paragraph 1 the label information may be reduced in accordance with section 1.5.2 of Annex I.
+> 3. When a hazardous substance or mixture referred to in Part 5 of Annex II is supplied to the general public without packaging it shall be accompanied by a copy of the label elements in accordance with Article 17.
+> 4. For certain mixtures classified as hazardous to the environment, exemptions to certain provisions on environmental labelling or specific provisions in relation to environmental labelling may be determined in accordance with the procedure referred to in Article 53, where it can be demonstrated that there would be a reduction in the environmental impact. Such exemptions or specific provisions are defined in Part 2 of Annex II.
+> 4a. Where under Annex VIII the submitter creates a unique formula identifier, the submitter may, instead of including it in the supplemental information on the label, opt to show it in another way permitted by […truncated by emendrix: 171 characters omitted…]
+
+**MODIFIED · Art. 30 — Updating information on labels** · applies from: unchanged
+
+*within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 30
+> Updating information on labels
+> 1. In the event of a change regarding the classification or labelling of a substance or a mixture, which results in the addition of a new hazard class or in a more severe classification, or which requires new supplemental information on the label in accordance with Article 25, the supplier of that substance or that mixture shall ensure that the label is updated without undue delay and in any event no later than 6 months after the results of the new evaluation referred to in Article 15(4) are obtained by, or communicated to, that supplier.
+> 2. Where a change regarding the classification or labelling of a substance or a mixture, other than those referred to in paragraph 1 of this Article, is required, the supplier of that substance or that mixture shall ensure that the label is updated without undue delay and in any event no later than 18 months after the results of the new evaluation referred to in Article 15(4) are obtained by, or communicated to, that supplier.
+> 3. Paragraphs 1 and 2 shall not apply where a change regarding the classification and labelling of a substance or a mixture was triggered by a harmonised classification and labelling of a substance set out in a delegated act adopted pursuant to Article 37(5) or by a provision set out in a delegated act adopted pursuant to Article 53(1). In such cases, the supplier shall ensure that the label is updated by the date set out in the respective delegated act.
+> 4. The supplier of a su […truncated by emendrix: 169 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 30
+> Updating information on labels
+> 1. The supplier shall ensure that the label is updated, without undue delay, following any change to the classification and labelling of that substance or mixture, where the new hazard is more severe or where new supplemental labelling elements are required under Article 25, taking into account the nature of the change as regards the protection of human health and the environment. Suppliers shall cooperate in accordance with Article 4(9) to complete the changes to the labelling without undue delay.
+> 2. Where labelling changes are required other than those referred to in paragraph 1, the supplier shall ensure that the label is updated within 18 months.
+> 3. The supplier of a substance or a mixture within the scope of Directives 91/414/EEC or 98/8/EC shall update the label in accordance with those Directives.
+
+**MODIFIED · Art. 31 — General rules for the application of labels** · applies from: unchanged
+
+*within* `AR 31 PA 1 ALN 1`, `AR 31 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 31
+> General rules for the application of labels
+> 1. Labels shall be firmly affixed to one or more surfaces of the packaging immediately containing the substance or mixture and shall be readable horizontally when the package is set down normally. The label may be presented in the form of a fold-out label.
+> 2. The colour and presentation of any label shall be such that the hazard pictogram stands out clearly.
+> 3. The label elements referred to in Article 17(1) shall be clearly and indelibly marked. They shall stand out clearly from the background and they shall be of such a size and be spaced in such a way as to be easily read. They shall be formatted in accordance with section 1.2.1 of Annex I.
+> 4. The shape, colour and the size of a hazard pictogram as well as the dimensions of the label shall be as set out in section 1.2.1 of Annex I.
+> 5. A label shall not be required when the label elements referred to in Article 17(1) are shown clearly on the packaging itself. In such cases, the requirements of this Chapter applicable to a label shall be applied to the information shown on the packaging.
+
+*after* (`02008R1272-20250201`)
+
+> Article 31
+> General rules for the application of labels
+> 1. Labels shall be firmly affixed to one or more surfaces of the packaging immediately containing the substance or mixture and shall be readable horizontally when the package is set down normally.
+> 2. The colour and presentation of any label shall be such that the hazard pictogram stands out clearly.
+> 3. The label elements referred to in Article 17(1) shall be clearly and indelibly marked. They shall stand out clearly from the background and be of such size and spacing as to be easily read.
+> 4. The shape, colour and the size of a hazard pictogram as well as the dimensions of the label shall be as set out in section 1.2.1 of Annex I.
+> 5. A label shall not be required when the label elements referred to in Article 17(1) are shown clearly on the packaging itself. In such cases, the requirements of this Chapter applicable to a label shall be applied to the information shown on the packaging.
+
+**MODIFIED · Art. 35 — Packaging** · applies from: unchanged
+
+*within* `AR 35 PA 2a`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 35
+> Packaging
+> 1. Packaging containing hazardous substances or mixtures shall satisfy the following requirements:
+> (a) the packaging shall be designed and constructed so that its contents cannot escape, except in cases where other more specific safety devices are prescribed;
+> (b) the materials constituting the packaging and fastenings shall not be susceptible to damage by the contents, or liable to form hazardous compounds with the contents;
+> (c) the packaging and fastenings shall be strong and solid throughout to ensure that they will not loosen and will safely meet the normal stresses and strains of handling;
+> (d) packaging fitted with replaceable fastening devices shall be designed so that it can be refastened repeatedly without the contents escaping.
+> 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 1043 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 35
+> Packaging
+> 1. Packaging containing hazardous substances or mixtures shall satisfy the following requirements:
+> (a) the packaging shall be designed and constructed so that its contents cannot escape, except in cases where other more specific safety devices are prescribed;
+> (b) the materials constituting the packaging and fastenings shall not be susceptible to damage by the contents, or liable to form hazardous compounds with the contents;
+> (c) the packaging and fastenings shall be strong and solid throughout to ensure that they will not loosen and will safely meet the normal stresses and strains of handling;
+> (d) packaging fitted with replaceable fastening devices shall be designed so that it can be refastened repeatedly without the contents escaping.
+> 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 701 characters omitted…]
+
+**MODIFIED · Art. 40 — Obligation to notify the Agency** · applies from: unchanged
+
+*within* `AR 40 PA 1 ALN 1`, `AR 40 PA 1 ALN 1 PTA (e)`, `AR 40 PA 1 ALN 1 PTA (f)`, `AR 40 PA 1 ALN 1 PTA (g)`, `AR 40 PA 1 ALN 1 PTA (h)`, `AR 40 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 40
+> Obligation to notify the Agency
+> 1. Any manufacturer or importer, or group of manufacturers or importers (hereinafter referred to as the notifier(s)), who places on the market a substance referred to in Article 39, shall notify to the Agency the following information in order for it to be included in the inventory referred to in Article 42:
+> (a) the identity of the notifier(s) responsible for placing the substance or substances on the market as specified in section 1 of Annex VI to Regulation (EC) No 1907/2006;
+> (b) the identity of the substance or substances as specified in section 2.1 to 2.3.4 to Annex VI to Regulation (EC) No 1907/2006;
+> (c) the classification of the substance or substances in accordance with Article 13;
+> (d) where a substance has been classified in some but not all hazard classes or differentiations, an indication of whether this is due to lack of data, inconclusive data, or data which are conclusive although insufficient for classification;
+> (e) specific concentration limits, M-factors or acute toxicity estimates, where applicable, in accordance with Article 10 of this Regulation, together with a justification as referred to in the relevant parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006;
+> (f) the label elements specified in points (d), (e) and (f) of Article 17(1) for the substance or substances together with any supplemental hazard statements for the substance, determined in accordance with Article 25(1);
+> (g) where applicabl […truncated by emendrix: 1216 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 40
+> Obligation to notify the Agency
+> 1. Any manufacturer or importer, or group of manufacturers or importers (hereinafter referred to as the notifier(s)), who places on the market a substance referred to in Article 39, shall notify to the Agency the following information in order for it to be included in the inventory referred to in Article 42:
+> (a) the identity of the notifier(s) responsible for placing the substance or substances on the market as specified in section 1 of Annex VI to Regulation (EC) No 1907/2006;
+> (b) the identity of the substance or substances as specified in section 2.1 to 2.3.4 to Annex VI to Regulation (EC) No 1907/2006;
+> (c) the classification of the substance or substances in accordance with Article 13;
+> (d) where a substance has been classified in some but not all hazard classes or differentiations, an indication of whether this is due to lack of data, inconclusive data, or data which are conclusive although insufficient for classification;
+> (e) specific concentration limits or M-factors, where applicable, in accordance with Article 10 of this Regulation together with a justification using the relevant Parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006;
+> (f) the label elements specified in points (d), (e) and (f) of Article 17(1) for the substance or substances together with any supplemental hazard statements for the substance, determined in accordance with Article 25(1).
+> The information referred to in (a) to (f) shall not be not […truncated by emendrix: 831 characters omitted…]
+
+**MODIFIED · Art. 42 — The classification and labelling inventory** · applies from: unchanged
+
+*within* `AR 42 PA 1 ALN 1`, `AR 42 PA 1 ALN 1 PTA (a)`, `AR 42 PA 1 ALN 1 PTA (b)`, `AR 42 PA 1 ALN 1 PTA (c)`, `AR 42 PA 1 ALN 1 PTA (d)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 42
+> The classification and labelling inventory
+> 1. The Agency shall establish and maintain a classification and labelling inventory in the form of a database.
+> The information notified pursuant to Article 40(1) shall be included in the inventory, as well as information submitted as part of registrations under Regulation (EC) No 1907/2006.
+> The Agency shall make the following information publicly available online and free of charge:
+> (a) the information referred to in Article 40(1), point (a);
+> (b) the identity of the importer or manufacturer submitting the information on behalf of the other members of the group, in the case of group notifications;
+> (c) information in the inventory which corresponds to the information referred to in Article 119(1) of Regulation (EC) No 1907/2006;
+> (d) the date of the latest update of the classification and labelling.
+> Information referred to in Article 40(1), point (a), shall be made publicly available except where a notifier duly justifies why such publication is potentially harmful for its commercial interests or the commercial interests of any other concerned party.
+> The Agency shall provide information on legitimate grounds on which confidentiality claims may be made.
+> The Agency shall take measures to identify undue confidentiality claims, including automated screening and random manual checks.
+> 2. The Agency shall update the inventory when it receives updated information in accordance with Article 40(2) or Article 41.
+> 3. In addition to the i […truncated by emendrix: 737 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 42
+> The classification and labelling inventory
+> 1. The Agency shall establish and maintain a classification and labelling inventory in the form of a database.
+> The information notified pursuant to Article 40(1) shall be included in the inventory, as well as information submitted as part of registrations under Regulation (EC) No 1907/2006.
+> Information in the inventory which corresponds to the information referred to in Article 119(1) of Regulation (EC) No 1907/2006 shall be publicly accessible. The Agency shall grant access to the other information on each substance in the inventory to the notifiers and registrants who have submitted information on that substance in accordance with Article 29(1) of Regulation (EC) No 1907/2006. It shall grant access to such information to other parties subject to Article 118 of that Regulation.
+> 2. The Agency shall update the inventory when it receives updated information in accordance with Article 40(2) or Article 41.
+> 3. In addition to the information referred to in paragraph 1, the Agency shall, where applicable, include the following information in each entry:
+> (a) whether, in respect of the entry, there is harmonised classification and labelling at Community level by inclusion in Part 3 of Annex VI;
+> (b) whether, in respect of the entry, it is a joint entry between registrants of the same substance as referred to in Article 11(1) of Regulation (EC) No 1907/2006;
+> (c) whether it is an agreed entry of two or more notifiers or registrants in […truncated by emendrix: 230 characters omitted…]
+
+**MODIFIED · Art. 45 — Appointment of bodies responsible for receiving information relating to emergency health response** · applies from: unchanged
+
+*within* `AR 45 PA 3 ALN 1`, `AR 45 PA 1a`, `AR 45 PA 1b`, `AR 45 PA 1c`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving the relevant harmonised information relating to emergency health response and preventative measures, in accordance with Annex VIII.
+> 1a. Member States may appoint the Agency as the body responsible for receiving information relating to emergency health response and preventative measures referred to in paragraph 1.
+> 1b. Importers and downstream users placing on the market mixtures that are classified as hazardous on the basis of their health or physical effects, shall submit to the body or bodies appointed in accordance with paragraph 1 the information referred to in Part B of Annex VIII.
+> 1c. Distributors placing on the market mixtures that are classified as hazardous on the basis of their health or physical effects shall submit to the body or bodies appointed in accordance with paragraph 1 the information referred to in Part B of Annex VIII where they subsequently distribute those mixtures in other Member States, or where they rebrand or relabel the mixtures. That obligation shall not apply if the distributors can demonstrate that the appointed body or bodies already received the same information from importers and downstream users.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) t […truncated by emendrix: 941 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving the relevant harmonised information relating to emergency health response and preventative measures, in accordance with Annex VIII.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;
+> and
+> (b) where requested by the Member State, the Commission or the Agency, to undertake a statistical analysis to identify where improved risk management measures may be needed.
+> The information shall not be used for other purposes.
+> 3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.
+> 4. The Commission is empowered to adopt delegated acts in accordance with Article 53a amending Annex VIII to further harmonise the information relating to emergency health response and preventative measures, following consultation with relevant stakeholders such as the European Association of Poison Centres and Clinical Toxicologists (EAPCCT).
+
+**MODIFIED · Art. 48 — Advertisement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* +1997-05-20
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 48
+> Advertisement
+> 1. Any advertisement for a substance classified as hazardous shall indicate, as applicable, the hazard pictograms, signal words, hazard statements and supplemental EUH statements set out in Annex II. Any advertisement for such a substance for sale to the general public shall in addition state: Always follow the information on the product label..
+> 2. Any advertisement for a mixture classified as hazardous or covered by Article 25(6) shall indicate the hazard pictograms, signal words, hazard statements and supplemental EUH statements set out in Annex II. Any advertisement for such a mixture for sale to the general public shall, in addition, state: Always follow the information on the product label..
+> 3. Any advertisement for a substance or a mixture classified as hazardous shall not contain statements that are not to appear on the label or packaging of that substance or mixture in accordance with Article 25(4).
+> 4. By way of derogation from paragraphs 1 and 2, the hazard pictograms and signal words may be omitted where the advertisement is non-visual.
+
+*after* (`02008R1272-20250201`)
+
+> Article 48
+> Advertisement
+> 1. Any advertisement for a substance classified as hazardous shall mention the hazard classes or hazard categories concerned.
+> 2. Any advertisement for a mixture classified as hazardous or covered by Article 25(6) which allows a member of the general public to conclude a contract for purchase without first having sight of the label shall mention the type or types of hazard indicated on the label.
+> The first subparagraph shall be without prejudice to Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contractsOJ L 144, 4.6.1997, p. 19..
+
+**DELETED · Art. 48a — Distance sales offers** · applies from: unknown (a deleted provision has no application date to move)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> Article 48a
+> Distance sales offers
+> When substances or mixtures are placed on the market through distance sales, the offer shall clearly and visibly indicate the label elements referred to in Article 17.
+
+**MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unchanged
+
+*within* `AN I SCT 1 SCT 1.5 SCT 1.5.1`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (a)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (i)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iv)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (v)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (viii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ix)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (x)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (xi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (c)`, `AN I SCT 1 SCT 1.6`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+> 1.0. Definitions
+> Gas means a substance which:
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+> 1.1. Classification of substances and mixtures
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 372482 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+> 1.0. Definitions
+> Gas means a substance which:
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+> 1.1. Classification of substances and mixtures
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 371158 characters omitted…]
+
+**MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
+
+*within* `AN II SCT 3 SCT 3.4`, `AN II SCT 5`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+> 1.1. Physical properties
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+> 1.1.1. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+> 1.1.2. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, which may form fla […truncated by emendrix: 19424 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+> 1.1. Physical properties
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+> 1.1.1. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+> 1.1.2. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, which may form fla […truncated by emendrix: 15876 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 3` · *amended by* `32023R1435`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035654 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035675 characters omitted…]
+
+**MODIFIED · Annex VIII — HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES** · applies from: unchanged
+
+*within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 PO 6`, `AN VIII SCT 3.1`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 4.1`, `AN VIII SCT 1.4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20241210`)
+
+> ANNEX VIII
+> HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES
+> PART A
+> GENERAL REQUIREMENTS
+> 1. APPLICATION
+> 1.1. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for consumer use, within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for professional use, within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for industrial use or mixtures with an end use not subject to notification within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from section 1.4, if one of the changes described in section 4.1 of Part B of this Annex occurs before 1 January 2025, […truncated by emendrix: 43987 characters omitted…]
+
+*after* (`02008R1272-20250201`)
+
+> ANNEX VIII
+> HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES
+> PART A
+> GENERAL REQUIREMENTS
+> 1. APPLICATION
+> 1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers and downstream users placing on the market mixtures for industrial use or mixtures with an end use not subject to notification within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.
+> 2. PURPOSE, SCOPE AND DEFINITIONS
+> 2.1. This Annex sets out the requirements that importers and […truncated by emendrix: 41268 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20250201 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20241210 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20231201` → `02008R1272-20241210`
