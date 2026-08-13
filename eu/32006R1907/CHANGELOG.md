@@ -10,6 +10,67 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20210101 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20200824` → `02006R1907-20210101`
+
+- **Act** `eu:32006R1907` · **In force** 2021-01-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20200824` · `v2` = `02006R1907-20210101`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32020R0878`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — REQUIREMENTS FOR THE COMPILATION OF SAFETY DATA SHEETS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II`, `AN II SCT 0.1`, `AN II SCT 0.1 SCT 0.1.1`, `AN II SCT 0.1 SCT 0.1.2`, `AN II SCT 0.2`, `AN II SCT 0.2 SCT 0.2.1`, `AN II SCT 0.2 SCT 0.2.2`, `AN II SCT 0.2 SCT 0.2.3`, `AN II SCT 0.2 SCT 0.2.4`, `AN II SCT 0.2 SCT 0.2.5`, `AN II SCT 0.5`, `AN II SCT 0.7 SCT 1`, `AN II SCT 0.7 SCT 2`, `AN II SCT 0.7 SCT 3`, `AN II SCT 0.7 SCT 4`, `AN II SCT 0.7 SCT 5`, `AN II SCT 0.7 SCT 6`, `AN II SCT 0.7 SCT 7`, `AN II SCT 0.7 SCT 8`, `AN II SCT 0.7 SCT 9`, `AN II SCT 0.7 SCT 10`, `AN II SCT 0.7 SCT 11`, `AN II SCT 0.7 SCT 12`, `AN II SCT 0.7 SCT 13`, `AN II SCT 0.7 SCT 14`, `AN II SCT 0.7 SCT 15`, `AN II SCT 0.7 SCT 16`, `AN II SCT 1`, `AN II SCT 1 SCT 1.1`, `AN II SCT 1 SCT 1.2`, `AN II SCT 1 SCT 1.3`, `AN II SCT 1 SCT 1.4`, `AN II SCT 2`, `AN II SCT 2 SCT 2.1`, `AN II SCT 2 SCT 2.2`, `AN II SCT 2 SCT 2.3`, `AN II SCT 3`, `AN II SCT 3 SCT 3.1`, `AN II SCT 3 SCT 3.2`, `AN II SCT 4`, `AN II SCT 4 SCT 4.1`, `AN II SCT 4 SCT 4.2`, `AN II SCT 4 SCT 4.3`, `AN II SCT 5`, `AN II SCT 5 SCT 5.1`, `AN II SCT 5 SCT 5.2`, `AN II SCT 5 SCT 5.3`, `AN II SCT 6`, `AN II SCT 6 SCT 6.1`, `AN II SCT 6 SCT 6.2`, `AN II SCT 6 SCT 6.3`, `AN II SCT 6 SCT 6.4`, `AN II SCT 7`, `AN II SCT 7 SCT 7.1`, `AN II SCT 7 SCT 7.2`, `AN II SCT 7 SCT 7.3`, `AN II SCT 8`, `AN II SCT 8 SCT 8.1`, `AN II SCT 8 SCT 8.2`, `AN II SCT 9`, `AN II SCT 9 SCT 9.1`, `AN II SCT 9 SCT 9.2`, `AN II SCT 10`, `AN II SCT 10 SCT 10.1`, `AN II SCT 10 SCT 10.2`, `AN II SCT 10 SCT 10.3`, `AN II SCT 10 SCT 10.4`, `AN II SCT 10 SCT 10.5`, `AN II SCT 10 SCT 10.6`, `AN II SCT 11`, `AN II SCT 11 SCT 11.1`, `AN II SCT 12`, `AN II SCT 12 SCT 12.1`, `AN II SCT 12 SCT 12.2`, `AN II SCT 12 SCT 12.3`, `AN II SCT 12 SCT 12.4`, `AN II SCT 12 SCT 12.5`, `AN II SCT 12 SCT 12.6`, `AN II SCT 13`, `AN II SCT 13 SCT 13.1`, `AN II SCT 14`, `AN II SCT 14 SCT 14.1`, `AN II SCT 14 SCT 14.2`, `AN II SCT 14 SCT 14.3`, `AN II SCT 14 SCT 14.4`, `AN II SCT 14 SCT 14.5`, `AN II SCT 14 SCT 14.6`, `AN II SCT 14 SCT 14.7`, `AN II SCT 15`, `AN II SCT 15 SCT 15.1`, `AN II SCT 15 SCT 15.2`, `AN II SCT 16`, `AN II SCT 16 PTA (a)`, `AN II SCT 16 PTA (b)`, `AN II SCT 16 PTA (c)`, `AN II SCT 16 PTA (d)`, `AN II SCT 16 PTA (e)`, `AN II SCT 16 PTA (f)` · *dates* -1989-12-21 -1996-12-09 -2007-01-01 -2009-01-01 -2015-01-01 +2002-06-27 +2016-03-09 +2017-09-04 +2018-04-19 · *amended by* `32020R0878`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The Annex II text on safety data sheet requirements has been substantially rewritten across nearly all sections, adding new provisions such as a 0.1.3 subsection on nanoforms, references to endocrine-disrupting property criteria under Delegated Regulation (EU) 2017/2100 and Regulation (EU) 2018/605, a unique formula identifier (UFI) reference in subsection 1.1, and revised concentration thresholds and sensitiser categories in Table 1.1 and subsections 3.2.1 to 3.2.3. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200824#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_II)
+
+Cross-references to MARPOL and the IBC Code were altered, with the specific citation to the IBC Code and Marpol Annex II removed and replaced by a general reference to relevant IMO instruments in section 0.5. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200824#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_II)
+
+The provided text is truncated partway through subsection 8.2 in the AFTER version, so further differences beyond that point cannot be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_II)
+
+*before* (`02006R1907-20200824`)
+
+> ANNEX II
+> REQUIREMENTS FOR THE COMPILATION OF SAFETY DATA SHEETS
+> PART A
+> 0.1. Introduction
+> 0.1.1. This Annex sets out the requirements that the supplier shall fulfil for the compilation of a safety data sheet that is provided for a substance or a mixture in accordance with Article 31.
+> 0.1.2. The information provided in the safety data sheet shall be consistent with the information in the chemical safety report, where one is required. Where a chemical safety report has been completed, the relevant exposure scenario(s) shall be placed in an annex to the safety data sheet.
+> 0.2. General requirements for compiling a safety data sheet
+> 0.2.1. The safety data sheet shall enable users to take the necessary measures relating to protection of human health and safety at the workplace, and protection of the environment. The writer of the safety data sheet shall take into account that a safety data sheet must inform its audience of the hazards of a substance or a mixture and provide information on the safe storage, handling and disposal of the substance or the mixture.
+> 0.2.2. The information provided by safety data sheets shall also meet the requirements set out in Directive 98/24/EC. In particular, the safety data sheet shall enable employers to determine whether any hazardous chemical agents are present in the workplace and to assess any risk to the health and safety of workers arising from their use.
+> 0.2.3. The information in the safety data sheet shall be written in a clear and concise m […truncated by emendrix: 66823 characters omitted…]
+
+*after* (`02006R1907-20210101`)
+
+> ANNEX II
+> REQUIREMENTS FOR THE COMPILATION OF SAFETY DATA SHEETS
+> PART A
+> 0.1. Introduction
+> 0.1.1. This Annex sets out the requirements that the supplier shall fulfil for the compilation of a safety data sheet that is provided for a substance or a mixture in accordance with Article 31.
+> 0.1.2. The information on substances provided in the safety data sheet shall be consistent with the information in the registration and in the chemical safety report, where required. Where a chemical safety report has been completed, the relevant exposure scenario(s) shall be placed in an annex to the safety data sheet.
+> 0.1.3. The safety data sheet shall mention in each relevant section whether and which different nanoforms it covers and link the relevant safety information to each of those nanoforms. As provided for in Annex VI, the term nanoform in this Annex refers to a nanoform or a set of similar nanoforms.
+> 0.2. General requirements for compiling a safety data sheet
+> 0.2.1. The safety data sheet shall enable users to take the necessary measures relating to protection of human health and safety at the workplace, and protection of the environment. The writer of the safety data sheet shall take into account that a safety data sheet must inform its audience of the hazards of a substance or a mixture and provide information on the safe storage, handling and disposal of the substance or the mixture.
+> 0.2.2. The information provided by safety data sheets shall also meet the requirements set out in Dir […truncated by emendrix: 91403 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20210101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200824 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20200428` → `02006R1907-20200824`
