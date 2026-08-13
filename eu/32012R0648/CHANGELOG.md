@@ -10,6 +10,117 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20190101 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20170630` → `02012R0648-20190101`
+
+- **Act** `eu:32012R0648` · **In force** 2019-01-01 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20170630` · `v2` = `02012R0648-20190101`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unchanged
+
+*within* `AR 2 ALN 1 PO 29`, `AR 2 ALN 1 PO 30`, `AR 2 ALN 1 PO 31` · *amended by* `32017R2402`
+
+The list of definitions gains two new entries following the existing one for senior management: a definition of covered bond referencing the requirements of Article 129 of Regulation (EU) No 575/2013, and a definition of covered bond entity referring to the covered bond issuer or cover pool of a covered bond. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
+
+The prior version's text ended with the definition of senior management and did not include any definition for covered bond or covered bond entity. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_2)
+
+*before* (`02012R0648-20170630`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> (1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+> (2) trade repository means a legal person that centrally collects and maintains the records of derivatives;
+> (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
+> (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
+> (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7876 characters omitted…]
+
+*after* (`02012R0648-20190101`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> (1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+> (2) trade repository means a legal person that centrally collects and maintains the records of derivatives;
+> (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
+> (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
+> (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 8067 characters omitted…]
+
+**MODIFIED · Art. 4 — Clearing obligation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 PA 5`, `AR 4 PA 6` · *dates* +2017-12-12 +2018-07-18 · *amended by* `32017R2402`
+
+The AFTER text adds a new paragraph 5 stating that paragraph 1 does not apply to OTC derivative contracts concluded by covered bond entities in connection with a covered bond, or by securitisation special purpose entities in connection with a securitisation within the meaning of Regulation (EU) 2017/2402, subject to conditions on the securitisation meeting certain requirements, the derivative being used only to hedge interest rate or currency mismatches, and arrangements adequately mitigating counterparty credit risk. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
+
+The AFTER text also adds a new paragraph 6 directing the ESAs to develop draft regulatory technical standards on criteria for adequate mitigation of counterparty credit risk under paragraph 5, with submission to the Commission by 18 July 2018 and delegation of power to the Commission to adopt those standards. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
+
+The BEFORE text contains only paragraphs 1 through 4 and does not include these provisions on covered bonds or securitisation special purpose entities. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_4)
+
+*before* (`02012R0648-20170630`)
+
+> Article 4
+> Clearing obligation
+> 1. Counterparties shall clear all OTC derivative contracts pertaining to a class of OTC derivatives that has been declared subject to the clearing obligation in accordance with Article 5(2), if those contracts fulfil both of the following conditions:
+> (a) they have been concluded in one of the following ways:
+> (i) between two financial counterparties;
+> (ii) between a financial counterparty and a non-financial counterparty that meets the conditions referred to in Article 10(1)(b);
+> (iii) between two non-financial counterparties that meet the conditions referred to in Article 10(1)(b);
+> (iv) between a financial counterparty or a non-financial counterparty meeting the conditions referred to in Article 10(1)(b) and an entity established in a third country that would be subject to the clearing obligation if it were established in the Union; or
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or appropriate to prevent the evasion of any provisions of this Regulation; and
+> (b) they are entered into or novated either:
+> (i) on or after the date from which the clearing obligation takes effect; or
+> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 3296 characters omitted…]
+
+*after* (`02012R0648-20190101`)
+
+> Article 4
+> Clearing obligation
+> 1. Counterparties shall clear all OTC derivative contracts pertaining to a class of OTC derivatives that has been declared subject to the clearing obligation in accordance with Article 5(2), if those contracts fulfil both of the following conditions:
+> (a) they have been concluded in one of the following ways:
+> (i) between two financial counterparties;
+> (ii) between a financial counterparty and a non-financial counterparty that meets the conditions referred to in Article 10(1)(b);
+> (iii) between two non-financial counterparties that meet the conditions referred to in Article 10(1)(b);
+> (iv) between a financial counterparty or a non-financial counterparty meeting the conditions referred to in Article 10(1)(b) and an entity established in a third country that would be subject to the clearing obligation if it were established in the Union; or
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or appropriate to prevent the evasion of any provisions of this Regulation; and
+> (b) they are entered into or novated either:
+> (i) on or after the date from which the clearing obligation takes effect; or
+> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 5456 characters omitted…]
+
+**MODIFIED · Art. 11 — Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 11 PA 15 ALN 1 PTA (b)`, `AR 11 PA 15 ALN 1 PTA (c)`, `AR 11 PA 15 ALN 1 PTA (d)`, `AR 11 PA 15 ALN 2`, `AR 11 PA 15 ALN 3`, `AR 11 PA 15 ALN 4` · *dates* +2018-07-18 · *amended by* `32017R2402`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02012R0648-20170630`)
+
+> Article 11
+> Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP
+> 1. Financial counterparties and non-financial counterparties that enter into an OTC derivative contract not cleared by a CCP, shall ensure, exercising due diligence, that appropriate procedures and arrangements are in place to measure, monitor and mitigate operational risk and counterparty credit risk, including at least:
+> (a) the timely confirmation, where available, by electronic means, of the terms of the relevant OTC derivative contract;
+> (b) formalised processes which are robust, resilient and auditable in order to reconcile portfolios, to manage the associated risk and to identify disputes between parties early and resolve them, and to monitor the value of outstanding contracts.
+> 2. Financial counterparties and non-financial counterparties referred to in Article 10 shall mark-to-market on a daily basis the value of outstanding contracts. Where market conditions prevent marking-to-market, reliable and prudent marking-to-model shall be used.
+> 3. Financial counterparties shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative contracts that are entered into on or after 16 August 2012. Non-financial counterparties referred to in Article 10 shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative co […truncated by emendrix: 9377 characters omitted…]
+
+*after* (`02012R0648-20190101`)
+
+> Article 11
+> Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP
+> 1. Financial counterparties and non-financial counterparties that enter into an OTC derivative contract not cleared by a CCP, shall ensure, exercising due diligence, that appropriate procedures and arrangements are in place to measure, monitor and mitigate operational risk and counterparty credit risk, including at least:
+> (a) the timely confirmation, where available, by electronic means, of the terms of the relevant OTC derivative contract;
+> (b) formalised processes which are robust, resilient and auditable in order to reconcile portfolios, to manage the associated risk and to identify disputes between parties early and resolve them, and to monitor the value of outstanding contracts.
+> 2. Financial counterparties and non-financial counterparties referred to in Article 10 shall mark-to-market on a daily basis the value of outstanding contracts. Where market conditions prevent marking-to-market, reliable and prudent marking-to-model shall be used.
+> 3. Financial counterparties shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative contracts that are entered into on or after 16 August 2012. Non-financial counterparties referred to in Article 10 shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative co […truncated by emendrix: 9948 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20190101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170630 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20170401` → `02012R0648-20170630`
