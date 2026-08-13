@@ -10,6 +10,256 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210628 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20210213` → `02012R0648-20210628`
+
+- **Act** `eu:32012R0648` · **In force** 2021-06-17, 2021-06-18, 2021-06-28 · **Detected** 2026-08-13
+- **Touched** 7 provisions — 7 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 121 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20210213` · `v2` = `02012R0648-20210628`
+
+---
+
+**MODIFIED · Art. 4 — Clearing obligation** · applies from: unchanged
+
+*within* `AR 4 PA 3a` · *amended by* `32019R0834`
+
+A new paragraph 3a has been inserted requiring clearing members and clients who provide clearing services, directly or indirectly, to offer those services on fair, reasonable, non-discriminatory and transparent commercial terms, and to take reasonable measures to identify, prevent, manage and monitor conflicts of interest, including between trading and clearing units and across different legal entities in the same group. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
+
+The new paragraph also states that clearing members and clients are permitted to control risks related to the clearing services offered, and it empowers the Commission to adopt delegated acts under Article 82 specifying the conditions under which such commercial terms are considered fair, reasonable, non-discriminatory and transparent, based on listed factors covering fees and pricing transparency, reasonable commercial terms, proportionality of price differences to costs and risks, and risk control criteria. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
+
+This paragraph 3a did not appear in the earlier version of Article 4, which moved directly from paragraph 3 to paragraph 4. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_4)
+
+*before* (`02012R0648-20210213`)
+
+> Article 4
+> Clearing obligation
+> 1. Counterparties shall clear all OTC derivative contracts pertaining to a class of OTC derivatives that has been declared subject to the clearing obligation in accordance with Article 5(2), if those contracts fulfil both of the following conditions:
+> (a) they have been concluded in one of the following ways:
+> (i) between two financial counterparties that meet the conditions set out in the second subparagraph of Article 4a(1);
+> (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
+> (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
+> (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 5614 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 4
+> Clearing obligation
+> 1. Counterparties shall clear all OTC derivative contracts pertaining to a class of OTC derivatives that has been declared subject to the clearing obligation in accordance with Article 5(2), if those contracts fulfil both of the following conditions:
+> (a) they have been concluded in one of the following ways:
+> (i) between two financial counterparties that meet the conditions set out in the second subparagraph of Article 4a(1);
+> (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
+> (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
+> (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 7461 characters omitted…]
+
+**MODIFIED · Art. 50a — Calculation of K CCP** · applies from: unchanged
+
+*within* `AR 50a PA 2 ALN 1` · *amended by* `32019R0876`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02012R0648-20210213`)
+
+> Article 50a
+> Calculation of KCCP
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio
+> where:
+> EBRMi
+> exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted to the CCP by clearing member i;
+> DFi
+> the pre-funded contribution of clearing member i;
+> RW
+> a risk weight of 20 %;
+> capital ratio
+> 8 %.
+> All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+> 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
+> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 560 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 50a
+> Calculation of KCCP
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 2. A CCP shall calculate the hypothetical capital as follows:KCCPi EADiRWcapital ratio
+> where:
+> KCCP
+> the hypothetical capital;
+> i
+> the index denoting the clearing member;
+> EADi
+> the exposure amount of the CCP to clearing member i, including the clearing member's own transactions with the CCP, the client transactions guaranteed by the clearing member, and all values of collateral held by the CCP, including the clearing member's pre-funded default fund contribution, against those transactions, relating to the valuation at the end of the regulatory reporting date before the margin called on the final margin call of that day is exchanged;
+> RW
+> a risk weight of 20 %; and
+> capital ratio
+> 8 %.
+> 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
+> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:
+> (a) the frequency and dates of the […truncated by emendrix: 514 characters omitted…]
+
+**MODIFIED · Art. 50b — General rules for the calculation of K CCP** · applies from: unchanged
+
+*within* `AR 50b ALN 1`, `AR 50b ALN 1 PTA (a)`, `AR 50b ALN 1 PTA (a) PTI (i)`, `AR 50b ALN 1 PTA (a) PTI (ii)`, `AR 50b ALN 1 PTA (a) PTI (iii)`, `AR 50b ALN 1 PTA (b)`, `AR 50b ALN 1 PTA (c)`, `AR 50b ALN 1 PTA (d)`, `AR 50b ALN 1 PTA (e)`, `AR 50b ALN 1 PTA (f)`, `AR 50b ALN 1 PTA (g)`, `AR 50b ALN 1 PTA (h)`, `AR 50b ALN 1 PTA (i)`, `AR 50b ALN 1 PTA (i) PTI (i)`, `AR 50b ALN 1 PTA (i) PTI (ii)`, `AR 50b ALN 1 PTA (j)`, `AR 50b ALN 1 PTA (k)`, `AR 50b ALN 1 PTA (l)`, `AR 50b ALN 2` · *amended by* `32019R0876`
+
+The provision replaces the earlier point-by-point exposure calculation methods (mark-to-market method, Financial Collateral Comprehensive Method, and Part Three Title V treatment) with a new EAD formula based on exposure before risk mitigation, initial margin and pre-funded default fund contributions, applied with a ten-business-day margin period of risk. [Art. 50b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50b) [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50b)
+
+The netting-set cross-reference is changed from Part Three, Title II of Regulation (EU) No 575/2013 to point (4) of Article 272 of that Regulation, and the former points on NGR calculation, its unavailability, notification duties, and the option-delta adjustment are removed and replaced with new points on collateral allocation across account types, sub-account-level EAD and default-fund-contribution calculations for client clearing, and an exclusion from the Article 50a(2) calculation for default funds covering cash transactions only. [Art. 50b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50b) [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50b)
+
+The provisions on exposures to other CCPs, on treatment of initial margin under binding contractual arrangements, and on separate calculation per default fund are retained but renumbered and re-expressed, with the subtraction-of-collateral rule no longer stated as a separate point. [Art. 50b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50b) [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50b)
+
+*before* (`02012R0648-20210213`)
+
+> Article 50b
+> General rules for the calculation of KCCP
+> For the purposes of the calculation laid down in Article 50a(2), the following shall apply:
+> (a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:
+> (i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;
+> (ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;
+> (iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;
+> (b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;
+> (c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervis […truncated by emendrix: 2545 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 50b
+> General rules for the calculation of KCCP
+> For the purpose of calculating KCCP referred to in Article 50a(2), the following provisions shall apply:
+> (a) CCPs shall calculate the value of the exposures they have to their clearing members as follows:
+> (i) for exposures arising from contracts and transactions listed in points (a) and (c) of Article 301(1) of Regulation (EU) No 575/2013, CCPs shall calculate the value in accordance with the method set out in Section 3 of Chapter 6 of Title II of Part Three of that Regulation by using a margin period of risk of 10 business days;
+> (ii) for exposures arising from contracts and transactions listed in point (b) of Article 301(1) of Regulation (EU) No 575/2013, CCPs shall calculate the value (EADi) in accordance with the following formula:
+> EADi = max{EBRMi – IMi – DFi; 0}
+> where:
+> EADi
+> the exposure value;
+> i
+> the index denoting the clearing member;
+> EBRMi
+> the exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted with the CCP by clearing member i;
+> DFi
+> the pre-funded default fund contribution of clearing member i.
+> All values in this formula shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged;
+> (iii) for situations referred […truncated by emendrix: 2984 characters omitted…]
+
+**MODIFIED · Art. 50c — Reporting of information** · applies from: unchanged
+
+*within* `AR 50c PA 1 ALN 1 PTA (c)` · *amended by* `32019R0876`
+
+The only change is a punctuation edit in point (c), where the semicolon at the end of the sentence has been replaced with a full stop. [Art. 50c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50c)
+
+*before* (`02012R0648-20210213`)
+
+> Article 50c
+> Reporting of information
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013, a CCP shall report the following information to those of its clearing members which are institutions and to their competent authorities:
+> (a) the hypothetical capital (KCCP);
+> (b) the sum of pre-funded contributions (DFCM);
+> (c) the amount of its pre-funded financial resources that it is required to use — by law or due to a contractual agreement with its clearing members — to cover its losses following the default of one or more of its clearing members before using the default fund contributions of the remaining clearing members (DFCCP);
+> (d) the total number of its clearing members (N);
+> (e) the concentration factor (β), as set out in Article 50d.
+> Where the CCP has more than one default fund, it shall report the information in the first subparagraph for each default fund separately.
+> 2. The CCP shall notify those of its clearing members which are institutions at least quarterly or more frequently where required by the competent authorities of those clearing members.
+> 3. EBA shall develop draft implementing technical standards to specify the following:
+> (a) the uniform template for the purpose of the reporting specified in paragraph 1;
+> (b) the frequency and dates of the reporting specified in paragraph 2;
+> (c) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of reporting than those referred to in point (b). […truncated by emendrix: 281 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 50c
+> Reporting of information
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013, a CCP shall report the following information to those of its clearing members which are institutions and to their competent authorities:
+> (a) the hypothetical capital (KCCP);
+> (b) the sum of pre-funded contributions (DFCM);
+> (c) the amount of its pre-funded financial resources that it is required to use — by law or due to a contractual agreement with its clearing members — to cover its losses following the default of one or more of its clearing members before using the default fund contributions of the remaining clearing members (DFCCP).
+> (d) the total number of its clearing members (N);
+> (e) the concentration factor (β), as set out in Article 50d.
+> Where the CCP has more than one default fund, it shall report the information in the first subparagraph for each default fund separately.
+> 2. The CCP shall notify those of its clearing members which are institutions at least quarterly or more frequently where required by the competent authorities of those clearing members.
+> 3. EBA shall develop draft implementing technical standards to specify the following:
+> (a) the uniform template for the purpose of the reporting specified in paragraph 1;
+> (b) the frequency and dates of the reporting specified in paragraph 2;
+> (c) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of reporting than those referred to in point (b). […truncated by emendrix: 281 characters omitted…]
+
+**MODIFIED · Art. 50d** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 78 — General requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 78 PA 9`, `AR 78 PA 10` · *dates* +2020-06-18 · *amended by* `32019R0834`
+
+The revised version adds two new paragraphs, 9 and 10, that were absent from the earlier text. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_78)
+
+Paragraph 9 requires a trade repository to establish procedures for reconciling data between trade repositories, verifying the completeness and correctness of reported data, and transferring data to other trade repositories when requested or otherwise necessary. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_78)
+
+Paragraph 10 directs ESMA to develop draft regulatory technical standards on data reconciliation procedures and on verification of reporting compliance and data completeness and correctness, with submission to the Commission by 18 June 2020, and empowers the Commission to adopt those standards under Articles 10 to 14 of Regulation (EU) No 1095/2010. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_78)
+
+*before* (`02012R0648-20210213`)
+
+> Article 78
+> General requirements
+> 1. A trade repository shall have robust governance arrangements, which include a clear organisational structure with well defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent any disclosure of confidential information.
+> 2. A trade repository shall maintain and operate effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, employees, or any person directly or indirectly linked to them by close links.
+> 3. A trade repository shall establish adequate policies and procedures sufficient to ensure its compliance, including of its managers and employees, with all the provisions of this Regulation.
+> 4. A trade repository shall maintain and operate an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures.
+> 5. Where a trade repository offers ancillary services such as trade confirmation, trade matching, credit event servicing, portfolio reconciliation or portfolio compression services, the trade repository shall maintain those ancillary services operationally separate from the trade repository’s function of centrally collecting and maintaining records of derivatives.
+> 6. T […truncated by emendrix: 1161 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 78
+> General requirements
+> 1. A trade repository shall have robust governance arrangements, which include a clear organisational structure with well defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent any disclosure of confidential information.
+> 2. A trade repository shall maintain and operate effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, employees, or any person directly or indirectly linked to them by close links.
+> 3. A trade repository shall establish adequate policies and procedures sufficient to ensure its compliance, including of its managers and employees, with all the provisions of this Regulation.
+> 4. A trade repository shall maintain and operate an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures.
+> 5. Where a trade repository offers ancillary services such as trade confirmation, trade matching, credit event servicing, portfolio reconciliation or portfolio compression services, the trade repository shall maintain those ancillary services operationally separate from the trade repository’s function of centrally collecting and maintaining records of derivatives.
+> 6. T […truncated by emendrix: 2349 characters omitted…]
+
+**MODIFIED · Art. 89 — Transitional provisions** · applies from: unchanged
+
+*within* `AR 89 PA 5a ALN 1`, `AR 89 PA 5a ALN 1 PTA (a)`, `AR 89 PA 5a ALN 1 PTA (b)`, `AR 89 PA 5a ALN 2`, `AR 89 PA 5a ALN 3`, `AR 89 PA 5a ALN 4` · *amended by* `32021R0962`, `32019R0876`
+
+Paragraph 5a is rewritten from a rule tied to deadlines running from the entry into force of specified regulatory technical standards or a CCP authorisation/recognition decision, to a rule tied instead to the transitional period set out in Article 497 of Regulation (EU) No 575/2013. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_89)
+
+The reporting obligation is now expressed as applying to a CCP referred to in that Article 497, requiring inclusion of the total amount of initial margin as defined in point (140) of Article 4(1) of Regulation (EU) No 575/2013, and is now conditioned on two separately listed conditions, that the CCP has no default fund and that it has no binding arrangement letting it use initial margin as pre-funded contributions, rather than being framed as a single combined condition. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_89)
+
+The prior text's separate provision allowing a six-month extension of the deadlines by Commission implementing act under Article 497(3) of Regulation (EU) No 575/2013 is no longer present in the same form. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_89)
+
+*before* (`02012R0648-20210213`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 18 June 2021, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks that directly relate to the financial solvency of pension scheme arrangements, and to entities established to provide compensation to members of such arrangements in case of default.
+> The clearing obligation set out in Article 4 shall not apply to OTC derivative contracts as referred to in the first subparagraph of this paragraph entered into by pension scheme arrangements from 17 August 2018 until 16 June 2019.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The […truncated by emendrix: 9217 characters omitted…]
+
+*after* (`02012R0648-20210628`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 18 June 2021, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks that directly relate to the financial solvency of pension scheme arrangements, and to entities established to provide compensation to members of such arrangements in case of default.
+> The clearing obligation set out in Article 4 shall not apply to OTC derivative contracts as referred to in the first subparagraph of this paragraph entered into by pension scheme arrangements from 17 August 2018 until 16 June 2019.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The […truncated by emendrix: 8418 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20210628 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210213 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20210211` → `02012R0648-20210213`
