@@ -10,6 +10,49 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20161224 -->
+## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
+### `02014R1286-20141229` → `02014R1286-20161224`
+
+- **Act** `eu:32014R1286` · **In force** 2016-12-24 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 33 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R1286-20141229` · `v2` = `02014R1286-20161224`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32016R2340`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DEFERRED · Art. 34 — Article 34** · applies from: 2018-01-01
+
+*within* `AR 34 ALN 2` · *dates* -2016-12-31 +2018-01-01 · *amended by* `32016R2340`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The date from which the Regulation applies changes from 31 December 2016 to 1 January 2018, while the entry-into-force sentence remains unchanged. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20141229#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20161224#art_34)
+
+*before* (`02014R1286-20141229`)
+
+> Article 34
+> This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> It shall apply from 31 December 2016.
+
+*after* (`02014R1286-20161224`)
+
+> Article 34
+> This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> It shall apply from 1 January 2018.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R1286-20161224 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20141229 -->
 ## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
 ### `32014R1286` → `02014R1286-20141229`
