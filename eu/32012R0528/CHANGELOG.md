@@ -10,6 +10,77 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20191120 -->
+## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
+### `02012R0528-20140425` → `02012R0528-20191120`
+
+- **Act** `eu:32012R0528` · **In force** 2019-11-20 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0528-20140425` · `v2` = `02012R0528-20191120`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I` · *dates* +2001-12-20 +2021-06-01 · *amended by* `32019R1825`, `32019R1824`, `32019R1823`, `32019R1822`, `32019R1821`, `32019R1820`, `32019R1819`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02012R0528-20140425`)
+
+> ANNEX I
+> LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
+> EC number Name/group Restriction Comment
+> Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008
+> 200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 270
+> 204-823-8 Sodium acetate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 262
+> 208-534-8 Sodium benzoate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 211
+> 201-766-0 (+)-Tartaric acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 334
+> 200-580-7 Acetic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 260
+> 201-176-3 Propionic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 280
+> Category 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006
+> 200-066-2 Ascorbic acid 232-278-6 Linseed oil Category 3 — Wea […truncated by emendrix: 822 characters omitted…]
+
+*after* (`02012R0528-20191120`)
+
+> ANNEX I
+> LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
+> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).
+> EC number Name/group Restriction Comment
+> Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008
+> 200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 270
+> 204-823-8 Sodium acetate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 262
+> 208-53 […truncated by emendrix: 2509 characters omitted…]
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02012R0528-20140425`)
+
+> ANNEX II
+> INFORMATION REQUIREMENTS FOR ACTIVE SUBSTANCES
+> 1. This Annex sets out the information requirements for the preparation of the dossier referred to in point (a) of Article 6(1).
+> 2. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all active substances. However, in some cases the physical or chemical properties of the substance may mean that it is impossible or unnecessary to provide specific data elements belonging to the CDS.
+> With regard to the ADS, the data elements to be provided for a specific active substance shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the substance, existing data, information which is part of the CDS and the types of products in which the active substance will be used and the exposure patterns related to these uses.
+> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 50339 characters omitted…]
+
+*after* (`02012R0528-20191120`)
+
+> ANNEX II
+> INFORMATION REQUIREMENTS FOR ACTIVE SUBSTANCES
+> 1. This Annex sets out the information requirements for the preparation of the dossier referred to in point (a) of Article 6(1).
+> 2. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all active substances. However, in some cases the physical or chemical properties of the substance may mean that it is impossible or unnecessary to provide specific data elements belonging to the CDS.
+> With regard to the ADS, the data elements to be provided for a specific active substance shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the substance, existing data, information which is part of the CDS and the types of products in which the active substance will be used and the exposure patterns related to these uses.
+> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 50340 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20191120 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20140425 -->
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20130923` → `02012R0528-20140425`
