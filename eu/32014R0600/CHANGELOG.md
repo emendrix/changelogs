@@ -10,6 +10,57 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20200704 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20200326` → `02014R0600-20200704`
+
+- **Act** `eu:32014R0600` · **In force** 2020-07-04 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20200326` · `v2` = `02014R0600-20200704`
+
+---
+
+**MODIFIED · Art. 54 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 54 PA 2 ALN 1` · *dates* -2020-07-03 +2021-02-11 +2021-07-03 · *amended by* `32021R0023`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The deadline by which a CCP or trading venue may apply to its competent authority for permission to use transitional arrangements is changed from a reference to the entry into application of the Regulation to a fixed date of 11 February 2021. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54)
+
+The end date of the transitional period during which Article 35 or 36 would not apply is changed from 3 July 2020 to 3 July 2021. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54)
+
+The wording describing what happens once a transitional period is approved is rephrased from stating that the CCP or trading venue cannot benefit from the access rights to stating that it shall not benefit from them, with minor phrasing adjustments elsewhere in the paragraph. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200326#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54)
+
+*before* (`02014R0600-20200326`)
+
+> Article 54
+> Transitional provisions
+> 1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.
+> 2. If the Commission assesses that there is not a need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before the entry into application of this Regulation, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2020. Where such a transitional period is approved, the CCP or trading venue cannot benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that transitional period. The competent authority shall notify ESMA, and in the case of a CCP the college of competent authorities for that CCP, when a transitional period is approved.
+> Where a CCP which has been approved for t […truncated by emendrix: 527 characters omitted…]
+
+*after* (`02014R0600-20200704`)
+
+> Article 54
+> Transitional provisions
+> 1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.
+> 2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transitional period is approved.
+> Where a CCP which has been approved for the transitional arrangements, is connecte […truncated by emendrix: 486 characters omitted…]
+
+**MODIFIED · Art. 95** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20200704 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20200326 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20160701` → `02014R0600-20200326`

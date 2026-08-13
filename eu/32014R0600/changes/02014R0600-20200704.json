@@ -1,0 +1,405 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0600",
+    "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02014R0600-20200326",
+  "to_version": "02014R0600-20200704",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2020-07-04"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 55,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20200704",
+          "location": "AR 54"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 54\nTransitional provisions\n1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.\n2. If the Commission assesses that there is not a need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before the entry into application of this Regulation, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2020. Where such a transitional period is approved, the CCP or trading venue cannot benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that transitional period. The competent authority shall notify ESMA, and in the case of a CCP the college of competent authorities for that CCP, when a transitional period is approved.\nWhere a CCP which has been approved for the transitional arrangements, is connected by close links to one or more trading venues, those trading venues shall not benefit from access rights under Article 35 or 36 for exchange-traded derivatives for the duration of that transitional period.\nWhere a trading venue, which has been approved for the transitional arrangements, is connected by close links to one or more CCPs, those CCPs shall not benefit from access rights under Article 35 or 36 for exchange-traded derivatives for the duration of that transitional period.",
+        "after": "Article 54\nTransitional provisions\n1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.\n2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transitional period is approved.\nWhere a CCP which has been approved for the transitional arrangements, is connected by close links to one or more trading venues, those trading venues shall not benefit from access rights under Article 35 or 36 for exchange-traded derivatives for the duration of that transitional period.\nWhere a trading venue, which has been approved for the transitional arrangements, is connected by close links to one or more CCPs, those CCPs shall not benefit from access rights under Article 35 or 36 for exchange-traded derivatives for the duration of that transitional period.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 54 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2020-07-03"
+        ],
+        "dates_added": [
+          "2021-02-11",
+          "2021-07-03"
+        ],
+        "in_force": "2020-07-04",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32021R0023, 0.938 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The deadline by which a CCP or trading venue may apply to its competent authority for permission to use transitional arrangements is changed from a reference to the entry into application of the Regulation to a fixed date of 11 February 2021.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20200704",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54",
+              "label": "Art. 54, 02014R0600-20200704"
+            }
+          ]
+        },
+        {
+          "text": "The end date of the transitional period during which Article 35 or 36 would not apply is changed from 3 July 2020 to 3 July 2021.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20200704",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54",
+              "label": "Art. 54, 02014R0600-20200704"
+            }
+          ]
+        },
+        {
+          "text": "The wording describing what happens once a transitional period is approved is rephrased from stating that the CCP or trading venue cannot benefit from the access rights to stating that it shall not benefit from them, with minor phrasing adjustments elsewhere in the paragraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20200326",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200326#art_54",
+              "label": "Art. 54, 02014R0600-20200326"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20200704",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54",
+              "label": "Art. 54, 02014R0600-20200704"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20200704",
+          "location": "AR 95"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2020-03-26, 2020-07-04]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 095",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0600",
+      "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02014R0600-20200326",
+    "to_version": "02014R0600-20200704",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 54"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 54"
+        ],
+        "note": "1 annotations in (2020-03-26, 2020-07-04]",
+        "claims": [
+          {
+            "location": "AR 54 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2020-07-04",
+            "source": "32021R0023 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 95"
+        ],
+        "note": "32021R0023, 0.938 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 95 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 095",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 54",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 95",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 95"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3710,
+      "output_tokens": 343,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
