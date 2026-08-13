@@ -10,6 +10,61 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02024R1157-20260730 -->
+## Regulation (EU) 2024/1157 of the European Parliament and of the Council of 11 April 2024 on shipments of waste […]
+### `02024R1157-20250109` → `02024R1157-20260730`
+
+- **Act** `eu:32024R1157` · **In force** 2026-07-30 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 98 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02024R1157-20250109` · `v2` = `02024R1157-20260730`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32026R1703`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 44 — General regime for exports of waste** · applies from: unchanged
+
+*within* `AR 44 PA 2 ALN 1 PTA (f)` · *amended by* `32026R1703`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Point (f) of Article 44(2) still prohibits exports of waste referred to in Article 4(3), but the later version adds an exception for exports to Switzerland. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20260730#art_44)
+
+*before* (`02024R1157-20250109`)
+
+> Article 44
+> General regime for exports of waste
+> 1. Where waste referred to in Article 4(2) to (5) is exported from the Union and destined for recovery in countries to which the OECD Decision applies, with or without transit through countries to which the OECD Decision applies, the provisions of Title II shall apply mutatis mutandis, with the adaptations and additional provisions listed in paragraphs 2, 3, 4 and 6.
+> 2. The following adaptations shall apply:
+> (a) the notifier shall provide, annexed to the notification document, documentary evidence that an audit as referred to in Article 46(3) has been carried out in the facility to which the waste is being exported, unless the exemption in Article 46(11) applies;
+> (b) mixtures of wastes listed in Annex IIIA destined for an interim operation shall be subject to the procedure of prior written notification and consent if any subsequent interim or non-interim recovery operation or subsequent non-interim disposal operation is to take place in a country to which the OECD Decision does not apply;
+> (c) waste classified under entry B3011 shall be subject to the procedure of prior written notification and consent;
+> (d) waste listed in Annex IIIB and shipments of waste destined for experimental treatment trials referred to in Article 4(5) shall be subject to the procedure of prior written notification and consent;
+> (e) shipments of waste destined for laboratory analysis referred to in Article 4(5) shall be subject to the procedure of prior writ […truncated by emendrix: 3637 characters omitted…]
+
+*after* (`02024R1157-20260730`)
+
+> Article 44
+> General regime for exports of waste
+> 1. Where waste referred to in Article 4(2) to (5) is exported from the Union and destined for recovery in countries to which the OECD Decision applies, with or without transit through countries to which the OECD Decision applies, the provisions of Title II shall apply mutatis mutandis, with the adaptations and additional provisions listed in paragraphs 2, 3, 4 and 6.
+> 2. The following adaptations shall apply:
+> (a) the notifier shall provide, annexed to the notification document, documentary evidence that an audit as referred to in Article 46(3) has been carried out in the facility to which the waste is being exported, unless the exemption in Article 46(11) applies;
+> (b) mixtures of wastes listed in Annex IIIA destined for an interim operation shall be subject to the procedure of prior written notification and consent if any subsequent interim or non-interim recovery operation or subsequent non-interim disposal operation is to take place in a country to which the OECD Decision does not apply;
+> (c) waste classified under entry B3011 shall be subject to the procedure of prior written notification and consent;
+> (d) waste listed in Annex IIIB and shipments of waste destined for experimental treatment trials referred to in Article 4(5) shall be subject to the procedure of prior written notification and consent;
+> (e) shipments of waste destined for laboratory analysis referred to in Article 4(5) shall be subject to the procedure of prior writ […truncated by emendrix: 3660 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02024R1157-20260730 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02024R1157-20250109 -->
 ## Regulation (EU) 2024/1157 of the European Parliament and of the Council of 11 April 2024 on shipments of waste […]
 ### `32024R1157` → `02024R1157-20250109`
