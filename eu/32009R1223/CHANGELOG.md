@@ -10,6 +10,73 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20210526 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20201203` → `02009R1223-20210526`
+
+- **Act** `eu:32009R1223` · **In force** not stated · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20201203` · `v2` = `02009R1223-20210526`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unchanged
+
+*within* `AR 2 PA 4`
+
+A new paragraph 4 has been added stating that the Commission may, at the request of a Member State or on its own initiative, adopt measures to determine whether a specific product or group of products falls within the definition of cosmetic product. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
+
+This new paragraph also specifies that such measures are to be adopted in accordance with the regulatory procedure referred to in Article 32(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
+
+No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#art_2)
+
+*before* (`02009R1223-20201203`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (a) cosmetic product means any substance or mixture intended to be placed in contact with the external parts of the human body (epidermis, hair system, nails, lips and external genital organs) or with the teeth and the mucous membranes of the oral cavity with a view exclusively or mainly to cleaning them, perfuming them, changing their appearance, protecting them, keeping them in good condition or correcting body odours;
+> (b) substance means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+> (c) mixture means a mixture or solution composed of two or more substances;
+> (d) manufacturer means any natural or legal person who manufactures a cosmetic product or has such a product designed or manufactured, and markets that cosmetic product under his name or trademark;
+> (e) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a cosmetic product available on the Community market;
+> (f) end user means either a consumer or professional using the cosmetic product;
+> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3449 characters omitted…]
+
+*after* (`02009R1223-20210526`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (a) cosmetic product means any substance or mixture intended to be placed in contact with the external parts of the human body (epidermis, hair system, nails, lips and external genital organs) or with the teeth and the mucous membranes of the oral cavity with a view exclusively or mainly to cleaning them, perfuming them, changing their appearance, protecting them, keeping them in good condition or correcting body odours;
+> (b) substance means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+> (c) mixture means a mixture or solution composed of two or more substances;
+> (d) manufacturer means any natural or legal person who manufactures a cosmetic product or has such a product designed or manufactured, and markets that cosmetic product under his name or trademark;
+> (e) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a cosmetic product available on the Community market;
+> (f) end user means either a consumer or professional using the cosmetic product;
+> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3780 characters omitted…]
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
+
+*within* `AN III`
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02009R1223-20201203`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 164908 characters omitted…]
+
+*after* (`02009R1223-20210526`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 164907 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20210526 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20201203 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20200501` → `02009R1223-20201203`
