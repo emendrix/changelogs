@@ -10,6 +10,177 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20191201 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20190726` → `02008R1272-20191201`
+
+- **Act** `eu:32008R1272` · **In force** 2019-12-01 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20190726` · `v2` = `02008R1272-20191201`
+
+---
+
+**MODIFIED · Art. 58 — Amendments to Regulation (EC) No 1907/2006 from 1 December 2010** · applies from: unchanged
+
+*within* `AR 58 ALN 1 PO 16 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20190726`)
+
+> Article 58
+> Amendments to Regulation (EC) No 1907/2006 from 1 December 2010
+> Regulation (EC) No 1907/2006 shall be amended from 1 December 2010 as follows:
+> 1. in Article 14(4), the introductory sentence shall be replaced by the following:
+> 4. If, as a result of carrying out steps (a) to (d) of paragraph 3, the registrant concludes that the substance fulfils the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:
+> (a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;
+> (b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;
+> (c) hazard class 4.1;
+> (d) hazard class 5.1,
+> or is assessed to be a PBT or vPvB, the chemical safety assessment shall include the following additional steps:;
+> 2. Article 31 shall be amended as follows
+> (a) paragraph 1(a) shall be replaced by the following:
+> (a) where a substance meets the criteria for classification as hazardous in accordance with Regulation (EC) No 1272/2008 or a mixture meets the criteria for classification as dangerous in accordance with Directive 1999/45/EC; or;
+> (b) paragraph 4 shall be replaced by the following:
+> 4. The safety data sheet need not be supplied where substances that are hazardous in accordance with Regulation (EC) No 1272/2008 or mixtures that are dangerous in accordance with […truncated by emendrix: 11138 characters omitted…]
+
+*after* (`02008R1272-20191201`)
+
+> Article 58
+> Amendments to Regulation (EC) No 1907/2006 from 1 December 2010
+> Regulation (EC) No 1907/2006 shall be amended from 1 December 2010 as follows:
+> 1. in Article 14(4), the introductory sentence shall be replaced by the following:
+> 4. If, as a result of carrying out steps (a) to (d) of paragraph 3, the registrant concludes that the substance fulfils the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:
+> (a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;
+> (b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;
+> (c) hazard class 4.1;
+> (d) hazard class 5.1,
+> or is assessed to be a PBT or vPvB, the chemical safety assessment shall include the following additional steps:;
+> 2. Article 31 shall be amended as follows
+> (a) paragraph 1(a) shall be replaced by the following:
+> (a) where a substance meets the criteria for classification as hazardous in accordance with Regulation (EC) No 1272/2008 or a mixture meets the criteria for classification as dangerous in accordance with Directive 1999/45/EC; or;
+> (b) paragraph 4 shall be replaced by the following:
+> 4. The safety data sheet need not be supplied where substances that are hazardous in accordance with Regulation (EC) No 1272/2008 or mixtures that are dangerous in accordance with […truncated by emendrix: 11137 characters omitted…]
+
+**MODIFIED · Art. 59 — Amendments to Regulation (EC) No 1907/2006 from 1 June 2015** · applies from: unchanged
+
+*within* `AR 59 ALN 1 PO 7 PTA (b) PTI (ii)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20190726`)
+
+> Article 59
+> Amendments to Regulation (EC) No 1907/2006 from 1 June 2015
+> Regulation (EC) No 1907/2006 shall be amended from 1 June 2015 as follows:
+> 1. Article 14(2) shall be replaced by the following:
+> 2. A chemical safety assessment in accordance with paragraph 1 need not be performed for a substance which is present in a mixture if the concentration of the substance in the mixture is less than
+> (a) the cut-off value referred to in Article 11, paragraph 3 of Regulation (EC) No 1272/2008;
+> (b) 0,1 % weight by weight (w/w), if the substance meets the criteria in Annex XIII to this Regulation.;
+> 2. Article 31 shall be amended as follows:
+> (a) in paragraph 1, point (a) shall be replaced by the following:
+> (a) where a substance or mixture meets the criteria for classification as hazardous in accordance with Regulation (EC) No 1272/2008; or;
+> (b) paragraph 3 shall be replaced by the following:
+> 3. The supplier shall provide the recipient at his request with a safety data sheet compiled in accordance with Annex II, where a mixture does not meet the criteria for classification as hazardous in accordance with Titles I and II of Regulation (EC) No 1272/2008, but contains:
+> (a) in an individual concentration of ≥ 1 % by weight for non-gaseous mixtures and ≥ 0,2 % by volume for gaseous mixtures at least one substance posing human health or environmental hazards; or
+> (b) in an individual concentration of ≥ 0,1 % by weight for non-gaseous mixtures at least one substance that is carcinogenic category […truncated by emendrix: 3199 characters omitted…]
+
+*after* (`02008R1272-20191201`)
+
+> Article 59
+> Amendments to Regulation (EC) No 1907/2006 from 1 June 2015
+> Regulation (EC) No 1907/2006 shall be amended from 1 June 2015 as follows:
+> 1. Article 14(2) shall be replaced by the following:
+> 2. A chemical safety assessment in accordance with paragraph 1 need not be performed for a substance which is present in a mixture if the concentration of the substance in the mixture is less than
+> (a) the cut-off value referred to in Article 11, paragraph 3 of Regulation (EC) No 1272/2008;
+> (b) 0,1 % weight by weight (w/w), if the substance meets the criteria in Annex XIII to this Regulation.;
+> 2. Article 31 shall be amended as follows:
+> (a) in paragraph 1, point (a) shall be replaced by the following:
+> (a) where a substance or mixture meets the criteria for classification as hazardous in accordance with Regulation (EC) No 1272/2008; or;
+> (b) paragraph 3 shall be replaced by the following:
+> 3. The supplier shall provide the recipient at his request with a safety data sheet compiled in accordance with Annex II, where a mixture does not meet the criteria for classification as hazardous in accordance with Titles I and II of Regulation (EC) No 1272/2008, but contains:
+> (a) in an individual concentration of ≥ 1 % by weight for non-gaseous mixtures and ≥ 0,2 % by volume for gaseous mixtures at least one substance posing human health or environmental hazards; or
+> (b) in an individual concentration of ≥ 0,1 % by weight for non-gaseous mixtures at least one substance that is carcinogenic category […truncated by emendrix: 3198 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 1 SCT 1.1 SCT 1.1.1 SCT 1.1.1.4`, `AN VI SCT 3` · *amended by* `32018R0669`, `32018R1480`, `32020R0217`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20190726`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1997796 characters omitted…]
+
+*after* (`02008R1272-20191201`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1995658 characters omitted…]
+
+**MODIFIED · Annex VII — Translation table from classification under Directive 67/548/EEC to classification under this Regulation** · applies from: unchanged
+
+*within* `AN VII SCT 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20190726`)
+
+> ANNEX VII
+> Translation table from classification under Directive 67/548/EEC to classification under this Regulation
+> This Annex includes a table to assist translation of a classification made for a substance or a mixture under Directive 67/548/EEC or Directive 1999/45/EC, respectively, into the corresponding classification under this Regulation. Whenever data for the substance or mixture are available, an evaluation and classification shall be done in accordance with Articles 9 to13 of this Regulation.
+> 1. Translation table
+> The codes used are introduced in Table 1.1 and section 1.1.2.2 of Annex VI.
+> Table 1.1
+> Translation between classification in accordance with Directive 67/548/EEC and this Regulation
+> Note 1
+> For these classes it is possible to use the recommended minimum classification as defined in section 1.2.1.1 in Annex VI. Data or other information may be available to indicate that re-classification in a more severe category is appropriate.
+> Note 2
+> Going back to original data may not result in a possibility to distinguish between Category 1B or 1C, since the exposure period has normally been up to 4 hours according to Regulation (EC) No 440/2008. In these cases, Category 1 shall be assigned. However, when data are derived from tests following a sequential approach as foreseen in the Regulation (EC) No 440/2008, further sub-categorisation into Category 1B or Category 1C shall be considered.
+> Note 3
+> The route of exposure could be added to the hazard statement if it is conclusiv […truncated by emendrix: 4481 characters omitted…]
+
+*after* (`02008R1272-20191201`)
+
+> ANNEX VII
+> Translation table from classification under Directive 67/548/EEC to classification under this Regulation
+> This Annex includes a table to assist translation of a classification made for a substance or a mixture under Directive 67/548/EEC or Directive 1999/45/EC, respectively, into the corresponding classification under this Regulation. Whenever data for the substance or mixture are available, an evaluation and classification shall be done in accordance with Articles 9 to13 of this Regulation.
+> 1. Translation table
+> The codes used are introduced in Table 1.1 and section 1.1.2.2 of Annex VI.
+> Table 1.1
+> Translation between classification in accordance with Directive 67/548/EEC and this Regulation
+> Note 1
+> For these classes it is possible to use the recommended minimum classification as defined in section 1.2.1.1 in Annex VI. Data or other information may be available to indicate that re-classification in a more severe category is appropriate.
+> Note 2
+> Going back to original data may not result in a possibility to distinguish between Category 1B or 1C, since the exposure period has normally been up to 4 hours according to Regulation (EC) No 440/2008. In these cases, Category 1 shall be assigned. However, when data are derived from tests following a sequential approach as foreseen in the Regulation (EC) No 440/2008, further sub-categorisation into Category 1B or Category 1C shall be considered.
+> Note 3
+> The route of exposure could be added to the hazard statement if it is conclusiv […truncated by emendrix: 4482 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20191201 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20190726 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20181201` → `02008R1272-20190726`
