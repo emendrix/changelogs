@@ -10,6 +10,68 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20240109 -->
+## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
+### `02009R1060-20190101` → `02009R1060-20240109`
+
+- **Act** `eu:32009R1060` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1060-20190101` · `v2` = `02009R1060-20240109`
+
+---
+
+**MODIFIED · Art. 11a — European rating platform** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 11a PA 2 ALN 3` · *dates* +2023-12-13 · *amended by* `32023R2869`
+
+A new sentence has been added to paragraph 2 stating that the European single access point (ESAP) established under Regulation (EU) 2023/2859 may fulfil the functions of the European rating platform. [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#art_11a)
+
+The earlier version's paragraph 2 contained no reference to ESAP or to Regulation (EU) 2023/2859. [Art. 11a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_11a)
+
+*before* (`02009R1060-20190101`)
+
+> Article 11a
+> European rating platform
+> 1. A registered or certified credit rating agency shall, when issuing a credit rating or a rating outlook, submit to ESMA rating information, including the credit rating and rating outlook of the rated instrument, information on the type of credit rating, the type of rating action, and date and hour of publication.
+> 2. ESMA shall publish the individual credit ratings submitted to it pursuant to paragraph 1 on a website (European rating platform).
+> The central repository referred to in Article 11(2) shall be incorporated in the European rating platform.
+> 3. This Article shall not apply to credit ratings or rating outlooks which are exclusively produced for and disclosed to investors for a fee.
+
+*after* (`02009R1060-20240109`)
+
+> Article 11a
+> European rating platform
+> 1. A registered or certified credit rating agency shall, when issuing a credit rating or a rating outlook, submit to ESMA rating information, including the credit rating and rating outlook of the rated instrument, information on the type of credit rating, the type of rating action, and date and hour of publication.
+> 2. ESMA shall publish the individual credit ratings submitted to it pursuant to paragraph 1 on a website (European rating platform).
+> The central repository referred to in Article 11(2) shall be incorporated in the European rating platform.
+> The European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj). may fulfil the functions of the European rating platform.
+> 3. This Article shall not apply to credit ratings or rating outlooks which are exclusively produced for and disclosed to investors for a fee.
+
+**INSERTED · Art. 13a — Accessibility of information on ESAP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+This is a new Article 13a establishing rules for making information under this Regulation accessible on the European Single Access Point (ESAP), including submission requirements, metadata, the identification of ESMA as collection body, and mandates for implementing technical standards and guidelines. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#art_13a)
+
+*after* (`02009R1060-20240109`)
+
+> Article 13a
+> Accessibility of information on ESAP
+> 1. From 10 January 2028, when making public any information referred to in Article 8(1), Article 8(6) and (7), Article 8a(1) and (3), Article 10(1) and (4), Article 11(1) and Article 12 of this Regulation, credit rating agencies shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on ESAP.
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the credit rating agency to which the information relates;
+> (ii) the legal entity identifier of the credit rating agency, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) the size of the credit rating agency by category, as specified pursuant to Article 7(4), point (d), of that Regulation;
+> (iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+> (v) an indication of whether the information contains personal data;
+> (vi) the country of the registered office of the credit rating agency to which the information relates;
+> (vii) the industry sector(s) of the economic activities of the credit rating agency to which the inf […truncated by emendrix: 2478 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20190101 -->
 ## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
 ### `02009R1060-20150621` → `02009R1060-20190101`
