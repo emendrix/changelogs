@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0600",
+    "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02014R0600-20241204",
+  "to_version": "02014R0600-20250117",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2025-01-17"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 93,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20250117",
+          "location": "AR 27g"
+        },
+        "heading": "Organisational requirements for APAs",
+        "before": "Article 27g\nOrganisational requirements for APAs\n1. An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.\n2. The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:\n(a) the identifier of the financial instrument;\n(b) the price at which the transaction was concluded;\n(c) the volume of the transaction;\n(d) the time of the transaction;\n(e) the time the transaction was reported;\n(f) the price notation of the transaction;\n(g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;\n(h) if applicable, an indicator that the transaction was subject to specific conditions.\n3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information collected in a non-discriminatory way and shall operate and maintain appropriate arrangements to separate different business functions.\n4. An APA shall have sound security mechanisms in place designed to guarantee the security of the means of transfer of information, minimise the risk of data corruption and unauthorised access and to prevent information leakage before publication. The APA shall maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.\n4a. An APA shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the transparency requirements laid down in Article 20(1) and Article 21(1).\nAn APA shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately.\n4b. An APA shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.\n5. The APA shall have systems in place that can effectively check trade reports for completeness, identify omissions and obvious errors, and request re-transmission of any such erroneous reports.\n6. ESMA shall develop draft regulatory technical standards to determine common formats, data standards and technical arrangements facilitating the consolidation of information as referred to in paragraph 1.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 50 in order to supplement this Regulation by specifying what constitutes a reasonable commercial basis to make information public as referred to in paragraph 1 of this Article.\n8. ESMA shall develop draft regulatory technical standards specifying:\n(a) the means by which an APA may comply with the information obligation referred to in paragraph 1;\n(b) the content of the information published under paragraph 1, including at least the information referred to in paragraph 2 in such a way as to enable the publication of information required under this Article;\n(c) the concrete organisational requirements laid down in paragraphs 3, 4 and 5.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 27g\nOrganisational requirements for APAs\n1. An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.\n2. The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:\n(a) the identifier of the financial instrument;\n(b) the price at which the transaction was concluded;\n(c) the volume of the transaction;\n(d) the time of the transaction;\n(e) the time the transaction was reported;\n(f) the price notation of the transaction;\n(g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;\n(h) if applicable, an indicator that the transaction was subject to specific conditions.\n3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information collected in a non-discriminatory way and shall operate and maintain appropriate arrangements to separate different business functions.\n4. An APA shall comply with the requirements concerning the security of network and information systems set out in Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)..\n4a. An APA shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the transparency requirements laid down in Article 20(1) and Article 21(1).\nAn APA shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately.\n4b. An APA shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.\n5. The APA shall have systems in place that can effectively check trade reports for completeness, identify omissions and obvious errors, and request re-transmission of any such erroneous reports.\n6. ESMA shall develop draft regulatory technical standards to determine common formats, data standards and technical arrangements facilitating the consolidation of information as referred to in paragraph 1.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 50 in order to supplement this Regulation by specifying what constitutes a reasonable commercial basis to make information public as referred to in paragraph 1 of this Article.\n8. ESMA shall develop draft regulatory technical standards specifying:\n(a) the means by which an APA may comply with the information obligation referred to in paragraph 1;\n(b) the content of the information published under paragraph 1, including at least the information referred to in paragraph 2 in such a way as to enable the publication of information required under this Article;\n(c) the concrete organisational requirements laid down in paragraphs 3 and 5.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 27g PA 4 ALN 1",
+          "AR 27g PA 8 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2022-12-14"
+        ],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 062 (1) (a); AR 062 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4 no longer sets out its own security-mechanism, resource, and back-up-facility requirements for an APA, and instead states that an APA shall comply with the network and information systems security requirements set out in Regulation (EU) 2022/2554.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20250117",
+                "location": "AR 27g"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g",
+              "label": "Art. 27g, 02014R0600-20250117"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 8(c), the reference to the organisational requirements laid down in paragraphs 3, 4 and 5 has been changed to a reference to paragraphs 3 and 5 only, dropping the mention of paragraph 4.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20250117",
+                "location": "AR 27g"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g",
+              "label": "Art. 27g, 02014R0600-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20250117",
+          "location": "AR 27h"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 062 (2) (a); AR 062 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20250117",
+          "location": "AR 27i"
+        },
+        "heading": "Organisational requirements for ARMs",
+        "before": "Article 27i\nOrganisational requirements for ARMs\n1. An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.\n2. The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.\n3. The ARM shall have sound security mechanisms in place designed to guarantee the security and authentication of the means of transfer of information, minimise the risk of data corruption and unauthorised access and to prevent information leakage, maintaining the confidentiality of the data at all times. The ARM shall maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.\n4. The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.\nThe ARM shall have systems in place to enable the ARM to detect errors or omissions caused by the ARM itself and to enable the ARM to correct and transmit, or re-transmit as the case may be, correct and complete transaction reports to the competent authority.\n4a. An ARM shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the reporting obligation laid down in Article 26.\nAn ARM shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately. The prices and fees charged by an ARM shall be cost-related.\n4b. An ARM shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.\n5. ESMA shall develop draft regulatory technical standards specifying:\n(a) the means by which the ARM may comply with the information obligation referred to in paragraph 1; and\n(b) the concrete organisational requirements laid down in paragraphs 2, 3 and 4.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 27i\nOrganisational requirements for ARMs\n1. An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.\n2. The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.\n3. An ARM shall comply with the requirements concerning the security of network and information systems set out in Regulation (EU) 2022/2554.\n4. The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.\nThe ARM shall have systems in place to enable the ARM to detect errors or omissions caused by the ARM itself and to enable the ARM to correct and transmit, or re-transmit as the case may be, correct and complete transaction reports to the competent authority.\n4a. An ARM shall have objective, non-discriminatory and publicly disclosed requirements for access to its services by undertakings that are subject to the reporting obligation laid down in Article 26.\nAn ARM shall publicly disclose the prices and fees associated with the data reporting services provided pursuant to this Regulation. It shall disclose separately the prices and fees of each service provided, including discounts and rebates and the conditions for benefiting from them. It shall allow reporting entities to access specific services separately. The prices and fees charged by an ARM shall be cost-related.\n4b. An ARM shall keep records relating to its business at the disposal of the relevant competent authority or ESMA for at least five years.\n5. ESMA shall develop draft regulatory technical standards specifying:\n(a) the means by which the ARM may comply with the information obligation referred to in paragraph 1; and\n(b) the concrete organisational requirements laid down in paragraphs 2 and 4.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 27i PA 3 ALN 1",
+          "AR 27i PA 5 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 062 (3) (a); AR 062 (3) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 previously set out detailed security mechanism and resource/back-up requirements for ARMs, but now instead states that an ARM shall comply with the network and information system security requirements set out in Regulation (EU) 2022/2554.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20241204",
+                "location": "AR 27i"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27i",
+              "label": "Art. 27i, 02014R0600-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20250117",
+                "location": "AR 27i"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27i",
+              "label": "Art. 27i, 02014R0600-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Correspondingly, the list of paragraphs referenced in paragraph 5(b) as containing the concrete organisational requirements for regulatory technical standards was changed from paragraphs 2, 3 and 4 to paragraphs 2 and 4, dropping the reference to paragraph 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20241204",
+                "location": "AR 27i"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27i",
+              "label": "Art. 27i, 02014R0600-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20250117",
+                "location": "AR 27i"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27i",
+              "label": "Art. 27i, 02014R0600-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0600",
+      "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02014R0600-20241204",
+    "to_version": "02014R0600-20250117",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 27g",
+          "AR 27i"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 27g",
+          "AR 27h",
+          "AR 27i"
+        ],
+        "note": "6 annotations in (2024-12-04, 2025-01-17]",
+        "claims": [
+          {
+            "location": "AR 27i PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 27h PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 27i PA 5 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 27g PA 8 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 27h PA 8 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 27g PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 27g",
+          "AR 27h",
+          "AR 27i"
+        ],
+        "note": "32022R2554, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 27g PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27g PA 8 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27h PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27h PA 8 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27i PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27i PA 5 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 062 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 27h",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 27h"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 2,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 9242,
+      "output_tokens": 569,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

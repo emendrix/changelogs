@@ -10,6 +10,98 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20250117 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20241204` → `02014R0600-20250117`
+
+- **Act** `eu:32014R0600` · **In force** 2025-01-17 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20241204` · `v2` = `02014R0600-20250117`
+
+---
+
+**MODIFIED · Art. 27g — Organisational requirements for APAs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 27g PA 4 ALN 1`, `AR 27g PA 8 ALN 1 PTA (c)` · *dates* +2022-12-14 · *amended by* `32022R2554`
+
+Paragraph 4 no longer sets out its own security-mechanism, resource, and back-up-facility requirements for an APA, and instead states that an APA shall comply with the network and information systems security requirements set out in Regulation (EU) 2022/2554. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g)
+
+In paragraph 8(c), the reference to the organisational requirements laid down in paragraphs 3, 4 and 5 has been changed to a reference to paragraphs 3 and 5 only, dropping the mention of paragraph 4. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g)
+
+*before* (`02014R0600-20241204`)
+
+> Article 27g
+> Organisational requirements for APAs
+> 1. An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.
+> 2. The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:
+> (a) the identifier of the financial instrument;
+> (b) the price at which the transaction was concluded;
+> (c) the volume of the transaction;
+> (d) the time of the transaction;
+> (e) the time the transaction was reported;
+> (f) the price notation of the transaction;
+> (g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;
+> (h) if applicable, an indicator that the transaction was subject to specific conditions.
+> 3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information c […truncated by emendrix: 2817 characters omitted…]
+
+*after* (`02014R0600-20250117`)
+
+> Article 27g
+> Organisational requirements for APAs
+> 1. An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.
+> 2. The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:
+> (a) the identifier of the financial instrument;
+> (b) the price at which the transaction was concluded;
+> (c) the volume of the transaction;
+> (d) the time of the transaction;
+> (e) the time the transaction was reported;
+> (f) the price notation of the transaction;
+> (g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;
+> (h) if applicable, an indicator that the transaction was subject to specific conditions.
+> 3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information c […truncated by emendrix: 2913 characters omitted…]
+
+**MODIFIED · Art. 27h** · applies from: unknown
+
+*amended by* `32022R2554`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 27i — Organisational requirements for ARMs** · applies from: unchanged
+
+*within* `AR 27i PA 3 ALN 1`, `AR 27i PA 5 ALN 1 PTA (b)` · *amended by* `32022R2554`
+
+Paragraph 3 previously set out detailed security mechanism and resource/back-up requirements for ARMs, but now instead states that an ARM shall comply with the network and information system security requirements set out in Regulation (EU) 2022/2554. [Art. 27i, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27i) [Art. 27i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27i)
+
+Correspondingly, the list of paragraphs referenced in paragraph 5(b) as containing the concrete organisational requirements for regulatory technical standards was changed from paragraphs 2, 3 and 4 to paragraphs 2 and 4, dropping the reference to paragraph 3. [Art. 27i, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27i) [Art. 27i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27i)
+
+*before* (`02014R0600-20241204`)
+
+> Article 27i
+> Organisational requirements for ARMs
+> 1. An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.
+> 2. The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.
+> 3. The ARM shall have sound security mechanisms in place designed to guarantee the security and authentication of the means of transfer of information, minimise the risk of data corruption and unauthorised access and to prevent information leakage, maintaining the confidentiality of the data at all times. The ARM shall maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.
+> 4. The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.
+> The ARM shall have systems in place to ena […truncated by emendrix: 1458 characters omitted…]
+
+*after* (`02014R0600-20250117`)
+
+> Article 27i
+> Organisational requirements for ARMs
+> 1. An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.
+> 2. The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.
+> 3. An ARM shall comply with the requirements concerning the security of network and information systems set out in Regulation (EU) 2022/2554.
+> 4. The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.
+> The ARM shall have systems in place to enable the ARM to detect errors or omissions caused by the ARM itself and to enable the ARM to correct and transmit, or re-transmit as the case may be, correct and complete transaction reports to the competent authority.
+> 4a. An ARM shall have objective, non-discriminatory and publicly disclosed requireme […truncated by emendrix: 1153 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20250117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20241204 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20240328` → `02014R0600-20241204`
