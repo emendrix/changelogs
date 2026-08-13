@@ -10,6 +10,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20211221 -->
+## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
+### `02014R1286-20190801` → `02014R1286-20211221`
+
+- **Act** `eu:32014R1286` · **In force** 2021-12-21 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 33 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R1286-20190801` · `v2` = `02014R1286-20211221`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32021R2259`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DEFERRED · Art. 32 — Article 32** · applies from: 2022-12-31
+
+*within* `AR 32 PA 1 ALN 1` · *dates* -2021-12-31 +2022-12-31 · *amended by* `32021R2259`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The date marking the end of the exemption for management companies, investment companies, and persons advising on or selling UCITS units in paragraph 1 changed from 31 December 2021 to 31 December 2022. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20190801#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20211221#art_32)
+
+Paragraph 2, which extends that exemption to non-UCITS funds offered to retail investors under certain Member State rules, remains textually unchanged. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20211221#art_32)
+
+*before* (`02014R1286-20190801`)
+
+> Article 32
+> 1. Management companies as defined in Article 2(1)(b) of Directive 2009/65/EC, investment companies as referred to in Article 27 thereof and persons advising on, or selling, units of UCITS as referred to in Article 1(2) thereof shall be exempt from the obligations under this Regulation until 31 December 2021.
+> 2. When a Member State applies rules on the format and content of the key information document, as laid down in Articles 78 to 81 of Directive 2009/65/EC, to non-UCITS funds offered to retail investors, the exemption laid down in paragraph 1 of this Article shall apply to management companies, investment companies and persons advising on, or selling, units of such funds to retail investors.
+
+*after* (`02014R1286-20211221`)
+
+> Article 32
+> 1. Management companies as defined in Article 2(1)(b) of Directive 2009/65/EC, investment companies as referred to in Article 27 thereof and persons advising on, or selling, units of UCITS as referred to in Article 1(2) thereof shall be exempt from the obligations under this Regulation until 31 December 2022.
+> 2. When a Member State applies rules on the format and content of the key information document, as laid down in Articles 78 to 81 of Directive 2009/65/EC, to non-UCITS funds offered to retail investors, the exemption laid down in paragraph 1 of this Article shall apply to management companies, investment companies and persons advising on, or selling, units of such funds to retail investors.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R1286-20211221 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20190801 -->
 ## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
 ### `02014R1286-20161224` → `02014R1286-20190801`
