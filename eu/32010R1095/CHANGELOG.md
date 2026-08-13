@@ -10,6 +10,117 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20241230 -->
+## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1095-20220812` → `02010R1095-20241230`
+
+- **Act** `eu:32010R1095` · **In force** 2024-12-24 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 91 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1095-20220812` · `v2` = `02010R1095-20241230`
+
+---
+
+**MODIFIED · Art. 1 — Establishment and scope of action** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 1 PA 2 ALN 1` · *dates* +2012-07-04 +2023-05-31 · *amended by* `32024R2987`, `32023R1114`
+
+Paragraph 2 now lists Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories, and Regulation (EU) 2023/1114 on markets in crypto-assets, alongside the previously listed acts defining the scope of the Authority's powers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
+
+The clause describing who the acts apply to has been expanded to also cover issuers or offerors of crypto-assets, persons seeking admission to trading, and crypto-asset service providers, in addition to firms providing investment services and collective investment undertakings marketing units or shares. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
+
+The rest of Article 1, including paragraphs 1, 3, 3a, 4, 5 and 6, remains textually the same between the two versions. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
+
+*before* (`02010R1095-20220812`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the com […truncated by emendrix: 5515 characters omitted…]
+
+*after* (`02010R1095-20241230`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) No 648/2012 of the European Parliament and of the CouncilRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1)., Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to tr […truncated by emendrix: 6209 characters omitted…]
+
+**MODIFIED · Art. 9 — Tasks related to consumer protection and financial activities** · applies from: unchanged
+
+*within* `AR 9 PA 1 ALN 1 PTA (e)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only visible change is punctuation at the end of point (e): the word "and" that followed the semicolon in the earlier text is absent in the later text, which instead ends point (e) with a plain semicolon. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_9)
+
+*before* (`02010R1095-20220812`)
+
+> Article 9
+> Tasks related to consumer protection and financial activities
+> 1. The Authority shall take a leading role in promoting transparency, simplicity and fairness in the market for consumer financial products or services across the internal market, including by:
+> (a) collecting, analysing and reporting on consumer trends, such as the development of costs and charges of retail financial services and products in Member States;
+> (aa) undertaking in-depth thematic reviews of market conduct, building a common understanding of markets practices in order to identify potential problems and analyse their impact;
+> (ab) developing retail risk indicators for the timely identification of potential causes of consumer and investor harm;
+> (b) reviewing and coordinating financial literacy and education initiatives by the competent authorities;
+> (c) developing training standards for the industry; and
+> (d) contributing to the development of common disclosure rules;
+> (e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products; and
+> (f) coordinating mystery shopping activities of competent authorities, if applicable.
+> 2. The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
+> 3. The Authority may also iss […truncated by emendrix: 2761 characters omitted…]
+
+*after* (`02010R1095-20241230`)
+
+> Article 9
+> Tasks related to consumer protection and financial activities
+> 1. The Authority shall take a leading role in promoting transparency, simplicity and fairness in the market for consumer financial products or services across the internal market, including by:
+> (a) collecting, analysing and reporting on consumer trends, such as the development of costs and charges of retail financial services and products in Member States;
+> (aa) undertaking in-depth thematic reviews of market conduct, building a common understanding of markets practices in order to identify potential problems and analyse their impact;
+> (ab) developing retail risk indicators for the timely identification of potential causes of consumer and investor harm;
+> (b) reviewing and coordinating financial literacy and education initiatives by the competent authorities;
+> (c) developing training standards for the industry; and
+> (d) contributing to the development of common disclosure rules;
+> (e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products;
+> (f) coordinating mystery shopping activities of competent authorities, if applicable.
+> 2. The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
+> 3. The Authority may also issue w […truncated by emendrix: 2757 characters omitted…]
+
+**MODIFIED · Art. 29 — Common supervisory culture** · applies from: unchanged
+
+*within* `AR 29 PA 1 ALN 1 PTA (e)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only textual difference is the removal of the trailing word "and" at the end of point (e), which in the earlier version connected it to point (f). [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_29)
+
+*before* (`02010R1095-20220812`)
+
+> Article 29
+> Common supervisory culture
+> 1. The Authority shall play an active role in building a common Union supervisory culture and consistent supervisory practices, as well as in ensuring uniform procedures and consistent approaches throughout the Union. The Authority shall carry out, at a minimum, the following activities:
+> (a) providing opinions to competent authorities;
+> (aa) establishing Union strategic supervisory priorities in accordance with Article 29a;
+> (ab) establishing coordination groups in accordance with Article 45b to promote supervisory convergence and identify best practices;
+> (b) promoting an effective bilateral and multilateral exchange of information between competent authorities, pertaining to all relevant issues, including cyber security and cyber-attacks, with full respect for the applicable confidentiality and data protection provisions provided for in the relevant Union legislative acts;
+> (c) contributing to developing high-quality and uniform supervisory standards, including reporting standards, and international accounting standards in accordance with Article 1(3);
+> (d) reviewing the application of the relevant regulatory and implementing technical standards adopted by the Commission, and of the guidelines and recommendations issued by the Authority and proposing amendments where appropriate; and
+> (e) establishing sectoral and cross-sectoral training programmes, including with respect to technological innovation, facilitating personnel exchanges and encou […truncated by emendrix: 1575 characters omitted…]
+
+*after* (`02010R1095-20241230`)
+
+> Article 29
+> Common supervisory culture
+> 1. The Authority shall play an active role in building a common Union supervisory culture and consistent supervisory practices, as well as in ensuring uniform procedures and consistent approaches throughout the Union. The Authority shall carry out, at a minimum, the following activities:
+> (a) providing opinions to competent authorities;
+> (aa) establishing Union strategic supervisory priorities in accordance with Article 29a;
+> (ab) establishing coordination groups in accordance with Article 45b to promote supervisory convergence and identify best practices;
+> (b) promoting an effective bilateral and multilateral exchange of information between competent authorities, pertaining to all relevant issues, including cyber security and cyber-attacks, with full respect for the applicable confidentiality and data protection provisions provided for in the relevant Union legislative acts;
+> (c) contributing to developing high-quality and uniform supervisory standards, including reporting standards, and international accounting standards in accordance with Article 1(3);
+> (d) reviewing the application of the relevant regulatory and implementing technical standards adopted by the Commission, and of the guidelines and recommendations issued by the Authority and proposing amendments where appropriate; and
+> (e) establishing sectoral and cross-sectoral training programmes, including with respect to technological innovation, facilitating personnel exchanges and encou […truncated by emendrix: 1571 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1095-20241230 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20220812 -->
 ## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1095-20200101` → `02010R1095-20220812`
