@@ -10,6 +10,39 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20140523 -->
+## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
+### `02009R1060-20130620` → `02009R1060-20140523`
+
+- **Act** `eu:32009R1060` · **In force** 2014-05-23 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02009R1060-20130620` · `v2` = `02009R1060-20140523`
+
+---
+
+**MODIFIED · Art. 2.3** · applies from: unknown
+
+*amended by* `32014L0051`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32014L0051`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20140523 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20130620 -->
 ## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
 ### `02009R1060-20110721` → `02009R1060-20130620`
