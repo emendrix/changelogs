@@ -10,6 +10,353 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20160719 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20150118` → `02013R0575-20160719`
+
+- **Act** `eu:32013R0575` · **In force** 2016-07-19 · **Detected** 2026-08-13
+- **Touched** 9 provisions — 7 substantive · 2 date-only · **7 disputed**
+- **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 2 deferred · 518 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20150118` · `v2` = `02013R0575-20160719`
+
+---
+
+**MODIFIED · Art. 19 — Entities excluded from the scope of prudential consolidation** · applies from: unchanged
+
+*within* `AR 19 PA 2 ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only change in Article 19 is in point (c) of paragraph 2, where the phrase referring to the supervision of "credit institutions" is replaced with a reference to the supervision of "institutions". [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_19)
+
+*before* (`02013R0575-20150118`)
+
+> Article 19
+> Entities excluded from the scope of prudential consolidation
+> 1. An institution, a financial institution or an ancillary services undertaking which is a subsidiary or an undertaking in which a participation is held, need not to be included in the consolidation where the total amount of assets and off-balance sheet items of the undertaking concerned is less than the smaller of the following two amounts:
+> (a) EUR 10 million;
+> (b) 1 % of the total amount of assets and off-balance sheet items of the parent undertaking or the undertaking that holds the participation.
+> 2. The competent authorities responsible for exercising supervision on a consolidated basis pursuant to Article 111 of Directive 2013/36/EU may on a case-by-case basis decide in the following cases that an institution, financial institution or ancillary services undertaking which is a subsidiary or in which a participation is held need not be included in the consolidation:
+> (a) where the undertaking concerned is situated in a third country where there are legal impediments to the transfer of the necessary information;
+> (b) where the undertaking concerned is of negligible interest only with respect to the objectives of monitoring institutions;
+> (c) where, in the opinion of the competent authorities responsible for exercising supervision on a consolidated basis, the consolidation of the financial situation of the undertaking concerned would be inappropriate or misleading as far as the objectives of the supervision […truncated by emendrix: 327 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 19
+> Entities excluded from the scope of prudential consolidation
+> 1. An institution, a financial institution or an ancillary services undertaking which is a subsidiary or an undertaking in which a participation is held, need not to be included in the consolidation where the total amount of assets and off-balance sheet items of the undertaking concerned is less than the smaller of the following two amounts:
+> (a) EUR 10 million;
+> (b) 1 % of the total amount of assets and off-balance sheet items of the parent undertaking or the undertaking that holds the participation.
+> 2. The competent authorities responsible for exercising supervision on a consolidated basis pursuant to Article 111 of Directive 2013/36/EU may on a case-by-case basis decide in the following cases that an institution, financial institution or ancillary services undertaking which is a subsidiary or in which a participation is held need not be included in the consolidation:
+> (a) where the undertaking concerned is situated in a third country where there are legal impediments to the transfer of the necessary information;
+> (b) where the undertaking concerned is of negligible interest only with respect to the objectives of monitoring institutions;
+> (c) where, in the opinion of the competent authorities responsible for exercising supervision on a consolidated basis, the consolidation of the financial situation of the undertaking concerned would be inappropriate or misleading as far as the objectives of the supervision […truncated by emendrix: 320 characters omitted…]
+
+**MODIFIED · Art. 36 — Deductions from Common Equity Tier 1 items** · applies from: unchanged
+
+*within* `AR 36 PA 1 ALN 1 PTA (j)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point (j) of Article 36(1), the reference to the amount exceeding the institution's Additional Tier 1 capital was changed to refer instead to the amount exceeding the institution's Additional Tier 1 items. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_36)
+
+*before* (`02013R0575-20150118`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2860 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2858 characters omitted…]
+
+**MODIFIED · Art. 56 — Deductions from Additional Tier 1 items** · applies from: unchanged
+
+*within* `AR 56 ALN 1 PTA (e)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Point (e) now refers to the amount exceeding the Tier 2 items of the institution, whereas the earlier version referred to the amount exceeding the Tier 2 capital of the institution. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_56)
+
+*before* (`02013R0575-20150118`)
+
+> Article 56
+> Deductions from Additional Tier 1 items
+> Institutions shall deduct the following from Additional Tier 1 items:
+> (a) direct, indirect and synthetic holdings by an institution of own Additional Tier 1 instruments, including own Additional Tier 1 instruments that an institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings of the Additional Tier 1 instruments of financial sector entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (c) the applicable amount determined in accordance with Article 60 of direct, indirect and synthetic holdings of the Additional Tier 1 instruments of financial sector entities, where an institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of the Additional Tier 1 instruments of financial sector entities where the institution has a significant investment in those entities, excluding underwriting positions held for five working days or fewer;
+> (e) the amount of items required to be deducted from Tier 2 items pursuant to Article 66 that exceed the Tier 2 capital of the institution;
+> (f) any tax charge relating to Additional Tier 1 items foreseeable at the moment of its calculation, except where the institution suitably adjusts the amount of Additional Tier 1 items i […truncated by emendrix: 109 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 56
+> Deductions from Additional Tier 1 items
+> Institutions shall deduct the following from Additional Tier 1 items:
+> (a) direct, indirect and synthetic holdings by an institution of own Additional Tier 1 instruments, including own Additional Tier 1 instruments that an institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings of the Additional Tier 1 instruments of financial sector entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (c) the applicable amount determined in accordance with Article 60 of direct, indirect and synthetic holdings of the Additional Tier 1 instruments of financial sector entities, where an institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of the Additional Tier 1 instruments of financial sector entities where the institution has a significant investment in those entities, excluding underwriting positions held for five working days or fewer;
+> (e) the amount of items required to be deducted from Tier 2 items pursuant to Article 66 that exceeds the Tier 2 items of the institution;
+> (f) any tax charge relating to Additional Tier 1 items foreseeable at the moment of its calculation, except where the institution suitably adjusts the amount of Additional Tier 1 items in […truncated by emendrix: 108 characters omitted…]
+
+**MODIFIED · Art. 199 — Additional eligibility for collateral under the IRB Approach** · applies from: unchanged
+
+*within* `AR 199 PA 3 ALN 1 PTA (a)`, `AR 199 PA 4 ALN 1 PTA (a)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In paragraph 3(1)(a) and paragraph 4(1)(a), the hyphenated term "mortgage-lending-value" was changed to the unhyphenated "mortgage lending value". [Art. 199, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_199) [Art. 199, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_199)
+
+No other wording in these two sub-points, or elsewhere in the article, differs between the two texts. [Art. 199, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_199)
+
+*before* (`02013R0575-20150118`)
+
+> Article 199
+> Additional eligibility for collateral under the IRB Approach
+> 1. In addition to the collateral referred to in Articles 197 and 198, institutions that calculate risk-weighted exposure amounts and expected loss amounts under the IRB Approach may also use the following forms of collateral:
+> (a) immovable property collateral in accordance with paragraphs 2, 3 and 4;
+> (b) receivables in accordance with paragraph 5;
+> (c) other physical collateral in accordance with paragraphs 6 and 8;
+> (d) leasing in accordance with paragraph 7.
+> 2. Unless otherwise specified under Article 124(2), institutions may use as eligible collateral residential property which is or will be occupied or let by the owner, or the beneficial owner in the case of personal investment companies, and commercial immovable property, including offices and other commercial premises, where both the following conditions are met:
+> (a) the value of the property does not materially depend upon the credit quality of the obligor. Institutions may exclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower from their determination of the materiality of such dependence;
+> (b) the risk of the borrower does not materially depend upon the performance of the underlying property or project, but on the underlying capacity of the borrower to repay the debt from other sources, and as a consequence the repayment of the facility does not materially depend on any cash […truncated by emendrix: 4771 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 199
+> Additional eligibility for collateral under the IRB Approach
+> 1. In addition to the collateral referred to in Articles 197 and 198, institutions that calculate risk-weighted exposure amounts and expected loss amounts under the IRB Approach may also use the following forms of collateral:
+> (a) immovable property collateral in accordance with paragraphs 2, 3 and 4;
+> (b) receivables in accordance with paragraph 5;
+> (c) other physical collateral in accordance with paragraphs 6 and 8;
+> (d) leasing in accordance with paragraph 7.
+> 2. Unless otherwise specified under Article 124(2), institutions may use as eligible collateral residential property which is or will be occupied or let by the owner, or the beneficial owner in the case of personal investment companies, and commercial immovable property, including offices and other commercial premises, where both the following conditions are met:
+> (a) the value of the property does not materially depend upon the credit quality of the obligor. Institutions may exclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower from their determination of the materiality of such dependence;
+> (b) the risk of the borrower does not materially depend upon the performance of the underlying property or project, but on the underlying capacity of the borrower to repay the debt from other sources, and as a consequence the repayment of the facility does not materially depend on any cash […truncated by emendrix: 4771 characters omitted…]
+
+**MODIFIED · Art. 250 — Treatment of maturity mismatches in synthetic securitisations** · applies from: unchanged
+
+*within* `AR 250 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The text of Article 250, including point (b), appears identical in both versions provided. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_250)
+
+No wording difference can be identified between the before and after texts shown for this provision. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_250)
+
+*before* (`02013R0575-20150118`)
+
+> Article 250
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+> (a) the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW *RWSP  t  t*T  t*RWAss  T  tT  t*
+> where:
+> RW*
+> risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+> RWAss
+> risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures expressed in years;
+> t
+> maturity of credit protection. expressed in years;
+> t*
+> 0,25.
+
+*after* (`02013R0575-20160719`)
+
+> Article 250
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+> (a) the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW*RWSP  t  t*T  t*RWAss  T  tT  t*
+> where:
+> RW*
+> risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+> RWAss
+> risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures expressed in years;
+> t
+> maturity of credit protection. expressed in years;
+> t*
+> 0,25.
+
+**MODIFIED · Art. 262 — Supervisory Formula Method** · applies from: unchanged
+
+*within* `AR 262 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The text of Article 262(1) differs only in minor spacing within the embedded mathematical formula notation, with no wording or substantive content changed. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_262)
+
+A similar minor spacing variation appears in the formula text of paragraph 2 as well. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_262)
+
+*before* (`02013R0575-20150118`)
+
+> Article 262
+> Supervisory Formula Method
+> 1. Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:12.5  SL  T  SLT
+> where:
+> S[x] = x, when x ≤ KIRBR
+> KIRBR Kx  KKIRBR1  expω KIRBR  xKIRBR  d  KIRBRω, when x > KIRBR
+> where:h1  KIRBRELGDNcKIRBR1  hvELGD  KIRBR  KIRBR0,25  1  ELGD  KIRBRNfv  KIRBR21  h  c21  KIRBR  KIRBR  ν1  h τg1  c  cf  1ag  cbg  1  cd1  1  h  1  BetaKIRBR; a , bKx1  h  1  Betax ; a , b  xBetax ; a 1, b  c
+> τ
+> 1000;
+> ω
+> 20;
+> Beta [x; a, b]
+> the cumulative beta distribution with parameters a and b evaluated at x;
+> T
+> the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+> KIRBR
+> the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+> L
+> the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the nominal amounts of the exposures that have been securitised. Capitalised fut […truncated by emendrix: 2634 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 262
+> Supervisory Formula Method
+> 1. Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:12.5  SL  T  SLT
+> where:
+> S[x] = x, when x ≤ KIRBR
+> KIRBR Kx  KKIRBR1  expω KIRBR  xKIRBR  d  KIRBRω, when x > KIRBR
+> where:h1  KIRBRELGDNcKIRBR1  hvELGD  KIRBR  KIRBR0,25  1  ELGD  KIRBRNfv  KIRBR21  h  c21  KIRBR  KIRBR  ν1  h τg1  c  cf  1ag  cbg  1  cd1  1  h  1  BetaKIRBR; a , bKx1  h  1  Betax;a,b  xBetax;a1,b  c
+> τ
+> 1000;
+> ω
+> 20;
+> Beta [x; a, b]
+> the cumulative beta distribution with parameters a and b evaluated at x;
+> T
+> the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+> KIRBR
+> the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+> L
+> the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the nominal amounts of the exposures that have been securitised. Capitalised future inco […truncated by emendrix: 2627 characters omitted…]
+
+**MODIFIED · Art. 284 — Exposure value** · applies from: unchanged
+
+*within* `AR 284 PA 6 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only visible change is in the formula rendering of the weighted-average Effective EPE calculation in paragraph 6, where the mathematical expression's formatting and layout differ between the two texts without any accompanying change in the surrounding descriptive wording. [Art. 284, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_284) [Art. 284, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_284)
+
+*before* (`02013R0575-20150118`)
+
+> Article 284
+> Exposure value
+> 1. Where an institution is permitted, in accordance with Article 283(1), to use the IMM to calculate the exposure value of some or all transactions mentioned in that paragraph, it shall measure the exposure value of those transactions at the level of the netting set.
+> The model used by the institution for that purpose shall:
+> (a) specify the forecasting distribution for changes in the market value of the netting set attributable to joint changes in relevant market variables, such as interest rates, foreign exchange rates;
+> (b) calculate the exposure value for the netting set at each of the future dates on the basis of the joint changes in the market variables.
+> 2. In order for the model to capture the effects of margining, the model of the collateral value shall meet the quantitative, qualitative and data requirements for the IMM in accordance with this Section and the institution may include in its forecasting distributions for changes in the market value of the netting set only eligible financial collateral as referred to in Articles 197 and 198 and points (c) and (d) of Article 299(2).
+> 3. The own funds requirement for counterparty credit risk with respect to the CCR exposures to which an institution applies the IMM, shall be the higher of the following:
+> (a) the own funds requirement for those exposures calculated on the basis of Effective EPE using current market data;
+> (b) the own funds requirement for those exposures calculated on the basis of Effec […truncated by emendrix: 3872 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 284
+> Exposure value
+> 1. Where an institution is permitted, in accordance with Article 283(1), to use the IMM to calculate the exposure value of some or all transactions mentioned in that paragraph, it shall measure the exposure value of those transactions at the level of the netting set.
+> The model used by the institution for that purpose shall:
+> (a) specify the forecasting distribution for changes in the market value of the netting set attributable to joint changes in relevant market variables, such as interest rates, foreign exchange rates;
+> (b) calculate the exposure value for the netting set at each of the future dates on the basis of the joint changes in the market variables.
+> 2. In order for the model to capture the effects of margining, the model of the collateral value shall meet the quantitative, qualitative and data requirements for the IMM in accordance with this Section and the institution may include in its forecasting distributions for changes in the market value of the netting set only eligible financial collateral as referred to in Articles 197 and 198 and points (c) and (d) of Article 299(2).
+> 3. The own funds requirement for counterparty credit risk with respect to the CCR exposures to which an institution applies the IMM, shall be the higher of the following:
+> (a) the own funds requirement for those exposures calculated on the basis of Effective EPE using current market data;
+> (b) the own funds requirement for those exposures calculated on the basis of Effec […truncated by emendrix: 3886 characters omitted…]
+
+**DEFERRED · Art. 493 — Transitional provisions for large exposures** · applies from: 2020-12-31
+
+*within* `AR 493 PA 1 ALN 1` · *dates* -2017-12-31 +2020-12-31 · *amended by* `32016R1014`
+
+In Article 493(1), the date until which the exemption from the large exposures provisions is available has changed from 31 December 2017 to 31 December 2020. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
+
+All other text of the article, including the derogation deadline of 31 December 2028 in paragraph 3, remains unchanged. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
+
+*before* (`02013R0575-20150118`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 493
+> Transitional provisions for large exposures
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+
+**DEFERRED · Art. 498 — Exemption for Commodities dealers** · applies from: 2020-12-31
+
+*within* `AR 498 PA 1 ALN 2` · *dates* -2017-12-31 +2020-12-31 · *amended by* `32016R1014`
+
+The only change is the date until which the exemption for commodities dealers applies, which shifts from 31 December 2017 to 31 December 2020. [Art. 498, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_498) [Art. 498, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_498)
+
+All other text of paragraph 1 and the remainder of the article, including paragraphs 2 and 3, is unchanged. [Art. 498, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_498)
+
+*before* (`02013R0575-20150118`)
+
+> Article 498
+> Exemption for Commodities dealers
+> 1. The provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to which Directive 93/22/EEC did not apply on 31 December 2006.
+> This exemption shall apply until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraphs 2 and 3, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC relating to energy supplies, including electr […truncated by emendrix: 145 characters omitted…]
+
+*after* (`02013R0575-20160719`)
+
+> Article 498
+> Exemption for Commodities dealers
+> 1. The provisions on own funds requirements as set out in this Regulation shall not apply to investment firms the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to which Directive 93/22/EEC did not apply on 31 December 2006.
+> This exemption shall apply until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraphs 2 and 3, whichever is the earlier.
+> 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
+> (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC relating to energy supplies, including electr […truncated by emendrix: 145 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20160719 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20150118 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20130628` → `02013R0575-20150118`
