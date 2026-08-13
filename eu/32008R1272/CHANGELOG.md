@@ -10,6 +10,107 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20170601 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20170101` → `02008R1272-20170601`
+
+- **Act** `eu:32008R1272` · **In force** 2017-06-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20170101` · `v2` = `02008R1272-20170601`
+
+---
+
+**MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unchanged
+
+*within* `AN I SCT 2 SCT 2.15 SCT 2.15.2`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02008R1272-20170101`)
+
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+> 1.0. Definitions
+> Gas means a substance which:
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+> 1.1. Classification of substances and mixtures
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305535 characters omitted…]
+
+*after* (`02008R1272-20170601`)
+
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+> 1.0. Definitions
+> Gas means a substance which:
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+> 1.1. Classification of substances and mixtures
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305535 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.3`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN VI SCT 1 SCT 1.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.1`, `AN VI SCT 1 SCT 1.2 SCT 1.2.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.3`, `AN VI SCT 1 SCT 1.2 SCT 1.2.4`, `AN VI SCT 3` · *amended by* `32017R0776`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory text in section 1 now refers throughout to a single 'Table 3' rather than to separate Tables 3.1 and 3.2, and references to Union level replace earlier references to Community level in the description of Parts 2 and 3. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI)
+
+Section 1.1.2.3 is retitled to add Acute Toxicity Estimates alongside specific concentration limits and M-factors, and its text now describes harmonised ATEs being listed in the same column of Table 3, including a rule on using the additivity formula in section 3.1.3.6 of Annex I and on establishing a value when a harmonised ATE is missing. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
+
+Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable formaldehyde concentrations for carcinogen and mutagen classification respectively, and section 1.2 and its subsections 1.2.1 through 1.2.4 are revised to refer to 'Table 3' instead of 'Table 3.1' and to drop the cross-reference to Directive 1999/45/EC generic concentrations in Note 1. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI)
+
+*before* (`02008R1272-20170101`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.1, subject to certain considerations arising from translating the classifications listed in Annex I to Directive 67/548/EEC.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Community level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Community level. In Table 3.1 the classification and labelling are based on the criteria in Annex I to this Regulation. In Table 3.2 classification and labelling are based on the criteria in Annex VI to Directive 67/548/EEC.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1981502 characters omitted…]
+
+*after* (`02008R1272-20170601`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1981958 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20170601 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20170101 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20160401` → `02008R1272-20170101`
