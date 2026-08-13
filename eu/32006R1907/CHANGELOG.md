@@ -10,6 +10,87 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200428 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20200227` → `02006R1907-20200428`
+
+- **Act** `eu:32006R1907` · **In force** 2020-04-28 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20200227` · `v2` = `02006R1907-20200428`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32020R0507`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 41 — Compliance check of registrations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 41 PA 5 ALN 1` · *dates* +2023-12-31 +2027-12-31 · *amended by* `32020R0507`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Paragraph 5 changes the compliance-check selection rule from a single flat threshold of at least 5% of dossiers received per tonnage band to a split scheme: at least 20% of dossiers for registrations in tonnage bands of 100 tonnes or more per year must be selected until 31 December 2023, and at least 20% of dossiers for registrations in tonnage bands below 100 tonnes per year must be selected until 31 December 2027. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#art_41)
+
+The introductory wording of paragraph 5 is also reworded from describing the Agency ensuring compliance to describing the Agency checking compliance, and the priority criteria list is now introduced as applying when selecting dossiers for compliance checking, with the criteria themselves left unchanged. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#art_41)
+
+*before* (`02006R1907-20200227`)
+
+> Article 41
+> Compliance check of registrations
+> 1. The Agency may examine any registration in order to verify any of the following:
+> (a) that the information in the technical dossier(s) submitted pursuant to Article 10 complies with the requirements of Articles 10, 12 and 13 and with Annexes III and VI to X;
+> (b) that the adaptations of the standard information requirements and the related justifications submitted in the technical dossier(s) comply with the rules governing such adaptations set out in Annexes VII to X and with the general rules set out in Annex XI;
+> (c) that any required chemical safety assessment and chemical safety report comply with the requirements of Annex I and that the proposed risk management measures are adequate;
+> (d) that any explanation(s) submitted in accordance with Article 11(3) or Article 19(2) have an objective basis.
+> 2. The list of dossiers being checked for compliance by the Agency shall be made available to Member States competent authorities.
+> 3. On the basis of an examination made pursuant to paragraph 1, the Agency may, within 12 months of the start of the compliance check, prepare a draft decision requiring the registrant(s) to submit any information needed to bring the registration(s) into compliance with the relevant information requirements and specifying adequate time limits for the submission of further information. Such a decision shall be taken in accordance with the procedure laid down in Articles 50 and 51.
+> 4. The registrant shall subm […truncated by emendrix: 1384 characters omitted…]
+
+*after* (`02006R1907-20200428`)
+
+> Article 41
+> Compliance check of registrations
+> 1. The Agency may examine any registration in order to verify any of the following:
+> (a) that the information in the technical dossier(s) submitted pursuant to Article 10 complies with the requirements of Articles 10, 12 and 13 and with Annexes III and VI to X;
+> (b) that the adaptations of the standard information requirements and the related justifications submitted in the technical dossier(s) comply with the rules governing such adaptations set out in Annexes VII to X and with the general rules set out in Annex XI;
+> (c) that any required chemical safety assessment and chemical safety report comply with the requirements of Annex I and that the proposed risk management measures are adequate;
+> (d) that any explanation(s) submitted in accordance with Article 11(3) or Article 19(2) have an objective basis.
+> 2. The list of dossiers being checked for compliance by the Agency shall be made available to Member States competent authorities.
+> 3. On the basis of an examination made pursuant to paragraph 1, the Agency may, within 12 months of the start of the compliance check, prepare a draft decision requiring the registrant(s) to submit any information needed to bring the registration(s) into compliance with the relevant information requirements and specifying adequate time limits for the submission of further information. Such a decision shall be taken in accordance with the procedure laid down in Articles 50 and 51.
+> 4. The registrant shall subm […truncated by emendrix: 1669 characters omitted…]
+
+**MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unchanged
+
+*within* `AN XIV`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only visible difference is in entry 50, where the EC No and CAS No fields, previously shown with an em-dash placeholder, are now shown with a plain hyphen placeholder. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#anx_XIV)
+
+No other entry, heading, or transitional text in the annex differs between the two versions shown. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#anx_XIV)
+
+*before* (`02006R1907-20200227`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 9815 characters omitted…]
+
+*after* (`02006R1907-20200428`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 9815 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20200428 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200227 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20200101` → `02006R1907-20200227`

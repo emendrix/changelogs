@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32006R1907",
+    "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+  },
+  "from_version": "02006R1907-20200227",
+  "to_version": "02006R1907-20200428",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2020-04-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 156,
+    "disputed": 3
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 3,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20200428",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32020R0507",
+            "display_name": "Commission Regulation (EU) 2020/507 of 7 April 2020 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards the percentage of registration dossiers to be selected for compliance checking (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2020-02-27, 2020-04-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20200428",
+          "location": "AR 41"
+        },
+        "heading": "Compliance check of registrations",
+        "before": "Article 41\nCompliance check of registrations\n1. The Agency may examine any registration in order to verify any of the following:\n(a) that the information in the technical dossier(s) submitted pursuant to Article 10 complies with the requirements of Articles 10, 12 and 13 and with Annexes III and VI to X;\n(b) that the adaptations of the standard information requirements and the related justifications submitted in the technical dossier(s) comply with the rules governing such adaptations set out in Annexes VII to X and with the general rules set out in Annex XI;\n(c) that any required chemical safety assessment and chemical safety report comply with the requirements of Annex I and that the proposed risk management measures are adequate;\n(d) that any explanation(s) submitted in accordance with Article 11(3) or Article 19(2) have an objective basis.\n2. The list of dossiers being checked for compliance by the Agency shall be made available to Member States competent authorities.\n3. On the basis of an examination made pursuant to paragraph 1, the Agency may, within 12 months of the start of the compliance check, prepare a draft decision requiring the registrant(s) to submit any information needed to bring the registration(s) into compliance with the relevant information requirements and specifying adequate time limits for the submission of further information. Such a decision shall be taken in accordance with the procedure laid down in Articles 50 and 51.\n4. The registrant shall submit the information required to the Agency by the deadline set.\n5. To ensure that registration dossiers comply with this Regulation, the Agency shall select a percentage of those dossiers, no lower than 5 % of the total received by the Agency for each tonnage band, for compliance checking. The Agency shall give priority, but not exclusively, to dossiers meeting at least one of the following criteria:\n(a) the dossier contains information in Article 10(a)(iv), (vi) and/or (vii) submitted separately as per Article 11(3); or\n(b) the dossier is for a substance manufactured or imported in quantities of one tonne or more per year and does not meet the requirements of Annex VII applying under either Article 12(1)(a) or (b), as the case may be; or\n(c) the dossier is for a substance listed in the Community rolling action plan referred to in Article 44(2).\n6. Any third party may electronically submit information to the Agency relating to substances that appear on the list referred to in Article 28(4). The Agency shall consider this information together with the information submitted according to Article 124 when checking and selecting dossiers.\n7. The Commission may, after consulting with the Agency, take a decision to vary the percentage of dossiers selected and amend or include further criteria in paragraph 5 in accordance with the procedure referred to in Article 133(4).",
+        "after": "Article 41\nCompliance check of registrations\n1. The Agency may examine any registration in order to verify any of the following:\n(a) that the information in the technical dossier(s) submitted pursuant to Article 10 complies with the requirements of Articles 10, 12 and 13 and with Annexes III and VI to X;\n(b) that the adaptations of the standard information requirements and the related justifications submitted in the technical dossier(s) comply with the rules governing such adaptations set out in Annexes VII to X and with the general rules set out in Annex XI;\n(c) that any required chemical safety assessment and chemical safety report comply with the requirements of Annex I and that the proposed risk management measures are adequate;\n(d) that any explanation(s) submitted in accordance with Article 11(3) or Article 19(2) have an objective basis.\n2. The list of dossiers being checked for compliance by the Agency shall be made available to Member States competent authorities.\n3. On the basis of an examination made pursuant to paragraph 1, the Agency may, within 12 months of the start of the compliance check, prepare a draft decision requiring the registrant(s) to submit any information needed to bring the registration(s) into compliance with the relevant information requirements and specifying adequate time limits for the submission of further information. Such a decision shall be taken in accordance with the procedure laid down in Articles 50 and 51.\n4. The registrant shall submit the information required to the Agency by the deadline set.\n5. To check compliance of registration dossiers with this Regulation, the Agency shall select, until 31 December 2023, a percentage of those dossiers no lower than 20 % of the total received by the Agency for registrations in tonnage bands of 100 tonnes or more per year.\nThe Agency shall, until 31 December 2027, also select a percentage no lower than 20 % of the total received by the Agency for registrations in tonnage bands of less than 100 tonnes per year.\nWhen selecting dossiers for compliance checking, the Agency shall give priority, but not exclusively, to dossiers meeting at least one of the following criteria:\n(a) the dossier contains information in Article 10(a)(iv), (vi) and/or (vii) submitted separately as per Article 11(3); or\n(b) the dossier is for a substance manufactured or imported in quantities of one tonne or more per year and does not meet the requirements of Annex VII applying under either Article 12(1)(a) or (b), as the case may be; or\n(c) the dossier is for a substance listed in the Community rolling action plan referred to in Article 44(2).\n6. Any third party may electronically submit information to the Agency relating to substances that appear on the list referred to in Article 28(4). The Agency shall consider this information together with the information submitted according to Article 124 when checking and selecting dossiers.\n7. The Commission may, after consulting with the Agency, take a decision to vary the percentage of dossiers selected and amend or include further criteria in paragraph 5 in accordance with the procedure referred to in Article 133(4).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 41 PA 5 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32020R0507",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2023-12-31",
+          "2027-12-31"
+        ],
+        "in_force": "2020-04-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32020R0507 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32020R0507, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 5 changes the compliance-check selection rule from a single flat threshold of at least 5% of dossiers received per tonnage band to a split scheme: at least 20% of dossiers for registrations in tonnage bands of 100 tonnes or more per year must be selected until 31 December 2023, and at least 20% of dossiers for registrations in tonnage bands below 100 tonnes per year must be selected until 31 December 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200227",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#art_41",
+              "label": "Art. 41, 02006R1907-20200227"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200428",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#art_41",
+              "label": "Art. 41, 02006R1907-20200428"
+            }
+          ]
+        },
+        {
+          "text": "The introductory wording of paragraph 5 is also reworded from describing the Agency ensuring compliance to describing the Agency checking compliance, and the priority criteria list is now introduced as applying when selecting dossiers for compliance checking, with the criteria themselves left unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200227",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#art_41",
+              "label": "Art. 41, 02006R1907-20200227"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200428",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#art_41",
+              "label": "Art. 41, 02006R1907-20200428"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20200428",
+          "location": "AN XIV"
+        },
+        "heading": "LIST OF SUBSTANCES SUBJECT TO AUTHORISATION",
+        "before": "ANNEX XIV\nLIST OF SUBSTANCES SUBJECT TO AUTHORISATION\nDate referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products, where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.Does not meet the criteria for identification as a carcinogen if it contains < 0,005 % (w/w) benzo[a]pyrene (Einecs No 200-028-5).\nEntry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods\nLatest application date Sunset date\n1. 5-tert-butyl-2,4,6-trinitro-m-xylene\n(Musk xylene)\nEC No\n201-329-4\nCAS No\n81-15-2 vPvB 21 February 2013 21 August 2014 — —\n2. 4,4’-Diaminodiphenylmethane\n(MDA)\nEC No\n202-974-4\nCAS No\n101-77-9 Carcinogenic\n(category 1B) 21 February 2013 21 August 2014 — —\n3. Hexabromocyclododecane\n(HBCDD)\nEC No\n221-695-9,\n247-148-4,\nCAS No\n3194-55-6\n25637-99-4\nalpha-hexabromocyclododecane\nCAS No\n134237-50-6,\nbeta-hexabromocyclododecane\nCAS No\n134237-51-7\ngamma-hexabromocyclododecane\nCAS No\n134237-52-8 PBT 21 February 2014 21 August 2015 — —\n4. Bis(2-ethylhexyl) phthalate\n(DEHP)\nEC No\n204-211-0\nCAS No\n117-81-7 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 5. Benzyl butyl phthalate\n(BBP)\nEC No\n201-622-7\nCAS No\n85-68-7 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate\n(DBP)\nEC No\n201-557-4\nCAS No\n84-74-2 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 7. Diisobutyl phthalate (DIBP)\nEC No: 201-553-2\nCAS No: 84-69-5 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 — —\n8. Diarsenic trioxide\nEC No: 215-481-4\nCAS No: 1327-53-3 Carcinogenic\n(category 1A) 21 November 2013 21 May 2015 — —\n9. Diarsenic pentaoxide\nEC No: 215-116-9\nCAS No: 1303-28-2 Carcinogenic\n(category 1A) 21 November 2013 21 May 2015 — —\n10. Lead chromate\nEC No: 231-846-0\nCAS No: 7758-97-6 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 — —\n11. Lead sulfochromate yellow\n(C.I. Pigment Yellow 34)\nEC No: 215-693-7\nCAS No: 1344-37-2 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 — —\n12. Lead chromate molybdate sulphate red\n(C.I. Pigment Red 104)\nEC No: 235-759-9\nCAS No: 12656-85-8 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 13. Tris (2-chloroethyl) phosphate\n(TCEP)\nEC No: 204-118-5\nCAS No: 115-96-8 Toxic for reproduction\n(category 1B) 21 February 2014 21 August 2015 14. 2,4-Dinitrotoluene (2,4-DNT)\nEC No: 204-450-0\nCAS No: 121-14-2 Carcinogenic\n(category 1B) 21 February 2014 21 August 2015 15. Trichloroethylene\nEC No: 201-167-4\nCAS No: 79-01-6 Carcinogenic\n(category 1B) 21 October 2014 21 April 2016 — —\n16. Chromium trioxide\nEC No: 215-607-8\nCAS No: 1333-82-0 Carcinogenic\n(category 1A)\nMutagenic\n(category 1B) 21 March 2016 21 September 2017 — —\n17. Acids generated from chromium trioxide and their oligomers\nGroup containing:\nChromic acid\nEC No: 231-801-5\nCAS No: 7738-94-5\nDichromic acid\nEC No: 236-881-5\nCAS No: 13530-68-2\nOligomers of chromic acid and dichromic acid\nEC No: not yet assigned\nCAS No: not yet assigned Carcinogenic\n(category 1B) 21 March 2016 21 September 2017 — —\n18. Sodium dichromate\nEC No: 234-190-3\nCAS No: 7789-12-0\n10588-01-9 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 — —\n19. Potassium dichromate\nEC No: 231-906-6\nCAS No: 7778-50-9 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 — —\n20. Ammonium dichromate\nEC No: 232-143-1\nCAS No: 7789-09-5 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 21. Potassium chromate\nEC No: 232-140-5\nCAS No: 7789-00-6 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B) 21 March 2016 21 September 2017 22. Sodium chromate\nEC No: 231-889-5\nCAS No: 7775-11-3 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 23. Formaldehyde, oligomeric reaction products with aniline (technical MDA)\nEC No: 500-036-1\nCAS No: 25214-70-4 Carcinogenic\n(category 1B) 22 February 2016 22 August 2017 — —\n24. Arsenic acid\nEC No: 231-901-9\nCAS No: 7778-39-4 Carcinogenic\n(category 1A) 22 February 2016 22 August 2017 — —\n25. Bis(2-methoxyethyl) ether (diglyme)\nEC No: 203-924-4\nCAS No: 111-96-6 Toxic for reproduction\n(category 1B) 22 February 2016 22 August 2017 — —\n26. 1,2-dichloroethane (EDC)\nEC No: 203-458-1\nCAS No: 107-06-2 Carcinogenic\n(category 1B) 22 May 2016 22 November 2017 — —\n27. 2,2′-dichloro-4,4′-methylenedianiline (MOCA)\nEC No: 202-918-9\nCAS No: 101-14-4 Carcinogenic\n(category 1B) 22 May 2016 22 November 2017 — —\n28. Dichromium tris(chromate)\nEC No: 246-356-2\nCAS No: 24613-89-6 Carcinogenic\n(category 1B) 22 July 2017 22 January 2019 — —\n29. Strontium chromate\nEC No: 232-142-6\nCAS No: 7789-06-2 Carcinogenic\n(category 1B) 22 July 2017 22 January 2019 — —\n30. Potassium hydroxyoctaoxodizincatedichromate\nEC No: 234-329-8\nCAS No: 11103-86-9 Carcinogenic\n(category 1A) 22 July 2017 22 January 2019 — —\n31. Pentazinc chromate octahydroxide\nEC No: 256-418-0\nCAS No: 49663-84-5 Carcinogenic\n(category 1A) 22 July 2017 22 January 2019 — —\n32. 1-Bromopropane (n-propyl bromide)\nEC No\n203-445-0\nCAS No\n106-94-5 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n33. Diisopentylphthalate\nEC No\n210-088-4\nCAS No\n605-50-5 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n34. 1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7 rich\nEC No\n276-158-1\nCAS No\n71888-89-6 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n35. 1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters\nEC No\n271-084-6\nCAS No\n68515-42-4 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n36. 1,2-Benzenedicarboxylic acid, dipentylester, branched and linear\nEC No\n284-032-2\nCAS No\n84777-06-0 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n37. Bis(2-methoxyethyl) phthalate\nEC No\n204-212-6\nCAS No\n117-82-8 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n38. Dipentylphthalate\nEC No\n205-017-9\nCAS No\n131-18-0 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n39. N-pentyl-isopentylphthalate\nEC No\n—\nCAS No\n776297-69-9 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n40. Anthracene oil\nEC No\n292-602-7\nCAS No\n90640-80-5 Carcinogenic\n(category 1B), PBT, vPvB 4 April 2019 4 October 2020 — —\n41. Pitch, coal tar, high temp.\nEC No\n266-028-2\nCAS No\n65996-93-2 Carcinogenic\n(category 1B), PBT, vPvB 4 April 2019 4 October 2020 — —\n42. 4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated\n(covering well-defined substances and UVCB substances, polymers and homologues)\nEC No\n—\nCAS No\n— Endocrine disrupting properties (Article 57(f) — environment) 4 July 2019 4 January 2021 — —\n43. 4-Nonylphenol, branched and linear, ethoxylated\n(substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in position 4 to phenol, ethoxylated covering UVCB- and well-defined substances, polymers and homologues, which include any of the individual isomers and/or combinations thereof)\nEC No\n—\nCAS No\n— Endocrine disrupting properties (Article 57(f) — environment) 4 July 2019 4 January 2021 — —\n44. 1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear\nEC No: 271-093-5\nCAS No: 68515-50-4 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n45. Dihexyl phthalate\nEC No: 201-559-5\nCAS No: 84-75-3 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n46. 1,2-benzenedicarboxylic acid, di-C6-10-alkyl esters; 1,2-benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters with ≥ 0,3 % of dihexyl phthalate (EC No 201-559-5)\nEC No: 271-094-0; 272-013-1\nCAS No: 68515-51-5; 68648-93-1 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n47. Trixylyl phosphate\nEC No: 246-677-8\nCAS No: 25155-23-1 Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n48. Sodium perborate; perboric acid, sodium salt\nEC No: 239-172-9; 234-390-0\nCAS No: - Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n49. Sodium peroxometaborate\nEC No: 231-556-4\nCAS No: 7632-04-4 Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n50. 5-sec-butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [1], 5-sec-butyl-2-(4,6-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [2] [covering any of the individual stereoisomers of [1] and [2] or any combination thereof]\nEC No: —\nCAS No: — vPvB 27 February 2022 27 August 2023 — —\n51. 2-(2H-benzotriazol-2-yl)-4,6-ditertpentylphenol (UV-328)\nEC No: 247-384-8\nCAS No: 25973-55-1 PBT, vPvB 27 May 2022 27 November 2023 — —\n52. 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol (UV-327)\nEC No: 223-383-8\nCAS No: 3864-99-1 vPvB 27 May 2022 27 November 2023 — —\n53. 2-(2H-benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol (UV-350)\nEC No: 253-037-1\nCAS No: 36437-37-3 vPvB 27 May 2022 27 November 2023 — —\n54. 2-benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320)\nEC No: 223-346-6\nCAS No: 3846-71-7 PBT, vPvB 27 May 2022 27 November 2023 — —",
+        "after": "ANNEX XIV\nLIST OF SUBSTANCES SUBJECT TO AUTHORISATION\nDate referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products, where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.Does not meet the criteria for identification as a carcinogen if it contains < 0,005 % (w/w) benzo[a]pyrene (Einecs No 200-028-5).\nEntry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods\nLatest application date Sunset date\n1. 5-tert-butyl-2,4,6-trinitro-m-xylene\n(Musk xylene)\nEC No\n201-329-4\nCAS No\n81-15-2 vPvB 21 February 2013 21 August 2014 — —\n2. 4,4’-Diaminodiphenylmethane\n(MDA)\nEC No\n202-974-4\nCAS No\n101-77-9 Carcinogenic\n(category 1B) 21 February 2013 21 August 2014 — —\n3. Hexabromocyclododecane\n(HBCDD)\nEC No\n221-695-9,\n247-148-4,\nCAS No\n3194-55-6\n25637-99-4\nalpha-hexabromocyclododecane\nCAS No\n134237-50-6,\nbeta-hexabromocyclododecane\nCAS No\n134237-51-7\ngamma-hexabromocyclododecane\nCAS No\n134237-52-8 PBT 21 February 2014 21 August 2015 — —\n4. Bis(2-ethylhexyl) phthalate\n(DEHP)\nEC No\n204-211-0\nCAS No\n117-81-7 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 5. Benzyl butyl phthalate\n(BBP)\nEC No\n201-622-7\nCAS No\n85-68-7 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate\n(DBP)\nEC No\n201-557-4\nCAS No\n84-74-2 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 7. Diisobutyl phthalate (DIBP)\nEC No: 201-553-2\nCAS No: 84-69-5 Toxic for reproduction\n(category 1B) 21 August 2013 21 February 2015 — —\n8. Diarsenic trioxide\nEC No: 215-481-4\nCAS No: 1327-53-3 Carcinogenic\n(category 1A) 21 November 2013 21 May 2015 — —\n9. Diarsenic pentaoxide\nEC No: 215-116-9\nCAS No: 1303-28-2 Carcinogenic\n(category 1A) 21 November 2013 21 May 2015 — —\n10. Lead chromate\nEC No: 231-846-0\nCAS No: 7758-97-6 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 — —\n11. Lead sulfochromate yellow\n(C.I. Pigment Yellow 34)\nEC No: 215-693-7\nCAS No: 1344-37-2 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 — —\n12. Lead chromate molybdate sulphate red\n(C.I. Pigment Red 104)\nEC No: 235-759-9\nCAS No: 12656-85-8 Carcinogenic\n(category 1B)\nToxic for reproduction\n(category 1A) 21 November 2013 21 May 2015 13. Tris (2-chloroethyl) phosphate\n(TCEP)\nEC No: 204-118-5\nCAS No: 115-96-8 Toxic for reproduction\n(category 1B) 21 February 2014 21 August 2015 14. 2,4-Dinitrotoluene (2,4-DNT)\nEC No: 204-450-0\nCAS No: 121-14-2 Carcinogenic\n(category 1B) 21 February 2014 21 August 2015 15. Trichloroethylene\nEC No: 201-167-4\nCAS No: 79-01-6 Carcinogenic\n(category 1B) 21 October 2014 21 April 2016 — —\n16. Chromium trioxide\nEC No: 215-607-8\nCAS No: 1333-82-0 Carcinogenic\n(category 1A)\nMutagenic\n(category 1B) 21 March 2016 21 September 2017 — —\n17. Acids generated from chromium trioxide and their oligomers\nGroup containing:\nChromic acid\nEC No: 231-801-5\nCAS No: 7738-94-5\nDichromic acid\nEC No: 236-881-5\nCAS No: 13530-68-2\nOligomers of chromic acid and dichromic acid\nEC No: not yet assigned\nCAS No: not yet assigned Carcinogenic\n(category 1B) 21 March 2016 21 September 2017 — —\n18. Sodium dichromate\nEC No: 234-190-3\nCAS No: 7789-12-0\n10588-01-9 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 — —\n19. Potassium dichromate\nEC No: 231-906-6\nCAS No: 7778-50-9 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 — —\n20. Ammonium dichromate\nEC No: 232-143-1\nCAS No: 7789-09-5 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 21. Potassium chromate\nEC No: 232-140-5\nCAS No: 7789-00-6 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B) 21 March 2016 21 September 2017 22. Sodium chromate\nEC No: 231-889-5\nCAS No: 7775-11-3 Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B) 21 March 2016 21 September 2017 23. Formaldehyde, oligomeric reaction products with aniline (technical MDA)\nEC No: 500-036-1\nCAS No: 25214-70-4 Carcinogenic\n(category 1B) 22 February 2016 22 August 2017 — —\n24. Arsenic acid\nEC No: 231-901-9\nCAS No: 7778-39-4 Carcinogenic\n(category 1A) 22 February 2016 22 August 2017 — —\n25. Bis(2-methoxyethyl) ether (diglyme)\nEC No: 203-924-4\nCAS No: 111-96-6 Toxic for reproduction\n(category 1B) 22 February 2016 22 August 2017 — —\n26. 1,2-dichloroethane (EDC)\nEC No: 203-458-1\nCAS No: 107-06-2 Carcinogenic\n(category 1B) 22 May 2016 22 November 2017 — —\n27. 2,2′-dichloro-4,4′-methylenedianiline (MOCA)\nEC No: 202-918-9\nCAS No: 101-14-4 Carcinogenic\n(category 1B) 22 May 2016 22 November 2017 — —\n28. Dichromium tris(chromate)\nEC No: 246-356-2\nCAS No: 24613-89-6 Carcinogenic\n(category 1B) 22 July 2017 22 January 2019 — —\n29. Strontium chromate\nEC No: 232-142-6\nCAS No: 7789-06-2 Carcinogenic\n(category 1B) 22 July 2017 22 January 2019 — —\n30. Potassium hydroxyoctaoxodizincatedichromate\nEC No: 234-329-8\nCAS No: 11103-86-9 Carcinogenic\n(category 1A) 22 July 2017 22 January 2019 — —\n31. Pentazinc chromate octahydroxide\nEC No: 256-418-0\nCAS No: 49663-84-5 Carcinogenic\n(category 1A) 22 July 2017 22 January 2019 — —\n32. 1-Bromopropane (n-propyl bromide)\nEC No\n203-445-0\nCAS No\n106-94-5 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n33. Diisopentylphthalate\nEC No\n210-088-4\nCAS No\n605-50-5 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n34. 1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7 rich\nEC No\n276-158-1\nCAS No\n71888-89-6 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n35. 1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters\nEC No\n271-084-6\nCAS No\n68515-42-4 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n36. 1,2-Benzenedicarboxylic acid, dipentylester, branched and linear\nEC No\n284-032-2\nCAS No\n84777-06-0 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n37. Bis(2-methoxyethyl) phthalate\nEC No\n204-212-6\nCAS No\n117-82-8 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n38. Dipentylphthalate\nEC No\n205-017-9\nCAS No\n131-18-0 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n39. N-pentyl-isopentylphthalate\nEC No\n—\nCAS No\n776297-69-9 Toxic for reproduction\n(category 1B) 4 January 2019 4 July 2020 — —\n40. Anthracene oil\nEC No\n292-602-7\nCAS No\n90640-80-5 Carcinogenic\n(category 1B), PBT, vPvB 4 April 2019 4 October 2020 — —\n41. Pitch, coal tar, high temp.\nEC No\n266-028-2\nCAS No\n65996-93-2 Carcinogenic\n(category 1B), PBT, vPvB 4 April 2019 4 October 2020 — —\n42. 4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated\n(covering well-defined substances and UVCB substances, polymers and homologues)\nEC No\n—\nCAS No\n— Endocrine disrupting properties (Article 57(f) — environment) 4 July 2019 4 January 2021 — —\n43. 4-Nonylphenol, branched and linear, ethoxylated\n(substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in position 4 to phenol, ethoxylated covering UVCB- and well-defined substances, polymers and homologues, which include any of the individual isomers and/or combinations thereof)\nEC No\n—\nCAS No\n— Endocrine disrupting properties (Article 57(f) — environment) 4 July 2019 4 January 2021 — —\n44. 1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear\nEC No: 271-093-5\nCAS No: 68515-50-4 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n45. Dihexyl phthalate\nEC No: 201-559-5\nCAS No: 84-75-3 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n46. 1,2-benzenedicarboxylic acid, di-C6-10-alkyl esters; 1,2-benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters with ≥ 0,3 % of dihexyl phthalate (EC No 201-559-5)\nEC No: 271-094-0; 272-013-1\nCAS No: 68515-51-5; 68648-93-1 Toxic for reproduction (category 1B) 27 August 2021 27 February 2023 — —\n47. Trixylyl phosphate\nEC No: 246-677-8\nCAS No: 25155-23-1 Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n48. Sodium perborate; perboric acid, sodium salt\nEC No: 239-172-9; 234-390-0\nCAS No: - Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n49. Sodium peroxometaborate\nEC No: 231-556-4\nCAS No: 7632-04-4 Toxic for reproduction (category 1B) 27 November 2021 27 May 2023 — —\n50. 5-sec-butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [1], 5-sec-butyl-2-(4,6-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [2] [covering any of the individual stereoisomers of [1] and [2] or any combination thereof]\nEC No: -\nCAS No: - vPvB 27 February 2022 27 August 2023 — —\n51. 2-(2H-benzotriazol-2-yl)-4,6-ditertpentylphenol (UV-328)\nEC No: 247-384-8\nCAS No: 25973-55-1 PBT, vPvB 27 May 2022 27 November 2023 — —\n52. 2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol (UV-327)\nEC No: 223-383-8\nCAS No: 3864-99-1 vPvB 27 May 2022 27 November 2023 — —\n53. 2-(2H-benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol (UV-350)\nEC No: 253-037-1\nCAS No: 36437-37-3 vPvB 27 May 2022 27 November 2023 — —\n54. 2-benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320)\nEC No: 223-346-6\nCAS No: 3846-71-7 PBT, vPvB 27 May 2022 27 November 2023 — —",
+        "previous_location": null,
+        "changed_within": [
+          "AN XIV"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2020-02-27, 2020-04-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32020R0507, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only visible difference is in entry 50, where the EC No and CAS No fields, previously shown with an em-dash placeholder, are now shown with a plain hyphen placeholder.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200227",
+                "location": "AN XIV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV",
+              "label": "Annex XIV, 02006R1907-20200227"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200428",
+                "location": "AN XIV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#anx_XIV",
+              "label": "Annex XIV, 02006R1907-20200428"
+            }
+          ]
+        },
+        {
+          "text": "No other entry, heading, or transitional text in the annex differs between the two versions shown.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20200428",
+                "location": "AN XIV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#anx_XIV",
+              "label": "Annex XIV, 02006R1907-20200428"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32006R1907",
+      "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+    },
+    "from_version": "02006R1907-20200227",
+    "to_version": "02006R1907-20200428",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 41",
+          "AN XIV"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 41"
+        ],
+        "note": "2 annotations in (2020-02-27, 2020-04-28]",
+        "claims": [
+          {
+            "location": "AR 41 PA 5 FR 1",
+            "change_type": "MODIFIED",
+            "in_force": "2020-04-28",
+            "source": "32020R0507 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32020R0507",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 41 PA 5 FR 2",
+            "change_type": "MODIFIED",
+            "in_force": "2020-04-28",
+            "source": "32020R0507 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32020R0507",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32020R0507, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32020R0507",
+              "display_name": "Commission Regulation (EU) 2020/507 of 7 April 2020 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards the percentage of registration dossiers to be selected for compliance checking (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 41",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN XIV",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 2,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 18194,
+      "output_tokens": 569,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 7,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
