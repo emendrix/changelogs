@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0600",
+    "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02014R0600-20240328",
+  "to_version": "02014R0600-20241204",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-12-04"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 94,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20241204",
+          "location": "AR 3"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2809",
+            "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2024-03-28, 2024-12-04]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20241204",
+          "location": "AR 25"
+        },
+        "heading": "Obligation to maintain records",
+        "before": "Article 25\nObligation to maintain records\n1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.\n2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shall perform a facilitation and coordination role in relation to the access by competent authorities to information pursuant to this paragraph.\n3. ESMA shall develop draft regulatory technical standards to specify the details and formats of the relevant order data that are required to be maintained pursuant to paragraph 2 of this Article and that are not referred to in Article 26.\nThose draft regulatory technical standards shall include the identification code of the member or participant which transmitted the order, the identification code of the order, the date and time the order was transmitted, the characteristics of the order, including the type of order, the limit price if applicable, the validity period, any specific order instructions, details of any modification, cancellation, partial or full execution of the order, the agency or principal capacity.\nESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 25\nObligation to maintain records\n1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.\n2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The competent authority of the trading venue may request those data on an ongoing basis. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shall perform a facilitation and coordination role in relation to the access by competent authorities to information under this paragraph.\n3. ESMA shall develop draft regulatory technical standards to specify the details and formats of the relevant order data required to be maintained under paragraph 2 of this Article that is not referred to in Article 26.\nThose draft regulatory technical standards shall include the identification code of the member or participant which transmitted the order, the identification code of the order, the date and time the order was transmitted, the characteristics of the order, including the type of order, the limit price if applicable, the validity period, any specific order instructions, details of any modification, cancellation, partial or full execution of the order, the agency or principal capacity.\nESMA shall submit those draft regulatory technical standards to the Commission by 5 September 2025.\nPower is delegated to the Commission to supplement this Regulation by adopting regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 25 PA 2 ALN 1",
+          "AR 25 PA 3 ALN 1",
+          "AR 25 PA 3 ALN 3",
+          "AR 25 PA 3 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2809",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2015-07-03"
+        ],
+        "dates_added": [
+          "2025-09-05"
+        ],
+        "in_force": "2024-12-04",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2809 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2809, 0.992 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now adds a sentence allowing the competent authority of the trading venue to request the order data on an ongoing basis, alongside minor wording changes from 'pursuant to this paragraph' to 'under this paragraph'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20241204",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_25",
+              "label": "Art. 25, 02014R0600-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25",
+              "label": "Art. 25, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 changes the deadline for ESMA to submit draft regulatory technical standards to the Commission from 3 July 2015 to 5 September 2025, and rephrases the delegation of power to the Commission as supplementing the Regulation by adopting regulatory technical standards, rather than simply adopting them.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20241204",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_25",
+              "label": "Art. 25, 02014R0600-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25",
+              "label": "Art. 25, 02014R0600-20240328"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0600",
+      "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02014R0600-20240328",
+    "to_version": "02014R0600-20241204",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 25"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 25"
+        ],
+        "note": "2 annotations in (2024-03-28, 2024-12-04]",
+        "claims": [
+          {
+            "location": "AR 25 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-04",
+            "source": "32024R2809 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2809",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 25 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-04",
+            "source": "32024R2809 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2809",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 3"
+        ],
+        "note": "32024R2809, 0.992 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 3 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2809",
+              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 3",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 25",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 3"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 4092,
+      "output_tokens": 312,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

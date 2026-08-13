@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20241204 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20240328` → `02014R0600-20241204`
+
+- **Act** `eu:32014R0600` · **In force** 2024-12-04 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 94 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20240328` · `v2` = `02014R0600-20241204`
+
+---
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25 — Obligation to maintain records** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 25 PA 2 ALN 1`, `AR 25 PA 3 ALN 1`, `AR 25 PA 3 ALN 3`, `AR 25 PA 3 ALN 4` · *dates* -2015-07-03 +2025-09-05 · *amended by* `32024R2809`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Paragraph 2 now adds a sentence allowing the competent authority of the trading venue to request the order data on an ongoing basis, alongside minor wording changes from 'pursuant to this paragraph' to 'under this paragraph'. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_25) [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
+
+Paragraph 3 changes the deadline for ESMA to submit draft regulatory technical standards to the Commission from 3 July 2015 to 5 September 2025, and rephrases the delegation of power to the Commission as supplementing the Regulation by adopting regulatory technical standards, rather than simply adopting them. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_25) [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
+
+*before* (`02014R0600-20240328`)
+
+> Article 25
+> Obligation to maintain records
+> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
+> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shal […truncated by emendrix: 1151 characters omitted…]
+
+*after* (`02014R0600-20241204`)
+
+> Article 25
+> Obligation to maintain records
+> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
+> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The competent authority of the trading venue may request those data on an ongoing basis. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and t […truncated by emendrix: 1248 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20241204 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20240328 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20240109` → `02014R0600-20240328`
