@@ -1,0 +1,1463 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R1129",
+    "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+  },
+  "from_version": "02017R1129-20191231",
+  "to_version": "02017R1129-20210318",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2021-03-18"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 3,
+    "modified": 7,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 10,
+    "unchanged_units": 48,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 10,
+    "substantive": 10,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter, scope and exemptions",
+        "before": "Article 1\nSubject matter, scope and exemptions\n1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.\n2. This Regulation shall not apply to the following types of securities:\n(a) units issued by collective investment undertakings other than the closed-end type;\n(b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;\n(c) shares in the capital of central banks of the Member States;\n(d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;\n(e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;\n(f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.\n3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not apply to an offer of securities to the public with a total consideration in the Union of less than EUR 1000000, which shall be calculated over a period of 12 months.\nMember States shall not extend the obligation to draw up a prospectus in accordance with this Regulation to offers of securities to the public referred to in the first subparagraph of this paragraph. However, in those cases, Member States may require other disclosure requirements at national level to the extent that such requirements do not constitute a disproportionate or unnecessary burden.\n4. The obligation to publish a prospectus set out in Article 3(1) shall not apply to any of the following types of offers of securities to the public:\n(a) an offer of securities addressed solely to qualified investors;\n(b) an offer of securities addressed to fewer than 150 natural or legal persons per Member State, other than qualified investors;\n(c) an offer of securities whose denomination per unit amounts to at least EUR 100000;\n(d) an offer of securities addressed to investors who acquire securities for a total consideration of at least EUR 100000 per investor, for each separate offer;\n(e) shares issued in substitution for shares of the same class already issued, if the issuing of such new shares does not involve any increase in the issued capital;\n(f) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) securities offered, allotted or to be allotted in connection with a merger or division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(h) dividends paid out to existing shareholders in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer;\n(i) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or by an affiliated undertaking provided that a document is made available containing information on the number and nature of the securities and the reasons for and details of the offer or allotment;\n(j) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 75000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\n5. The obligation to publish a prospectus set out in Article 3(3) shall not apply to the admission to trading on a regulated market of any of the following:\n(a) securities fungible with securities already admitted to trading on the same regulated market, provided that they represent, over a period of 12 months, less than 20 % of the number of securities already admitted to trading on the same regulated market;\n(b) shares resulting from the conversion or exchange of other securities or from the exercise of the rights conferred by other securities, where the resulting shares are of the same class as the shares already admitted to trading on the same regulated market, provided that the resulting shares represent, over a period of 12 months, less than 20 % of the number of shares of the same class already admitted to trading on the same regulated market, subject to the second subparagraph of this paragraph;\n(c) securities resulting from the conversion or exchange of other securities, own funds or eligible liabilities by a resolution authority due to the exercise of a power referred to in Article 53(2), 59(2) or Article 63(1) or (2) of Directive 2014/59/EU;\n(d) shares issued in substitution for shares of the same class already admitted to trading on the same regulated market, where the issuing of such shares does not involve any increase in the issued capital;\n(e) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(f) securities offered, allotted or to be allotted in connection with a merger or a division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) shares offered, allotted or to be allotted free of charge to existing shareholders, and dividends paid out in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that the said shares are of the same class as the shares already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer or allotment;\n(h) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or an affiliated undertaking, provided that the said securities are of the same class as the securities already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the securities and the reasons for and detail of the offer or allotment;\n(i) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 75000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(j) securities already admitted to trading on another regulated market, on the following conditions:\n(i) that those securities, or securities of the same class, have been admitted to trading on that other regulated market for more than 18 months;\n(ii) that, for securities first admitted to trading on a regulated market after 1 July 2005, the admission to trading on that other regulated market was subject to a prospectus approved and published in accordance with Directive 2003/71/EC;\n(iii) that, except where point (ii) applies, for securities first admitted to listing after 30 June 1983, listing particulars were approved in accordance with the requirements of Council Directive 80/390/EECCouncil Directive 80/390/EEC of 17 March 1980 coordinating the requirements for the drawing up, scrutiny and distribution of the listing particulars to be published for the admission of securities to official stock exchange listing (OJ L 100, 17.4.1980, p. 1). or Directive 2001/34/EC of the European Parliament and of the CouncilDirective 2001/34/EC of the European Parliament and of the Council of 28 May 2001 on the admission of securities to official stock exchange listing and on information to be published on those securities (OJ L 184, 6.7.2001, p. 1).;\n(iv) that the ongoing obligations for trading on that other regulated market have been fulfilled;\n(v) that the person seeking the admission of a security to trading on a regulated market under the exemption set out in this point (j) makes available to the public in the Member State of the regulated market where admission to trading is sought, in accordance with the arrangements set out in Article 21(2), a document the content of which complies with Article 7, except that the maximum length set out in Article 7(3) shall be extended by two additional sides of A4-sized paper, drawn up in a language accepted by the competent authority of the Member State of the regulated market where admission is sought; and\n(vi) that the document referred to in point (v) states where the most recent prospectus can be obtained and where the financial information published by the issuer pursuant to ongoing disclosure obligations is available.\nThe requirement that the resulting shares represent, over a period of 12 months, less than 20 % of the number of shares of the same class already admitted to trading on the same regulated market as referred to in point (b) of the first subparagraph shall not apply in any of the following cases:\n(a) where a prospectus was drawn up in accordance with either this Regulation or Directive 2003/71/EC upon the offer to the public or admission to trading on a regulated market of the securities giving access to the shares;\n(b) where the securities giving access to the shares were issued before 20 July 2017;\n(c) where the shares qualify as Common Equity Tier 1 items as laid down in Article 26 of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). of an institution as defined in point (3) of Article 4(1) of that Regulation and result from the conversion of Additional Tier 1 instruments issued by that institution due to the occurrence of a trigger event as laid down in point (a) of Article 54(1) of that Regulation;\n(d) where the shares qualify as eligible own funds or eligible basic own funds as defined in Section 3 of Chapter VI of Title I of Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., and result from the conversion of other securities which was triggered for the purposes of fulfilling the obligations to comply with the Solvency Capital Requirement or Minimum Capital Requirement as laid down in Sections 4 and 5 of Chapter VI of Title I of Directive 2009/138/EC or the group solvency requirement as laid down in Title III of Directive 2009/138/EC.\n6. The exemptions from the obligation to publish a prospectus that are set out in paragraphs 4 and 5 may be combined together. However, the exemptions in points (a) and (b) of the first subparagraph of paragraph 5 shall not be combined together if such combination could lead to the immediate or deferred admission to trading on a regulated market over a period of 12 months of more than 20 % of the number of shares of the same class already admitted to trading on the same regulated market, without a prospectus being published.\n6a. The exemptions set out in point (f) of paragraph 4 and in point (e) of paragraph 5 shall only apply to equity securities, and only in the following cases:\n(a) the equity securities offered are fungible with existing securities already admitted to trading on a regulated market prior to the takeover and its related transaction, and the takeover is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of international financial reporting standard (IFRS) 3, Business Combinations, adopted by Commission Regulation (EC) No 1126/2008Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).; or\n(b) the supervisory authority that has the competence, where applicable, to review the offer document under Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12). has issued a prior approval of the document referred to in point (f) of paragraph 4 or point (e) of paragraph 5 of this Article.\n6b. The exemptions set out in point (g) of paragraph 4 and in point (f) of paragraph 5 shall apply only to equity securities in respect of which the transaction is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of IFRS 3, Business Combinations, and only in the following cases:\n(a) the equity securities of the acquiring entity have already been admitted to trading on a regulated market prior to the transaction; or\n(b) the equity securities of the entities subject to the division have already been admitted to trading on a regulated market prior to the transaction.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 44 supplementing this Regulation by setting out the minimum information content of the documents referred to in points (f) and (g) of paragraph 4 and points (e) and (f) of the first subparagraph of paragraph 5 of this Article.",
+        "after": "Article 1\nSubject matter, scope and exemptions\n1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.\n2. This Regulation shall not apply to the following types of securities:\n(a) units issued by collective investment undertakings other than the closed-end type;\n(b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;\n(c) shares in the capital of central banks of the Member States;\n(d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;\n(e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;\n(f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.\n3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not apply to an offer of securities to the public with a total consideration in the Union of less than EUR 1000000, which shall be calculated over a period of 12 months.\nMember States shall not extend the obligation to draw up a prospectus in accordance with this Regulation to offers of securities to the public referred to in the first subparagraph of this paragraph. However, in those cases, Member States may require other disclosure requirements at national level to the extent that such requirements do not constitute a disproportionate or unnecessary burden.\n4. The obligation to publish a prospectus set out in Article 3(1) shall not apply to any of the following types of offers of securities to the public:\n(a) an offer of securities addressed solely to qualified investors;\n(b) an offer of securities addressed to fewer than 150 natural or legal persons per Member State, other than qualified investors;\n(c) an offer of securities whose denomination per unit amounts to at least EUR 100000;\n(d) an offer of securities addressed to investors who acquire securities for a total consideration of at least EUR 100000 per investor, for each separate offer;\n(e) shares issued in substitution for shares of the same class already issued, if the issuing of such new shares does not involve any increase in the issued capital;\n(f) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) securities offered, allotted or to be allotted in connection with a merger or division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(h) dividends paid out to existing shareholders in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer;\n(i) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or by an affiliated undertaking provided that a document is made available containing information on the number and nature of the securities and the reasons for and details of the offer or allotment;\n(j) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 75000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(l) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\n5. The obligation to publish a prospectus set out in Article 3(3) shall not apply to the admission to trading on a regulated market of any of the following:\n(a) securities fungible with securities already admitted to trading on the same regulated market, provided that they represent, over a period of 12 months, less than 20 % of the number of securities already admitted to trading on the same regulated market;\n(b) shares resulting from the conversion or exchange of other securities or from the exercise of the rights conferred by other securities, where the resulting shares are of the same class as the shares already admitted to trading on the same regulated market, provided that the resulting shares represent, over a period of 12 months, less than 20 % of the number of shares of the same class already admitted to trading on the same regulated market, subject to the second subparagraph of this paragraph;\n(c) securities resulting from the conversion or exchange of other securities, own funds or eligible liabilities by a resolution authority due to the exercise of a power referred to in Article 53(2), 59(2) or Article 63(1) or (2) of Directive 2014/59/EU;\n(d) shares issued in substitution for shares of the same class already admitted to trading on the same regulated market, where the issuing of such shares does not involve any increase in the issued capital;\n(e) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(f) securities offered, allotted or to be allotted in connection with a merger or a division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) shares offered, allotted or to be allotted free of charge to existing shareholders, and dividends paid out in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that the said shares are of the same class as the shares already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer or allotment;\n(h) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or an affiliated undertaking, provided that the said securities are of the same class as the securities already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the securities and the reasons for and detail of the offer or allotment;\n(i) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 75000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(j) securities already admitted to trading on another regulated market, on the following conditions:\n(i) that those securities, or securities of the same class, have been admitted to trading on that other regulated market for more than 18 months;\n(ii) that, for securities first admitted to trading on a regulated market after 1 July 2005, the admission to trading on that other regulated market was subject to a prospectus approved and published in accordance with Directive 2003/71/EC;\n(iii) that, except where point (ii) applies, for securities first admitted to listing after 30 June 1983, listing particulars were approved in accordance with the requirements of Council Directive 80/390/EECCouncil Directive 80/390/EEC of 17 March 1980 coordinating the requirements for the drawing up, scrutiny and distribution of the listing particulars to be published for the admission of securities to official stock exchange listing (OJ L 100, 17.4.1980, p. 1). or Directive 2001/34/EC of the European Parliament and of the CouncilDirective 2001/34/EC of the European Parliament and of the Council of 28 May 2001 on the admission of securities to official stock exchange listing and on information to be published on those securities (OJ L 184, 6.7.2001, p. 1).;\n(iv) that the ongoing obligations for trading on that other regulated market have been fulfilled;\n(v) that the person seeking the admission of a security to trading on a regulated market under the exemption set out in this point (j) makes available to the public in the Member State of the regulated market where admission to trading is sought, in accordance with the arrangements set out in Article 21(2), a document the content of which complies with Article 7, except that the maximum length set out in Article 7(3) shall be extended by two additional sides of A4-sized paper, drawn up in a language accepted by the competent authority of the Member State of the regulated market where admission is sought; and\n(vi) that the document referred to in point (v) states where the most recent prospectus can be obtained and where the financial information published by the issuer pursuant to ongoing disclosure obligations is available;\n(k) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\nThe requirement that the resulting shares represent, over a period of 12 months, less than 20 % of the number of shares of the same class already admitted to trading on the same regulated market as referred to in point (b) of the first subparagraph shall not apply in any of the following cases:\n(a) where a prospectus was drawn up in accordance with either this Regulation or Directive 2003/71/EC upon the offer to the public or admission to trading on a regulated market of the securities giving access to the shares;\n(b) where the securities giving access to the shares were issued before 20 July 2017;\n(c) where the shares qualify as Common Equity Tier 1 items as laid down in Article 26 of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). of an institution as defined in point (3) of Article 4(1) of that Regulation and result from the conversion of Additional Tier 1 instruments issued by that institution due to the occurrence of a trigger event as laid down in point (a) of Article 54(1) of that Regulation;\n(d) where the shares qualify as eligible own funds or eligible basic own funds as defined in Section 3 of Chapter VI of Title I of Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., and result from the conversion of other securities which was triggered for the purposes of fulfilling the obligations to comply with the Solvency Capital Requirement or Minimum Capital Requirement as laid down in Sections 4 and 5 of Chapter VI of Title I of Directive 2009/138/EC or the group solvency requirement as laid down in Title III of Directive 2009/138/EC.\n6. The exemptions from the obligation to publish a prospectus that are set out in paragraphs 4 and 5 may be combined together. However, the exemptions in points (a) and (b) of the first subparagraph of paragraph 5 shall not be combined together if such combination could lead to the immediate or deferred admission to trading on a regulated market over a period of 12 months of more than 20 % of the number of shares of the same class already admitted to trading on the same regulated market, without a prospectus being published.\n6a. The exemptions set out in point (f) of paragraph 4 and in point (e) of paragraph 5 shall only apply to equity securities, and only in the following cases:\n(a) the equity securities offered are fungible with existing securities already admitted to trading on a regulated market prior to the takeover and its related transaction, and the takeover is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of international financial reporting standard (IFRS) 3, Business Combinations, adopted by Commission Regulation (EC) No 1126/2008Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).; or\n(b) the supervisory authority that has the competence, where applicable, to review the offer document under Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12). has issued a prior approval of the document referred to in point (f) of paragraph 4 or point (e) of paragraph 5 of this Article.\n6b. The exemptions set out in point (g) of paragraph 4 and in point (f) of paragraph 5 shall apply only to equity securities in respect of which the transaction is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of IFRS 3, Business Combinations, and only in the following cases:\n(a) the equity securities of the acquiring entity have already been admitted to trading on a regulated market prior to the transaction; or\n(b) the equity securities of the entities subject to the division have already been admitted to trading on a regulated market prior to the transaction.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 44 supplementing this Regulation by setting out the minimum information content of the documents referred to in points (f) and (g) of paragraph 4 and points (e) and (f) of the first subparagraph of paragraph 5 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 4 ALN 1 PTA (j) PTI (ii)",
+          "AR 1 PA 4 ALN 1 PTA (l)",
+          "AR 1 PA 5 ALN 1 PTA (j) PTI (vi)",
+          "AR 1 PA 5 ALN 1 PTA (k)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2021-03-18",
+          "2022-12-31"
+        ],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1); AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "UnexpectedModelBehavior: Exceeded maximum output retries (1)"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 6"
+        },
+        "heading": "The prospectus",
+        "before": "Article 6\nThe prospectus\n1. Without prejudice to Article 14(2) and Article 18(1), a prospectus shall contain the necessary information which is material to an investor for making an informed assessment of:\n(a) the assets and liabilities, profits and losses, financial position, and prospects of the issuer and of any guarantor;\n(b) the rights attaching to the securities; and\n(c) the reasons for the issuance and its impact on the issuer.\nThat information may vary depending on any of the following:\n(a) the nature of the issuer;\n(b) the type of securities;\n(c) the circumstances of the issuer;\n(d) where relevant, whether or not the non-equity securities have a denomination per unit of at least EUR 100000 or are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in the securities.\n2. The information in a prospectus shall be written and presented in an easily analysable, concise and comprehensible form, taking into account the factors set out in the second subparagraph of paragraph 1.\n3. The issuer, offeror or person asking for the admission to trading on a regulated market may draw up the prospectus as a single document or as separate documents.\nWithout prejudice to Article 8(8) and the second subparagraph of Article 7(1), a prospectus composed of separate documents shall divide the required information into a registration document, a securities note and a summary. The registration document shall contain the information relating to the issuer. The securities note shall contain the information concerning the securities offered to the public or to be admitted to trading on a regulated market.",
+        "after": "Article 6\nThe prospectus\n1. Without prejudice to Articles 14(2), 14a(2) and 18(1), a prospectus shall contain the necessary information which is material to an investor for making an informed assessment of:\n(a) the assets and liabilities, profits and losses, financial position, and prospects of the issuer and of any guarantor;\n(b) the rights attaching to the securities; and\n(c) the reasons for the issuance and its impact on the issuer.\nThat information may vary depending on any of the following:\n(a) the nature of the issuer;\n(b) the type of securities;\n(c) the circumstances of the issuer;\n(d) where relevant, whether or not the non-equity securities have a denomination per unit of at least EUR 100000 or are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in the securities.\n2. The information in a prospectus shall be written and presented in an easily analysable, concise and comprehensible form, taking into account the factors set out in the second subparagraph of paragraph 1.\n3. The issuer, offeror or person asking for the admission to trading on a regulated market may draw up the prospectus as a single document or as separate documents.\nWithout prejudice to Article 8(8) and the second subparagraph of Article 7(1), a prospectus composed of separate documents shall divide the required information into a registration document, a securities note and a summary. The registration document shall contain the information relating to the issuer. The securities note shall contain the information concerning the securities offered to the public or to be admitted to trading on a regulated market.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 6 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The introductory reference in paragraph 1 now also cites Article 14a(2), alongside the previously listed Article 14(2) and Article 18(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_6",
+              "label": "Art. 6, 02017R1129-20210318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_6",
+              "label": "Art. 6, 02017R1129-20191231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 7"
+        },
+        "heading": "The prospectus summary",
+        "before": "Article 7\nThe prospectus summary\n1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.\nBy way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:\n(a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or\n(b) such securities have a denomination per unit of at least EUR 100000.\n2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.\n3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:\n(a) be presented and laid out in a way that is easy to read, using characters of readable size;\n(b) be written in a language and a style that facilitate the understanding of the information, in particular, in language that is clear, non-technical, concise and comprehensible for investors.\n4. The summary shall be made up of the following four sections:\n(a) an introduction, containing warnings;\n(b) key information on the issuer;\n(c) key information on the securities;\n(d) key information on the offer of securities to the public and/or the admission to trading on a regulated market.\n5. The section referred to in point (a) of paragraph 4 shall contain:\n(a) the name and international securities identification number (ISIN) of the securities;\n(b) the identity and contact details of the issuer, including its legal entity identifier (LEI);\n(c) where applicable, the identity and contact details of the offeror, including its LEI if the offeror has legal personality, or of the person asking for admission to trading on a regulated market;\n(d) the identity and contact details of the competent authority approving the prospectus and, where different, the competent authority that approved the registration document or the universal registration document;\n(e) the date of approval of the prospectus;\nIt shall contain the following warnings:\n(a) the summary should be read as an introduction to the prospectus;\n(b) any decision to invest in the securities should be based on a consideration of the prospectus as a whole by the investor;\n(c) where applicable, that the investor could lose all or part of the invested capital and, where the investor’s liability is not limited to the amount of the investment, a warning that the investor could lose more than the invested capital and the extent of such potential loss;\n(d) where a claim relating to the information contained in a prospectus is brought before a court, the plaintiff investor might, under national law, have to bear the costs of translating the prospectus before the legal proceedings are initiated;\n(e) civil liability attaches only to those persons who have tabled the summary including any translation thereof, but only where the summary is misleading, inaccurate or inconsistent, when read together with the other parts of the prospectus, or where it does not provide, when read together with the other parts of the prospectus, key information in order to aid investors when considering whether to invest in such securities;\n(f) where applicable, the comprehension alert required in accordance with point (b) of Article 8(3) of Regulation (EU) No 1286/2014.\n6. The section referred to in point (b) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled Who is the issuer of the securities?, a brief description of the issuer of the securities, including at least the following:\n(i) its domicile and legal form, its LEI, the law under which it operates and its country of incorporation;\n(ii) its principal activities;\n(iii) its major shareholders, including whether it is directly or indirectly owned or controlled and by whom;\n(iv) the identity of its key managing directors;\n(v) the identity of its statutory auditors;\n(b) under a sub-section entitled What is the key financial information regarding the issuer? a selection of historical key financial information presented for each financial year of the period covered by the historical financial information, and any subsequent interim financial period accompanied by comparative data from the same period in the prior financial year. The requirement for comparative balance sheet information shall be satisfied by presenting the year-end balance sheet information. Key financial information shall, where applicable, include:\n(i) pro forma financial information;\n(ii) a brief description of any qualifications in the audit report relating to the historical financial information;\n(c) under a sub-section entitled What are the key risks that are specific to the issuer? a brief description of the most material risk factors specific to the issuer contained in the prospectus, while not exceeding the total number of risk factors set out in paragraph 10.\n7. The section referred to in point (c) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled What are the main features of the securities?, a brief description of the securities being offered to the public and/or admitted to trading on a regulated market including at least:\n(i) their type, class and ISIN;\n(ii) where applicable, their currency, denomination, par value, the number of securities issued and the term of the securities;\n(iii) the rights attached to the securities;\n(iv) the relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU;\n(v) any restrictions on the free transferability of the securities;\n(vi) where applicable, the dividend or payout policy;\n(b) under a sub-section entitled Where will the securities be traded?, an indication as to whether the securities are or will be subject to an application for admission to trading on a regulated market or for trading on an MTF and the identity of all the markets where the securities are or are to be traded;\n(c) where there is a guarantee attached to the securities, under a sub-section entitled Is there a guarantee attached to the securities?, the following information:\n(i) a brief description of the nature and scope of the guarantee;\n(ii) a brief description of the guarantor, including its LEI;\n(iii) the relevant key financial information for the purpose of assessing the guarantor’s ability to fulfil its commitments under the guarantee; and\n(iv) a brief description of the most material risk factors pertaining to the guarantor contained in the prospectus in accordance with Article 16(3), while not exceeding the total number of risk factors set out in paragraph 10;\n(d) under a sub-section entitled What are the key risks that are specific to the securities?, a brief description of the most material risk factors specific to the securities contained in the prospectus, while not exceeding the total number of risk factors set out in paragraph 10.\nWhere a key information document is required to be prepared under Regulation (EU) No 1286/2014, the issuer, the offeror or the person asking for admission to trading on a regulated market may substitute the content set out in this paragraph with the information set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014. Where Regulation (EU) No 1286/2014 applies, each Member State acting as a home Member State for the purpose of this Regulation may require issuers, offerors or persons asking for admission to trading on a regulated market to substitute the content set out in this paragraph with the information set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014 in the prospectuses approved by its competent authority.\nWhere there is a substitution of content pursuant to the second subparagraph, the maximum length set out in paragraph 3 shall be extended by three additional sides of A4-sized paper. The content of the key information document shall be included as a distinct section of the summary. The page layout of that section shall clearly identify it as the content of the key information document as set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014.\nWhere, in accordance with the third subparagraph of Article 8(9), a single summary covers several securities which differ only in some very limited details, such as the issue price or maturity date, the maximum length set out in paragraph 3 shall be extended by two additional sides of A4-sized paper. However, in the event that a key information document is required to be prepared for those securities under Regulation (EU) No 1286/2014 and the issuer, the offeror or the person asking for admission to trading on a regulated market proceeds with the substitution of content referred to in the second subparagraph of this paragraph, the maximum length shall be extended by three additional sides of A4-sized paper for each additional security.\nWhere the summary contains the information referred to in point (c) of the first subparagraph, the maximum length set out in paragraph 3 shall be extended by one additional side of A4-sized paper.\n8. The section referred to in point (d) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled Under which conditions and timetable can I invest in this security?, where applicable, the general terms, conditions and expected timetable of the offer, the details of the admission to trading on a regulated market, the plan for distribution, the amount and percentage of immediate dilution resulting from the offer and an estimate of the total expenses of the issue and/or offer, including estimated expenses charged to the investor by the issuer or the offeror;\n(b) if different from the issuer, under a sub-section entitled Who is the offeror and/or the person asking for admission to trading?, a brief description of the offeror of the securities and/or the person asking for admission to trading on a regulated market, including its domicile and legal form, the law under which it operates and its country of incorporation;\n(c) under a sub-section entitled Why is this prospectus being produced?, a brief description of the reasons for the offer or for the admission to trading on a regulated market, as well as, where applicable:\n(i) the use and estimated net amount of the proceeds;\n(ii) an indication of whether the offer is subject to an underwriting agreement on a firm commitment basis, stating any portion not covered;\n(iii) an indication of the most material conflicts of interest pertaining to the offer or the admission to trading.\n9. Under each of the sections described in paragraphs 6, 7 and 8, the issuer may add sub-headings where deemed necessary.\n10. The total number of risk factors included in the sections of the summary referred to in point (c) of paragraph 6 and point (c)(iv) and point (d) of the first subparagraph of paragraph 7 shall not exceed 15.\n11. The summary shall not contain cross-references to other parts of the prospectus or incorporate information by reference.\n12. Where a key information document is required to be prepared for securities offered to the public under Regulation (EU) No 1286/2014 and a home Member State requires the issuer, the offeror or the person asking for admission to trading on a regulated market to substitute the content of the key information document in accordance with the second sentence of the second subparagraph of paragraph 7 of this Article, the persons advising on or selling the securities on behalf of the issuer, the offeror or the person asking for admission to trading on a regulated market shall be deemed to have fulfilled, during the offer period, the obligation to provide the key information document in accordance with Article 13 of Regulation (EU) No 1286/2014, provided that they instead provide the investors concerned with the summary of the prospectus under the timing and conditions set out in Articles 13 and 14 of that Regulation.\n13. ESMA shall develop draft regulatory technical standards to specify the content and format of presentation of the key financial information referred to in point (b) of paragraph 6, and the relevant key financial information referred to in point (c)(iii) of paragraph 7, taking into account the various types of securities and issuers and ensuring that the information produced is concise and understandable.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 7\nThe prospectus summary\n1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.\nBy way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:\n(a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or\n(b) such securities have a denomination per unit of at least EUR 100000.\n2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.\n3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:\n(a) be presented and laid out in a way that is easy to read, using characters of readable size;\n(b) be written in a language and a style that facilitate the understanding of the information, in particular, in language that is clear, non-technical, concise and comprehensible for investors.\n4. The summary shall be made up of the following four sections:\n(a) an introduction, containing warnings;\n(b) key information on the issuer;\n(c) key information on the securities;\n(d) key information on the offer of securities to the public and/or the admission to trading on a regulated market.\n5. The section referred to in point (a) of paragraph 4 shall contain:\n(a) the name and international securities identification number (ISIN) of the securities;\n(b) the identity and contact details of the issuer, including its legal entity identifier (LEI);\n(c) where applicable, the identity and contact details of the offeror, including its LEI if the offeror has legal personality, or of the person asking for admission to trading on a regulated market;\n(d) the identity and contact details of the competent authority approving the prospectus and, where different, the competent authority that approved the registration document or the universal registration document;\n(e) the date of approval of the prospectus;\nIt shall contain the following warnings:\n(a) the summary should be read as an introduction to the prospectus;\n(b) any decision to invest in the securities should be based on a consideration of the prospectus as a whole by the investor;\n(c) where applicable, that the investor could lose all or part of the invested capital and, where the investor’s liability is not limited to the amount of the investment, a warning that the investor could lose more than the invested capital and the extent of such potential loss;\n(d) where a claim relating to the information contained in a prospectus is brought before a court, the plaintiff investor might, under national law, have to bear the costs of translating the prospectus before the legal proceedings are initiated;\n(e) civil liability attaches only to those persons who have tabled the summary including any translation thereof, but only where the summary is misleading, inaccurate or inconsistent, when read together with the other parts of the prospectus, or where it does not provide, when read together with the other parts of the prospectus, key information in order to aid investors when considering whether to invest in such securities;\n(f) where applicable, the comprehension alert required in accordance with point (b) of Article 8(3) of Regulation (EU) No 1286/2014.\n6. The section referred to in point (b) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled Who is the issuer of the securities?, a brief description of the issuer of the securities, including at least the following:\n(i) its domicile and legal form, its LEI, the law under which it operates and its country of incorporation;\n(ii) its principal activities;\n(iii) its major shareholders, including whether it is directly or indirectly owned or controlled and by whom;\n(iv) the identity of its key managing directors;\n(v) the identity of its statutory auditors;\n(b) under a sub-section entitled What is the key financial information regarding the issuer? a selection of historical key financial information presented for each financial year of the period covered by the historical financial information, and any subsequent interim financial period accompanied by comparative data from the same period in the prior financial year. The requirement for comparative balance sheet information shall be satisfied by presenting the year-end balance sheet information. Key financial information shall, where applicable, include:\n(i) pro forma financial information;\n(ii) a brief description of any qualifications in the audit report relating to the historical financial information;\n(c) under a sub-section entitled What are the key risks that are specific to the issuer? a brief description of the most material risk factors specific to the issuer contained in the prospectus, while not exceeding the total number of risk factors set out in paragraph 10.\n7. The section referred to in point (c) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled What are the main features of the securities?, a brief description of the securities being offered to the public and/or admitted to trading on a regulated market including at least:\n(i) their type, class and ISIN;\n(ii) where applicable, their currency, denomination, par value, the number of securities issued and the term of the securities;\n(iii) the rights attached to the securities;\n(iv) the relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU;\n(v) any restrictions on the free transferability of the securities;\n(vi) where applicable, the dividend or payout policy;\n(b) under a sub-section entitled Where will the securities be traded?, an indication as to whether the securities are or will be subject to an application for admission to trading on a regulated market or for trading on an MTF and the identity of all the markets where the securities are or are to be traded;\n(c) where there is a guarantee attached to the securities, under a sub-section entitled Is there a guarantee attached to the securities?, the following information:\n(i) a brief description of the nature and scope of the guarantee;\n(ii) a brief description of the guarantor, including its LEI;\n(iii) the relevant key financial information for the purpose of assessing the guarantor’s ability to fulfil its commitments under the guarantee; and\n(iv) a brief description of the most material risk factors pertaining to the guarantor contained in the prospectus in accordance with Article 16(3), while not exceeding the total number of risk factors set out in paragraph 10;\n(d) under a sub-section entitled What are the key risks that are specific to the securities?, a brief description of the most material risk factors specific to the securities contained in the prospectus, while not exceeding the total number of risk factors set out in paragraph 10.\nWhere a key information document is required to be prepared under Regulation (EU) No 1286/2014, the issuer, the offeror or the person asking for admission to trading on a regulated market may substitute the content set out in this paragraph with the information set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014. Where Regulation (EU) No 1286/2014 applies, each Member State acting as a home Member State for the purpose of this Regulation may require issuers, offerors or persons asking for admission to trading on a regulated market to substitute the content set out in this paragraph with the information set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014 in the prospectuses approved by its competent authority.\nWhere there is a substitution of content pursuant to the second subparagraph, the maximum length set out in paragraph 3 shall be extended by three additional sides of A4-sized paper. The content of the key information document shall be included as a distinct section of the summary. The page layout of that section shall clearly identify it as the content of the key information document as set out in points (c) to (i) of Article 8(3) of Regulation (EU) No 1286/2014.\nWhere, in accordance with the third subparagraph of Article 8(9), a single summary covers several securities which differ only in some very limited details, such as the issue price or maturity date, the maximum length set out in paragraph 3 shall be extended by two additional sides of A4-sized paper. However, in the event that a key information document is required to be prepared for those securities under Regulation (EU) No 1286/2014 and the issuer, the offeror or the person asking for admission to trading on a regulated market proceeds with the substitution of content referred to in the second subparagraph of this paragraph, the maximum length shall be extended by three additional sides of A4-sized paper for each additional security.\nWhere the summary contains the information referred to in point (c) of the first subparagraph, the maximum length set out in paragraph 3 shall be extended by one additional side of A4-sized paper.\n8. The section referred to in point (d) of paragraph 4 shall contain the following information:\n(a) under a sub-section entitled Under which conditions and timetable can I invest in this security?, where applicable, the general terms, conditions and expected timetable of the offer, the details of the admission to trading on a regulated market, the plan for distribution, the amount and percentage of immediate dilution resulting from the offer and an estimate of the total expenses of the issue and/or offer, including estimated expenses charged to the investor by the issuer or the offeror;\n(b) if different from the issuer, under a sub-section entitled Who is the offeror and/or the person asking for admission to trading?, a brief description of the offeror of the securities and/or the person asking for admission to trading on a regulated market, including its domicile and legal form, the law under which it operates and its country of incorporation;\n(c) under a sub-section entitled Why is this prospectus being produced?, a brief description of the reasons for the offer or for the admission to trading on a regulated market, as well as, where applicable:\n(i) the use and estimated net amount of the proceeds;\n(ii) an indication of whether the offer is subject to an underwriting agreement on a firm commitment basis, stating any portion not covered;\n(iii) an indication of the most material conflicts of interest pertaining to the offer or the admission to trading.\n9. Under each of the sections described in paragraphs 6, 7 and 8, the issuer may add sub-headings where deemed necessary.\n10. The total number of risk factors included in the sections of the summary referred to in point (c) of paragraph 6 and point (c)(iv) and point (d) of the first subparagraph of paragraph 7 shall not exceed 15.\n11. The summary shall not contain cross-references to other parts of the prospectus or incorporate information by reference.\n12. Where a key information document is required to be prepared for securities offered to the public under Regulation (EU) No 1286/2014 and a home Member State requires the issuer, the offeror or the person asking for admission to trading on a regulated market to substitute the content of the key information document in accordance with the second sentence of the second subparagraph of paragraph 7 of this Article, the persons advising on or selling the securities on behalf of the issuer, the offeror or the person asking for admission to trading on a regulated market shall be deemed to have fulfilled, during the offer period, the obligation to provide the key information document in accordance with Article 13 of Regulation (EU) No 1286/2014, provided that they instead provide the investors concerned with the summary of the prospectus under the timing and conditions set out in Articles 13 and 14 of that Regulation.\n12a. By way of derogation from paragraphs 3 to 12 of this Article, an EU Recovery prospectus drawn up in accordance with Article 14a shall include a summary drawn up in accordance with this paragraph.\nThe summary of an EU Recovery prospectus shall be drawn up as a short document written in a concise manner and of a maximum length of two sides of A4-sized paper when printed.\nThe summary of an EU Recovery prospectus shall not contain cross-references to other parts of the prospectus or incorporate information by reference and shall:\n(a) be presented and laid out in a way that is easy to read, using characters of readable size;\n(b) be written in a language and a style that facilitate the understanding of the information, in particular, in language that is clear, non-technical, concise and comprehensible for investors;\n(c) be made up of the following four sections:\n(i) an introduction, containing all of the information referred to in paragraph 5 of this Article, including warnings and the date of approval of the EU Recovery prospectus;\n(ii) key information on the issuer, including, if applicable, a specific reference of not less than 200 words to the business and financial impact on the issuer of the COVID-19 pandemic;\n(iii) key information on the shares, including the rights attached to those shares and any limitations on those rights;\n(iv) key information on the offer of shares to the public and/or the admission to trading on a regulated market.\n13. ESMA shall develop draft regulatory technical standards to specify the content and format of presentation of the key financial information referred to in point (b) of paragraph 6, and the relevant key financial information referred to in point (c)(iii) of paragraph 7, taking into account the various types of securities and issuers and ensuring that the information produced is concise and understandable.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 7 PA 12a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 12a has been inserted, stating that an EU Recovery prospectus drawn up under Article 14a includes a summary governed by that paragraph rather than by paragraphs 3 to 12 of Article 7.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_7",
+              "label": "Art. 7, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "This new paragraph sets a maximum length of two sides of A4-sized paper for such a summary, prohibits cross-references or incorporation by reference, and requires four sections covering an introduction with paragraph 5 information and the approval date, key information on the issuer including a possible reference to COVID-19 impact, key information on the shares and their attached rights, and key information on the offer or admission to trading.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_7",
+              "label": "Art. 7, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "No such paragraph 12a appears in the earlier version of the article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_7",
+              "label": "Art. 7, 02017R1129-20191231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 14a"
+        },
+        "heading": "EU Recovery prospectus",
+        "before": null,
+        "after": "Article 14a\nEU Recovery prospectus\n1. The following persons may choose to draw up an EU Recovery prospectus under the simplified disclosure regime set out in this Article in the case of an offer of shares to the public or of an admission to trading of shares on a regulated market:\n(a) issuers whose shares have been admitted to trading on a regulated market continuously for at least the last 18 months and who issue shares fungible with existing shares which have been previously issued;\n(b) issuers whose shares have already been traded on an SME growth market continuously for at least the last 18 months, provided that a prospectus has been published for the offer of those shares, and who issue shares fungible with existing shares which have been previously issued;\n(c) offerors of shares admitted to trading on a regulated market or an SME growth market continuously for at least the last 18 months.\nIssuers may only draw up an EU Recovery prospectus provided that the number of shares intended to be offered represents, together with the number of shares already offered via an EU Recovery prospectus over a period of 12 months, if any, no more than 150 % of the number of shares already admitted to trading on a regulated market or an SME growth market, as the case may be, on the date of approval of the EU Recovery prospectus.\nThe period of 12 months referred to in the second subparagraph shall begin on the date of approval of the EU Recovery prospectus.\n2. By way of derogation from Article 6(1), and without prejudice to Article 18(1), the EU Recovery prospectus shall contain the relevant reduced information which is necessary to enable investors to understand:\n(a) the prospects and financial performance of the issuer and the significant changes in the financial and business position of the issuer that have occurred since the end of the last financial year, if any, as well as its financial and non-financial long-term business strategy and objectives, including, if applicable, a specific reference of not less than 400 words to the business and financial impact of the COVID-19 pandemic on the issuer and the anticipated future impact of the same;\n(b) the essential information on the shares, including the rights attached to those shares and any limitations on those rights, the reasons for the issuance and its impact on the issuer, including on the overall capital structure of the issuer, as well as a disclosure of capitalisation and indebtedness, a working capital statement, and the use of proceeds.\n3. The information contained in the EU Recovery prospectus shall be written and presented in an easily analysable, concise and comprehensible form and shall enable investors, especially retail investors, to make an informed investment decision, taking into account the regulated information that has already been disclosed to the public pursuant to Directive 2004/109/EC, where applicable, Regulation (EU) No 596/2014 and, where applicable, information referred to in Commission Delegated Regulation (EU) 2017/565Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive (OJ L 87, 31.3.2017, p. 1)..\n4. The EU Recovery prospectus shall be drawn up as a single document containing the minimum information set out in Annex Va. It shall be of a maximum length of 30 sides of A4-sized paper when printed and shall be presented and laid out in a way that is easy to read, using characters of readable size.\n5. Neither the summary nor the information incorporated by reference in accordance with Article 19 shall be taken into account as regards the maximum length referred to in paragraph 4 of this Article.\n6. Issuers may decide the order in which the information set out in Annex Va is set out in the EU Recovery prospectus.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 14a is added, introducing an EU Recovery prospectus as a simplified disclosure regime available to certain issuers and offerors of shares that have been admitted to trading on a regulated market or SME growth market for at least the preceding 18 months, subject to a limit on the number of shares offered under this regime.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 14a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a",
+              "label": "Art. 14a, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "The article sets out the reduced content the EU Recovery prospectus must contain, requires it to be a single document of at most 30 sides of A4 paper following the minimum information listed in Annex Va, and lets issuers choose the order of that information.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 14a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a",
+              "label": "Art. 14a, 02017R1129-20210318"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 20"
+        },
+        "heading": "Scrutiny and approval of the prospectus",
+        "before": "Article 20\nScrutiny and approval of the prospectus\n1. A prospectus shall not be published unless the relevant competent authority has approved it, or all of its constituent parts in accordance with Article 10.\n2. The competent authority shall notify the issuer, the offeror or the person asking for admission to trading on a regulated market of its decision regarding the approval of the prospectus within 10 working days of the submission of the draft prospectus.\nWhere the competent authority fails to take a decision on the prospectus within the time limits laid down in the first subparagraph of this paragraph and paragraphs 3 and 6, such failure shall not be deemed to constitute approval of the application.\nThe competent authority shall notify ESMA of the approval of the prospectus and any supplement thereto as soon as possible and in any event by no later than the end of the first working day after that approval is notified to the issuer, the offeror or the person asking for admission to trading on a regulated market.\n3. The time limit set out in the first subparagraph of paragraph 2 shall be extended to 20 working days where the offer to the public involves securities issued by an issuer that does not have any securities admitted to trading on a regulated market and that has not previously offered securities to the public.\nThe time limit of 20 working days shall only be applicable for the initial submission of the draft prospectus. Where subsequent submissions are necessary in accordance with paragraph 4, the time limit set out in the first subparagraph of paragraph 2 shall apply.\n4. Where the competent authority finds that the draft prospectus does not meet the standards of completeness, comprehensibility and consistency necessary for its approval and/or that changes or supplementary information are needed:\n(a) it shall inform the issuer, the offeror or the person asking for admission to trading on a regulated market of that fact promptly and at the latest within the time limits set out in the first subparagraph of paragraph 2 or, as applicable, paragraph 3, as calculated from the submission of the draft prospectus and/or the supplementary information; and\n(b) it shall clearly specify the changes or supplementary information that are needed.\nIn such cases, the time limit set out in the first subparagraph of paragraph 2 shall then apply only from the date on which a revised draft prospectus or the supplementary information requested are submitted to the competent authority.\n5. Where the issuer, the offeror or the person asking for admission to trading on a regulated market is unable or unwilling to make the necessary changes or to provide the supplementary information requested in accordance with paragraph 4, the competent authority shall be entitled to refuse the approval of the prospectus and terminate the review process. In such case, the competent authority shall notify the issuer, the offeror or the person asking for admission to trading on a regulated market of its decision and indicate the reasons for such refusal.\n6. By way of derogation from paragraphs 2 and 4, the time limits set out in the first subparagraph of paragraph 2 and paragraph 4 shall be reduced to five working days for a prospectus consisting of separate documents drawn up by frequent issuers referred to in Article 9(11), including frequent issuers using the notification procedure provided for in Article 26. The frequent issuer shall inform the competent authority at least five working days before the date envisaged for the submission of an application for approval.\nA frequent issuer shall submit an application to the competent authority containing the necessary amendments to the universal registration document, where applicable, the securities note and the summary submitted for approval.\n7. Competent authorities shall provide on their websites guidance on the scrutiny and approval process in order to facilitate efficient and timely approval of prospectuses. Such guidance shall include contact details for the purposes of approvals. The issuer, the offeror, the person asking for admission to trading on a regulated market or the person responsible for drawing up the prospectus shall have the possibility to directly communicate and interact with the staff of the competent authority throughout the process of approval of the prospectus.\n8. On request of the issuer, the offeror or the person asking for admission to trading on a regulated market, the competent authority of the home Member State may transfer the approval of a prospectus to the competent authority of another Member State, subject to prior notification to ESMA and the agreement of that competent authority. The competent authority of the home Member State shall transfer the documentation filed, together with its decision to grant the transfer, in electronic format, to the competent authority of the other Member State on the date of its decision. Such a transfer shall be notified to the issuer, the offeror or the person asking for admission to trading on a regulated market within three working days from the date of the decision taken by the competent authority of the home Member State. The time limits set out in the first subparagraph of paragraph 2 and paragraph 3 shall apply from the date the decision was taken by the competent authority of the home Member State. Article 28(4) of Regulation (EU) No 1095/2010 shall not apply to the transfer of the approval of the prospectus in accordance with this paragraph. Upon completion of the transfer of the approval, the competent authority to whom the approval of the prospectus has been transferred shall be deemed to be the competent authority of the home Member State for that prospectus for the purposes of this Regulation.\n9. This Regulation shall not affect the competent authority’s liability, which shall continue to be governed solely by national law.\nMember States shall ensure that their national provisions on the liability of competent authorities apply only to approvals of prospectuses by their competent authority.\n10. The level of fees charged by the competent authority of the home Member State for the approval of prospectuses, of documents that are intended to become constituent parts of prospectuses in accordance with Article 10 or of supplements to prospectuses as well as for the filing of universal registration documents, amendments thereto and final terms, shall be reasonable and proportionate and shall be disclosed to the public at least on the website of the competent authority.\n11. The Commission shall, by 21 January 2019, adopt delegated acts in accordance with Article 44 to supplement this Regulation by specifying the criteria for the scrutiny of prospectuses, in particular the completeness, comprehensibility and consistency of the information contained therein, and the procedures for the approval of the prospectus.\n12. ESMA shall use its powers under Regulation (EU) No 1095/2010 to promote supervisory convergence with regard to the scrutiny and approval processes of competent authorities when assessing the completeness, consistency and comprehensibility of the information contained in a prospectus. To that end, ESMA shall develop guidelines addressed to the competent authorities on the supervision and enforcement with regard to prospectuses, covering the examination of compliance with this Regulation and with any delegated and implementing acts adopted pursuant thereto. In particular, ESMA shall foster convergence regarding the efficiency, methods and timing of the scrutiny by the competent authorities of the information given in a prospectus, using in particular the peer reviews pursuant to paragraph 13.\n13. Without prejudice to Article 30 of Regulation (EU) No 1095/2010, ESMA shall organise and conduct at least one peer review of the scrutiny and approval procedures of competent authorities, including notifications of approval between competent authorities. The peer review shall also assess the impact of different approaches with regard to scrutiny and approval by competent authorities on issuers’ ability to raise capital in the Union. The report on the peer review shall be published by 21 July 2022. In the context of the peer review, ESMA shall take into account the opinions or advice from the Securities and Markets Stakeholder Group referred to in Article 37 of Regulation (EU) No 1095/2010.",
+        "after": "Article 20\nScrutiny and approval of the prospectus\n1. A prospectus shall not be published unless the relevant competent authority has approved it, or all of its constituent parts in accordance with Article 10.\n2. The competent authority shall notify the issuer, the offeror or the person asking for admission to trading on a regulated market of its decision regarding the approval of the prospectus within 10 working days of the submission of the draft prospectus.\nWhere the competent authority fails to take a decision on the prospectus within the time limits laid down in the first subparagraph of this paragraph and paragraphs 3 and 6, such failure shall not be deemed to constitute approval of the application.\nThe competent authority shall notify ESMA of the approval of the prospectus and any supplement thereto as soon as possible and in any event by no later than the end of the first working day after that approval is notified to the issuer, the offeror or the person asking for admission to trading on a regulated market.\n3. The time limit set out in the first subparagraph of paragraph 2 shall be extended to 20 working days where the offer to the public involves securities issued by an issuer that does not have any securities admitted to trading on a regulated market and that has not previously offered securities to the public.\nThe time limit of 20 working days shall only be applicable for the initial submission of the draft prospectus. Where subsequent submissions are necessary in accordance with paragraph 4, the time limit set out in the first subparagraph of paragraph 2 shall apply.\n4. Where the competent authority finds that the draft prospectus does not meet the standards of completeness, comprehensibility and consistency necessary for its approval and/or that changes or supplementary information are needed:\n(a) it shall inform the issuer, the offeror or the person asking for admission to trading on a regulated market of that fact promptly and at the latest within the time limits set out in the first subparagraph of paragraph 2 or, as applicable, paragraph 3, as calculated from the submission of the draft prospectus and/or the supplementary information; and\n(b) it shall clearly specify the changes or supplementary information that are needed.\nIn such cases, the time limit set out in the first subparagraph of paragraph 2 shall then apply only from the date on which a revised draft prospectus or the supplementary information requested are submitted to the competent authority.\n5. Where the issuer, the offeror or the person asking for admission to trading on a regulated market is unable or unwilling to make the necessary changes or to provide the supplementary information requested in accordance with paragraph 4, the competent authority shall be entitled to refuse the approval of the prospectus and terminate the review process. In such case, the competent authority shall notify the issuer, the offeror or the person asking for admission to trading on a regulated market of its decision and indicate the reasons for such refusal.\n6. By way of derogation from paragraphs 2 and 4, the time limits set out in the first subparagraph of paragraph 2 and paragraph 4 shall be reduced to five working days for a prospectus consisting of separate documents drawn up by frequent issuers referred to in Article 9(11), including frequent issuers using the notification procedure provided for in Article 26. The frequent issuer shall inform the competent authority at least five working days before the date envisaged for the submission of an application for approval.\nA frequent issuer shall submit an application to the competent authority containing the necessary amendments to the universal registration document, where applicable, the securities note and the summary submitted for approval.\n6a. By way of derogation from paragraphs 2 and 4, the time limits set out in the first subparagraph of paragraph 2 and paragraph 4 shall be reduced to seven working days for an EU Recovery prospectus. The issuer shall inform the competent authority at least five working days before the date envisaged for the submission of an application for approval.\n7. Competent authorities shall provide on their websites guidance on the scrutiny and approval process in order to facilitate efficient and timely approval of prospectuses. Such guidance shall include contact details for the purposes of approvals. The issuer, the offeror, the person asking for admission to trading on a regulated market or the person responsible for drawing up the prospectus shall have the possibility to directly communicate and interact with the staff of the competent authority throughout the process of approval of the prospectus.\n8. On request of the issuer, the offeror or the person asking for admission to trading on a regulated market, the competent authority of the home Member State may transfer the approval of a prospectus to the competent authority of another Member State, subject to prior notification to ESMA and the agreement of that competent authority. The competent authority of the home Member State shall transfer the documentation filed, together with its decision to grant the transfer, in electronic format, to the competent authority of the other Member State on the date of its decision. Such a transfer shall be notified to the issuer, the offeror or the person asking for admission to trading on a regulated market within three working days from the date of the decision taken by the competent authority of the home Member State. The time limits set out in the first subparagraph of paragraph 2 and paragraph 3 shall apply from the date the decision was taken by the competent authority of the home Member State. Article 28(4) of Regulation (EU) No 1095/2010 shall not apply to the transfer of the approval of the prospectus in accordance with this paragraph. Upon completion of the transfer of the approval, the competent authority to whom the approval of the prospectus has been transferred shall be deemed to be the competent authority of the home Member State for that prospectus for the purposes of this Regulation.\n9. This Regulation shall not affect the competent authority’s liability, which shall continue to be governed solely by national law.\nMember States shall ensure that their national provisions on the liability of competent authorities apply only to approvals of prospectuses by their competent authority.\n10. The level of fees charged by the competent authority of the home Member State for the approval of prospectuses, of documents that are intended to become constituent parts of prospectuses in accordance with Article 10 or of supplements to prospectuses as well as for the filing of universal registration documents, amendments thereto and final terms, shall be reasonable and proportionate and shall be disclosed to the public at least on the website of the competent authority.\n11. The Commission shall, by 21 January 2019, adopt delegated acts in accordance with Article 44 to supplement this Regulation by specifying the criteria for the scrutiny of prospectuses, in particular the completeness, comprehensibility and consistency of the information contained therein, and the procedures for the approval of the prospectus.\n12. ESMA shall use its powers under Regulation (EU) No 1095/2010 to promote supervisory convergence with regard to the scrutiny and approval processes of competent authorities when assessing the completeness, consistency and comprehensibility of the information contained in a prospectus. To that end, ESMA shall develop guidelines addressed to the competent authorities on the supervision and enforcement with regard to prospectuses, covering the examination of compliance with this Regulation and with any delegated and implementing acts adopted pursuant thereto. In particular, ESMA shall foster convergence regarding the efficiency, methods and timing of the scrutiny by the competent authorities of the information given in a prospectus, using in particular the peer reviews pursuant to paragraph 13.\n13. Without prejudice to Article 30 of Regulation (EU) No 1095/2010, ESMA shall organise and conduct at least one peer review of the scrutiny and approval procedures of competent authorities, including notifications of approval between competent authorities. The peer review shall also assess the impact of different approaches with regard to scrutiny and approval by competent authorities on issuers’ ability to raise capital in the Union. The report on the peer review shall be published by 21 July 2022. In the context of the peer review, ESMA shall take into account the opinions or advice from the Securities and Markets Stakeholder Group referred to in Article 37 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 20 PA 6a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 6a was added, setting a time limit of seven working days, by way of derogation from paragraphs 2 and 4, for the scrutiny and approval of an EU Recovery prospectus.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 20"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_20",
+              "label": "Art. 20, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph also states that the issuer must inform the competent authority at least five working days before the date envisaged for submitting an application for approval, similar to the notice requirement already present for frequent issuers in paragraph 6.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 20"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_20",
+              "label": "Art. 20, 02017R1129-20210318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 20"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_20",
+              "label": "Art. 20, 02017R1129-20191231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 21"
+        },
+        "heading": "Publication of the prospectus",
+        "before": "Article 21\nPublication of the prospectus\n1. Once approved, the prospectus shall be made available to the public by the issuer, the offeror or the person asking for admission to trading on a regulated market at a reasonable time in advance of, and at the latest at the beginning of, the offer to the public or the admission to trading of the securities involved.\nIn the case of an initial offer to the public of a class of shares that is admitted to trading on a regulated market for the first time, the prospectus shall be made available to the public at least six working days before the end of the offer.\n2. The prospectus, whether a single document or consisting of separate documents, shall be deemed available to the public when published in electronic form on any of the following websites:\n(a) the website of the issuer, the offeror or the person asking for admission to trading on a regulated market;\n(b) the website of the financial intermediaries placing or selling the securities, including paying agents;\n(c) the website of the regulated market where the admission to trading is sought, or where no admission to trading on a regulated market is sought, the website of the operator of the MTF.\n3. The prospectus shall be published on a dedicated section of the website which is easily accessible when entering the website. It shall be downloadable, printable and in searchable electronic format that cannot be modified.\nThe documents containing information incorporated by reference in the prospectus, the supplements and/or final terms related to the prospectus and a separate copy of the summary shall be accessible under the same section alongside the prospectus, including by way of hyperlinks where necessary.\nThe separate copy of the summary shall clearly indicate the prospectus to which it relates.\n4. Access to the prospectus shall not be subject to the completion of a registration process, the acceptance of a disclaimer limiting legal liability or the payment of a fee. Warnings specifying the jurisdiction(s) in which an offer or an admission to trading is being made shall not be considered to be disclaimers limiting legal liability.\n5. The competent authority of the home Member State shall publish on its website all the prospectuses approved or at least the list of prospectuses approved, including a hyperlink to the dedicated website sections referred to in paragraph 3 of this Article as well as an identification of the host Member State or States where prospectuses are notified in accordance with Article 25. The published list, including the hyperlinks, shall be kept up-to-date and each item shall remain on the website at least for the period referred to in paragraph 7 of this Article.\nAt the same time as it notifies ESMA of the approval of a prospectus or of any supplement thereto, the competent authority shall provide ESMA with an electronic copy of the prospectus and any supplement thereto, as well as the data necessary for its classification by ESMA in the storage mechanism referred to in paragraph 6 and for the report referred to in Article 47.\nThe competent authority of the host Member State shall publish information on all notifications received in accordance with Article 25 on its website.\n6. ESMA shall, without undue delay, publish all prospectuses received from the competent authorities on its website, including any supplements thereto, final terms and related translations where applicable, as well as information on the host Member State(s) where prospectuses are notified in accordance with Article 25. Publication shall be ensured through a storage mechanism providing the public with free of charge access and search functions.\n7. All prospectuses approved shall remain publicly available in electronic form for at least 10 years after their publication on the websites referred to in paragraphs 2 and 6.\nWhere hyperlinks are used for information incorporated by reference in the prospectus, and the supplements and/or final terms related to the prospectus, such hyperlinks shall be functional for the period referred to in the first subparagraph.\n8. An approved prospectus shall contain a prominent warning stating when the validity of the prospectus will expire. The warning shall also state that the obligation to supplement a prospectus in the event of significant new factors, material mistakes or material inaccuracies does not apply when a prospectus is no longer valid.\n9. In the case of a prospectus comprising several documents and/or incorporating information by reference, the documents and information that constitute the prospectus may be published and distributed separately provided that those documents are made available to the public in accordance with paragraph 2. Where a prospectus consists of separate documents in accordance with Article 10, each of those constituent documents, except for documents incorporated by reference, shall indicate that it is only one part of the prospectus and where the other constituent documents may be obtained.\n10. The text and the format of the prospectus, and any supplement to the prospectus made available to the public, shall at all times be identical to the original version approved by the competent authority of the home Member State.\n11. A copy of the prospectus on a durable medium shall be delivered to any potential investor, upon request and free of charge, by the issuer, the offeror, the person asking for admission to trading on a regulated market or the financial intermediaries placing or selling the securities. In the event that a potential investor makes a specific demand for a paper copy, the issuer, the offeror, the person asking for admission to trading on a regulated market or a financial intermediary placing or selling the securities shall deliver a printed version of the prospectus. Delivery shall be limited to jurisdictions in which the offer of securities to the public is made or where the admission to trading on a regulated market is taking place under this Regulation.\n12. ESMA may, or where the Commission so requests shall, develop draft regulatory technical standards to specify further the requirements relating to the publication of the prospectus.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n13. ESMA shall develop draft regulatory technical standards to specify the data necessary for the classification of prospectuses referred to in paragraph 5 and the practical arrangements to ensure that such data, including the ISINs of the securities and the LEIs of the issuers, offerors and guarantors, is machine readable.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 21\nPublication of the prospectus\n1. Once approved, the prospectus shall be made available to the public by the issuer, the offeror or the person asking for admission to trading on a regulated market at a reasonable time in advance of, and at the latest at the beginning of, the offer to the public or the admission to trading of the securities involved.\nIn the case of an initial offer to the public of a class of shares that is admitted to trading on a regulated market for the first time, the prospectus shall be made available to the public at least six working days before the end of the offer.\n2. The prospectus, whether a single document or consisting of separate documents, shall be deemed available to the public when published in electronic form on any of the following websites:\n(a) the website of the issuer, the offeror or the person asking for admission to trading on a regulated market;\n(b) the website of the financial intermediaries placing or selling the securities, including paying agents;\n(c) the website of the regulated market where the admission to trading is sought, or where no admission to trading on a regulated market is sought, the website of the operator of the MTF.\n3. The prospectus shall be published on a dedicated section of the website which is easily accessible when entering the website. It shall be downloadable, printable and in searchable electronic format that cannot be modified.\nThe documents containing information incorporated by reference in the prospectus, the supplements and/or final terms related to the prospectus and a separate copy of the summary shall be accessible under the same section alongside the prospectus, including by way of hyperlinks where necessary.\nThe separate copy of the summary shall clearly indicate the prospectus to which it relates.\n4. Access to the prospectus shall not be subject to the completion of a registration process, the acceptance of a disclaimer limiting legal liability or the payment of a fee. Warnings specifying the jurisdiction(s) in which an offer or an admission to trading is being made shall not be considered to be disclaimers limiting legal liability.\n5. The competent authority of the home Member State shall publish on its website all the prospectuses approved or at least the list of prospectuses approved, including a hyperlink to the dedicated website sections referred to in paragraph 3 of this Article as well as an identification of the host Member State or States where prospectuses are notified in accordance with Article 25. The published list, including the hyperlinks, shall be kept up-to-date and each item shall remain on the website at least for the period referred to in paragraph 7 of this Article.\nAt the same time as it notifies ESMA of the approval of a prospectus or of any supplement thereto, the competent authority shall provide ESMA with an electronic copy of the prospectus and any supplement thereto, as well as the data necessary for its classification by ESMA in the storage mechanism referred to in paragraph 6 and for the report referred to in Article 47.\nThe competent authority of the host Member State shall publish information on all notifications received in accordance with Article 25 on its website.\n5a. An EU Recovery prospectus shall be classified in the storage mechanism referred to in paragraph 6 of this Article. The data used for the classification of prospectuses drawn up in accordance with Article 14 may be used for the classification of EU Recovery prospectuses drawn up in accordance with Article 14a, provided that the two types of prospectuses are differentiated in that storage mechanism.\n6. ESMA shall, without undue delay, publish all prospectuses received from the competent authorities on its website, including any supplements thereto, final terms and related translations where applicable, as well as information on the host Member State(s) where prospectuses are notified in accordance with Article 25. Publication shall be ensured through a storage mechanism providing the public with free of charge access and search functions.\n7. All prospectuses approved shall remain publicly available in electronic form for at least 10 years after their publication on the websites referred to in paragraphs 2 and 6.\nWhere hyperlinks are used for information incorporated by reference in the prospectus, and the supplements and/or final terms related to the prospectus, such hyperlinks shall be functional for the period referred to in the first subparagraph.\n8. An approved prospectus shall contain a prominent warning stating when the validity of the prospectus will expire. The warning shall also state that the obligation to supplement a prospectus in the event of significant new factors, material mistakes or material inaccuracies does not apply when a prospectus is no longer valid.\n9. In the case of a prospectus comprising several documents and/or incorporating information by reference, the documents and information that constitute the prospectus may be published and distributed separately provided that those documents are made available to the public in accordance with paragraph 2. Where a prospectus consists of separate documents in accordance with Article 10, each of those constituent documents, except for documents incorporated by reference, shall indicate that it is only one part of the prospectus and where the other constituent documents may be obtained.\n10. The text and the format of the prospectus, and any supplement to the prospectus made available to the public, shall at all times be identical to the original version approved by the competent authority of the home Member State.\n11. A copy of the prospectus on a durable medium shall be delivered to any potential investor, upon request and free of charge, by the issuer, the offeror, the person asking for admission to trading on a regulated market or the financial intermediaries placing or selling the securities. In the event that a potential investor makes a specific demand for a paper copy, the issuer, the offeror, the person asking for admission to trading on a regulated market or a financial intermediary placing or selling the securities shall deliver a printed version of the prospectus. Delivery shall be limited to jurisdictions in which the offer of securities to the public is made or where the admission to trading on a regulated market is taking place under this Regulation.\n12. ESMA may, or where the Commission so requests shall, develop draft regulatory technical standards to specify further the requirements relating to the publication of the prospectus.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n13. ESMA shall develop draft regulatory technical standards to specify the data necessary for the classification of prospectuses referred to in paragraph 5 and the practical arrangements to ensure that such data, including the ISINs of the securities and the LEIs of the issuers, offerors and guarantors, is machine readable.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 21 PA 5a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 5a has been added stating that an EU Recovery prospectus shall be classified in the storage mechanism referred to in paragraph 6 of this Article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 21"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_21",
+              "label": "Art. 21, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "The added paragraph also states that data used for classifying prospectuses drawn up under Article 14 may be used for classifying EU Recovery prospectuses drawn up under Article 14a, provided the two types are differentiated within that storage mechanism.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 21"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_21",
+              "label": "Art. 21, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph 5a did not appear in the earlier version of Article 21.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 21"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_21",
+              "label": "Art. 21, 02017R1129-20191231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 23"
+        },
+        "heading": "Supplements to the prospectus",
+        "before": "Article 23\nSupplements to the prospectus\n1. Every significant new factor, material mistake or material inaccuracy relating to the information included in a prospectus which may affect the assessment of the securities and which arises or is noted between the time when the prospectus is approved and the closing of the offer period or the time when trading on a regulated market begins, whichever occurs later, shall be mentioned in a supplement to the prospectus without undue delay.\nSuch a supplement shall be approved in the same way as a prospectus in a maximum of five working days and published in accordance with at least the same arrangements as were applied when the original prospectus was published in accordance with Article 21. The summary, and any translations thereof, shall also be supplemented, where necessary, to take into account the new information included in the supplement.\n2. Where the prospectus relates to an offer of securities to the public, investors who have already agreed to purchase or subscribe for the securities before the supplement is published shall have the right, exercisable within two working days after the publication of the supplement, to withdraw their acceptances, provided that the significant new factor, material mistake or material inaccuracy referred to in paragraph 1 arose or was noted before the closing of the offer period or the delivery of the securities, whichever occurs first. That period may be extended by the issuer or the offeror. The final date of the right of withdrawal shall be stated in the supplement.\nThe supplement shall contain a prominent statement concerning the right of withdrawal, which clearly states:\n(a) that a right of withdrawal is only granted to those investors who had already agreed to purchase or subscribe for the securities before the supplement was published and where the securities had not yet been delivered to the investors at the time when the significant new factor, material mistake or material inaccuracy arose or was noted;\n(b) the period in which investors can exercise their right of withdrawal; and\n(c) whom investors may contact should they wish to exercise the right of withdrawal.\n3. Where the securities are purchased or subscribed through a financial intermediary, that financial intermediary shall inform investors of the possibility of a supplement being published, where and when it would be published and that the financial intermediary would assist them in exercising their right to withdraw acceptances in such case.\nThe financial intermediary shall contact investors on the day when the supplement is published.\nWhere the securities are purchased or subscribed directly from the issuer, that issuer shall inform investors of the possibility of a supplement being published and where it would be published and that in such case, they could have a right to withdraw the acceptance.\n4. Where the issuer prepares a supplement concerning information in the base prospectus that relates to only one or several individual issues, the right of investors to withdraw their acceptances pursuant to paragraph 2 shall only apply to the relevant issue(s) and not to any other issue of securities under the base prospectus.\n5. In the event that the significant new factor, material mistake or material inaccuracy referred to in paragraph 1 concerns only the information contained in a registration document or a universal registration document and that registration document or universal registration document is simultaneously used as a constituent part of several prospectuses, only one supplement shall be drawn up and approved. In that case, the supplement shall mention all the prospectuses to which it relates.\n6. When scrutinising a supplement before approval, the competent authority may request that the supplement contains a consolidated version of the supplemented prospectus, registration document or universal registration document in an annex, where such consolidated version is necessary to ensure comprehensibility of the information given in the prospectus. Such a request shall be deemed to be a request for supplementary information under Article 20(4). An issuer may in any event voluntarily include a consolidated version of the supplemented prospectus, registration document or universal registration document in an annex to the supplement.\n7. ESMA shall develop draft regulatory technical standards to specify situations where a significant new factor, material mistake or material inaccuracy relating to the information included in the prospectus requires a supplement to the prospectus to be published.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 23\nSupplements to the prospectus\n1. Every significant new factor, material mistake or material inaccuracy relating to the information included in a prospectus which may affect the assessment of the securities and which arises or is noted between the time when the prospectus is approved and the closing of the offer period or the time when trading on a regulated market begins, whichever occurs later, shall be mentioned in a supplement to the prospectus without undue delay.\nSuch a supplement shall be approved in the same way as a prospectus in a maximum of five working days and published in accordance with at least the same arrangements as were applied when the original prospectus was published in accordance with Article 21. The summary, and any translations thereof, shall also be supplemented, where necessary, to take into account the new information included in the supplement.\n2. Where the prospectus relates to an offer of securities to the public, investors who have already agreed to purchase or subscribe for the securities before the supplement is published shall have the right, exercisable within two working days after the publication of the supplement, to withdraw their acceptances, provided that the significant new factor, material mistake or material inaccuracy referred to in paragraph 1 arose or was noted before the closing of the offer period or the delivery of the securities, whichever occurs first. That period may be extended by the issuer or the offeror. The final date of the right of withdrawal shall be stated in the supplement.\nThe supplement shall contain a prominent statement concerning the right of withdrawal, which clearly states:\n(a) that a right of withdrawal is only granted to those investors who had already agreed to purchase or subscribe for the securities before the supplement was published and where the securities had not yet been delivered to the investors at the time when the significant new factor, material mistake or material inaccuracy arose or was noted;\n(b) the period in which investors can exercise their right of withdrawal; and\n(c) whom investors may contact should they wish to exercise the right of withdrawal.\n2a. By way of derogation from paragraph 2, from 18 March 2021 to 31 December 2022, where the prospectus relates to an offer of securities to the public, investors who have already agreed to purchase or subscribe for the securities before the supplement is published shall have the right, exercisable within three working days after the publication of the supplement, to withdraw their acceptances, provided that the significant new factor, material mistake or material inaccuracy referred to in paragraph 1 arose or was noted before the closing of the offer period or the delivery of the securities, whichever occurs first. That period may be extended by the issuer or the offeror. The final date of the right of withdrawal shall be stated in the supplement.\nThe supplement shall contain a prominent statement concerning the right of withdrawal, which clearly states:\n(a) that a right of withdrawal is only granted to those investors who had already agreed to purchase or subscribe for the securities before the supplement was published and where the securities had not yet been delivered to the investors at the time when the significant new factor, material mistake or material inaccuracy arose or was noted;\n(b) the period in which investors can exercise their right of withdrawal; and\n(c) whom investors may contact should they wish to exercise the right of withdrawal.\n3. Where the securities are purchased or subscribed through a financial intermediary, that financial intermediary shall inform investors of the possibility of a supplement being published, where and when it would be published and that the financial intermediary would assist them in exercising their right to withdraw acceptances in such case.\nThe financial intermediary shall contact investors on the day when the supplement is published.\nWhere the securities are purchased or subscribed directly from the issuer, that issuer shall inform investors of the possibility of a supplement being published and where it would be published and that in such case, they could have a right to withdraw the acceptance.\n3a. By way of derogation from paragraph 3, from 18 March 2021 to 31 December 2022, where investors purchase or subscribe securities through a financial intermediary between the time when the prospectus for those securities is approved and the closing of the initial offer period, that financial intermediary shall inform those investors of the possibility of a supplement being published, where and when it would be published and that the financial intermediary would assist them in exercising their right to withdraw acceptances in such a case.\nWhere the investors referred to in the first subparagraph of this paragraph have the right of withdrawal referred to in paragraph 2a, the financial intermediary shall contact those investors by the end of the first working day following that on which the supplement is published.\nWhere the securities are purchased or subscribed directly from the issuer, that issuer shall inform investors of the possibility of a supplement being published and where it would be published and that, in such a case, they could have a right to withdraw the acceptance.\n4. Where the issuer prepares a supplement concerning information in the base prospectus that relates to only one or several individual issues, the right of investors to withdraw their acceptances pursuant to paragraph 2 shall only apply to the relevant issue(s) and not to any other issue of securities under the base prospectus.\n5. In the event that the significant new factor, material mistake or material inaccuracy referred to in paragraph 1 concerns only the information contained in a registration document or a universal registration document and that registration document or universal registration document is simultaneously used as a constituent part of several prospectuses, only one supplement shall be drawn up and approved. In that case, the supplement shall mention all the prospectuses to which it relates.\n6. When scrutinising a supplement before approval, the competent authority may request that the supplement contains a consolidated version of the supplemented prospectus, registration document or universal registration document in an annex, where such consolidated version is necessary to ensure comprehensibility of the information given in the prospectus. Such a request shall be deemed to be a request for supplementary information under Article 20(4). An issuer may in any event voluntarily include a consolidated version of the supplemented prospectus, registration document or universal registration document in an annex to the supplement.\n7. ESMA shall develop draft regulatory technical standards to specify situations where a significant new factor, material mistake or material inaccuracy relating to the information included in the prospectus requires a supplement to the prospectus to be published.\nESMA shall submit those draft regulatory technical standards to the Commission by 21 July 2018.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 23 PA 2a",
+          "AR 23 PA 3a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2021-03-18",
+          "2022-12-31"
+        ],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8) (a)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 2a has been added establishing a temporary derogation from paragraph 2, extending the investor withdrawal-right period from two working days to three working days, applicable from 18 March 2021 to 31 December 2022.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_23",
+              "label": "Art. 23, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 3a has also been added, setting out a temporary derogation from paragraph 3 for the same period, describing when a financial intermediary must inform investors purchasing or subscribing securities between prospectus approval and the closing of the initial offer period, and requiring the intermediary to contact investors entitled to the paragraph 2a withdrawal right by the end of the first working day following publication of the supplement.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_23",
+              "label": "Art. 23, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1, 2, 3, 4, 5, 6 and 7 remain unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_23",
+              "label": "Art. 23, 02017R1129-20191231"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_23",
+              "label": "Art. 23, 02017R1129-20210318"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 47a"
+        },
+        "heading": "Time limitation of the EU Recovery prospectus regime",
+        "before": null,
+        "after": "Article 47a\nTime limitation of the EU Recovery prospectus regime\nThe EU Recovery prospectus regime set out in Article 7(12a), Article 14a, Article 20(6a) and Article 21(5a) expires on 31 December 2022.\nEU Recovery prospectuses approved between 18 March 2021 and 31 December 2022 shall continue to be governed in accordance with Article 14a until the end of their validity or until 12 months have elapsed after 31 December 2022, whichever occurs first.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 47a has been added, stating that the EU Recovery prospectus regime described in Articles 7(12a), 14a, 20(6a) and 21(5a) expires on 31 December 2022.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 47a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_47a",
+              "label": "Art. 47a, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "It also states that EU Recovery prospectuses approved between 18 March 2021 and 31 December 2022 continue to be governed under Article 14a until the end of their validity or until 12 months after 31 December 2022 have elapsed, whichever occurs first.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 47a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_47a",
+              "label": "Art. 47a, 02017R1129-20210318"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AR 48"
+        },
+        "heading": "Review",
+        "before": "Article 48\nReview\n1. Before 21 July 2022 the Commission shall present a report to the European Parliament and the Council on the application of this Regulation, accompanied where appropriate by a legislative proposal.\n2. The report shall assess, inter alia, whether the prospectus summary, the disclosure regimes set out in Articles 14 and 15 and the universal registration document referred to in Article 9 remain appropriate in light of their pursued objectives. In particular, the report shall include the following:\n(a) the number of EU Growth prospectuses of persons in each of the four categories referred to in points (a) to (d) of Article 15(1) and an analysis of the evolution of each such number and of the trends in the choice of trading venues by the persons entitled to use the EU Growth prospectus;\n(b) an analysis of whether the EU Growth prospectus strikes a proper balance between investor protection and the reduction of administrative burdens for the persons entitled to use it.\n3. Based on the analysis referred to in paragraph 2, the report shall assess whether any amendments to this Regulation are necessary in order to further facilitate capital-raising by smaller companies, while ensuring a sufficient level of investor protection, including whether the relevant thresholds need to be adjusted.\n4. Furthermore, the report shall evaluate whether LEIs and ISINs can be obtained at a reasonable cost and within a reasonable period by issuers, in particular SMEs. The report shall take into account the results of the peer review referred to in Article 20(13).",
+        "after": "Article 48\nReview\n1. Before 21 July 2022 the Commission shall present a report to the European Parliament and the Council on the application of this Regulation, accompanied where appropriate by a legislative proposal.\n2. The report shall assess, inter alia, whether the prospectus summary, the disclosure regimes set out in Articles 14, 14a and 15 and the universal registration document referred to in Article 9 remain appropriate in light of their pursued objectives. In particular, the report shall include the following:\n(a) the number of EU Growth prospectuses of persons in each of the categories referred to in points (a) to (d) of Article 15(1) and an analysis of the evolution of each such number and of the trends in the choice of trading venues by the persons entitled to use the EU Growth prospectus;\n(b) an analysis of whether the EU Growth prospectus strikes a proper balance between investor protection and the reduction of administrative burdens for the persons entitled to use it;\n(c) the number of EU Recovery prospectuses approved and an analysis of the evolution of such number, as well as an estimate of the actual additional market capitalisation mobilised by EU Recovery prospectuses at the date of issue in order to gather experience about the EU Recovery prospectus for post-evaluation;\n(d) the cost of preparing and having an EU Recovery prospectus approved compared to the current costs for the preparation and approval of a standard prospectus, a secondary issuance prospectus and an EU Growth prospectus, together with an indication of the overall financial savings achieved and of which costs could be further reduced, and the total costs of complying with this Regulation for issuers, offerors and financial intermediaries together with a calculation of those costs as a percentage of operational costs;\n(e) an analysis of whether the EU Recovery prospectus strikes the proper balance between investor protection and the reduction of administrative burden for the persons entitled to use it, and of the accessibility of essential information for investments;\n(f) an analysis of whether it would be appropriate to extend the duration of the EU Recovery prospectus regime, including whether the threshold referred to in the second subparagraph of Article 14a(1), beyond which an EU Recovery prospectus may not be used, is appropriate;\n(g) an analysis of whether the measures laid down in Articles 23(2a) and 23(3a) achieved the objective of providing additional clarity and flexibility to both financial intermediaries and investors and whether it would be appropriate to make those measures permanent.\n3. Based on the analysis referred to in paragraph 2, the report shall assess whether any amendments to this Regulation are necessary in order to further facilitate capital-raising by smaller companies, while ensuring a sufficient level of investor protection, including whether the relevant thresholds need to be adjusted.\n4. Furthermore, the report shall evaluate whether LEIs and ISINs can be obtained at a reasonable cost and within a reasonable period by issuers, in particular SMEs. The report shall take into account the results of the peer review referred to in Article 20(13).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 48 PA 2 ALN 1",
+          "AR 48 PA 2 ALN 1 PTA (a)",
+          "AR 48 PA 2 ALN 1 PTA (b)",
+          "AR 48 PA 2 ALN 1 PTA (c)",
+          "AR 48 PA 2 ALN 1 PTA (d)",
+          "AR 48 PA 2 ALN 1 PTA (e)",
+          "AR 48 PA 2 ALN 1 PTA (f)",
+          "AR 48 PA 2 ALN 1 PTA (g)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (10)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of disclosure regimes to be assessed in the report now also references Article 14a alongside Articles 14 and 15, and point (a) refers to the categories in Article 15(1) without specifying that there are four of them.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_48",
+              "label": "Art. 48, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "Five new points, (c) through (g), were added to paragraph 2, requiring the report to also cover the number and market impact of EU Recovery prospectuses, their preparation and approval costs compared with other prospectus types, the balance they strike between investor protection and administrative burden, whether the EU Recovery prospectus regime's duration and threshold should be extended, and whether measures under Articles 23(2a) and 23(3a) achieved their stated aims and should be made permanent.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 48"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_48",
+              "label": "Art. 48, 02017R1129-20210318"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20210318",
+          "location": "AN Va"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0337",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0337 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32021R0337, 0.923 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R1129",
+      "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+    },
+    "from_version": "02017R1129-20191231",
+    "to_version": "02017R1129-20210318",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 6",
+          "AR 7",
+          "AR 14a",
+          "AR 20",
+          "AR 21",
+          "AR 23",
+          "AR 47a",
+          "AR 48"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 6",
+          "AR 7",
+          "AR 14a",
+          "AR 20",
+          "AR 21",
+          "AR 23",
+          "AR 47a",
+          "AR 48",
+          "AN Va"
+        ],
+        "note": "12 annotations in (2019-12-31, 2021-03-18]",
+        "claims": [
+          {
+            "location": "AR 1 PA 5 ALN 1 PTA (k)",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 14a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 47a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 21 PA 5a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 23 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 6 PA 1 ALN 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PTA (l)",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 20 PA 6a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 23 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 7 PA 12a",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 48 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN Va",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-18",
+            "source": "32021R0337 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 6",
+          "AR 7",
+          "AR 14a",
+          "AR 20",
+          "AR 21",
+          "AR 23",
+          "AR 47a",
+          "AR 48"
+        ],
+        "note": "32021R0337, 0.923 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 1 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 6 PA 1 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 7 PA 12a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 14a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 20 PA 6a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 21 PA 5a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 47a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 48 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0337",
+              "display_name": "Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 9,
+        "right_units": 10,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1": 0.9473684210526316,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 10,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN Va",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AN Va"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 10,
+    "explained": 8,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 63903,
+      "output_tokens": 3262,
+      "requests": 11,
+      "schema_repairs": 3
+    }
+  },
+  "gate": {
+    "changes": 10,
+    "passed_first": 8,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 18,
+    "citations": 21,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
