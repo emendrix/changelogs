@@ -1,0 +1,467 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R1286",
+    "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+  },
+  "from_version": "02014R1286-20161224",
+  "to_version": "02014R1286-20190801",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2019-08-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 0,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 2,
+    "touched_units": 2,
+    "unchanged_units": 32,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 0,
+    "date_only": 2,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R1286",
+            "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+          },
+          "version": "02014R1286-20190801",
+          "location": "AR 32"
+        },
+        "heading": "Article 32",
+        "before": "Article 32\n1. Management companies as defined in Article 2(1)(b) of Directive 2009/65/EC, investment companies as referred to in Article 27 thereof and persons advising on, or selling, units of UCITS as referred to in Article 1(2) thereof shall be exempt from the obligations under this Regulation until 31 December 2019.\n2. When a Member State applies rules on the format and content of the key information document, as laid down in Articles 78 to 81 of Directive 2009/65/EC, to non-UCITS funds offered to retail investors, the exemption laid down in paragraph 1 of this Article shall apply to management companies, investment companies and persons advising on, or selling, units of such funds to retail investors.",
+        "after": "Article 32\n1. Management companies as defined in Article 2(1)(b) of Directive 2009/65/EC, investment companies as referred to in Article 27 thereof and persons advising on, or selling, units of UCITS as referred to in Article 1(2) thereof shall be exempt from the obligations under this Regulation until 31 December 2021.\n2. When a Member State applies rules on the format and content of the key information document, as laid down in Articles 78 to 81 of Directive 2009/65/EC, to non-UCITS funds offered to retail investors, the exemption laid down in paragraph 1 of this Article shall apply to management companies, investment companies and persons advising on, or selling, units of such funds to retail investors.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 32 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1156",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2019-12-31"
+        ],
+        "dates_added": [
+          "2021-12-31"
+        ],
+        "in_force": "2019-08-01",
+        "applies_from": "2021-12-31",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1156 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 017 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The exemption date in Article 32(1) for management companies, investment companies, and persons advising on or selling units of UCITS was changed from 31 December 2019 to 31 December 2021.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20190801",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20190801#art_32",
+              "label": "Art. 32, 02014R1286-20190801"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2, which extends this exemption to certain non-UCITS funds under Member State rules, remains unchanged in wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20161224",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20161224#art_32",
+              "label": "Art. 32, 02014R1286-20161224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20190801",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20190801#art_32",
+              "label": "Art. 32, 02014R1286-20190801"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R1286",
+            "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+          },
+          "version": "02014R1286-20190801",
+          "location": "AR 33"
+        },
+        "heading": "Article 33",
+        "before": "Article 33\n1. By 31 December 2018, the Commission shall review this Regulation. The review shall include, on the basis of the information received by the ESAs, a general survey of the operation of the comprehension alert, taking into account any guidance developed by competent authorities in this respect. It shall also include a survey of the practical application of the rules laid down in this Regulation, taking due account of developments in the market for retail investment products and the feasibility, costs and possible benefits of introducing a label for social and environmental investments. As part of its review, the Commission shall undertake consumer testing and an examination of non-legislative options as well as the outcomes of the review of Regulation (EU) No 346/2013 regarding points (c), (e) and (g) of Article 27(1)thereof.\nAs regards UCITS as defined in Article 1(2) of Directive 2009/65/EC, the review shall assess whether the transitional arrangements under Article 32 of this Regulation shall be prolonged, or whether, following the identification of any necessary adjustments, the provisions on key investor information in Directive 2009/65/EC might be replaced by or considered equivalent to the key investor document under this Regulation. The review shall also reflect on a possible extension of the scope of this Regulation to other financial products, and shall assess whether the exemption of products from the scope of this Regulation should be maintained, in view of sound standards for consumer protection including comparisons between financial products. The review shall also assess the appropriateness of introducing common rules on the need for all Member States to provide for administrative sanctions for infringements of this Regulation.\n2. The Commission shall assess, by 31 December 2018, on the basis of the work undertaken by EIOPA on disclosure of product information requirements, whether to propose a new legislative act guaranteeing appropriate disclosure of product information requirements for those products or whether to include pension products referred to in point (e) of Article 2 (2) in the scope of this Regulation.\nIn making its assessment, the Commission shall ensure that such measures do not reduce standards of disclosure in Member States that have pre-existing disclosure regimes for such pension products.\n3. After consulting the Joint Committee, the Commission shall submit a report to the European Parliament and to the Council relating to paragraphs 1 and 2, accompanied, if appropriate, by a legislative proposal.\n4. By 31 December 2018, the Commission shall conduct a market survey to determine whether online calculator tools which allow the retail investor to compute the aggregate costs and fees of PRIIPs are available and whether they are free of charge. The Commission shall report on whether those tools provide for reliable and accurate calculations for all products within the scope of this Regulation.\nIn the event that the survey concludes that no such tools exist or that existing tools do not enable retail investors to understand the aggregate amount of costs and fees of PRIIPS, the Commission shall assess the feasibility of the ESAs, through the Joint Committee, developing draft regulatory technical standards setting out the specifications applicable to such Union-level tools.",
+        "after": "Article 33\n1. By 31 December 2019, the Commission shall review this Regulation. The review shall include, on the basis of the information received by the ESAs, a general survey of the operation of the comprehension alert, taking into account any guidance developed by competent authorities in this respect. It shall also include a survey of the practical application of the rules laid down in this Regulation, taking due account of developments in the market for retail investment products and the feasibility, costs and possible benefits of introducing a label for social and environmental investments. As part of its review, the Commission shall undertake consumer testing and an examination of non-legislative options as well as the outcomes of the review of Regulation (EU) No 346/2013 regarding points (c), (e) and (g) of Article 27(1)thereof.\nAs regards UCITS as defined in Article 1(2) of Directive 2009/65/EC, the review shall assess whether the transitional arrangements under Article 32 of this Regulation shall be prolonged, or whether, following the identification of any necessary adjustments, the provisions on key investor information in Directive 2009/65/EC might be replaced by or considered equivalent to the key investor document under this Regulation. The review shall also reflect on a possible extension of the scope of this Regulation to other financial products, and shall assess whether the exemption of products from the scope of this Regulation should be maintained, in view of sound standards for consumer protection including comparisons between financial products. The review shall also assess the appropriateness of introducing common rules on the need for all Member States to provide for administrative sanctions for infringements of this Regulation.\n2. The Commission shall assess, by 31 December 2019, on the basis of the work undertaken by EIOPA on disclosure of product information requirements, whether to propose a new legislative act guaranteeing appropriate disclosure of product information requirements for those products or whether to include pension products referred to in point (e) of Article 2 (2) in the scope of this Regulation.\nIn making its assessment, the Commission shall ensure that such measures do not reduce standards of disclosure in Member States that have pre-existing disclosure regimes for such pension products.\n3. After consulting the Joint Committee, the Commission shall submit a report to the European Parliament and to the Council relating to paragraphs 1 and 2, accompanied, if appropriate, by a legislative proposal.\n4. By 31 December 2019, the Commission shall conduct a market survey to determine whether online calculator tools which allow the retail investor to compute the aggregate costs and fees of PRIIPs are available and whether they are free of charge. The Commission shall report on whether those tools provide for reliable and accurate calculations for all products within the scope of this Regulation.\nIn the event that the survey concludes that no such tools exist or that existing tools do not enable retail investors to understand the aggregate amount of costs and fees of PRIIPS, the Commission shall assess the feasibility of the ESAs, through the Joint Committee, developing draft regulatory technical standards setting out the specifications applicable to such Union-level tools.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 33 PA 1 ALN 1",
+          "AR 33 PA 2 ALN 1",
+          "AR 33 PA 4 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1156",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2018-12-31"
+        ],
+        "dates_added": [
+          "2019-12-31"
+        ],
+        "in_force": "2019-08-01",
+        "applies_from": "2019-12-31",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1156 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 017 (2) (a); AR 017 (2) (b); AR 017 (2) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The three deadlines by which the Commission must act under paragraphs 1, 2 and 4 were each moved from 31 December 2018 to 31 December 2019.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20190801",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20190801#art_33",
+              "label": "Art. 33, 02014R1286-20190801"
+            }
+          ]
+        },
+        {
+          "text": "No other wording in these paragraphs was altered between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20161224",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20161224#art_33",
+              "label": "Art. 33, 02014R1286-20161224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20190801",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20190801#art_33",
+              "label": "Art. 33, 02014R1286-20190801"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R1286",
+      "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+    },
+    "from_version": "02014R1286-20161224",
+    "to_version": "02014R1286-20190801",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 32",
+          "AR 33"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 32",
+          "AR 33"
+        ],
+        "note": "4 annotations in (2016-12-24, 2019-08-01]",
+        "claims": [
+          {
+            "location": "AR 33 PA 2 ALN 1 TEXT",
+            "change_type": "MODIFIED",
+            "in_force": "2019-08-01",
+            "source": "32019R1156 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 33 PA 4 ALN 1 TEXT",
+            "change_type": "MODIFIED",
+            "in_force": "2019-08-01",
+            "source": "32019R1156 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 33 PA 1 ALN 1 TEXT",
+            "change_type": "MODIFIED",
+            "in_force": "2019-08-01",
+            "source": "32019R1156 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2019-08-01",
+            "source": "32019R1156 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 32",
+          "AR 33"
+        ],
+        "note": "32019R1156, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 32 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": "Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 33 PA 1 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": "Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 33 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": "Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 33 PA 4 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017 (2) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1156",
+              "display_name": "Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7320,
+      "output_tokens": 404,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
