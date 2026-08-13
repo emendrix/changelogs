@@ -10,6 +10,47 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20250629 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20250101` → `02013R0575-20250629`
+
+- **Act** `eu:32013R0575` · **In force** 2025-06-29 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 789 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20250101` · `v2` = `02013R0575-20250629`
+
+---
+
+**MODIFIED · Art. 510 — Net Stable Funding Requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 510 PA 6 ALN 1`, `AR 510 PA 6 ALN 1 PTA (d)`, `AR 510 PA 6 ALN 1 PTA (e)`, `AR 510 PA 6 ALN 1 PTA (e) PTI (i)`, `AR 510 PA 6 ALN 1 PTA (e) PTI (ii)` · *dates* +2029-01-31 · *amended by* `32025R1215`
+
+Paragraph 6 changes the EBA's single 28 June 2023 report into a recurring obligation, requiring it to report to the Commission by 31 January 2029 and every five years thereafter on the appropriateness of the stable funding requirement for securities financing transactions and related unsecured transactions with financial customers. [Art. 510, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510)
+
+Point (d) of paragraph 6 renumbers its internal cross-references to Articles 428k(3), 428r(1), 428s(1) and 428v using a different citation style but points to the same provisions as before. [Art. 510, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_510) [Art. 510, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510)
+
+Point (e) of paragraph 6 is expanded from a single assessment of market liquidity impact into two sub-points, adding an assessment of the impact on the price structure of the transactions alongside the pre-existing assessment of market liquidity of collateral assets. [Art. 510, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_510) [Art. 510, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510)
+
+*before* (`02013R0575-20250101`)
+
+> Article 510
+> Net Stable Funding Requirements
+> 1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.
+> 2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:
+> (a) the categories and weightings applied to sources of stable funding in Article 427(1);
+> (b) the categories and weightings applied to determine the requirement for stable funding in […truncated by emendrix: 8362 characters omitted…]
+
+*after* (`02013R0575-20250629`)
+
+> Article 510
+> Net Stable Funding Requirements
+> 1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.
+> 2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:
+> (a) the categories and weightings applied to sources of stable funding in Article 427(1);
+> (b) the categories and weightings applied to determine the requirement for stable funding in […truncated by emendrix: 8630 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20250629 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20250101 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20240709` → `02013R0575-20250101`

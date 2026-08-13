@@ -1,0 +1,383 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20250101",
+  "to_version": "02013R0575-20250629",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2025-06-29"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 789,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20250629",
+          "location": "AR 510"
+        },
+        "heading": "Net Stable Funding Requirements",
+        "before": "Article 510\nNet Stable Funding Requirements\n1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.\n2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:\n(a) the categories and weightings applied to sources of stable funding in Article 427(1);\n(b) the categories and weightings applied to determine the requirement for stable funding in Article 428(1);\n(c) methodologies shall provide incentives and disincentives as appropriate to encourage a more stable longer term funding of assets, business activities, investment and funding of institutions;\n(d) the need to develop different methodologies for different types of institutions.\n3. By 31 December 2016, the Commission shall, if appropriate, taking into account the reports referred to in paragraphs 1 and 2, and taking full account of the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and the Council on how to ensure that institutions use stable sources of funding.\n4. EBA shall monitor the amount of required stable funding covering the funding risk linked to the derivative contracts listed in Annex II and credit derivatives over the one-year horizon of the net stable funding ratio, in particular the future funding risk for those derivative contracts set out in Articles 428s(2) and 428at(2), and report to the Commission on the opportunity to adopt a higher required stable funding factor or a more risk-sensitive measure by 28 June 2024. That report shall at least assess:\n(a) the opportunity to distinguish between margined and unmargined derivative contracts;\n(b) the opportunity to remove, increase or replace the requirement set out in Articles 428s(2) and 428at(2);\n(c) the opportunity to change more broadly the treatment of derivative contracts in the calculation of the net stable funding ratio, as set out in Article 428d, Articles 428k(4) and 428s(2), points (a) and (b) of Article 428ag, Articles 428ah(2), 428al(4) and 428at(2), points (a) and (b) of Article 428ay and Article 428az(2), to better capture the funding risk linked to those contracts over the one-year horizon of the net stable funding ratio;\n(d) the impact of the proposed changes on the amount of stable funding required for institutions' derivative contracts.\n5. If international standards affect the treatment of derivative contracts listed in Annex II and credit derivatives for the calculation of the net stable funding ratio, the Commission shall, if appropriate and taking into account the report referred to in paragraph 4, those changes of international standards and the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of derivative contracts listed in Annex II and credit derivatives for the calculation of the net stable funding ratio as set out in Title IV of Part Six to take better account of the funding risk linked to those transactions.\n6. EBA shall monitor the amount of stable funding required to cover the funding risk linked to securities financing transactions, including to the assets received or given in those transactions, and to unsecured transactions with a residual maturity of less than six months with financial customers and report to the Commission on the appropriateness of that treatment by 28 June 2023. That report shall at least assess:\n(a) the opportunity to apply higher or lower stable funding factors to securities financing transactions with financial customers and to unsecured transactions with a residual maturity of less than six months with financial customers to take better account of their funding risk over the one-year horizon of the net stable funding ratio and of the possible contagion effects between financial customers;\n(b) the opportunity to apply the treatment set out in point (g) of Article 428r(1) to securities financing transactions collateralised by other types of assets;\n(c) the opportunity to apply stable funding factors to off-balance-sheet items used in securities financing transactions as an alternative to the treatment set out in Article 428p(5);\n(d) the adequacy of the asymmetric treatment between liabilities with a residual maturity of less than six months provided by financial customers that are subject to a 0 % available stable funding factor in accordance with point (c) of Article 428k(3) and assets resulting from transactions with a residual maturity of less than six months with financial customers that are subject to a 0 %, 5 % or 10 % required stable funding factor in accordance with point (g) of Article 428r(1), point (c) of Article 428s(1) and point (b) of Article 428v;\n(e) the impact of the introduction of higher or lower required stable funding factors for securities financing transactions, in particular with a residual maturity of less than six months with financial customers, on the market liquidity of assets received as collateral in those transactions, in particular of sovereign and corporate bonds;\n(f) the impact of the proposed changes on the amount of stable funding required for those institutions' transactions, in particular for securities financing transactions with a residual maturity of less than six months with financial customers where sovereign bonds are received as collateral in those transactions.\n7. By 28 June 2024, the Commission shall, where appropriate and taking into account the report referred to in paragraph 6, any international standards and the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of securities financing transactions, including of the assets received or given in those transactions, and the treatment of unsecured transactions with a residual maturity of less than six months with financial customers for the calculation of the net stable funding ratio as set out in Title IV of Part Six where it considers it appropriate regarding the impact of the existing treatment on institutions' net stable funding ratio and to take better account of the funding risk linked to those transactions.\n8. By 28 June 2025, the required stable funding factors applied to the transactions referred to in point (g) of Article 428r(1), point (b) of Article 428s(1) and in point (a) of Article 428v, shall be raised from 0 % to 10 %, from 5 % to 15 % and from 10 % to 15 % respectively, unless otherwise specified in a legislative act adopted on the basis of a proposal by the Commission, in accordance with paragraph 7 of this Article.\n9. EBA shall monitor the amount of stable funding required to cover the funding risk linked to institutions' holdings of securities to hedge derivative contracts. EBA shall report on the appropriateness of the treatment by 28 June 2023. That report shall at least assess:\n(a) the possible impact of the treatment on investors' ability to gain exposure to assets and the impact of the treatment on credit supply in the capital markets union;\n(b) the opportunity to apply adjusted stable funding requirements to securities that are held to hedge derivatives which are funded by initial margin, either wholly or in part;\n(c) the opportunity to apply adjusted stable funding requirements to securities that are held to hedge derivatives which are not funded by initial margin.\n10. By 28 June 2023 or a year after an agreement on international standards that is developed by the BCBS, whichever is the earliest, the Commission shall, where appropriate and taking into account the report referred to in paragraph 9, any international standards developed by the BCBS, the diversity of the banking sector in the Union and the aims of the capital markets union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of institutions' holdings of securities to hedge derivative contracts for the calculation of the net stable funding ratio as set out in Title IV of Part Six where it considers it appropriate regarding the impact of the existing treatment on institutions' net stable funding ratio and to take better account of the funding risk linked to those transactions.\n11. EBA shall assess whether it would be justified to reduce the required stable funding factor for assets used for providing clearing and settlement services of precious metals such as gold, silver, platinum and palladium or assets used for providing financing transactions of precious metals such as gold, silver, platinum and palladium of a term of 180 days or less. EBA shall submit its report to the Commission by 28 June 2021.",
+        "after": "Article 510\nNet Stable Funding Requirements\n1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.\n2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:\n(a) the categories and weightings applied to sources of stable funding in Article 427(1);\n(b) the categories and weightings applied to determine the requirement for stable funding in Article 428(1);\n(c) methodologies shall provide incentives and disincentives as appropriate to encourage a more stable longer term funding of assets, business activities, investment and funding of institutions;\n(d) the need to develop different methodologies for different types of institutions.\n3. By 31 December 2016, the Commission shall, if appropriate, taking into account the reports referred to in paragraphs 1 and 2, and taking full account of the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and the Council on how to ensure that institutions use stable sources of funding.\n4. EBA shall monitor the amount of required stable funding covering the funding risk linked to the derivative contracts listed in Annex II and credit derivatives over the one-year horizon of the net stable funding ratio, in particular the future funding risk for those derivative contracts set out in Articles 428s(2) and 428at(2), and report to the Commission on the opportunity to adopt a higher required stable funding factor or a more risk-sensitive measure by 28 June 2024. That report shall at least assess:\n(a) the opportunity to distinguish between margined and unmargined derivative contracts;\n(b) the opportunity to remove, increase or replace the requirement set out in Articles 428s(2) and 428at(2);\n(c) the opportunity to change more broadly the treatment of derivative contracts in the calculation of the net stable funding ratio, as set out in Article 428d, Articles 428k(4) and 428s(2), points (a) and (b) of Article 428ag, Articles 428ah(2), 428al(4) and 428at(2), points (a) and (b) of Article 428ay and Article 428az(2), to better capture the funding risk linked to those contracts over the one-year horizon of the net stable funding ratio;\n(d) the impact of the proposed changes on the amount of stable funding required for institutions' derivative contracts.\n5. If international standards affect the treatment of derivative contracts listed in Annex II and credit derivatives for the calculation of the net stable funding ratio, the Commission shall, if appropriate and taking into account the report referred to in paragraph 4, those changes of international standards and the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of derivative contracts listed in Annex II and credit derivatives for the calculation of the net stable funding ratio as set out in Title IV of Part Six to take better account of the funding risk linked to those transactions.\n6. EBA shall monitor the amount of stable funding required to cover the funding risk linked to securities financing transactions, including to the assets received or given in those transactions, and to unsecured transactions with financial customers, where such transactions have a residual maturity of less than six months. EBA shall report to the Commission by 31 January 2029, and every five years thereafter, on the appropriateness of that stable funding requirement. Taking into account international developments and the regulatory treatment of similar transactions in other jurisdictions, those reports shall assess at a minimum:\n(a) the opportunity to apply higher or lower stable funding factors to securities financing transactions with financial customers and to unsecured transactions with a residual maturity of less than six months with financial customers to take better account of their funding risk over the one-year horizon of the net stable funding ratio and of the possible contagion effects between financial customers;\n(b) the opportunity to apply the treatment set out in point (g) of Article 428r(1) to securities financing transactions collateralised by other types of assets;\n(c) the opportunity to apply stable funding factors to off-balance-sheet items used in securities financing transactions as an alternative to the treatment set out in Article 428p(5);\n(d) the adequacy of the asymmetric treatment between liabilities with a residual maturity of less than six months provided by financial customers that are subject to a 0 % available stable funding factor in accordance with Article 428k(3), point (c), and assets resulting from transactions with a residual maturity of less than six months with financial customers that are subject to a 0 %, 5 % or 10 % required stable funding factor in accordance with Article 428r(1), point (g), Article 428s(1), point (b), and Article 428v, point (a);\n(e) the impact of the introduction of higher or lower required stable funding factors for securities financing transactions, in particular with a residual maturity of less than six months, with financial customers, on:\n(i) the price structure of those transactions; and\n(ii) the market liquidity of assets received as collateral in those transactions, in particular of sovereign and corporate bonds;\n(f) the impact of the proposed changes on the amount of stable funding required for those institutions' transactions, in particular for securities financing transactions with a residual maturity of less than six months with financial customers where sovereign bonds are received as collateral in those transactions.\n7. By 28 June 2024, the Commission shall, where appropriate and taking into account the report referred to in paragraph 6, any international standards and the diversity of the banking sector in the Union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of securities financing transactions, including of the assets received or given in those transactions, and the treatment of unsecured transactions with a residual maturity of less than six months with financial customers for the calculation of the net stable funding ratio as set out in Title IV of Part Six where it considers it appropriate regarding the impact of the existing treatment on institutions' net stable funding ratio and to take better account of the funding risk linked to those transactions.\n8. By 28 June 2025, the required stable funding factors applied to the transactions referred to in point (g) of Article 428r(1), point (b) of Article 428s(1) and in point (a) of Article 428v, shall be raised from 0 % to 10 %, from 5 % to 15 % and from 10 % to 15 % respectively, unless otherwise specified in a legislative act adopted on the basis of a proposal by the Commission, in accordance with paragraph 7 of this Article.\n9. EBA shall monitor the amount of stable funding required to cover the funding risk linked to institutions' holdings of securities to hedge derivative contracts. EBA shall report on the appropriateness of the treatment by 28 June 2023. That report shall at least assess:\n(a) the possible impact of the treatment on investors' ability to gain exposure to assets and the impact of the treatment on credit supply in the capital markets union;\n(b) the opportunity to apply adjusted stable funding requirements to securities that are held to hedge derivatives which are funded by initial margin, either wholly or in part;\n(c) the opportunity to apply adjusted stable funding requirements to securities that are held to hedge derivatives which are not funded by initial margin.\n10. By 28 June 2023 or a year after an agreement on international standards that is developed by the BCBS, whichever is the earliest, the Commission shall, where appropriate and taking into account the report referred to in paragraph 9, any international standards developed by the BCBS, the diversity of the banking sector in the Union and the aims of the capital markets union, submit a legislative proposal to the European Parliament and to the Council on how to amend the provisions regarding the treatment of institutions' holdings of securities to hedge derivative contracts for the calculation of the net stable funding ratio as set out in Title IV of Part Six where it considers it appropriate regarding the impact of the existing treatment on institutions' net stable funding ratio and to take better account of the funding risk linked to those transactions.\n11. EBA shall assess whether it would be justified to reduce the required stable funding factor for assets used for providing clearing and settlement services of precious metals such as gold, silver, platinum and palladium or assets used for providing financing transactions of precious metals such as gold, silver, platinum and palladium of a term of 180 days or less. EBA shall submit its report to the Commission by 28 June 2021.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 510 PA 6 ALN 1",
+          "AR 510 PA 6 ALN 1 PTA (d)",
+          "AR 510 PA 6 ALN 1 PTA (e)",
+          "AR 510 PA 6 ALN 1 PTA (e) PTI (i)",
+          "AR 510 PA 6 ALN 1 PTA (e) PTI (ii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R1215",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2029-01-31"
+        ],
+        "in_force": "2025-06-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R1215 R; 32025R1215 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1) (a); AR 001 (1) (b); AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 changes the EBA's single 28 June 2023 report into a recurring obligation, requiring it to report to the Commission by 31 January 2029 and every five years thereafter on the appropriateness of the stable funding requirement for securities financing transactions and related unsecured transactions with financial customers.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250629",
+                "location": "AR 510"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510",
+              "label": "Art. 510, 02013R0575-20250629"
+            }
+          ]
+        },
+        {
+          "text": "Point (d) of paragraph 6 renumbers its internal cross-references to Articles 428k(3), 428r(1), 428s(1) and 428v using a different citation style but points to the same provisions as before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 510"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_510",
+              "label": "Art. 510, 02013R0575-20250101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250629",
+                "location": "AR 510"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510",
+              "label": "Art. 510, 02013R0575-20250629"
+            }
+          ]
+        },
+        {
+          "text": "Point (e) of paragraph 6 is expanded from a single assessment of market liquidity impact into two sub-points, adding an assessment of the impact on the price structure of the transactions alongside the pre-existing assessment of market liquidity of collateral assets.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 510"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_510",
+              "label": "Art. 510, 02013R0575-20250101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250629",
+                "location": "AR 510"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_510",
+              "label": "Art. 510, 02013R0575-20250629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20250101",
+    "to_version": "02013R0575-20250629",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 510"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 510"
+        ],
+        "note": "5 annotations in (2025-01-01, 2025-06-29]",
+        "claims": [
+          {
+            "location": "AR 510 PA 6 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-06-29",
+            "source": "32025R1215 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 510 PA 8",
+            "change_type": "DELETED",
+            "in_force": "2025-06-29",
+            "source": "32025R1215 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 510 PA 6 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2025-06-29",
+            "source": "32025R1215 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 510 PA 7",
+            "change_type": "DELETED",
+            "in_force": "2025-06-29",
+            "source": "32025R1215 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 510 PA 6 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2025-06-29",
+            "source": "32025R1215 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 510"
+        ],
+        "note": "32025R1215, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 510 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": "Regulation (EU) 2025/1215 of the European Parliament and of the Council of 17 June 2025 amending Regulation (EU) No 575/2013 as regards requirements for securities financing transactions under the net stable funding ratio (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 510 PA 6 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": "Regulation (EU) 2025/1215 of the European Parliament and of the Council of 17 June 2025 amending Regulation (EU) No 575/2013 as regards requirements for securities financing transactions under the net stable funding ratio (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 510 PA 7",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1215",
+              "display_name": "Regulation (EU) 2025/1215 of the European Parliament and of the Council of 17 June 2025 amending Regulation (EU) No 575/2013 as regards requirements for securities financing transactions under the net stable funding ratio (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 8500,
+      "output_tokens": 412,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
