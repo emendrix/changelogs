@@ -10,6 +10,49 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20150101 -->
+## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
+### `02012R0978-20141001` → `02012R0978-20150101`
+
+- **Act** `eu:32012R0978` · **In force** 2014-12-25, 2015-01-01 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 43 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Citations** `v1` = `02012R0978-20141001` · `v2` = `02012R0978-20150101`
+
+---
+
+**MODIFIED · Annex III** · applies from: unknown
+
+*amended by* `32014R1386`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VI** · applies from: unknown
+
+*amended by* `32015R1978`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VII** · applies from: unknown
+
+*amended by* `32015R0602`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0978-20150101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20141001 -->
 ## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
 ### `02012R0978-20140228` → `02012R0978-20141001`
