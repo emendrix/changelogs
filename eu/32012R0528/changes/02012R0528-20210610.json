@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0528",
+    "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+  },
+  "from_version": "02012R0528-20210329",
+  "to_version": "02012R0528-20210610",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2021-06-10"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 103,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0528",
+            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+          },
+          "version": "02012R0528-20210610",
+          "location": "AN I"
+        },
+        "heading": "ANNEX I",
+        "before": "ANNEX I\nLIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)\nThe date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.\nEC number Name/group Restriction Comment\nCategory 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008\n200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 270\n204-823-8 Sodium acetate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 262\n208-534-8 Sodium benzoate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 211\n201-766-0 (+)-Tartaric acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 334\n200-580-7 Acetic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 260\n201-176-3 Propionic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 280\nCategory 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006\n200-066-2 Ascorbic acid 232-278-6 Linseed oil Category 3 — Weak acids\nCategory 4 — Traditionally used substances of natural origin\nNatural oil Lavender oil CAS 8000-28-0\nNatural oil Peppermint oil CAS 8006-90-4\nNot available Vinegar Excluding vinegar that is not food and excluding vinegar that contains more than 10 % acetic acid (whether or not it is food). CAS No 8028-52-2\nNot available Saccharomyces cerevisiae (yeast) Excluding Saccharomyces cerevisiae that is not food or feed. CAS No 68876-77-7\nNot available Powdered egg Excluding powdered egg that is not food or feed. Not available Honey Excluding honey that is not food or feed. CAS No 8028-66-8\n200-333-3 D-Fructose Excluding D-fructose that is not food or feed. CAS No 57-48-7\nNot available Cheese Excluding cheese that is not food or feed. Not available Concentrated apple juice Excluding concentrated apple juice that does not fall within the definition in point (2) of Part I of Annex I to Council Directive 2001/112/EC. Category 5 — Pheromones\n222-226-0 Oct-1-en-3-ol Mixture Webbing clothes moths pheromone Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC\n204-696-9 Carbon dioxide Only for use in ready-for-use gas canisters functioning together with a trapping device 201-069-1 Citric acid Minimum degree of purity of the active substance: 995 g/kg CAS No 77-92-9\n231-783-9 Nitrogen Only for use in limited quantities in ready-for-use canisters Not available (9Z,12E)-tetradeca-9,12-dien-1-yl acetate CAS 30507-70-1\nCategory 7 — Other\nBaculovirus 215-108-5 Bentonite 203-376-6 Citronellal 231-753-5 Iron sulphate ",
+        "after": "ANNEX I\nLIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)\nThe date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.The date of approval of potassium sorbate for product-type 6 for the purposes of Article 89(3) is 1 February 2023.The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated active substance.\nEC number Name/group Restriction Comment\nCategory 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008\n200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 270\n204-823-8 Sodium acetate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 262\n208-534-8 Sodium benzoate Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 211\n201-766-0 (+)-Tartaric acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 334\n200-580-7 Acetic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 260\n201-176-3 Propionic acid Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008 E 280\nCategory 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006\n200-066-2 Ascorbic acid 232-278-6 Linseed oil Category 3 — Weak acids\nCategory 4 — Traditionally used substances of natural origin\nNatural oil Lavender oil CAS 8000-28-0\nNatural oil Peppermint oil CAS 8006-90-4\nNot available Vinegar Excluding vinegar that is not food and excluding vinegar that contains more than 10 % acetic acid (whether or not it is food). CAS No 8028-52-2\nNot available Saccharomyces cerevisiae (yeast) Excluding Saccharomyces cerevisiae that is not food or feed. CAS No 68876-77-7\nNot available Powdered egg Excluding powdered egg that is not food or feed. Not available Honey Excluding honey that is not food or feed. CAS No 8028-66-8\n200-333-3 D-Fructose Excluding D-fructose that is not food or feed. CAS No 57-48-7\nNot available Cheese Excluding cheese that is not food or feed. Not available Concentrated apple juice Excluding concentrated apple juice that does not fall within the definition in point (2) of Part I of Annex I to Council Directive 2001/112/EC. Category 5 — Pheromones\n222-226-0 Oct-1-en-3-ol Mixture Webbing clothes moths pheromone Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC\n204-696-9 Carbon dioxide Only for use in ready-for-use gas canisters functioning together with a trapping device 204-696-9 Carbon dioxide generated from propane, butane or a mixture of both by combustion CAS No 124-38-9\n201-069-1 Citric acid Minimum degree of purity of the active substance: 995 g/kg CAS No 77-92-9\n231-783-9 Nitrogen Only for use in limited quantities in ready-for-use canisters 246-376-1 Potassium (E,E)-hexa-2,4-dienoate (potassium sorbate) Minimum degree of purity of the active substance: 990 g/kg CAS No 24634-61-5\nNot available (9Z,12E)-tetradeca-9,12-dien-1-yl acetate CAS 30507-70-1\nCategory 7 — Other\nBaculovirus 215-108-5 Bentonite 203-376-6 Citronellal 231-753-5 Iron sulphate ",
+        "previous_location": null,
+        "changed_within": [
+          "AN I"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0807",
+            "display_name": null
+          },
+          {
+            "corpus": "eu",
+            "key": "32021R0806",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2022-07-01",
+          "2023-02-01"
+        ],
+        "in_force": "2021-06-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0807 J; 32021R0806 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32021R0807, 32021R0806",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0528",
+      "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+    },
+    "from_version": "02012R0528-20210329",
+    "to_version": "02012R0528-20210610",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN I"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN I"
+        ],
+        "note": "2 annotations in (2021-03-29, 2021-06-10]",
+        "claims": [
+          {
+            "location": "AN I TXT",
+            "change_type": "INSERTED",
+            "in_force": "2021-06-10",
+            "source": "32021R0807 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0807",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TXT",
+            "change_type": "INSERTED",
+            "in_force": "2021-06-10",
+            "source": "32021R0806 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0806",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32021R0807, 32021R0806",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 0,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
