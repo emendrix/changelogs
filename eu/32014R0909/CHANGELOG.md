@@ -10,6 +10,46 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20250117 -->
+## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
+### `02014R0909-20240501` → `02014R0909-20250117`
+
+- **Act** `eu:32014R0909` · **In force** 2025-01-17 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 82 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02014R0909-20240501` · `v2` = `02014R0909-20250117`
+
+---
+
+**MODIFIED · Art. 45 — Operational risks** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 45 PA 1 ALN 1`, `AR 45 PA 3 ALN 1`, `AR 45 PA 4 ALN 1`, `AR 45 PA 6 ALN 1`, `AR 45 PA 6 ALN 2`, `AR 45 PA 7 ALN 1` · *dates* +2022-12-14 · *amended by* `32022R2554`
+
+Paragraph 1 now refers to ICT tools, processes and policies set up and managed under Regulation (EU) 2022/2554, alongside other appropriate tools, controls and procedures for other types of operational risk, replacing the earlier reference to appropriate IT tools, controls and procedures generally. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45) [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_45)
+
+Paragraph 3 now includes ICT business continuity policy and ICT response and recovery plans established under Regulation (EU) 2022/2554 within the business continuity policy and disaster recovery plan, and paragraph 4 now ties the resumption of critical IT systems to Article 12(5) and (7) of that Regulation instead of describing prompt resumption without such a reference. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45) [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_45)
+
+Paragraph 6 now excludes incidents relating to ICT risk from the duty to inform authorities of operational incidents, and paragraph 7 now excludes ICT risk from the operational risks that ESMA's regulatory technical standards under paragraphs 1 and 6 are to address. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45) [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_45)
+
+*before* (`02014R0909-20240501`)
+
+> Article 45
+> Operational risks
+> 1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact through the deployment of appropriate IT tools, controls and procedures, including for all the securities settlement systems it operates.
+> 2. A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.
+> 3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk of disrupting operations.
+> 4. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can promptly resume operations from the time of disruption. It shall include the setting-up of a second processing site with sufficient resour […truncated by emendrix: 1356 characters omitted…]
+
+*after* (`02014R0909-20250117`)
+
+> Article 45
+> Operational risks
+> 1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact also through the deployment of appropriate ICT tools, processes and policies set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)., as well as through any other relevant appropriate tools, controls and procedures for other types of operational risk, including for all the securities settlement systems it operates.
+> 2. A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.
+> 3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, including ICT business continuity policy and ICT response and recovery plans established in accordance with Regulation (EU) 2 […truncated by emendrix: 1982 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0909-20250117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20240501 -->
 ## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
 ### `02014R0909-20240116` → `02014R0909-20240501`
