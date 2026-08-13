@@ -10,6 +10,865 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20220101 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20210626` → `02014R0600-20220101`
+
+- **Act** `eu:32014R0600` · **In force** 2021-07-04, 2022-01-01 · **Detected** 2026-08-13
+- **Touched** 38 provisions — 38 substantive · 0 date-only · **26 disputed**
+- **Diff** 28 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20210626` · `v2` = `02014R0600-20220101`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
+
+*within* `AR 1 PA 1 ALN 1 PTA (f)`, `AR 1 PA 1 ALN 1 PTA (g)` · *amended by* `32019R2175`
+
+Point (f) of Article 1(1) now ends with a semicolon instead of a full stop, and a new point (g) has been added covering the authorisation and supervision of data reporting services providers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_1)
+
+The earlier version listed point (f) as the final item in this list, without any equivalent to the new point (g). [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_1)
+
+*before* (`02014R0600-20210626`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation establishes uniform requirements in relation to the following:
+> (a) disclosure of trade data to the public;
+> (b) reporting of transactions to the competent authorities;
+> (c) trading of derivatives on organised venues;
+> (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
+> (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
+> (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3417 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation establishes uniform requirements in relation to the following:
+> (a) disclosure of trade data to the public;
+> (b) reporting of transactions to the competent authorities;
+> (c) trading of derivatives on organised venues;
+> (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
+> (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
+> (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch;
+> (g) the authorisation and supervision of data reporting services providers.
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article […truncated by emendrix: 3493 characters omitted…]
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unchanged
+
+*within* `AR 2 PA 1 ALN 1 PO 18`, `AR 2 PA 1 ALN 1 PO 22a`, `AR 2 PA 1 ALN 1 PO 34`, `AR 2 PA 1 ALN 1 PO 35`, `AR 2 PA 1 ALN 1 PO 36`, `AR 2 PA 1 ALN 1 PO 36a`, `AR 2 PA 3` · *amended by* `32019R2175`
+
+The definition of competent authority in point (18) is expanded to include ESMA for the authorisation and supervision of data reporting services providers, except for ARMs and APAs holding a derogation under new paragraph 3. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
+
+A new point (22a) defines senior management by reference to Article 4(1)(37) of Directive 2014/65/EU, and a new point (36a) defines data reporting services provider by reference to points (34) to (36) and Article 27b(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
+
+Points (34), (35) and (36), defining APA, CTP and ARM respectively, are reworded from cross-references to Directive 2014/65/EU into self-contained descriptions of the services each performs, and a new paragraph 3 is added empowering the Commission to adopt delegated acts specifying criteria for identifying ARMs and APAs subject to derogation, with related conditions on ESMA supervision. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_2)
+
+*before* (`02014R0600-20210626`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) investment firm means an investment firm as defined in Article 4(1)(1) of Directive 2014/65/EU;
+> (2) investment services and activities means investment services and activities defined in Article 4(1)(2) of Directive 2014/65/EU;
+> (3) ancillary services means ancillary services as defined in Article 4(1)(3) of Directive 2014/65/EU;
+> (4) execution of orders on behalf of clients means execution on behalf of clients as defined in Article 4(1)(5) of Directive 2014/65/EU;
+> (5) dealing on own account means dealing on own account as defined in Article 4(1)(6) of Directive 2014/65/EU;
+> (6) market maker means a market maker as defined in Article 4(1)(7) of Directive 2014/65/EU;
+> (7) client means a client as defined in Article 4(1)(9) of Directive 2014/65/EU;
+> (8) professional client means a professional client as defined in Article 4(1)(10) of Directive 2014/65/EU;
+> (9) financial instrument means a financial instrument as defined in Article 4(1)(15) of Directive 2014/65/EU;
+> (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
+> (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
+> (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 10192 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) investment firm means an investment firm as defined in Article 4(1)(1) of Directive 2014/65/EU;
+> (2) investment services and activities means investment services and activities defined in Article 4(1)(2) of Directive 2014/65/EU;
+> (3) ancillary services means ancillary services as defined in Article 4(1)(3) of Directive 2014/65/EU;
+> (4) execution of orders on behalf of clients means execution on behalf of clients as defined in Article 4(1)(5) of Directive 2014/65/EU;
+> (5) dealing on own account means dealing on own account as defined in Article 4(1)(6) of Directive 2014/65/EU;
+> (6) market maker means a market maker as defined in Article 4(1)(7) of Directive 2014/65/EU;
+> (7) client means a client as defined in Article 4(1)(9) of Directive 2014/65/EU;
+> (8) professional client means a professional client as defined in Article 4(1)(10) of Directive 2014/65/EU;
+> (9) financial instrument means a financial instrument as defined in Article 4(1)(15) of Directive 2014/65/EU;
+> (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
+> (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
+> (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 12164 characters omitted…]
+
+**MODIFIED · Art. 22 — Providing information for the purposes of transparency and other calculations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 22 PA 1 ALN 1`, `AR 22 PA 2 ALN 1`, `AR 22 PA 3 ALN 1`, `AR 22 PA 3 ALN 2`, `AR 22 PA 4` · *dates* -2015-07-03 · *amended by* `32019R2175`
+
+Paragraph 1 now names ESMA alongside competent authorities as able to require information from trading venues, APAs and CTPs, and the phrase describing the transparency and trading obligation regimes changed from 'imposed by' to 'referred to in'. [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_22)
+
+Paragraph 3, which previously required competent authorities to transmit information to ESMA for its Article 5(4)-(6) reports and set a 3 July 2015 submission deadline for regulatory technical standards, has been removed, and the former paragraph 4 on those technical standards now appears as paragraph 3 with revised wording about responding to and storing data. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_22)
+
+The delegation of power to the Commission now describes it as supplementing the Regulation by adopting the technical standards referred to in the first subparagraph, rather than simply adopting the standards referred to in that paragraph. [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_22)
+
+*before* (`02014R0600-20210626`)
+
+> Article 22
+> Providing information for the purposes of transparency and other calculations
+> 1. In order to carry out calculations for determining the requirements for the pre-trade and post-trade transparency and the trading obligation regimes imposed by Articles 3 to 11, Articles 14 to 21 and Article 32, which are applicable to financial instruments and for determining whether an investment firm is a systematic internaliser, competent authorities may require information from:
+> (a) trading venues;
+> (b) APAs; and
+> (c) CTPs.
+> 2. Trading venues, APAs and CTPs shall store the necessary data for a sufficient period of time.
+> 3. Competent authorities shall transmit to ESMA such information as ESMA requires to produce the reports referred to in Article 5(4), (5) and (6).
+> 4. ESMA shall develop draft regulatory technical standards to specify the content and frequency of data requests and the formats and the timeframe in which trading venues, APAs and CTPs must respond to such requests in accordance with paragraph 1, the type of data that must be stored, and the minimum period of time for which trading venues, APAs and CTPs must store data in order to be able to respond to such requests in accordance with paragraph 2.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+*after* (`02014R0600-20220101`)
+
+> Article 22
+> Providing information for the purposes of transparency and other calculations
+> 1. In order to carry out calculations for determining the requirements for the pre- and post-trade transparency and the trading obligation regimes referred to in Articles 3 to 11, Articles 14 to 21 and Article 32, which are applicable to financial instruments and for determining whether an investment firm is a systematic internaliser, ESMA and competent authorities may require information from:
+> (a) trading venues;
+> (b) APAs; and
+> (c) CTPs.
+> 2. Trading venues, APAs and CTPs shall store the necessary data for a sufficient period.
+> 3. ESMA shall develop draft regulatory technical standards to specify the content and frequency of data requests and the formats and the timeframe in which trading venues, APAs and CTPs are to respond to data requests referred to in paragraph 1, the type of data that is to be stored, and the minimum period for which trading venues, APAs and CTPs are to store data in order to be able to respond to data requests in accordance with paragraph 2.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**MODIFIED · Art. 26 — Obligation to report transactions** · applies from: unchanged
+
+*within* `AR 26 PA 1 ALN 3` · *amended by* `32019R2175`
+
+The third subparagraph of paragraph 1 changed how competent authorities make reported information available to ESMA, replacing the phrase describing this as done upon ESMA's request with a phrase requiring it to be done without undue delay. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_26)
+
+*before* (`02014R0600-20210626`)
+
+> Article 26
+> Obligation to report transactions
+> 1. Investment firms which execute transactions in financial instruments shall report complete and accurate details of such transactions to the competent authority as quickly as possible, and no later than the close of the following working day.
+> The competent authorities shall, in accordance with Article 85 of Directive 2014/65/EU, establish the necessary arrangements in order to ensure that the competent authority of the most relevant market in terms of liquidity for those financial instruments also receives that information.
+> The competent authorities shall make available to ESMA, upon request, any information reported in accordance with this Article.
+> 2. The obligation laid down in paragraph 1 shall apply to:
+> (a) financial instruments which are admitted to trading or traded on a trading venue or for which a request for admission to trading has been made;
+> (b) financial instruments where the underlying is a financial instrument traded on a trading venue; and
+> (c) financial instruments where the underlying is an index or a basket composed of financial instruments traded on a trading venue
+> The obligation shall apply to transactions in financial instruments referred to in points (a) to (c) irrespective of whether or not such transactions are carried out on the trading venue.
+> 3. The reports shall, in particular, include details of the names and numbers of the financial instruments bought or sold, the quantity, the dates and times of execu […truncated by emendrix: 8380 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 26
+> Obligation to report transactions
+> 1. Investment firms which execute transactions in financial instruments shall report complete and accurate details of such transactions to the competent authority as quickly as possible, and no later than the close of the following working day.
+> The competent authorities shall, in accordance with Article 85 of Directive 2014/65/EU, establish the necessary arrangements in order to ensure that the competent authority of the most relevant market in terms of liquidity for those financial instruments also receives that information.
+> The competent authorities shall without undue delay make available to ESMA any information reported in accordance with this Article.
+> 2. The obligation laid down in paragraph 1 shall apply to:
+> (a) financial instruments which are admitted to trading or traded on a trading venue or for which a request for admission to trading has been made;
+> (b) financial instruments where the underlying is a financial instrument traded on a trading venue; and
+> (c) financial instruments where the underlying is an index or a basket composed of financial instruments traded on a trading venue
+> The obligation shall apply to transactions in financial instruments referred to in points (a) to (c) irrespective of whether or not such transactions are carried out on the trading venue.
+> 3. The reports shall, in particular, include details of the names and numbers of the financial instruments bought or sold, the quantity, the dates and times of […truncated by emendrix: 8385 characters omitted…]
+
+**MODIFIED · Art. 27 — Obligation to supply financial instrument reference data** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 27 PA 1 ALN 1`, `AR 27 PA 1 ALN 2`, `AR 27 PA 1 ALN 3`, `AR 27 PA 2 ALN 1`, `AR 27 PA 2 ALN 1 PTA (a)`, `AR 27 PA 2 ALN 1 PTA (b)`, `AR 27 PA 2 ALN 1 PTA (c)`, `AR 27 PA 2 ALN 1 PTA (d)`, `AR 27 PA 3 ALN 1 PTA (a)`, `AR 27 PA 3 ALN 2`, `AR 27 PA 3 ALN 3`, `AR 27 PA 4` · *dates* -2015-07-03 · *amended by* `32019R2175`
+
+The obligation to provide identifying reference data now runs to ESMA rather than to competent authorities, and ESMA is described as publishing that data and giving competent authorities access without undue delay rather than competent authorities transmitting notifications to ESMA for publication. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27)
+
+Paragraph 2 changes the arrangement-setting actor to ESMA acting after consulting the competent authorities, drops the earlier reference to competent authorities effectively receiving the data, adds a data-transmission-to-competent-authorities point and a new point on mechanisms to resolve data delivery or quality issues, and paragraph 3 reverses the direction of data flow described between ESMA and competent authorities while removing the fixed submission date for draft technical standards and adding language empowering the Commission to supplement the Regulation. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27)
+
+A new paragraph 4 is added giving ESMA power to suspend the reporting obligations in paragraph 1 for certain or all financial instruments upon listed conditions, including notification of competent authorities beforehand and delegation to the Commission to adopt further delegated acts specifying those conditions and the circumstances for lifting suspension. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27)
+
+*before* (`02014R0600-20210626`)
+
+> Article 27
+> Obligation to supply financial instrument reference data
+> 1. With regard to financial instruments admitted to trading on regulated markets or traded on MTFs or OTFs, trading venues shall provide competent authorities with identifying reference data for the purposes of transaction reporting under Article 26.
+> With regard to other financial instruments covered by Article 26(2) traded on its system, each systematic internaliser shall provide its competent authority with reference data relating to those financial instruments.
+> Identifying reference data shall be made ready for submission to the competent authority in an electronic and standardised format before trading commences in the financial instrument that it refers to. The financial instrument reference data shall be updated whenever there are changes to the data with respect to a financial instrument. Those notifications are to be transmitted by competent authorities without delay to ESMA, which shall publish them immediately on its website. ESMA shall give competent authorities access to those reference data.
+> 2. In order to allow competent authorities to monitor, pursuant to Article 26, the activities of investment firms to ensure that they act honestly, fairly and professionally and in a manner which promotes the integrity of the market, ESMA and the competent authorities shall establish the necessary arrangements in order to ensure that:
+> (a) ESMA and the competent authorities effectively receive the financial in […truncated by emendrix: 1131 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 27
+> Obligation to supply financial instrument reference data
+> 1. With regard to financial instruments admitted to trading on regulated markets or traded on MTFs or OTFs, trading venues shall provide ESMA with identifying reference data for the purpose of transaction reporting under Article 26.
+> With regard to other financial instruments covered by Article 26(2) traded on its system, each systematic internaliser shall provide ESMA with reference data relating to those financial instruments.
+> Identifying reference data shall be made ready for submission to ESMA in an electronic and standardised format before trading commences in the financial instrument that it refers to. The financial instrument reference data shall be updated whenever there are changes to the data with respect to a financial instrument. ESMA shall publish those reference data immediately on its website. ESMA shall give competent authorities access without undue delay to those reference data.
+> 2. In order to allow competent authorities to monitor, pursuant to Article 26, the activities of investment firms to ensure that they act honestly, fairly and professionally and in a manner which promotes the integrity of the market, ESMA shall, after consulting the competent authorities, establish the necessary arrangements in order to ensure that:
+> (a) ESMA effectively receives the financial instrument reference data pursuant to paragraph 1 of this Article;
+> (b) the quality of the financial instrument reference data r […truncated by emendrix: 2942 characters omitted…]
+
+**INSERTED · Art. 27a — Article 27a** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 27a has been added that defines the term national competent authority, for the purposes of the relevant Title, as a competent authority as defined in point (26) of Article 4(1) of Directive 2014/65/EU. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27a)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27a
+> For the purposes of this Title, a national competent authority means a competent authority as defined in point (26) of Article 4(1) of Directive 2014/65/EU.
+
+**INSERTED · Art. 27b — Requirement for authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 27b sets out that operating an APA, CTP or ARM as a regular occupation or business requires prior authorisation, generally by ESMA, though certain APAs or ARMs identified under a specified delegated act fall instead under authorisation and supervision by the relevant national competent authority. [Art. 27b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27b)
+
+It also allows an investment firm or market operator running a trading venue to provide APA, CTP or ARM services once verified by ESMA or the national competent authority, with that provision included in their authorisation, and requires ESMA to maintain a public register of data reporting services providers, including publishing withdrawals of authorisation for five years, and to supervise ongoing compliance with the Title. [Art. 27b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27b)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27b
+> Requirement for authorisation
+> 1. The operation of an APA, a CTP or an ARM as a regular occupation or business shall be subject to prior authorisation by ESMA in accordance with this Title.
+> By way of derogation from the first subparagraph of this paragraph, an APA or ARM identified in accordance with the delegated act referred to in Article 2(3) shall be subject to prior authorisation and supervision by the relevant national competent authority in accordance with this Title.
+> 2. An investment firm or a market operator operating a trading venue may also provide the services of an APA, a CTP or an ARM, subject to the prior verification by ESMA or the relevant national competent authority that the investment firm or the market operator complies with this Title. The provision of those services shall be included in their authorisation.
+> 3. ESMA shall establish a register of all data reporting services providers in the Union. The register shall be publicly available and shall contain information on the services for which the data reporting services provider is authorised and it shall be updated on a regular basis.
+> Where ESMA, or a national competent authority where relevant, has withdrawn an authorisation in accordance with Article 27e, that withdrawal shall be published in the register for a period of five years.
+> 4. Data reporting services providers shall provide their services under the supervision of ESMA or the national competent authority where relevant. ESMA, or the […truncated by emendrix: 343 characters omitted…]
+
+**INSERTED · Art. 27c — Authorisation of data reporting services providers** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 27c is an entirely new provision setting out conditions under which data reporting services providers are authorised by ESMA or, where relevant, a national competent authority, including that the provider be a legal person established in the Union and meet the requirements of the Title. [Art. 27c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27c)
+
+It further specifies that the authorisation identifies the particular data reporting service covered, requires notification of material changes to authorisation conditions, and states that the authorisation is valid across the entire territory of the Union. [Art. 27c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27c)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27c
+> Authorisation of data reporting services providers
+> 1. Data reporting services providers shall be authorised by ESMA, or the national competent authority where relevant, for the purposes of this Title where:
+> (a) the data reporting services provider is a legal person established in the Union; and
+> (b) the data reporting services provider meets the requirements laid down in this Title.
+> 2. The authorisation referred to in paragraph 1 shall specify the data reporting service which the data reporting services provider is authorised to provide. Where an authorised data reporting services provider seeks to extend its business to additional data reporting services, it shall submit a request to ESMA, or the national competent authority where relevant, for extension of that authorisation.
+> 3. An authorised data reporting services provider shall comply at all times with the conditions for authorisation referred to in this Title. An authorised data reporting services provider shall, without undue delay, notify ESMA, or the national competent authority where relevant, of any material changes to the conditions for authorisation.
+> 4. The authorisation referred to in paragraph 1 shall be effective and valid for the entire territory of the Union, and shall allow the data reporting services provider to provide the services for which it has been authorised throughout the Union.
+
+**INSERTED · Art. 27d — Procedures for granting and refusing applications for authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 27d sets out procedures for granting or refusing authorisation applications by data reporting services providers, requiring an application with information demonstrating that necessary arrangements and a programme of operations are in place, a completeness assessment within 20 working days, and a reasoned decision within six months of a complete application being received. [Art. 27d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27d)
+
+The article also directs ESMA to develop draft regulatory technical standards on the information required and on notification content, and draft implementing technical standards on forms, templates and procedures for such notifications. [Art. 27d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27d)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27d
+> Procedures for granting and refusing applications for authorisation
+> 1. The applicant data reporting services provider shall submit an application providing all information necessary to enable ESMA, or the national competent authority where relevant, to confirm that the data reporting services provider has established, at the time of initial authorisation, all the necessary arrangements to meet its obligations under the provisions of this Title, including a programme of operations setting out, inter alia, the types of services envisaged and the organisational structure.
+> 2. ESMA, or the national competent authority where relevant, shall assess whether the application for authorisation is complete within 20 working days of receipt of the application.
+> Where the application is not complete, ESMA, or the national competent authority where relevant, shall set a deadline by which the data reporting services provider is to provide additional information.
+> After assessing an application as complete, ESMA, or the national competent authority where relevant, shall notify the data reporting services provider accordingly.
+> 3. ESMA, or the national competent authority where relevant, shall, within six months from the receipt of a complete application, assess the compliance of the data reporting services provider with this Title. It shall adopt a fully reasoned decision granting or refusing authorisation and shall notify the applicant data service provider accordingly within five w […truncated by emendrix: 887 characters omitted…]
+
+**INSERTED · Art. 27e — Withdrawal of authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 27e is new text that gives ESMA, or the national competent authority where relevant, the power to withdraw a data reporting services provider's authorisation on grounds such as non-use, renunciation, absence of activity for six months, obtaining authorisation through false statements or irregular means, no longer meeting the authorisation conditions, or serious and systematic infringement of the Regulation. [Art. 27e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27e)
+
+It also adds a duty for ESMA to notify, where relevant and without undue delay, the national competent authority of the Member State where the provider is established when such a withdrawal decision is taken. [Art. 27e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27e)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27e
+> Withdrawal of authorisation
+> 1. ESMA, or the national competent authority where relevant, may withdraw the authorisation of a data reporting services provider where the latter:
+> (a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has provided no services for the preceding six months;
+> (b) obtained the authorisation by making false statements or by any other irregular means;
+> (c) no longer meets the conditions under which it was authorised;
+> (d) has seriously and systematically infringed this Regulation.
+> 2. ESMA shall, where relevant, without undue delay, notify the national competent authority in the Member State where the data reporting services provider is established of a decision to withdraw the authorisation of a data reporting services provider.
+
+**INSERTED · Art. 27f — Requirements for the management body of a data reporting services provider** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This article is new, setting out requirements for the management body of a data reporting services provider, covering good repute, knowledge, skills, experience and time commitment, as well as governance oversight duties. [Art. 27f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27f)
+
+It also establishes notification duties to ESMA or the national competent authority regarding management body membership, grounds on which authorisation must be refused, and a mandate for ESMA to develop draft regulatory technical standards by 1 January 2021 on assessing suitability of management body members. [Art. 27f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27f)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27f
+> Requirements for the management body of a data reporting services provider
+> 1. The management body of a data reporting services provider shall at all times be of sufficiently good repute, possess sufficient knowledge, skills and experience and commit sufficient time to perform their duties.
+> The management body shall possess adequate collective knowledge, skills and experience to be able to understand the activities of the data reporting services provider. Each member of the management body shall act with honesty, integrity and independence of mind to effectively challenge the decisions of the senior management where necessary and to effectively oversee and monitor management decision-making where necessary.
+> Where a market operator seeks authorisation to operate an APA, a CTP or an ARM pursuant to Article 27d and the members of the management body of the APA, the CTP or the ARM are the same as the members of the management body of the regulated market, those persons are deemed to comply with the requirements laid down in the first subparagraph.
+> 2. A data reporting services provider shall notify to ESMA, or the national competent authority where relevant, the names of all members of its management body and any changes to its membership, along with all information needed to assess whether the entity complies with paragraph 1.
+> 3. The management body of a data reporting services provider shall define and oversee the implementation of the governance arrangements that ens […truncated by emendrix: 1381 characters omitted…]
+
+**INSERTED · Art. 27g — Organisational requirements for APAs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This entry adds a new Article 27g setting out organisational requirements for APAs, covering obligations to make information public near real time and free of charge after a delay, the minimum data fields to be included, conflict-of-interest and security safeguards, error-checking systems, and mandates for ESMA to draft related regulatory technical standards and for the Commission to adopt delegated acts. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27g)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27g
+> Organisational requirements for APAs
+> 1. An APA shall have adequate policies and arrangements in place to make public the information required under Articles 20 and 21 as close to real time as is technically possible, on a reasonable commercial basis. The information shall be made available free of charge 15 minutes after the APA has published it. The APA shall efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with similar data from other sources.
+> 2. The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:
+> (a) the identifier of the financial instrument;
+> (b) the price at which the transaction was concluded;
+> (c) the volume of the transaction;
+> (d) the time of the transaction;
+> (e) the time the transaction was reported;
+> (f) the price notation of the transaction;
+> (g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;
+> (h) if applicable, an indicator that the transaction was subject to specific conditions.
+> 3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information c […truncated by emendrix: 2091 characters omitted…]
+
+**INSERTED · Art. 27h — Organisational requirements for CTPs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 27h is a newly inserted provision setting out organisational requirements for CTPs, covering how they must collect, consolidate and disseminate published trade information, the specific data fields to be included, conflict-of-interest safeguards, security and resourcing obligations, and mandates for ESMA and the Commission to develop related technical standards and delegated acts. [Art. 27h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27h)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27h
+> Organisational requirements for CTPs
+> 1. A CTP shall have adequate policies and arrangements in place to collect the information made public in accordance with Articles 6 and 20, consolidate it into a continuous electronic data stream, and make the information available to the public as close to real time as is technically possible, on a reasonable commercial basis.
+> That information shall include, at least, the following details:
+> (a) the identifier of the financial instrument;
+> (b) the price at which the transaction was concluded;
+> (c) the volume of the transaction;
+> (d) the time of the transaction;
+> (e) the time the transaction was reported;
+> (f) the price notation of the transaction;
+> (g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;
+> (h) where applicable, the fact that a computer algorithm within the investment firm was responsible for the investment decision and the execution of the transaction;
+> (i) if applicable, an indicator that the transaction was subject to specific conditions;
+> (j) if the obligation to make public the information referred to in Article 3(1) was waived in accordance with point (a) or (b) of Article 4(1), a flag to indicate which of those waivers the transaction was subject to.
+> The information shall be made available free of charge 15 minutes after the CTP has published it. The CTP shall be able to efficiently and consistentl […truncated by emendrix: 4571 characters omitted…]
+
+**INSERTED · Art. 27i — Organisational requirements for ARMs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a newly added article setting out organisational requirements for ARMs, covering timely reporting of information required under Article 26, arrangements to prevent conflicts of interest, security and confidentiality safeguards, and systems for detecting and correcting errors or omissions in transaction reports. [Art. 27i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27i)
+
+It also directs ESMA to develop draft regulatory technical standards on the means of complying with the reporting obligation and on the concrete organisational requirements described in the article, with power delegated to the Commission to adopt those standards. [Art. 27i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27i)
+
+*after* (`02014R0600-20220101`)
+
+> Article 27i
+> Organisational requirements for ARMs
+> 1. An ARM shall have adequate policies and arrangements in place to report the information required under Article 26 as quickly as possible, and no later than the close of the working day following the day upon which the transaction took place.
+> 2. The ARM shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an ARM that is also a market operator or investment firm shall treat all information collected in a non-discriminatory fashion and shall operate and maintain appropriate arrangements to separate different business functions.
+> 3. The ARM shall have sound security mechanisms in place designed to guarantee the security and authentication of the means of transfer of information, minimise the risk of data corruption and unauthorised access and to prevent information leakage, maintaining the confidentiality of the data at all times. The ARM shall maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.
+> 4. The ARM shall have systems in place that can effectively check transaction reports for completeness, identify omissions and obvious errors caused by the investment firm, and where such error or omission occurs, to communicate details of the error or omission to the investment firm and request re-transmission of any such erroneous reports.
+> The ARM shall have systems in place to ena […truncated by emendrix: 697 characters omitted…]
+
+**INSERTED · Art. 38a — Exercise of ESMA’s powers** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new provision stating that the powers given to ESMA, or to any official or other person authorised by ESMA, under Articles 38b to 38e are not to be used to require disclosure of information or documents that are subject to legal privilege. [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38a)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38a
+> Exercise of ESMA’s powers
+> The powers conferred on ESMA or any official of or other person authorised by ESMA by Articles 38b to 38e shall not be used to require the disclosure of information or documents which are subject to legal privilege.
+
+**INSERTED · Art. 38b — Request for information** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This provision is newly inserted and gives ESMA power to require certain persons, including APAs, CTPs, ARMs, investment firms or market operators operating trading venues, and their controllers, managers, auditors and advisors, to supply information needed for ESMA to carry out its duties under this Regulation. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38b)
+
+The text sets out separate content requirements for a simple request versus a request made by decision, and addresses who must supply the information, the role of lawyers acting on clients' behalf, and ESMA's obligation to send a copy of the request or decision to the competent authority of the person's Member State. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38b)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38b
+> Request for information
+> 1. ESMA may by simple request or by decision require the following persons to provide all information to enable ESMA to carry out its duties under this Regulation:
+> (a) an APA, a CTP, an ARM, where they are supervised by ESMA, and an investment firm or a market operator operating a trading venue to operate the data reporting services of an APA, a CTP or an ARM, and the persons that control them or are controlled by them;
+> (b) the managers of the persons referred to in point (a);
+> (c) the auditors and advisors of the persons referred to in point (a);
+> 2. Any simple request for information referred to in paragraph 1 shall:
+> (a) refer to this Article as the legal basis of that request;
+> (b) state the purpose of the request;
+> (c) specify the information required;
+> (d) include a time limit within which the information is to be provided;
+> (e) include a statement that there is no obligation on the person from whom the information is requested to provide that information but that in the event of a voluntary reply to the request, the information provided must not be incorrect or misleading;
+> (f) indicate the amount of the fine to be imposed in accordance with Article 38h where the information provided is incorrect or misleading.
+> 3. When requiring to supply information under paragraph 1 by decision, ESMA shall:
+> (a) refer to this Article as the legal basis of that request;
+> (b) state the purpose of the request;
+> (c) specify the information required;
+> (d) set a tim […truncated by emendrix: 1183 characters omitted…]
+
+**INSERTED · Art. 38c — General investigations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a newly inserted article setting out ESMA's power to conduct general investigations of persons referred to in Article 38b(1), including examining records, taking copies, summoning explanations, interviewing consenting persons, and requesting telephone and data traffic records. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38c)
+
+The text also describes the authorisation and procedural requirements for such investigations, the involvement of competent authorities of Member States, and the role of national judicial authorities in verifying and authorising requests for telephone or data traffic records. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38c)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38c
+> General investigations
+> 1. In order to carry out its duties under this Regulation, ESMA may conduct necessary investigations of persons referred to in Article 38b(1). To that end, the officials and other persons authorised by ESMA shall be empowered to:
+> (a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;
+> (b) take or obtain certified copies of or extracts from such records, data, procedures and other material;
+> (c) summon and ask any person referred to in Article 38b(1) or their representatives or staff for oral or written explanations on facts or documents relating to the subject matter and purpose of the inspection and to record the answers;
+> (d) interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;
+> (e) request records of telephone and data traffic.
+> 2. The officials and other persons authorised by ESMA for the purposes of the investigations referred to in paragraph 1 shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the investigation. That authorisation shall also indicate the periodic penalty payments provided for in Article 38i where the production of the required records, data, procedures or any other material, or the answers to questions asked to persons referred to in Article 38b( […truncated by emendrix: 2413 characters omitted…]
+
+**INSERTED · Art. 38d — On-site inspections** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 38d is a new provision granting ESMA the power to conduct on-site inspections at business premises of persons referred to in Article 38b(1), setting out procedures for notice to competent authorities, authorisation requirements, assistance from national authorities, and judicial review of such inspections. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38d)
+
+The text specifies powers of officials conducting inspections, including entry to premises and sealing of records, the content required in ESMA's inspection decisions, and the role of national judicial authorities in verifying the authenticity and proportionality of such decisions. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38d)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38d
+> On-site inspections
+> 1. In order to carry out its duties under this Regulation, ESMA may conduct all necessary on-site inspections at any business premises of the persons referred to in Article 38b(1).
+> 2. The officials and other persons authorised by ESMA to conduct an on-site inspection may enter any business premises of the persons subject to an investigation decision adopted by ESMA and shall have all the powers stipulated in Article 38b(1). They shall also have the power to seal any business premises and books or records for the period of, and to the extent necessary for, the inspection.
+> 3. In sufficient time before the inspection, ESMA shall give notice of the inspection to the competent authority of the Member State where the inspection is to be conducted. Where the proper conduct and efficiency of the inspection so require, ESMA, after informing the relevant competent authority, may carry out the on-site inspection without prior notice. Inspections in accordance with this Article shall be conducted provided that the relevant competent authority has confirmed that it does not object to those inspections.
+> 4. The officials and other persons authorised by ESMA to conduct an on-site inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the periodic penalty payments provided for in Article 38i where the persons concerned do not submit to the inspection.
+> 5. The persons refer […truncated by emendrix: 2701 characters omitted…]
+
+**INSERTED · Art. 38e — Exchange of information** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 38e is added, titled Exchange of information, stating that ESMA and the competent authorities shall provide each other, without undue delay, with the information needed to carry out their duties under the Regulation. [Art. 38e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38e)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38e
+> Exchange of information
+> ESMA and the competent authorities shall, without undue delay, provide each other with the information required for the purposes of carrying out their duties under this Regulation.
+
+**INSERTED · Art. 38f — Professional secrecy** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new provision, Article 38f, which states that the professional secrecy obligation set out in Article 76 of Directive 2014/65/EU applies to ESMA and to all persons who work or have worked for ESMA or for anyone to whom ESMA has delegated tasks, including auditors and experts under contract to ESMA. [Art. 38f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38f)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38f
+> Professional secrecy
+> The obligation of professional secrecy referred to in Article 76 of Directive 2014/65/EU shall apply to ESMA and all persons who work or who have worked for ESMA or for any other person to whom ESMA has delegated tasks, including auditors and experts contracted by ESMA.
+
+**INSERTED · Art. 38g — Supervisory measures by ESMA** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new article setting out powers for ESMA to act against a person listed in point (a) of Article 38b(1) who has committed an infringement under Title IVa, including requiring the infringement to end, imposing fines or periodic penalty payments, or issuing public notices. [Art. 38g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38g)
+
+It also lists criteria ESMA must weigh when choosing among those actions, and sets out notification and public disclosure requirements, including the content to be included when an action is disclosed. [Art. 38g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38g)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38g
+> Supervisory measures by ESMA
+> 1. Where ESMA finds that a person listed in point (a) of Article 38b(1) has committed one of the infringements of requirements provided for in Title IVa, it shall take one or more of the following actions:
+> (a) adopt a decision requiring the person to bring the infringement to an end;
+> (b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 38h and 38i;
+> (c) issue public notices.
+> 2. When taking the actions referred to in paragraph 1, ESMA shall take into account the nature and seriousness of the infringement, having regard to the following criteria:
+> (a) the duration and frequency of the infringement;
+> (b) whether financial crime has been occasioned, facilitated or otherwise attributable to the infringement;
+> (c) whether the infringement has been committed intentionally or negligently;
+> (d) the degree of responsibility of the person responsible for the infringement;
+> (e) the financial strength of the person responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
+> (f) the impact of the infringement on investors’ interests;
+> (g) the importance of the profits gained, losses avoided by the person responsible for the infringement or the losses for third parties derived from the infringement, insofar as they can be determined;
+> (h) the level of cooperation of the person responsible for the infringement with E […truncated by emendrix: 1179 characters omitted…]
+
+**INSERTED · Art. 38h — Fines** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new article that gives ESMA power to adopt a decision imposing a fine when it finds a person has intentionally or negligently committed an infringement of the requirements set out in Title IVa, following a determination made under Article 38k(5). [Art. 38h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38h)
+
+It sets the maximum fine at EUR 200000, or the equivalent value in national currency for Member States whose currency is not the euro, and requires the fine level to be determined by reference to the criteria listed in Article 38g(2). [Art. 38h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38h)
+
+It also specifies that an infringement is treated as intentional where ESMA finds objective factors showing the person acted deliberately to commit it. [Art. 38h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38h)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38h
+> Fines
+> 1. Where in accordance with Article 38k(5), ESMA finds that any person has, intentionally or negligently, committed one of the infringements of the requirements provided for in Title IVa, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+> An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
+> 2. The maximum amount of the fine referred to in paragraph 1 shall be EUR 200000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency.
+> 3. When determining the level of a fine pursuant to paragraph 1, ESMA shall take into account the criteria set out in Article 38g(2).
+
+**INSERTED · Art. 38i — Periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This article is new, setting out ESMA's power to impose periodic penalty payments to compel a person to end an infringement or to comply with information, investigation, or on-site inspection requirements. [Art. 38i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38i)
+
+It specifies that such payments must be effective and proportionate, charged per day of delay, calculated at 3% of average daily turnover (or 2% of average daily income for natural persons) from a date stated in the decision, and limited to a maximum of six months after notification, after which ESMA is to review the measure. [Art. 38i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38i)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38i
+> Periodic penalty payments
+> 1. ESMA shall, by decision, impose periodic penalty payments in order to compel:
+> (a) a person to put an end to an infringement in accordance with a decision taken pursuant to point (a) of Article 38g(1);
+> (b) a person referred to in Article 38b(1):
+> (i) to supply complete information which has been requested by a decision pursuant to Article 38b;
+> (ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 38c;
+> (iii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 38d.
+> 2. A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+> 3. Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+> 4. A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA’s decision. Following the end of the period, ESMA shall review the measure.
+
+**INSERTED · Art. 38j — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a newly inserted provision covering disclosure, nature, enforcement and allocation of fines and periodic penalty payments imposed under Articles 38h and 38i, with no earlier version to compare it to. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
+
+It sets out that ESMA discloses such fines and penalty payments publicly subject to certain exceptions, states they are administrative in nature and enforceable under the rules of procedure of the Member State where enforcement takes place, and provides that the amounts are allocated to the general budget of the European Union. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38j
+> Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+> 1. ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 38h and 38i unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the CouncilRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
+> 2. Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be of an administrative nature.
+> 3. Where ESMA decides to impose no fines or penalty payments, it shall inform the European Parliament, the Council, the Commission, and the competent authorities of the Member State concerned accordingly and shall set out the reasons for its decision.
+> 4. Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be enforceable.
+> Enforcement shall be governed by the rules of procedure in force in the Member State in the territory of which it is carried out.
+> 5. The amou […truncated by emendrix: 110 characters omitted…]
+
+**INSERTED · Art. 38k — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 38k is a newly inserted provision setting out procedural rules for ESMA's investigation officer, covering the appointment and independence of that officer, the investigation and file-submission process, rights of the defence and access to file, ESMA's decision-making on infringements under Title IVa, the Commission's mandate to adopt delegated acts on fines procedure, and referral of matters for criminal prosecution. [Art. 38k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38k)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38k
+> Procedural rules for taking supervisory measures and imposing fines
+> 1. Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements of the requirements provided for in Title IVa, ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision or the authorisation process of the data reporting services provider concerned and shall perform its functions independently from ESMA.
+> 2. The investigation officer referred to in paragraph 1 shall investigate the alleged infringements, taking into account any comments submitted by the persons who are subject to the investigations, and shall submit a complete file with his or her findings to ESMA.
+> 3. In order to carry out his or her tasks, the investigation officer may exercise the power to request information in accordance with Article 38b and to conduct investigations and on-site inspections in accordance with Articles 38c and 38d.
+> 4. Where carrying out his or her tasks, the investigation officer shall have access to all documents and information gathered by ESMA in its supervisory activities.
+> 5. Upon completion of his or her investigation and before submitting the file with his or her findings to ESMA, the investigation officer shall give the persons subject […truncated by emendrix: 2404 characters omitted…]
+
+**INSERTED · Art. 38l — Hearing of the persons concerned** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 38l is added, setting out procedures for ESMA to hear persons subject to proceedings before taking decisions under Articles 38g, 38h and 38i, including an exception allowing an interim decision where urgent action is needed to prevent significant and imminent damage to the financial system, followed by a hearing opportunity afterward. [Art. 38l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38l)
+
+The new provision also establishes that the rights of defence of persons under investigation are to be fully respected, granting them access to ESMA's file subject to protection of other persons' business secrets, while excluding confidential information and ESMA's internal preparatory documents from that access. [Art. 38l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38l)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38l
+> Hearing of the persons concerned
+> 1. Before taking any decision pursuant to Articles 38g, 38h and 38i, ESMA shall give the persons subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons subject to the proceedings have had an opportunity to comment.
+> The first subparagraph shall not apply if urgent action is needed in order to prevent significant and imminent damage to the financial system. In such a case ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+> 2. The rights of the defence of the persons subject to investigations shall be fully respected in the proceedings. They shall be entitled to have access to ESMA’s file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA’s internal preparatory documents.
+
+**INSERTED · Art. 38m — Review by the Court of Justice** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A new Article 38m is added, giving the Court of Justice unlimited jurisdiction to review decisions in which ESMA has imposed a fine or a periodic penalty payment. [Art. 38m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38m)
+
+The new text also states that the Court of Justice may annul, reduce or increase the fine or periodic penalty payment imposed. [Art. 38m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38m)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38m
+> Review by the Court of Justice
+> The Court of Justice shall have unlimited jurisdiction to review decisions whereby ESMA has imposed a fine or a periodic penalty payment. It may annul, reduce or increase the fine or periodic penalty payment imposed.
+
+**INSERTED · Art. 38n — Authorisation and supervisory fees** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This article is entirely new text, setting out that ESMA is to charge fees to data reporting services providers, that these fees are to cover ESMA's expenditure on authorisation and supervision plus reimbursement of certain competent authority costs, and that the amount charged to an individual provider is to cover the administrative costs relating to that provider and be proportionate to its turnover. [Art. 38n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38n)
+
+It also states that the Commission is to adopt a delegated act by 1 October 2021 specifying the type of fees, the matters for which fees are due, the amount of fees, and how they are to be paid. [Art. 38n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38n)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38n
+> Authorisation and supervisory fees
+> 1. ESMA shall charge fees to the data reporting services providers in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3 of this Article. Those fees shall fully cover ESMA’s necessary expenditure relating to the authorisation and supervision of data reporting services providers and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 38o.
+> 2. The amount of an individual fee charged to a particular data reporting services provider shall cover all administrative costs incurred by ESMA for the authorisation and supervisory activities relating to that provider. It shall be proportionate to the turnover of the data reporting services provider.
+> 3. The Commission shall adopt a delegated act in accordance with Article 50 supplementing this Regulation by 1 October 2021 to specify the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
+
+**INSERTED · Art. 38o — Delegation of tasks by ESMA to competent authorities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a newly inserted article setting out that ESMA may delegate specific supervisory tasks to a Member State's competent authority, including tasks such as requests for information, investigations and on-site inspections, subject to consultation, review, revocation, reimbursement and retained-responsibility provisions. [Art. 38o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38o)
+
+*after* (`02014R0600-20220101`)
+
+> Article 38o
+> Delegation of tasks by ESMA to competent authorities
+> 1. Where necessary for the proper performance of a supervisory task, ESMA may delegate specific supervisory tasks to the competent authority of a Member State in accordance with the guidelines issued by ESMA pursuant to Article 16 of Regulation (EU) No 1095/2010. Such specific supervisory tasks may, in particular, include the power to carry out requests for information in accordance with Article 38b and to conduct investigations and on-site inspections in accordance with Article 38c and Article 38d.
+> 2. Prior to delegation of a task, ESMA shall consult the relevant competent authority about:
+> (a) the scope of the task to be delegated;
+> (b) the timetable for the performance of the task; and
+> (c) the transmission of necessary information by and to ESMA.
+> 3. In accordance with the delegated act adopted pursuant to Article 38n(3), ESMA shall reimburse a competent authority for costs incurred as a result of carrying out delegated tasks.
+> 4. ESMA shall review the decision referred to in paragraph 1 at appropriate intervals. A delegation may be revoked at any time.
+> 5. A delegation of tasks shall not affect the responsibility of ESMA nor limit ESMA’s ability to conduct and oversee the delegated activity.
+
+**MODIFIED · Art. 40 — ESMA temporary intervention powers** · applies from: unchanged
+
+*within* `AR 40 PA 6 ALN 1` · *amended by* `32019R2175`
+
+The review interval for a prohibition or restriction under paragraph 1 changes from at least every three months to at least every six months, and the earlier rule that the measure expires if not renewed after three months is removed. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_40)
+
+A new provision is added allowing ESMA, following at least two consecutive renewals and based on proper analysis assessing the impact on the consumer, to decide on an annual renewal of the prohibition or restriction. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_40)
+
+*before* (`02014R0600-20210626`)
+
+> Article 40
+> ESMA temporary intervention powers
+> 1. In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:
+> (a) the marketing, distribution or sale of certain financial instruments or financial instruments with certain specified features; or
+> (b) a type of financial activity or practice.
+> A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by ESMA.
+> 2. ESMA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:
+> (a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system in the Union;
+> (b) regulatory requirements under Union law that are applicable to the relevant financial instrument or activity do not address the threat;
+> (c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+> Where the conditions set out in the first subparagraph are fulfilled, ESMA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a financial instrument has been marketed, distributed or sold to clients.
+> 3. When taking action under this Article, ESMA shall ensure that the actio […truncated by emendrix: 2299 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 40
+> ESMA temporary intervention powers
+> 1. In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:
+> (a) the marketing, distribution or sale of certain financial instruments or financial instruments with certain specified features; or
+> (b) a type of financial activity or practice.
+> A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by ESMA.
+> 2. ESMA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:
+> (a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system in the Union;
+> (b) regulatory requirements under Union law that are applicable to the relevant financial instrument or activity do not address the threat;
+> (c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+> Where the conditions set out in the first subparagraph are fulfilled, ESMA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a financial instrument has been marketed, distributed or sold to clients.
+> 3. When taking action under this Article, ESMA shall ensure that the actio […truncated by emendrix: 2395 characters omitted…]
+
+**MODIFIED · Art. 41 — EBA temporary intervention powers** · applies from: unchanged
+
+*within* `AR 41 PA 6 ALN 1` · *amended by* `32019R2175`
+
+The minimum review interval for a prohibition or restriction was changed from at least every three months to at least every six months, and the sentence stating that the measure expires if not renewed after three months was removed. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_41)
+
+A new sentence was added allowing EBA, following at least two consecutive renewals and based on proper analysis assessing the impact on the consumer, to decide on an annual renewal of the prohibition or restriction. [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_41)
+
+*before* (`02014R0600-20210626`)
+
+> Article 41
+> EBA temporary intervention powers
+> 1. In accordance with Article 9(5) of Regulation (EU) No 1093/2010, EBA may where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:
+> (a) the marketing, distribution or sale of certain structured deposits or structured deposits with certain specified features; or
+> (b) a type of financial activity or practice.
+> A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by EBA.
+> 2. EBA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:
+> (a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union;
+> (b) regulatory requirements under Union law that are applicable to the relevant structured deposit or activity do not address the threat;
+> (c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+> Where the conditions set out in the first subparagraph are fulfilled, EBA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a structured deposit has been marketed, distributed or sold to clients.
+> 3. When taking action under this Article, EBA shall ensure that the action:
+> (a) does not have a detrimental e […truncated by emendrix: 1980 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 41
+> EBA temporary intervention powers
+> 1. In accordance with Article 9(5) of Regulation (EU) No 1093/2010, EBA may where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:
+> (a) the marketing, distribution or sale of certain structured deposits or structured deposits with certain specified features; or
+> (b) a type of financial activity or practice.
+> A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by EBA.
+> 2. EBA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:
+> (a) the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union;
+> (b) regulatory requirements under Union law that are applicable to the relevant structured deposit or activity do not address the threat;
+> (c) a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+> Where the conditions set out in the first subparagraph are fulfilled, EBA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a structured deposit has been marketed, distributed or sold to clients.
+> 3. When taking action under this Article, EBA shall ensure that the action:
+> (a) does not have a detrimental e […truncated by emendrix: 2075 characters omitted…]
+
+**MODIFIED · Art. 50 — Exercise of the delegation** · applies from: unchanged
+
+*within* `AR 50 PA 2 ALN 1`, `AR 50 PA 3 ALN 1`, `AR 50 PA 5 ALN 1` · *amended by* `32019R2175`
+
+The list of provisions whose delegated-act power is conferred, revocable, and subject to objection has been expanded to add references to Article 2(3), Article 27(4), Article 27g(7), Article 27h(7), Article 38k(10) and Article 38n(3), and to add paragraph (14) to the Article 52 reference, while Article 47(1a) is no longer listed. [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_50)
+
+Paragraph 2 also drops the words 'on the Commission' after 'shall be conferred', while paragraphs 3 and 5 keep the same structure but reflect the same expanded list of cross-referenced provisions. [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_50)
+
+Paragraph 5 additionally adds the word 'by' before 'the Council' in the phrase concerning notification, alongside the same expanded list of cross-referenced articles. [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_50)
+
+*before* (`02014R0600-20210626`)
+
+> Article 50
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 47(1a) and Article 52(10) and (12) shall be conferred on the Commission for an indeterminate period of time from 2 July 2014.
+> 3. The delegation of power referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 47(1a) and Article 52(10) and (12) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42 […truncated by emendrix: 526 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 50
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 1(9), Article 2(2) and (3), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 27(4), Article 27g(7), Article 27h(7), Article 31(4), Article 38k(10), Article 38n(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10), (12) and (14) shall be conferred for an indeterminate period from 2 July 2014.
+> 3. The delegation of power referred to in Article 1(9), Article 2(2) and (3), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 27(4), Article 27g(7), Article 27h(7), Article 31(4), Article 38k(10), Article 38n(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10), (12) and (14) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 1(9), Article […truncated by emendrix: 741 characters omitted…]
+
+**MODIFIED · Art. 52 — Reports and review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 52 PA 14`, `AR 52 PA 15` · *dates* +2018-07-18 +2019-09-03 +2021-09-03 · *amended by* `32019R2175`
+
+The revised Article 52 adds two new paragraphs, 14 and 15, which were absent from the earlier version. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+
+Paragraph 14 sets out reporting duties on the functioning of the consolidated tape under Title IVa, including specific reporting dates for the reports relating to Article 27h(1) and Article 27h(2), assessment criteria for the tape's functioning, and a procedure for the Commission to request that ESMA launch a negotiated public procurement for a commercial entity to operate a consolidated tape if those criteria are not met. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+
+Paragraph 15 empowers the Commission to adopt delegated acts under Article 50 once the procedure in paragraph 14 has been initiated, listing measures covering matters such as contract duration, exclusivity of the appointed entity, ESMA's oversight of tender conditions, data quality and accessibility requirements, cost conditions for trading venues and APAs, and arrangements for existing CTPs during or after the procurement process. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+
+*before* (`02014R0600-20210626`)
+
+> Article 52
+> Reports and review
+> 1. By 3 March 2020, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact in practice of the transparency obligations established pursuant to Articles 3 to 13, in particular on the impact of the volume cap mechanism described in Article 5, including on the cost of trading for eligible counterparties and professional clients and on trading of shares of small and mid-cap companies, and its effectiveness in ensuring that the use of the relevant waivers does not harm price formation and how any appropriate mechanism for imposing sanctions for infringements of the volume cap might operate, and on the application and continued appropriateness of the waivers to pre-trade transparency obligations established pursuant to Article 4(2) and (3) and Article 9(2) to (5).
+> 2. The report referred to in paragraph 1 shall include the impact on European equity markets of the use of the waiver under Article 4(1)(a) and (b)(i) and the volume cap mechanism under Article 5, with particular reference to:
+> (a) the level and trend of non-lit order book trading within the Union since the introduction of this Regulation;
+> (b) the impact on the pre-trade transparent quoted spreads;
+> (c) the impact on the depth of liquidity on lit order books;
+> (d) the impact on competition and on investors within the Union;
+> (e) the impact on trading of shares of small and mid-cap companies;
+> (f) developments at international level […truncated by emendrix: 5381 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 52
+> Reports and review
+> 1. By 3 March 2020, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact in practice of the transparency obligations established pursuant to Articles 3 to 13, in particular on the impact of the volume cap mechanism described in Article 5, including on the cost of trading for eligible counterparties and professional clients and on trading of shares of small and mid-cap companies, and its effectiveness in ensuring that the use of the relevant waivers does not harm price formation and how any appropriate mechanism for imposing sanctions for infringements of the volume cap might operate, and on the application and continued appropriateness of the waivers to pre-trade transparency obligations established pursuant to Article 4(2) and (3) and Article 9(2) to (5).
+> 2. The report referred to in paragraph 1 shall include the impact on European equity markets of the use of the waiver under Article 4(1)(a) and (b)(i) and the volume cap mechanism under Article 5, with particular reference to:
+> (a) the level and trend of non-lit order book trading within the Union since the introduction of this Regulation;
+> (b) the impact on the pre-trade transparent quoted spreads;
+> (c) the impact on the depth of liquidity on lit order books;
+> (d) the impact on competition and on investors within the Union;
+> (e) the impact on trading of shares of small and mid-cap companies;
+> (f) developments at international level […truncated by emendrix: 9354 characters omitted…]
+
+**MODIFIED · Art. 54 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 54 PA 2 ALN 1` · *dates* -2021-02-11 -2021-07-03 +2022-06-22 +2023-07-03 · *amended by* `32022R0858`
+
+The deadline by which a CCP or trading venue may apply to its competent authority for transitional arrangements changed from 11 February 2021 to 22 June 2022. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54)
+
+The end date of the transitional period that a competent authority may grant changed from 3 July 2021 to 3 July 2023. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54)
+
+The wording describing the Commission's determination changed from assessing that there is no need to exclude exchange-traded derivatives to concluding that there is no need, and related phrasing about the competent authority's decision and notification duty was also reworded without changing the substance described. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54)
+
+*before* (`02014R0600-20210626`)
+
+> Article 54
+> Transitional provisions
+> 1. Third‐country firms may continue to provide services and activities in Member States, in accordance with national regimes, until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47. Services and activities not covered by such a decision may continue to be provided in accordance with national regime.
+> 2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transiti […truncated by emendrix: 593 characters omitted…]
+
+*after* (`02014R0600-20220101`)
+
+> Article 54
+> Transitional provisions
+> 1. Third‐country firms may continue to provide services and activities in Member States, in accordance with national regimes, until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47. Services and activities not covered by such a decision may continue to be provided in accordance with national regime.
+> 2. If the Commission concludes that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 22 June 2022, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks to the orderly functioning of the relevant CCP or trading venue resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives, may decide that Article 35 or 36 does not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2023. Where the competent authority decides to approve such a transitional period, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36 as regards exchange-traded derivatives for the duration of the transitional period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent aut […truncated by emendrix: 635 characters omitted…]
+
+**INSERTED · Art. 54a — Transitional measures related to ESMA** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2175`
+
+A new Article 54a is added, setting out transitional measures for transferring supervisory and enforcement competences and duties over data reporting services providers from national competent authorities to ESMA, with exceptions for certain APAs and ARMs subject to derogation. [Art. 54a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54a)
+
+The new provision also addresses the transfer of files, working documents and records, ESMA's role as legal successor in related proceedings, and the continued validity of existing authorisations after the transfer. [Art. 54a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54a)
+
+*after* (`02014R0600-20220101`)
+
+> Article 54a
+> Transitional measures related to ESMA
+> 1. All competences and duties related to the supervisory and enforcement activity in the field of data reporting services providers shall be transferred to ESMA on 1 January 2022, except for competences and duties related to APAs and ARMs subject to derogation referred to in Article 2(3). Those transferred competences and duties shall be taken-up by ESMA on the same date.
+> 2. Any files and working documents related to the supervisory and enforcement activity in the field of data reporting services providers, including any ongoing examinations and enforcement actions, or certified copies thereof, shall be taken over by ESMA on the date referred to in paragraph 1.
+> However, an application for authorisation that has been received by competent authorities before 1 October 2021 shall not be transferred to ESMA, and the decision to register or refuse registration shall be taken by the relevant competent authority.
+> 3. The competent authorities referred to in paragraph 1 shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 January 2022. Those competent authorities shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity in the field of data reporting services providers.
+> 4. ESMA shall act as the legal successor to the competent a […truncated by emendrix: 449 characters omitted…]
+
+**INSERTED · Art. 54b — Relations with auditors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2175`
+
+A new Article 54b establishes a duty for persons authorised under Directive 2006/43/EC, when performing statutory audit-related tasks at a data reporting services provider, to promptly report to ESMA facts or decisions that could constitute a material infringement, affect the provider's continuous functioning, or lead to refusal to certify accounts or to reservations, and extends that duty to facts discovered at undertakings with close links to the provider. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
+
+The new article also states that good-faith disclosure of such facts or decisions to the competent authorities by such persons does not breach contractual or legal restrictions on disclosure and does not expose them to liability. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
+
+*after* (`02014R0600-20220101`)
+
+> Article 54b
+> Relations with auditors
+> 1. Any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the CouncilDirective 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87)., performing in a data reporting services provider the task described in Article 34 of Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:
+> (a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of data reporting services provider;
+> (b) affect the continuous functio […truncated by emendrix: 783 characters omitted…]
+
+**INSERTED · TIS IVa** · applies from: unknown
+
+*amended by* `32019R2175`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · TIS VIa** · applies from: unknown
+
+*amended by* `32019R2175`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20220101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20210626 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20200704` → `02014R0600-20210626`
