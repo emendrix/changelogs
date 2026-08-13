@@ -10,6 +10,1682 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190101 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20180101` → `02013R0575-20190101`
+
+- **Act** `eu:32013R0575` · **In force** 2019-01-01 · **Detected** 2026-08-13
+- **Touched** 50 provisions — 50 substantive · 0 date-only · **38 disputed**
+- **Diff** 7 inserted · 43 modified · 0 deleted · 0 renumbered · 0 deferred · 487 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20180101` · `v2` = `02013R0575-20190101`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 PA 1 ALN 1 PO 13`, `AR 4 PA 1 ALN 1 PO 13 PTA (a)`, `AR 4 PA 1 ALN 1 PO 13 PTA (b)`, `AR 4 PA 1 ALN 1 PO 14`, `AR 4 PA 1 ALN 1 PO 14a`, `AR 4 PA 1 ALN 1 PO 61`, `AR 4 PA 1 ALN 1 PO 61 PTA (a)`, `AR 4 PA 1 ALN 1 PO 61 PTA (b)`, `AR 4 PA 1 ALN 1 PO 62`, `AR 4 PA 1 ALN 1 PO 63`, `AR 4 PA 1 ALN 1 PO 66`, `AR 4 PA 1 ALN 1 PO 67`, `AR 4 PA 1 ALN 1 PO 128`, `AR 4 PA 1 ALN 1 PO 129` · *dates* +2017-12-12 · *amended by* `32017R2401`
+
+The definitions of originator and sponsor, previously self-contained, now point to the corresponding definitions in point (3) and point (5) of Article 2 of Regulation (EU) 2017/2402, and a new definition of original lender referencing point (20) of the same Article 2 has been inserted as point (14a). [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
+
+The definitions of securitisation, securitisation position, re-securitisation, securitisation special purpose entity or SSPE, and tranche were replaced with cross-references to points (1), (19), (4), (2) and (6) respectively of Article 2 of Regulation (EU) 2017/2402, whereas the earlier version set out each of these definitions directly in its own words including sub-points (a) and (b) under originator and securitisation. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
+
+A new point (129) defining servicer by reference to point (13) of Article 2 of Regulation (EU) 2017/2402 was added at the end of the list of definitions in paragraph 1. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
+
+*before* (`02013R0575-20180101`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (2) investment firm means a person as defined in point (1) of Article 4(1) of Directive 2004/39/EC, which is subject to the requirements imposed by that Directive, excluding the following:
+> (a) credit institutions;
+> (b) local firms;
+> (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
+> (3) institution means a credit institution or an investment firm;
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35981 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (2) investment firm means a person as defined in point (1) of Article 4(1) of Directive 2004/39/EC, which is subject to the requirements imposed by that Directive, excluding the following:
+> (a) credit institutions;
+> (b) local firms;
+> (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
+> (3) institution means a credit institution or an investment firm;
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35179 characters omitted…]
+
+**MODIFIED · Art. 36 — Deductions from Common Equity Tier 1 items** · applies from: unchanged
+
+*within* `AR 36 PA 1 ALN 1 PTA (k) PTI (ii)` · *amended by* `32017R2401`
+
+The cross-references in point (k)(ii) for securitisation positions were changed from Article 243(1)(b), Article 244(1)(b) and Article 258 to point (b) of Article 244(1), point (b) of Article 245(1) and Article 253. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_36)
+
+*before* (`02013R0575-20180101`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2858 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2878 characters omitted…]
+
+**MODIFIED · Art. 109 — Treatment of securitisation positions** · applies from: unchanged
+
+*within* `AR 109`, `AR 109 ALN 1`, `AR 109 PA 1`, `AR 109 PA 2` · *amended by* `32017R2401`
+
+The heading changed from referring to securitised exposures under the Standardised Approach and the IRB Approach to referring simply to securitisation positions. [Art. 109, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_109) [Art. 109, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_109)
+
+The detailed provisions in paragraphs 1 and 2, which set out separate calculation rules referencing the Standardised Approach, the IRB Approach, and specific Articles including 245, 246, 251 to 258, 259 to 266 and the Internal Assessment Approach, have been replaced by a single sentence directing institutions to calculate the risk-weighted exposure amount for a securitisation position in accordance with Chapter 5. [Art. 109, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_109) [Art. 109, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_109)
+
+*before* (`02013R0575-20180101`)
+
+> Article 109
+> Treatment of securitised exposures under the Standardised Approach and the IRB Approach
+> 1. Where an institution uses the Standardised Approach under Chapter 2 for the calculation of risk-weighted exposure amounts for the exposure class to which the securitised exposures would be assigned under Article 112, it shall calculate the risk-weighted exposure amount for a securitisation position in accordance with Articles 245, 246 and 251 to 258. Institutions using the Standardised Approach may also use the Internal Assessment Approach where this has been permitted under Article 259(3).
+> 2. Where an institution uses the IRB Approach under Chapter 3 for the calculation of risk-weighted exposures amounts for the exposure class to which the securitised exposure would be assigned under Article 147 it shall calculate the risk-weighted exposure amount in accordance with Articles 245, 246 and 259 to 266.
+> Except for the Internal Assessment Approach, where the IRB Approach is used only for a part of the securitised exposures underlying a securitisation, the institution shall use the approach corresponding to the predominant share of securitised exposures underlying this securitisation.
+
+*after* (`02013R0575-20190101`)
+
+> Article 109
+> Treatment of securitisation positions
+> Institutions shall calculate the risk-weighted exposure amount for a position they hold in a securitisation in accordance with Chapter 5.
+
+**MODIFIED · Art. 134 — Other items** · applies from: unchanged
+
+*within* `AR 134 PA 6 ALN 1` · *amended by* `32017R2401`
+
+Paragraph 6 removes the reference to obtaining an external credit assessment from an ECAI and the associated instruction to apply the risk weights prescribed in Chapter 5 when such a rating exists. [Art. 134, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_134)
+
+The remaining wording now states that the risk weights of exposures in the basket are aggregated (excluding n-1 exposures, up to a maximum of 1250%) and multiplied by the nominal amount of protection to obtain the risk-weighted exposure amount, without conditioning this on the absence of an ECAI rating as before. [Art. 134, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_134) [Art. 134, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_134)
+
+*before* (`02013R0575-20180101`)
+
+> Article 134
+> Other items
+> 1. Tangible assets within the meaning of item 10 under the heading 'Assets' in Article 4 of Directive 86/635/EEC shall be assigned a risk weight of 100 %.
+> 2. Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with Directive 86/635/EEC, shall be assigned a risk weight of 100 %.
+> 3. Cash items in the process of collection shall be assigned a 20 % risk weight. Cash in hand and equivalent cash items shall be assigned a 0 % risk weight.
+> 4. Gold bullion held in own vaults or on an allocated basis to the extent backed by bullion liabilities shall be assigned a 0 % risk weight.
+> 5. In the case of asset sale and repurchase agreements and outright forward purchases, the risk weight shall be that assigned to the assets in question and not to the counterparties to the transactions.
+> 6. Where an institution provides credit protection for a number of exposures under terms that the nth default among the exposures shall trigger payment and that this credit event shall terminate the contract, and where the product has an external credit assessment from an ECAI, the risk weights prescribed in Chapter 5 shall be assigned. If the product is not rated by an ECAI, the risk weights of the exposures included in the basket will be aggregated, excluding n-1 exposures, up to a maximum of 1250 % and multiplied by the nominal amount of the protection provided by the credit derivative to obtain the risk weighted asset amount. […truncated by emendrix: 1312 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 134
+> Other items
+> 1. Tangible assets within the meaning of item 10 under the heading 'Assets' in Article 4 of Directive 86/635/EEC shall be assigned a risk weight of 100 %.
+> 2. Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with Directive 86/635/EEC, shall be assigned a risk weight of 100 %.
+> 3. Cash items in the process of collection shall be assigned a 20 % risk weight. Cash in hand and equivalent cash items shall be assigned a 0 % risk weight.
+> 4. Gold bullion held in own vaults or on an allocated basis to the extent backed by bullion liabilities shall be assigned a 0 % risk weight.
+> 5. In the case of asset sale and repurchase agreements and outright forward purchases, the risk weight shall be that assigned to the assets in question and not to the counterparties to the transactions.
+> 6. Where an institution provides credit protection for a number of exposures subject to the condition that the nth default among the exposures shall trigger payment and that this credit event shall terminate the contract, the risk weights of the exposures included in the basket will be aggregated, excluding n-1 exposures, up to a maximum of 1250 % and multiplied by the nominal amount of the protection provided by the credit derivative to obtain the risk-weighted exposure amount. The n-1 exposures to be excluded from the aggregation shall be determined on the basis that they shall include those exposures each of which produces a lo […truncated by emendrix: 1158 characters omitted…]
+
+**MODIFIED · Art. 142 — Definitions** · applies from: unchanged
+
+*within* `AR 142 PA 1 ALN 1 PO 7` · *amended by* `32017R2401`
+
+In point (7) of Article 142(1), the punctuation mark ending the definition of facility grade was changed from a semicolon to a full stop. [Art. 142, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_142) [Art. 142, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_142)
+
+*before* (`02013R0575-20180101`)
+
+> Article 142
+> Definitions
+> 1. For the purposes of this Chapter, the following definitions shall apply:
+> (1) rating system means all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of exposures to rating grades or pools, and the quantification of default and loss estimates that have been developed for a certain type of exposures;
+> (2) type of exposures means a group of homogeneously managed exposures which are formed by a certain type of facilities and which may be limited to a single entity or a single sub-set of entities within a group provided that the same type of exposures is managed differently in other entities of the group;
+> (3) business unit means any separate organisational or legal entities, business lines, geographical locations;
+> (4) large financial sector entity means any financial sector entity which meets the following conditions:
+> (a) its total assets, calculated on an individual or consolidated basis, are greater than or equal to a EUR 70 billion threshold, using the most recent audited financial statement or consolidated financial statement in order to determine asset size; and
+> (b) it is, or one of its subsidiaries is, subject to prudential regulation in the Union or to the laws of a third country which applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union;
+> (5) unregulated financial sector entity means an entity that is not a regulate […truncated by emendrix: 1398 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 142
+> Definitions
+> 1. For the purposes of this Chapter, the following definitions shall apply:
+> (1) rating system means all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of exposures to rating grades or pools, and the quantification of default and loss estimates that have been developed for a certain type of exposures;
+> (2) type of exposures means a group of homogeneously managed exposures which are formed by a certain type of facilities and which may be limited to a single entity or a single sub-set of entities within a group provided that the same type of exposures is managed differently in other entities of the group;
+> (3) business unit means any separate organisational or legal entities, business lines, geographical locations;
+> (4) large financial sector entity means any financial sector entity which meets the following conditions:
+> (a) its total assets, calculated on an individual or consolidated basis, are greater than or equal to a EUR 70 billion threshold, using the most recent audited financial statement or consolidated financial statement in order to determine asset size; and
+> (b) it is, or one of its subsidiaries is, subject to prudential regulation in the Union or to the laws of a third country which applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union;
+> (5) unregulated financial sector entity means an entity that is not a regulate […truncated by emendrix: 1398 characters omitted…]
+
+**MODIFIED · Art. 153 — Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks** · applies from: unchanged
+
+*within* `AR 153 PA 7 ALN 1`, `AR 153 PA 8 ALN 1` · *amended by* `32017R2401`
+
+Paragraph 7 now describes purchased corporate receivables' refundable purchase price discounts, collaterals or partial guarantees as first loss protection treated by the purchaser or beneficiary in accordance with Subsections 2 and 3 of Section 3 of Chapter 5, and adds a sentence requiring the seller providing the discount and the provider of the collateral or guarantee to treat those items as an exposure to a first loss position under the same Subsections, replacing the earlier reference to treatment as first-loss positions under the IRB securitisation framework. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_153)
+
+Paragraph 8 removes the earlier text distinguishing treatment depending on whether the product has an external credit assessment from an ECAI, so that the aggregation-based risk weighting of exposures in the basket, excluding n-1 exposures, now applies without reference to Chapter 5 risk weights for ECAI-rated products. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_153) [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_153)
+
+*before* (`02013R0575-20180101`)
+
+> Article 153
+> Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks
+> 1. Subject to the application of the specific treatments laid down in paragraphs 2, 3 and 4, the risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as
+> (i) if PD = 0, RW shall be 0;
+> (ii) if PD = 1, i.e., for defaulted exposures:
+> where institutions apply the LGD values set out in Article 161(1), RW shall be 0;
+> where institutions use own estimates of LGDs, RW shall be RWmax 0;12.5LGD  ELBE;
+> where the expected loss best estimate (hereinafter referred to as ELBE) shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (iii) if 0 < PD < 1
+> RWLGD  N11  R  GPDR1  R  G0.999 LGD  PD  1 M  2,5  b1  1,5  b  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z)
+> R
+> denotes the coefficient of correlation, is defined asR0.12  1  e 50  PD1  e 500.24  1  1  e 50  PD1  e 50
+> b
+> the maturity adjustment factor, whi […truncated by emendrix: 5058 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 153
+> Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks
+> 1. Subject to the application of the specific treatments laid down in paragraphs 2, 3 and 4, the risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as
+> (i) if PD = 0, RW shall be 0;
+> (ii) if PD = 1, i.e., for defaulted exposures:
+> where institutions apply the LGD values set out in Article 161(1), RW shall be 0;
+> where institutions use own estimates of LGDs, RW shall be RWmax 0;12.5LGD  ELBE;
+> where the expected loss best estimate (hereinafter referred to as ELBE) shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (iii) if 0 < PD < 1
+> RWLGD  N11  R  GPDR1  R  G0.999 LGD  PD  1 M  2,5  b1  1,5  b  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z)
+> R
+> denotes the coefficient of correlation, is defined asR0.12  1  e 50  PD1  e 500.24  1  1  e 50  PD1  e 50
+> b
+> the maturity adjustment factor, whi […truncated by emendrix: 5294 characters omitted…]
+
+**MODIFIED · Art. 154 — Risk-weighted exposure amounts for retail exposures** · applies from: unchanged
+
+*within* `AR 154 PA 6 ALN 1` · *amended by* `32017R2401`
+
+Paragraph 6 was rewritten to describe refundable purchase price discounts, collaterals or partial guarantees on purchased retail receivables as being treated as first loss protection by the purchaser of the receivables or by the beneficiary of the collateral or partial guarantee, in accordance with Subsections 2 and 3 of Section 3 of Chapter 5, replacing the earlier wording that simply allowed such items to be treated as first-loss positions under the IRB securitisation framework. [Art. 154, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_154) [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_154)
+
+The revised paragraph 6 also adds a sentence stating that the seller providing the refundable purchase price discount and the provider of a collateral or partial guarantee shall treat those as an exposure to a first loss position in accordance with the same Subsections 2 and 3 of Section 3 of Chapter 5, a statement not present in the earlier text. [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_154)
+
+*before* (`02013R0575-20180101`)
+
+> Article 154
+> Risk-weighted exposure amounts for retail exposures
+> 1. The risk-weighted exposure amounts for retail exposures shall be calculated in accordance with the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as follows:
+> (i) if PD = 1, i.e., for defaulted exposures, RW shall be
+> RWmax 0;12.5 LGD  ELBE;
+> where ELBE shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (ii) if 0 < PD < 1, i.e., for any possible value for PD other than under (i)
+> RWLGD  N11  R  GPDR1  R  G0.999  LGD  PD  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z);
+> R
+> the coefficient of correlation defined asR0.03  1  e 35  PD1  e 350.16  1  1  e 35  PD1  e 35
+> 2. The risk-weighted exposure amount for each exposure to an SME as referred to in Article 147(5) which meets the requirements set out in Articles 202 and 217 may be calculated in accordance with Article 153(3).
+> 3. For retail exposures secured by immovable property collateral a coefficient of correlation R of 0,15 shall replace the figure produced by the correlation formula in paragraph 1.
+> 4. For qualifying revolving retail exposures in […truncated by emendrix: 3306 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 154
+> Risk-weighted exposure amounts for retail exposures
+> 1. The risk-weighted exposure amounts for retail exposures shall be calculated in accordance with the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as follows:
+> (i) if PD = 1, i.e., for defaulted exposures, RW shall be
+> RWmax 0;12.5 LGD  ELBE;
+> where ELBE shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (ii) if 0 < PD < 1, i.e., for any possible value for PD other than under (i)
+> RWLGD  N11  R  GPDR1  R  G0.999  LGD  PD  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z);
+> R
+> the coefficient of correlation defined asR0.03  1  e 35  PD1  e 350.16  1  1  e 35  PD1  e 35
+> 2. The risk-weighted exposure amount for each exposure to an SME as referred to in Article 147(5) which meets the requirements set out in Articles 202 and 217 may be calculated in accordance with Article 153(3).
+> 3. For retail exposures secured by immovable property collateral a coefficient of correlation R of 0,15 shall replace the figure produced by the correlation formula in paragraph 1.
+> 4. For qualifying revolving retail exposures in […truncated by emendrix: 3693 characters omitted…]
+
+**MODIFIED · Art. 197 — Eligibility of collateral under all approaches and methods** · applies from: unchanged
+
+*within* `AR 197 PA 1 ALN 1 PTA (h)` · *amended by* `32017R2401`
+
+Point (h) of paragraph 1 no longer defines eligible securitisation positions by reference to an external credit assessment by an ECAI corresponding to credit quality step 3 or above under the securitisation risk-weighting approach in Chapter 5, Section 3, Sub-section 3. [Art. 197, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_197) [Art. 197, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_197)
+
+Instead, the point now describes eligible securitisation positions as those that are not resecuritisation positions and that are subject to a 100% risk weight or lower in accordance with Articles 261 to 264. [Art. 197, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_197)
+
+*before* (`02013R0575-20180101`)
+
+> Article 197
+> Eligibility of collateral under all approaches and methods
+> 1. Institutions may use the following items as eligible collateral under all approaches and methods:
+> (a) cash on deposit with, or cash assimilated instruments held by, the lending institution;
+> (b) debt securities issued by central governments or central banks, which securities have a credit assessment by an ECAI or export credit agency recognised as eligible for the purposes of Chapter 2 which has been determined by EBA to be associated with credit quality step 4 or above under the rules for the risk weighting of exposures to central governments and central banks under Chapter 2;
+> (c) debt securities issued by institutions, which securities have a credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to institutions under Chapter 2;
+> (d) debt securities issued by other entities which securities have a credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to corporates under Chapter 2;
+> (e) debt securities with a short-term credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of short term exposures under Chapter 2;
+> (f) equities or convertible bonds that are included in a main index;
+> (g) g […truncated by emendrix: 5530 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 197
+> Eligibility of collateral under all approaches and methods
+> 1. Institutions may use the following items as eligible collateral under all approaches and methods:
+> (a) cash on deposit with, or cash assimilated instruments held by, the lending institution;
+> (b) debt securities issued by central governments or central banks, which securities have a credit assessment by an ECAI or export credit agency recognised as eligible for the purposes of Chapter 2 which has been determined by EBA to be associated with credit quality step 4 or above under the rules for the risk weighting of exposures to central governments and central banks under Chapter 2;
+> (c) debt securities issued by institutions, which securities have a credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to institutions under Chapter 2;
+> (d) debt securities issued by other entities which securities have a credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to corporates under Chapter 2;
+> (e) debt securities with a short-term credit assessment by an ECAI which has been determined by EBA to be associated with credit quality step 3 or above under the rules for the risk weighting of short term exposures under Chapter 2;
+> (f) equities or convertible bonds that are included in a main index;
+> (g) g […truncated by emendrix: 5355 characters omitted…]
+
+**MODIFIED · Art. 242 — Definitions** · applies from: unchanged
+
+*within* `AR 242 ALN 1`, `AR 242 ALN 1 PO 1`, `AR 242 ALN 1 PO 2`, `AR 242 ALN 1 PO 3`, `AR 242 ALN 1 PO 4`, `AR 242 ALN 1 PO 5`, `AR 242 ALN 1 PO 6`, `AR 242 ALN 1 PO 7`, `AR 242 ALN 1 PO 8`, `AR 242 ALN 1 PO 9`, `AR 242 ALN 1 PO 10`, `AR 242 ALN 1 PO 11`, `AR 242 ALN 1 PO 12`, `AR 242 ALN 1 PO 13`, `AR 242 ALN 1 PO 14`, `AR 242 ALN 1 PO 15`, `AR 242 ALN 1 PO 16`, `AR 242 ALN 1 PO 17`, `AR 242 ALN 1 PO 18`, `AR 242 ALN 1 PO 19`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The definitions list has been substantially rewritten: the earlier version's standalone definitions of excess spread, KIRB, ratings based method, supervisory formula method, revolving securitisation and second-loss reference in the first-loss tranche definition are removed, while several remaining terms such as liquidity facility, asset-backed commercial paper programme, traditional securitisation, synthetic securitisation, revolving exposure, early amortisation provision and first loss tranche are redefined by cross-reference to specific points of Article 2 of Regulation (EU) 2017/2402. [Art. 242, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_242) [Art. 242, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_242)
+
+New defined terms not present before are added, including credit-enhancing interest-only strip, senior securitisation position, IRB pool, mixed pool, overcollateralisation, simple transparent and standardised securitisation, asset-backed commercial paper transaction, mezzanine securitisation position and promotional entity. [Art. 242, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_242)
+
+The clean-up call option definition is reworded to describe distinct repurchase and credit-protection-termination mechanics for traditional and synthetic securitisations respectively, replacing the single repurchase-or-extinguish formulation used previously. [Art. 242, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_242) [Art. 242, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_242)
+
+*before* (`02013R0575-20180101`)
+
+> Article 242
+> Definitions
+> For the purposes of this Chapter, the following definitions shall apply:
+> (1) excess spread means finance charge collections and other fee income received in respect of the securitised exposures net of costs and expenses;
+> (2) clean-up call option means a contractual option for the originator to repurchase or extinguish the securitisation positions before all of the underlying exposures have been repaid, when the amount of outstanding exposures falls below a specified level;
+> (3) liquidity facility means the securitisation position arising from a contractual agreement to provide funding to ensure timeliness of cash flows to investors;
+> (4) KIRB means 8 % of the risk-weighted exposure amounts that would be calculated under Chapter 3 in respect of the securitised exposures, had they not been securitised, plus the amount of expected losses associated with those exposures calculated under that Chapter;
+> (5) ratings based method means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Article 261;
+> (6) supervisory formula method means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Article 262;
+> (7) unrated position means a securitisation position which does not have an eligible credit assessment by an ECAI as referred to in Section 4;
+> (8) rated position means a securitisation position which has an eligible credit assessment by an ECAI as referred to in S […truncated by emendrix: 1785 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 242
+> Definitions
+> For the purposes of this Chapter, the following definitions apply:
+> (1) clean-up call option means a contractual option that entitles the originator to call the securitisation positions before all of the securitised exposures have been repaid, either by repurchasing the underlying exposures remaining in the pool in the case of traditional securitisations or by terminating the credit protection in the case of synthetic securitisations, in both cases when the amount of outstanding underlying exposures falls to or below certain pre-specified level;
+> (2) credit-enhancing interest-only strip means an on-balance sheet asset that represents a valuation of cash flows related to future margin income and is a subordinated tranche in the securitisation;
+> (3) liquidity facility means a liquidity facility as defined in point (14) of Article 2 of Regulation (EU) 2017/2402;
+> (4) unrated position means a securitisation position which does not have an eligible credit assessment in accordance with Section 4;
+> (5) rated position means a securitisation position which has an eligible credit assessment in accordance with Section 4;
+> (6) senior securitisation position means a position backed or secured by a first claim on the whole of the underlying exposures, disregarding for these purposes amounts due under interest rate or currency derivative contracts, fees or other similar payments, and irrespective of any difference in maturity with one or more other senior tranches with whi […truncated by emendrix: 2987 characters omitted…]
+
+**MODIFIED · Art. 243 — Criteria for STS securitisations qualifying for differentiated capital treatment** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 243`, `AR 243 PA 1 ALN 1`, `AR 243 PA 1 ALN 1 PTA (a)`, `AR 243 PA 1 ALN 1 PTA (b)`, `AR 243 PA 1 ALN 2`, `AR 243 PA 1 ALN 3`, `AR 243 PA 1 ALN 4`, `AR 243 PA 2 ALN 1`, `AR 243 PA 2 ALN 1 PTA (a)`, `AR 243 PA 2 ALN 1 PTA (b)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (iii)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (iv)`, `AR 243 PA 2 ALN 1 PTA (c)`, `AR 243 PA 2 ALN 1 PTA (d)`, `AR 243 PA 2 ALN 2`, `AR 243 PA 3`, `AR 243 PA 4`, `AR 243 PA 5`, `AR 243 PA 6` · *dates* -2017-12-31
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and substance changed entirely: the earlier version set out rules for traditional securitisation, covering significant risk transfer, mezzanine positions, competent authority permissions, documentation conditions and clean-up call options, while the later version instead sets out criteria for ABCP and non-ABCP STS securitisation positions to qualify for the treatment in Articles 260, 262 and 264. [Art. 243, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_243) [Art. 243, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_243)
+
+The earlier text's provisions on originator conditions, EBA guideline reporting and the 31 December 2017 advice deadline no longer appear, replaced by new obligor concentration limits, risk-weight thresholds for underlying exposures, and rules on trade receivables and residual leasing values. [Art. 243, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_243) [Art. 243, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_243)
+
+*before* (`02013R0575-20180101`)
+
+> Article 243
+> Traditional securitisation
+> 1. The originator institution of a traditional securitisation may exclude securitised exposures from the calculation of risk-weighted exposure amounts and expected loss amounts if either of the following conditions is fulfilled:
+> (a) significant credit risk associated with the securitised exposures is considered to have been transferred to third parties;
+> (b) the originator institution applies a 1250 % risk weight to all securitisation positions it holds in this securitisation or deducts these securitisation positions from Common Equity Tier 1 items in accordance with Article 36(1)(k).
+> 2. Significant credit risk shall be considered to have been transferred in the following cases:
+> (a) the risk-weighted exposure amounts of the mezzanine securitisation positions held by the originator institution in this securitisation do not exceed 50 % of the risk-weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+> (b) where there are no mezzanine securitisation positions in a given securitisation and the originator can demonstrate that the exposure value of the securitisation positions that would be subject to deduction from Common Equity Tier 1 or a 1250 % risk weight exceeds a reasoned estimate of the expected loss on the securitised exposures by a substantial margin, the originator institution does not hold more than 20 % of the exposure values of the securitisation positions that would be subject to dedu […truncated by emendrix: 4896 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 243
+> Criteria for STS securitisations qualifying for differentiated capital treatment
+> 1. Positions in an ABCP programme or ABCP transaction that qualify as positions in an STS securitisation shall be eligible for the treatment set out in Articles 260, 262 and 264 where the following requirements are met:
+> (a) the underlying exposures meet, at the time of their inclusion in the ABCP programme, to the best knowledge of the originator or the original lender, the conditions for being assigned, under the Standardised Approach and taking into account any eligible credit risk mitigation, a risk weight equal to or smaller than 75 % on an individual exposure basis where the exposure is a retail exposure or 100 % for any other exposures; and
+> (b) the aggregate exposure value of all exposures to a single obligor at ABCP programme level does not exceed 2 % of the aggregate exposure value of all exposures within the ABCP programme at the time the exposures were added to the ABCP programme. For the purposes of this calculation, loans or leases to a group of connected clients, to the best knowledge of the sponsor, shall be considered as exposures to a single obligor.
+> In the case of trade receivables, point (b) of the first subparagraph shall not apply where the credit risk of those trade receivables is fully covered by eligible credit protection in accordance with Chapter 4, provided that in that case the protection provider is an institution, an insurance undertaking or a reinsurance […truncated by emendrix: 3245 characters omitted…]
+
+**MODIFIED · Art. 244 — Traditional securitisation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 244`, `AR 244 PA 1 ALN 1`, `AR 244 PA 1 ALN 1 PTA (a)`, `AR 244 PA 1 ALN 1 PTA (b)`, `AR 244 PA 2 ALN 1`, `AR 244 PA 2 ALN 1 PTA (a)`, `AR 244 PA 2 ALN 1 PTA (b)`, `AR 244 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 244 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 244 PA 2 ALN 2`, `AR 244 PA 3 ALN 1`, `AR 244 PA 3 ALN 1 PTA (a)`, `AR 244 PA 3 ALN 1 PTA (b)`, `AR 244 PA 4 ALN 1`, `AR 244 PA 4 ALN 1 PTA (a)`, `AR 244 PA 4 ALN 1 PTA (b)`, `AR 244 PA 4 ALN 1 PTA (c)`, `AR 244 PA 4 ALN 1 PTA (d)`, `AR 244 PA 4 ALN 1 PTA (e)`, `AR 244 PA 4 ALN 1 PTA (f)`, `AR 244 PA 4 ALN 1 PTA (g)`, `AR 244 PA 4 ALN 1 PTA (h)`, `AR 244 PA 4 ALN 2`, `AR 244 PA 5 ALN 1`, `AR 244 PA 5 ALN 1 PTA (a)`, `AR 244 PA 5 ALN 1 PTA (b)`, `AR 244 PA 5 ALN 1 PTA (c)`, `AR 244 PA 5 ALN 1 PTA (d)`, `AR 244 PA 5 ALN 1 PTA (e)`, `AR 244 PA 5 ALN 1 PTA (f)`, `AR 244 PA 6 ALN 1`, `AR 244 PA 6 ALN 1 PTA (a)`, `AR 244 PA 6 ALN 1 PTA (b)`, `AR 244 PA 6 ALN 1 PTA (c)`, `AR 244 PA 6 ALN 2` · *dates* -2017-12-31 +2021-01-02
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and subject matter change from synthetic securitisation to traditional securitisation, with the operative rule now expressed as excluding underlying exposures from risk-weighted exposure calculations rather than calculating them under Article 249. [Art. 244, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_244) [Art. 244, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_244)
+
+The conditions for significant credit risk transfer are restructured, replacing the prior deduction-based test in paragraph 2(b) with a first-loss-tranche test split into two sub-conditions, and paragraph 4's list of transfer conditions is expanded and reworded to address control retention, payment obligations, and a legal opinion tied to Article 20(1) of Regulation (EU) 2017/2402. [Art. 244, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_244) [Art. 244, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_244)
+
+The closing paragraphs replace the EBA guideline-issuance and Member State review process with an EBA reporting obligation covering specified review items, and the date by which the EBA must report to the Commission changes from 31 December 2017 to 2 January 2021. [Art. 244, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_244) [Art. 244, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_244)
+
+*before* (`02013R0575-20180101`)
+
+> Article 244
+> Synthetic securitisation
+> 1. An originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, for the securitised exposures in accordance with Article 249, if either of the following is met:
+> (a) significant credit risk is considered to have been transferred to third parties either through funded or unfunded credit protection;
+> (b) the originator institution applies a 1250 % risk weight to all securitisation positions it holds in this securitisation or deducts these securitisation positions from Common Equity Tier 1 items in accordance with Article 36(1)(k).
+> 2. Significant credit risk shall be considered to have been transferred if either of the following conditions is met:
+> (a) the risk-weighted exposure amounts of the mezzanine securitisation positions which are held by the originator institution in this securitisation do not exceed 50 % of the risk-weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+> (b) where there are no mezzanine securitisation positions in a given securitisation and the originator can demonstrate that the exposure value of the securitisation positions that would be subject to deduction from Common Equity Tier 1 or a 1250 % risk weight exceeds a reasoned estimate of the expected loss on the securitised exposures by a substantial margin, the originator institution does not hold more than 20 % of the exposure values of the […truncated by emendrix: 4395 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 244
+> Traditional securitisation
+> 1. The originator institution of a traditional securitisation may exclude underlying exposures from its calculation of risk-weighted exposure amounts and, where relevant, expected loss amounts if either of the following conditions is fulfilled:
+> (a) significant credit risk associated with the underlying exposures has been transferred to third parties;
+> (b) the originator institution applies a 1250 % risk weight to all securitisation positions it holds in the securitisation or deducts these securitisation positions from Common Equity Tier 1 items in accordance with point (k) of Article 36(1).
+> 2. Significant credit risk shall be considered as transferred in either of the following cases:
+> (a) the risk-weighted exposure amounts of the mezzanine securitisation positions held by the originator institution in the securitisation do not exceed 50 % of the risk-weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+> (b) the originator institution does not hold more than 20 % of the exposure value of the first loss tranche in the securitisation, provided that both of the following conditions are met:
+> (i) the originator can demonstrate that the exposure value of the first loss tranche exceeds a reasoned estimate of the expected loss on the underlying exposures by a substantial margin;
+> (ii) there are no mezzanine securitisation positions.
+> Where the possible reduction in risk-weighted exposure amounts, which […truncated by emendrix: 5135 characters omitted…]
+
+**MODIFIED · Art. 245 — Synthetic securitisation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 245`, `AR 245 PA 1 ALN 1`, `AR 245 PA 1 ALN 1 PTA (a)`, `AR 245 PA 1 ALN 1 PTA (b)`, `AR 245 PA 2 ALN 1`, `AR 245 PA 2 ALN 1 PTA (a)`, `AR 245 PA 2 ALN 1 PTA (b)`, `AR 245 PA 2 ALN 2`, `AR 245 PA 3 ALN 1`, `AR 245 PA 3 ALN 1 PTA (a)`, `AR 245 PA 3 ALN 1 PTA (b)`, `AR 245 PA 4 ALN 1`, `AR 245 PA 4 ALN 1 PTA (a)`, `AR 245 PA 4 ALN 1 PTA (b)`, `AR 245 PA 4 ALN 1 PTA (c)`, `AR 245 PA 4 ALN 1 PTA (d)`, `AR 245 PA 4 ALN 1 PTA (e)`, `AR 245 PA 4 ALN 1 PTA (f)`, `AR 245 PA 4 ALN 1 PTA (g)`, `AR 245 PA 5 ALN 1`, `AR 245 PA 6 ALN 1`, `AR 245 PA 6 ALN 1 PTA (a)`, `AR 245 PA 6 ALN 1 PTA (b)`, `AR 245 PA 6 ALN 1 PTA (c)`, `AR 245 PA 6 ALN 2` · *dates* +2021-01-02
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20180101`)
+
+> Article 245
+> Calculation of risk-weighted exposure amounts
+> 1. Where an originator institution has transferred significant credit risk associated with securitised exposures in accordance with Section 2, that institution may:
+> (a) in the case of a traditional securitisation, exclude from its calculation of risk-weighted exposure amounts, and, as relevant, expected loss amounts, the exposures which it has securitised;
+> (b) in the case of a synthetic securitisation, calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, in respect of the securitised exposures in accordance with Articles 249 and 250.
+> 2. Where the originator institution has decided to apply paragraph 1, it shall calculate the risk-weighted exposure amounts prescribed in this Chapter for the positions that it may hold in the securitisation.
+> Where the originator institution has not transferred significant credit risk or has decided not to apply paragraph 1, it need not calculate risk-weighted exposure amounts for any positions it may have in the securitisation in question but shall continue including the securitised exposures in its calculation of risk-weighted exposure amounts as if they had not been securitised.
+> 3. Where there is an exposure to different tranches in a securitisation, the exposure to each tranche shall be considered a separate securitisation position. The providers of credit protection to securitisation positions shall be considered to hold positions in the securitisation. S […truncated by emendrix: 755 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 245
+> Synthetic securitisation
+> 1. The originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, and, where relevant, expected loss amounts with respect to the underlying exposures in accordance with Articles 251 and 252, where either of the following conditions is met:
+> (a) significant credit risk has been transferred to third parties either through funded or unfunded credit protection;
+> (b) the originator institution applies a 1250 % risk weight to all securitisation positions that it retains in the securitisation or deducts these securitisation positions from Common Equity Tier 1 items in accordance with point (k) of Article 36(1).
+> 2. Significant credit risk shall be considered as transferred in either of the following cases:
+> (a) the risk-weighted exposure amounts of the mezzanine securitisation positions held by the originator institution in the securitisation do not exceed 50 % of the risk-weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+> (b) the originator institution does not hold more than 20 % of the exposure value of the first loss tranche in the securitisation, provided that both of the following conditions are met:
+> (i) the originator can demonstrate that the exposure value of the first loss tranche exceeds a reasoned estimate of the expected loss on the underlying exposures by a substantial margin;
+> (ii) there are no mezzanine securitisation positions.
+> Where the possible […truncated by emendrix: 4756 characters omitted…]
+
+**MODIFIED · Art. 246 — Operational requirements for early amortisation provisions** · applies from: unchanged
+
+*within* `AR 246`, `AR 246 ALN 1`, `AR 246 PA 1`, `AR 246 PA 2`, `AR 246 PA 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and full text of Article 246 have been replaced: the earlier version set out rules for calculating exposure values of securitisation positions and treatment of overlapping positions and ABCP liquidity facilities, while the later version instead sets out operational requirements for early amortisation provisions in revolving-exposure securitisations. [Art. 246, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_246) [Art. 246, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_246)
+
+The later text states that significant credit risk is only considered transferred by the originator institution where the requirements of Articles 244 and 245 are met and the early amortisation provision, once triggered, does not subordinate the institution's senior or pari passu claim, does not further subordinate its claim relative to other parties' claims, and does not otherwise increase the institution's exposure to losses on the underlying revolving exposures. [Art. 246, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_246)
+
+*before* (`02013R0575-20180101`)
+
+> Article 246
+> Exposure value
+> 1. The exposure value shall be calculated as follows:
+> (a) where an institution calculates risk-weighted exposure amounts under Sub-section 3, the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after specific credit risk adjustments treated in accordance with Article 110 have been applied;
+> (b) where an institution calculates risk-weighted exposure amounts under Sub-section 4, the exposure value of an on-balance sheet securitisation position shall be the accounting value measured without taking into account any credit risk adjustments treated in accordance with Article 110 made;
+> (c) where an institution calculates risk-weighted exposure amounts under Sub-section 3, the exposure value of an off-balance sheet securitisation position shall be its nominal value, less any specific credit risk adjustment of that securitisation position, multiplied by a conversion factor as prescribed in this Chapter. The conversion factor shall be 100 % unless otherwise specified;
+> (d) where an institution calculates risk-weighted exposure amounts under Sub-section 4, the exposure value of an off-balance sheet securitisation position shall be its nominal value multiplied by a conversion factor as prescribed in this Chapter. The conversion factor shall be 100 % unless otherwise specified;
+> (e) The exposure value for the counterparty credit risk of a derivative instrument listed in Annex II, shall be determined in accordanc […truncated by emendrix: 1337 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 246
+> Operational requirements for early amortisation provisions
+> Where the securitisation includes revolving exposures and early amortisation provisions or similar provisions, significant credit risk shall only be considered transferred by the originator institution where the requirements laid down in Articles 244 and 245 are met and the early amortisation provision, once triggered, does not:
+> (a) subordinate the institution’s senior or pari passu claim on the underlying exposures to the other investors’ claims;
+> (b) subordinate further the institution’s claim on the underlying exposures relative to other parties’ claims; or
+> (c) otherwise increase the institution’s exposure to losses associated with the underlying revolving exposures.
+
+**MODIFIED · Art. 247 — Calculation of risk-weighted exposure amounts** · applies from: unchanged
+
+*within* `AR 247`, `AR 247 PA 1 ALN 1`, `AR 247 PA 1 ALN 1 PTA (a)`, `AR 247 PA 1 ALN 1 PTA (b)`, `AR 247 PA 1 ALN 2`, `AR 247 PA 2 ALN 1`, `AR 247 PA 2 ALN 2`, `AR 247 PA 3 ALN 1`, `AR 247 PA 4 ALN 1`, `AR 247 PA 5`, `AR 247 PA 6`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and body of Article 247 were entirely replaced: the earlier version addressed recognition of funded and unfunded credit protection for securitisation positions, while the later version instead sets out rules for calculating risk-weighted exposure amounts, covering significant risk transfer, treatment of tranches, inclusion of the amount in the institution's total risk-weighted exposure amounts, and the formula for the risk-weighted exposure amount using the exposure value and total risk weight. [Art. 247, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_247) [Art. 247, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_247)
+
+The provisions on eligible funded and unfunded credit protection, eligible protection providers, credit assessment requirements, and SSPE eligibility that appeared in the earlier text are absent from the later text, which instead contains six new paragraphs on originator institutions, tranche treatment, deduction interaction with Article 36(1), and the risk weight calculation referencing Articles 248 and 270a. [Art. 247, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_247) [Art. 247, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_247)
+
+*before* (`02013R0575-20180101`)
+
+> Article 247
+> Recognition of credit risk mitigation for securitisation positions
+> 1. An institution may recognise funded or unfunded credit protection obtained in respect of a securitisation position in accordance with Chapter 4 and subject to the requirements laid down in this Chapter and in Chapter 4.
+> Eligible funded credit protection is limited to financial collateral which is eligible for the calculation of risk-weighted exposure amounts under Chapter 2 as laid down under Chapter 4 and recognition is subject to compliance with the relevant requirements as laid down under Chapter 4.
+> 2. Eligible unfunded credit protection and unfunded credit protection providers are limited to those which are eligible under Chapter 4 and recognition is subject to compliance with the relevant requirements laid down under Chapter 4.
+> 3. By way of derogation from paragraph 2, the eligible providers of unfunded credit protection listed in points (a) to (h) of Article 201(1) except for qualifying central counterparties shall have a credit assessment by a recognised ECAI which has been determined to be associated with credit quality step 3 or above under Article 136 and shall have been associated with credit quality step 2 or above at the time the credit protection was first recognised. Institutions that have a permission to apply the IRB Approach to a direct exposure to the protection provider may assess eligibility in accordance with the first sentence based on the equivalence of the PD for the pro […truncated by emendrix: 987 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 247
+> Calculation of risk-weighted exposure amounts
+> 1. Where an originator institution has transferred significant credit risk associated with the underlying exposures of the securitisation in accordance with Section 2, that institution may:
+> (a) in the case of a traditional securitisation, exclude the underlying exposures from its calculation of risk-weighted exposure amounts, and, as relevant, expected loss amounts;
+> (b) in the case of a synthetic securitisation, calculate risk-weighted exposure amounts, and, where relevant, expected loss amounts, with respect to the underlying exposures in accordance with Articles 251 and 252.
+> 2. Where the originator institution has decided to apply paragraph 1, it shall calculate the risk-weighted exposure amounts as set out in this Chapter for the positions that it may hold in the securitisation.
+> Where the originator institution has not transferred significant credit risk or has decided not to apply paragraph 1, it shall not be required to calculate risk-weighted exposure amounts for any position it may have in the securitisation but shall continue including the underlying exposures in its calculation of risk-weighted exposure amounts and, where relevant, expected loss amounts as if they had not been securitised.
+> 3. Where there is an exposure to positions in different tranches in a securitisation, the exposure to each tranche shall be considered a separate securitisation position. The providers of credit protection to securitisation […truncated by emendrix: 903 characters omitted…]
+
+**MODIFIED · Art. 248 — Exposure value** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 248`, `AR 248 PA 1 ALN 1`, `AR 248 PA 1 ALN 1 PTA (a)`, `AR 248 PA 1 ALN 1 PTA (b)`, `AR 248 PA 1 ALN 1 PTA (c)`, `AR 248 PA 1 ALN 1 PTA (d)`, `AR 248 PA 1 ALN 1 PTA (e)`, `AR 248 PA 1 ALN 2`, `AR 248 PA 1 ALN 3`, `AR 248 PA 1 ALN 4`, `AR 248 PA 2 ALN 1`, `AR 248 PA 2 ALN 2`, `AR 248 PA 2 ALN 3`, `AR 248 PA 2 ALN 4`, `AR 248 PA 3 ALN 1` · *dates* +2019-01-18
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and entire substantive content changed: the earlier version, titled Implicit support, set out rules restricting a sponsor or originator institution from providing undisclosed support to a securitisation and the consequences of failing to comply, while the later version, titled Exposure value, instead sets out rules for calculating the exposure value of on-balance sheet and off-balance sheet securitisation positions, treatment of overlapping positions, and treatment of liquidity facilities in ABCP programmes. [Art. 248, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_248) [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_248)
+
+The after text adds detailed calculation methods, including accounting value and nominal value with conversion factors, counterparty credit risk treatment for derivative-based positions, and deductions an originator institution may make, none of which appear in the before text. [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_248)
+
+The after text also states that the EBA shall submit draft regulatory technical standards on the appropriately conservative method for measuring the undrawn portion to the Commission by 18 January 2019. [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_248)
+
+*before* (`02013R0575-20180101`)
+
+> Article 248
+> Implicit support
+> 1. A sponsor institution, or an originator institution which in respect of a securitisation has made use of Article 245(1) and (2) in the calculation of risk-weighted exposure amounts or has sold instruments from its trading book to the effect that it is no longer required to hold own funds for the risks of those instruments shall not, with a view to reducing potential or actual losses to investors, provide support to the securitisation beyond its contractual obligations. A transaction shall not be considered to provide support if it is executed at arm's length and taken into account in the assessment of significant risk transfer. Any such transaction shall be, regardless of whether it provides support, notified to the competent authorities and subject to the institution's credit review and approval process. The institution shall, when assessing whether the transaction is not structured to provide support, adequately consider at least all the following:
+> (a) the price of the repurchase;
+> (b) the institution's capital and liquidity position before and after repurchase;
+> (c) the performance of the securitised exposures;
+> (d) the performance of the securitisation positions;
+> (e) the impact of support on the losses expected to be incurred by the originator relative to investors.
+> 2. EBA shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines on what constitutes at arm's length and when a transaction is not structured to provid […truncated by emendrix: 260 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 248
+> Exposure value
+> 1. The exposure value of a securitisation position shall be calculated as follows:
+> (a) the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after any relevant specific credit risk adjustments on the securitisation position have been applied in accordance with Article 110;
+> (b) the exposure value of an off-balance sheet securitisation position shall be its nominal value less any relevant specific credit risk adjustments on the securitisation position in accordance with Article 110, multiplied by the relevant conversion factor as set out in this point. The conversion factor shall be 100 %, except in the case of cash advance facilities. To determine the exposure value of the undrawn portion of the cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that repayment of draws on the facility are senior to any other claims on the cash flows arising from the underlying exposures and the institution has demonstrated to the satisfaction of the competent authority that it is applying an appropriately conservative method for measuring the amount of the undrawn portion;
+> (c) the exposure value for the counterparty credit risk of a securitisation position that results from a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6;
+> (d) an originator institution may deduct from […truncated by emendrix: 2990 characters omitted…]
+
+**MODIFIED · Art. 249 — Recognition of credit risk mitigation for securitisation positions** · applies from: unchanged
+
+*within* `AR 249`, `AR 249 PA 1`, `AR 249 PA 2`, `AR 249 PA 3`, `AR 249 PA 4`, `AR 249 PA 5`, `AR 249 PA 6`, `AR 249 PA 7`, `AR 249 PA 8`, `AR 249 PA 9`, `AR 249 PA 10`, `AR 249 ALN 1`, `AR 249 ALN 2`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The provision's heading changed from a general treatment title to one specifically addressing recognition of credit risk mitigation for securitisation positions. [Art. 249, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_249) [Art. 249, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_249)
+
+The earlier text consisted of two unnumbered paragraphs describing the originator institution's calculation methodology for synthetic securitisations, while the later text replaces this entirely with ten numbered paragraphs covering eligible funded and unfunded credit protection, eligible protection providers including SSPEs, and calculation rules for institutions providing or buying credit protection under the SEC-IRBA, SEC-SA and SEC-ERBA approaches. [Art. 249, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_249) [Art. 249, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_249)
+
+The later text introduces new substantive content on eligible collateral, credit assessment thresholds for protection providers, and treatment of derived positions that has no counterpart in the earlier text. [Art. 249, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_249)
+
+*before* (`02013R0575-20180101`)
+
+> Article 249
+> General treatment
+> In calculating risk-weighted exposure amounts for the securitised exposures, where the conditions in Article 244 are met, the originator institution of a synthetic securitisation shall, subject to Article 250, use the relevant calculation methodologies set out in this Section and not those set out in Chapter 2. For institutions calculating risk-weighted exposure amounts and expected loss amounts under Chapter 3, the expected loss amount in respect of such exposures shall be zero.
+> The requirements set out in the first subparagraph apply to the entire pool of exposures included in the securitisation. Subject to Article 250, the originator institution shall calculate risk-weighted exposure amounts in respect of all tranches in the securitisation in accordance with the provisions of this Section including those for which the institution recognises credit risk mitigation in accordance with Article 247, in which case the risk-weight to be applied to that position may be amended in accordance with Chapter 4, subject to the requirements laid down in this Chapter.
+
+*after* (`02013R0575-20190101`)
+
+> Article 249
+> Recognition of credit risk mitigation for securitisation positions
+> 1. An institution may recognise funded or unfunded credit protection with respect to a securitisation position where the requirements for credit risk mitigation laid down in this Chapter and in Chapter 4 are met.
+> 2. Eligible funded credit protection shall be limited to financial collateral which is eligible for the calculation of risk-weighted exposure amounts under Chapter 2 as laid down under Chapter 4 and recognition of credit risk mitigation shall be subject to compliance with the relevant requirements as laid down under Chapter 4.
+> Eligible unfunded credit protection and unfunded credit protection providers shall be limited to those which are eligible in accordance with Chapter 4 and recognition of credit risk mitigation shall be subject to compliance with the relevant requirements as laid down under Chapter 4.
+> 3. By way of derogation from paragraph 2, the eligible providers of unfunded credit protection listed in points (a) to (h) of Article 201(1) shall have been assigned a credit assessment by a recognised ECAI which is credit quality step 2 or above at the time the credit protection was first recognised and credit quality step 3 or above thereafter. The requirement set out in this subparagraph shall not apply to qualifying central counterparties.
+> Institutions which are allowed to apply the IRB Approach to a direct exposure to the protection provider may assess eligibility in accordance with […truncated by emendrix: 4242 characters omitted…]
+
+**MODIFIED · Art. 250 — Implicit support** · applies from: unchanged
+
+*within* `AR 250`, `AR 250 PA 1`, `AR 250 PA 2`, `AR 250 PA 3`, `AR 250 PA 4`, `AR 250 PA 5`, `AR 250 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and text of Article 250 changed from setting out a maturity mismatch treatment for synthetic securitisations, with a formula and defined variables, to a wholly different set of rules on implicit support, prohibiting an originator or sponsor institution from providing support beyond contractual obligations to a securitisation, and setting out what counts as arm's length treatment, notification duties, EBA guidelines, and consequences of non-compliance. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_250)
+
+The earlier version contained a single unnumbered block of text with points (a) and (b) concerning maturity mismatch calculation, whereas the later version is structured into five numbered paragraphs, (1) through (5), covering support prohibition, exclusions from that prohibition, notification, EBA guidelines, and disclosure obligations upon non-compliance. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_250)
+
+*before* (`02013R0575-20180101`)
+
+> Article 250
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+> (a) the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW*RWSP  t  t*T  t*RWAss  T  tT  t*
+> where:
+> RW*
+> risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+> RWAss
+> risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures expressed in years;
+> t
+> maturity of credit protection. expressed in years;
+> t*
+> 0,25.
+
+*after* (`02013R0575-20190101`)
+
+> Article 250
+> Implicit support
+> 1. A sponsor institution, or an originator institution which in respect of a securitisation has made use of Article 247(1) and (2) in the calculation of risk-weighted exposure amounts or has sold instruments from its trading book to the effect that it is no longer required to hold own funds for the risks of those instruments shall not provide support, directly or indirectly, to the securitisation beyond its contractual obligations with a view to reducing potential or actual losses to investors.
+> 2. A transaction shall not be considered as support for the purposes of paragraph 1 where the transaction has been duly taken into account in the assessment of significant credit risk transfer and both parties have executed the transaction acting in their own interest as free and independent parties (arm’s length). For these purposes, the institution shall undertake a full credit review of the transaction and, at a minimum, take into account all of the following items:
+> (a) the repurchase price;
+> (b) the institution’s capital and liquidity position before and after repurchase;
+> (c) the performance of the underlying exposures;
+> (d) the performance of the securitisation positions;
+> (e) the impact of support on the losses expected to be incurred by the originator relative to investors.
+> 3. The originator institution and the sponsor institution shall notify the competent authority of any transaction entered into in relation to the securitisation in accordance with pa […truncated by emendrix: 730 characters omitted…]
+
+**MODIFIED · Art. 251 — Originator institutions’ calculation of risk-weighted exposure amounts securitised in a synthetic securitisation** · applies from: unchanged
+
+*within* `AR 251`, `AR 251 PA 1`, `AR 251 PA 2`, `AR 251 ALN 1`, `AR 251 ALN 2`, `AR 251 ALN 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The provision's heading changed from a general rule on risk-weights for rated and unrated securitisation and re-securitisation positions to a rule specifically addressing originator institutions' calculation of risk-weighted exposure amounts for exposures securitised in a synthetic securitisation. [Art. 251, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_251) [Art. 251, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_251)
+
+The earlier text set out risk weights tied to credit quality steps in a table distinguishing securitisation and re-securitisation positions, and specified a 1250% risk weight for unrated positions, whereas the later text instead states that the originator institution shall use the calculation methodologies of the Section for underlying exposures, sets the expected loss amount at zero for institutions using Chapter 3 methods, and describes application of the requirements to the entire pool of exposures and to all tranches subject to Article 252. [Art. 251, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_251) [Art. 251, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_251)
+
+The later text also adds a statement that risk weights applied to positions benefiting from credit risk mitigation may be amended in accordance with Chapter 4, which does not appear in the earlier text. [Art. 251, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_251)
+
+*before* (`02013R0575-20180101`)
+
+> Article 251
+> Risk-weights
+> Subject to Article 252, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value.
+> The relevant risk weight shall be the risk weight as laid down in Table 1, with which the credit assessment of the position is associated in accordance with Section 4.
+> Table 1
+> Credit Quality Step 1 2 3 4 (only for credit assessments other than short-term credit assessments) all other credit quality steps
+> Securitisation positions 20 % 50 % 100 % 350 % 1250 %
+> Re-securitisation positions 40 % 100 % 225 % 650 % 1250 %
+> Subject to Articles 252 to 255, the risk-weighted exposure amount of an unrated securitisation position shall be calculated by applying a risk weight of 1250 %.
+
+*after* (`02013R0575-20190101`)
+
+> Article 251
+> Originator institutions’ calculation of risk-weighted exposure amounts securitised in a synthetic securitisation
+> 1. For the purpose of calculating risk-weighted exposure amounts for the underlying exposures, the originator institution of a synthetic securitisation shall use the calculation methodologies set out in this Section where applicable instead of those set out in Chapter 2. For institutions calculating risk-weighted exposure amounts and, where relevant, expected loss amounts with respect to the underlying exposures under Chapter 3, the expected loss amount in respect of such exposures shall be zero.
+> 2. The requirements set out in paragraph 1 of this Article shall apply to the entire pool of exposures backing the securitisation. Subject to Article 252, the originator institution shall calculate risk-weighted exposure amounts with respect to all tranches in the securitisation in accordance with this Section, including the positions in relation to which the institution is able to recognise credit risk mitigation in accordance with Article 249. The risk weight to be applied to positions which benefit from credit risk mitigation may be amended in accordance with Chapter 4.
+
+**MODIFIED · Art. 252 — Treatment of maturity mismatches in synthetic securitisations** · applies from: unchanged
+
+*within* `AR 252`, `AR 252 ALN 1`, `AR 252 ALN 1 PTA (a)`, `AR 252 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 252 has been completely rewritten: the earlier version addressed originator and sponsor institutions and let risk-weighted exposure amounts be capped at the amounts that would apply to the securitised exposures if not securitised, subject to a presumed 150% risk weight for defaulted items and items associated with particularly high risk under Article 128. [Art. 252, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_252)
+
+The later version instead carries the heading Treatment of maturity mismatches in synthetic securitisations and sets out rules for calculating risk-weighted exposure amounts under Article 251 where there is a maturity mismatch between credit protection and underlying exposures, including a maximum maturity of five years for underlying exposures, an instruction for originator institutions to ignore maturity mismatch for positions risk-weighted at 1250%, and a formula referencing RW*, RWAss, RWSP, T, t and t*. [Art. 252, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_252)
+
+*before* (`02013R0575-20180101`)
+
+> Article 252
+> Originator and sponsor institutions
+> For an originator institution or sponsor institution, the risk-weighted exposure amounts calculated in respect of its securitisation positions in any one securitisation may be limited to the risk-weighted exposure amounts which would currently be calculated for the securitised exposures had they not been securitised subject to the presumed application of a 150 % risk weight to the following:
+> (a) all items currently in default;
+> (b) all items associated with particularly high risk in accordance with Article 128 amongst the securitised exposures.
+
+*after* (`02013R0575-20190101`)
+
+> Article 252
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 251, any maturity mismatch between the credit protection by which the transfer of risk is achieved and the underlying exposures shall be calculated as follows:
+> (a) the maturity of the underlying exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of 5 years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for securitisation positions subject to a risk weight of 1250 % in accordance with this Section. For all other positions, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW*RWSP · t t*T t* RWAss · T tT t*
+> where:
+> RW*
+> risk-weighted exposure amounts for the purposes of point (a) of Article 92(3);
+> RWAss
+> risk-weighted exposure amounts for the underlying exposures as if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 251 as if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures, expressed in years;
+> t
+> maturity of credit protection, expressed in years;
+> t*
+> 0,25
+
+**MODIFIED · Art. 253 — Reduction in risk-weighted exposure amounts** · applies from: unchanged
+
+*within* `AR 253`, `AR 253 PA 1 ALN 1`, `AR 253 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The provision's heading changed from covering the treatment of unrated positions to covering reductions in risk-weighted exposure amounts. [Art. 253, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_253) [Art. 253, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_253)
+
+The prior text described calculating a risk-weighted exposure amount for an unrated securitisation position using a weighted-average risk weight multiplied by a concentration ratio, with a 1250 % risk weight applied where the institution could not determine the applicable risk weights, whereas the later text instead addresses positions already assigned a 1250 % risk weight and describes deducting the exposure value of such a position from Common Equity Tier 1 capital as an alternative to including it in the risk-weighted exposure amount calculation. [Art. 253, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_253) [Art. 253, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_253)
+
+The later text also adds that where this deduction alternative is used, the amount deducted may be subtracted from the amount specified in Article 268 as the maximum capital requirement calculated for the underlying exposures as if they had not been securitised. [Art. 253, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_253)
+
+*before* (`02013R0575-20180101`)
+
+> Article 253
+> Treatment of unrated positions
+> 1. For the purpose of calculating the risk-weighted exposure amount of an unrated securitisation position an institution may apply the weighted-average risk weight that would be applied to the securitised exposures under Chapter 2 by an institution holding the exposures, multiplied by the concentration ratio referred to in paragraph 2. For this purpose, the institution shall know the composition of the pool of securitised exposures securitised at all times.
+> 2. The concentration ratio shall be equal to the sum of the nominal amounts of all the tranches divided by the sum of the nominal amounts of the tranches junior to or pari passu with the tranche in which the position is held including that tranche itself. The resulting risk weight shall not be higher than 1250 % or lower than any risk weight applicable to a rated more senior tranche. Where the institution is unable to determine the risk weights that would be applied to the securitised exposures under Chapter 2, it shall apply a risk weight of 1250 % to the position.
+
+*after* (`02013R0575-20190101`)
+
+> Article 253
+> Reduction in risk-weighted exposure amounts
+> 1. Where a securitisation position is assigned a 1250 % risk weight under this Section, institutions may deduct the exposure value of such position from Common Equity Tier 1 capital in accordance with point (k) of Article 36(1) as an alternative to including the position in their calculation of risk-weighted exposure amounts. For that purpose, the calculation of the exposure value may reflect eligible funded credit protection in accordance with Article 249.
+> 2. Where an institution makes use of the alternative set out in paragraph 1, it may subtract the amount deducted in accordance with point (k) of Article 36(1) from the amount specified in Article 268 as maximum capital requirement that would be calculated in respect of the underlying exposures as if they had not been securitised.
+
+**MODIFIED · Art. 254 — Hierarchy of methods** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 254`, `AR 254 PA 1`, `AR 254 PA 2`, `AR 254 PA 3`, `AR 254 PA 4`, `AR 254 PA 5`, `AR 254 PA 6`, `AR 254 PA 7`, `AR 254 PA 8`, `AR 254 ALN 1` · *dates* +2018-11-17
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading changes from a title about the treatment of securitisation positions in a second loss tranche or better in an ABCP programme to a title about the hierarchy of methods, and the entire body of the article is replaced. [Art. 254, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_254) [Art. 254, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_254)
+
+The earlier text set out a single rule allowing a risk weight of the greater of 100% or the highest risk weight applicable to the securitised exposures, subject to three listed conditions, whereas the later text instead lays out an eight-paragraph structure establishing a hierarchy of calculation methods (SEC-IRBA, SEC-SA, SEC-ERBA), rules on when SEC-ERBA must be used instead of SEC-SA, notification procedures to competent authorities, a derogation power for competent authorities, treatment of unrated ABCP positions, re-securitisation treatment, a residual 1250% risk weight rule, and EBA reporting obligations. [Art. 254, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_254) [Art. 254, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_254)
+
+The later text specifies that an institution notifying its decision under paragraph 3 must do so no later than 17 November 2018. [Art. 254, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_254)
+
+*before* (`02013R0575-20180101`)
+
+> Article 254
+> Treatment of securitisation positions in a second loss tranche or better in an ABCP programme
+> Subject to the availability of a more favourable treatment for unrated liquidity facilities under Article 255 an institution may apply to securitisation positions meeting the following conditions a risk weight that is the greater of 100 % or the highest of the risk weights that would be applied to any of the securitised exposures under Chapter 2 by an institution holding the exposures:
+> (a) the securitisation position shall be in a tranche which is economically in a second loss position or better in the securitisation and the first loss tranche shall provide meaningful credit enhancement to the second loss tranche;
+> (b) the quality of the securitisation position shall be equivalent to credit quality step 3 under the Standardised Approach or better;
+> (c) the securitisation position shall be held by an institution which does not hold a position in the first loss tranche.
+
+*after* (`02013R0575-20190101`)
+
+> Article 254
+> Hierarchy of methods
+> 1. Institutions shall use one of the methods set out in Subsection 3 to calculate risk-weighted exposure amounts in accordance with the following hierarchy:
+> (a) where the conditions set out in Article 258 are met, an institution shall use the SEC-IRBA in accordance with Articles 259 and 260;
+> (b) where the SEC-IRBA may not be used, an institution shall use the SEC-SA in accordance with Articles 261 and 262;
+> (c) where the SEC-SA may not be used, an institution shall use the SEC-ERBA in accordance with Articles 263 and 264 for rated positions or positions in respect of which an inferred rating may be used.
+> 2. For rated positions or positions in respect of which an inferred rating may be used, an institution shall use the SEC-ERBA instead of the SEC-SA in each of the following cases:
+> (a) where the application of the SEC-SA would result in a risk weight higher than 25 % for positions qualifying as positions in an STS securitisation;
+> (b) where the application of the SEC-SA would result in a risk weight higher than 25 % or the application of the SEC-ERBA would result in a risk weight higher than 75 % for positions not qualifying as positions in an STS securitisation;
+> (c) for securitisation transactions backed by pools of auto loans, auto leases and equipment leases.
+> 3. In cases not covered by paragraph 2, and by way of derogation from point (b) of paragraph 1, an institution may decide to apply the SEC-ERBA instead of the SEC-SA to all of its rated s […truncated by emendrix: 2831 characters omitted…]
+
+**MODIFIED · Art. 255 — Determination of K IRB and K SA** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 255`, `AR 255 PA 1 ALN 1`, `AR 255 PA 1 ALN 1 PTA (a)`, `AR 255 PA 1 ALN 1 PTA (b)`, `AR 255 PA 1 ALN 1 PTA (c)`, `AR 255 PA 1 ALN 1 PTA (d)`, `AR 255 PA 1 ALN 1 PTA (e)`, `AR 255 PA 1 ALN 1 PTA (f)`, `AR 255 PA 1 ALN 2`, `AR 255 PA 2 ALN 1`, `AR 255 PA 3`, `AR 255 PA 4`, `AR 255 PA 5`, `AR 255 PA 6`, `AR 255 PA 7`, `AR 255 PA 8`, `AR 255 PA 9` · *dates* +2019-01-18
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The provision was entirely replaced: the earlier version covered the treatment of unrated liquidity facilities in a securitisation, including conditions for applying conversion factors, while the later version instead concerns the determination of KIRB and KSA, setting out how institutions calculate these values under the SEC-IRBA and SEC-SA approaches. [Art. 255, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_255) [Art. 255, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_255)
+
+The heading itself changed from referring to unrated liquidity facilities to referring to the determination of KIRB and KSA, reflecting the substitution of the entire body of the article's paragraphs and sub-points with new text on expected and unexpected loss calculations, dilution risk treatment, SSPE exposures, and mandates for EBA guidelines and regulatory technical standards. [Art. 255, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_255)
+
+The later text also states that the EBA shall submit its draft regulatory technical standards to the Commission by 18 January 2019. [Art. 255, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_255)
+
+*before* (`02013R0575-20180101`)
+
+> Article 255
+> Treatment of unrated liquidity facilities
+> 1. Institutions may apply a conversion factor of 50 % to the nominal amount of an unrated liquidity facility in order to determine its exposure value when the following conditions are met:
+> (a) the liquidity facility documentation shall clearly identify and limit the circumstances under which the facility may be drawn;
+> (b) it shall not be possible for the facility to be drawn so as to provide credit support by covering losses already incurred at the time of draw and in particular not so as to provide liquidity in respect of exposures in default at the time of draw or so as to acquire assets at more than fair value;
+> (c) the facility shall not be used to provide permanent or regular funding for the securitisation;
+> (d) repayment of draws on the facility shall not be subordinated to the claims of investors other than to claims arising in respect of interest rate or currency derivative contracts, fees or other such payments, nor be subject to waiver or deferral;
+> (e) it shall not be possible for the facility to be drawn after all applicable credit enhancements from which the liquidity facility would benefit are exhausted;
+> (f) the facility shall include a provision that results in an automatic reduction in the amount that can be drawn by the amount of exposures that are in default, where default has the meaning given to it under Chapter 3, or where the pool of securitised exposures consists of rated instruments, that terminates th […truncated by emendrix: 639 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 255
+> Determination of KIRB and KSA
+> 1. Where an institution applies the SEC-IRBA under Subsection 3, the institution shall calculate KIRB in accordance with paragraphs 2 to 5.
+> 2. Institutions shall determine KIRB by multiplying the risk-weighted exposure amounts that would be calculated under Chapter 3 in respect of the underlying exposures as if they had not been securitised by 8 % divided by the exposure value of the underlying exposures. KIRB shall be expressed in decimal form between zero and one.
+> 3. For KIRB calculation purposes, the risk-weighted exposure amounts that would be calculated under Chapter 3 in respect of the underlying exposures shall include:
+> (a) the amount of expected losses associated with all the underlying exposures of the securitisation including defaulted underlying exposures that are still part of the pool in accordance with Chapter 3; and
+> (b) the amount of unexpected losses associated with all the underlying exposures including defaulted underlying exposures in the pool in accordance with Chapter 3.
+> 4. Institutions may calculate KIRB in relation to the underlying exposures of the securitisation in accordance with the provisions set out in Chapter 3 for the calculation of capital requirements for purchased receivables. For these purposes, retail exposures shall be treated as purchased retail receivables and non-retail exposures as purchased corporate receivables.
+> 5. Institutions shall calculate KIRB separately for dilution risk in relation to […truncated by emendrix: 3562 characters omitted…]
+
+**MODIFIED · Art. 256 — Determination of attachment point (A) and detachment point (D)** · applies from: unchanged
+
+*within* `AR 256`, `AR 256 PA 1 ALN 1`, `AR 256 PA 1 ALN 2`, `AR 256 PA 2 ALN 1`, `AR 256 PA 2 ALN 2`, `AR 256 PA 2 ALN 3`, `AR 256 PA 2 ALN 4`, `AR 256 PA 3 ALN 1`, `AR 256 PA 3 ALN 1 PTA (a)`, `AR 256 PA 3 ALN 1 PTA (b)`, `AR 256 PA 4 ALN 1`, `AR 256 PA 4 ALN 1 PTA (a)`, `AR 256 PA 4 ALN 1 PTA (b)`, `AR 256 PA 4 ALN 2`, `AR 256 PA 5 ALN 1`, `AR 256 PA 5 ALN 2`, `AR 256 PA 6`, `AR 256 PA 7`, `AR 256 PA 8`, `AR 256 PA 9`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and entire substantive content were replaced: the earlier version addressed additional own funds requirements for securitisations of revolving exposures with early amortisation provisions, while the later version instead sets out how institutions determine the attachment point (A) and detachment point (D) for securitisation positions. [Art. 256, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_256) [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_256)
+
+The prior rules on originator's and investors' interests, exemptions, maximum risk-weighted exposure amounts, controlled versus non-controlled early amortisation, the excess spread conversion factor table, and the fixed 90% and 100% conversion factors have all been removed, and are replaced with provisions on calculating A and D as decimal values, treatment of overcollateralisation and reserve accounts, disregard of unfunded reserve accounts and non-credit-enhancing assets, and aggregation of outstanding balances for positions with different maturities sharing pro rata loss allocation. [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_256)
+
+*before* (`02013R0575-20180101`)
+
+> Article 256
+> Additional own funds requirements for securitisations of revolving exposures with early amortisation provisions
+> 1. Where there is a securitisation of revolving exposures subject to an early amortisation provision, the originator institution shall calculate an additional risk-weighted exposure amount in respect of the risk that the levels of credit risk to which it is exposed may increase following the operation of the early amortisation provision, in accordance with this Article.
+> 2. The institution shall calculate a risk-weighted exposure amount in respect of the sum of the exposure values of the originator's interest and the investors' interest.
+> For securitisation structures where the securitised exposures comprise revolving and non-revolving exposures, an originator institution shall apply the treatment set out in paragraphs 3 to 6 to that portion of the underlying pool containing revolving exposures.
+> The exposure value of the originator's interest shall be the exposure value of that notional part of a pool of drawn amounts sold into a securitisation, the proportion of which in relation to the amount of the total pool sold into the structure determines the proportion of the cash flows generated by principal and interest collections and other associated amounts which are not available to make payments to those having securitisation positions in the securitisation. The originator's interest shall not be subordinate to the investors' interest. The exposure value of […truncated by emendrix: 6396 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 256
+> Determination of attachment point (A) and detachment point (D)
+> 1. For the purposes of Subsection 3, institutions shall set the attachment point (A) at the threshold at which losses within the pool of underlying exposures would start to be allocated to the relevant securitisation position.
+> The attachment point (A) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior or pari passu to the tranche containing the relevant securitisation position including the exposure itself to the outstanding balance of all the underlying exposures in the securitisation.
+> 2. For the purposes of Subsection 3, institutions shall set the detachment point (D) at the threshold at which losses within the pool of underlying exposures would result in a complete loss of principal for the tranche containing the relevant securitisation position.
+> The detachment point (D) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior to the tranche containing the relevant securitisation position to the outstanding balance of all the underlying exposures in the securitisation.
+> 3. For the purposes […truncated by emendrix: 1035 characters omitted…]
+
+**MODIFIED · Art. 257 — Determination of tranche maturity (M T )** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 257`, `AR 257 PA 1`, `AR 257 PA 2`, `AR 257 PA 3`, `AR 257 PA 4`, `AR 257 ALN 1` · *dates* +2019-12-31
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and entire content changed from a short provision on credit risk mitigation for securitisation positions under the Standardised Approach into a detailed set of rules for determining tranche maturity (MT), including two alternative measurement methods, a floor and cap on the maturity value, treatment of exposures where losses may arise from underlying exposures, and a mandate for the EBA to monitor practices and issue guidelines. [Art. 257, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_257) [Art. 257, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_257)
+
+The after text specifies that the EBA shall issue guidelines by 31 December 2019. [Art. 257, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_257)
+
+*before* (`02013R0575-20180101`)
+
+> Article 257
+> Credit risk mitigation for securitisation positions subject to the Standardised Approach
+> Where credit protection is obtained on a securitisation position, the calculation of risk-weighted exposure amounts may be amended in accordance with Chapter 4.
+
+*after* (`02013R0575-20190101`)
+
+> Article 257
+> Determination of tranche maturity (MT)
+> 1. For the purposes of Subsection 3 and subject to paragraph 2, institutions may measure the maturity of a tranche (MT) as either:
+> (a) the weighted average maturity of the contractual payments due under the tranche in accordance with the following formula:
+> t t · CFtt CFt,
+> where CFt denotes all contractual payments (principal, interests and fees) payable by the borrower during period t; or
+> (b) the final legal maturity of the tranche in accordance with the following formula:
+> MT 1 ML 1 * 80 %,
+> where ML is the final legal maturity of the tranche.
+> 2. For the purposes of paragraph 1, the determination of a tranche maturity (MT) shall be subject in all cases to a floor of 1 year and a cap of 5 years.
+> 3. Where an institution may become exposed to potential losses from the underlying exposures by virtue of contract, the institution shall determine the maturity of the securitisation position by taking into account the maturity of the contract plus the longest maturity of such underlying exposures. For revolving exposures, the longest contractually possible remaining maturity of the exposure that might be added during the revolving period shall apply.
+> 4. The EBA shall monitor the range of practices in this area, with particular regard to the application of point (a) of paragraph 1 of this Article, and shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines by 31 December 2019.
+
+**MODIFIED · Art. 258 — Conditions for the use of the Internal Ratings Based Approach (SEC-IRBA)** · applies from: unchanged
+
+*within* `AR 258`, `AR 258 PA 1`, `AR 258 PA 2`, `AR 258 ALN 1`, `AR 258 ALN 2`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and entire substance changed from a provision on reducing risk-weighted exposure amounts through deduction from Common Equity Tier 1 capital to a provision setting out conditions for using the SEC-IRBA to calculate risk-weighted exposure amounts for securitisation positions. [Art. 258, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_258) [Art. 258, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_258)
+
+The prior text described an alternative deduction mechanism referencing Articles 36(1)(k), 257 and 252, whereas the new text instead lists conditions under paragraph 1 for use of the SEC-IRBA, including pool composition and information sufficiency requirements, and gives competent authorities a case-by-case power under paragraph 2 to preclude its use where securitisations have highly complex or risky features. [Art. 258, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_258)
+
+*before* (`02013R0575-20180101`)
+
+> Article 258
+> Reduction in risk-weighted exposure amounts
+> Where a securitisation position is assigned a 1250 % risk weight, institutions may in accordance with Article 36(1)(k), as an alternative to including the position in their calculation of risk-weighted exposure amounts, deduct from Common Equity Tier 1 capital the exposure value of the position. For these purposes, the calculation of the exposure value may reflect eligible funded credit protection in a manner consistent with Article 257.
+> Where an originator institution makes use of this alternative, it may subtract 12,5 times the amount deducted in accordance with Article 36(1)(k) from the amount specified in Article 252 as the risk-weighted exposure amount which would currently be calculated for the securitised exposures had they not been securitised.
+
+*after* (`02013R0575-20190101`)
+
+> Article 258
+> Conditions for the use of the Internal Ratings Based Approach (SEC-IRBA)
+> 1. Institutions shall use the SEC-IRBA to calculate risk-weighted exposure amounts in relation to a securitisation position where the following conditions are met:
+> (a) the position is backed by an IRB pool or a mixed pool, provided that, in the latter case, the institution is able to calculate KIRB in accordance with Section 3 on a minimum of 95 % of the underlying exposure amount;
+> (b) there is sufficient information available in relation to the underlying exposures of the securitisation for the institution to be able to calculate KIRB; and
+> (c) the institution has not been precluded from using the SEC-IRBA in relation to a specified securitisation position in accordance with paragraph 2.
+> 2. Competent authorities may on a case-by-case basis preclude the use of the SEC-IRBA where securitisations have highly complex or risky features. For these purposes, the following may be regarded as highly complex or risky features:
+> (a) credit enhancement that can be eroded for reasons other than portfolio losses;
+> (b) pools of underlying exposures with a high degree of internal correlation as a result of concentrated exposures to single sectors or geographical areas;
+> (c) transactions where the repayment of the securitisation positions is highly dependent on risk drivers not reflected in KIRB; or
+> (d) highly complex loss allocations between tranches.
+
+**MODIFIED · Art. 259 — Calculation of risk-weighted exposure amounts under the SEC-IRBA** · applies from: unchanged
+
+*within* `AR 259`, `AR 259 PA 1 ALN 1`, `AR 259 PA 1 ALN 1 PTA (a)`, `AR 259 PA 1 ALN 1 PTA (b)`, `AR 259 PA 1 ALN 1 PTA (c)`, `AR 259 PA 1 ALN 1 PTA (d)`, `AR 259 PA 1 ALN 1 PTA (e)`, `AR 259 PA 2 ALN 1`, `AR 259 PA 2 ALN 1 PTA (a)`, `AR 259 PA 2 ALN 1 PTA (b)`, `AR 259 PA 2 ALN 1 PTA (c)`, `AR 259 PA 3 ALN 1`, `AR 259 PA 3 ALN 1 PTA (a)`, `AR 259 PA 3 ALN 1 PTA (b)`, `AR 259 PA 3 ALN 1 PTA (c)`, `AR 259 PA 3 ALN 1 PTA (d)`, `AR 259 PA 3 ALN 1 PTA (e)`, `AR 259 PA 3 ALN 1 PTA (f)`, `AR 259 PA 3 ALN 1 PTA (g)`, `AR 259 PA 3 ALN 1 PTA (h)`, `AR 259 PA 3 ALN 1 PTA (i)`, `AR 259 PA 3 ALN 1 PTA (j)`, `AR 259 PA 3 ALN 1 PTA (k)`, `AR 259 PA 3 ALN 1 PTA (l)`, `AR 259 PA 3 ALN 1 PTA (m)`, `AR 259 PA 4 ALN 1`, `AR 259 PA 4 ALN 2`, `AR 259 PA 5 ALN 1`, `AR 259 PA 5 ALN 1 PTA (a)`, `AR 259 PA 5 ALN 1 PTA (b)`, `AR 259 PA 5 ALN 2`, `AR 259 PA 6`, `AR 259 PA 7`, `AR 259 PA 8`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The provision's heading changed from "Hierarchy of methods" to "Calculation of risk-weighted exposure amounts under the SEC-IRBA", and the entire body of text was replaced. [Art. 259, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_259) [Art. 259, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_259)
+
+The earlier version set out a hierarchy of methods (Ratings Based Method, Supervisory Formula Method, Internal Assessment Approach, and default risk weighting) with conditions for inferred ratings and for using and reverting from the Internal Assessment Approach, while the later version instead sets out a formula-based calculation of risk-weighted exposure amounts under the SEC-IRBA, including risk weight formulas, parameters KIRB, D, A, and KSSFA, a look-up table of coefficients, and separate rules for mixed pools, effective number of exposures, weighted-average LGD, a simplified method, and treatment of hedging derivatives. [Art. 259, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_259) [Art. 259, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_259)
+
+*before* (`02013R0575-20180101`)
+
+> Article 259
+> Hierarchy of methods
+> 1. Institutions shall use the methods in accordance with the following hierarchy:
+> (a) for a rated position or a position in respect of which an inferred rating may be used, the Ratings Based Method set out in Article 261 shall be used to calculate the risk-weighted exposure amount;
+> (b) for an unrated position the institution may use the Supervisory Formula Method set out in Article 262 where it can produce estimates of PD, and where applicable exposure value and LGD as inputs into the Supervisory Formula Method in accordance with the requirements for the estimation of those parameters under the Internal Ratings Based approach in accordance with Section 3. An institution other than the originator institution may only use the Supervisory Formula Method subject to the prior permission of the competent authorities, which shall only be granted where the institution fulfils the condition provided in the first sentence of this point;
+> (c) as an alternative to point (b) and only for unrated positions in ABCP programmes, the institution may use the Internal Assessment Approach as set out in paragraph 4 if the competent authorities have permitted it to do so;
+> (d) in all other cases, a risk weight of 1250 % shall be assigned to securitisation positions which are unrated;
+> (e) notwithstanding point (d), and subject to the prior permission by the competent authorities, an institution may calculate the risk weight for an unrated position in an ABCP programme […truncated by emendrix: 7139 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 259
+> Calculation of risk-weighted exposure amounts under the SEC-IRBA
+> 1. Under the SEC-IRBA, the risk-weighted exposure amount for a securitisation position shall be calculated by multiplying the exposure value of the position calculated in accordance with Article 248 by the applicable risk weight determined as follows, in all cases subject to a floor of 15 %:
+> RW = 1250 % when D ≤ KIRB
+> RW 12,5 · KSSFAKIRB when A ≥ KIRB
+> RWKIRB AD A · 12.5 D KIRBD A · 12.5 · KSSFAKIRB when A < KIRB < D
+> where:
+> KIRB
+> is the capital charge of the pool of underlying exposures as defined in Article 255
+> D
+> is the detachment point as determined in accordance with Article 256
+> A
+> is the attachment point as determined in accordance with Article 256KSSFAKIRBea · u ea · lau l
+> where:
+> a
+> – (1/(p * KIRB))
+> u
+> D – KIRB
+> l
+> max (A – KIRB; 0)
+> where:pmax 0,3; A B*1N C* KIRB D*LGD E*MT
+> where:
+> N
+> is the effective number of exposures in the pool of underlying exposures, calculated in accordance with paragraph 4;
+> LGD
+> is the exposure-weighted average loss-given-default of the pool of underlying exposures, calculated in accordance with paragraph 5;
+> MT
+> is the maturity of the tranche as determined in accordance with Article 257.
+> The parameters A, B, C, D, and E shall be determined according to the following look-up table:
+> A B C D E
+> Non-retail Senior, granular (N ≥ 25) 0 3,56 –1,85 0,55 0,07
+> Senior, non-granular (N < 25) 0,11 2,61 –2,91 0,68 0,07
+> Non-senior, granular (N ≥ 25) 0,16 2,87 –1,03 0,21 0,07
+> Non-senior, non-granul […truncated by emendrix: 3401 characters omitted…]
+
+**MODIFIED · Art. 260 — Treatment of STS securitisations under the SEC-IRBA** · applies from: unchanged
+
+*within* `AR 260`, `AR 260 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading changes from 'Maximum risk-weighted exposure amounts' to 'Treatment of STS securitisations under the SEC-IRBA', and the entire operative text is replaced. [Art. 260, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_260) [Art. 260, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_260)
+
+The earlier text described a cap allowing certain institutions to limit risk-weighted exposure amounts to a formula based on 8% of unsecuritised risk-weighted exposure plus expected loss amounts, whereas the later text instead directs that the risk weight for a position in an STS securitisation under the SEC-IRBA be calculated under Article 259 with stated modifications, including a risk-weight floor formula for senior securitisation positions. [Art. 260, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_260) [Art. 260, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_260)
+
+*before* (`02013R0575-20180101`)
+
+> Article 260
+> Maximum risk-weighted exposure amounts
+> An originator institution, a sponsor institution, or other institutions which can calculate KIRB may limit the risk-weighted exposure amounts calculated in respect of its positions in a securitisation to that which would produce a own funds requirement under Article 92(3) equal to the sum of 8 % of the risk-weighted exposure amounts which would be produced if the securitised assets had not been securitised and were on the balance sheet of the institution plus the expected loss amounts of those exposures.
+
+*after* (`02013R0575-20190101`)
+
+> Article 260
+> Treatment of STS securitisations under the SEC-IRBA
+> Under the SEC-IRBA, the risk weight for a position in an STS securitisation shall be calculated in accordance with Article 259, subject to the following modifications:
+> risk-weight floor for senior securitisation positions = 10 %pmax 0,3; 0,5 · A B · 1N C · KIRB D · LGD E · MT
+
+**MODIFIED · Art. 261 — Calculation of risk-weighted exposure amounts under the Standardised Approach (SEC-SA)** · applies from: unchanged
+
+*within* `AR 261`, `AR 261 PA 1 ALN 1`, `AR 261 PA 1 ALN 2`, `AR 261 PA 1 ALN 3`, `AR 261 PA 1 ALN 4`, `AR 261 PA 1 ALN 5`, `AR 261 PA 1 ALN 6`, `AR 261 PA 1 ALN 7`, `AR 261 PA 2 ALN 1`, `AR 261 PA 2 ALN 1 PTA (a)`, `AR 261 PA 2 ALN 1 PTA (b)`, `AR 261 PA 2 ALN 2`, `AR 261 PA 2 ALN 3`, `AR 261 PA 2 ALN 4`, `AR 261 PA 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and title changed from the Ratings Based Method to the Standardised Approach (SEC-SA), and the calculation method was replaced accordingly, moving from a table of risk weights tied to credit quality steps and multiplied by 1.06 to a formula-based approach using attachment and detachment points, a KA parameter, and a 15% floor. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_261)
+
+The before text set out risk weights via Table 4 based on credit assessments and the effective number of exposures securitised, while the after text instead defines KA by reference to the capital charge of the underlying pool (KSA) and a delinquency ratio W, with adjustments for partly unknown delinquency status and a 1250% weighting if more than 5% of exposures have unknown delinquency status. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_261)
+
+The before text addressed credit risk mitigation on securitisation positions under paragraph 2 by cross-reference to Articles 264 and 247, whereas the after text's paragraph 3 instead addresses derivative positions used to hedge market risks, allowing an inferred risk weight from a pari passu or immediately subordinate reference position. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_261)
+
+*before* (`02013R0575-20180101`)
+
+> Article 261
+> Ratings Based Method
+> 1. Under the Ratings Based Method, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value and multiplying the result by 1,06.
+> The relevant risk weight shall be the risk weight as laid down in Table 4, with which the credit assessment of the position is associated in accordance with Section 4.
+> Table 4
+> Credit Quality Step Securitisation Positions Re-securitisation Positions
+> Credit assessments other than short term Short term credit assessments A B C D E
+> 1 1 7 % 12 % 20 % 20 % 30 %
+> 2 8 % 15 % 25 % 25 % 40 %
+> 3 10 % 18 % 35 % 35 % 50 %
+> 4 2 12 % 20 % 40 % 65 %
+> 5 20 % 35 % 60 % 100 %
+> 6 35 % 50 % 100 % 150 %
+> 7 3 60 % 75 % 150 % 225 %
+> 8 100 % 200 % 350 %
+> 9 250 % 300 % 500 %
+> 10 425 % 500 % 650 %
+> 11 650 % 750 % 850 %
+> all other and unrated 1250 %
+> The weightings in column C of Table 4 shall be applied where the securitisation position is not a re-securitisation position and where the effective number of exposures securitised is less than six.
+> For the remainder of the securitisation positions that are not re-securitisation positions, the weightings in column B shall be applied unless the position is in the most senior tranche of a securitisation, in which case the weightings in column A shall be applied.
+> For re-securitisation positions the weightings in column E shall be applied unless the re-securitisation position is in the most se […truncated by emendrix: 922 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 261
+> Calculation of risk-weighted exposure amounts under the Standardised Approach (SEC-SA)
+> 1. Under the SEC-SA, the risk-weighted exposure amount for a position in a securitisation shall be calculated by multiplying the exposure value of the position as calculated in accordance with Article 248 by the applicable risk weight determined as follows, in all cases subject to a floor of 15 %:
+> RW = 1250 % when D ≤ KA
+> RW 12.5 · KSSFAKA when A ≥ KA
+> RWKA AD A · 12.5 D KAD A · 12.5 · KSSFAKA when A < KA < D
+> where:
+> D
+> is the detachment point as determined in accordance with Article 256;
+> A
+> is the attachment point as determined in accordance with Article 256;
+> KA
+> is a parameter calculated in accordance with paragraph 2;KSSFAKAea · u ea · lau l
+> where:
+> a
+> – (1/(p · KA))
+> u
+> D – KA
+> l
+> max (A – KA; 0)
+> p
+> 1 for a securitisation exposure that is not a re-securitisation exposure
+> 2. For the purposes of paragraph 1, KA shall be calculated as follows:KA1 W · KSA W · 0.5
+> where:
+> KSA is the capital charge of the underlying pool as defined in Article 255;
+> W = ratio of:
+> (a) the sum of the nominal amount of underlying exposures in default, to
+> (b) the sum of the nominal amount of all underlying exposures.
+> For these purposes, an exposure in default shall mean an underlying exposure which is either: (i) 90 days or more past due; (ii) subject to bankruptcy or insolvency proceedings; (iii) subject to foreclosure or similar proceeding; or (iv) in default in accordance with the securitisation documentation.
+> Whe […truncated by emendrix: 1051 characters omitted…]
+
+**MODIFIED · Art. 262 — Treatment of STS securitisations under the SEC-SA** · applies from: unchanged
+
+*within* `AR 262`, `AR 262 ALN 1`, `AR 262 PA 1`, `AR 262 PA 2`, `AR 262 PA 3`, `AR 262 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and content changed from setting out the Supervisory Formula Method, with its detailed formula, parameters, and definitions for calculating risk weights on securitisation positions, to a much shorter provision addressing the treatment of STS securitisations under the SEC-SA. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_262)
+
+The prior text's four numbered paragraphs covering the Supervisory Formula Method, its inputs and simplifications, EBA monitoring, and credit risk mitigation recognition are replaced by a single unnumbered statement that the risk weight for a position in an STS securitisation is calculated under Article 261 subject to a specified senior risk-weight floor of 10% and a p value of 0,5. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_262)
+
+*before* (`02013R0575-20180101`)
+
+> Article 262
+> Supervisory Formula Method
+> 1. Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:12.5  SL  T  SLT
+> where:
+> S[x] = x, when x ≤ KIRBR
+> KIRBR Kx  KKIRBR1  expω KIRBR  xKIRBR  d  KIRBRω, when x > KIRBR
+> where:h1  KIRBRELGDNcKIRBR1  hvELGD  KIRBR  KIRBR0,25  1  ELGD  KIRBRNfv  KIRBR21  h  c21  KIRBR  KIRBR  ν1  h τg1  c  cf  1ag  cbg  1  cd1  1  h  1  BetaKIRBR; a , bKx1  h  1  Betax;a,b  xBetax;a1,b  c
+> τ
+> 1000;
+> ω
+> 20;
+> Beta [x; a, b]
+> the cumulative beta distribution with parameters a and b evaluated at x;
+> T
+> the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+> KIRBR
+> the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+> L
+> the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the nominal amounts of the exposures that have been securitised. Capitalised future inco […truncated by emendrix: 2627 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 262
+> Treatment of STS securitisations under the SEC-SA
+> Under the SEC-SA the risk weight for a position in an STS securitisation shall be calculated in accordance with Article 261, subject to the following modifications:
+> risk-weight floor for senior securitisation positions = 10 %
+> p = 0,5
+
+**MODIFIED · Art. 263 — Calculation of risk-weighted exposure amounts under the External Ratings Based Approach (SEC-ERBA)** · applies from: unchanged
+
+*within* `AR 263`, `AR 263 PA 1 ALN 1`, `AR 263 PA 2 ALN 1`, `AR 263 PA 2 ALN 2`, `AR 263 PA 3 ALN 1`, `AR 263 PA 4`, `AR 263 PA 5`, `AR 263 PA 6`, `AR 263 PA 7`, `AR 263 PA 8`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and content of Article 263 changed entirely: the earlier version addressed Liquidity Facilities, covering the conversion factor for unrated securitisation positions, temporary use of a fallback calculation method subject to competent authority permission, and the highest-risk-weight approach with a 100% conversion factor. [Art. 263, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_263)
+
+The later version instead sets out the Calculation of risk-weighted exposure amounts under the External Ratings Based Approach (SEC-ERBA), introducing a formula multiplying exposure value by an applicable risk weight, separate risk weight tables for short-term and long-term credit assessments, adjustments for tranche maturity and thickness, a floor and comparison rule for non-senior tranche risk weights, and provisions on inferred ratings and inferred risk weights for hedging derivatives. [Art. 263, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_263)
+
+None of the liquidity facility provisions, including the conditions referencing Article 255, appear in the later text, while none of the SEC-ERBA mechanics, tables, or inferred rating/derivative provisions appear in the earlier text. [Art. 263, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_263) [Art. 263, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_263)
+
+*before* (`02013R0575-20180101`)
+
+> Article 263
+> Liquidity Facilities
+> 1. For the purposes of determining the exposure value of an unrated securitisation position in the form of cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that meets the conditions set out in Article 255(2).
+> 2. When it is not possible for the institution to calculate the risk-weighted exposure amounts for the securitised exposures as if they had not been securitised, an institution may, on an exceptional basis and subject to the permission of the competent authorities, temporarily apply the method set out in paragraph 3 for the calculation of risk-weighted exposure amounts for an unrated securitisation position in the form of liquidity facility that meets the conditions in Article 255(1). Institutions shall notify the use they make of the first sentence to the competent authorities, together with its reasons and the intended time period of use.
+> The calculation of risk-weighted exposure amounts shall, in general, be deemed not to be possible if an inferred rating, the Internal Assessment Approach and the Supervisory Formula Approach are not at the institution's disposal.
+> 3. The highest risk weight that would be applied under Chapter 2 to any of the securitised exposures, had they not been securitised, may be applied to the securitisation position represented by a liquidity facility that meets the conditions in Article 255(1). To determine the exposure value of the position a conve […truncated by emendrix: 39 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 263
+> Calculation of risk-weighted exposure amounts under the External Ratings Based Approach (SEC-ERBA)
+> 1. Under the SEC-ERBA, the risk-weighted exposure amount for a securitisation position shall be calculated by multiplying the exposure value of the position as calculated in accordance with Article 248 by the applicable risk weight in accordance with this Article.
+> 2. For exposures with short-term credit assessments or when a rating based on a short-term credit assessment may be inferred in accordance with paragraph 7, the following risk weights shall apply:
+> Table 1
+> Credit Quality Step 1 2 3 All other ratings
+> Risk weight 15 % 50 % 100 % 1250 %
+> 3. For exposures with long-term credit assessments or when a rating based on a long-term credit assessment may be inferred in accordance with paragraph 7 of this Article, the risk weights set out in Table 2 shall apply, adjusted as applicable for tranche maturity (MT) in accordance with Article 257 and paragraph 4 of this Article and for tranche thickness for non-senior tranches in accordance with paragraph 5 of this Article:
+> Table 2
+> Credit Quality Step Senior tranche Non-senior (thin) tranche
+> Tranche maturity (MT) Tranche maturity (MT)
+> 1 year 5 years 1 year 5 years
+> 1 15 % 20 % 15 % 70 %
+> 2 15 % 30 % 15 % 90 %
+> 3 25 % 40 % 30 % 120 %
+> 4 30 % 45 % 40 % 140 %
+> 5 40 % 50 % 60 % 160 %
+> 6 50 % 65 % 80 % 180 %
+> 7 60 % 70 % 120 % 210 %
+> 8 75 % 90 % 170 % 260 %
+> 9 90 % 105 % 220 % 310 %
+> 10 120 % 140 % 330 % 420 %
+> 11 140 % 160 % 470 % 580 %
+> 12 1 […truncated by emendrix: 2592 characters omitted…]
+
+**MODIFIED · Art. 264 — Treatment of STS securitisations under the SEC-ERBA** · applies from: unchanged
+
+*within* `AR 264`, `AR 264 PA 1 ALN 1`, `AR 264 PA 2 ALN 1`, `AR 264 PA 2 ALN 1 PTA (a)`, `AR 264 PA 2 ALN 1 PTA (b)`, `AR 264 PA 2 ALN 1 PTA (c)`, `AR 264 PA 3 ALN 1`, `AR 264 PA 3 ALN 1 PTA (a)`, `AR 264 PA 3 ALN 1 PTA (b)`, `AR 264 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and subject matter changed entirely, moving from provisions on credit risk mitigation for securitisation positions under the IRB Approach to provisions on the treatment of STS securitisations under the SEC-ERBA. [Art. 264, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_264) [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_264)
+
+The earlier text set out rules on effective risk weights, funded and unfunded credit protection adjustments, partial protection treatment, and protection-provider risk weights, whereas the later text instead sets risk weights by reference to Article 263, and adds two tables assigning risk weights by credit quality step for short-term and long-term credit assessments, with the long-term table further varying by tranche seniority and maturity. [Art. 264, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_264) [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_264)
+
+The later text's paragraph numbering and internal cross-references (to Articles 257 and 263) differ from the paragraph structure and cross-references (to Articles 235 and 262 and Chapters 2, 3 and 4) used in the earlier text. [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_264)
+
+*before* (`02013R0575-20180101`)
+
+> Article 264
+> Credit risk mitigation for securitisation positions subject to the IRB Approach
+> 1. Where risk-weighted exposure amounts are calculated using the Ratings Based Method, the exposure value or the risk-weight for a securitisation position in respect of which credit protection has been obtained may be amended in accordance with the provisions of Chapter 4 as they apply for the calculation of risk-weighted exposure amounts under Chapter 2.
+> 2. In the case of full credit protection, where risk-weighted exposure amounts are calculated using the Supervisory Formula Method, the following requirements shall apply:
+> (a) the institution shall determine the effective risk weight of the position. It shall do this by dividing the risk-weighted exposure amount of the position by the exposure value of the position and multiplying the result by 100;
+> (b) in the case of funded credit protection, the risk-weighted exposure amount of the securitisation position shall be calculated by multiplying the funded protection-adjusted exposure amount of the position (E*), as calculated under Chapter 4 for the calculation of risk-weighted exposure amounts under Chapter 2 taking the amount of the securitisation position to be E, by the effective risk weight;
+> (c) in the case of unfunded credit protection, the risk-weighted exposure amount of the securitisation position shall be calculated by multiplying the amount of the protection adjusted for any currency mismatch and maturity mismatch (GA) in acco […truncated by emendrix: 2142 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 264
+> Treatment of STS securitisations under the SEC-ERBA
+> 1. Under the SEC-ERBA, the risk weight for a position in an STS securitisation shall be calculated in accordance with Article 263, subject to the modifications laid down in this Article.
+> 2. For exposures with short-term credit assessments or when a rating based on a short-term credit assessment may be inferred in accordance with Article 263(7), the following risk weights shall apply:
+> Table 3
+> Credit Quality Step 1 2 3 All other ratings
+> Risk weight 10 % 30 % 60 % 1250 %
+> 3. For exposures with long-term credit assessments or when a rating based on a long-term credit assessment may be inferred in accordance with Article 263(7), risk weights shall be determined in accordance with Table 4, adjusted for tranche maturity (MT) in accordance with Article 257 and Article 263(4) and for tranche thickness for non-senior tranches in accordance with Article 263(5):
+> Table 4
+> Credit Quality Step Senior tranche Non-senior (thin) tranche
+> Tranche maturity (MT) Tranche maturity (MT)
+> 1 year 5 years 1 year 5 years
+> 1 10 % 10 % 15 % 40 %
+> 2 10 % 15 % 15 % 55 %
+> 3 15 % 20 % 15 % 70 %
+> 4 15 % 25 % 25 % 80 %
+> 5 20 % 30 % 35 % 95 %
+> 6 30 % 40 % 60 % 135 %
+> 7 35 % 40 % 95 % 170 %
+> 8 45 % 55 % 150 % 225 %
+> 9 55 % 65 % 180 % 255 %
+> 10 70 % 85 % 270 % 345 %
+> 11 120 % 135 % 405 % 500 %
+> 12 135 % 155 % 535 % 655 %
+> 13 170 % 195 % 645 % 740 %
+> 14 225 % 250 % 810 % 855 %
+> 15 280 % 305 % 945 % 945 %
+> 16 340 % 380 % 1015 % 1015 %
+> 17 415 % 455 % 1250 % 1250 %
+> All other […truncated by emendrix: 28 characters omitted…]
+
+**MODIFIED · Art. 265 — Scope and operational requirements for the Internal Assessment Approach** · applies from: unchanged
+
+*within* `AR 265`, `AR 265 PA 1 ALN 1`, `AR 265 PA 1 ALN 2`, `AR 265 PA 2 ALN 1`, `AR 265 PA 2 ALN 1 PTA (a)`, `AR 265 PA 2 ALN 1 PTA (b)`, `AR 265 PA 2 ALN 1 PTA (c)`, `AR 265 PA 2 ALN 1 PTA (d)`, `AR 265 PA 2 ALN 1 PTA (e)`, `AR 265 PA 2 ALN 1 PTA (f)`, `AR 265 PA 2 ALN 1 PTA (g)`, `AR 265 PA 2 ALN 1 PTA (h)`, `AR 265 PA 2 ALN 1 PTA (i)`, `AR 265 PA 2 ALN 1 PTA (j)`, `AR 265 PA 2 ALN 1 PTA (k)`, `AR 265 PA 2 ALN 1 PTA (l)`, `AR 265 PA 2 ALN 1 PTA (m)`, `AR 265 PA 2 ALN 1 PTA (n)`, `AR 265 PA 2 ALN 1 PTA (o)`, `AR 265 PA 2 ALN 1 PTA (p)`, `AR 265 PA 2 ALN 1 PTA (q)`, `AR 265 PA 2 ALN 2`, `AR 265 PA 2 ALN 3`, `AR 265 PA 3 ALN 1`, `AR 265 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and entire content of Article 265 changed from provisions on additional own funds requirements for securitisations of revolving exposures with early amortisation to provisions on the scope and operational requirements for the Internal Assessment Approach. [Art. 265, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_265) [Art. 265, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_265)
+
+The earlier text set out a methodology for calculating a risk-weighted exposure amount for an originator's interest and investors' interest in revolving securitisations, whereas the later text instead sets out conditions under which institutions may use the Internal Assessment Approach for unrated ABCP positions, a list of criteria competent authorities must find met before granting permission, an independence requirement for review functions, and conditions for ceasing use of that approach. [Art. 265, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_265) [Art. 265, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_265)
+
+*before* (`02013R0575-20180101`)
+
+> Article 265
+> Additional own funds requirements for securitisations of revolving exposures with early amortisation provisions
+> 1. In addition to the risk-weighted exposure amounts calculated in respect of its securitisation positions, an originator institution shall calculate a risk-weighted exposure amount in accordance with the methodology set out in Article 256 when it sells revolving exposures into a securitisation that contains an early amortisation provision.
+> 2. By way of derogation from Article 256, the exposure value of the originators interest shall be the sum of the following items:
+> (a) the exposure value of that notional part of a pool of drawn amounts sold into a securitisation, the proportion of which in relation to the amount of the total pool sold into the structure determines the proportion of the cash flows generated by principal and interest collections and other associated amounts which are not available to make payments to those having securitisation positions in the securitisation;
+> (b) the exposure value of that part of the pool of undrawn amounts of the credit lines, the drawn amounts of which have been sold into the securitisation, the proportion of which to the total amount of such undrawn amounts is the same as the proportion of the exposure value described in point (a) to the exposure value of the pool of drawn amounts sold into the securitisation.
+> The originator's interest shall not be subordinate to the investors' interest.
+> The exposure value of the I […truncated by emendrix: 716 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 265
+> Scope and operational requirements for the Internal Assessment Approach
+> 1. Institutions may calculate the risk-weighted exposure amounts for unrated positions in ABCP programmes or ABCP transactions under the Internal Assessment Approach in accordance with Article 266 where the conditions set out in paragraph 2 of this Article are met.
+> Where an institution has received permission to apply the Internal Assessment Approach in accordance with paragraph 2 of this Article, and a specific position in an ABCP programme or ABCP transaction falls within the scope of application covered by such permission, the institution shall apply that approach to calculate the risk-weighted exposure amount of that position.
+> 2. The competent authorities shall grant institutions permission to apply the Internal Assessment Approach within a clearly defined scope of application where all of the following conditions are met:
+> (a) all positions in the commercial paper issued from the ABCP programme are rated positions;
+> (b) the internal assessment of the credit quality of the position reflects the publicly available assessment methodology of one or more ECAIs for the rating of securitisation positions backed by underlying exposures of the type securitised;
+> (c) the commercial paper issued from the ABCP programme is predominantly issued to third-party investors;
+> (d) the institution’s internal assessment process is at least as conservative as the publicly available assessments of those ECAIs which […truncated by emendrix: 5083 characters omitted…]
+
+**MODIFIED · Art. 266 — Calculation of risk-weighted exposure amounts under the Internal Assessment Approach** · applies from: unchanged
+
+*within* `AR 266`, `AR 266 PA 1 ALN 1`, `AR 266 PA 2 ALN 1`, `AR 266 PA 3`, `AR 266 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading and text of Article 266 changed entirely, moving from provisions on reducing risk-weighted exposure amounts through specific credit risk adjustments and own-funds deduction options to a new subject matter concerning the Internal Assessment Approach for unrated positions in ABCP programmes or transactions. [Art. 266, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_266) [Art. 266, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_266)
+
+The prior four paragraphs covering reductions for securitised and securitisation position exposures, the deduction alternative under Article 36(1)(k), and the related subtraction mechanism under Article 260 were replaced by two paragraphs describing how an institution assigns a derived rating to an unrated position using rating grades under Article 265(2) and how that derived rating is treated as an eligible credit assessment for calculations under Article 263 or Article 264. [Art. 266, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_266) [Art. 266, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_266)
+
+*before* (`02013R0575-20180101`)
+
+> Article 266
+> Reduction in risk-weighted exposure amounts
+> 1. The risk-weighted exposure amount of a securitisation position to which a 1250 % risk weight is assigned may be reduced by 12,5 times the amount of any specific credit risk adjustments treated in accordance with Article 110 made by the institution in respect of the securitised exposures. To the extent that specific credit adjustments are taken account of for this purpose they shall not be taken account of for the purposes of the calculation laid down in Article 159.
+> 2. The risk-weighted exposure amount of a securitisation position may be reduced by 12,5 times the amount of any specific credit risk adjustments treated in accordance with Article 110 made by the institution in respect of the position.
+> 3. As provided in Article 36(1)(k) in respect of a securitisation position in respect of which a 1250 % risk weight applies, institutions may, as an alternative to including the position in their calculation of risk-weighted exposure amounts, deduct from own funds the exposure value of the position subject to the following:
+> (a) the exposure value of the position may be derived from the risk-weighted exposure amounts taking into account any reductions made in accordance with paragraphs 1 and 2;
+> (b) the calculation of the exposure value may reflect eligible funded protection in a manner consistent with the methodology prescribed in Articles 247 and 264;
+> (c) where the Supervisory Formula Method is used to calculate risk-weight […truncated by emendrix: 462 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 266
+> Calculation of risk-weighted exposure amounts under the Internal Assessment Approach
+> 1. Under the Internal Assessment Approach, the institution shall assign the unrated position in the ABCP programme or ABCP transaction to one of the rating grades laid down in point (e) of Article 265(2) on the basis of its internal assessment. The position shall be attributed a derived rating which shall be the same as the credit assessments corresponding to that rating grade as laid down in point (e) of Article 265(2).
+> 2. The rating derived in accordance with paragraph 1 shall be at least at the level of investment grade or better at the time it was first assigned and shall be regarded as an eligible credit assessment by an ECAI for the purposes of calculating risk-weighted exposure amounts in accordance with Article 263 or Article 264, as applicable.
+
+**MODIFIED · Art. 267 — Maximum risk weight for senior securitisation positions: look-through approach** · applies from: unchanged
+
+*within* `AR 267`, `AR 267 PA 1`, `AR 267 PA 2`, `AR 267 PA 3`, `AR 267 PA 4`, `AR 267 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading changes from a rule about using ECAI credit assessments to determine securitisation position risk weights to a heading about a maximum risk weight for senior securitisation positions using a look-through approach. [Art. 267, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_267) [Art. 267, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_267)
+
+The prior single-sentence text on ECAI credit assessment endorsement is replaced by four numbered paragraphs describing how an institution with knowledge of underlying exposure composition may assign a maximum risk weight to a senior securitisation position, including rules for Standardised Approach, IRB Approach, and mixed pools, a definition of expected losses for IRB purposes, and a rule on using the lower risk weight compared to the floors in Articles 259 to 264. [Art. 267, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_267)
+
+*before* (`02013R0575-20180101`)
+
+> Article 267
+> Use of Credit Assessments by ECAIs
+> Institutions may use credit assessments to determine the risk weight of a securitisation position only where the credit assessment has been issued or has been endorsed by an ECAI in accordance with Regulation (EC) No 1060/2009.
+
+*after* (`02013R0575-20190101`)
+
+> Article 267
+> Maximum risk weight for senior securitisation positions: look-through approach
+> 1. An institution which has knowledge at all times of the composition of the underlying exposures may assign the senior securitisation position a maximum risk weight equal to the exposure-weighted-average risk weight that would be applicable to the underlying exposures as if the underlying exposures had not been securitised.
+> 2. In the case of pools of underlying exposures where the institution uses exclusively the Standardised Approach or the IRB Approach, the maximum risk weight of the senior securitisation position shall be equal to the exposure-weighted-average risk weight that would apply to the underlying exposures under Chapter 2 or 3, respectively, as if they had not been securitised.
+> In the case of mixed pools the maximum risk weight shall be calculated as follows:
+> (a) where the institution applies the SEC-IRBA, the Standardised Approach portion and the IRB Approach portion of the underlying pool shall each be assigned the corresponding Standardised Approach risk weight and IRB Approach risk weight respectively;
+> (b) where the institution applies the SEC-SA or the SEC-ERBA, the maximum risk weight for senior securitisation positions shall be equal to the Standardised Approach weighted-average risk weight of the underlying exposures.
+> 3. For the purposes of this Article, the risk weight that would be applicable under the IRB Approach in accordance with Chapter 3 shall include the r […truncated by emendrix: 317 characters omitted…]
+
+**MODIFIED · Art. 268 — Maximum capital requirements** · applies from: unchanged
+
+*within* `AR 268`, `AR 268 PA 1`, `AR 268 PA 2`, `AR 268 PA 3`, `AR 268 PA 4`, `AR 268 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading changes from concerning requirements for credit assessments by ECAIs to concerning maximum capital requirements, and its entire body is replaced with new provisions. [Art. 268, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_268) [Art. 268, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_268)
+
+The prior text set out conditions for using ECAI credit assessments, including payment-type matching, publication of loss and cash-flow analysis, and treatment of unfunded support, while the new text instead sets out rules for calculating a maximum capital requirement for securitisation positions, covering the SEC-IRBA, SEC-SA and SEC-ERBA approaches, mixed pools, the largest proportion of interest held in relevant tranches, and deduction of gains on sale and credit-enhancing interest-only strips from Common Equity Tier 1 items. [Art. 268, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_268) [Art. 268, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_268)
+
+*before* (`02013R0575-20180101`)
+
+> Article 268
+> Requirements to be met by the credit assessments of ECAIs
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Section 3, institutions shall only use a credit assessment of an ECAI if the following conditions are met:
+> (a) there shall be no mismatch between the types of payments reflected in the credit assessment and the types of payment to which the institution is entitled under the contract giving rise to the securitisation position in question;
+> (b) loss and cash-flow analysis as well as sensitivity of ratings to changes in the underlying ratings assumptions, including the performance of pool assets, shall be published by the ECAI as well as the credit assessments, procedures, methodologies, assumptions, and the key elements underpinning the assessments in accordance with Regulation (EC) No 1060/2009. Information that is made available only to a limited number of entities shall not be considered to have been published. The credit assessments shall be included in the ECAI's transition matrix;
+> (c) the credit assessment shall not be based or partly based on unfunded support provided by the institution itself. In such case, the institution shall consider the relevant position for the purposes of calculating risk-weighted exposure amounts for this position in accordance with Section 3 as if it were not rated.
+> The ECAI shall be committed to publish explanations how the performance of pool assets affects this credit assessment.
+
+*after* (`02013R0575-20190101`)
+
+> Article 268
+> Maximum capital requirements
+> 1. An originator institution, a sponsor institution or other institution using the SEC-IRBA or an originator institution or sponsor institution using the SEC-SA or the SEC-ERBA may apply a maximum capital requirement for the securitisation position it holds equal to the capital requirements that would be calculated under Chapter 2 or 3 in respect of the underlying exposures had they not been securitised. For the purposes of this Article, the IRB Approach capital requirement shall include the amount of the expected losses associated with those exposures calculated under Chapter 3 and that of unexpected losses.
+> 2. In the case of mixed pools, the maximum capital requirement shall be determined by calculating the exposure-weighted average of the capital requirements of the IRB Approach and Standardised Approach portions of the underlying exposures in accordance with paragraph 1.
+> 3. The maximum capital requirement shall be the result of multiplying the amount calculated in accordance with paragraphs 1 or 2 by the largest proportion of interest that the institution holds in the relevant tranches (V), expressed as a percentage and calculated as follows:
+> (a) for an institution that has one or more securitisation positions in a single tranche, V shall be equal to the ratio of the nominal amount of the securitisation positions that the institution holds in that given tranche to the nominal amount of the tranche;
+> (b) for an institution that has s […truncated by emendrix: 581 characters omitted…]
+
+**MODIFIED · Art. 269 — Re-securitisations** · applies from: unchanged
+
+*within* `AR 269`, `AR 269 PA 1 ALN 1`, `AR 269 PA 1 ALN 1 PTA (a)`, `AR 269 PA 1 ALN 1 PTA (b)`, `AR 269 PA 1 ALN 1 PTA (c)`, `AR 269 PA 2 ALN 1`, `AR 269 PA 2 ALN 1 PTA (a)`, `AR 269 PA 2 ALN 1 PTA (b)`, `AR 269 PA 2 ALN 1 PTA (c)`, `AR 269 PA 2 ALN 1 PTA (d)`, `AR 269 PA 3 ALN 1`, `AR 269 PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The article's heading and entire subject matter change from rules on the use of credit assessments from nominated ECAIs to rules specifically governing re-securitisation positions. [Art. 269, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_269) [Art. 269, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_269)
+
+The earlier text set out principles for consistent use of ECAI credit assessments across tranches and treatment of credit protection provided to the SSPE, while the later text instead specifies application of the SEC-SA method with a W value of zero, a p value of 1.5, a 100% risk-weight floor, calculation of KSA under Subsection 2, non-application of the maximum capital requirements of Subsection 4, and a weighted-average KA calculation for mixed pools. [Art. 269, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_269) [Art. 269, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_269)
+
+*before* (`02013R0575-20180101`)
+
+> Article 269
+> Use of credit assessments
+> 1. An institution may nominate one or more ECAIs the credit assessments of which shall be used in the calculation of its risk-weighted exposure amounts under this Chapter (a nominated ECAI).
+> 2. An institution shall use credit assessments consistently and not selectively in respect of its securitisation positions, in accordance with the following principles:
+> (a) an institution may not use an ECAI's credit assessments for its positions in some tranches and another ECAI's credit assessments for its positions in other tranches within the same securitisation that may or may not be rated by the first ECAI;
+> (b) where a position has two credit assessments by nominated ECAIs, the institution shall use the less favourable credit assessment;
+> (c) where a position has more than two credit assessments by nominated ECAIs, the two most favourable credit assessments shall be used. If the two most favourable assessments are different, the less favourable of the two shall be used;
+> (d) an institution shall not actively solicit the withdrawal of less favourable ratings.
+> 3. Where credit protection eligible under Chapter 4 is provided directly to the SSPE, and that protection is reflected in the credit assessment of a position by a nominated ECAI, the risk weight associated with that credit assessment may be used. Where the protection is not eligible under Chapter 4, the credit assessment shall not be recognised. Where the credit protection is not provided to t […truncated by emendrix: 97 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 269
+> Re-securitisations
+> 1. For a position in a re-securitisation, institutions shall apply the SEC-SA in accordance with Article 261, with the following changes:
+> (a) W = 0 for any exposure to a securitisation tranche within the pool of underlying exposures;
+> (b) p = 1,5;
+> (c) the resulting risk weight shall be subject to a risk-weight floor of 100 %.
+> 2. KSA for the underlying securitisation exposures shall be calculated in accordance with Subsection 2.
+> 3. The maximum capital requirements set out in Subsection 4 shall not be applied to re-securitisation positions.
+> 4. Where the pool of underlying exposures consists of a mix of securitisation tranches and other types of assets, the KA parameter shall be determined as the nominal exposure weighted-average of the KA calculated individually for each subset of exposures.
+
+**MODIFIED · Art. 270 — Senior positions in SME securitisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 270`, `AR 270 ALN 1`, `AR 270 ALN 1 PTA (a)`, `AR 270 ALN 1 PTA (b)`, `AR 270 ALN 1 PTA (c)`, `AR 270 ALN 1 PTA (d)`, `AR 270 ALN 1 PTA (e)`, `AR 270 ALN 2`, `AR 270 ALN 3` · *dates* -2014-07-01
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The heading changes from Mapping to Senior positions in SME securitisations, and the entire substantive content is replaced. [Art. 270, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_270) [Art. 270, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270)
+
+The earlier text described EBA's task of developing draft implementing technical standards to map ECAI credit assessments to credit quality steps, including the criteria to be applied and a submission deadline to the Commission, whereas the later text instead sets out conditions under which an originator institution may calculate risk-weighted exposure amounts for a senior securitisation position in an SME securitisation. [Art. 270, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_270) [Art. 270, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270)
+
+The later text introduces new conditions covering STS securitisation requirements, the seniority of the position, the composition of the underlying exposure pool, the transfer of credit risk through a guarantee or counter-guarantee, and the identity of the party to which that risk is transferred, none of which appear in the earlier text. [Art. 270, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270)
+
+*before* (`02013R0575-20180101`)
+
+> Article 270
+> Mapping
+> EBA shall develop draft implementing technical standards to determine, for all ECAIs, which of the credit quality steps set out in this Chapter are associated with the relevant credit assessments of an ECAI. Those determinations shall be objective and consistent, and carried out in accordance with the following principles:
+> (a) EBA shall differentiate between the relative degrees of risk expressed by each assessment;
+> (b) EBA shall consider quantitative factors, such as default and/or loss rates and the historical performance of credit assessments of each ECAI across different asset classes;
+> (c) EBA shall consider qualitative factors such as the range of transactions assessed by the ECAI, its methodology and the meaning of its credit assessments, in particular whether based on expected loss or first euro loss, and to timely payment of interest or to ultimate payment of interest;
+> (d) EBA shall seek to ensure that securitisation positions to which the same risk weight is applied on the basis of the credit assessments of ECAIs are subject to equivalent degrees of credit risk. EBA shall consider amending its determination as to the credit quality step with which a particular credit assessment shall be associated, as appropriate.
+> EBA shall submit those draft implementing technical standards to the Commission by 1 July 2014.
+> Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with A […truncated by emendrix: 42 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 270
+> Senior positions in SME securitisations
+> An originator institution may calculate the risk-weighted exposure amounts in respect of a securitisation position in accordance with Articles 260, 262 or 264, as applicable, where the following conditions are met:
+> (a) the securitisation meets the requirements for STS securitisation set out in Chapter 4 of Regulation (EU) 2017/2402 as applicable, other than Article 20(1) to (6) of that Regulation;
+> (b) the position qualifies as the senior securitisation position;
+> (c) the securitisation is backed by a pool of exposures to undertakings, provided that at least 70 % of those in terms of portfolio balance qualify as SMEs within the meaning of Article 501 at the time of issuance of the securitisation or in the case of revolving securitisations at the time an exposure is added to the securitisation;
+> (d) the credit risk associated with the positions not retained by the originator institution is transferred through a guarantee or a counter-guarantee meeting the requirements for unfunded credit protection set out in Chapter 4 for the Standardised Approach to credit risk;
+> (e) the third party to which the credit risk is transferred is one or more of the following:
+> (i) the central government or the central bank of a Member State, a multilateral development bank, an international organisation or a promotional entity, provided that the exposures to the guarantor or counter-guarantor qualify for a 0 % risk weight under Chapter 2;
+> (ii) an ins […truncated by emendrix: 211 characters omitted…]
+
+**INSERTED · Art. 270a — Additional risk weight** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This provision, Article 270a on additional risk weight, is new and did not exist in the earlier version of the text. [Art. 270a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270a)
+
+It sets out that competent authorities impose an additional risk weight where an institution fails to meet the due diligence requirements of Chapter 2 of Regulation (EU) 2017/2402 by reason of negligence or omission, and it directs the EBA to develop implementing technical standards to promote convergence in the application of that rule. [Art. 270a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270a)
+
+*after* (`02013R0575-20190101`)
+
+> Article 270a
+> Additional risk weight
+> 1. Where an institution does not meet the requirements in Chapter 2 of Regulation (EU) 2017/2402 in any material respect by reason of negligence or omission by the institution, the competent authorities shall impose a proportionate additional risk weight of no less than 250 % of the risk weight, capped at 1250 %, which shall apply to the relevant securitisation positions in the manner specified in Article 247(6) or Article 337(3) of this Regulation respectively. The additional risk weight shall progressively increase with each subsequent infringement of the due diligence and risk management provisions. The competent authorities shall take into account the exemptions for certain securitisations provided for in Article 6(5)) of Regulation (EU) 2017/2402 by reducing the risk weight they would otherwise impose under this Article in respect of a securitisation to which Article 6(5) of Regulation (EU) 2017/2402 applies.
+> 2. The EBA shall develop draft implementing technical standards to facilitate the convergence of supervisory practices with regard to the implementation of paragraph 1, including the measures to be taken in the case of breach of the due diligence and risk management obligations. The EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+> Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance […truncated by emendrix: 48 characters omitted…]
+
+**INSERTED · Art. 270b — Use of credit assessments by ECAIs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This provision is new, adding Article 270b to set out that institutions may only use credit assessments to determine the risk weight of a securitisation position where the credit assessment has been issued or endorsed by an ECAI in accordance with Regulation (EC) No 1060/2009. [Art. 270b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270b)
+
+*after* (`02013R0575-20190101`)
+
+> Article 270b
+> Use of credit assessments by ECAIs
+> Institutions may use only credit assessments to determine the risk weight of a securitisation position in accordance with this Chapter where the credit assessment has been issued or has been endorsed by an ECAI in accordance with Regulation (EC) No 1060/2009.
+
+**INSERTED · Art. 270c — Requirements to be met by the credit assessments of ECAIs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Article 270c is a newly added provision setting out conditions that institutions must satisfy before using an ECAI credit assessment for calculating risk-weighted exposure amounts under Section 3, covering matters such as payment-type matching, public availability of the ECAI's methodologies and data, inclusion in the ECAI's transition matrix, the absence of unfunded support from the institution itself, and a commitment by the ECAI to publish explanations of how underlying exposure performance affects the credit assessment. [Art. 270c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270c)
+
+There is no prior version of this article to compare against, as it did not exist before this insertion. [Art. 270c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270c)
+
+*after* (`02013R0575-20190101`)
+
+> Article 270c
+> Requirements to be met by the credit assessments of ECAIs
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Section 3, institutions shall only use a credit assessment of an ECAI where all of the following conditions are met:
+> (a) there is no mismatch between the types of payments reflected in the credit assessment and the types of payments to which the institution is entitled under the contract giving rise to the securitisation position in question;
+> (b) the ECAI publishes the credit assessments and information on loss and cash-flow analysis, sensitivity of ratings to changes in the underlying ratings assumptions, including the performance of underlying exposures, and on the procedures, methodologies, assumptions, and key elements underpinning the credit assessments in accordance with Regulation (EC) No 1060/2009. For the purposes of this point, information shall be considered as publicly available where it is published in accessible format. Information that is made available only to a limited number of entities shall not be considered as publicly available;
+> (c) the credit assessments are included in the ECAI’s transition matrix;
+> (d) the credit assessments are not based or partly based on unfunded support provided by the institution itself. Where a position is based or partly based on unfunded support, the institution shall consider that position as if it were unrated for the purposes of calculating risk-weighted exposure amounts for […truncated by emendrix: 176 characters omitted…]
+
+**INSERTED · Art. 270d — Use of credit assessments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new provision setting out rules on how an institution uses credit assessments from External Credit Assessment Institutions (ECAIs) when calculating risk-weighted exposure amounts for securitisation positions, including the nomination of ECAIs, consistent and non-selective use of their ratings, and treatment of positions with multiple credit assessments. [Art. 270d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270d)
+
+It also addresses how credit assessments interact with eligible credit protection, specifying that a risk weight reflecting protection already factored into a nominated ECAI's assessment is used, and that where such protection is not eligible or must otherwise be disregarded the position is treated as unrated. [Art. 270d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270d)
+
+*after* (`02013R0575-20190101`)
+
+> Article 270d
+> Use of credit assessments
+> 1. An institution may decide to nominate one or more ECAIs the credit assessments of which shall be used in the calculation of its risk-weighted exposure amounts under this Chapter (a nominated ECAI).
+> 2. An institution shall use the credit assessments of its securitisation positions in a consistent and non-selective manner and, for these purposes, shall comply with the following requirements:
+> (a) an institution shall not use an ECAI’s credit assessments for its positions in some tranches and another ECAI’s credit assessments for its positions in other tranches within the same securitisation that may or may not be rated by the first ECAI;
+> (b) where a position has two credit assessments by nominated ECAIs, the institution shall use the less favourable credit assessment;
+> (c) where a position has three or more credit assessments by nominated ECAIs, the two most favourable credit assessments shall be used. Where the two most favourable assessments are different, the less favourable of the two shall be used;
+> (d) an institution shall not actively solicit the withdrawal of less favourable ratings.
+> 3. Where the exposures underlying a securitisation benefit from full or partial eligible credit protection in accordance with Chapter 4, and the effect of such protection has been reflected in the credit assessment of a securitisation position by a nominated ECAI, the institution shall use the risk weight associated with that credit assessment. Where t […truncated by emendrix: 551 characters omitted…]
+
+**INSERTED · Art. 270e — Securitisation mapping** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+This is a new Article 270e, titled Securitisation mapping, which did not appear in the earlier version of the text. [Art. 270e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270e)
+
+It directs the EBA to draft implementing technical standards mapping credit quality steps to ECAI credit assessments, listing factors such as differentiating degrees of risk, considering quantitative and qualitative factors, and seeking equivalent credit risk treatment for positions sharing a risk weight, with submission to the Commission by 1 July 2014 and adoption power conferred under Article 15 of Regulation (EU) No 1093/2010. [Art. 270e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270e)
+
+*after* (`02013R0575-20190101`)
+
+> Article 270e
+> Securitisation mapping
+> The EBA shall develop draft implementing technical standards to map in an objective and consistent manner the credit quality steps set out in this Chapter relative to the relevant credit assessments of all ECAIs. For the purposes of this Article, the EBA shall in particular:
+> (a) differentiate between the relative degrees of risk expressed by each assessment;
+> (b) consider quantitative factors, such as default or loss rates and the historical performance of credit assessments of each ECAI across different asset classes;
+> (c) consider qualitative factors such as the range of transactions assessed by the ECAI, its methodology and the meaning of its credit assessments in particular whether such assessments take into account expected loss or first Euro loss, and timely payment of interests or ultimate payment of interests;
+> (d) seek to ensure that securitisation positions to which the same risk weight is applied on the basis of the credit assessments of ECAIs are subject to equivalent degrees of credit risk.
+> The EBA shall submit those draft implementing technical standards to the Commission by 1 July 2014.
+> Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+**MODIFIED · Art. 276 — Standardised Method** · applies from: unchanged
+
+*within* `AR 276 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula in paragraph 2 shows a minor formatting change, with a comma and space inserted between the CMV and CMC terms in the exposure value expression. [Art. 276, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_276) [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_276)
+
+No wording elsewhere in Article 276 differs between the two versions. [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_276)
+
+*before* (`02013R0575-20180101`)
+
+> Article 276
+> Standardised Method
+> 1. Institutions may use the Standardised Method (hereinafter referred to as SM) only for calculating the exposure value for OTC derivatives and long settlement transactions.
+> 2. When applying the SM, institutions shall calculate the exposure value separately for each netting set, net of collateral, as follows:Exposure valueβ  max CMV  CMC ,jiRPTij  lRPClj  CCRMj
+> where:
+> CMV
+> current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, where:CMViCMVi
+> where:
+> CMVi
+> the current market value of transaction i;
+> CMC
+> the current market value of the collateral assigned to the netting set, where:CMClCMCl
+> where:
+> CMCl
+> the current market value of collateral l;
+> i
+> index designating transaction;
+> l
+> index designating collateral;
+> j
+> index designating hedging set category;
+> The hedging sets for this purpose correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based.
+> RPTij
+> risk position from transaction i with respect to hedging set j;
+> RPClj
+> risk position from collateral l with respect to hedging set j;
+> CCRMj
+> CCR Multiplier set out in Table 5 with respect to hedging set j;
+> β
+> 1,4.
+> 3. For the purposes of the calculation under paragraph 2:
+> (a) eligible collateral received from a counterparty shall have a positive sign and collateral posted to a counterparty shall have a negative sign;
+> (b) only collateral that is eligible un […truncated by emendrix: 420 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 276
+> Standardised Method
+> 1. Institutions may use the Standardised Method (hereinafter referred to as SM) only for calculating the exposure value for OTC derivatives and long settlement transactions.
+> 2. When applying the SM, institutions shall calculate the exposure value separately for each netting set, net of collateral, as follows:Exposure valueβ  max CMV  CMC, jiRPTij  lRPClj  CCRMj
+> where:
+> CMV
+> current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, where:CMViCMVi
+> where:
+> CMVi
+> the current market value of transaction i;
+> CMC
+> the current market value of the collateral assigned to the netting set, where:CMClCMCl
+> where:
+> CMCl
+> the current market value of collateral l;
+> i
+> index designating transaction;
+> l
+> index designating collateral;
+> j
+> index designating hedging set category;
+> The hedging sets for this purpose correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based.
+> RPTij
+> risk position from transaction i with respect to hedging set j;
+> RPClj
+> risk position from collateral l with respect to hedging set j;
+> CCRMj
+> CCR Multiplier set out in Table 5 with respect to hedging set j;
+> β
+> 1,4.
+> 3. For the purposes of the calculation under paragraph 2:
+> (a) eligible collateral received from a counterparty shall have a positive sign and collateral posted to a counterparty shall have a negative sign;
+> (b) only collateral that is eligible un […truncated by emendrix: 420 characters omitted…]
+
+**MODIFIED · Art. 337 — Own funds requirement for securitisation instruments** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 337 PA 1 ALN 1`, `AR 337 PA 1 ALN 1 PTA (a)`, `AR 337 PA 1 ALN 1 PTA (b)`, `AR 337 PA 2 ALN 1`, `AR 337 PA 2 ALN 2`, `AR 337 PA 2 ALN 3`, `AR 337 PA 2 ALN 4`, `AR 337 PA 3 ALN 1`, `AR 337 PA 3 ALN 2`, `AR 337 PA 4 ALN 1`, `AR 337 PA 5 ALN 1`, `AR 337 PA 5 ALN 2` · *dates* -2014-12-31 · *amended by* `32017R2401`
+
+Paragraph 1 no longer distinguishes between the Standardised Approach and Internal Ratings Based Approach for weighting net securitisation positions, instead applying a single 8% factor based on whatever risk weight the institution would apply to the position in its non-trading book under Section 3 of Chapter 5 of Title II. [Art. 337, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_337) [Art. 337, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_337)
+
+Paragraph 2 removes the Supervisory Formula Method and its related permission provisions, retaining only the option to derive PD and LGD estimates from an internal incremental default and migration risk model (IRC model), and paragraph 3 changes its cross-reference from Article 407 to Article 247(6). [Art. 337, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_337) [Art. 337, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_337)
+
+The transitional provision in the earlier paragraph 4, which allowed separate summing of long and short positions until 31 December 2014 and quarterly reporting of totals, has been deleted, and paragraph 4 now simply directs summing of weighted positions from paragraphs 1 to 3, while paragraph 5 updates its cross-references from Articles 243 and 244 to Articles 244 and 245 and rephrases the treatment of underlying exposures and credit protection. [Art. 337, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_337) [Art. 337, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_337)
+
+*before* (`02013R0575-20180101`)
+
+> Article 337
+> Own funds requirement for securitisation instruments
+> 1. For instruments in the trading book that are securitisation positions, the institution shall weight with the following its net positions as calculated in accordance with Article 327(1):
+> (a) for securitisation positions that would be subject to the Standardised Approach for credit risk in the same institution's non-trading book, 8 % of the risk weight under the Standardised Approach as set out in Title II, Chapter 5, Section 3;
+> (b) for securitisation positions that would be subject to the Internal Ratings Based Approach in the same institution's non-trading book, 8 % of the risk weight under the Internal Ratings Based Approach as set out in Title II, Chapter 5, Section 3.
+> 2. The Supervisory Formula Method set out in Article 262 may be used where the institution can produce estimates of PD, and where applicable exposure value and LGD as inputs into the Supervisory Formula Method in accordance with the requirements for the estimation of those parameters under the Internal Ratings Based Approach in accordance with Title II, Chapter 3.
+> An institution other than an originator institution that could apply it for the same securitisation position in its non-trading book may only use that method subject to permission by the competent authorities, which shall be granted where the institution fulfils the condition in the first subparagraph.
+> Estimates of PD and LGD as inputs to the Supervisory Formula Method may alternati […truncated by emendrix: 2254 characters omitted…]
+
+*after* (`02013R0575-20190101`)
+
+> Article 337
+> Own funds requirement for securitisation instruments
+> 1. For instruments in the trading book that are securitisation positions, the institution shall weight the net positions as calculated in accordance with Article 327(1) with 8 % of the risk weight the institution would apply to the position in its non-trading book according to Section 3 of Chapter 5 of Title II.
+> 2. When determining risk weights for the purposes of paragraph 1, estimates of PD and LGD may be determined based on estimates that are derived from an internal incremental default and migration risk model (IRC model) of an institution that has been granted permission to use an internal model for specific risk of debt instruments. The latter alternative may be used only subject to permission by the competent authorities, which shall be granted if those estimates meet the quantitative requirements for the IRB Approach set out in Chapter 3 of Title II.
+> In accordance with Article 16 of Regulation (EU) No 1093/2010, the EBA shall issue guidelines on the use of estimates of PD and LGD as inputs when those estimates are based on an IRC model.
+> 3. For securitisation positions that are subject to an additional risk weight in accordance with Article 247(6), 8 % of the total risk weight shall be applied.
+> 4. The institution shall sum its weighted positions resulting from the application of paragraphs 1, 2 and 3 regardless of whether they are long or short, in order to calculate its own funds requirement against spec […truncated by emendrix: 814 characters omitted…]
+
+**MODIFIED · Art. 457 — Technical adjustments and corrections** · applies from: unchanged
+
+*within* `AR 457 ALN 1 PTA (c)` · *amended by* `32017R2401`
+
+The article range cited in point (c) for own funds requirements for securitisation was changed from Articles 243 to 266 to Articles 242 to 270a. [Art. 457, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_457) [Art. 457, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_457)
+
+*before* (`02013R0575-20180101`)
+
+> Article 457
+> Technical adjustments and corrections
+> The Commission shall be empowered to adopt delegated acts in accordance with Article 462, to make technical adjustment and corrections of non-essential elements in the following provisions in order to take account of developments in new financial products or activities, to make adjustments taking into account developments after the adoption of this Regulation in other legislative acts of the Union on financial services and accounting including accounting standards based on Regulation (EC) No 1606/2002:
+> (a) the own funds requirements for credit risk laid down in Articles 111 to 134, and in Articles 143 to 191;
+> (b) the effects of credit risk mitigation in accordance with Articles 193 to 241;
+> (c) the own funds requirements for securitisation laid down in Articles 243 to 266;
+> (d) the own funds requirements for counterparty credit risks in accordance with Articles 272 to 311;
+> (e) the own funds requirements for operational risk laid down in Articles 315 to 324;
+> (f) the own funds requirements for market risk laid down in Articles 325 to 377;
+> (g) the own funds requirements for settlement risk laid down in Articles 378 and 379;
+> (h) the own funds requirements for credit valuation adjustment risk laid down in Articles 383, 384 and 386;
+> (i) Part Two and Article 99 only as a result of developments in accounting standards or requirements which take account of Union legislation.
+
+*after* (`02013R0575-20190101`)
+
+> Article 457
+> Technical adjustments and corrections
+> The Commission shall be empowered to adopt delegated acts in accordance with Article 462, to make technical adjustment and corrections of non-essential elements in the following provisions in order to take account of developments in new financial products or activities, to make adjustments taking into account developments after the adoption of this Regulation in other legislative acts of the Union on financial services and accounting including accounting standards based on Regulation (EC) No 1606/2002:
+> (a) the own funds requirements for credit risk laid down in Articles 111 to 134, and in Articles 143 to 191;
+> (b) the effects of credit risk mitigation in accordance with Articles 193 to 241;
+> (c) the own funds requirements for securitisation laid down in Articles 242 to 270a;
+> (d) the own funds requirements for counterparty credit risks in accordance with Articles 272 to 311;
+> (e) the own funds requirements for operational risk laid down in Articles 315 to 324;
+> (f) the own funds requirements for market risk laid down in Articles 325 to 377;
+> (g) the own funds requirements for settlement risk laid down in Articles 378 and 379;
+> (h) the own funds requirements for credit valuation adjustment risk laid down in Articles 383, 384 and 386;
+> (i) Part Two and Article 99 only as a result of developments in accounting standards or requirements which take account of Union legislation.
+
+**MODIFIED · Art. 462 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 462 PA 2 ALN 1`, `AR 462 PA 3 ALN 1`, `AR 462 PA 4 ALN 1`, `AR 462 PA 5 ALN 1`, `AR 462 PA 6` · *dates* +2016-04-13 · *amended by* `32017R2401`
+
+Paragraphs 2, 3 and 6 now also reference Articles 244(6) and 245(6) alongside Articles 456 to 460 when describing the delegated power, its revocation, and the objection period. [Art. 462, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_462)
+
+A new paragraph 4 has been inserted requiring the Commission to consult experts designated by each Member State before adopting a delegated act, in accordance with the Interinstitutional Agreement of 13 April 2016 on Better Law-Making, which shifts the former paragraphs 4 and 5 down to become paragraphs 5 and 6. [Art. 462, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_462)
+
+The earlier version contained no such consultation requirement and referred only to Articles 456 to 460 throughout, with the notification duty as paragraph 4 and the objection-period rule as paragraph 5. [Art. 462, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_462)
+
+*before* (`02013R0575-20180101`)
+
+> Article 462
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 456 to 460 shall be conferred for an indeterminate period of time from 28 June 2013.
+> 3. The delegation of power referred to in Articles 456 to 460 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Articles 456 to 460 shall enter into force only if no objection has been expressed by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+*after* (`02013R0575-20190101`)
+
+> Article 462
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 244(6) and 245(6) and in Articles 456 to 460 shall be conferred on the Commission for an indeterminate period of time from 28 June 2013.
+> 3. The delegation of power referred to in Articles 244(6) and 245(6) and in Articles 456 to 460 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 6. A delegated act adopted pursuant to Articles 244(6) and 245(6) and Articles 456 to 460 shall enter into force only if no objection has been expressed by the European Parliament or the Council within a period of 3 months of notification of that act to the European Parliament and the Coun […truncated by emendrix: 251 characters omitted…]
+
+**MODIFIED · Art. 471** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 519a — Reporting and review** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32017R2401`
+
+A new Article 519a is added, requiring the Commission to report to the European Parliament and the Council on the application of the securitisation provisions in Chapter 5 of Title II of Part Three, covering matters such as the impact of the hierarchy of methods and risk-weight calculations, financial stability effects, possible measures including a maximum exposure limit, and effects on funding to the real economy including SMEs. [Art. 519a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_519a)
+
+The new provision also states that the report shall take into account regulatory developments in international fora relating to international standards on securitisation. [Art. 519a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_519a)
+
+*after* (`02013R0575-20190101`)
+
+> Article 519a
+> Reporting and review
+> By 1 January 2022, the Commission shall report to the European Parliament and the Council on the application of the provisions in Chapter 5 of Title II of Part Three in the light of developments in securitisation markets, including from a macroprudential and economic perspective. That report shall, if appropriate, be accompanied by a legislative proposal and shall, in particular, assess the following points:
+> (a) the impact of the hierarchy of methods set out in Article 254 and of the calculation of the risk-weighted exposure amounts of securitisation positions set out in Articles 258 to 266 on issuance and investment activity by institutions in securitisation markets in the Union;
+> (b) the effects on the financial stability of the Union and Member States, with a particular focus on potential immovable property market speculation and increased interconnection between financial institutions;
+> (c) what measures would be warranted to reduce and counter any negative effects of securitisation on financial stability while preserving its positive effect on financing, including the possible introduction of a maximum limit on exposure to securitisations; and
+> (d) the effects on the ability of financial institutions to provide a sustainable and stable funding channel to the real economy, with particular attention to SMEs.
+> The report shall also take into account regulatory developments in international fora, in particular those relating to international sta […truncated by emendrix: 25 characters omitted…]
+
+**MODIFIED · P 3** · applies from: unknown
+
+*amended by* `32017R2401`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · P 5** · applies from: unknown
+
+*amended by* `32017R2401`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20180101 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20160719` → `02013R0575-20180101`
