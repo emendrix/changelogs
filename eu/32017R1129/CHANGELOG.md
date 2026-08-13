@@ -10,6 +10,444 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20260605 -->
+## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
+### `02017R1129-20260305` → `02017R1129-20260605`
+
+- **Act** `eu:32017R1129` · **In force** 2026-06-05 · **Detected** 2026-08-13
+- **Touched** 30 provisions — 30 substantive · 0 date-only · **25 disputed**
+- **Diff** 2 inserted · 25 modified · 3 deleted · 0 renumbered · 0 deferred · 58 unchanged
+- **Gate** 0 sentences quoted verbatim · 25 changes shipped without an explanation
+- **Citations** `v1` = `02017R1129-20260305` · `v2` = `02017R1129-20260605`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 3 — Obligation to publish a prospectus and exemption** · applies from: unchanged
+
+*within* `AR 3 PA 1 ALN 1`, `AR 3 PA 2 ALN 1`, `AR 3 PA 2 ALN 1 PTA (a)`, `AR 3 PA 2 ALN 1 PTA (b)`, `AR 3 PA 2a`, `AR 3 PA 2b`, `AR 3 PA 2c`, `AR 3 PA 2d` · *amended by* `32024R2809`
+
+Paragraph 1 now also refers to a new paragraph 2a in addition to Article 1(4) and paragraph 2 when stating the prior-publication requirement. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_3)
+
+Paragraph 2 no longer describes the exemption as a Member State option but states that qualifying offers shall be exempted, and the monetary threshold in point (b) changes from a Member-State-set amount not exceeding EUR 8000000 to a fixed EUR 12000000 per issuer or offeror, with the notification obligation moved out of paragraph 2 into new paragraphs 2b, and new paragraphs 2a, 2c and 2d added covering a lower EUR 5000000 derogation threshold, aggregation rules for calculating total consideration, and an optional national disclosure document. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_3)
+
+*before* (`02017R1129-20260305`)
+
+> Article 3
+> Obligation to publish a prospectus and exemption
+> 1. Without prejudice to Article 1(4), securities shall only be offered to the public in the Union after prior publication of a prospectus in accordance with this Regulation.
+> 2. Without prejudice to Article 4, a Member State may decide to exempt offers of securities to the public from the obligation to publish a prospectus set out in paragraph 1 provided that:
+> (a) such offers are not subject to notification in accordance with Article 25; and
+> (b) the total consideration of each such offer in the Union is less than a monetary amount calculated over a period of 12 months which shall not exceed EUR 8000000.
+> Member States shall notify the Commission and ESMA whether and how they decide to apply the exemption pursuant to the first subparagraph, including the monetary amount below which the exemption for offers in that Member State applies. They shall also notify the Commission and ESMA of any subsequent changes to that monetary amount.
+> 3. Without prejudice to Article 1(5), securities shall only be admitted to trading on a regulated market situated or operating within the Union after prior publication of a prospectus in accordance with this Regulation.
+
+*after* (`02017R1129-20260605`)
+
+> Article 3
+> Obligation to publish a prospectus and exemption
+> 1. Without prejudice to Article 1(4) and to paragraphs 2 and 2a of this Article, securities shall only be offered to the public in the Union after prior publication of a prospectus in accordance with this Regulation.
+> 2. Without prejudice to Article 4, offers of securities to the public shall be exempted from the obligation to publish a prospectus set out in paragraph 1 provided that:
+> (a) such offers are not subject to notification in accordance with Article 25;
+> (b) the total aggregated consideration in the Union for the securities offered is less than EUR 12000000 per issuer or offeror calculated over a period of 12 months.
+> 2a. By way of derogation from paragraph 2, point (b), Member States may exempt offers of securities to the public from the obligation to publish a prospectus set out in paragraph 1 provided that the total aggregated consideration in the Union for the securities offered is less than EUR 5000000 per issuer or offeror calculated over a period of 12 months.
+> 2b. Member States shall notify the Commission and ESMA where they decide to adopt the exemption threshold of EUR 5000000 laid down in paragraph 2a. Member States shall also notify the Commission and ESMA where they subsequently decide to adopt instead the exemption threshold of EUR 12000000 referred to in paragraph 2, point (b).
+> 2c. The total aggregated consideration for the securities offered to the public, as referred to in paragraph 2, point (b), […truncated by emendrix: 1438 characters omitted…]
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6 — The prospectus** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 6 PA 2 ALN 1`, `AR 6 PA 2 ALN 2`, `AR 6 PA 4`, `AR 6 PA 5`, `AR 6 PA 6`, `AR 6 PA 7`, `AR 6 PA 8` · *dates* +2019-03-14 +2025-12-05 · *amended by* `32024R2809`
+
+Paragraph 2 now requires the prospectus itself to be a document of standardised format with information presented in a standardised sequence in accordance with delegated acts under Article 13(1), and it adds a derogation allowing information in a universal registration document to depart from the standardised format, sequence, maximum length, template and layout, including font size and style requirements. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+
+New paragraphs 4, 5 and 6 have been added, imposing a 300-side A4 maximum length and readability requirements for share prospectuses, excluding certain items such as the summary and incorporated-by-reference information from that length count, and creating a derogation from the standardised format, length, template and layout rules for securities admitted to trading in the Union while simultaneously offered or privately placed in a third country. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+
+New paragraphs 7 and 8 have been added directing ESMA to develop guidelines on comprehensibility and plain language and to develop draft implementing technical standards on template and layout, with paragraph 8 stating that ESMA shall submit those draft standards to the Commission by 5 December 2025. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+
+*before* (`02017R1129-20260305`)
+
+> Article 6
+> The prospectus
+> 1. Without prejudice to Article 14a(2), Article 15a(2) and Article 18(1), a prospectus shall contain the necessary information which is material to an investor for making an informed assessment of:
+> (a) the assets and liabilities, profits and losses, financial position, and prospects of the issuer and of any guarantor;
+> (b) the rights attaching to the securities; and
+> (c) the reasons for the issuance and its impact on the issuer.
+> That information may vary depending on any of the following:
+> (a) the nature of the issuer;
+> (b) the type of securities;
+> (c) the circumstances of the issuer;
+> (d) where relevant, whether or not the non-equity securities have a denomination per unit of at least EUR 100000 or are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in the securities.
+> 2. The information in a prospectus shall be written and presented in an easily analysable, concise and comprehensible form, taking into account the factors set out in the second subparagraph of paragraph 1.
+> 3. The issuer, offeror or person asking for the admission to trading on a regulated market may draw up the prospectus as a single document or as separate documents.
+> Without prejudice to Article 8(8) and the second subparagraph of Article 7(1), a prospectus composed of separate documents shall divide the required information into a registration document, a securities note and a summary. The […truncated by emendrix: 226 characters omitted…]
+
+*after* (`02017R1129-20260605`)
+
+> Article 6
+> The prospectus
+> 1. Without prejudice to Article 14a(2), Article 15a(2) and Article 18(1), a prospectus shall contain the necessary information which is material to an investor for making an informed assessment of:
+> (a) the assets and liabilities, profits and losses, financial position, and prospects of the issuer and of any guarantor;
+> (b) the rights attaching to the securities; and
+> (c) the reasons for the issuance and its impact on the issuer.
+> That information may vary depending on any of the following:
+> (a) the nature of the issuer;
+> (b) the type of securities;
+> (c) the circumstances of the issuer;
+> (d) where relevant, whether or not the non-equity securities have a denomination per unit of at least EUR 100000 or are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in the securities.
+> 2. The prospectus shall be a document of a standardised format and the information disclosed in a prospectus shall be presented in a standardised sequence, in accordance with the delegated acts referred to in Article 13(1). The information in a prospectus shall be written and presented in an easily analysable, concise and comprehensible form, taking into account the factors set out in paragraph 1, second subparagraph, of this Article.
+> By way of derogation from the first subparagraph, from paragraphs 4 and 5 and from the requirements set out in the implementing technical standards adopted purs […truncated by emendrix: 3491 characters omitted…]
+
+**MODIFIED · Art. 7 — The prospectus summary** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 7 PA 3 ALN 2`, `AR 7 PA 4 ALN 1`, `AR 7 PA 5 ALN 1`, `AR 7 PA 5 ALN 1 PTA (f)`, `AR 7 PA 5 ALN 1 PTA (g)`, `AR 7 PA 6 ALN 1`, `AR 7 PA 6 ALN 1 PTA (a) PTI (vi)`, `AR 7 PA 7 ALN 1`, `AR 7 PA 8 ALN 1` · *dates* +2020-06-18 · *amended by* `32024R2809`
+
+The revised text specifies that the four summary sections, and the items and warnings within paragraphs 4 through 8, must appear in a stated order, and allows the summary to present or summarise information using charts, graphs or tables. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
+
+It adds a new warning item on an environmental issues statement under Article 16 and a new item under paragraph 6 requiring, for equity issuers subject to Article 8 of Regulation (EU) 2020/852, a statement on whether the issuer's activities are associated with environmentally sustainable economic activities under Articles 3 and 9 of that Regulation. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
+
+The rule on extending the maximum page length when guarantor information is included is changed from a flat one additional side to one additional side per guarantor, conditioned on those extra sides being dedicated to describing the guarantors. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7)
+
+*before* (`02017R1129-20260305`)
+
+> Article 7
+> The prospectus summary
+> 1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.
+> By way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:
+> (a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or
+> (b) such securities have a denomination per unit of at least EUR 100000.
+> 2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.
+> 3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:
+> (a) be presented and laid out in a way that is easy to read, using characters of readable size;
+> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 15024 characters omitted…]
+
+*after* (`02017R1129-20260605`)
+
+> Article 7
+> The prospectus summary
+> 1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.
+> By way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:
+> (a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or
+> (b) such securities have a denomination per unit of at least EUR 100000.
+> 2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.
+> 3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:
+> (a) be presented and laid out in a way that is easy to read, using characters of readable size;
+> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 16136 characters omitted…]
+
+**MODIFIED · Art. 9** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13 — Minimum information and format** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 13 PA 1 ALN 1`, `AR 13 PA 1 ALN 1 PTA (e)`, `AR 13 PA 1 ALN 1 PTA (f)`, `AR 13 PA 1 ALN 1 PTA (g)`, `AR 13 PA 1a`, `AR 13 PA 2 ALN 1` · *dates* -2019-01-21 +2013-06-26 +2023-11-22 +2026-06-05 · *amended by* `32024R2809`
+
+Paragraph 1 now sets a deadline of 5 June 2026 for the Commission to adopt the delegated acts and refers to a standardised format and standardised sequence of the prospectus rather than simply its format, replacing the earlier open-ended wording. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
+
+The list of matters to be taken into account when setting prospectus schedules gains two new points, one on sustainability reporting and assurance opinions for issuers of equity securities under Directive 2004/109/EC and Directive 2013/34/EU, and one on whether non-equity securities are advertised as taking ESG factors or objectives into account. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
+
+A new paragraph 1a is added addressing European Green Bonds and sustainability-linked or environmentally sustainable bonds under Regulation (EU) 2023/2631, and paragraph 2's deadline for the universal registration document schedule is changed from 21 January 2019 to 5 June 2026, with its wording changed from defining to specifying the minimum information. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_13)
+
+*before* (`02017R1129-20260305`)
+
+> Article 13
+> Minimum information and format
+> 1. The Commission shall adopt delegated acts in accordance with Article 44 to supplement this Regulation regarding the format of the prospectus, the base prospectus and the final terms, and the schedules defining the specific information to be included in a prospectus, including LEIs and ISINs, avoiding duplication of information when a prospectus is composed of separate documents.
+> In particular, when setting out the various prospectus schedules, account shall be taken of the following:
+> (a) the various types of information needed by investors relating to equity securities as compared with non-equity securities; a consistent approach shall be taken with regard to information required in a prospectus for securities which have a similar economic rationale, notably derivative securities;
+> (b) the various types and characteristics of offers and admissions to trading on a regulated market of non-equity securities;
+> (c) the format used and the information required in base prospectuses relating to non-equity securities, including warrants in any form;
+> (d) where applicable, the public nature of the issuer;
+> (e) where applicable, the specific nature of the activities of the issuer.
+> For the purposes of point (b) of the second subparagraph, when setting out the various prospectus schedules, the Commission shall set out specific information requirements for prospectuses that relate to the admission to trading on a regulated market of non-equity secur […truncated by emendrix: 1443 characters omitted…]
+
+*after* (`02017R1129-20260605`)
+
+> Article 13
+> Minimum information and format
+> 1. By 5 June 2026, the Commission shall adopt delegated acts in accordance with Article 44 to supplement this Regulation regarding the standardised format and standardised sequence of the prospectus, the base prospectus and the final terms, and the schedules defining the specific information to be included in a prospectus, including LEIs and ISINs, avoiding duplication of information when a prospectus is composed of separate documents.
+> In particular, when setting out the various prospectus schedules, account shall be taken of the following:
+> (a) the various types of information needed by investors relating to equity securities as compared with non-equity securities; a consistent approach shall be taken with regard to information required in a prospectus for securities which have a similar economic rationale, notably derivative securities;
+> (b) the various types and characteristics of offers and admissions to trading on a regulated market of non-equity securities;
+> (c) the format used and the information required in base prospectuses relating to non-equity securities, including warrants in any form;
+> (d) where applicable, the public nature of the issuer;
+> (e) where applicable, the specific nature of the activities of the issuer;
+> (f) whether the issuer of equity securities is required to provide sustainability reporting, together with the related assurance opinion, in accordance with Directive 2004/109/EC and Directive 2013/34/EU of the Euro […truncated by emendrix: 3410 characters omitted…]
+
+**DELETED · Art. 14** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 14a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 15** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 15a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 20** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 21** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 27 — Use of language** · applies from: unchanged
+
+*within* `AR 27 PA 1 ALN 1`, `AR 27 PA 1 ALN 2`, `AR 27 PA 1 ALN 3`, `AR 27 PA 1 ALN 4` · *amended by* `32024R2809`
+
+Paragraph 1 now permits a prospectus for an offer or admission sought only in the home Member State to be drawn up either in a language accepted by that Member State's competent authority or in a language customary in the sphere of international finance, at the choice of the issuer, offeror or person seeking admission, whereas previously only a language accepted by that authority was allowed. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_27) [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_27)
+
+Paragraph 1 adds a mechanism allowing a Member State to opt out of this choice and instead require the language accepted by its own competent authority, with notification of that decision to the Commission and ESMA, and requires ESMA to publish a list of languages accepted by each Member State's competent authority for such single-Member-State offers. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_27)
+
+Paragraph 1 also now specifies that the summary must be available in the official language, or one of the official languages, of the home Member State or another language accepted by its competent authority, and that this authority shall not require translation of any other part of the prospectus, a rule not present in paragraph 1 before. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_27) [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_27)
+
+*before* (`02017R1129-20260305`)
+
+> Article 27
+> Use of language
+> 1. Where an offer of securities to the public is made or admission to trading on a regulated market is sought only in the home Member State, the prospectus shall be drawn up in a language accepted by the competent authority of the home Member State.
+> 2. Where an offer of securities to the public is made or admission to trading on a regulated market is sought in more than one Member State including the home Member State or in one or more Member States excluding the home Member State, the prospectus shall be drawn up either in a language accepted by the competent authorities of the home Member State, where relevant, and of each host Member State or in a language customary in the sphere of international finance, at the choice of the issuer, the offeror or the person asking for admission to trading on a regulated market.
+> The summary referred to in Article 7 shall be available in the official language of each Member State, or at least one of the official languages of each Member State, or in another language accepted by the competent authority of each Member State. Member States shall not require the translation of any other part of the prospectus.
+> 3. Where an offer of securities to the public is made or an admission to trading on a regulated market is sought in more than one Member State including the home Member State, the prospectus shall be drawn up in a language accepted by the competent authority of the home Member State, and shall also be made avai […truncated by emendrix: 2278 characters omitted…]
+
+*after* (`02017R1129-20260605`)
+
+> Article 27
+> Use of language
+> 1. Where an offer of securities to the public is made or admission to trading on a regulated market is sought only in the home Member State, the prospectus shall be drawn up either in a language accepted by the competent authority of the home Member State or in a language customary in the sphere of international finance, at the choice of the issuer, the offeror or the person asking for admission to trading on a regulated market.
+> By way of derogation from the first subparagraph, a Member State may opt out and require that the prospectus for an offer of securities to the public or an admission to trading on a regulated market which is sought only in that Member State is drawn up in a language accepted by the competent authority of that Member State. In such a case, that Member State shall notify the Commission and ESMA of that decision.
+> ESMA shall publish on its website a list of the languages accepted by the competent authorities of each Member State for an offer of securities to the public or an admission to trading on a regulated market which is sought only in the home Member State.
+> The summary referred to in Article 7 shall be available in the official language of the home Member State, or at least one of its official languages, or in another language accepted by the competent authority of that Member State. That competent authority shall not require the translation of any other part of the prospectus.
+> 2. Where an offer of securities to the public […truncated by emendrix: 3456 characters omitted…]
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 30** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 44** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 47a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 48** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 48a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20260605 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20260305 -->
 ## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
 ### `02017R1129-20241204` → `02017R1129-20260305`
