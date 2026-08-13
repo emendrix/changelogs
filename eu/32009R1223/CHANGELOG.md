@@ -10,6 +10,87 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20150818 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20150810` → `02009R1223-20150818`
+
+- **Act** `eu:32009R1223` · **In force** 2015-08-18 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20150810` · `v2` = `02009R1223-20150818`
+
+---
+
+**MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN II` · *amended by* `32015R1298`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02009R1223-20150810`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.
+> Reference number Substance identification
+> Chemical name/INN CAS number EC number
+> a b c d
+> 1 N-(5-Chlorobenzoxazol-2-yl)acetamide 35783-57-4 2 (2-Acetoxyethyl)trimethylammonium hydroxide (Acetylcholine) and its salts 51-84-3 200-128-9
+> 3 Deanol aceglumate (INN) 3342-61-8 222-085-5
+> 4 Spironolactone (INN) 52-01-7 200-133-6
+> 5 [4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid (Tiratricol (INN)) and its salts 51-24-1 200-086-1
+> 6 Methotrexate (INN) 59-05-2 200-413-8
+> 7 Aminocaproic acid (INN) and its salts 60-32-2 200-469-3
+> 8 Cinchophen (INN), its salts, derivatives and salts of these derivatives 132-60-5 205-067-1
+> 9 Thyropropic acid (INN) and its salts 51-26-3 10 Trichloroacetic acid 76-03-9 200-927-2
+> 11 Aconitum napellus L. (leaves, roots and galenical preparations) 84603-50-9 283-252-6
+> 12 Aconitine (principal alkaloid of Aconitum napellus L.) and its salts 302-27-2 206-121-7
+> 13 Adonis vernalis L. and its preparations 84649-73-0 283-458-6
+> 14 Epinephrine (INN) 51-43-4 200-098-7
+> 15 Rauwolfia serpentina L., alkaloids and their salts 90106-13-1 290-234-1
+> 16 Alkyne alcohols, their esters, ethers and salts 17 Isoprenaline (INN) 7683-59-2 231-687-7
+> 18 Allyl isothiocyanate 57-06-7 200-309-2
+> 19 Alloclamide (INN) and its sal […truncated by emendrix: 124623 characters omitted…]
+
+*after* (`02009R1223-20150818`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.
+> Reference number Substance identification
+> Chemical name/INN CAS number EC number
+> a b c d
+> 1 N-(5-Chlorobenzoxazol-2-yl)acetamide 35783-57-4 2 (2-Acetoxyethyl)trimethylammonium hydroxide (Acetylcholine) and its salts 51-84-3 200-128-9
+> 3 Deanol aceglumate (INN) 3342-61-8 222-085-5
+> 4 Spironolactone (INN) 52-01-7 200-133-6
+> 5 [4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid (Tiratricol (INN)) and its salts 51-24-1 200-086-1
+> 6 Methotrexate (INN) 59-05-2 200-413-8
+> 7 Aminocaproic acid (INN) and its salts 60-32-2 200-469-3
+> 8 Cinchophen (INN), its salts, derivatives and salts of these derivatives 132-60-5 205-067-1
+> 9 Thyropropic acid (INN) and its salts 51-26-3 10 Trichloroacetic acid 76-03-9 200-927-2
+> 11 Aconitum napellus L. (leaves, roots and galenical preparations) 84603-50-9 283-252-6
+> 12 Aconitine (principal alkaloid of Aconitum napellus L.) and its salts 302-27-2 206-121-7
+> 13 Adonis vernalis L. and its preparations 84649-73-0 283-458-6
+> 14 Epinephrine (INN) 51-43-4 200-098-7
+> 15 Rauwolfia serpentina L., alkaloids and their salts 90106-13-1 290-234-1
+> 16 Alkyne alcohols, their esters, ethers and salts 17 Isoprenaline (INN) 7683-59-2 231-687-7
+> 18 Allyl isothiocyanate 57-06-7 200-309-2
+> 19 Alloclamide (INN) and its sal […truncated by emendrix: 124671 characters omitted…]
+
+**MODIFIED · Annex VI** · applies from: unknown
+
+*amended by* `32015R1298`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20150818 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20150810 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20150716` → `02009R1223-20150810`
