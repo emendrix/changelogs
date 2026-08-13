@@ -10,6 +10,849 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20260101 -->
+## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
+### `02016R1011-20250117` → `02016R1011-20260101`
+
+- **Act** `eu:32016R1011` · **In force** 2026-01-01 · **Detected** 2026-08-13
+- **Touched** 31 provisions — 31 substantive · 0 date-only · **6 disputed**
+- **Diff** 1 inserted · 30 modified · 0 deleted · 0 renumbered · 0 deferred · 60 unchanged
+- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Citations** `v1` = `02016R1011-20250117` · `v2` = `02016R1011-20260101`
+
+---
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 1a`, `AR 2 PA 1b`, `AR 2 PA 1c`, `AR 2 PA 2 ALN 1 PTA (g)`, `AR 2 PA 2 ALN 1 PTA (g) PTI (i)`, `AR 2 PA 2 ALN 1 PTA (g) PTI (ii)` · *amended by* `32025R0914`
+
+Three new paragraphs, 1a, 1b and 1c, are inserted after paragraph 1, limiting application of Titles II, III, IV, V and VI (with named exceptions) to critical, significant, EU Climate Transition and EU Paris-aligned benchmarks, setting out exceptions under which Article 13(1)(d) and Article 27(2aa) apply to all benchmarks provided by administrators registered or grouped with a registered administrator, and setting conditions under which Article 19 applies or does not apply to commodity benchmarks based on contributed input data. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_2)
+
+Point (g) of paragraph 2, which previously excluded a commodity benchmark from scope only where it met two separate conditions concerning single trading-venue admission and a EUR 100 million notional value cap, is replaced by a single condition excluding such a benchmark where the total average notional value of referencing financial instruments does not exceed EUR 200 million over a 12-month period, removing the former sub-points (i) and (ii). [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_2)
+
+*before* (`02016R1011-20250117`)
+
+> Article 2
+> Scope
+> 1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.
+> 2. This Regulation shall not apply to:
+> (a) a central bank;
+> (b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;
+> (c) a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;
+> (d) the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;
+> (e) the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;
+> (f) a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;
+> (g) a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:
+> (i) […truncated by emendrix: 720 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 2
+> Scope
+> 1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.
+> 1a. Titles II, III, with the exception of Articles 23a, 23b and 23c, IV, V and VI apply only in respect of critical benchmarks, significant benchmarks, EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks.
+> 1b. By way of derogation from paragraph 1a of this Article, Article 13(1), point (d), and Article 27(2aa) apply to all benchmarks used in the Union provided by administrators that:
+> (a) are included in the register referred to in Article 36; or
+> (b) belong to a group with at least one administrator included in the register referred to in Article 36.
+> 1c. By way of derogation from paragraph 1a of this Article, Article 19 applies to any commodity benchmark based on contributed input data, unless any of the following conditions is fulfilled:
+> (a) it is a regulated-data benchmark;
+> (b) it is a benchmark based on submissions by contributors the majority of which are supervised entities;
+> (c) it is a critical benchmark and the underlying asset is gold, silver or platinum.
+> 2. This Regulation shall not apply to:
+> (a) a central bank;
+> (b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;
+> (c) a central counterparty (CCP), where it provides reference prices or settl […truncated by emendrix: 1438 characters omitted…]
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 PA 1 ALN 1 PO 17 PTA (m)`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (ii)`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (iii)` · *amended by* `32025R0914`
+
+In point (17)(m) of Article 3(1), the definition of supervised entity now specifies that an administrator qualifies only if authorised or registered pursuant to Article 34, whereas the prior text simply said an administrator. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3)
+
+In point (24)(a)(ii) and (iii), the references identifying an approved publication arrangement, a consolidated tape provider and an approved reporting mechanism were changed from citations to Article 4(1) of Directive 2014/65/EU to citations to Article 2(1) of Regulation (EU) No 600/2014. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3)
+
+*before* (`02016R1011-20250117`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) index means any figure:
+> (a) that is published or made available to the public;
+> (b) that is regularly determined:
+> (i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and
+> (ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;
+> (2) index provider means a natural or legal person that has control over the provision of an index;
+> (3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;
+> (4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;
+> (5) provision of a benchmark means:
+> (a) administering the arrangements for determining a benchmark;
+> (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
+> (c) determining a benchmark through the application of […truncated by emendrix: 15491 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) index means any figure:
+> (a) that is published or made available to the public;
+> (b) that is regularly determined:
+> (i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and
+> (ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;
+> (2) index provider means a natural or legal person that has control over the provision of an index;
+> (3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;
+> (4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;
+> (5) provision of a benchmark means:
+> (a) administering the arrangements for determining a benchmark;
+> (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
+> (c) determining a benchmark through the application of […truncated by emendrix: 15557 characters omitted…]
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32025R0914`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32025R0914`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13 — Transparency of methodology** · applies from: unchanged
+
+*within* `AR 13 PA 1 ALN 1 PTA (d)` · *amended by* `32025R0914`
+
+Point (d) of Article 13(1) now limits the required ESG explanation to benchmarks or families of benchmarks whose legal or marketing documentation includes a reference to the consideration of ESG factors, rather than requiring such an explanation for each benchmark or family generally. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_13)
+
+The earlier version required an explanation of how the methodology's key elements reflect ESG factors for each benchmark or family of benchmarks without reference to any documentation trigger, aside from the same exception for interest rate and foreign exchange benchmarks. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_13)
+
+*before* (`02016R1011-20250117`)
+
+> Article 13
+> Transparency of methodology
+> 1. An administrator shall develop, operate and administer the benchmark and methodology transparently. To that end, the administrator shall publish or make available the following information:
+> (a) the key elements of the methodology that the administrator uses for each benchmark provided and published or, when applicable, for each family of benchmarks provided and published;
+> (b) details of the internal review and the approval of a given methodology, as well as the frequency of such review;
+> (c) the procedures for consulting on any proposed material change in the administrator's methodology and the rationale for such changes, including a definition of what constitutes a material change and the circumstances in which the administrator is to notify users of any such changes;
+> (d) an explanation of how the key elements of the methodology laid down in point (a) reflect ESG factors for each benchmark or family of benchmarks, with the exception of interest rate and foreign exchange benchmarks.
+> Benchmark administrators shall comply with the requirement laid down in point (d) of the first subparagraph by 30 April 2020.
+> 2. The procedures required under point (c) of paragraph 1 shall provide for:
+> (a) advance notice, with a clear time frame, that gives the opportunity to analyse and comment upon the impact of such proposed material changes; and
+> (b) the comments referred to in point (a) of this paragraph, and the administrator's response to those comme […truncated by emendrix: 1724 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 13
+> Transparency of methodology
+> 1. An administrator shall develop, operate and administer the benchmark and methodology transparently. To that end, the administrator shall publish or make available the following information:
+> (a) the key elements of the methodology that the administrator uses for each benchmark provided and published or, when applicable, for each family of benchmarks provided and published;
+> (b) details of the internal review and the approval of a given methodology, as well as the frequency of such review;
+> (c) the procedures for consulting on any proposed material change in the administrator's methodology and the rationale for such changes, including a definition of what constitutes a material change and the circumstances in which the administrator is to notify users of any such changes;
+> (d) where a benchmark or family of benchmarks includes in its legal or marketing documentation any reference to the consideration of ESG factors, an explanation for each of those benchmarks or family of benchmarks, with the exception of interest rate and foreign exchange benchmarks, of how the key elements of the methodology reflect ESG factors.
+> Benchmark administrators shall comply with the requirement laid down in point (d) of the first subparagraph by 30 April 2020.
+> 2. The procedures required under point (c) of paragraph 1 shall provide for:
+> (a) advance notice, with a clear time frame, that gives the opportunity to analyse and comment upon the impact of such proposed […truncated by emendrix: 1854 characters omitted…]
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32025R0914`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Interest rate benchmarks** · applies from: unchanged
+
+*within* `AR 18 ALN 2` · *amended by* `32025R0914`
+
+The second paragraph of Article 18 changed the list of articles excluded from applying to the provision of, and contribution to, interest rate benchmarks, from Articles 24, 25 and 26 to only Article 25. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_18)
+
+*before* (`02016R1011-20250117`)
+
+> Article 18
+> Interest rate benchmarks
+> The specific requirements laid down in Annex I shall apply to the provision of, and contribution to, interest rate benchmarks in addition to, or as a substitute for, the requirements of Title II.
+> Articles 24, 25 and 26 shall not apply to the provision of, and contribution to, interest rate benchmarks.
+
+*after* (`02016R1011-20260101`)
+
+> Article 18
+> Interest rate benchmarks
+> The specific requirements laid down in Annex I shall apply to the provision of, and contribution to, interest rate benchmarks in addition to, or as a substitute for, the requirements of Title II.
+> Article 25 shall not apply to the provision of, and contribution to, interest rate benchmarks.
+
+**MODIFIED · Art. 18a — Spot foreign exchange benchmarks** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 18a PA 1 ALN 1`, `AR 18a PA 1 ALN 1 PTA (a)`, `AR 18a PA 1 ALN 1 PTA (b)`, `AR 18a PA 1 ALN 1 PTA (b) PTI (i)`, `AR 18a PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 18a PA 2 ALN 1`, `AR 18a PA 3 ALN 1` · *dates* -2022-12-31 -2023-06-15 +2026-06-09 · *amended by* `32025R0914`
+
+The provision changes the Commission's designation duty from a discretionary power to a mandatory requirement to designate a spot foreign exchange benchmark as exempted, and replaces the criterion referring to a currency that is not freely convertible with one referring to a currency to which currency controls apply. [Art. 18a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_18a) [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_18a)
+
+The single criterion about frequent, systematic and regular use for hedging is restructured into two alternative sub-criteria, adding a new option based on the absence of an equivalent alternative benchmark provided by a Union-located administrator. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_18a)
+
+Paragraph 2 no longer sets a 31 December 2022 deadline for the public consultation, and paragraph 3 replaces the 15 June 2023 delegated-act deadline with a requirement to adopt an implementing act, rather than a delegated act, following the consultation and by 9 June 2026. [Art. 18a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_18a) [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_18a)
+
+*before* (`02016R1011-20250117`)
+
+> Article 18a
+> Spot foreign exchange benchmarks
+> 1. The Commission may designate a spot foreign exchange benchmark that is administered by administrators located outside the Union where both of the following criteria are fulfilled:
+> (a) the spot foreign exchange benchmark references a spot exchange rate of a third-country currency that is not freely convertible; and
+> (b) the spot foreign exchange benchmark is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements.
+> 2. By 31 December 2022, the Commission shall conduct a public consultation to identify spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1.
+> 3. By 15 June 2023, the Commission shall adopt a delegated act in accordance with Article 49 to create a list of spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1 of this Article. The Commission shall update that list as appropriate.
+
+*after* (`02016R1011-20260101`)
+
+> Article 18a
+> Spot foreign exchange benchmarks
+> 1. The Commission shall designate as exempted a spot foreign exchange benchmark that is administered by administrators located outside the Union where both of the following criteria are fulfilled:
+> (a) the spot foreign exchange benchmark references a spot exchange rate of a third-country currency to which currency controls apply; and
+> (b) the spot foreign exchange benchmark:
+> (i) is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements; or
+> (ii) does not have an equivalent alternative benchmark provided by an administrator located in the Union.
+> 2. The Commission shall conduct a public consultation to identify spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1.
+> 3. Following the conclusion of the public consultation, the Commission shall adopt an implementing act to create a list of spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1 by 9 June 2026. The Commission shall update that list as appropriate.
+
+**MODIFIED · Art. 19 — Commodity benchmarks based on contributed input data** · applies from: unchanged
+
+*within* `AR 19`, `AR 19 ALN 1`, `AR 19 PA 1`, `AR 19 PA 2`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The article's heading changes from a general reference to commodity benchmarks to a narrower one covering commodity benchmarks based on contributed input data. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19)
+
+The earlier numbered structure with paragraphs 1 and 2, which set out an Annex II substitution regime with exceptions and a carve-out for gold, silver or platinum critical benchmarks, is replaced by a single unnumbered sentence stating that such commodity benchmarks shall comply with Article 10, Titles IV, V and VI, and the specific requirements set out in Annex II. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19)
+
+The prior text's specific carve-outs for regulated-data benchmarks, majority-supervised-entity contributor benchmarks, and the disapplication of Articles 24, 25 and 26 no longer appear in the after text. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19)
+
+*before* (`02016R1011-20250117`)
+
+> Article 19
+> Commodity benchmarks
+> 1. The specific requirements laid down in Annex II shall apply instead of the requirements of Title II, with the exception of Article 10, to the provision of, and contribution to, commodity benchmarks, unless the benchmark in question is a regulated-data benchmark or is based on submissions by contributors the majority of which are supervised entities.
+> Articles 24, 25 and 26 shall not apply to the provision of, and contribution to, commodity benchmarks.
+> 2. Where a commodity benchmark is a critical benchmark and the underlying asset is gold, silver or platinum, the requirements of Title II shall apply instead of Annex II.
+
+*after* (`02016R1011-20260101`)
+
+> Article 19
+> Commodity benchmarks based on contributed input data
+> Commodity benchmarks based on contributed input data shall comply with Article 10, Titles IV, V and VI, and the specific requirements set out in Annex II.
+
+**MODIFIED · Art. 19a — EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks** · applies from: unchanged
+
+*within* `AR 19a PA 4`, `AR 19a PA 5` · *amended by* `32025R0914`
+
+The provision adds a new paragraph 4 stating that administrators not included in the register referred to in Article 36 must not provide or endorse EU Climate Transition Benchmarks or EU Paris-aligned Benchmarks, and must not indicate or suggest in the benchmark's name or marketing documentation that it complies with the requirements applicable to those benchmarks. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19a)
+
+A new paragraph 5 is also added, requiring administrators to include the acronym CTB in the name of EU Climate Transition Benchmarks and the acronym PAB in the name of EU Paris-aligned Benchmarks. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19a)
+
+Paragraphs 1 through 3 remain the same as in the earlier version of the text. [Art. 19a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_19a) [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19a)
+
+*before* (`02016R1011-20250117`)
+
+> Article 19a
+> EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks
+> 1. The requirements laid down in Annex III shall apply to the provision of, and contribution to, EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, in addition to the requirements of Titles II, III and IV.
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 49 to supplement this Regulation by laying down the minimum standards for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks to specify:
+> (a) the criteria for the choice of the underlying assets, including, where applicable, any criteria for excluding assets;
+> (b) the criteria and method for the weighting of the underlying assets in the benchmark;
+> (c) the determination of the decarbonisation trajectory for EU Climate Transition Benchmarks.
+> 3. Benchmark administrators which provide an EU Climate Transition Benchmark or an EU Paris-aligned Benchmark shall comply with this Regulation by 30 April 2020.
+
+*after* (`02016R1011-20260101`)
+
+> Article 19a
+> EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks
+> 1. The requirements laid down in Annex III shall apply to the provision of, and contribution to, EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, in addition to the requirements of Titles II, III and IV.
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 49 to supplement this Regulation by laying down the minimum standards for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks to specify:
+> (a) the criteria for the choice of the underlying assets, including, where applicable, any criteria for excluding assets;
+> (b) the criteria and method for the weighting of the underlying assets in the benchmark;
+> (c) the determination of the decarbonisation trajectory for EU Climate Transition Benchmarks.
+> 3. Benchmark administrators which provide an EU Climate Transition Benchmark or an EU Paris-aligned Benchmark shall comply with this Regulation by 30 April 2020.
+> 4. Administrators that are not included in the register referred to in Article 36 shall not:
+> (a) provide or endorse EU Climate Transition Benchmarks or EU Paris-aligned Benchmarks;
+> (b) indicate or suggest, in the name of the benchmarks they make available for use in the Union or in the legal or marketing documentation for those benchmarks, that the benchmarks they make available comply with the requirements applicable to the provision of EU Climate Transition Benchmarks or EU Paris-aligned Benchma […truncated by emendrix: 172 characters omitted…]
+
+**MODIFIED · Art. 24 — Significant benchmarks** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 24 PA 1 ALN 1`, `AR 24 PA 1 ALN 1 PTA (a)`, `AR 24 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 24 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 24 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 24 PA 1 ALN 1 PTA (b)`, `AR 24 PA 2 ALN 1`, `AR 24 PA 2 ALN 2`, `AR 24 PA 2 ALN 3`, `AR 24 PA 3 ALN 1`, `AR 24 PA 3 ALN 1 PTA (a)`, `AR 24 PA 3 ALN 1 PTA (b)`, `AR 24 PA 3 ALN 1 PTA (c)`, `AR 24 PA 3 ALN 2`, `AR 24 PA 3 ALN 3`, `AR 24 PA 3 ALN 4`, `AR 24 PA 4`, `AR 24 PA 5`, `AR 24 PA 6`, `AR 24 PA 7`, `AR 24 PA 8`, `AR 24 PA 9`, `AR 24 PA 10` · *dates* -2018-01-01 +2028-12-31 · *amended by* `32025R0914`
+
+The definition of a significant benchmark is rewritten to run from the condition of not being a critical benchmark rather than not fulfilling Article 20(1), and the EUR 50 billion threshold test is expanded to reference currencies, units of measurement and return calculation methodologies in addition to maturities or tenors, alongside a new alternative route based on formal designation under paragraphs 3 to 7. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_24)
+
+The provision replaces the single Commission delegated-act review of the threshold, previously recurring at least every two years from 1 January 2018, with a detailed set of designation procedures for Union and third-country administrators run by competent authorities and ESMA, together with new notification, consultation, publication and designation-revocation rules and a one-off report to the European Parliament and Council due by 31 December 2028. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_24)
+
+The former single notification duty on an administrator falling below the threshold is replaced by a broader set of notification, information and notice obligations involving competent authorities and ESMA when the threshold in paragraph 1, point (a), is reached. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_24)
+
+*before* (`02016R1011-20250117`)
+
+> Article 24
+> Significant benchmarks
+> 1. A benchmark which does not fulfil any of the conditions laid down in Article 20(1) is significant when:
+> (a) it is used directly or indirectly within a combination of benchmarks as a reference for financial instruments or financial contracts or for measuring the performance of investments funds having a total average value of at least EUR 50 billion on the basis of all the range of maturities or tenors of the benchmark, where applicable, over a period of six months; or
+> (b) it has no or very few appropriate market-led substitutes and, in the event that the benchmark ceases to be provided or is provided on the basis of input data no longer fully representative of the underlying market or economic reality or unreliable input data, there would be a significant and adverse impact on market integrity, financial stability, consumers, the real economy or the financing of households or businesses in one or more Member States.
+> 2. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to review the calculation method used to determine the threshold referred to in point (a) of paragraph 1 of this Article in the light of market, price and regulatory developments as well as the appropriateness of the classification of benchmarks with a total value of financial instruments, financial contracts or investment funds referencing them that is close to that threshold. Such review shall take place at least every two year […truncated by emendrix: 190 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 24
+> Significant benchmarks
+> 1. A benchmark which is not a critical benchmark shall be significant where either of the following conditions is fulfilled:
+> (a) it is used directly or indirectly within a combination of benchmarks within the Union as a reference for financial instruments or financial contracts or for measuring the performance of investment funds that have a total average value of at least EUR 50 billion on the basis of the following characteristics of the benchmark, over a period of 6 months:
+> (i) the range of maturities or tenors of the benchmark, where applicable;
+> (ii) all the currencies or other units of measurement of the benchmark, where applicable; and
+> (iii) all the return calculation methodologies, where applicable;
+> (b) the benchmark has been designated as significant in accordance with the procedure laid down in paragraphs 3, 4 and 5, the procedure laid down in paragraph 6, or the procedure laid down in paragraph 7.
+> 2. An administrator shall immediately notify the competent authority of the Member State where it is located or, if located in a third country, ESMA, when one or several of that administrator’s benchmarks reach the threshold referred to in paragraph 1, point (a). Following receipt of that notification, the competent authority or ESMA, as applicable, shall publish a statement on its website stating that that benchmark is significant.
+> An administrator shall, upon the request of the competent authority of the Member State where it is located […truncated by emendrix: 9974 characters omitted…]
+
+**INSERTED · Art. 24a — Requirements for administrators of significant benchmarks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32025R0914`
+
+Article 24a is a newly inserted provision setting out requirements for administrators of significant benchmarks, including timelines and procedures for seeking authorisation, registration, recognition or endorsement following various notifications and designations under Article 24. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_24a)
+
+It also sets out the duty of ESMA and competent authorities to use their supervisory and sanction powers to ensure compliance, and specifies conditions under which a public notice must be issued stating that a significant benchmark does not comply with the Regulation. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_24a)
+
+*after* (`02016R1011-20260101`)
+
+> Article 24a
+> Requirements for administrators of significant benchmarks
+> 1. Within 60 working days of the notification referred to in Article 24(2), the administrator of a benchmark fulfilling the condition referred to in Article 24(1), point (a), shall seek authorisation or registration with the competent authority of the Member State where it is located. Where that administrator is located in a third country and unless the benchmark is covered by an equivalence decision adopted pursuant to Article 30, that administrator shall, within 60 working days of the notification referred to in Article 24(2), seek either of the following:
+> (a) recognition with ESMA pursuant to the procedure set out in Article 32;
+> (b) endorsement pursuant to the procedure set out in Article 33, in which case the administrator is to select an endorsing administrator in the Union that submits an application to ESMA.
+> 2. Within 60 working days of a designation as referred to in Article 24(3), the administrator of the benchmark, unless that administrator is already authorised or registered, shall seek authorisation or registration with the competent authority of the Member State where it is located in accordance with Article 34.
+> 3. Within 60 working days of a designation as referred to in Article 24(6), the administrator of the benchmark, unless the benchmark is covered by an equivalence decision adopted pursuant to Article 30, shall seek either of the following:
+> (a) recognition with ESMA pursuant to the proced […truncated by emendrix: 2157 characters omitted…]
+
+**MODIFIED · Art. 25 — Exemptions from specific requirements for significant benchmarks** · applies from: unchanged
+
+*within* `AR 25 PA 10` · *amended by* `32025R0914`
+
+A new paragraph 10 has been added stating that this Article does not apply to commodity benchmarks. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_25)
+
+No such paragraph existed in the earlier version of the Article. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_25)
+
+*before* (`02016R1011-20250117`)
+
+> Article 25
+> Exemptions from specific requirements for significant benchmarks
+> 1. An administrator may choose not to apply Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) or Article 15(2) with respect to its significant benchmark where that administrator considers that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmark or the size of the administrator.
+> 2. In the event that an administrator chooses not to apply one or more of the provisions referred to in paragraph 1, it shall immediately notify the competent authority and provide it with all relevant information confirming the administrator's assessment that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmarks or the size of the administrator.
+> 3. A competent authority may decide that the administrator of a significant benchmark is nevertheless to apply one or more of the requirements laid down in Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) and Article 15(2) if it considers that it would be appropriate taking into account the nature or the impact of the benchmarks or the size of the administrator. In its assessment, the competent authority shall, based on the information provided by the administrator, take into account the following criteria:
+> (a) the vulnerability of the benchmark to manipulatio […truncated by emendrix: 2784 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 25
+> Exemptions from specific requirements for significant benchmarks
+> 1. An administrator may choose not to apply Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) or Article 15(2) with respect to its significant benchmark where that administrator considers that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmark or the size of the administrator.
+> 2. In the event that an administrator chooses not to apply one or more of the provisions referred to in paragraph 1, it shall immediately notify the competent authority and provide it with all relevant information confirming the administrator's assessment that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmarks or the size of the administrator.
+> 3. A competent authority may decide that the administrator of a significant benchmark is nevertheless to apply one or more of the requirements laid down in Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) and Article 15(2) if it considers that it would be appropriate taking into account the nature or the impact of the benchmarks or the size of the administrator. In its assessment, the competent authority shall, based on the information provided by the administrator, take into account the following criteria:
+> (a) the vulnerability of the benchmark to manipulatio […truncated by emendrix: 2842 characters omitted…]
+
+**MODIFIED · Art. 27 — Benchmark statement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 27 PA 2a ALN 1`, `AR 27 PA 2a ALN 2`, `AR 27 PA 2a ALN 3`, `AR 27 PA 2aa`, `AR 27 PA 2b ALN 1` · *dates* -2019-12-09 -2020-04-30 -2021-12-31 · *amended by* `32025R0914`
+
+Paragraph 2a no longer sets an April 2020 or December 2021 deadline or requires an ESG-factor explanation tied to each requirement in paragraph 2, and instead retains only the disclosure obligation on carbon-emission and Paris Agreement alignment for significant equity and bond benchmarks and for EU Climate Transition and EU Paris-aligned Benchmarks. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+
+A new paragraph 2aa now requires an administrator whose benchmark or family of benchmarks references consideration of ESG factors in its legal or marketing documentation to publish an explanation of how those factors are reflected for each element listed in paragraph 2, with that explanation to be included in the benchmark statement where one is published under paragraph 1. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+
+Paragraph 2b was updated to refer to the information required under paragraphs 2a and 2aa rather than solely under paragraph 2a, reflecting the removal of the earlier general ESG-explanation requirement and the addition of the new paragraph 2aa. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+
+*before* (`02016R1011-20250117`)
+
+> Article 27
+> Benchmark statement
+> 1. Within two weeks of the inclusion of an administrator in the register referred to in Article 36, the administrator shall publish, by means that ensure fair and easy access, a benchmark statement for each benchmark or, where applicable, for each family of benchmarks, that may be used in the Union in accordance with Article 29.
+> Where that administrator begins providing a new benchmark or family of benchmarks that may be used in the Union in accordance with Article 29, the administrator shall publish, within two weeks and by means that ensure a fair and easy access, a benchmark statement for each new benchmark or, where applicable, family of benchmarks.
+> The administrator shall review and, where necessary, update the benchmark statement for each benchmark or family of benchmarks in the event of any changes to the information to be provided under this Article and at least every two years.
+> The benchmark statement shall:
+> (a) clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
+> (b) lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
+> (c) provide notice o […truncated by emendrix: 4750 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 27
+> Benchmark statement
+> 1. Within two weeks of the inclusion of an administrator in the register referred to in Article 36, the administrator shall publish, by means that ensure fair and easy access, a benchmark statement for each benchmark or, where applicable, for each family of benchmarks, that may be used in the Union in accordance with Article 29.
+> Where that administrator begins providing a new benchmark or family of benchmarks that may be used in the Union in accordance with Article 29, the administrator shall publish, within two weeks and by means that ensure a fair and easy access, a benchmark statement for each new benchmark or, where applicable, family of benchmarks.
+> The administrator shall review and, where necessary, update the benchmark statement for each benchmark or family of benchmarks in the event of any changes to the information to be provided under this Article and at least every two years.
+> The benchmark statement shall:
+> (a) clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
+> (b) lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
+> (c) provide notice o […truncated by emendrix: 4111 characters omitted…]
+
+**MODIFIED · Art. 28 — Changes to and cessation of a benchmark** · applies from: unchanged
+
+*within* `AR 28 PA 2 ALN 1` · *amended by* `32025R0914`
+
+In paragraph 2, the requirement that supervised entities reflect their contingency plans in their contractual relationship with clients has been replaced with a requirement to reflect them in fallback provisions applicable to financial contracts, financial instruments and investment funds. [Art. 28, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_28) [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_28)
+
+*before* (`02016R1011-20250117`)
+
+> Article 28
+> Changes to and cessation of a benchmark
+> 1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.
+> 2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall designate one or several alternative benchmarks that could be referenced to substitute the benchmarks that would no longer be provided, indicating the reasons for the suitability of such alternative benchmarks. The supervised entities shall, upon request and without undue delay, provide the relevant competent authority with those plans and any updates and shall reflect them in their contractual relationship with clients.
+
+*after* (`02016R1011-20260101`)
+
+> Article 28
+> Changes to and cessation of a benchmark
+> 1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.
+> 2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall designate one or several alternative benchmarks that could be referenced to substitute the benchmarks that would no longer be provided, indicating the reasons for the suitability of such alternative benchmarks. The supervised entities shall, upon request and without undue delay, provide the relevant competent authority with those plans and any updates and shall reflect them in fallback provisions applicable to financial contracts, financial instruments and investment funds.
+
+**MODIFIED · Art. 29 — Use of critical benchmarks, significant benchmarks, commodity benchmarks subject to Annex II, EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 29`, `AR 29 PA 1 ALN 1`, `AR 29 PA 1 ALN 2`, `AR 29 PA 1 ALN 3`, `AR 29 PA 1 ALN 4`, `AR 29 PA 1b`, `AR 29 PA 2 ALN 1`, `AR 29 PA 2 ALN 2` · *dates* +2017-06-14 · *amended by* `32025R0914`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02016R1011-20250117`)
+
+> Article 29
+> Use of a benchmark
+> 1. A supervised entity may use a benchmark or a combination of benchmarks in the Union if the benchmark is provided by an administrator located in the Union and included in the register referred to in Article 36 or is a benchmark which is included in the register referred to in Article 36.
+> 1a. A supervised entity may also use the replacement for a benchmark designated in accordance with Article 23b or Article 23c.
+> 2. Where the object of a prospectus to be published under Directive 2003/71/EC or Directive 2009/65/EC is transferable securities or other investment products that reference a benchmark, the issuer, offeror, or person asking for admission to trade on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether the benchmark is provided by an administrator included in the register referred to in Article 36 of this Regulation.
+
+*after* (`02016R1011-20260101`)
+
+> Article 29
+> Use of critical benchmarks, significant benchmarks, commodity benchmarks subject to Annex II, EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks
+> 1. A supervised entity shall not add new references to a significant benchmark or a combination of such benchmarks in the Union where that benchmark or combination of benchmarks is the object of a public notice issued by a competent authority or ESMA in accordance with Article 24a(6). A supervised entity shall not add new references to a critical benchmark, a commodity benchmark subject to Annex II, an EU Climate Transition Benchmark, an EU Paris-aligned Benchmark or a combination that includes any such benchmarks in the Union where the administrator of those benchmarks is not included in the register referred to in Article 36.
+> Supervised entities shall regularly consult ESAP or the register referred to in Article 36 to verify the regulatory status of the administrators of critical benchmarks, significant benchmarks, commodity benchmarks subject to Annex II, EU Climate Transition Benchmarks or EU Paris-Aligned Benchmarks they intend to use.
+> By way of derogation from the first subparagraph, and where necessary to avoid serious market disruptions, ESMA or the competent authority, as applicable, may allow the use of a benchmark subject to a public notice issued in accordance with Article 24a(6) for a period of between 6 and 24 months following the publication of the public notice.
+> ESMA or the competent authority […truncated by emendrix: 2793 characters omitted…]
+
+**MODIFIED · Art. 32 — Recognition of an administrator located in a third country** · applies from: unchanged
+
+*within* `AR 32 PA 2 ALN 1`, `AR 32 PA 2 ALN 2`, `AR 32 PA 2 ALN 2 PTA (a)`, `AR 32 PA 2 ALN 2 PTA (b)`, `AR 32 PA 2 ALN 3`, `AR 32 PA 3 ALN 1`, `AR 32 PA 5 ALN 1`, `AR 32 PA 5 ALN 2`, `AR 32 PA 5 ALN 3`, `AR 32 PA 5 ALN 3 PTA (a)`, `AR 32 PA 5 ALN 3 PTA (b)`, `AR 32 PA 5 ALN 4` · *amended by* `32025R0914`
+
+Paragraph 2 now limits the compliance obligation to an administrator of a significant benchmark, an EU Paris-aligned Benchmark, an EU Climate Transition Benchmark or a commodity benchmark subject to Annex II, whereas the earlier text applied to any administrator located in a third country intending to obtain prior recognition; the exemption for regulated-data and commodity benchmarks is likewise reworded to refer to commodity benchmarks subject to Annex II and drops the reference to submissions from contributors that are mostly supervised entities. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_32)
+
+Paragraph 3 changes the legal representative requirement from a natural or legal person to solely a legal person, and adds that ESMA may impose a supervisory measure under Article 48e or a fine under Article 48f on the administrator or the legal representative for infringements listed in Article 42(1)(a) or for failures to cooperate in investigations, inspections or requests under Section 1 of Chapter 4. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_32)
+
+Paragraph 5 adds a new procedural step requiring ESMA to assess completeness of the application within 15 working days, request missing information if incomplete, and reassess completeness within a further 15 working days after resubmission, before the existing 90-working-day verification period begins to run from receipt of the complete application rather than from receipt of the original application. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_32)
+
+*before* (`02016R1011-20250117`)
+
+> Article 32
+> Recognition of an administrator located in a third country
+> 1. Until such time as an equivalence decision is adopted in accordance with Article 30(2) and (3), a benchmark provided by an administrator located in a third country may be used by supervised entities in the Union, provided that that administrator acquires prior recognition by ESMA in accordance with this Article.
+> 2. An administrator located in a third country intending to obtain prior recognition as referred to in paragraph 1 of this Article shall comply with the requirements established in this Regulation, excluding Article 11(4) and Articles 16, 20, 21 and 23. The administrator may fulfil that condition by applying the IOSCO principles for financial benchmarks or the IOSCO principles for PRAs, as applicable, provided that such application is equivalent to compliance with the requirements established in this Regulation, excluding Article 11(4), and Articles 16, 20, 21 and 23.
+> To determine whether the condition referred to in the first subparagraph is fulfilled and to assess compliance with the IOSCO principles for financial benchmarks or the IOSCO principles for PRAs, as applicable, ESMA may take into account an assessment by an independent external auditor or, a certification provided by the competent authority of the administrator in the third country where the administrator is located.
+> If, and to the extent that, an administrator is able to demonstrate that a benchmark it provides is a regulated-data […truncated by emendrix: 8773 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 32
+> Recognition of an administrator located in a third country
+> 1. Until such time as an equivalence decision is adopted in accordance with Article 30(2) and (3), a benchmark provided by an administrator located in a third country may be used by supervised entities in the Union, provided that that administrator acquires prior recognition by ESMA in accordance with this Article.
+> 2. An administrator of a significant benchmark, of an EU Paris-aligned Benchmark, of an EU Climate Transition Benchmark or of a commodity benchmark subject to Annex II located in a third country that intends to obtain recognition shall comply with this Regulation, with the exception of Article 11(4) and Articles 16, 20, 21 and 23. The administrator may fulfil that condition by applying the IOSCO principles for financial benchmarks or the IOSCO principles for PRAs, as applicable, provided that such application is equivalent to compliance with this Regulation, with the exception of Article 11(4) and Articles 16, 20, 21 and 23.
+> When determining whether the condition referred to in the first subparagraph is fulfilled and assessing the compliance with the IOSCO principles for financial benchmarks or the IOSCO principles for PRAs, as applicable, ESMA may take into account:
+> (a) an assessment of the administrator by an independent external auditor;
+> (b) a certification provided by the competent authority of the administrator in the third country where the administrator is located.
+> Where, and to the extent […truncated by emendrix: 9690 characters omitted…]
+
+**MODIFIED · Art. 33 — Endorsement of benchmarks provided in a third country** · applies from: unchanged
+
+*within* `AR 33 PA 1 ALN 1`, `AR 33 PA 2 ALN 1`, `AR 33 PA 3 ALN 1`, `AR 33 PA 4 ALN 1`, `AR 33 PA 5 ALN 1`, `AR 33 PA 6 ALN 1`, `AR 33 PA 7 ALN 1` · *amended by* `32025R0914`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02016R1011-20250117`)
+
+> Article 33
+> Endorsement of benchmarks provided in a third country
+> 1. An administrator located in the Union and authorised or registered in accordance with Article 34, or any other supervised entity located in the Union with a clear and well-defined role within the control or accountability framework of a third country administrator, which is able to monitor effectively the provision of a benchmark, may apply to the relevant competent authority to endorse a benchmark or a family of benchmarks provided in a third country for their use in the Union, provided that all of the following conditions are fulfilled:
+> (a) the endorsing administrator or other supervised entity has verified and is able to demonstrate on an on-going basis to its competent authority that the provision of the benchmark or family of benchmarks to be endorsed fulfils, on a mandatory or on a voluntary basis, requirements which are at least as stringent as the requirements of this Regulation;
+> (b) the endorsing administrator or other supervised entity has the necessary expertise to monitor effectively the activity of the provision of a benchmark in a third country and to manage the associated risks;
+> (c) there is an objective reason to provide the benchmark or family of benchmarks in a third country and for said benchmark or family of benchmarks to be endorsed for their use in the Union.
+> For the purpose of point (a), when assessing whether the provision of the benchmark or family of benchmarks to be endorsed fulfils […truncated by emendrix: 2883 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 33
+> Endorsement of benchmarks provided in a third country
+> 1. An administrator located in the Union and authorised or registered in accordance with Article 34, with a clear and well-defined role under the control or accountability framework of an administrator located in a third country, which is able to monitor effectively the provision of a benchmark, may apply to ESMA to endorse a benchmark or a family of benchmarks provided in a third country for their use in the Union, provided that all of the following conditions are fulfilled:
+> (a) the endorsing administrator or other supervised entity has verified and is able to demonstrate on an on-going basis to its competent authority that the provision of the benchmark or family of benchmarks to be endorsed fulfils, on a mandatory or on a voluntary basis, requirements which are at least as stringent as the requirements of this Regulation;
+> (b) the endorsing administrator or other supervised entity has the necessary expertise to monitor effectively the activity of the provision of a benchmark in a third country and to manage the associated risks;
+> (c) there is an objective reason to provide the benchmark or family of benchmarks in a third country and for said benchmark or family of benchmarks to be endorsed for their use in the Union.
+> For the purpose of point (a), when assessing whether the provision of the benchmark or family of benchmarks to be endorsed fulfils requirements which are at least as stringent as the requirements o […truncated by emendrix: 2639 characters omitted…]
+
+**MODIFIED · Art. 34 — Authorisation and registration of an administrator** · applies from: unchanged
+
+*within* `AR 34 PA 1 ALN 1`, `AR 34 PA 1 ALN 1 PTA (a)`, `AR 34 PA 1 ALN 1 PTA (b)`, `AR 34 PA 1 ALN 1 PTA (c)`, `AR 34 PA 1a ALN 1`, `AR 34 PA 3 ALN 1` · *amended by* `32025R0914`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02016R1011-20250117`)
+
+> Article 34
+> Authorisation and registration of an administrator
+> 1. A natural or legal person located in the Union that intends to act as an administrator shall apply to the competent authority designated under Article 40 of the Member State in which that person is located in order to receive:
+> (a) authorisation if it provides or intends to provide indices which are used or intended to be used as benchmarks within the meaning of this Regulation;
+> (b) registration if it is a supervised entity, other than an administrator, that provides or intends to provide indices which are used or intended to be used as benchmarks within the meaning of this Regulation, on condition that the activity of provision of a benchmark is not prevented by the sectoral discipline applying to the supervised entity and that none of the indices provided would qualify as a critical benchmark; or
+> (c) registration if it provides or intends to provide only indices which would qualify as non-significant benchmarks.
+> 1a. Where one or more of the indices provided by the person referred to in paragraph 1 would qualify as critical benchmarks as referred to in points (a) and (c) of Article 20(1), the application shall be addressed to ESMA.
+> 2. An authorised or registered administrator shall comply at all times with the conditions laid down in this Regulation and shall notify the competent authority of any material changes thereof.
+> 3. The application referred to in paragraph 1 shall be made within 30 working days of any a […truncated by emendrix: 2610 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 34
+> Authorisation and registration of an administrator
+> 1. A natural or legal person located in the Union that acts or intends to act as an administrator shall apply to the competent authority designated under Article 40 of the Member State in which that person is located or to ESMA in the cases referred to in paragraph 1a of this Article in order to receive:
+> (a) authorisation where it provides or intends to provide indices which are used or intended to be used as critical benchmarks, as significant benchmarks, as commodity benchmarks subject to Annex II, as EU Climate Transition Benchmarks or as EU Paris-aligned Benchmarks;
+> (b) registration where it is a supervised entity, other than an administrator, that provides or intends to provide indices which are used or intended to be used as significant benchmarks, as EU Climate Transition Benchmarks or EU Paris-aligned Benchmarks, provided that the activity of provision of a benchmark is not prevented by the sectoral discipline applying to the supervised entity and that none of the indices provided would qualify as a critical benchmark.
+> 1a. Where one or more of the indices provided by the person referred to in paragraph 1 would qualify as critical benchmarks as referred to in Article 20(1), points (a) and (c), or if the person at the same time submits an application to ESMA pursuant to Article 33(1) to endorse a benchmark or a family of benchmarks, the application shall be addressed to ESMA.
+> 2. An authorised or registered ad […truncated by emendrix: 2938 characters omitted…]
+
+**MODIFIED · Art. 36 — Register of administrators and benchmarks** · applies from: unchanged
+
+*within* `AR 36 PA 1 ALN 1 PTA (a)`, `AR 36 PA 1 ALN 1 PTA (b)`, `AR 36 PA 1 ALN 1 PTA (c)`, `AR 36 PA 1 ALN 1 PTA (d)`, `AR 36 PA 1 ALN 1 PTA (e)`, `AR 36 PA 1 ALN 1 PTA (f)`, `AR 36 PA 1 ALN 1 PTA (g)`, `AR 36 PA 1 ALN 1 PTA (h)`, `AR 36 PA 1 ALN 1 PTA (i)`, `AR 36 PA 1 ALN 1 PTA (j)`, `AR 36 PA 1 ALN 1 PTA (k)` · *amended by* `32025R0914`
+
+The register entries in points (a) through (d) now specify that identities are to include the legal entity identifier where available, and that lists of benchmarks are to include International Securities Identification Numbers where available, and point (c) also adds that the listed benchmarks are those provided by the recognised administrators which may be used in the Union. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_36)
+
+Point (d) drops the reference to endorsing supervised entities and keeps only endorsing administrators, with LEI added where available. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_36)
+
+New points (e) through (k) are added, listing benchmarks or administrators subject to various statements, designations or public notices under Articles 24, 24a and Annex II, as well as lists of EU Climate Transition Benchmarks, EU Paris-aligned Benchmarks, critical benchmarks and commodity benchmarks, each including ISINs where available. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_36)
+
+*before* (`02016R1011-20250117`)
+
+> Article 36
+> Register of administrators and benchmarks
+> 1. ESMA shall establish and maintain a public register that contains the following information:
+> (a) the identities of the administrators authorised or registered pursuant to Article 34 and the competent authorities responsible for the supervision thereof;
+> (b) the identities of administrators that comply with the conditions laid down in Article 30(1), the list of benchmarks referred to in point (c) of Article 30(1) and the third country competent authorities responsible for the supervision thereof;
+> (c) the identities of the administrators that acquired recognition in accordance with Article 32, the list of benchmarks referred to in Article 32(7) and, where applicable, the third country competent authorities responsible for the supervision thereof;
+> (d) the benchmarks that are endorsed in accordance with the procedure laid down in Article 33, the identities of their administrators, and the identities of the endorsing administrators or endorsing supervised entities.
+> 2. The register referred to in paragraph 1 shall be publicly accessible on the website of ESMA and shall be updated promptly, as necessary.
+
+*after* (`02016R1011-20260101`)
+
+> Article 36
+> Register of administrators and benchmarks
+> 1. ESMA shall establish and maintain a public register that contains the following information:
+> (a) the identities, including, where available, the legal entity identifier (LEI), of the administrators authorised or registered pursuant to Article 34 and the competent authorities responsible for the supervision thereof;
+> (b) the identities, including, where available, the LEI, of administrators that comply with the conditions laid down in Article 30(1), the list of benchmarks, including, where available, their International Securities Identification Numbers (ISINs), referred to in Article 30(1), point (c), and the third country competent authorities responsible for the supervision thereof;
+> (c) the identities, including, where available, the LEI, of the administrators that acquired recognition in accordance with Article 32, the list of benchmarks, including, where available, their ISINs, provided by those administrators which may be used in the Union and, where applicable, the third country competent authorities responsible for the supervision thereof;
+> (d) the benchmarks, including, where available, their ISINs, that are endorsed in accordance with the procedure laid down in Article 33, the identities of their administrators, and the identities, including, where available, the LEI, of the endorsing administrators;
+> (e) the benchmarks, including, where available, their ISINs, subject to a statement published by ESMA or a competen […truncated by emendrix: 1104 characters omitted…]
+
+**MODIFIED · Art. 40 — Competent authorities** · applies from: unchanged
+
+*within* `AR 40 PA 1 ALN 1 PTA (b)`, `AR 40 PA 1 ALN 1 PTA (c)` · *amended by* `32025R0914`
+
+Point (b) of Article 40(1) now ends with a semicolon instead of a full stop, and a new point (c) is added naming administrators endorsing benchmarks provided in a third country in accordance with Article 33 as falling under ESMA's competence. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_40)
+
+The before text listed only points (a) and (b) under Article 40(1), without any reference to Article 33. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_40)
+
+*before* (`02016R1011-20250117`)
+
+> Article 40
+> Competent authorities
+> 1. For the purposes of this Regulation, ESMA shall be the competent authority for:
+> (a) administrators of critical benchmarks as referred to in points (a) and (c) of Article 20(1);
+> (b) administrators of the benchmarks referred to in Article 32.
+> 2. Each Member State shall designate the relevant competent authority responsible for carrying out the duties under this Regulation and shall inform the Commission and ESMA thereof.
+> 3. A Member State that designates more than one competent authority in accordance with paragraph 2 shall clearly determine the respective roles of those competent authorities and shall designate a single authority to be responsible for coordinating the cooperation and the exchange of information with the Commission, ESMA and other Member States’ competent authorities.
+> 4. ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraphs 2 and 3.
+
+*after* (`02016R1011-20260101`)
+
+> Article 40
+> Competent authorities
+> 1. For the purposes of this Regulation, ESMA shall be the competent authority for:
+> (a) administrators of critical benchmarks as referred to in points (a) and (c) of Article 20(1);
+> (b) administrators of the benchmarks referred to in Article 32;
+> (c) administrators endorsing benchmarks provided in a third country in accordance with Article 33.
+> 2. Each Member State shall designate the relevant competent authority responsible for carrying out the duties under this Regulation and shall inform the Commission and ESMA thereof.
+> 3. A Member State that designates more than one competent authority in accordance with paragraph 2 shall clearly determine the respective roles of those competent authorities and shall designate a single authority to be responsible for coordinating the cooperation and the exchange of information with the Commission, ESMA and other Member States’ competent authorities.
+> 4. ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraphs 2 and 3.
+
+**MODIFIED · Art. 41 — Powers of competent authorities** · applies from: unchanged
+
+*within* `AR 41 PA 1 ALN 1 PTA (j)`, `AR 41 PA 1 ALN 1 PTA (k)`, `AR 41 PA 1 ALN 1 PTA (l)` · *amended by* `32025R0914`
+
+The list of supervisory and investigatory powers in paragraph 1 gains two new points after point (j): a power to designate a benchmark as significant pursuant to Article 24(3), and a power to require an administrator, where there are reasonable grounds to suspect a breach of the requirements in Chapter 3A of Title III, to cease for up to 12 months providing EU Climate Transition Benchmarks or EU Paris-aligned Benchmarks, using those terms in benchmark names or documentation, or suggesting compliance with the applicable requirements in benchmark names or documentation. [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_41)
+
+The prior version of Article 41(1) ended at point (j) and contained no equivalent provisions. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_41)
+
+*before* (`02016R1011-20250117`)
+
+> Article 41
+> Powers of competent authorities
+> 1. In order to fulfil their duties under this Regulation, competent authorities referred to in Article 40(2) shall have, in conformity with national law, at least the following supervisory and investigatory powers:
+> (a) access to any document and other data in any form, and to receive or take a copy thereof;
+> (b) require or demand information from any person involved in the provision of, and contribution to, a benchmark, including any service provider to which functions, services or activities in the provision of a benchmark have been outsourced as provided for in Article 10, as well as their principals, and if necessary, summon and question any such person with a view to obtaining information;
+> (c) request, in relation to commodity benchmarks, information from contributors on related spot markets according, where applicable, to standardised formats and reports on transactions, and direct access to traders' systems;
+> (d) carry out on-site inspections or investigations, at sites other than the private residences of natural persons;
+> (e) enter premises of legal persons, without prejudice to Regulation (EU) No 596/2014, in order to seize documents and other data in any form, where a reasonable suspicion exists that documents and other data related to the subject-matter of the inspection or investigation may be relevant to prove a breach of this Regulation. Where prior authorisation is needed from the judicial authority of the Member State co […truncated by emendrix: 2030 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 41
+> Powers of competent authorities
+> 1. In order to fulfil their duties under this Regulation, competent authorities referred to in Article 40(2) shall have, in conformity with national law, at least the following supervisory and investigatory powers:
+> (a) access to any document and other data in any form, and to receive or take a copy thereof;
+> (b) require or demand information from any person involved in the provision of, and contribution to, a benchmark, including any service provider to which functions, services or activities in the provision of a benchmark have been outsourced as provided for in Article 10, as well as their principals, and if necessary, summon and question any such person with a view to obtaining information;
+> (c) request, in relation to commodity benchmarks, information from contributors on related spot markets according, where applicable, to standardised formats and reports on transactions, and direct access to traders' systems;
+> (d) carry out on-site inspections or investigations, at sites other than the private residences of natural persons;
+> (e) enter premises of legal persons, without prejudice to Regulation (EU) No 596/2014, in order to seize documents and other data in any form, where a reasonable suspicion exists that documents and other data related to the subject-matter of the inspection or investigation may be relevant to prove a breach of this Regulation. Where prior authorisation is needed from the judicial authority of the Member State co […truncated by emendrix: 2821 characters omitted…]
+
+**MODIFIED · Art. 42 — Administrative sanctions and other administrative measures** · applies from: unchanged
+
+*within* `AR 42 PA 1 ALN 1 PTA (a)`, `AR 42 PA 2 ALN 1 PTA (g) PTI (i)`, `AR 42 PA 2 ALN 1 PTA (h) PTI (i)` · *amended by* `32025R0914`
+
+In the list of articles whose infringement can trigger administrative sanctions, a reference to Article 24a has been inserted alongside the existing reference to Article 24 in point (a) of paragraph 1. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
+
+The same addition of a reference to Article 24a next to Article 24 appears in the lists of infringements underlying the pecuniary sanction thresholds for natural persons in point (g)(i) and for legal persons in point (h)(i) of paragraph 2. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
+
+*before* (`02016R1011-20250117`)
+
+> Article 42
+> Administrative sanctions and other administrative measures
+> 1. Without prejudice to the supervisory powers of competent authorities in accordance with Article 41, and the right of Member States to provide for and impose criminal sanctions, Member States shall, in conformity with national law, provide for competent authorities to have the power to impose appropriate administrative sanctions and other administrative measures in relation to at least the following infringements:
+> (a) any infringement of Article 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19a, 19b, 19c, 21, 23, 24, 25, 26, 27, 28, 29 or 34 where they apply; and
+> (b) any failure to cooperate or comply in an investigation or with an inspection or request covered by Article 41.
+> Those administrative sanctions and other administrative measures shall be effective, proportionate and dissuasive.
+> 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
+> (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
+> (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
+> (c) a public warning which indicates the administrator or supervised entity responsible and the n […truncated by emendrix: 4342 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 42
+> Administrative sanctions and other administrative measures
+> 1. Without prejudice to the supervisory powers of competent authorities in accordance with Article 41, and the right of Member States to provide for and impose criminal sanctions, Member States shall, in conformity with national law, provide for competent authorities to have the power to impose appropriate administrative sanctions and other administrative measures in relation to at least the following infringements:
+> (a) any infringement of Article 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19a, 19b, 19c, 21, 23, 24, 24a, 25, 26, 27, 28, 29 or 34 where they apply; and
+> (b) any failure to cooperate or comply in an investigation or with an inspection or request covered by Article 41.
+> Those administrative sanctions and other administrative measures shall be effective, proportionate and dissuasive.
+> 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
+> (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
+> (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
+> (c) a public warning which indicates the administrator or supervised entity responsible and […truncated by emendrix: 4357 characters omitted…]
+
+**MODIFIED · Art. 48f — Fines** · applies from: unchanged
+
+*within* `AR 48f PA 1 ALN 1` · *amended by* `32025R0914`
+
+Paragraph 1 now also covers any failure to cooperate or comply in an investigation or with an inspection or request covered by Section 1 of the Chapter, in addition to the infringements already listed in Article 42(1), point (a). [Art. 48f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48f)
+
+The remainder of Article 48f, including the fine amounts and criteria in paragraphs 2 through 5, is unchanged between the two versions. [Art. 48f, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_48f) [Art. 48f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48f)
+
+*before* (`02016R1011-20250117`)
+
+> Article 48f
+> Fines
+> 1. Where, in accordance with Article 48i(5), ESMA finds that any person has, intentionally or negligently, committed one or more of the infringements listed in point (a) of Article 42(1), it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+> An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
+> 2. The maximum amount of the fine referred to in paragraph 1 shall be:
+> (a) in the case of a legal person, EUR 1000000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016, or 10 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whichever is the higher;
+> (b) in the case of a natural person, EUR 500000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016.
+> Notwithstanding the first subparagraph, the maximum amount of the fine for infringements of point (d) of Article 11(1) or of Article 11(4) shall be EUR 250000 or, in the Member States whose official currency is not the euro, the corresponding value in the national currency on 30 June 2016 or 2 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whic […truncated by emendrix: 1298 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 48f
+> Fines
+> 1. Where, in accordance with Article 48i(5), ESMA finds that any person has, intentionally or negligently, committed one or more of the infringements listed in Article 42(1), point (a), or any failure to cooperate or comply in an investigation or with an inspection or request covered by Section 1 of this Chapter, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+> An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
+> 2. The maximum amount of the fine referred to in paragraph 1 shall be:
+> (a) in the case of a legal person, EUR 1000000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016, or 10 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whichever is the higher;
+> (b) in the case of a natural person, EUR 500000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016.
+> Notwithstanding the first subparagraph, the maximum amount of the fine for infringements of point (d) of Article 11(1) or of Article 11(4) shall be EUR 250000 or, in the Member States whose official currency is not the euro, the corresponding value in the national currency on 30 June 2016 or 2 % of the total […truncated by emendrix: 1425 characters omitted…]
+
+**MODIFIED · Art. 48i — Procedural rules for taking supervisory measures and imposing fines** · applies from: unchanged
+
+*within* `AR 48i PA 1 ALN 1`, `AR 48i PA 8 ALN 1` · *amended by* `32025R0914`
+
+Paragraph 1 now also covers a failure to cooperate or comply in an investigation or with an inspection or request covered by Section 1 of Chapter 4, in addition to the infringements already listed in Article 42(1), point (a), as grounds for ESMA to appoint an independent investigation officer. [Art. 48i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48i)
+
+Paragraph 8 correspondingly extends ESMA's decision on whether an infringement has been committed to include such a failure to cooperate or comply, and adds the qualifier 'as applicable' to the reference to imposing a fine under Article 48f. [Art. 48i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48i)
+
+The corresponding text in the earlier version referred only to the infringements listed in Article 42(1), point (a), without mentioning any failure to cooperate or comply. [Art. 48i, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_48i)
+
+*before* (`02016R1011-20250117`)
+
+> Article 48i
+> Procedural rules for taking supervisory measures and imposing fines
+> 1. Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements listed in point (a) of Article 42(1), ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision of the benchmarks to which the infringement relates and shall perform his or her functions independently from ESMA’s Board of Supervisors.
+> 2. The investigation officer referred to in paragraph 1 shall investigate the alleged infringements, take into account any comments submitted by the persons who are subject to the investigation, and shall submit a complete file with his or her findings to ESMA’s Board of Supervisors.
+> 3. In order to carry out his or her tasks, the investigation officer shall have the power to request information in accordance with Article 48b and to conduct investigations and on-site inspections in accordance with Articles 48c and 48d.
+> 4. Where carrying out those tasks, the investigation officer shall have access to all documents and information that have been gathered by ESMA in its supervisory activities.
+> 5. Upon completion of his or her investigation and before submitting the file with his or her findings to ESMA’s Board of Supervisors, the investi […truncated by emendrix: 2533 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 48i
+> Procedural rules for taking supervisory measures and imposing fines
+> 1. Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements listed in Article 42(1), point (a), or of a failure to cooperate or comply in an investigation or with an inspection or request covered by Section 1 of Chapter 4, ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision of the benchmarks to which the infringement relates and shall perform his or her functions independently from ESMA’s Board of Supervisors.
+> 2. The investigation officer referred to in paragraph 1 shall investigate the alleged infringements, take into account any comments submitted by the persons who are subject to the investigation, and shall submit a complete file with his or her findings to ESMA’s Board of Supervisors.
+> 3. In order to carry out his or her tasks, the investigation officer shall have the power to request information in accordance with Article 48b and to conduct investigations and on-site inspections in accordance with Articles 48c and 48d.
+> 4. Where carrying out those tasks, the investigation officer shall have access to all documents and information that have been gathered by ESMA in its supervisory activities.
+> 5. Upon completion of […truncated by emendrix: 2796 characters omitted…]
+
+**MODIFIED · Art. 48n — Transition measures related to ESMA** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 48n PA 1 ALN 1`, `AR 48n PA 1a`, `AR 48n PA 2 ALN 1`, `AR 48n PA 2 ALN 2`, `AR 48n PA 2a`, `AR 48n PA 3 ALN 1`, `AR 48n PA 3a`, `AR 48n PA 4 ALN 1`, `AR 48n PA 5 ALN 1` · *dates* +2025-10-01 +2026-01-01 · *amended by* `32025R0914`
+
+The revised Article 48n narrows paragraphs 1, 2 and 3 to administrators referred to in Article 40(1), points (a) and (b), and adds new paragraphs 1a, 2a and 3a covering administrators endorsing benchmarks provided in a third country under Article 40(1), point (c), with a transfer of competences, files and records to ESMA set for 1 January 2026 and an application cut-off of 1 October 2025 for endorsement requests. [Art. 48n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48n)
+
+Paragraph 4 now names ESMA as legal successor to competent authorities referred to in both paragraphs 1 and 1a, whereas the earlier text referred only to paragraph 1. [Art. 48n, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_48n) [Art. 48n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48n)
+
+Paragraph 5 is expanded to state that authorisations or registrations of administrators endorsing or envisaging to endorse benchmarks provided in a third country also remain valid after the transfer of competences to ESMA, alongside the previously covered authorisations and recognitions. [Art. 48n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_48n)
+
+*before* (`02016R1011-20250117`)
+
+> Article 48n
+> Transition measures related to ESMA
+> 1. All competences and duties related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1) that are conferred on competent authorities as referred to in Article 40(2) shall be terminated on 1 January 2022. Those competences and duties shall be taken-up by ESMA on the same date.
+> 2. Any files and working documents related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1), including any ongoing examinations and enforcement actions, or certified copies thereof, shall be taken over by ESMA on the date referred to in paragraph 1 of this Article.
+> However, applications for authorisation by administrators of a critical benchmark referred to in points (a) and (c) of Article 20(1) and applications for recognition in accordance with Article 32 that have been received by competent authorities before 1 October 2021 shall not be transferred to ESMA, and the decision to authorise or recognise shall be taken by the relevant competent authority.
+> 3. Competent authorities shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 January 2022. Those competent authorities shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity regarding administrato […truncated by emendrix: 639 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 48n
+> Transition measures related to ESMA
+> 1. All competences and duties related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1), points (a) and (b), that are conferred on competent authorities as referred to in Article 40(2) shall be terminated on 1 January 2022. Those competences and duties shall be taken up by ESMA on the same date.
+> 1a. All competences and duties related to the supervisory and enforcement activity regarding administrators endorsing benchmarks provided in a third country as referred to in Article 40(1), point (c), that are conferred on competent authorities as referred to in Article 40(2) shall be terminated on 1 January 2026. Those competences and duties shall be taken up by ESMA on the same date.
+> 2. Any files and working documents related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1), points (a) and (b), including any ongoing examinations and enforcement actions, or certified copies thereof, shall be taken over by ESMA on the date referred to in paragraph 1 of this Article.
+> However, applications for authorisation by administrators of a critical benchmark referred to in Article 20(1), points (a) and (c), and applications for recognition in accordance with Article 32 that have been received by competent authorities before 1 October 2021 shall not be transferred to ESMA, and the decision to authorise or recognise shall be taken by the relevant com […truncated by emendrix: 2446 characters omitted…]
+
+**MODIFIED · Art. 49 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 49 PA 2 ALN 1`, `AR 49 PA 2b ALN 1`, `AR 49 PA 3 ALN 1`, `AR 49 PA 3a ALN 1`, `AR 49 PA 6 ALN 1`, `AR 49 PA 6a ALN 1` · *dates* -2019-12-10 -2024-03-11 +2024-06-30 +2029-12-31 · *amended by* `32025R0914`
+
+The five-year delegation period start date changes from 10 December 2019 to 30 June 2024, and the report deadline changes from 11 March 2024 to 31 December 2029, with the cross-reference to Article 24(2) updated to Article 24(9) throughout. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_49) [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_49)
+
+The paragraphs on indeterminate-period delegation, revocation, and entry into force of delegated acts (2b, 3a, 6a) drop the reference to Article 18a(3), leaving only Article 54(7) named in those provisions. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_49) [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_49)
+
+*before* (`02016R1011-20250117`)
+
+> Article 49
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 10 December 2019. The Commission shall draw up a report in respect of the delegation of power no later than 11 March 2024. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 2a. The power to adopt delegated acts referred to in Articles 30(2a), 30(3a), 48i(10) and 48l(3) shall be conferred on the Commission for an indeterminate period of time from 30 December 2019.
+> 2b. The power to adopt delegated acts referred to in Articles 18a(3) and 54(7) shall be conferred on the Commission for an indeterminate period of time from 13 February 2021.
+> 3. The delegation of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 30(2a), 30(3a), 33(7), 48i(10), 48l(3), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal o […truncated by emendrix: 2119 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 49
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(9), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 30 June 2024. The Commission shall draw up a report in respect of the delegation of power no later than 31 December 2029. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 2a. The power to adopt delegated acts referred to in Articles 30(2a), 30(3a), 48i(10) and 48l(3) shall be conferred on the Commission for an indeterminate period of time from 30 December 2019.
+> 2b. The power to adopt delegated acts referred to in Article 54(7) shall be conferred on the Commission for an indeterminate period of time from 13 February 2021.
+> 3. The delegation of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(9), 27(2b), 30(2a), 30(3a), 33(7), 48i(10), 48l(3), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the Europea […truncated by emendrix: 2084 characters omitted…]
+
+**MODIFIED · Art. 51 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 51 PA 4c`, `AR 51 PA 5 ALN 3` · *dates* +2025-12-31 +2026-09-30 +2027-01-01 · *amended by* `32025R0914`
+
+A new paragraph 4c has been added, setting out how competent authorities or ESMA designate as significant benchmarks that were in the register on 31 December 2025, the retained status of administrators of registered benchmarks until 30 September 2026, four conditions under which such administrators are not obliged to re-apply for authorisation, registration, recognition or endorsement, and a rule permitting continued use of a spot foreign exchange benchmark from a third-country administrator until entry into force of the implementing act referred to in Article 18a(3). [Art. 51, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_51)
+
+Paragraph 5 has gained a new subparagraph allowing continued use of an EU Paris-aligned Benchmark, EU Climate Transition Benchmark or Annex II commodity benchmark provided by a third-country administrator, where ESMA received an application for recognition or endorsement for that benchmark by 31 December 2025, until that recognition or endorsement is refused by ESMA. [Art. 51, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_51)
+
+The remainder of Article 51, including paragraphs 1 through 4b and the first two subparagraphs of paragraph 5, is unchanged between the two versions. [Art. 51, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_51) [Art. 51, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_51)
+
+*before* (`02016R1011-20250117`)
+
+> Article 51
+> Transitional provisions
+> 1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.
+> 2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:
+> (a) the index provider does not provide a critical benchmark;
+> (b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.
+> The competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.
+> The competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.
+> 3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where t […truncated by emendrix: 3060 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 51
+> Transitional provisions
+> 1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.
+> 2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:
+> (a) the index provider does not provide a critical benchmark;
+> (b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.
+> The competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.
+> The competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.
+> 3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where t […truncated by emendrix: 6051 characters omitted…]
+
+**MODIFIED · Art. 53** · applies from: unknown
+
+*amended by* `32025R0914`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 54 — Review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 54 PA 8` · *dates* +2029-06-30 · *amended by* `32025R0914`
+
+A new paragraph 8 has been added, requiring the Commission, after consulting ESMA, to present a report to the European Parliament and to the Council by 30 June 2029 assessing whether the scope of the Regulation regarding benchmarks with ESG-related claims and related ESG disclosures by administrators is appropriate. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_54)
+
+This new paragraph also directs the Commission to consider availability and uptake of such benchmarks, their costs, the evolving nature of ESG indicators, and consistency of required disclosures with Regulation (EU) 2019/2088 and relevant ESMA guidelines, with the report to be accompanied, where appropriate, by a legislative proposal. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_54)
+
+Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_54)
+
+*before* (`02016R1011-20250117`)
+
+> Article 54
+> Review
+> 1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:
+> (a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);
+> (b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;
+> (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
+> 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 1888 characters omitted…]
+
+*after* (`02016R1011-20260101`)
+
+> Article 54
+> Review
+> 1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:
+> (a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);
+> (b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;
+> (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
+> 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 2805 characters omitted…]
+
+**MODIFIED · TIS III** · applies from: unknown
+
+*amended by* `32025R0914`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20260101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20250117 -->
 ## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
 ### `02016R1011-20240109` → `02016R1011-20250117`
