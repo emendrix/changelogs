@@ -10,6 +10,41 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170401 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20170103` → `02012R0648-20170401`
+
+- **Act** `eu:32012R0648` · **In force** not stated · **Detected** 2026-08-13
+- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 97 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20170103` · `v2` = `02012R0648-20170401`
+
+---
+
+**DEFERRED · Art. 89 — Transitional provisions** · applies from: 2018-08-16
+
+*within* `AR 89 PA 1 ALN 1` · *dates* -2017-08-16 +2018-08-16
+
+The date until which the clearing obligation exemption for pension scheme arrangements applies in paragraph 1 was changed from 16 August 2017 to 16 August 2018. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170401#art_89)
+
+*before* (`02012R0648-20170103`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 16 August 2017, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements compl […truncated by emendrix: 7243 characters omitted…]
+
+*after* (`02012R0648-20170401`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 16 August 2018, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements compl […truncated by emendrix: 7243 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20170401 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170103 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20160112` → `02012R0648-20170103`

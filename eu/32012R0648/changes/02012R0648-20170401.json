@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20170103",
+  "to_version": "02012R0648-20170401",
+  "detected_on": "2026-08-13",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 0,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 1,
+    "touched_units": 1,
+    "unchanged_units": 97,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 0,
+    "date_only": 1,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20170401",
+          "location": "AR 89"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 89\nTransitional provisions\n1. Until 16 August 2017, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.\nThe OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.\n2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements complies with Article 2(10)(c) or (d) and that they encounter difficulties in meeting the variation margin requirements. The competent authority shall adopt a decision within ten working days of receipt of ESMA’s opinion, taking due account of that opinion. If the competent authority does not agree with ESMA’s opinion, it shall give full reasons in its decision and shall explain any significant deviation therefrom.\nESMA shall publish on its website a list of types of entities and types of arrangements referred to in Article 2(10)(c) and (d) which has been granted an exemption in accordance with the first subparagraph. To further strengthen consistency in supervisory outcomes, ESMA shall conduct a peer review of the entities included on the list every year in accordance with Article 30 of Regulation (EU) No 1095/2010.\n3. A CCP that has been authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards under Articles 4, 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 are adopted by the Commission, shall apply for authorisation under Article 14 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\nA CCP established in a third country, which has been recognised to provide clearing services in a Member State in accordance with the national law of that Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 are adopted by the Commission, shall apply for recognition under Article 25 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\n4. Until a decision is made under this Regulation on the authorisation or recognition of a CCP, the respective national rules on authorisation and recognition of CCPs shall continue to apply and the CCP shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n5. Where a competent authority authorised a CCP to clear a given class of derivatives in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that authorisation within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\nWhere a competent authority recognised a CCP established in a third country to provide clearing services in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that recognition within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\n5a. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 14 on the authorisation of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\nUntil 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 25 on the recognition of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\nUntil the deadlines defined in the first two subparagraphs of this paragraph, and subject to the fourth subparagraph of this paragraph, where a CCP neither has a default fund nor has in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the information it is to report in accordance with Article 50c(1) shall include the total amount of initial margin it has received from its clearing members.\nThe deadlines referred to in the first and second subparagraphs of this paragraph may be extended by six months in accordance with a Commission implementing act adopted pursuant to Article 497(3) of Regulation (EU) No 575/2013.\n6. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for registration under Article 55 within six months of the date of entry into force of those regulatory and implementing technical standards.\nA trade repository established in a third country, which is allowed to collect and maintain the records of derivatives in a Member State in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for recognition under Article 77 within six months of the date of entry into force of those regulatory and implementing technical standards.\n7. Until a decision is made under this Regulation on the registration or recognition of a trade repository, the respective national rules on authorisation, registration and recognition of trade repositories shall continue to apply and the trade repository shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n8. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the registration of the trade repository under this Regulation.\nA trade repository established in a third country which has been allowed to collect and maintain the records of derivatives in accordance with the national law of a Member State before all the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the recognition of the trade repository under this Regulation.\n9. Notwithstanding Article 81(3)(f), where no international agreement is in place between a third country and the Union as referred to in Article 75, a trade repository may make the necessary information available to the relevant authorities of that third country until 17 August 2013 provided that it notifies ESMA.",
+        "after": "Article 89\nTransitional provisions\n1. Until 16 August 2018, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.\nThe OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.\n2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements complies with Article 2(10)(c) or (d) and that they encounter difficulties in meeting the variation margin requirements. The competent authority shall adopt a decision within ten working days of receipt of ESMA’s opinion, taking due account of that opinion. If the competent authority does not agree with ESMA’s opinion, it shall give full reasons in its decision and shall explain any significant deviation therefrom.\nESMA shall publish on its website a list of types of entities and types of arrangements referred to in Article 2(10)(c) and (d) which has been granted an exemption in accordance with the first subparagraph. To further strengthen consistency in supervisory outcomes, ESMA shall conduct a peer review of the entities included on the list every year in accordance with Article 30 of Regulation (EU) No 1095/2010.\n3. A CCP that has been authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards under Articles 4, 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 are adopted by the Commission, shall apply for authorisation under Article 14 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\nA CCP established in a third country, which has been recognised to provide clearing services in a Member State in accordance with the national law of that Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 are adopted by the Commission, shall apply for recognition under Article 25 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\n4. Until a decision is made under this Regulation on the authorisation or recognition of a CCP, the respective national rules on authorisation and recognition of CCPs shall continue to apply and the CCP shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n5. Where a competent authority authorised a CCP to clear a given class of derivatives in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that authorisation within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\nWhere a competent authority recognised a CCP established in a third country to provide clearing services in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that recognition within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\n5a. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 14 on the authorisation of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\nUntil 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 25 on the recognition of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\nUntil the deadlines defined in the first two subparagraphs of this paragraph, and subject to the fourth subparagraph of this paragraph, where a CCP neither has a default fund nor has in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the information it is to report in accordance with Article 50c(1) shall include the total amount of initial margin it has received from its clearing members.\nThe deadlines referred to in the first and second subparagraphs of this paragraph may be extended by six months in accordance with a Commission implementing act adopted pursuant to Article 497(3) of Regulation (EU) No 575/2013.\n6. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for registration under Article 55 within six months of the date of entry into force of those regulatory and implementing technical standards.\nA trade repository established in a third country, which is allowed to collect and maintain the records of derivatives in a Member State in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for recognition under Article 77 within six months of the date of entry into force of those regulatory and implementing technical standards.\n7. Until a decision is made under this Regulation on the registration or recognition of a trade repository, the respective national rules on authorisation, registration and recognition of trade repositories shall continue to apply and the trade repository shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n8. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the registration of the trade repository under this Regulation.\nA trade repository established in a third country which has been allowed to collect and maintain the records of derivatives in accordance with the national law of a Member State before all the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the recognition of the trade repository under this Regulation.\n9. Notwithstanding Article 81(3)(f), where no international agreement is in place between a third country and the Union as referred to in Article 75, a trade repository may make the necessary information available to the relevant authorities of that third country until 17 August 2013 provided that it notifies ESMA.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 89 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2017-08-16"
+        ],
+        "dates_added": [
+          "2018-08-16"
+        ],
+        "in_force": null,
+        "applies_from": "2018-08-16",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (2017-01-03, 2017-04-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date until which the clearing obligation exemption for pension scheme arrangements applies in paragraph 1 was changed from 16 August 2017 to 16 August 2018.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20170103",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_89",
+              "label": "Art. 89, 02012R0648-20170103"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20170401",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170401#art_89",
+              "label": "Art. 89, 02012R0648-20170401"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20170103",
+    "to_version": "02012R0648-20170401",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 89"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (2017-01-03, 2017-04-01]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7831,
+      "output_tokens": 140,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
