@@ -10,6 +10,111 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140320 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20131030` → `02010R1093-20140320`
+
+- **Act** `eu:32010R1093` · **In force** 2014-03-20 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20131030` · `v2` = `02010R1093-20140320`
+
+---
+
+**MODIFIED · Art. 13 — Objections to regulatory technical standards** · applies from: unchanged
+
+*within* `AR 13 PA 1 ALN 1` · *amended by* `32014L0017`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The provision on extending the objection period at the initiative of the European Parliament or the Council, in the case where the Commission adopts a regulatory technical standard identical to the Authority's draft, changes from a single flat one-month extension to an initial one-month extension that is further extendable by another one month. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_13)
+
+*before* (`02010R1093-20131030`)
+
+> Article 13
+> Objections to regulatory technical standards
+> 1.
+> The European Parliament or the Council may object to a regulatory technical standard within a period of 3 months from the date of notification of the regulatory technical standard adopted by the Commission. At the initiative of the European Parliament or the Council that period shall be extended by 3 months.
+> Where the Commission adopts a regulatory technical standard which is the same as the draft regulatory technical standard submitted by the Authority, the period during which the European Parliament and the Council may object shall be 1 month from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by 1 month.
+> 2.
+> If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+> The regulatory technical standard may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+>
+> 3.
+> If either the European Parliament or the Council objects to a regulatory technical standard within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article […truncated by emendrix: 115 characters omitted…]
+
+*after* (`02010R1093-20140320`)
+
+> Article 13
+> Objections to regulatory technical standards
+> 1.
+> The European Parliament or the Council may object to a regulatory technical standard within a period of 3 months from the date of notification of the regulatory technical standard adopted by the Commission. At the initiative of the European Parliament or the Council that period shall be extended by 3 months.
+> Where the Commission adopts a regulatory technical standard which is the same as the draft regulatory technical standard submitted by the Authority, the period during which the European Parliament and the Council may object shall be 1 month from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended for an initial period of 1 month and shall be extendable for a further period of 1 month.
+> 2.
+> If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+> The regulatory technical standard may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+>
+> 3.
+> If either the European Parliament or the Council objects to a regulatory technical standard within the period referred […truncated by emendrix: 193 characters omitted…]
+
+**MODIFIED · Art. 13.1** · applies from: unknown
+
+*amended by* `32014L0017`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17 — Breach of Union law** · applies from: unchanged
+
+*within* `AR 17 PA 2 ALN 1` · *amended by* `32014L0017`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+In paragraph 2, the description of the information a competent authority must provide to the Authority during an investigation now includes information on how the acts referred to in Article 1(2) are applied in accordance with Union law, a phrase absent from the earlier version. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_17)
+
+*before* (`02010R1093-20131030`)
+
+> Article 17
+> Breach of Union law
+> 1.
+> Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.
+> 2.
+> Upon a request from one or more competent authorities, the European Parliament, the Council, the Commission or the Banking Stakeholder Group, or on its own initiative, and after having informed the competent authority concerned, the Authority may investigate the alleged breach or non-application of Union law.
+> Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation.
+> 3.
+> The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.
+> The competent authority shall, within 10 working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.
+> 4.
+> Where the competent authority has not com […truncated by emendrix: 2399 characters omitted…]
+
+*after* (`02010R1093-20140320`)
+
+> Article 17
+> Breach of Union law
+> 1.
+> Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.
+> 2.
+> Upon a request from one or more competent authorities, the European Parliament, the Council, the Commission or the Banking Stakeholder Group, or on its own initiative, and after having informed the competent authority concerned, the Authority may investigate the alleged breach or non-application of Union law.
+> Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.
+> 3.
+> The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.
+> The competent authority shall, within 10 working days of receipt of the recommendation, inform the Authority of the steps it has taken or […truncated by emendrix: 2497 characters omitted…]
+
+**MODIFIED · Art. 17.2** · applies from: unknown
+
+*amended by* `32014L0017`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20140320 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20131030 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `32010R1093` → `02010R1093-20131030`
