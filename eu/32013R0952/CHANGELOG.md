@@ -10,6 +10,365 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20190515 -->
+## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
+### `02013R0952-20161224` → `02013R0952-20190515`
+
+- **Act** `eu:32013R0952` · **In force** 2019-04-14, 2019-05-15 · **Detected** 2026-08-13
+- **Touched** 12 provisions — 12 substantive · 0 date-only · **0 disputed**
+- **Diff** 2 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 278 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R0952-20161224` · `v2` = `02013R0952-20190515`
+
+---
+
+**MODIFIED · Art. 34 — Management of decisions relating to binding information** · applies from: unchanged
+
+*within* `AR 34 PA 9 ALN 1` · *amended by* `32019R0474`
+
+Paragraph 9 now expressly says that a BTI or BOI decision may still be used for binding contracts where it ceases to be valid under point (b) of paragraph 1 or under paragraph 2, or is revoked under paragraph 5, 7 or 8, whereas the earlier text referred only to paragraphs 2, 7 or 8 applying alongside point (b) of paragraph 1 without mentioning paragraph 5. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_34)
+
+The wording was also rephrased to state that the decision 'ceases to be valid' or 'is revoked in accordance with' the listed paragraphs, rather than simply saying those paragraphs 'apply'. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_34)
+
+*before* (`02013R0952-20161224`)
+
+> Article 34
+> Management of decisions relating to binding information
+> 1. A BTI decision shall cease to be valid before the end of the period referred to in Article 33(3) where it no longer conforms to the law, as a result of either of the following:
+> (a) the adoption of an amendment to the nomenclatures referred to in points (a) and (b) of Article 56(2);
+> (b) the adoption of measures referred to in Article 57(4);
+> with effect from the date of application of such amendment or measures.
+> 2. A BOI decision shall cease to be valid before the end of the period referred to in Article 33(3) in any of the following cases:
+> (a) where a regulation is adopted or an agreement is concluded by, and becomes applicable in, the Union, and the BOI decision no longer conforms to the law thereby laid down, with effect from the date of application of that regulation or agreement;
+> (b) where it is no longer compatible with the Agreement on Rules of Origin established in the World Trade Organisation (WTO) or with the explanatory notes or an origin opinion adopted for the interpretation of that Agreement, with effect from the date of their publication in the Official Journal of the European Union.
+> 3. BTI or BOI decisions shall not cease to be valid with retroactive effect.
+> 4. By way of derogation from Article 23(3) and Article 27, BTI and BOI decisions shall be annulled where they are based on inaccurate or incomplete information from the applicants.
+> 5. BTI and BOI decisions shall be revoked in accordance wi […truncated by emendrix: 3674 characters omitted…]
+
+*after* (`02013R0952-20190515`)
+
+> Article 34
+> Management of decisions relating to binding information
+> 1. A BTI decision shall cease to be valid before the end of the period referred to in Article 33(3) where it no longer conforms to the law, as a result of either of the following:
+> (a) the adoption of an amendment to the nomenclatures referred to in points (a) and (b) of Article 56(2);
+> (b) the adoption of measures referred to in Article 57(4);
+> with effect from the date of application of such amendment or measures.
+> 2. A BOI decision shall cease to be valid before the end of the period referred to in Article 33(3) in any of the following cases:
+> (a) where a regulation is adopted or an agreement is concluded by, and becomes applicable in, the Union, and the BOI decision no longer conforms to the law thereby laid down, with effect from the date of application of that regulation or agreement;
+> (b) where it is no longer compatible with the Agreement on Rules of Origin established in the World Trade Organisation (WTO) or with the explanatory notes or an origin opinion adopted for the interpretation of that Agreement, with effect from the date of their publication in the Official Journal of the European Union.
+> 3. BTI or BOI decisions shall not cease to be valid with retroactive effect.
+> 4. By way of derogation from Article 23(3) and Article 27, BTI and BOI decisions shall be annulled where they are based on inaccurate or incomplete information from the applicants.
+> 5. BTI and BOI decisions shall be revoked in accordance wi […truncated by emendrix: 3780 characters omitted…]
+
+**MODIFIED · Art. 124 — Extinguishment** · applies from: unchanged
+
+*within* `AR 124 PA 1 ALN 1 PTA (h) PTI (i)` · *amended by* `32019R0474`
+
+In point (h)(i), the reference to a failure having no significant effect on the correct operation of the procedure concerned has been expanded to also cover the correct operation of temporary storage. [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_124)
+
+All other paragraphs and points of Article 124 remain textually the same between the two versions. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_124)
+
+*before* (`02013R0952-20161224`)
+
+> Article 124
+> Extinguishment
+> 1. Without prejudice to the provisions in force relating to non-recovery of the amount of import or export duty corresponding to a customs debt in the event of the judicially established insolvency of the debtor, a customs debt on import or export shall be extinguished in any of the following ways:
+> (a) where the debtor can no longer be notified of the customs debt, in accordance with Article 103;
+> (b) by payment of the amount of import or export duty;
+> (c) subject to paragraph 5, by remission of the amount of import or export duty;
+> (d) where, in respect of goods declared for a customs procedure entailing the obligation to pay import or export duty, the customs declaration is invalidated;
+> (e) where goods liable to import or export duty are confiscated or seized and simultaneously or subsequently confiscated;
+> (f) where goods liable to import or export duty are destroyed under customs supervision or abandoned to the State;
+> (g) where the disappearance of the goods or the non-fulfilment of obligations arising from the customs legislation results from the total destruction or irretrievable loss of those goods as a result of the actual nature of the goods or unforeseeable circumstances or force majeure, or as a consequence of instruction by the customs authorities; for the purpose of this point, goods shall be considered as irretrievably lost when they have been rendered unusable by any person;
+> (h) where the customs debt was incurred pursuant to Article 79 o […truncated by emendrix: 2553 characters omitted…]
+
+*after* (`02013R0952-20190515`)
+
+> Article 124
+> Extinguishment
+> 1. Without prejudice to the provisions in force relating to non-recovery of the amount of import or export duty corresponding to a customs debt in the event of the judicially established insolvency of the debtor, a customs debt on import or export shall be extinguished in any of the following ways:
+> (a) where the debtor can no longer be notified of the customs debt, in accordance with Article 103;
+> (b) by payment of the amount of import or export duty;
+> (c) subject to paragraph 5, by remission of the amount of import or export duty;
+> (d) where, in respect of goods declared for a customs procedure entailing the obligation to pay import or export duty, the customs declaration is invalidated;
+> (e) where goods liable to import or export duty are confiscated or seized and simultaneously or subsequently confiscated;
+> (f) where goods liable to import or export duty are destroyed under customs supervision or abandoned to the State;
+> (g) where the disappearance of the goods or the non-fulfilment of obligations arising from the customs legislation results from the total destruction or irretrievable loss of those goods as a result of the actual nature of the goods or unforeseeable circumstances or force majeure, or as a consequence of instruction by the customs authorities; for the purpose of this point, goods shall be considered as irretrievably lost when they have been rendered unusable by any person;
+> (h) where the customs debt was incurred pursuant to Article 79 o […truncated by emendrix: 2581 characters omitted…]
+
+**MODIFIED · Art. 126 — Delegation of power** · applies from: unchanged
+
+*within* `AR 126 ALN 1` · *amended by* `32019R0474`
+
+The scope of failures covered by the delegated acts is expanded to include failures with no significant effect on the correct operation of temporary storage, in addition to the customs procedure concerned. [Art. 126, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_126)
+
+The cross-reference to the point being supplemented is reformatted from point (i) of point (h) to point (h)(i) of Article 124(1), with no other change to that reference. [Art. 126, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_126) [Art. 126, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_126)
+
+*before* (`02013R0952-20161224`)
+
+> Article 126
+> Delegation of power
+> The Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine the list of failures with no significant effect on the correct operation of the customs procedure concerned and to supplement point (i) of point (h) of Article 124(1).
+
+*after* (`02013R0952-20190515`)
+
+> Article 126
+> Delegation of power
+> The Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine the list of failures with no significant effect on the correct operation of the temporary storage or of the customs procedure concerned and to supplement point (h)(i) of Article 124(1).
+
+**MODIFIED · Art. 129 — Amendment and invalidation of an entry summary declaration** · applies from: unchanged
+
+*within* `AR 129 PA 2 ALN 1`, `AR 129 PA 2 ALN 1 PTA (a)`, `AR 129 PA 2 ALN 1 PTA (b)` · *amended by* `32019R0474`
+
+Paragraph 2 now instructs the customs authorities to invalidate the entry summary declaration without delay, a phrase not present in the earlier text. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_129)
+
+The introductory wording of paragraph 2 was changed from referring to when the goods are not brought into the customs territory of the Union to using different wording for the same condition, and point (b) now describes the 200-day period as time that has elapsed since the declaration was lodged rather than as a period after lodging. [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_129) [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_129)
+
+*before* (`02013R0952-20161224`)
+
+> Article 129
+> Amendment and invalidation of an entry summary declaration
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the entry summary declaration after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the entry summary declaration that they intend to examine the goods;
+> (b) the customs authorities have established that the particulars of the entry summary declaration are incorrect;
+> (c) the goods have already been presented to customs.
+> 2. When the goods for which an entry summary declaration has been lodged are not brought into the customs territory of the Union, the customs authorities shall invalidate that declaration in either of the following cases:
+> (a) upon application by the declarant;
+> (b) within 200 days after the lodging of the declaration.
+
+*after* (`02013R0952-20190515`)
+
+> Article 129
+> Amendment and invalidation of an entry summary declaration
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the entry summary declaration after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the entry summary declaration that they intend to examine the goods;
+> (b) the customs authorities have established that the particulars of the entry summary declaration are incorrect;
+> (c) the goods have already been presented to customs.
+> 2. Where the goods for which an entry summary declaration has been lodged are not brought into the customs territory of the Union, the customs authorities shall invalidate that declaration without delay in either of the following cases:
+> (a) upon application by the declarant; or
+> (b) after 200 days have elapsed since the declaration was lodged.
+
+**MODIFIED · Art. 139 — Presentation of goods to customs** · applies from: unchanged
+
+*within* `AR 139 PA 5 ALN 1` · *amended by* `32019R0474`
+
+Paragraph 5 now states that lodging a customs declaration or temporary storage declaration instead of an entry summary declaration is conditioned on it being permitted by the customs authorities, a qualification absent from the earlier text. [Art. 139, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_139) [Art. 139, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_139)
+
+The revised paragraph also adds a sentence specifying that, where such a customs declaration or temporary storage declaration is lodged instead, it must contain at least the particulars necessary for the entry summary declaration. [Art. 139, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_139)
+
+*before* (`02013R0952-20161224`)
+
+> Article 139
+> Presentation of goods to customs
+> 1. Goods brought into the customs territory of the Union shall be presented to customs immediately upon their arrival at the designated customs office or any other place designated or approved by the customs authorities or in the free zone by one of the following persons:
+> (a) the person who brought the goods into the customs territory of the Union;
+> (b) the person in whose name or on whose behalf the person who brought the goods into that territory acts;
+> (c) the person who assumed responsibility for carriage of the goods after they were brought into the customs territory of the Union.
+> 2. Goods which are brought into the customs territory of the Union by sea or air and which remain on board the same means of transport for carriage, shall be presented to customs only at the port or airport where they are unloaded or transhipped. However, goods brought into the customs territory of the Union which are unloaded and reloaded onto the same means of transport during its voyage in order to enable the unloading or loading of other goods, shall not be presented to customs at that port or airport.
+> 3. Notwithstanding the obligations of the person described in paragraph 1, presentation of the goods may be effected instead by one of the following persons:
+> (a) any person who immediately places the goods under a customs procedure;
+> (b) the holder of an authorisation for the operation of storage facilities or any person who carries out an activity in […truncated by emendrix: 1282 characters omitted…]
+
+*after* (`02013R0952-20190515`)
+
+> Article 139
+> Presentation of goods to customs
+> 1. Goods brought into the customs territory of the Union shall be presented to customs immediately upon their arrival at the designated customs office or any other place designated or approved by the customs authorities or in the free zone by one of the following persons:
+> (a) the person who brought the goods into the customs territory of the Union;
+> (b) the person in whose name or on whose behalf the person who brought the goods into that territory acts;
+> (c) the person who assumed responsibility for carriage of the goods after they were brought into the customs territory of the Union.
+> 2. Goods which are brought into the customs territory of the Union by sea or air and which remain on board the same means of transport for carriage, shall be presented to customs only at the port or airport where they are unloaded or transhipped. However, goods brought into the customs territory of the Union which are unloaded and reloaded onto the same means of transport during its voyage in order to enable the unloading or loading of other goods, shall not be presented to customs at that port or airport.
+> 3. Notwithstanding the obligations of the person described in paragraph 1, presentation of the goods may be effected instead by one of the following persons:
+> (a) any person who immediately places the goods under a customs procedure;
+> (b) the holder of an authorisation for the operation of storage facilities or any person who carries out an activity in […truncated by emendrix: 1522 characters omitted…]
+
+**MODIFIED · Art. 146 — Amendment and invalidation of a temporary storage declaration** · applies from: unchanged
+
+*within* `AR 146 PA 2 ALN 1`, `AR 146 PA 2 ALN 1 PTA (a)`, `AR 146 PA 2 ALN 1 PTA (b)` · *amended by* `32019R0474`
+
+The provision now specifies that customs authorities invalidate the declaration without delay, a phrase absent from the earlier text. [Art. 146, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_146)
+
+The timing condition in point (b) changed from a fixed reference to invalidation within 30 days after lodging to invalidation after 30 days have elapsed since the declaration was lodged. [Art. 146, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_146) [Art. 146, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_146)
+
+Point (a) now ends with the word or, connecting it to point (b), which was not present before. [Art. 146, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_146)
+
+*before* (`02013R0952-20161224`)
+
+> Article 146
+> Amendment and invalidation of a temporary storage declaration
+> 1. The declarant shall, upon application, be permitted to amend one or more particulars of the temporary storage declaration after it has been lodged. The amendment shall not render the declaration applicable to goods other than those which it originally covered.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the declaration that they intend to examine the goods;
+> (b) the customs authorities have established that particulars of the declaration are incorrect.
+> 2. Where the goods for which a temporary storage declaration has been lodged are not presented to customs, the customs authorities shall invalidate that declaration in either of the following cases:
+> (a) upon application by the declarant;
+> (b) within 30 days after the lodging of the declaration.
+
+*after* (`02013R0952-20190515`)
+
+> Article 146
+> Amendment and invalidation of a temporary storage declaration
+> 1. The declarant shall, upon application, be permitted to amend one or more particulars of the temporary storage declaration after it has been lodged. The amendment shall not render the declaration applicable to goods other than those which it originally covered.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the declaration that they intend to examine the goods;
+> (b) the customs authorities have established that particulars of the declaration are incorrect.
+> 2. Where the goods for which a temporary storage declaration has been lodged are not presented to customs, the customs authorities shall invalidate that declaration without delay in either of the following cases:
+> (a) upon application by the declarant; or
+> (b) after 30 days have elapsed since the declaration was lodged.
+
+**INSERTED · Art. 260a — Goods repaired or altered in the context of international agreements** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0474`
+
+This is a newly added provision setting out conditions under which total relief from import duty is granted to processed products from goods placed under the outward processing procedure, where those goods were repaired or altered in a country or territory outside the Union's customs territory under an international agreement providing for such relief and the agreement's conditions for relief are met. [Art. 260a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_260a)
+
+The provision also states that this relief does not apply to processed products resulting from equivalent goods referred to in Article 223, nor to replacement products referred to in Articles 261 and 262. [Art. 260a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_260a)
+
+*after* (`02013R0952-20190515`)
+
+> Article 260a
+> Goods repaired or altered in the context of international agreements
+> 1. Total relief from import duty shall be granted to processed products resulting from goods placed under the outward processing procedure where it is established to the satisfaction of the customs authorities that:
+> (a) those goods have been repaired or altered in a country or territory outside the customs territory of the Union with which the Union has concluded an international agreement providing for such relief; and
+> (b) the conditions for the relief from import duty laid down in the agreement referred to in point (a) are fulfilled.
+> 2. Paragraph 1 shall not apply to processed products resulting from equivalent goods as referred to in Article 223 and to replacement products as referred to in Articles 261 and 262.
+
+**MODIFIED · Art. 272 — Amendment and invalidation of the exit summary declaration** · applies from: unchanged
+
+*within* `AR 272 PA 2 ALN 1`, `AR 272 PA 2 ALN 1 PTA (a)`, `AR 272 PA 2 ALN 1 PTA (b)` · *amended by* `32019R0474`
+
+Paragraph 2 now specifies that customs authorities must invalidate the declaration without delay, a qualifier absent from the earlier version. [Art. 272, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_272)
+
+Point (b) is reworded from a time limit expressed as within 150 days after lodging to a phrasing based on 150 days having elapsed since the declaration was lodged, and the word or is added at the end of point (a). [Art. 272, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_272) [Art. 272, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_272)
+
+*before* (`02013R0952-20161224`)
+
+> Article 272
+> Amendment and invalidation of the exit summary declaration
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the exit summary declaration after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the exit summary declaration that they intend to examine the goods;
+> (b) the customs authorities have established that one or more particulars of the exit summary declaration are inaccurate or incomplete;
+> (c) the customs authorities have already granted the release of the goods for exit.
+> 2. Where the goods for which an exit summary declaration has been lodged are not taken out of the customs territory of the Union, the customs authorities shall invalidate that declaration in either of the following cases:
+> (a) upon application by the declarant;
+> (b) within 150 days after the lodging of the declaration.
+
+*after* (`02013R0952-20190515`)
+
+> Article 272
+> Amendment and invalidation of the exit summary declaration
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the exit summary declaration after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the exit summary declaration that they intend to examine the goods;
+> (b) the customs authorities have established that one or more particulars of the exit summary declaration are inaccurate or incomplete;
+> (c) the customs authorities have already granted the release of the goods for exit.
+> 2. Where the goods for which an exit summary declaration has been lodged are not taken out of the customs territory of the Union, the customs authorities shall invalidate that declaration without delay in either of the following cases:
+> (a) upon application by the declarant; or
+> (b) after 150 days have elapsed since the declaration was lodged.
+
+**MODIFIED · Art. 275 — Amendment and invalidation of the re-export notification** · applies from: unchanged
+
+*within* `AR 275 PA 2 ALN 1`, `AR 275 PA 2 ALN 1 PTA (a)`, `AR 275 PA 2 ALN 1 PTA (b)` · *amended by* `32019R0474`
+
+The invalidation clause now specifies that customs authorities act without delay when invalidating the re-export notification, a phrase absent from the earlier version. [Art. 275, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_275) [Art. 275, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_275)
+
+Point (a) adds the word 'or' at the end of the sentence, and point (b) rephrases the timing condition from expiry within 150 days after lodging to 150 days having elapsed since the notification was lodged. [Art. 275, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_275) [Art. 275, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_275)
+
+*before* (`02013R0952-20161224`)
+
+> Article 275
+> Amendment and invalidation of the re-export notification
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the re-export notification after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the re-export notification that they intend to examine the goods;
+> (b) the customs authorities have established that one or more particulars of the re-export notification are inaccurate or incomplete;
+> (c) the customs authorities have already granted the release of the goods for exit.
+> 2. Where the goods for which a re-export notification has been lodged are not taken out of the customs territory of the Union, the customs authorities shall invalidate that notification in either of the following cases:
+> (a) upon application by the declarant;
+> (b) within 150 days after the lodging of the notification.
+
+*after* (`02013R0952-20190515`)
+
+> Article 275
+> Amendment and invalidation of the re-export notification
+> 1. The declarant may, upon application, be permitted to amend one or more particulars of the re-export notification after it has been lodged.
+> No amendment shall be possible after any of the following:
+> (a) the customs authorities have informed the person who lodged the re-export notification that they intend to examine the goods;
+> (b) the customs authorities have established that one or more particulars of the re-export notification are inaccurate or incomplete;
+> (c) the customs authorities have already granted the release of the goods for exit.
+> 2. Where the goods for which a re-export notification has been lodged are not taken out of the customs territory of the Union, the customs authorities shall invalidate that notification without delay in either of the following cases:
+> (a) upon application by the declarant; or
+> (b) after 150 days have elapsed since the notification was lodged.
+
+**MODIFIED · Art. 278 — Transitional measures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 278 PA 1`, `AR 278 PA 2`, `AR 278 PA 3`, `AR 278 ALN 1` · *dates* +2022-12-31 +2025-12-31 · *amended by* `32019R0632`
+
+The single unnumbered paragraph is restructured into three numbered paragraphs, with paragraph 1 keeping the original 31 December 2020 deadline but now excluding the electronic systems covered by new paragraphs 2 and 3. [Art. 278, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_278) [Art. 278, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_278)
+
+A new paragraph 2 sets a transitional allowance until 31 December 2022 for systems tied to notification of arrival, presentation, temporary storage declarations and customs declarations for goods brought into the Union's customs territory, listing specific Code articles. [Art. 278, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_278)
+
+A new paragraph 3 sets a transitional allowance until 31 December 2025 for systems tied to guarantees, entry summary declarations and risk analysis, customs status of goods, centralised clearance, transit, and outward processing and export-related provisions, again listing specific Code articles. [Art. 278, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_278)
+
+*before* (`02013R0952-20161224`)
+
+> Article 278
+> Transitional measures
+> Means for the exchange and storage of information, other than the electronic data-processing techniques referred to in Article 6(1), may be used on a transitional basis, until 31 December 2020 at the latest, where the electronic systems which are necessary for the application of the provisions of the Code are not yet operational.
+
+*after* (`02013R0952-20190515`)
+
+> Article 278
+> Transitional measures
+> 1. Until 31 December 2020 at the latest, means for the exchange and storage of information, other than the electronic data-processing techniques referred to in Article 6(1), may be used on a transitional basis where the electronic systems which are necessary for the application of the provisions of the Code other than those referred to in paragraphs 2 and 3 of this Article are not yet operational.
+> 2. Until 31 December 2022 at the latest, means other than the electronic data-processing techniques referred to in Article 6(1) may be used on a transitional basis, where the electronic systems which are necessary for the application of the following provisions of the Code are not yet operational:
+> (a) the provisions on the notification of arrival, on presentation and on declarations of temporary storage laid down in Articles 133, 139, 145 and 146; and
+> (b) the provisions related to the customs declaration for goods brought into the customs territory of the Union laid down in Articles 158, 162, 163, 166, 167, 170 to 174, 201, 240, 250, 254 and 256.
+> 3. Until 31 December 2025 at the latest, means other than the electronic data-processing techniques referred to in Article 6(1) may be used on a transitional basis, where the electronic systems which are necessary for the application of the following provisions of the Code are not yet operational:
+> (a) the provisions on guarantees for potential or existing customs debts laid down in point (b) of Article 89(2 […truncated by emendrix: 724 characters omitted…]
+
+**INSERTED · Art. 278a — Reporting obligations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0632`
+
+A new Article 278a is added, requiring the Commission to submit an annual report to the European Parliament and the Council, starting by 31 December 2019, on progress in developing the electronic systems referred to in Article 278 until those systems become fully operational. [Art. 278a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_278a)
+
+The article further specifies that the report must assess progress against certain milestones, describe mitigating actions if progress is unsatisfactory, and that Member States must provide the Commission twice yearly with updated progress tables, which the Commission must publish on its website. [Art. 278a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_278a)
+
+*after* (`02013R0952-20190515`)
+
+> Article 278a
+> Reporting obligations
+> 1. By 31 December 2019 and every year thereafter until the date on which the electronic systems referred to in Article 278 become fully operational, the Commission shall submit an annual report to the European Parliament and to the Council on progress in developing those electronic systems.
+> 2. The annual report shall assess the progress of the Commission and the Member States in developing each of the electronic systems, taking particular account of the following milestones:
+> (a) the date of publication of the technical specifications for the external communication of the electronic system;
+> (b) the period of conformance testing with economic operators; and
+> (c) the expected and actual dates of deployment of the electronic systems.
+> 3. If the assessment shows that the progress is not satisfactory, the report shall also describe the mitigating actions to be taken to ensure the deployment of the electronic systems before the end of the applicable transitional period.
+> 4. The Member States shall provide the Commission, twice per year, with an updated table on their own progress in developing and deploying the electronic systems. The Commission shall publish such updated information on its website.
+
+**MODIFIED · Art. 279 — Delegation of power** · applies from: unchanged
+
+*within* `AR 279 ALN 1` · *amended by* `32019R0632`
+
+The only change is that the word 'situation' in the earlier text has been replaced with 'situations' in the later text. [Art. 279, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_279) [Art. 279, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20190515#art_279)
+
+*before* (`02013R0952-20161224`)
+
+> Article 279
+> Delegation of power
+> The Commission shall be empowered to adopt delegated acts in accordance with Article 284 specifying the rules on the exchange and storage of data in the situation referred to in Article 278.
+
+*after* (`02013R0952-20190515`)
+
+> Article 279
+> Delegation of power
+> The Commission shall be empowered to adopt delegated acts in accordance with Article 284 specifying the rules on the exchange and storage of data in the situations referred to in Article 278.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0952-20190515 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20161224 -->
 ## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
 ### `02013R0952-20131030` → `02013R0952-20161224`
