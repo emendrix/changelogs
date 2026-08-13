@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0952",
+    "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+  },
+  "from_version": "02013R0952-20131030",
+  "to_version": "02013R0952-20161224",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2016-12-24"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 287,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20161224",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R2339",
+            "display_name": "Regulation (EU) 2016/2339 of the European Parliament and of the Council of 14 December 2016 amending Regulation (EU) No 952/2013 laying down the Union Customs Code, as regards goods that have temporarily left the customs territory of the Union by sea or air"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2013-10-30, 2016-12-24]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20161224",
+          "location": "AR 136"
+        },
+        "heading": "Goods that have temporarily left the customs territory of the Union by sea or air",
+        "before": "Article 136\nIntra-Union air and sea services\nArticles 127 to 130 and 133, Article 135(1) and Articles 137, 139 to 141, and 144 to 149 shall not apply to non-Union goods and goods referred to in Article 155, which have temporarily left the customs territory of the Union while moving between two points in that territory by sea or air, provided they have been carried by direct route without a stop outside the customs territory of the Union.",
+        "after": "Article 136\nGoods that have temporarily left the customs territory of the Union by sea or air\n1. Articles 127 to 130 and Article 133 shall not apply in cases where non-Union goods are brought into the customs territory of the Union after having temporarily left that territory by sea or by air and having been carried by direct route without a stop outside the customs territory of the Union.\n2. Articles 127 to 130 and Article 133 shall not apply in cases where Union goods the customs status of which as Union goods needs to be proven pursuant to Article 153(2) are brought into the customs territory of the Union after having temporarily left that territory by sea or by air and having been carried by direct route without a stop outside the customs territory of the Union.\n3. Articles 127 to 130 and Articles 133, 139 and 140 shall not apply in cases where Union goods which move without alteration of their customs status in accordance with Article 155(2) are brought into the customs territory of the Union after having temporarily left that territory by sea or air and having been carried by direct route without a stop outside the customs territory of the Union.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 136",
+          "AR 136 PA 1",
+          "AR 136 PA 2",
+          "AR 136 PA 3",
+          "AR 136 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R2339",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-12-24",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R2339 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32016R2339, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changed from referring to intra-Union air and sea services to referring to goods that have temporarily left the customs territory of the Union by sea or air.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 136"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_136",
+              "label": "Art. 136, 02013R0952-20131030"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20161224",
+                "location": "AR 136"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136",
+              "label": "Art. 136, 02013R0952-20161224"
+            }
+          ]
+        },
+        {
+          "text": "The single unnumbered paragraph listing a broad set of excluded articles and covering non-Union goods and goods referred to in Article 155 moving between two points in the customs territory was replaced by three separate numbered paragraphs, each naming a narrower and different set of excluded articles and each addressing a distinct category of goods: non-Union goods in paragraph 1, Union goods whose status must be proven under Article 153(2) in paragraph 2, and Union goods moving without alteration of status under Article 155(2) in paragraph 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 136"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_136",
+              "label": "Art. 136, 02013R0952-20131030"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20161224",
+                "location": "AR 136"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136",
+              "label": "Art. 136, 02013R0952-20161224"
+            }
+          ]
+        },
+        {
+          "text": "Each of the three new paragraphs conditions non-application on the goods having been brought back into the customs territory after temporarily leaving it by sea or air and having been carried by direct route without a stop outside that territory, phrasing that replaces the earlier single condition about moving between two points in the customs territory by direct route without an outside stop.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20161224",
+                "location": "AR 136"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136",
+              "label": "Art. 136, 02013R0952-20161224"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0952",
+      "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+    },
+    "from_version": "02013R0952-20131030",
+    "to_version": "02013R0952-20161224",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 136"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 136"
+        ],
+        "note": "1 annotations in (2013-10-30, 2016-12-24]",
+        "claims": [
+          {
+            "location": "AR 136",
+            "change_type": "MODIFIED",
+            "in_force": "2016-12-24",
+            "source": "32016R2339 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R2339",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32016R2339, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R2339",
+              "display_name": "Regulation (EU) 2016/2339 of the European Parliament and of the Council of 14 December 2016 amending Regulation (EU) No 952/2013 laying down the Union Customs Code, as regards goods that have temporarily left the customs territory of the Union by sea or air"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 136",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 2961,
+      "output_tokens": 483,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

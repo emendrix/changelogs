@@ -10,6 +10,55 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20161224 -->
+## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
+### `02013R0952-20131030` → `02013R0952-20161224`
+
+- **Act** `eu:32013R0952` · **In force** 2016-12-24 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0952-20131030` · `v2` = `02013R0952-20161224`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32016R2339`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 136 — Goods that have temporarily left the customs territory of the Union by sea or air** · applies from: unchanged
+
+*within* `AR 136`, `AR 136 PA 1`, `AR 136 PA 2`, `AR 136 PA 3`, `AR 136 ALN 1` · *amended by* `32016R2339`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The heading changed from referring to intra-Union air and sea services to referring to goods that have temporarily left the customs territory of the Union by sea or air. [Art. 136, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_136) [Art. 136, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136)
+
+The single unnumbered paragraph listing a broad set of excluded articles and covering non-Union goods and goods referred to in Article 155 moving between two points in the customs territory was replaced by three separate numbered paragraphs, each naming a narrower and different set of excluded articles and each addressing a distinct category of goods: non-Union goods in paragraph 1, Union goods whose status must be proven under Article 153(2) in paragraph 2, and Union goods moving without alteration of status under Article 155(2) in paragraph 3. [Art. 136, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_136) [Art. 136, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136)
+
+Each of the three new paragraphs conditions non-application on the goods having been brought back into the customs territory after temporarily leaving it by sea or air and having been carried by direct route without a stop outside that territory, phrasing that replaces the earlier single condition about moving between two points in the customs territory by direct route without an outside stop. [Art. 136, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136)
+
+*before* (`02013R0952-20131030`)
+
+> Article 136
+> Intra-Union air and sea services
+> Articles 127 to 130 and 133, Article 135(1) and Articles 137, 139 to 141, and 144 to 149 shall not apply to non-Union goods and goods referred to in Article 155, which have temporarily left the customs territory of the Union while moving between two points in that territory by sea or air, provided they have been carried by direct route without a stop outside the customs territory of the Union.
+
+*after* (`02013R0952-20161224`)
+
+> Article 136
+> Goods that have temporarily left the customs territory of the Union by sea or air
+> 1. Articles 127 to 130 and Article 133 shall not apply in cases where non-Union goods are brought into the customs territory of the Union after having temporarily left that territory by sea or by air and having been carried by direct route without a stop outside the customs territory of the Union.
+> 2. Articles 127 to 130 and Article 133 shall not apply in cases where Union goods the customs status of which as Union goods needs to be proven pursuant to Article 153(2) are brought into the customs territory of the Union after having temporarily left that territory by sea or by air and having been carried by direct route without a stop outside the customs territory of the Union.
+> 3. Articles 127 to 130 and Articles 133, 139 and 140 shall not apply in cases where Union goods which move without alteration of their customs status in accordance with Article 155(2) are brought into the customs territory of the Union after having temporarily left that territory by sea or air and having been carried by direct route without a stop outside the customs territory of the Union.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0952-20161224 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20131030 -->
 ## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
 ### `32013R0952` → `02013R0952-20131030`
