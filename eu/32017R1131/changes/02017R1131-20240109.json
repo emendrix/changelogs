@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R1131",
+    "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+  },
+  "from_version": "02017R1131-20190101",
+  "to_version": "02017R1131-20240109",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-01-09"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 47,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20240109",
+          "location": "AR 14"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2869",
+            "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2019-01-01, 2024-01-09]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 014",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20240109",
+          "location": "AR 37a"
+        },
+        "heading": "Accessibility of information on the European single access point",
+        "before": null,
+        "after": "Article 37a\nAccessibility of information on the European single access point\nFrom 10 January 2030, the information referred to in Article 4(7) of this Regulation shall be accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that data from the information notified by the competent authorities in accordance with Article 4(6) of this Regulation for the purpose of establishment of the central public register referred to in Article 4(7) of this Regulation.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the fund to which the information relates;\n(ii) where available, the legal entity identifier of the fund, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2869",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2869 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 37a has been added, requiring that the information referred to in Article 4(7) be made accessible on the European single access point, with ESMA acting as the collection body and drawing the data from information notified by competent authorities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20240109",
+                "location": "AR 37a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a",
+              "label": "Art. 37a, 02017R1131-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The new article also sets out requirements for that information, including submission in a data extractable format and accompaniment by specified metadata such as the fund's names, legal entity identifier where available, type of information, and an indication of whether personal data is contained.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20240109",
+                "location": "AR 37a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a",
+              "label": "Art. 37a, 02017R1131-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R1131",
+      "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+    },
+    "from_version": "02017R1131-20190101",
+    "to_version": "02017R1131-20240109",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 37a"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 37a"
+        ],
+        "note": "1 annotations in (2019-01-01, 2024-01-09]",
+        "claims": [
+          {
+            "location": "AR 37a",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-09",
+            "source": "32023R2869 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2869",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 14"
+        ],
+        "note": "32023R2869, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 14",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 014",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2869",
+              "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 14",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 37a",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 14"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 2907,
+      "output_tokens": 352,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 1,
+    "coordinates_unsupported": 0
+  }
+}

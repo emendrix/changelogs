@@ -10,6 +10,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1131-20240109 -->
+## Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text […]
+### `02017R1131-20190101` → `02017R1131-20240109`
+
+- **Act** `eu:32017R1131` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R1131-20190101` · `v2` = `02017R1131-20240109`
+
+---
+
+**MODIFIED · Art. 14** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 37a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new Article 37a has been added, requiring that the information referred to in Article 4(7) be made accessible on the European single access point, with ESMA acting as the collection body and drawing the data from information notified by competent authorities. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
+
+The new article also sets out requirements for that information, including submission in a data extractable format and accompaniment by specified metadata such as the fund's names, legal entity identifier where available, type of information, and an indication of whether personal data is contained. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
+
+*after* (`02017R1131-20240109`)
+
+> Article 37a
+> Accessibility of information on the European single access point
+> From 10 January 2030, the information referred to in Article 4(7) of this Regulation shall be accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that data from the information notified by the competent authorities in accordance with Article 4(6) of this Regulation for the purpose of establishment of the central public register referred to in Article 4(7) of this Regulation.
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the fund to which the information relates;
+> (ii) where available, the legal entity identifier of the fund, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) the type of information, as classified pursua […truncated by emendrix: 120 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1131-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1131-20190101 -->
 ## Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text […]
 ### `32017R1131` → `02017R1131-20190101`
