@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R1037",
+    "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+  },
+  "from_version": "32016R1037",
+  "to_version": "02016R1037-20171220",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2017-12-20"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 41,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1037",
+            "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+          },
+          "version": "02016R1037-20171220",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R2321",
+            "display_name": "Regulation (EU) 2017/2321 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) 2016/1036 on protection against dumped imports from countries not members of the European Union and Regulation (EU) 2016/1037 on protection against subsidised imports from countries not members of the European Union"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (the act itself, 2017-12-20]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1037",
+            "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+          },
+          "version": "02016R1037-20171220",
+          "location": "AR 10"
+        },
+        "heading": "Initiation of proceedings",
+        "before": "Article 10\nInitiation of proceedings\n1. Except as provided for in paragraph 8, an investigation to determine the existence, degree and effect of any alleged subsidy shall be initiated upon a written complaint by any natural or legal person, or any association not having legal personality, acting on behalf of the Union industry.\nThe complaint may be submitted to the Commission or to a Member State, which shall forward it to the Commission. The Commission shall send Member States a copy of any complaint it receives. The complaint shall be deemed to have been lodged on the first working day following its delivery to the Commission by registered mail or the issuing of an acknowledgement of receipt by the Commission.\nWhere, in the absence of any complaint, a Member State is in possession of sufficient evidence of subsidisation and of resultant injury to the Union industry, it shall immediately communicate such evidence to the Commission.\n2. A complaint under paragraph 1 shall include sufficient evidence of the existence of countervailable subsidies (including, if possible, of their amount), injury and a causal link between the allegedly subsidised imports and the alleged injury. The complaint shall contain such information as is reasonably available to the complainant on the following:\n(a) the identity of the complainant and a description of the volume and value of the Union production of the like product by the complainant. Where a written complaint is made on behalf of the Union industry, the complaint shall identify the industry on behalf of which the complaint is made by a list of all known Union producers of the like product (or associations of Union producers of the like product) and, to the extent possible, a description of the volume and value of Union production of the like product accounted for by such producers;\n(b) a complete description of the allegedly subsidised product, the names of the country or countries of origin or export in question, the identity of each known exporter or foreign producer and a list of known persons importing the product in question;\n(c) evidence with regard to the existence, amount, nature and countervailability of the subsidies in question;\n(d) the changes in the volume of the allegedly subsidised imports, the effect of those imports on prices of the like product in the Union market and the consequent impact of the imports on the Union industry, as demonstrated by relevant factors and indices having a bearing on the state of the Union industry, such as those listed in Article 8(2) and (4).\n3. The Commission shall, as far as possible, examine the accuracy and adequacy of the evidence provided in the complaint, to determine whether there is sufficient evidence to justify the initiation of an investigation.\n4. An investigation may be initiated in order to determine whether or not the alleged subsidies are specific within the meaning of Article 4(2) and (3).\n5. An investigation may also be initiated in respect of measures of the type listed in Annex IV, to the extent that they contain an element of subsidy as defined by Article 3, in order to determine whether the measures in question fully conform to the provisions of that Annex.\n6. An investigation shall not be initiated pursuant to paragraph 1 unless it has been determined, on the basis of an examination as to the degree of support for, or opposition to, the complaint expressed by Union producers of the like product, that the complaint has been made by, or on behalf of, the Union industry. The complaint shall be considered to have been made by, or on behalf of, the Union industry if it is supported by those Union producers whose collective output constitutes more than 50 % of the total production of the like product produced by that portion of the Union industry expressing either support for or opposition to the complaint. However, no investigation shall be initiated where Union producers expressly supporting the complaint account for less than 25 % of total production of the like product produced by the Union industry.\n7. The authorities shall avoid, unless a decision has been taken to initiate an investigation, any publicising of the complaint seeking the initiation of an investigation. However, as soon as possible after receipt of a properly documented complaint pursuant to this Article, and in any event before the initiation of an investigation, the Commission shall notify the country of origin and/or export concerned, which shall be invited for consultations with the aim of clarifying the situation as to matters referred to in paragraph 2 and arriving at a mutually agreed solution.\n8. If, in special circumstances, the Commission decides to initiate an investigation without having received a written complaint by, or on behalf of, the Union industry for the initiation of such an investigation, this shall be done on the basis of sufficient evidence of the existence of countervailable subsidies, injury and causal link, as described in paragraph 2, to justify such initiation. The Commission shall provide information to the Member States once it has determined the need to initiate such an investigation.\n9. The evidence of both subsidies and injury shall be considered simultaneously in the decision on whether or not to initiate an investigation. A complaint shall be rejected where there is insufficient evidence of either countervailable subsidies or of injury to justify proceeding with the case. Proceedings shall not be initiated against countries whose imports represent a market share of below 1 %, unless such countries collectively account for 3 % or more of Union consumption.\n10. The complaint may be withdrawn prior to initiation, in which case it shall be considered not to have been lodged.\n11. Where it is apparent that there is sufficient evidence to justify initiating proceedings, the Commission shall do so within 45 days of the date on which the complaint was lodged and shall publish a notice in the Official Journal of the European Union. Where insufficient evidence has been presented, the complainant shall be so informed within 45 days of the date on which the complaint is lodged with the Commission. The Commission shall provide information to the Member States concerning its analysis of the complaint normally within 21 days of the date on which the complaint is lodged with the Commission.\n12. The notice of initiation of the proceedings shall announce the initiation of an investigation, indicate the product and countries concerned, give a summary of the information received, and provide that all relevant information is to be communicated to the Commission.\nIt shall state the periods within which interested parties may make themselves known, present their views in writing and submit information, if such views and information are to be taken into account during the investigation. It shall also state the period within which interested parties may apply to be heard by the Commission in accordance with Article 11(5).\n13. The Commission shall advise the exporters, importers and representative associations of importers or exporters known to it to be concerned, as well as the country of origin and/or export and the complainants, of the initiation of the proceedings and, with due regard to the protection of confidential information, provide the full text of the written complaint referred to in paragraph 1 to the known exporters and to the authorities of the country of origin and/or export, and make it available upon request to other interested parties involved. Where the number of exporters involved is particularly high, the full text of the written complaint may instead be provided only to the authorities of the country of origin and/or export or to the relevant trade association.\n14. A countervailing duty investigation shall not hinder the procedures of customs clearance.",
+        "after": "Article 10\nInitiation of proceedings\n1. Except as provided for in paragraph 8, an investigation to determine the existence, degree and effect of any alleged subsidy shall be initiated upon a written complaint by any natural or legal person, or any association not having legal personality, acting on behalf of the Union industry.\nThe complaint may be submitted to the Commission or to a Member State, which shall forward it to the Commission. The Commission shall send Member States a copy of any complaint it receives. The complaint shall be deemed to have been lodged on the first working day following its delivery to the Commission by registered mail or the issuing of an acknowledgement of receipt by the Commission.\nWhere, in the absence of any complaint, a Member State is in possession of sufficient evidence of subsidisation and of resultant injury to the Union industry, it shall immediately communicate such evidence to the Commission.\n2. A complaint under paragraph 1 shall include sufficient evidence of the existence of countervailable subsidies (including, if possible, of their amount), injury and a causal link between the allegedly subsidised imports and the alleged injury. The complaint shall contain such information as is reasonably available to the complainant on the following:\n(a) the identity of the complainant and a description of the volume and value of the Union production of the like product by the complainant. Where a written complaint is made on behalf of the Union industry, the complaint shall identify the industry on behalf of which the complaint is made by a list of all known Union producers of the like product (or associations of Union producers of the like product) and, to the extent possible, a description of the volume and value of Union production of the like product accounted for by such producers;\n(b) a complete description of the allegedly subsidised product, the names of the country or countries of origin or export in question, the identity of each known exporter or foreign producer and a list of known persons importing the product in question;\n(c) evidence with regard to the existence, amount, nature and countervailability of the subsidies in question;\n(d) the changes in the volume of the allegedly subsidised imports, the effect of those imports on prices of the like product in the Union market and the consequent impact of the imports on the Union industry, as demonstrated by relevant factors and indices having a bearing on the state of the Union industry, such as those listed in Article 8(2) and (4).\n3. The Commission shall, as far as possible, examine the accuracy and adequacy of the evidence provided in the complaint, to determine whether there is sufficient evidence to justify the initiation of an investigation.\n4. An investigation may be initiated in order to determine whether or not the alleged subsidies are specific within the meaning of Article 4(2) and (3).\n5. An investigation may also be initiated in respect of measures of the type listed in Annex IV, to the extent that they contain an element of subsidy as defined by Article 3, in order to determine whether the measures in question fully conform to the provisions of that Annex.\n6. An investigation shall not be initiated pursuant to paragraph 1 unless it has been determined, on the basis of an examination as to the degree of support for, or opposition to, the complaint expressed by Union producers of the like product, that the complaint has been made by, or on behalf of, the Union industry. The complaint shall be considered to have been made by, or on behalf of, the Union industry if it is supported by those Union producers whose collective output constitutes more than 50 % of the total production of the like product produced by that portion of the Union industry expressing either support for or opposition to the complaint. However, no investigation shall be initiated where Union producers expressly supporting the complaint account for less than 25 % of total production of the like product produced by the Union industry.\n7. The authorities shall avoid, unless a decision has been taken to initiate an investigation, any publicising of the complaint seeking the initiation of an investigation. However, as soon as possible after receipt of a properly documented complaint pursuant to this Article, and in any event before the initiation of an investigation, the Commission shall notify the country of origin and/or export concerned, which shall be invited for consultations with the aim of clarifying the situation as to matters referred to in paragraph 2 and arriving at a mutually agreed solution.\nThe Commission shall also offer consultations to the country of origin and/or export concerned with regard to other subsidies identified in the course of the investigation. In those situations, the Commission shall send to the country of origin and/or export a summary of the main elements concerning other subsidies, in particular those referred to in point (c) of paragraph 2. If the additional subsidies are not covered by the notice of initiation, the notice of initiation shall be amended and the amended version published in the Official Journal of the European Union. All interested parties shall be given additional and sufficient time to comment.\n8. If, in special circumstances, the Commission decides to initiate an investigation without having received a written complaint by, or on behalf of, the Union industry for the initiation of such an investigation, this shall be done on the basis of sufficient evidence of the existence of countervailable subsidies, injury and causal link, as described in paragraph 2, to justify such initiation. The Commission shall provide information to the Member States once it has determined the need to initiate such an investigation.\n9. The evidence of both subsidies and injury shall be considered simultaneously in the decision on whether or not to initiate an investigation. A complaint shall be rejected where there is insufficient evidence of either countervailable subsidies or of injury to justify proceeding with the case. Proceedings shall not be initiated against countries whose imports represent a market share of below 1 %, unless such countries collectively account for 3 % or more of Union consumption.\n10. The complaint may be withdrawn prior to initiation, in which case it shall be considered not to have been lodged.\n11. Where it is apparent that there is sufficient evidence to justify initiating proceedings, the Commission shall do so within 45 days of the date on which the complaint was lodged and shall publish a notice in the Official Journal of the European Union. Where insufficient evidence has been presented, the complainant shall be so informed within 45 days of the date on which the complaint is lodged with the Commission. The Commission shall provide information to the Member States concerning its analysis of the complaint normally within 21 days of the date on which the complaint is lodged with the Commission.\n12. The notice of initiation of the proceedings shall announce the initiation of an investigation, indicate the product and countries concerned, give a summary of the information received, and provide that all relevant information is to be communicated to the Commission.\nIt shall state the periods within which interested parties may make themselves known, present their views in writing and submit information, if such views and information are to be taken into account during the investigation. It shall also state the period within which interested parties may apply to be heard by the Commission in accordance with Article 11(5).\n13. The Commission shall advise the exporters, importers and representative associations of importers or exporters known to it to be concerned, as well as the country of origin and/or export and the complainants, of the initiation of the proceedings and, with due regard to the protection of confidential information, provide the full text of the written complaint referred to in paragraph 1 to the known exporters and to the authorities of the country of origin and/or export, and make it available upon request to other interested parties involved. Where the number of exporters involved is particularly high, the full text of the written complaint may instead be provided only to the authorities of the country of origin and/or export or to the relevant trade association.\n14. A countervailing duty investigation shall not hinder the procedures of customs clearance.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 7 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R2321",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2017-12-20",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R2321 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R2321, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 7 now adds text providing that the Commission shall also offer consultations to the country of origin and/or export concerning other subsidies identified during the investigation, and shall send that country a summary of the main elements relating to those other subsidies, in particular those referred to in point (c) of paragraph 2.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1037",
+                  "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+                },
+                "version": "02016R1037-20171220",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20171220#art_10",
+              "label": "Art. 10, 02016R1037-20171220"
+            }
+          ]
+        },
+        {
+          "text": "The added text further states that if the additional subsidies are not covered by the notice of initiation, that notice shall be amended and the amended version published in the Official Journal of the European Union, with interested parties given additional and sufficient time to comment.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1037",
+                  "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+                },
+                "version": "02016R1037-20171220",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20171220#art_10",
+              "label": "Art. 10, 02016R1037-20171220"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version of paragraph 7 contained none of this additional language on consultations regarding other subsidies or on amending the notice of initiation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1037",
+                  "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+                },
+                "version": "32016R1037",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1037#art_10",
+              "label": "Art. 10, 32016R1037"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R1037",
+      "display_name": "Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (codification)"
+    },
+    "from_version": "32016R1037",
+    "to_version": "02016R1037-20171220",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 10"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 10"
+        ],
+        "note": "1 annotations in (the act itself, 2017-12-20]",
+        "claims": [
+          {
+            "location": "AR 10 PA 7 L",
+            "change_type": "INSERTED",
+            "in_force": "2017-12-20",
+            "source": "32017R2321 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2321",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "32017R2321, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 7",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R2321",
+              "display_name": "Regulation (EU) 2017/2321 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) 2016/1036 on protection against dumped imports from countries not members of the European Union and Regulation (EU) 2016/1037 on protection against subsidised imports from countries not members of the European Union"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 10",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 2"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7091,
+      "output_tokens": 339,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
