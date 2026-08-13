@@ -10,6 +10,230 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20220812 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20210628` → `02012R0648-20220812`
+
+- **Act** `eu:32012R0648` · **In force** 2022-08-12 · **Detected** 2026-08-13
+- **Touched** 9 provisions — 9 substantive · 0 date-only · **2 disputed**
+- **Diff** 3 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 122 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20210628` · `v2` = `02012R0648-20220812`
+
+---
+
+**INSERTED · Art. 6b — Suspension of clearing obligation in the case of resolution** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0023`
+
+A new Article 6b has been added, establishing a procedure by which a CCP resolution authority or the competent authority designated under Article 22(1) may request the Commission to suspend the clearing obligation for specific classes of OTC derivatives or specific counterparty types where a CCP meets the resolution conditions of Article 22 of Regulation (EU) 2021/23. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
+
+The provision sets out the roles of ESMA, the ESRB, and the Commission in evaluating and acting on such requests, the possible related suspension of the trading obligation under Regulation (EU) No 600/2014, publication and confidentiality requirements, and time limits and extension procedures for any suspension. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
+
+*after* (`02012R0648-20220812`)
+
+> Article 6b
+> Suspension of clearing obligation in the case of resolution
+> 1. Where a CCP meets the conditions under Article 22 of Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., the resolution authority of the CCP designated under Article 3(1) of that Regulation or the competent authority designated in accordance with Article 22(1) of this Regulation may, on their own initiative or at the request of a competent authority responsible for the supervision of a clearing member of the CCP under resolution, request that the Commission suspend the clearing obligation referred to in Article 4(1) of this Regulation for specific classes of OTC derivatives or for a specific type of counterparty where the following conditions are met:
+> (a) the CCP under resolution is authorised to clear the specific classes of OTC derivatives subject to the clearing obligation for which the suspension is requested; and
+> (b) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to finan […truncated by emendrix: 6564 characters omitted…]
+
+**INSERTED · Art. 13a** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 24a — CCP Supervisory Committee** · applies from: unchanged
+
+*within* `AR 24a PA 7 ALN 1 PTA (b)` · *amended by* `32021R0023`
+
+In point (b) of paragraph 7, describing the annual Union-wide resilience assessments of CCPs, a clause was added stating that the assessments should take into account, where possible, the aggregate effect of CCP recovery and resolution arrangements on Union financial stability. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24a)
+
+No other part of Article 24a differs between the two versions shown. [Art. 24a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_24a) [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24a)
+
+*before* (`02012R0648-20210628`)
+
+> Article 24a
+> CCP Supervisory Committee
+> 1. ESMA shall establish a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1095/2010 for the purposes of preparing draft decisions for adoption by the Board of Supervisors and carrying out the tasks set out in paragraphs 7, 9 and 10 of this Article (CCP Supervisory Committee).
+> 2. The CCP Supervisory Committee shall be composed of:
+> (a) the Chair, who shall be voting;
+> (b) two independent members, who shall be voting;
+> (c) the competent authorities of Member States referred to in Article 22 of this Regulation with an authorised CCP, who shall be voting; where a Member State has designated several competent authorities, each of the designated competent authorities of this Member State may decide to appoint one representative for the purposes of participation pursuant to this point, however, for the voting procedures set out in Article 24c, the representatives of the respective Member State shall together be considered as one voting member;
+> (d) The following central banks of issue:
+> (i) where the CCP Supervisory Committee convenes in relation to third-country CCPs, in respect of the preparation of all decisions pertaining to Articles referred to in paragraph 10 of this Article in relation to Tier 2 CCPs and to Article 25(2a), the central banks of issue referred to in point (f) of Article 25(3) that have requested membership of the CCP Supervisory Committee, who shall be non-voting;
+> (ii) where the CCP Supervisory Committe […truncated by emendrix: 8196 characters omitted…]
+
+*after* (`02012R0648-20220812`)
+
+> Article 24a
+> CCP Supervisory Committee
+> 1. ESMA shall establish a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1095/2010 for the purposes of preparing draft decisions for adoption by the Board of Supervisors and carrying out the tasks set out in paragraphs 7, 9 and 10 of this Article (CCP Supervisory Committee).
+> 2. The CCP Supervisory Committee shall be composed of:
+> (a) the Chair, who shall be voting;
+> (b) two independent members, who shall be voting;
+> (c) the competent authorities of Member States referred to in Article 22 of this Regulation with an authorised CCP, who shall be voting; where a Member State has designated several competent authorities, each of the designated competent authorities of this Member State may decide to appoint one representative for the purposes of participation pursuant to this point, however, for the voting procedures set out in Article 24c, the representatives of the respective Member State shall together be considered as one voting member;
+> (d) The following central banks of issue:
+> (i) where the CCP Supervisory Committee convenes in relation to third-country CCPs, in respect of the preparation of all decisions pertaining to Articles referred to in paragraph 10 of this Article in relation to Tier 2 CCPs and to Article 25(2a), the central banks of issue referred to in point (f) of Article 25(3) that have requested membership of the CCP Supervisory Committee, who shall be non-voting;
+> (ii) where the CCP Supervisory Committe […truncated by emendrix: 8328 characters omitted…]
+
+**MODIFIED · Art. 28 — Risk committee** · applies from: unchanged
+
+*within* `AR 28 PA 3 ALN 1`, `AR 28 PA 5 ALN 1` · *amended by* `32021R0023`
+
+In paragraph 3, a new sentence requires the risk committee to inform the board in a timely manner of any new risk affecting the resilience of the CCP, and the sentence on emergency consultation now adds a reference to developments relevant to clearing members' exposures to the CCP and interdependencies with other CCPs. [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_28)
+
+In paragraph 5, the CCP's obligation to inform of a board decision not to follow the risk committee's advice is extended to also inform the risk committee itself and to explain that decision, and a new sentence allows the risk committee or any of its members to inform the competent authority of areas where the risk committee's advice was not followed. [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_28)
+
+*before* (`02012R0648-20210628`)
+
+> Article 28
+> Risk committee
+> 1. A CCP shall establish a risk committee, which shall be composed of representatives of its clearing members, independent members of the board and representatives of its clients. The risk committee may invite employees of the CCP and external independent experts to attend risk-committee meetings in a non-voting capacity. Competent authorities may request to attend risk-committee meetings in a non-voting capacity and to be duly informed of the activities and decisions of the risk committee. The advice of the risk committee shall be independent of any direct influence by the management of the CCP. None of the groups of representatives shall have a majority in the risk committee.
+> 2. A CCP shall clearly determine the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria and the election mechanism for risk-committee members. The governance arrangements shall be publicly available and shall, at least, determine that the risk committee is chaired by an independent member of the board, reports directly to the board and holds regular meetings.
+> 3. The risk committee shall advise the board on any arrangements that may impact the risk management of the CCP, such as a significant change in its risk model, the default procedures, the criteria for accepting clearing members, the clearing of new classes of instruments, or the outsourcing of functions. The advice of the risk committee is not required for […truncated by emendrix: 667 characters omitted…]
+
+*after* (`02012R0648-20220812`)
+
+> Article 28
+> Risk committee
+> 1. A CCP shall establish a risk committee, which shall be composed of representatives of its clearing members, independent members of the board and representatives of its clients. The risk committee may invite employees of the CCP and external independent experts to attend risk-committee meetings in a non-voting capacity. Competent authorities may request to attend risk-committee meetings in a non-voting capacity and to be duly informed of the activities and decisions of the risk committee. The advice of the risk committee shall be independent of any direct influence by the management of the CCP. None of the groups of representatives shall have a majority in the risk committee.
+> 2. A CCP shall clearly determine the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria and the election mechanism for risk-committee members. The governance arrangements shall be publicly available and shall, at least, determine that the risk committee is chaired by an independent member of the board, reports directly to the board and holds regular meetings.
+> 3. The risk committee shall advise the board on any arrangements that may impact the risk management of the CCP, such as a significant change in its risk model, the default procedures, the criteria for accepting clearing members, the clearing of new classes of instruments, or the outsourcing of functions. The risk committee shall inform the board in a timely […truncated by emendrix: 1132 characters omitted…]
+
+**MODIFIED · Art. 37 — Participation requirements** · applies from: unchanged
+
+*within* `AR 37 PA 2 ALN 2` · *amended by* `32021R0023`
+
+A new subparagraph is added to paragraph 2 requiring the CCP to inform the competent authority of any significant negative development regarding the risk profile of a clearing member identified through the annual compliance review or a similar assessment, including any increase in risk that the CCP considers capable of triggering a default procedure. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_37)
+
+The remainder of Article 37, including paragraphs 1 and 3 through 6, is unchanged between the two versions. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_37)
+
+*before* (`02012R0648-20210628`)
+
+> Article 37
+> Participation requirements
+> 1. A CCP shall establish, where relevant per type of product cleared, the categories of admissible clearing members and the admission criteria, upon the advice of the risk committee pursuant to Article 28(3). Such criteria shall be non-discriminatory, transparent and objective so as to ensure fair and open access to the CCP and shall ensure that clearing members have sufficient financial resources and operational capacity to meet the obligations arising from participation in a CCP. Criteria that restrict access shall be permitted only to the extent that their objective is to control the risk for the CCP.
+> 2. A CCP shall ensure that the application of the criteria referred to in paragraph 1 is met on an ongoing basis and shall have timely access to the information relevant for such assessment. A CCP shall conduct, at least once a year, a comprehensive review of compliance with this Article by its clearing members.
+> 3. Clearing members that clear transactions on behalf of their clients shall have the necessary additional financial resources and operational capacity to perform this activity. The CCP’s rules for clearing members shall allow it to gather relevant basic information to identify, monitor and manage relevant concentrations of risk relating to the provision of services to clients. Clearing members shall, upon request, inform the CCP about the criteria and arrangements they adopt to allow their clients to access the services of the CC […truncated by emendrix: 785 characters omitted…]
+
+*after* (`02012R0648-20220812`)
+
+> Article 37
+> Participation requirements
+> 1. A CCP shall establish, where relevant per type of product cleared, the categories of admissible clearing members and the admission criteria, upon the advice of the risk committee pursuant to Article 28(3). Such criteria shall be non-discriminatory, transparent and objective so as to ensure fair and open access to the CCP and shall ensure that clearing members have sufficient financial resources and operational capacity to meet the obligations arising from participation in a CCP. Criteria that restrict access shall be permitted only to the extent that their objective is to control the risk for the CCP.
+> 2. A CCP shall ensure that the application of the criteria referred to in paragraph 1 is met on an ongoing basis and shall have timely access to the information relevant for such assessment. A CCP shall conduct, at least once a year, a comprehensive review of compliance with this Article by its clearing members.
+> The CCP shall inform the competent authority of any significant negative development regarding the risk profile of any of its clearing members determined in the context of the CCP’s assessment referred to in the first subparagraph or any other assessment with similar conclusion, including any increase in the risk that any of its clearing members brings to the CCP, which the CCP considers to have the potential of triggering a default procedure.
+> 3. Clearing members that clear transactions on behalf of their clients shall have the ne […truncated by emendrix: 1233 characters omitted…]
+
+**MODIFIED · Art. 38 — Transparency** · applies from: unchanged
+
+*within* `AR 38 PA 8` · *amended by* `32021R0023`
+
+A new paragraph 8 has been added requiring clearing members of the CCP to clearly inform their existing and potential clients of potential losses or other costs they may bear from default management procedures and loss and position allocation arrangements under the CCP's operating rules, including the type of compensation they may receive, with reference to Article 48(7). [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_38)
+
+The new paragraph also states that clients shall be provided with sufficiently detailed information to ensure they understand the worst-case losses or other costs they could face should the CCP undertake recovery measures, a provision absent from the earlier version. [Art. 38, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_38) [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_38)
+
+*before* (`02012R0648-20210628`)
+
+> Article 38
+> Transparency
+> 1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.
+> A CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.
+> 2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.
+> 3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.
+> A CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.
+> 4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.
+> 5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, consi […truncated by emendrix: 924 characters omitted…]
+
+*after* (`02012R0648-20220812`)
+
+> Article 38
+> Transparency
+> 1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.
+> A CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.
+> 2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.
+> 3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.
+> A CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.
+> 4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.
+> 5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, consi […truncated by emendrix: 1499 characters omitted…]
+
+**INSERTED · Art. 45a — Temporary restrictions in the case of a significant non-default event** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0023`
+
+This article is entirely new text, introducing a power for the competent authority to require a CCP to refrain from dividend distributions, share buy-backs, or creation of certain variable remuneration, pension or severance obligations for a period it specifies, capped at five years, in the case of a significant non-default event as defined in Regulation (EU) 2021/23. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_45a)
+
+It also sets out an exception where the CCP has a pre-existing legal obligation to act, a discretionary waiver power for the competent authority, and a mandate for ESMA to draft guidelines by 12 February 2022 further specifying when the restrictions may be imposed. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_45a)
+
+*after* (`02012R0648-20220812`)
+
+> Article 45a
+> Temporary restrictions in the case of a significant non-default event
+> 1. In the case of a significant non-default event as defined in point (9) of Article 2 of Regulation (EU) 2021/23, the competent authority may require the CCP to refrain from any of the following actions for a period specified by the competent authority, that cannot exceed five years:
+> (a) making a dividend distribution or give an irrevocable commitment to make a dividend distribution, except for rights to dividends specifically referred to in Regulation (EU) 2021/23 as a form of compensation;
+> (b) buy-back of ordinary shares;
+> (c) creating an obligation to pay variable remuneration as defined by the CCP’s remuneration policy pursuant to Article 26(5) of this Regulation, discretionary pension benefits or severance packages to senior management as defined in point 29 of Article 2 of this Regulation.
+> The competent authority shall not restrict the CCP from undertaking any of the actions referred to in the first subparagraph, if the CCP is legally obliged to undertake that action and the obligation predates the events pursuant to the first subparagraph.
+> 2. The competent authority may decide to waive the restrictions in paragraph 1 where it deems that waiving those restrictions would not reduce the quantity or availability of the CCP’s own resources, in particular own resources available for use as a recovery measure.
+> 3. ESMA shall by 12 February 2022 draft guidelines in accordance with Article 16 of Re […truncated by emendrix: 207 characters omitted…]
+
+**MODIFIED · Art. 81 — Transparency and data availability** · applies from: unchanged
+
+*within* `AR 81 PA 3 ALN 1 PTA (q)`, `AR 81 PA 3 ALN 1 PTA (r)` · *amended by* `32021R0023`
+
+Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, and a new point (r) has been added naming the resolution authorities designated under Article 3 of Regulation (EU) 2021/23 as an entity to which a trade repository must make necessary information available. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81) [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_81)
+
+*before* (`02012R0648-20210628`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) EBA;
+> (c) EIOPA;
+> (d) the ESRB;
+> (e) the competent authority supervising CCPs accessing the trade repositories;
+> (f) the competent authority supervising the trading venues of the reported contracts;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3671 characters omitted…]
+
+*after* (`02012R0648-20220812`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) EBA;
+> (c) EIOPA;
+> (d) the ESRB;
+> (e) the competent authority supervising CCPs accessing the trade repositories;
+> (f) the competent authority supervising the trading venues of the reported contracts;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3757 characters omitted…]
+
+**MODIFIED · Art. 93** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20220812 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210628 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20210213` → `02012R0648-20210628`

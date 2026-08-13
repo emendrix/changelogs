@@ -1,0 +1,1256 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20210628",
+  "to_version": "02012R0648-20220812",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-08-12"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 3,
+    "modified": 6,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 9,
+    "unchanged_units": 122,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 9,
+    "substantive": 9,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 6b"
+        },
+        "heading": "Suspension of clearing obligation in the case of resolution",
+        "before": null,
+        "after": "Article 6b\nSuspension of clearing obligation in the case of resolution\n1. Where a CCP meets the conditions under Article 22 of Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., the resolution authority of the CCP designated under Article 3(1) of that Regulation or the competent authority designated in accordance with Article 22(1) of this Regulation may, on their own initiative or at the request of a competent authority responsible for the supervision of a clearing member of the CCP under resolution, request that the Commission suspend the clearing obligation referred to in Article 4(1) of this Regulation for specific classes of OTC derivatives or for a specific type of counterparty where the following conditions are met:\n(a) the CCP under resolution is authorised to clear the specific classes of OTC derivatives subject to the clearing obligation for which the suspension is requested; and\n(b) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to financial stability or to the orderly functioning of financial markets in the Union in connection with the resolution of the CCP, and that suspension is proportionate to those aims.\nThe request referred to in the first subparagraph shall be accompanied by evidence that the conditions laid down in points (a) and (b) of that subparagraph are met.\nThe authority referred to in the first subparagraph shall notify its reasoned request to ESMA and the ESRB at the same time that the request is submitted to the Commission.\n2. ESMA shall, within 24 hours of notification of the request from the authority referred to in the first subparagraph of paragraph 1 of this Article, and, to the extent possible, after consulting the ESRB, issue an opinion on the intended suspension taking into account the necessity to avoid or address a serious threat to financial stability or to the orderly functioning of financial markets in the Union, the resolution objectives laid down in Article 21 of Regulation (EU) 2021/23 and the criteria set out in Article 5(4) and (5) of this Regulation.\n3. Where the suspension of the clearing obligation is considered by ESMA to be a material change in the criteria for the trading obligation to take effect referred to in Article 32(5) of Regulation (EU) No 600/2014, ESMA may request the Commission to suspend the trading obligation laid down in Article 28(1) and (2) of that Regulation for the same specific classes of OTC derivatives that are subject to the request to suspend the clearing obligation.\nESMA shall submit its reasoned request to the authority referred to in the first subparagraph of paragraph 1 and the ESRB at the same time the request is submitted to the Commission.\n4. The requests referred to in paragraphs 1 and 3 and the opinion referred to in paragraph 2 shall not be made public.\n5. The Commission shall, without undue delay after receipt of the request referred to in paragraph 1, on the basis of the reasons and evidence provided by the authority referred to in paragraph 1, either suspend the clearing obligation for the specific classes of OTC derivatives by way of an implementing act, or reject the requested suspension.\nIn adopting the implementing act referred to in the first subparagraph, the Commission shall take into account the opinion issued by ESMA referred to in paragraph 2 of this Article, the resolution objectives referred to in Article 21 of Regulation (EU) 2021/23, the criteria set out in Article 5(4) and (5) of this Regulation regarding those OTC derivative classes and the necessity of the suspension to avoid or address a serious threat to financial stability or the orderly functioning of financial markets in the Union.\nWhere the Commission rejects the requested suspension, it shall provide reasons therefor in writing to the requesting authority referred to in the first subparagraph of paragraph 1 and to ESMA. The Commission shall immediately inform the European Parliament and the Council thereof and forward them the reasons provided to the requesting authority referred to in the first subparagraph of paragraph 1 and to ESMA. Such information shall not be made public.\nThe implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the procedure referred to in Article 86(3).\n6. Where requested by ESMA in accordance with paragraph 3 of this Article, the implementing act suspending the clearing obligation may also suspend the trading obligation laid down in Article 28(1) and (2) of Regulation (EU) No 600/2014 for the same specific classes of OTC derivatives that are subject to the suspension of the clearing obligation.\n7. The suspension of the clearing obligation and, where applicable, of the trading obligation shall be communicated to the requesting authority referred to in the first subparagraph of paragraph 1 of this Article and to ESMA and shall be published in the Official Journal of the European Union, on the Commission’s website and in the public register referred to in Article 6.\n8. The suspension of the clearing obligation pursuant to paragraph 5 shall be valid for an initial period of no more than three months from the date of application of that suspension.\nThe suspension of the trading obligation referred to in paragraph 6 shall be valid for the same initial period.\n9. Where the grounds for the suspension continue to apply, the Commission may, by way of an implementing act, extend the suspension referred to in paragraph 5 for additional periods of no more than three months, with the total period of the suspension of no more than 12 months. Any extensions of the suspension shall be published in accordance with paragraph 7.\nThe implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the procedure referred to in Article 86(3).\n10. Any of the authorities referred to in the first subparagraph of paragraph 1 may, in sufficient time before the end of the initial suspension period referred to in paragraph 5, or the extension period referred to in paragraph 9, issue a request to the Commission to extend the suspension of the clearing obligation.\nThe request shall be accompanied by evidence that the conditions laid down in points (a) and (b) of the first subparagraph of paragraph 1 continue to be met.\nThe authority referred to in the first subparagraph shall notify its reasoned request to ESMA and the ESRB at the same time that the request is notified to the Commission.\nThe request referred to in the first subparagraph shall not be made public.\nESMA shall without undue delay after the receipt of the notification of the request and, if it deems necessary, after consulting the ESRB, issue an opinion to the Commission on whether the grounds for the suspension continue to apply taking into account the necessity to avoid or address a serious threat to financial stability or the orderly functioning of financial markets in the Union, the resolution objectives laid down in Article 21 of Regulation (EU) 2021/23 and the criteria set out in Article 5(4) and (5) of this Regulation. ESMA shall send a copy of that opinion to the European Parliament and to the Council. That opinion shall not be made public.\nThe implementing act extending the suspension of the clearing obligation may also extend the period of the suspension of the trading obligation referred to in paragraph 6.\nThe extension of the suspension of the trading obligation shall be valid for the same period as the extension of the suspension of the clearing obligation.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (1)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 6b has been added, establishing a procedure by which a CCP resolution authority or the competent authority designated under Article 22(1) may request the Commission to suspend the clearing obligation for specific classes of OTC derivatives or specific counterparty types where a CCP meets the resolution conditions of Article 22 of Regulation (EU) 2021/23.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 6b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b",
+              "label": "Art. 6b, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "The provision sets out the roles of ESMA, the ESRB, and the Commission in evaluating and acting on such requests, the possible related suspension of the trading obligation under Regulation (EU) No 600/2014, publication and confidentiality requirements, and time limits and extension procedures for any suspension.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 6b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b",
+              "label": "Art. 6b, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 13a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "8 annotations in (2021-06-28, 2022-08-12]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 24a"
+        },
+        "heading": "CCP Supervisory Committee",
+        "before": "Article 24a\nCCP Supervisory Committee\n1. ESMA shall establish a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1095/2010 for the purposes of preparing draft decisions for adoption by the Board of Supervisors and carrying out the tasks set out in paragraphs 7, 9 and 10 of this Article (CCP Supervisory Committee).\n2. The CCP Supervisory Committee shall be composed of:\n(a) the Chair, who shall be voting;\n(b) two independent members, who shall be voting;\n(c) the competent authorities of Member States referred to in Article 22 of this Regulation with an authorised CCP, who shall be voting; where a Member State has designated several competent authorities, each of the designated competent authorities of this Member State may decide to appoint one representative for the purposes of participation pursuant to this point, however, for the voting procedures set out in Article 24c, the representatives of the respective Member State shall together be considered as one voting member;\n(d) The following central banks of issue:\n(i) where the CCP Supervisory Committee convenes in relation to third-country CCPs, in respect of the preparation of all decisions pertaining to Articles referred to in paragraph 10 of this Article in relation to Tier 2 CCPs and to Article 25(2a), the central banks of issue referred to in point (f) of Article 25(3) that have requested membership of the CCP Supervisory Committee, who shall be non-voting;\n(ii) where the CCP Supervisory Committee convenes in relation to CCPs authorised in accordance with Article 14, in the context of discussions pertaining to point (b) and subpoint (iv) of point (c) of paragraph 7 of this Article, the central banks of issue of the Union currencies of the financial instruments cleared by authorised CCPs that have requested membership of the CCP Supervisory Committee, who shall be non-voting.\nMembership for the purpose of subpoints (i) and (ii) shall be granted automatically upon a one-off written request addressed to the Chair.\n3. The Chair may invite as observers to the meetings of the CCP Supervisory Committee, where appropriate and necessary, members of the colleges referred to in Article 18.\n4. Meetings of the CCP Supervisory Committee shall be convened by its Chair at his or her own initiative or at the request of any of its voting members. The CCP Supervisory Committee shall meet at least five times a year.\n5. The Chair and the independent members of the CCP Supervisory Committee shall be full-time, independent professionals. They shall be appointed by the Board of Supervisors on the basis of merit, skills, knowledge of clearing, post-trading, prudential supervision and financial matters, as well as of experience relevant to CCP supervision and regulation, following an open selection procedure.\nBefore the appointment of the Chair and of the independent members of the CCP Supervisory Committee, and up to one month after the selection by the Board of Supervisors, which shall submit its shortlist of selected candidates respecting gender balance to the European Parliament, the European Parliament, after having heard the selected candidates, shall approve or reject them.\nWhere the Chair or any of the independent members of the CCP Supervisory Committee no longer fulfils the conditions required for the performance of his or her duties or has been found guilty of serious misconduct, the Council may, on a proposal from the Commission which has been approved by the European Parliament, adopt an implementing decision to remove him or her from office. The Council shall act by qualified majority.\nThe European Parliament or the Council may inform the Commission that they consider the conditions for the removal of the Chair or one of the independent members of the CCP Supervisory Committee to be fulfilled, to which the Commission shall respond.\nThe term of office of the Chair and the independent members of the CCP Supervisory Committee shall be five years and may be extended once.\n6. The Chair and the independent members of the CCP Supervisory Committee shall not hold any office at national, Union, or international level. They shall act independently and objectively in the sole interest of the Union as a whole and shall neither seek nor take instructions from Union institutions or bodies, from any government of a Member State or from any other public or private body.\nNeither Member States, the Union institutions or bodies, nor any other public or private body shall seek to influence the Chair and the independent members of the CCP Supervisory Committee in the performance of their tasks.\nIn accordance with the Staff Regulations referred to in Article 68 of Regulation (EU) No 1095/2010, the Chair and the independent members of the CCP Supervisory Committee shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.\n7. In relation to CCPs authorised or applying for authorisation in accordance with Article 14 of this Regulation, the CCP Supervisory Committee shall, for the purpose of Article 23a(1) of this Regulation, prepare decisions and carry out the tasks entrusted to ESMA in Article 23a(3) of this Regulation and in the following points:\n(a) at least annually, conduct a peer review analysis of the supervisory activities of all competent authorities in relation to the authorisation and the supervision of CCPs in accordance with Article 30 of Regulation (EU) No 1095/2010;\n(b) at least annually, initiate and coordinate Union-wide assessments of the resilience of CCPs to adverse market developments in accordance with Article 32(2) of Regulation (EU) No 1095/2010;\n(c) promote the regular exchange and discussion among competent authorities designated in accordance with Article 22(1) of this Regulation in relation to:\n(i) relevant supervisory activities and decisions that have been adopted by the competent authorities referred to in Article 22 when carrying out their duties in accordance with this Regulation regarding the authorisation and supervision of CCPs established in their territory;\n(ii) draft decisions submitted to ESMA by a competent authority in accordance with the first subparagraph of Article 23a(2);\n(iii) draft decisions submitted to ESMA by a competent authority on a voluntary basis in accordance with the second subparagraph of Article 23a(2);\n(iv) relevant market developments, including situations or events which impact or are likely to impact the prudential or financial soundness or the resilience of CCPs authorised in accordance with Article 14 or their clearing members;\n(d) be informed of and discuss all opinions and recommendations adopted by colleges pursuant to Article 19 of this Regulation, in order to contribute to the consistent and coherent functioning of the colleges and to foster coherence in the application of this Regulation among them.\nFor the purposes of points (a) to (d) of the first subparagraph, competent authorities shall provide ESMA with all relevant information and documentation without undue delay.\n8. Where the activities or the exchange referred to in points (a) to (d) of paragraph 7 expose a lack of convergence and coherence in the application of this Regulation, ESMA shall issue the necessary guidelines or recommendations pursuant to Article 16 of Regulation (EU) No 1095/2010 or opinions pursuant to Article 29 of Regulation (EU) No 1095/2010. Where an assessment referred to in point (b) of paragraph 7 exposes shortcomings in the resilience of one or more CCPs, ESMA shall issue the necessary recommendations pursuant to Article 16 of Regulation (EU) No 1095/2010.\n9. In addition, the CCP Supervisory Committee may:\n(a) based on its activities in accordance with points (a) to (d) of paragraph 7, request the Board of Supervisors to consider whether the adoption of guidelines, recommendations and opinions by ESMA is necessary in order to address a lack of convergence and coherence in the application of this Regulation among competent authorities and colleges. The Board of Supervisors shall duly consider such requests and provide an appropriate response;\n(b) submit opinions to the Board of Supervisors on decisions to be taken in accordance with Article 44 of Regulation (EU) No 1095/2010, with the exception of decisions referred to in Articles 17 and 19 of that Regulation, relating to tasks conferred on the competent authorities referred to in Article 22 of this Regulation.\n10. The CCP Supervisory Committee shall, in relation to third-country CCPs, prepare draft decisions to be taken by the Board of Supervisors and carry out the tasks entrusted to ESMA in Articles 25, 25a, 25b, 25f to 25q and 85(6).\n11. The CCP Supervisory Committee shall, in relation to third-country CCPs, share with the third-country CCP college referred to in Article 25c the agendas of its meetings before those meetings take place, the minutes of its meetings, the complete draft decisions it submits to the Board of Supervisors and the final decisions adopted by the Board of Supervisors.\n12. The CCP Supervisory Committee shall be supported by dedicated staff from ESMA, possessing sufficient knowledge, skills and experience, in order to:\n(a) prepare the CCP Supervisory Committee meetings;\n(b) prepare the analyses necessary for the CCP Supervisory Committee to carry out its tasks;\n(c) support the CCP Supervisory Committee in its international cooperation at administrative level.\n13. For the purposes of this Regulation, ESMA shall ensure structural separation between the CCP Supervisory Committee and other functions referred to in Regulation (EU) No 1095/2010.",
+        "after": "Article 24a\nCCP Supervisory Committee\n1. ESMA shall establish a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1095/2010 for the purposes of preparing draft decisions for adoption by the Board of Supervisors and carrying out the tasks set out in paragraphs 7, 9 and 10 of this Article (CCP Supervisory Committee).\n2. The CCP Supervisory Committee shall be composed of:\n(a) the Chair, who shall be voting;\n(b) two independent members, who shall be voting;\n(c) the competent authorities of Member States referred to in Article 22 of this Regulation with an authorised CCP, who shall be voting; where a Member State has designated several competent authorities, each of the designated competent authorities of this Member State may decide to appoint one representative for the purposes of participation pursuant to this point, however, for the voting procedures set out in Article 24c, the representatives of the respective Member State shall together be considered as one voting member;\n(d) The following central banks of issue:\n(i) where the CCP Supervisory Committee convenes in relation to third-country CCPs, in respect of the preparation of all decisions pertaining to Articles referred to in paragraph 10 of this Article in relation to Tier 2 CCPs and to Article 25(2a), the central banks of issue referred to in point (f) of Article 25(3) that have requested membership of the CCP Supervisory Committee, who shall be non-voting;\n(ii) where the CCP Supervisory Committee convenes in relation to CCPs authorised in accordance with Article 14, in the context of discussions pertaining to point (b) and subpoint (iv) of point (c) of paragraph 7 of this Article, the central banks of issue of the Union currencies of the financial instruments cleared by authorised CCPs that have requested membership of the CCP Supervisory Committee, who shall be non-voting.\nMembership for the purpose of subpoints (i) and (ii) shall be granted automatically upon a one-off written request addressed to the Chair.\n3. The Chair may invite as observers to the meetings of the CCP Supervisory Committee, where appropriate and necessary, members of the colleges referred to in Article 18.\n4. Meetings of the CCP Supervisory Committee shall be convened by its Chair at his or her own initiative or at the request of any of its voting members. The CCP Supervisory Committee shall meet at least five times a year.\n5. The Chair and the independent members of the CCP Supervisory Committee shall be full-time, independent professionals. They shall be appointed by the Board of Supervisors on the basis of merit, skills, knowledge of clearing, post-trading, prudential supervision and financial matters, as well as of experience relevant to CCP supervision and regulation, following an open selection procedure.\nBefore the appointment of the Chair and of the independent members of the CCP Supervisory Committee, and up to one month after the selection by the Board of Supervisors, which shall submit its shortlist of selected candidates respecting gender balance to the European Parliament, the European Parliament, after having heard the selected candidates, shall approve or reject them.\nWhere the Chair or any of the independent members of the CCP Supervisory Committee no longer fulfils the conditions required for the performance of his or her duties or has been found guilty of serious misconduct, the Council may, on a proposal from the Commission which has been approved by the European Parliament, adopt an implementing decision to remove him or her from office. The Council shall act by qualified majority.\nThe European Parliament or the Council may inform the Commission that they consider the conditions for the removal of the Chair or one of the independent members of the CCP Supervisory Committee to be fulfilled, to which the Commission shall respond.\nThe term of office of the Chair and the independent members of the CCP Supervisory Committee shall be five years and may be extended once.\n6. The Chair and the independent members of the CCP Supervisory Committee shall not hold any office at national, Union, or international level. They shall act independently and objectively in the sole interest of the Union as a whole and shall neither seek nor take instructions from Union institutions or bodies, from any government of a Member State or from any other public or private body.\nNeither Member States, the Union institutions or bodies, nor any other public or private body shall seek to influence the Chair and the independent members of the CCP Supervisory Committee in the performance of their tasks.\nIn accordance with the Staff Regulations referred to in Article 68 of Regulation (EU) No 1095/2010, the Chair and the independent members of the CCP Supervisory Committee shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.\n7. In relation to CCPs authorised or applying for authorisation in accordance with Article 14 of this Regulation, the CCP Supervisory Committee shall, for the purpose of Article 23a(1) of this Regulation, prepare decisions and carry out the tasks entrusted to ESMA in Article 23a(3) of this Regulation and in the following points:\n(a) at least annually, conduct a peer review analysis of the supervisory activities of all competent authorities in relation to the authorisation and the supervision of CCPs in accordance with Article 30 of Regulation (EU) No 1095/2010;\n(b) at least annually, initiate and coordinate Union-wide assessments of the resilience of CCPs to adverse market developments in accordance with Article 32(2) of Regulation (EU) No 1095/2010, taking into account, where possible, the aggregate effect of CCP recovery and resolution arrangements on Union financial stability;\n(c) promote the regular exchange and discussion among competent authorities designated in accordance with Article 22(1) of this Regulation in relation to:\n(i) relevant supervisory activities and decisions that have been adopted by the competent authorities referred to in Article 22 when carrying out their duties in accordance with this Regulation regarding the authorisation and supervision of CCPs established in their territory;\n(ii) draft decisions submitted to ESMA by a competent authority in accordance with the first subparagraph of Article 23a(2);\n(iii) draft decisions submitted to ESMA by a competent authority on a voluntary basis in accordance with the second subparagraph of Article 23a(2);\n(iv) relevant market developments, including situations or events which impact or are likely to impact the prudential or financial soundness or the resilience of CCPs authorised in accordance with Article 14 or their clearing members;\n(d) be informed of and discuss all opinions and recommendations adopted by colleges pursuant to Article 19 of this Regulation, in order to contribute to the consistent and coherent functioning of the colleges and to foster coherence in the application of this Regulation among them.\nFor the purposes of points (a) to (d) of the first subparagraph, competent authorities shall provide ESMA with all relevant information and documentation without undue delay.\n8. Where the activities or the exchange referred to in points (a) to (d) of paragraph 7 expose a lack of convergence and coherence in the application of this Regulation, ESMA shall issue the necessary guidelines or recommendations pursuant to Article 16 of Regulation (EU) No 1095/2010 or opinions pursuant to Article 29 of Regulation (EU) No 1095/2010. Where an assessment referred to in point (b) of paragraph 7 exposes shortcomings in the resilience of one or more CCPs, ESMA shall issue the necessary recommendations pursuant to Article 16 of Regulation (EU) No 1095/2010.\n9. In addition, the CCP Supervisory Committee may:\n(a) based on its activities in accordance with points (a) to (d) of paragraph 7, request the Board of Supervisors to consider whether the adoption of guidelines, recommendations and opinions by ESMA is necessary in order to address a lack of convergence and coherence in the application of this Regulation among competent authorities and colleges. The Board of Supervisors shall duly consider such requests and provide an appropriate response;\n(b) submit opinions to the Board of Supervisors on decisions to be taken in accordance with Article 44 of Regulation (EU) No 1095/2010, with the exception of decisions referred to in Articles 17 and 19 of that Regulation, relating to tasks conferred on the competent authorities referred to in Article 22 of this Regulation.\n10. The CCP Supervisory Committee shall, in relation to third-country CCPs, prepare draft decisions to be taken by the Board of Supervisors and carry out the tasks entrusted to ESMA in Articles 25, 25a, 25b, 25f to 25q and 85(6).\n11. The CCP Supervisory Committee shall, in relation to third-country CCPs, share with the third-country CCP college referred to in Article 25c the agendas of its meetings before those meetings take place, the minutes of its meetings, the complete draft decisions it submits to the Board of Supervisors and the final decisions adopted by the Board of Supervisors.\n12. The CCP Supervisory Committee shall be supported by dedicated staff from ESMA, possessing sufficient knowledge, skills and experience, in order to:\n(a) prepare the CCP Supervisory Committee meetings;\n(b) prepare the analyses necessary for the CCP Supervisory Committee to carry out its tasks;\n(c) support the CCP Supervisory Committee in its international cooperation at administrative level.\n13. For the purposes of this Regulation, ESMA shall ensure structural separation between the CCP Supervisory Committee and other functions referred to in Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 24a PA 7 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b) of paragraph 7, describing the annual Union-wide resilience assessments of CCPs, a clause was added stating that the assessments should take into account, where possible, the aggregate effect of CCP recovery and resolution arrangements on Union financial stability.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 24a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24a",
+              "label": "Art. 24a, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "No other part of Article 24a differs between the two versions shown.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 24a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_24a",
+              "label": "Art. 24a, 02012R0648-20210628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 24a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24a",
+              "label": "Art. 24a, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 28"
+        },
+        "heading": "Risk committee",
+        "before": "Article 28\nRisk committee\n1. A CCP shall establish a risk committee, which shall be composed of representatives of its clearing members, independent members of the board and representatives of its clients. The risk committee may invite employees of the CCP and external independent experts to attend risk-committee meetings in a non-voting capacity. Competent authorities may request to attend risk-committee meetings in a non-voting capacity and to be duly informed of the activities and decisions of the risk committee. The advice of the risk committee shall be independent of any direct influence by the management of the CCP. None of the groups of representatives shall have a majority in the risk committee.\n2. A CCP shall clearly determine the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria and the election mechanism for risk-committee members. The governance arrangements shall be publicly available and shall, at least, determine that the risk committee is chaired by an independent member of the board, reports directly to the board and holds regular meetings.\n3. The risk committee shall advise the board on any arrangements that may impact the risk management of the CCP, such as a significant change in its risk model, the default procedures, the criteria for accepting clearing members, the clearing of new classes of instruments, or the outsourcing of functions. The advice of the risk committee is not required for the daily operations of the CCP. Reasonable efforts shall be made to consult the risk committee on developments impacting the risk management of the CCP in emergency situations.\n4. Without prejudice to the right of competent authorities to be duly informed, the members of the risk committee shall be bound by confidentiality. Where the chairman of the risk committee determines that a member has an actual or potential conflict of interest on a particular matter, that member shall not be allowed to vote on that matter.\n5. A CCP shall promptly inform the competent authority of any decision in which the board decides not to follow the advice of the risk committee.",
+        "after": "Article 28\nRisk committee\n1. A CCP shall establish a risk committee, which shall be composed of representatives of its clearing members, independent members of the board and representatives of its clients. The risk committee may invite employees of the CCP and external independent experts to attend risk-committee meetings in a non-voting capacity. Competent authorities may request to attend risk-committee meetings in a non-voting capacity and to be duly informed of the activities and decisions of the risk committee. The advice of the risk committee shall be independent of any direct influence by the management of the CCP. None of the groups of representatives shall have a majority in the risk committee.\n2. A CCP shall clearly determine the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria and the election mechanism for risk-committee members. The governance arrangements shall be publicly available and shall, at least, determine that the risk committee is chaired by an independent member of the board, reports directly to the board and holds regular meetings.\n3. The risk committee shall advise the board on any arrangements that may impact the risk management of the CCP, such as a significant change in its risk model, the default procedures, the criteria for accepting clearing members, the clearing of new classes of instruments, or the outsourcing of functions. The risk committee shall inform the board in a timely manner of any new risk affecting the resilience of the CCP. The advice of the risk committee is not required for the daily operations of the CCP. Reasonable efforts shall be made to consult the risk committee on developments impacting the risk management of the CCP in emergency situations, including on developments relevant to clearing members’ exposures to the CCP and interdependencies with other CCPs.\n4. Without prejudice to the right of competent authorities to be duly informed, the members of the risk committee shall be bound by confidentiality. Where the chairman of the risk committee determines that a member has an actual or potential conflict of interest on a particular matter, that member shall not be allowed to vote on that matter.\n5. A CCP shall promptly inform the competent authority and the risk committee of any decision in which the board decides not to follow the advice of the risk committee and explain such decision. The risk committee or any member of the risk committee may inform the competent authority of any areas in which it considers that the advice of the risk committee has not been followed.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 28 PA 3 ALN 1",
+          "AR 28 PA 5 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (4); AR 087 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 3, a new sentence requires the risk committee to inform the board in a timely manner of any new risk affecting the resilience of the CCP, and the sentence on emergency consultation now adds a reference to developments relevant to clearing members' exposures to the CCP and interdependencies with other CCPs.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_28",
+              "label": "Art. 28, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 5, the CCP's obligation to inform of a board decision not to follow the risk committee's advice is extended to also inform the risk committee itself and to explain that decision, and a new sentence allows the risk committee or any of its members to inform the competent authority of areas where the risk committee's advice was not followed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_28",
+              "label": "Art. 28, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 37"
+        },
+        "heading": "Participation requirements",
+        "before": "Article 37\nParticipation requirements\n1. A CCP shall establish, where relevant per type of product cleared, the categories of admissible clearing members and the admission criteria, upon the advice of the risk committee pursuant to Article 28(3). Such criteria shall be non-discriminatory, transparent and objective so as to ensure fair and open access to the CCP and shall ensure that clearing members have sufficient financial resources and operational capacity to meet the obligations arising from participation in a CCP. Criteria that restrict access shall be permitted only to the extent that their objective is to control the risk for the CCP.\n2. A CCP shall ensure that the application of the criteria referred to in paragraph 1 is met on an ongoing basis and shall have timely access to the information relevant for such assessment. A CCP shall conduct, at least once a year, a comprehensive review of compliance with this Article by its clearing members.\n3. Clearing members that clear transactions on behalf of their clients shall have the necessary additional financial resources and operational capacity to perform this activity. The CCP’s rules for clearing members shall allow it to gather relevant basic information to identify, monitor and manage relevant concentrations of risk relating to the provision of services to clients. Clearing members shall, upon request, inform the CCP about the criteria and arrangements they adopt to allow their clients to access the services of the CCP. Responsibility for ensuring that clients comply with their obligations shall remain with clearing members.\n4. A CCP shall have objective and transparent procedures for the suspension and orderly exit of clearing members that no longer meet the criteria referred to in paragraph 1.\n5. A CCP may only deny access to clearing members meeting the criteria referred to in paragraph 1 where duly justified in writing and based on a comprehensive risk analysis.\n6. A CCP may impose specific additional obligations on clearing members, such as the participation in auctions of a defaulting clearing member’s position. Such additional obligations shall be proportional to the risk brought by the clearing member and shall not restrict participation to certain categories of clearing members.",
+        "after": "Article 37\nParticipation requirements\n1. A CCP shall establish, where relevant per type of product cleared, the categories of admissible clearing members and the admission criteria, upon the advice of the risk committee pursuant to Article 28(3). Such criteria shall be non-discriminatory, transparent and objective so as to ensure fair and open access to the CCP and shall ensure that clearing members have sufficient financial resources and operational capacity to meet the obligations arising from participation in a CCP. Criteria that restrict access shall be permitted only to the extent that their objective is to control the risk for the CCP.\n2. A CCP shall ensure that the application of the criteria referred to in paragraph 1 is met on an ongoing basis and shall have timely access to the information relevant for such assessment. A CCP shall conduct, at least once a year, a comprehensive review of compliance with this Article by its clearing members.\nThe CCP shall inform the competent authority of any significant negative development regarding the risk profile of any of its clearing members determined in the context of the CCP’s assessment referred to in the first subparagraph or any other assessment with similar conclusion, including any increase in the risk that any of its clearing members brings to the CCP, which the CCP considers to have the potential of triggering a default procedure.\n3. Clearing members that clear transactions on behalf of their clients shall have the necessary additional financial resources and operational capacity to perform this activity. The CCP’s rules for clearing members shall allow it to gather relevant basic information to identify, monitor and manage relevant concentrations of risk relating to the provision of services to clients. Clearing members shall, upon request, inform the CCP about the criteria and arrangements they adopt to allow their clients to access the services of the CCP. Responsibility for ensuring that clients comply with their obligations shall remain with clearing members.\n4. A CCP shall have objective and transparent procedures for the suspension and orderly exit of clearing members that no longer meet the criteria referred to in paragraph 1.\n5. A CCP may only deny access to clearing members meeting the criteria referred to in paragraph 1 where duly justified in writing and based on a comprehensive risk analysis.\n6. A CCP may impose specific additional obligations on clearing members, such as the participation in auctions of a defaulting clearing member’s position. Such additional obligations shall be proportional to the risk brought by the clearing member and shall not restrict participation to certain categories of clearing members.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 37 PA 2 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new subparagraph is added to paragraph 2 requiring the CCP to inform the competent authority of any significant negative development regarding the risk profile of a clearing member identified through the annual compliance review or a similar assessment, including any increase in risk that the CCP considers capable of triggering a default procedure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_37",
+              "label": "Art. 37, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "The remainder of Article 37, including paragraphs 1 and 3 through 6, is unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_37",
+              "label": "Art. 37, 02012R0648-20210628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_37",
+              "label": "Art. 37, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 38"
+        },
+        "heading": "Transparency",
+        "before": "Article 38\nTransparency\n1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.\nA CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.\n2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.\n3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.\nA CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.\n4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.\n5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, considers that such disclosure would constitute a threat to financial stability or to market confidence or would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.\n6. A CCP shall provide its clearing members with a simulation tool allowing them to determine the amount of additional initial margin, on a gross basis, that the CCP may require upon the clearing of a new transaction. That tool shall only be accessible on a secured access basis, and the results of the simulation shall not be binding.\n7. A CCP shall provide its clearing members with information on the initial margin models it uses. That information shall:\n(a) clearly explain the design of the initial margin model and how it operates;\n(b) clearly describe the key assumptions and limitations of the initial margin model and the circumstances under which those assumptions are no longer valid;\n(c) be documented.",
+        "after": "Article 38\nTransparency\n1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.\nA CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.\n2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.\n3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.\nA CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.\n4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.\n5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, considers that such disclosure would constitute a threat to financial stability or to market confidence or would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.\n6. A CCP shall provide its clearing members with a simulation tool allowing them to determine the amount of additional initial margin, on a gross basis, that the CCP may require upon the clearing of a new transaction. That tool shall only be accessible on a secured access basis, and the results of the simulation shall not be binding.\n7. A CCP shall provide its clearing members with information on the initial margin models it uses. That information shall:\n(a) clearly explain the design of the initial margin model and how it operates;\n(b) clearly describe the key assumptions and limitations of the initial margin model and the circumstances under which those assumptions are no longer valid;\n(c) be documented.\n8. The clearing members of the CCP shall clearly inform their existing and potential clients of the potential losses or other costs that they may bear as a result of the application of default management procedures and loss and position allocation arrangements under the CCP’s operating rules, including the type of compensation they may receive, taking into account Article 48(7). Clients shall be provided with sufficiently detailed information to ensure that they understand the worst-case losses or other costs they could face should the CCP undertake recovery measures.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 38 PA 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 8 has been added requiring clearing members of the CCP to clearly inform their existing and potential clients of potential losses or other costs they may bear from default management procedures and loss and position allocation arrangements under the CCP's operating rules, including the type of compensation they may receive, with reference to Article 48(7).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_38",
+              "label": "Art. 38, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph also states that clients shall be provided with sufficiently detailed information to ensure they understand the worst-case losses or other costs they could face should the CCP undertake recovery measures, a provision absent from the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_38",
+              "label": "Art. 38, 02012R0648-20210628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_38",
+              "label": "Art. 38, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 45a"
+        },
+        "heading": "Temporary restrictions in the case of a significant non-default event",
+        "before": null,
+        "after": "Article 45a\nTemporary restrictions in the case of a significant non-default event\n1. In the case of a significant non-default event as defined in point (9) of Article 2 of Regulation (EU) 2021/23, the competent authority may require the CCP to refrain from any of the following actions for a period specified by the competent authority, that cannot exceed five years:\n(a) making a dividend distribution or give an irrevocable commitment to make a dividend distribution, except for rights to dividends specifically referred to in Regulation (EU) 2021/23 as a form of compensation;\n(b) buy-back of ordinary shares;\n(c) creating an obligation to pay variable remuneration as defined by the CCP’s remuneration policy pursuant to Article 26(5) of this Regulation, discretionary pension benefits or severance packages to senior management as defined in point 29 of Article 2 of this Regulation.\nThe competent authority shall not restrict the CCP from undertaking any of the actions referred to in the first subparagraph, if the CCP is legally obliged to undertake that action and the obligation predates the events pursuant to the first subparagraph.\n2. The competent authority may decide to waive the restrictions in paragraph 1 where it deems that waiving those restrictions would not reduce the quantity or availability of the CCP’s own resources, in particular own resources available for use as a recovery measure.\n3. ESMA shall by 12 February 2022 draft guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 further specifying the circumstances in which the competent authority may require the CCP to refrain from undertaking any of the actions referred to in paragraph 1 of this Article.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (8)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This article is entirely new text, introducing a power for the competent authority to require a CCP to refrain from dividend distributions, share buy-backs, or creation of certain variable remuneration, pension or severance obligations for a period it specifies, capped at five years, in the case of a significant non-default event as defined in Regulation (EU) 2021/23.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 45a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_45a",
+              "label": "Art. 45a, 02012R0648-20220812"
+            }
+          ]
+        },
+        {
+          "text": "It also sets out an exception where the CCP has a pre-existing legal obligation to act, a discretionary waiver power for the competent authority, and a mandate for ESMA to draft guidelines by 12 February 2022 further specifying when the restrictions may be imposed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 45a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_45a",
+              "label": "Art. 45a, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 81"
+        },
+        "heading": "Transparency and data availability",
+        "before": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) EBA;\n(c) EIOPA;\n(d) the ESRB;\n(e) the competent authority supervising CCPs accessing the trade repositories;\n(f) the competent authority supervising the trading venues of the reported contracts;\n(g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;\n(h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;\n(j) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover contracts, markets, participants and underlyings which fall within the scope of this Regulation;\n(k) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA, as referred to in Article 76;\n(l) the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the CouncilRegulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (OJ L 211, 14.8.2009, p. 1).;\n(m) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).;\n(n) the Single Resolution Board established by Regulation (EU) No 806/2014;\n(o) competent authorities or national competent authorities within the meaning of Regulations (EU) No 1024/2013 and (EU) No 909/2014 and of Directives 2003/41/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU and, 2014/65/EU, and supervisory authorities within the meaning of Directive 2009/138/EC;\n(p) the competent authorities designated in accordance with Article 10(5) of this Regulation;\n(q) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 76a has been adopted.\nA trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure the consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the following:\n(a) the information to be published or made available in accordance with paragraphs 1 and 3;\n(b) the frequency of publication of the information referred to in paragraph 1;\n(c) the operational standards required to aggregate and compare data across trade repositories and for the entities referred to in paragraph 3 to access that information;\n(d) the terms and conditions, the arrangements and the required documentation under which trade repositories grant access to the entities referred to in paragraph 3.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.\nIn developing those draft regulatory technical standards, ESMA shall ensure that the publication of the information referred to paragraph 1 does not reveal the identity of any party to any contract.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) EBA;\n(c) EIOPA;\n(d) the ESRB;\n(e) the competent authority supervising CCPs accessing the trade repositories;\n(f) the competent authority supervising the trading venues of the reported contracts;\n(g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;\n(h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;\n(j) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover contracts, markets, participants and underlyings which fall within the scope of this Regulation;\n(k) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA, as referred to in Article 76;\n(l) the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the CouncilRegulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (OJ L 211, 14.8.2009, p. 1).;\n(m) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).;\n(n) the Single Resolution Board established by Regulation (EU) No 806/2014;\n(o) competent authorities or national competent authorities within the meaning of Regulations (EU) No 1024/2013 and (EU) No 909/2014 and of Directives 2003/41/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU and, 2014/65/EU, and supervisory authorities within the meaning of Directive 2009/138/EC;\n(p) the competent authorities designated in accordance with Article 10(5) of this Regulation;\n(q) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 76a has been adopted;\n(r) the resolution authorities designated under Article 3 of Regulation (EU) 2021/23.\nA trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure the consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the following:\n(a) the information to be published or made available in accordance with paragraphs 1 and 3;\n(b) the frequency of publication of the information referred to in paragraph 1;\n(c) the operational standards required to aggregate and compare data across trade repositories and for the entities referred to in paragraph 3 to access that information;\n(d) the terms and conditions, the arrangements and the required documentation under which trade repositories grant access to the entities referred to in paragraph 3.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.\nIn developing those draft regulatory technical standards, ESMA shall ensure that the publication of the information referred to paragraph 1 does not reveal the identity of any party to any contract.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 81 PA 3 ALN 1 PTA (q)",
+          "AR 81 PA 3 ALN 1 PTA (r)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 087 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, and a new point (r) has been added naming the resolution authorities designated under Article 3 of Regulation (EU) 2021/23 as an entity to which a trade repository must make necessary information available.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81",
+              "label": "Art. 81, 02012R0648-20220812"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_81",
+              "label": "Art. 81, 02012R0648-20210628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20220812",
+          "location": "AR 93"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "8 annotations in (2021-06-28, 2022-08-12]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 093",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20210628",
+    "to_version": "02012R0648-20220812",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 6b",
+          "AR 24a",
+          "AR 28",
+          "AR 37",
+          "AR 38",
+          "AR 45a",
+          "AR 81"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 6b",
+          "AR 24a",
+          "AR 28",
+          "AR 37",
+          "AR 38",
+          "AR 45a",
+          "AR 81"
+        ],
+        "note": "8 annotations in (2021-06-28, 2022-08-12]",
+        "claims": [
+          {
+            "location": "AR 28 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 38 PA 8",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 24a PA 7 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 81 PA 3 ALN 1 PTA (r)",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 37 PA 2 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 28 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 6b",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 45a",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 6b",
+          "AR 13a",
+          "AR 24a",
+          "AR 28",
+          "AR 37",
+          "AR 38",
+          "AR 45a",
+          "AR 81",
+          "AR 93"
+        ],
+        "note": "32021R0023, 0.938 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 6b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 13a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24a PA 7 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 087 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 28 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 087 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 28 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 087 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 37 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 38 PA 8",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 45a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (8)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 81 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 087 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 93",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 093",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 7,
+        "right_units": 7,
+        "shared": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 7,
+        "right_units": 9,
+        "shared": 7,
+        "precision": 1.0,
+        "recall": 0.7777777777777778,
+        "f1": 0.8750000000000001,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 7,
+        "right_units": 9,
+        "shared": 7,
+        "precision": 1.0,
+        "recall": 0.7777777777777778,
+        "f1": 0.8750000000000001,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 13a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 93",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 13a",
+      "AR 93"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 9,
+    "explained": 7,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 38846,
+      "output_tokens": 2101,
+      "requests": 8,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 9,
+    "passed_first": 7,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 13,
+    "citations": 17,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
