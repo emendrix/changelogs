@@ -10,6 +10,39 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20210101 -->
+## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
+### `02012R0978-20200812` → `02012R0978-20210101`
+
+- **Act** `eu:32012R0978` · **In force** 2021-01-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 43 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0978-20200812` · `v2` = `02012R0978-20210101`
+
+---
+
+**MODIFIED · Annex II** · applies from: unknown
+
+*amended by* `32020R0128`, `32018R0148`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex IV** · applies from: unknown
+
+*amended by* `32018R0148`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0978-20210101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20200812 -->
 ## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
 ### `02012R0978-20190101` → `02012R0978-20200812`
