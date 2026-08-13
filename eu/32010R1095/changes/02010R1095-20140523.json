@@ -1,0 +1,607 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1095",
+    "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+  },
+  "from_version": "02010R1095-20110721",
+  "to_version": "02010R1095-20140523",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-05-23"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 4,
+    "unchanged_units": 80,
+    "disputed": 4
+  },
+  "counts": {
+    "touched": 4,
+    "substantive": 4,
+    "date_only": 0,
+    "disputed": 4,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20140523",
+          "location": "AR 13"
+        },
+        "heading": "Objections to regulatory technical standards",
+        "before": "Article 13\nObjections to regulatory technical standards\n1. The European Parliament or the Council may object to a regulatory technical standard within a period of 3 months from the date of notification of the regulatory technical standard adopted by the Commission. At the initiative of the European Parliament or the Council that period shall be extended by 3 months.\nWhere the Commission adopts a regulatory technical standard which is the same as the draft regulatory technical standard submitted by the Authority, the period during which the European Parliament and the Council may object shall be 1 month from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by 1 month.\n2. If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.\nThe regulatory technical standard may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.\n3. If either the European Parliament or the Council objects to a regulatory technical standard within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article 296 TFEU, the institution which objects shall state the reasons for objecting to the regulatory technical standard.",
+        "after": "Article 13\nObjections to regulatory technical standards\n1. The European Parliament or the Council may object to a regulatory technical standard within a period of three months from the date of notification of the regulatory technical standard adopted by the Commission. At the initiative of the European Parliament or the Council that period shall be extended by three months.\nWhere the Commission adopts a regulatory technical standard which is the same as the draft regulatory technical standard submitted by the Authority, the period during which the European Parliament and the Council may object shall be one month from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by one month. That extended period may be further extended by one month at initiative of the European Parliament or the Council.\n2. If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.\nThe regulatory technical standard may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.\n3. If either the European Parliament or the Council objects to a regulatory technical standard within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article 296 TFEU, the institution which objects shall state the reasons for objecting to the regulatory technical standard.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 1 ALN 1",
+          "AR 13 PA 1 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0051",
+            "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2011-07-21, 2014-05-23]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 005 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The numerals expressing the objection periods in paragraph 1 were changed from digit form (3 months, 1 month) to word form (three months, one month).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20110721",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20110721#art_13",
+              "label": "Art. 13, 02010R1095-20110721"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_13",
+              "label": "Art. 13, 02010R1095-20140523"
+            }
+          ]
+        },
+        {
+          "text": "A new sentence was added after the one-month extension provision, stating that the extended period may be further extended by one month at the initiative of the European Parliament or the Council.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_13",
+              "label": "Art. 13, 02010R1095-20140523"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20140523",
+          "location": "AR 13.1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0051",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-05-23",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014L0051 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014L0051, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20140523",
+          "location": "AR 17"
+        },
+        "heading": "Breach of Union law",
+        "before": "Article 17\nBreach of Union law\n1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial market participant satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.\n2. Upon a request from one or more competent authorities, the European Parliament, the Council, the Commission or the Securities and Markets Stakeholder Group, or on its own initiative, and after having informed the competent authority concerned, the Authority may investigate the alleged breach or non-application of Union law.\nWithout prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation.\n3. The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.\nThe competent authority shall, within ten working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.\n4. Where the competent authority has not complied with Union law within 1 month from receipt of the Authority’s recommendation, the Commission may, after having been informed by the Authority or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the Authority’s recommendation.\nThe Commission shall issue such a formal opinion no later than 3 months after the adoption of the recommendation. The Commission may extend this period by 1 month.\nThe Authority and the competent authorities shall provide the Commission with all necessary information.\n5. The competent authority shall, within ten working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the Authority of the steps it has taken or intends to take to comply with that formal opinion.\n6. Without prejudice to the powers of the Commission under Article 258 TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph 4 within the period of time specified therein, and where it is necessary to remedy in a timely manner such non compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the Authority may, where the relevant requirements of the acts referred to in Article 1(2) are directly applicable to financial market participants, adopt an individual decision addressed to a financial market participant requiring the necessary action to comply with its obligations under Union law including the cessation of any practice.\nThe decision of the Authority shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.\n7. Decisions adopted under paragraph 6 shall prevail over any previous decision adopted by the competent authorities on the same matter.\nWhen taking action in relation to issues which are subject to a formal opinion pursuant to paragraph 4 or a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.\n8. In the report referred to in Article 43(5), the Authority shall set out which competent authorities and financial market participants have not complied with the formal opinions or decisions referred to in paragraphs 4 and 6 of this Article.",
+        "after": "Article 17\nBreach of Union law\n1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial market participant satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.\n2. Upon a request from one or more competent authorities, the European Parliament, the Council, the Commission or the Securities and Markets Stakeholder Group, or on its own initiative, and after having informed the competent authority concerned, the Authority may investigate the alleged breach or non-application of Union law.\nWithout prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation, including with regard to how the acts referred to in Article 1(2) are applied in accordance with Union law.\n3. The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.\nThe competent authority shall, within ten working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.\n4. Where the competent authority has not complied with Union law within 1 month from receipt of the Authority’s recommendation, the Commission may, after having been informed by the Authority or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the Authority’s recommendation.\nThe Commission shall issue such a formal opinion no later than 3 months after the adoption of the recommendation. The Commission may extend this period by 1 month.\nThe Authority and the competent authorities shall provide the Commission with all necessary information.\n5. The competent authority shall, within ten working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the Authority of the steps it has taken or intends to take to comply with that formal opinion.\n6. Without prejudice to the powers of the Commission under Article 258 TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph 4 within the period of time specified therein, and where it is necessary to remedy in a timely manner such non compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the Authority may, where the relevant requirements of the acts referred to in Article 1(2) are directly applicable to financial market participants, adopt an individual decision addressed to a financial market participant requiring the necessary action to comply with its obligations under Union law including the cessation of any practice.\nThe decision of the Authority shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.\n7. Decisions adopted under paragraph 6 shall prevail over any previous decision adopted by the competent authorities on the same matter.\nWhen taking action in relation to issues which are subject to a formal opinion pursuant to paragraph 4 or a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.\n8. In the report referred to in Article 43(5), the Authority shall set out which competent authorities and financial market participants have not complied with the formal opinions or decisions referred to in paragraphs 4 and 6 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 17 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0051",
+            "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2011-07-21, 2014-05-23]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 005 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In Article 17(2), the description of the information the competent authority must provide to the Authority for its investigation now adds a phrase covering how the acts referred to in Article 1(2) are applied in accordance with Union law.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_17",
+              "label": "Art. 17, 02010R1095-20140523"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version of that same sentence in Article 17(2) did not include this additional phrase and ended after referring to information the Authority considers necessary for its investigation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20110721",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20110721#art_17",
+              "label": "Art. 17, 02010R1095-20110721"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20140523",
+          "location": "AR 17.2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0051",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-05-23",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014L0051 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014L0051, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1095",
+      "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+    },
+    "from_version": "02010R1095-20110721",
+    "to_version": "02010R1095-20140523",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 13",
+          "AR 17"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 13.1",
+          "AR 17.2"
+        ],
+        "note": "2 annotations in (2011-07-21, 2014-05-23]",
+        "claims": [
+          {
+            "location": "AR 17.2 L2",
+            "change_type": "MODIFIED",
+            "in_force": "2014-05-23",
+            "source": "32014L0051 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0051",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 13.1",
+            "change_type": "MODIFIED",
+            "in_force": "2014-05-23",
+            "source": "32014L0051 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0051",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 13",
+          "AR 17"
+        ],
+        "note": "32014L0051, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 13 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 005 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0051",
+              "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+            }
+          },
+          {
+            "location": "AR 17 PA 2 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 005 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0051",
+              "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 13",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 13.1",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 17",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 17.2",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 13.1",
+      "AR 17.2"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 4,
+    "explained": 2,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 8137,
+      "output_tokens": 422,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 4,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
