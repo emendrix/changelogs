@@ -10,6 +10,183 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20260101 -->
+## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
+### `02019R1021-20251203` → `02019R1021-20260101`
+
+- **Act** `eu:32019R1021` · **In force** 2026-01-01 · **Detected** 2026-08-13
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 25 unchanged
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Citations** `v1` = `02019R1021-20251203` · `v2` = `02019R1021-20260101`
+
+---
+
+**MODIFIED · Art. 8 — Tasks of the Agency and the Forum** · applies from: unchanged
+
+*within* `AR 8 PA 1 ALN 1 PTA (h)`, `AR 8 PA 1 ALN 1 PTA (i)`, `AR 8 PA 1a` · *amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20251203`)
+
+> Article 8
+> Tasks of the Agency and the Forum
+> 1. The Agency shall, in addition to the tasks allocated to it under Articles 9, 10, 11, 13 and 17, carry out the following tasks:
+> (a) with the agreement of the Commission, provide the designated competent authorities of the Member States and the members of the Forum for Exchange of Information on Enforcement established by Regulation (EC) No 1907/2006 (Forum), as well as stakeholders as appropriate, with assistance and technical and scientific guidance in order to ensure the effective application of this Regulation;
+> (b) upon request, provide the Commission with technical and scientific input and assist it in order to ensure the effective implementation of this Regulation;
+> (c) provide technical and scientific support and input to the Commission as regards substances that may meet the criteria for listing in the Convention or the Protocol, taking into account, as appropriate, results from existing assessment schemes referred to in Article 3(3);
+> (d) publish on its website a notice that a proposal for the listing of a substance will be prepared by the Commission, invite all interested parties to submit comments within eight weeks, and publish those comments on its website;
+> (e) provide the Commission and the Member States with technical and scientific support in the preparation and review of the risk profile and the risk management evaluation of a substance considered under the Convention, invite all interested parties to submit comments […truncated by emendrix: 1486 characters omitted…]
+
+*after* (`02019R1021-20260101`)
+
+> Article 8
+> Tasks of the Agency and the Forum
+> 1. The Agency shall, in addition to the tasks allocated to it under Articles 9, 10, 11, 13 and 17, carry out the following tasks:
+> (a) with the agreement of the Commission, provide the designated competent authorities of the Member States and the members of the Forum for Exchange of Information on Enforcement established by Regulation (EC) No 1907/2006 (Forum), as well as stakeholders as appropriate, with assistance and technical and scientific guidance in order to ensure the effective application of this Regulation;
+> (b) upon request, provide the Commission with technical and scientific input and assist it in order to ensure the effective implementation of this Regulation;
+> (c) provide technical and scientific support and input to the Commission as regards substances that may meet the criteria for listing in the Convention or the Protocol, taking into account, as appropriate, results from existing assessment schemes referred to in Article 3(3);
+> (d) publish on its website a notice that a proposal for the listing of a substance will be prepared by the Commission, invite all interested parties to submit comments within eight weeks, and publish those comments on its website;
+> (e) provide the Commission and the Member States with technical and scientific support in the preparation and review of the risk profile and the risk management evaluation of a substance considered under the Convention, invite all interested parties to submit comments […truncated by emendrix: 3373 characters omitted…]
+
+**MODIFIED · Art. 13 — Monitoring of implementation** · applies from: unchanged
+
+*within* `AR 13 PA 2 ALN 1`, `AR 13 PA 2 ALN 2` · *amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20251203`)
+
+> Article 13
+> Monitoring of implementation
+> 1. Without prejudice to Directives 2003/4/EC and 2007/2/EC, Member States shall draw up and publish a report containing:
+> (a) information on the application of this Regulation, including information on enforcement activities, infringements and penalties;
+> (b) information compiled from the notifications received pursuant to Article 4(2) and (3), Article 5(2) and point (b)(iv) of Article 7(4);
+> (c) information compiled from the release inventories drawn up pursuant to Article 6(1);
+> (d) information on implementation in accordance with the national implementation plans drawn up pursuant to Article 9(2);
+> (e) information on the presence of substances listed in Part A of Annex III in the environment, as compiled pursuant to Article 10;
+> (f) annual monitoring and statistical data on the actual or estimated total manufacturing and placing on the market of any substance listed in Annex I or II, including relevant indicators, overview maps, reports.
+> Member States shall update the report annually as far as new data or information is available and otherwise at least every three years.
+> Members States shall give the Commission and the Agency access to the information contained in the reports.
+> 2. Where a Member State shares the information referred to in point (e) of paragraph 1 with the Information Platform for Chemical Monitoring, this shall be indicated by that Member State in its report and the Member State shall be considered to have fulfilled its rep […truncated by emendrix: 1510 characters omitted…]
+
+*after* (`02019R1021-20260101`)
+
+> Article 13
+> Monitoring of implementation
+> 1. Without prejudice to Directives 2003/4/EC and 2007/2/EC, Member States shall draw up and publish a report containing:
+> (a) information on the application of this Regulation, including information on enforcement activities, infringements and penalties;
+> (b) information compiled from the notifications received pursuant to Article 4(2) and (3), Article 5(2) and point (b)(iv) of Article 7(4);
+> (c) information compiled from the release inventories drawn up pursuant to Article 6(1);
+> (d) information on implementation in accordance with the national implementation plans drawn up pursuant to Article 9(2);
+> (e) information on the presence of substances listed in Part A of Annex III in the environment, as compiled pursuant to Article 10;
+> (f) annual monitoring and statistical data on the actual or estimated total manufacturing and placing on the market of any substance listed in Annex I or II, including relevant indicators, overview maps, reports.
+> Member States shall update the report annually as far as new data or information is available and otherwise at least every three years.
+> Members States shall give the Commission and the Agency access to the information contained in the reports.
+> 2. Where a Member State shares the information referred to in paragraph 1, point (e), with the European Environmental Agency (the EEA), that Member State shall indicate that in the report and, in doing so, shall be deemed to have fulfilled its reporting obligations u […truncated by emendrix: 1472 characters omitted…]
+
+**MODIFIED · Art. 15 — Amendment of Annexes** · applies from: unchanged
+
+*within* `AR 15 PA 2 ALN 1` · *amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20251203`)
+
+> Article 15
+> Amendment of Annexes
+> 1. The Commission is empowered to adopt delegated acts in accordance with Article 18 to amend the Annexes I, II and III to this Regulation in order to adapt them to changes to the list of substances set out in the Annexes to the Convention or the Protocol, on the basis that the Union has supported the change concerned by means of a Council decision adopted in accordance with Article 218(9) TFEU, or to modify existing entries or provisions in Annexes I and II to this Regulation in order to adapt them to scientific and technical progress.
+> Whenever the Commission amends Annex I, II or III to this Regulation, it shall adopt a separate delegated act in respect of each substance.
+> 2. The Commission shall keep Annexes IV and V under constant review and shall, where appropriate, make legislative proposals to amend these Annexes in order to adapt them to the changes to the list of substances set out in the Annexes to the Convention or the Protocol or to modify existing entries or provisions in the Annexes to this Regulation in order to adapt them to scientific and technical progress.
+
+*after* (`02019R1021-20260101`)
+
+> Article 15
+> Amendment of Annexes
+> 1. The Commission is empowered to adopt delegated acts in accordance with Article 18 to amend the Annexes I, II and III to this Regulation in order to adapt them to changes to the list of substances set out in the Annexes to the Convention or the Protocol, on the basis that the Union has supported the change concerned by means of a Council decision adopted in accordance with Article 218(9) TFEU, or to modify existing entries or provisions in Annexes I and II to this Regulation in order to adapt them to scientific and technical progress.
+> Whenever the Commission amends Annex I, II or III to this Regulation, it shall adopt a separate delegated act in respect of each substance.
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 18, in order to amend Annexes IV and V to adapt them to the changes to the list of substances set out in Annexes I, II or III or to modify existing entries in Annex IV and V to adapt them to scientific and technical progress, including developments in waste treatment and decontamination technologies or new scientific information regarding health and environmental impacts associated with the presence of a substance in waste.
+
+**MODIFIED · Art. 18 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 18 PA 2 ALN 1`, `AR 18 PA 3 ALN 1`, `AR 18 PA 6 ALN 1` · *dates* -2019-07-15 +2026-01-01 · *amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20251203`)
+
+> Article 18
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 4(3), 10(2) and 15(1) shall be conferred on the Commission for a period of five years from 15 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegation of power referred to in Articles 4(3), 10(2) and 15(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to […truncated by emendrix: 548 characters omitted…]
+
+*after* (`02019R1021-20260101`)
+
+> Article 18
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 4(3), Article 10(2) and Article 15 shall be conferred on the Commission for a period of five years from 1 January 2026. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegation of power referred to in Article 4(3), Article 10(2) and Article 15 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the E […truncated by emendrix: 585 characters omitted…]
+
+**INSERTED · Art. 21b — Review** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02019R1021-20260101`)
+
+> Article 21b
+> Review
+> Taking due account of any regulatory developments concerning the status of the resources and of the governance of the scientific committees of the European Chemicals Agency, the Commission shall monitor the situation regarding the tasks, workload and remit of the scientific committees, and, where appropriate, present a legislative proposal to amend this Regulation accordingly.
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+
+*within* `AN IV` · *amended by* `32025R2457`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20251203`)
+
+> ANNEX IV
+> List of substances subject to waste management provisions set out in Article 7
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
+> Endosulfan 115-29-7
+> 959-98-8
+> 33213-65-9 204-079-4 50 mg/kg
+> Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
+> Polychlorinated naphthalenes 10 mg/kg
+> Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg
+> The Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027.
+> Tetrabromodiphenyl ether C12H6Br4O 40088-47-9
+> and others 254-787-2
+> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br1 […truncated by emendrix: 3954 characters omitted…]
+
+*after* (`02019R1021-20260101`)
+
+> ANNEX IV
+> List of substances subject to waste management provisions set out in Article 7
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
+> Endosulfan 115-29-7
+> 959-98-8
+> 33213-65-9 204-079-4 50 mg/kg
+> Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
+> Polychlorinated naphthalenes 10 mg/kg
+> Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg
+> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.
+> Tetrabromodiphenyl ether C12H6Br4O 40088-47-9
+> and others 254-787-2
+> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphe […truncated by emendrix: 3773 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20260101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20251203 -->
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20251015` → `02019R1021-20251203`

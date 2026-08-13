@@ -1,0 +1,780 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32019R1021",
+    "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+  },
+  "from_version": "02019R1021-20251203",
+  "to_version": "02019R1021-20260101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2026-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 25,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 6
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AR 8"
+        },
+        "heading": "Tasks of the Agency and the Forum",
+        "before": "Article 8\nTasks of the Agency and the Forum\n1. The Agency shall, in addition to the tasks allocated to it under Articles 9, 10, 11, 13 and 17, carry out the following tasks:\n(a) with the agreement of the Commission, provide the designated competent authorities of the Member States and the members of the Forum for Exchange of Information on Enforcement established by Regulation (EC) No 1907/2006 (Forum), as well as stakeholders as appropriate, with assistance and technical and scientific guidance in order to ensure the effective application of this Regulation;\n(b) upon request, provide the Commission with technical and scientific input and assist it in order to ensure the effective implementation of this Regulation;\n(c) provide technical and scientific support and input to the Commission as regards substances that may meet the criteria for listing in the Convention or the Protocol, taking into account, as appropriate, results from existing assessment schemes referred to in Article 3(3);\n(d) publish on its website a notice that a proposal for the listing of a substance will be prepared by the Commission, invite all interested parties to submit comments within eight weeks, and publish those comments on its website;\n(e) provide the Commission and the Member States with technical and scientific support in the preparation and review of the risk profile and the risk management evaluation of a substance considered under the Convention, invite all interested parties to submit comments or additional information, or both, within eight weeks and publish those comments on its website;\n(f) upon request, provide the Commission with technical and scientific support in implementing and further developing the Convention, in particular with respect to the POPs Review Committee;\n(g) compile, register, process and make available to the Commission and the competent authorities of the Member States all the information received or available pursuant to Article 4(2) and (3), point (b)(iv) of Article 7(4), Article 9(2) and Article 13(1). Where such information is non-confidential, the Agency shall make that information publicly available on its website and shall facilitate the exchange of that information with relevant information platforms such as those referred to in Article 13(2);\n(h) establish and maintain sections on its website for all matters relating to the implementation of this Regulation.\n2. The Forum shall be used to coordinate a network of the Member States' authorities responsible for enforcement of this Regulation.\nThe members of the Forum who are appointed by a Member State shall ensure that there is appropriate coordination between the tasks of the Forum and the work of their Member State competent authority.\nThe Forum shall involve the enforcement authorities of Member States responsible for waste when dealing with waste-related issues.\n3. The Secretariat of the Agency shall carry out the tasks allocated to the Agency under this Regulation.",
+        "after": "Article 8\nTasks of the Agency and the Forum\n1. The Agency shall, in addition to the tasks allocated to it under Articles 9, 10, 11, 13 and 17, carry out the following tasks:\n(a) with the agreement of the Commission, provide the designated competent authorities of the Member States and the members of the Forum for Exchange of Information on Enforcement established by Regulation (EC) No 1907/2006 (Forum), as well as stakeholders as appropriate, with assistance and technical and scientific guidance in order to ensure the effective application of this Regulation;\n(b) upon request, provide the Commission with technical and scientific input and assist it in order to ensure the effective implementation of this Regulation;\n(c) provide technical and scientific support and input to the Commission as regards substances that may meet the criteria for listing in the Convention or the Protocol, taking into account, as appropriate, results from existing assessment schemes referred to in Article 3(3);\n(d) publish on its website a notice that a proposal for the listing of a substance will be prepared by the Commission, invite all interested parties to submit comments within eight weeks, and publish those comments on its website;\n(e) provide the Commission and the Member States with technical and scientific support in the preparation and review of the risk profile and the risk management evaluation of a substance considered under the Convention, invite all interested parties to submit comments or additional information, or both, within eight weeks and publish those comments on its website;\n(f) upon request, provide the Commission with technical and scientific support in implementing and further developing the Convention, in particular with respect to the POPs Review Committee;\n(g) compile, register, process and make available to the Commission and the competent authorities of the Member States all the information received or available pursuant to Article 4(2) and (3), point (b)(iv) of Article 7(4), Article 9(2) and Article 13(1). Where such information is non-confidential, the Agency shall make that information publicly available on its website and shall facilitate the exchange of that information with relevant information platforms such as those referred to in Article 13(2);\n(h) establish and maintain sections on its website for all matters relating to the implementation of this Regulation;\n(i) upon request by the Commission, draw up and submit a report within 12 months of the request on the impacts on human health and on the environment and socioeconomic impacts of introducing or amending concentration limit values specified in Annex IV or V.\n1a. The report referred to in paragraph 1, point (i), shall contain the following information:\n(a) information on the impacts on human health and on the environment of waste consisting of, containing or contaminated with POPs, including impacts on waste management;\n(b) information on concentrations and mass flows of POPs in relevant waste streams and on waste treatment and treatment capacities;\n(c) an analysis of the impacts of the different concentration limit values considered in drawing up the report;\n(d) a reasoned proposal for concentration limit values to be introduced in Annex IV and, as appropriate, in Annex V.\nThe Agency shall, as soon as it receives the request referred to in paragraph 1, point (i), publish on its website a notice that a report on a possible amendment of Annex IV or V will be prepared. The notice shall also invite all interested parties, including waste operators and users of recycled materials, to submit comments within 8 weeks. The Agency shall publish those comments on its website.\nAt the latest 9 months following the submission of the report referred to in paragraph 1, point (i), of this Article, the Committee for Socioeconomic Analysis of the Agency, set up pursuant to Article 76(1), point (d), of Regulation (EC) No 1907/2006, shall adopt an opinion on the report and on the concentration limit values proposed therein. For that purpose Article 87 of Regulation (EC) No 1907/2006 shall apply mutatis mutandis.\nThe Agency shall then submit the report and the opinion of the Committee for Socioeconomic Analysis on the concentration limit values to the Commission without delay.\n2. The Forum shall be used to coordinate a network of the Member States' authorities responsible for enforcement of this Regulation.\nThe members of the Forum who are appointed by a Member State shall ensure that there is appropriate coordination between the tasks of the Forum and the work of their Member State competent authority.\nThe Forum shall involve the enforcement authorities of Member States responsible for waste when dealing with waste-related issues.\n3. The Secretariat of the Agency shall carry out the tasks allocated to the Agency under this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 8 PA 1 ALN 1 PTA (h)",
+          "AR 8 PA 1 ALN 1 PTA (i)",
+          "AR 8 PA 1a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (1) (a); AR 004 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AR 13"
+        },
+        "heading": "Monitoring of implementation",
+        "before": "Article 13\nMonitoring of implementation\n1. Without prejudice to Directives 2003/4/EC and 2007/2/EC, Member States shall draw up and publish a report containing:\n(a) information on the application of this Regulation, including information on enforcement activities, infringements and penalties;\n(b) information compiled from the notifications received pursuant to Article 4(2) and (3), Article 5(2) and point (b)(iv) of Article 7(4);\n(c) information compiled from the release inventories drawn up pursuant to Article 6(1);\n(d) information on implementation in accordance with the national implementation plans drawn up pursuant to Article 9(2);\n(e) information on the presence of substances listed in Part A of Annex III in the environment, as compiled pursuant to Article 10;\n(f) annual monitoring and statistical data on the actual or estimated total manufacturing and placing on the market of any substance listed in Annex I or II, including relevant indicators, overview maps, reports.\nMember States shall update the report annually as far as new data or information is available and otherwise at least every three years.\nMembers States shall give the Commission and the Agency access to the information contained in the reports.\n2. Where a Member State shares the information referred to in point (e) of paragraph 1 with the Information Platform for Chemical Monitoring, this shall be indicated by that Member State in its report and the Member State shall be considered to have fulfilled its reporting obligations under that point.\nWhere the information referred to in point (e) of paragraph 1 is contained in the report of a Member State provided to the Agency, the Agency shall use the Information Platform for Chemical Monitoring for compiling, storing and sharing that information.\n3. Regarding the substances listed in the Convention, the Commission, supported by the Agency, shall, at the intervals determined by the Conference of the Parties of the Convention, compile a report on the basis of the information provided by the Member States to the Agency in accordance with point (f) of paragraph 1 and communicate it to the Secretariat of the Convention.\n4. The Agency shall compile and publish a Union overview report on the basis of the data referred to in paragraphs 1 and 2 that is published or notified by the Member States. The Union overview report shall include, as appropriate, indicators for outputs, results and impact of this Regulation, Union overview maps and Member State reports. The Union overview report shall be updated by the Agency at least once every six months or following receipt of a request from the Commission.\n5. The Commission may adopt implementing acts concerning the minimum information to be provided in accordance with paragraph 1, including the definition of relevant indicators, overview maps and reports referred to in point (f) of paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 20(3).",
+        "after": "Article 13\nMonitoring of implementation\n1. Without prejudice to Directives 2003/4/EC and 2007/2/EC, Member States shall draw up and publish a report containing:\n(a) information on the application of this Regulation, including information on enforcement activities, infringements and penalties;\n(b) information compiled from the notifications received pursuant to Article 4(2) and (3), Article 5(2) and point (b)(iv) of Article 7(4);\n(c) information compiled from the release inventories drawn up pursuant to Article 6(1);\n(d) information on implementation in accordance with the national implementation plans drawn up pursuant to Article 9(2);\n(e) information on the presence of substances listed in Part A of Annex III in the environment, as compiled pursuant to Article 10;\n(f) annual monitoring and statistical data on the actual or estimated total manufacturing and placing on the market of any substance listed in Annex I or II, including relevant indicators, overview maps, reports.\nMember States shall update the report annually as far as new data or information is available and otherwise at least every three years.\nMembers States shall give the Commission and the Agency access to the information contained in the reports.\n2. Where a Member State shares the information referred to in paragraph 1, point (e), with the European Environmental Agency (the EEA), that Member State shall indicate that in the report and, in doing so, shall be deemed to have fulfilled its reporting obligations under that point.\nWhere the information referred to in paragraph 1, point (e), is contained in the report of a Member State provided to the Agency, the Agency shall transmit the information to the EEA for compiling, storing and sharing that information.\n3. Regarding the substances listed in the Convention, the Commission, supported by the Agency, shall, at the intervals determined by the Conference of the Parties of the Convention, compile a report on the basis of the information provided by the Member States to the Agency in accordance with point (f) of paragraph 1 and communicate it to the Secretariat of the Convention.\n4. The Agency shall compile and publish a Union overview report on the basis of the data referred to in paragraphs 1 and 2 that is published or notified by the Member States. The Union overview report shall include, as appropriate, indicators for outputs, results and impact of this Regulation, Union overview maps and Member State reports. The Union overview report shall be updated by the Agency at least once every six months or following receipt of a request from the Commission.\n5. The Commission may adopt implementing acts concerning the minimum information to be provided in accordance with paragraph 1, including the definition of relevant indicators, overview maps and reports referred to in point (f) of paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 20(3).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 2 ALN 1",
+          "AR 13 PA 2 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AR 15"
+        },
+        "heading": "Amendment of Annexes",
+        "before": "Article 15\nAmendment of Annexes\n1. The Commission is empowered to adopt delegated acts in accordance with Article 18 to amend the Annexes I, II and III to this Regulation in order to adapt them to changes to the list of substances set out in the Annexes to the Convention or the Protocol, on the basis that the Union has supported the change concerned by means of a Council decision adopted in accordance with Article 218(9) TFEU, or to modify existing entries or provisions in Annexes I and II to this Regulation in order to adapt them to scientific and technical progress.\nWhenever the Commission amends Annex I, II or III to this Regulation, it shall adopt a separate delegated act in respect of each substance.\n2. The Commission shall keep Annexes IV and V under constant review and shall, where appropriate, make legislative proposals to amend these Annexes in order to adapt them to the changes to the list of substances set out in the Annexes to the Convention or the Protocol or to modify existing entries or provisions in the Annexes to this Regulation in order to adapt them to scientific and technical progress.",
+        "after": "Article 15\nAmendment of Annexes\n1. The Commission is empowered to adopt delegated acts in accordance with Article 18 to amend the Annexes I, II and III to this Regulation in order to adapt them to changes to the list of substances set out in the Annexes to the Convention or the Protocol, on the basis that the Union has supported the change concerned by means of a Council decision adopted in accordance with Article 218(9) TFEU, or to modify existing entries or provisions in Annexes I and II to this Regulation in order to adapt them to scientific and technical progress.\nWhenever the Commission amends Annex I, II or III to this Regulation, it shall adopt a separate delegated act in respect of each substance.\n2. The Commission is empowered to adopt delegated acts in accordance with Article 18, in order to amend Annexes IV and V to adapt them to the changes to the list of substances set out in Annexes I, II or III or to modify existing entries in Annex IV and V to adapt them to scientific and technical progress, including developments in waste treatment and decontamination technologies or new scientific information regarding health and environmental impacts associated with the presence of a substance in waste.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 15 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AR 18"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 18\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 4(3), 10(2) and 15(1) shall be conferred on the Commission for a period of five years from 15 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 4(3), 10(2) and 15(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Articles 4(3), 10(2) and 15(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 18\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 4(3), Article 10(2) and Article 15 shall be conferred on the Commission for a period of five years from 1 January 2026. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Article 4(3), Article 10(2) and Article 15 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 4(3), Article 10(2) or Article 15 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 18 PA 2 ALN 1",
+          "AR 18 PA 3 ALN 1",
+          "AR 18 PA 6 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2019-07-15"
+        ],
+        "dates_added": [
+          "2026-01-01"
+        ],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (4) (a); AR 004 (4) (b); AR 004 (4) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AR 21b"
+        },
+        "heading": "Review",
+        "before": null,
+        "after": "Article 21b\nReview\nTaking due account of any regulatory developments concerning the status of the resources and of the governance of the scientific committees of the European Chemicals Agency, the Commission shall monitor the situation regarding the tasks, workload and remit of the scientific committees, and, where appropriate, present a legislative proposal to amend this Regulation accordingly.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (5)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20260101",
+          "location": "AN IV"
+        },
+        "heading": "ANNEX IV",
+        "before": "ANNEX IV\nList of substances subject to waste management provisions set out in Article 7\nPolychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.\nSubstance CAS No EC No Concentration limit referred to in Article 7(4)(a)\nEndosulfan 115-29-7\n959-98-8\n33213-65-9 204-079-4 50 mg/kg\nHexachlorobutadiene 87-68-3 201-765-5 100 mg/kg\nPolychlorinated naphthalenes 10 mg/kg\nAlkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027.\nTetrabromodiphenyl ether C12H6Br4O 40088-47-9\nand others 254-787-2\nand others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br10O:\n(a) until 29 December 2025, 500 mg/kg;\n(b) from 30 December 2025 until 29 December 2027, 350 mg/kg, or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether;\n(c) from 30 December 2027, 200 mg/kg or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether.\nPentabromodiphenyl ether C12H5Br5O 32534-81-9\nand others 251-084-2\nand others\nHexabromodiphenyl ether C12H4Br6O 36483-60-0\nand others 253-058-6\nand others\nHeptabromodiphenyl ether C12H3Br7O 68928-80-3\nand others 273-031-2\nand others\nBis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O 1163-19-5\nand others 214-604-9\nand others\nPerfluorooctane sulfonic acid and its derivatives (PFOS) C8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) 1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others 217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others 50 mg/kg\nPolychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs) 5 μg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane) 50-29-3 200-024-3 50 mg/kg\nChlordane 57-74-9 200-349-0 50 mg/kg\nHexachlorocyclohexanes, including lindane 58-89-9\n319-84-6\n319-85-7\n608-73-1 210-168-9\n200-401-2\n206-270-8\n206-271-3 50 mg/kg\nDieldrin 60-57-1 200-484-5 50 mg/kg\nEndrin 72-20-8 200-775-7 50 mg/kg\nHeptachlor 76-44-8 200-962-3 50 mg/kg\nHexachlorobenzene 118-74-1 204-273-9 50 mg/kg\nChlordecone 143-50-0 205-601-3 50 mg/kg\nAldrin 309-00-2 206-215-8 50 mg/kg\nPentachlorobenzene 608-93-5 210-172-0 50 mg/kg\nPolychlorinated Biphenyls (PCB) 1336-36-3 and others 215-648-1 50 mg/kg\nMirex 2385-85-5 219-196-6 50 mg/kg\nToxaphene 8001-35-2 232-283-3 50 mg/kg\nHexabromobiphenyl 36355-01-8 252-994-2 50 mg/kg\nHexabromocyclododecane 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 247-148-4\n221-695-9 500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value to not higher than 200 mg/kg no later than 30 December 2027.\nPentachlorophenol, its salts and esters 87-86-5 and others 201-778-6 and others 100 mg/kg\nDicofol 115-32-2 204-082-0 50 mg/kg\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I 335-67-1 and others 206-397-9 and others 1 mg/kg\n(PFOA and its salts),\n40 mg/kg\n(sum of PFOA-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.\nPerfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds 355-46-4 and others 206-587-1 and others 1 mg/kg\n(PFHxS and its salts), 40 mg/kg\n(sum of PFHxS-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.",
+        "after": "ANNEX IV\nList of substances subject to waste management provisions set out in Article 7\nPolychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.\nSubstance CAS No EC No Concentration limit referred to in Article 7(4)(a)\nEndosulfan 115-29-7\n959-98-8\n33213-65-9 204-079-4 50 mg/kg\nHexachlorobutadiene 87-68-3 201-765-5 100 mg/kg\nPolychlorinated naphthalenes 10 mg/kg\nAlkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.\nTetrabromodiphenyl ether C12H6Br4O 40088-47-9\nand others 254-787-2\nand others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br10O:\n(a) until 29 December 2025, 500 mg/kg;\n(b) from 30 December 2025 until 29 December 2027, 350 mg/kg, or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether;\n(c) from 30 December 2027, 200 mg/kg or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether.\nPentabromodiphenyl ether C12H5Br5O 32534-81-9\nand others 251-084-2\nand others\nHexabromodiphenyl ether C12H4Br6O 36483-60-0\nand others 253-058-6\nand others\nHeptabromodiphenyl ether C12H3Br7O 68928-80-3\nand others 273-031-2\nand others\nBis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O 1163-19-5\nand others 214-604-9\nand others\nPerfluorooctane sulfonic acid and its derivatives (PFOS) C8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) 1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others 217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others 50 mg/kg\nPolychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs) 5 μg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane) 50-29-3 200-024-3 50 mg/kg\nChlordane 57-74-9 200-349-0 50 mg/kg\nHexachlorocyclohexanes, including lindane 58-89-9\n319-84-6\n319-85-7\n608-73-1 210-168-9\n200-401-2\n206-270-8\n206-271-3 50 mg/kg\nDieldrin 60-57-1 200-484-5 50 mg/kg\nEndrin 72-20-8 200-775-7 50 mg/kg\nHeptachlor 76-44-8 200-962-3 50 mg/kg\nHexachlorobenzene 118-74-1 204-273-9 50 mg/kg\nChlordecone 143-50-0 205-601-3 50 mg/kg\nAldrin 309-00-2 206-215-8 50 mg/kg\nPentachlorobenzene 608-93-5 210-172-0 50 mg/kg\nPolychlorinated Biphenyls (PCB) 1336-36-3 and others 215-648-1 50 mg/kg\nMirex 2385-85-5 219-196-6 50 mg/kg\nToxaphene 8001-35-2 232-283-3 50 mg/kg\nHexabromobiphenyl 36355-01-8 252-994-2 50 mg/kg\nHexabromocyclododecane 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 247-148-4\n221-695-9 500 mg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value to not higher than 200 mg/kg.\nPentachlorophenol, its salts and esters 87-86-5 and others 201-778-6 and others 100 mg/kg\nDicofol 115-32-2 204-082-0 50 mg/kg\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I 335-67-1 and others 206-397-9 and others 1 mg/kg (PFOA and its salts),\n40 mg/kg (sum of PFOA-related compounds)\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.\nPerfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds 355-46-4 and others 206-587-1 and others 1 mg/kg (PFHxS and its salts),\n40 mg/kg (sum of PFHxS-related compounds)\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.",
+        "previous_location": null,
+        "changed_within": [
+          "AN IV"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2457",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2457 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (6) (a); AR 004 (6) (b); AR 004 (6) (c); AR 004 (6) (d); AR 004 (6) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32019R1021",
+      "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+    },
+    "from_version": "02019R1021-20251203",
+    "to_version": "02019R1021-20260101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 13",
+          "AR 15",
+          "AR 18",
+          "AR 21b",
+          "AN IV"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 13",
+          "AR 15",
+          "AR 18",
+          "AR 21b",
+          "AN IV"
+        ],
+        "note": "9 annotations in (2025-12-03, 2026-01-01]",
+        "claims": [
+          {
+            "location": "AR 15 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 2 FR 1",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN IV TAB 1 TXT",
+            "change_type": "INSERTED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 8 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 8 PA 1 PTA (i)",
+            "change_type": "INSERTED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 3 FR 1",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 13 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 21b",
+            "change_type": "INSERTED",
+            "in_force": "2026-01-01",
+            "source": "32025R2457 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 13",
+          "AR 15",
+          "AR 18",
+          "AR 21b",
+          "AN IV"
+        ],
+        "note": "32025R2457, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 8 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 8 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 13 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (4) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (4) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (4) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 21b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (6) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (6) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (6) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (6) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN IV",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (6) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2457",
+              "display_name": "Regulation (EU) 2025/2457 of the European Parliament and of the Council of 26 November 2025 amending Regulations (EC) No 178/2002, (EC) No 401/2009, (EU) 2017/745 and (EU) 2019/1021 as regards the reattribution of scientific and technical tasks and improving cooperation among Union agencies in the area of chemicals (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 0,
+    "unavailable": 6,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 6,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
