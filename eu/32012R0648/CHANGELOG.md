@@ -10,6 +10,321 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20191218 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20190617` → `02012R0648-20191218`
+
+- **Act** `eu:32012R0648` · **In force** 2019-12-18 · **Detected** 2026-08-13
+- **Touched** 26 provisions — 26 substantive · 0 date-only · **24 disputed**
+- **Diff** 3 inserted · 23 modified · 0 deleted · 0 renumbered · 0 deferred · 99 unchanged
+- **Gate** 0 sentences quoted verbatim · 24 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20190617` · `v2` = `02012R0648-20191218`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 4a** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 6a** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 9** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 10** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38 — Transparency** · applies from: unchanged
+
+*within* `AR 38 PA 6`, `AR 38 PA 7` · *amended by* `32019R0834`
+
+The revised text adds a new paragraph 6 requiring a CCP to provide its clearing members with a simulation tool for determining, on a gross basis, the additional initial margin the CCP may require on a new transaction, accessible only on a secured basis and with non-binding results. [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_38)
+
+It also adds a new paragraph 7 requiring a CCP to give clearing members information on its initial margin models, covering the design and operation of the model, its key assumptions and limitations and the circumstances in which those assumptions cease to be valid, and requiring that information to be documented. [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_38)
+
+Paragraphs 1 through 5 remain textually the same between the two versions. [Art. 38, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_38) [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_38)
+
+*before* (`02012R0648-20190617`)
+
+> Article 38
+> Transparency
+> 1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.
+> A CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.
+> 2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.
+> 3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.
+> A CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.
+> 4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.
+> 5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, consi […truncated by emendrix: 208 characters omitted…]
+
+*after* (`02012R0648-20191218`)
+
+> Article 38
+> Transparency
+> 1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.
+> A CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.
+> 2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.
+> 3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.
+> A CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.
+> 4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.
+> 5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, consi […truncated by emendrix: 924 characters omitted…]
+
+**MODIFIED · Art. 39 — Segregation and portability** · applies from: unchanged
+
+*within* `AR 39 PA 11` · *amended by* `32019R0834`
+
+A new paragraph 11 has been added stating that Member States' national insolvency laws shall not prevent a CCP from acting in accordance with Article 48(5), (6) and (7) with regard to the assets and positions recorded in accounts referred to in paragraphs 2 to 5 of Article 39. [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_39)
+
+All other paragraphs of Article 39, covering segregation, disclosure, right of use and the definition of assets, remain unchanged between the two versions. [Art. 39, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_39) [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_39)
+
+*before* (`02012R0648-20190617`)
+
+> Article 39
+> Segregation and portability
+> 1. A CCP shall keep separate records and accounts that shall enable it, at any time and without delay, to distinguish in accounts with the CCP the assets and positions held for the account of one clearing member from the assets and positions held for the account of any other clearing member and from its own assets.
+> 2. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the accounts of its clients (omnibus client segregation).
+> 3. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients (individual client segregation). Upon request, the CCP shall offer clearing members the possibility to open more accounts in their own name or for the account of their clients.
+> 4. A clearing member shall keep separate records and accounts that enable it to distinguish both in accounts held with the CCP and in its own accounts its assets and positions from the assets and positions held for the account of its clients at the CCP.
+> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2055 characters omitted…]
+
+*after* (`02012R0648-20191218`)
+
+> Article 39
+> Segregation and portability
+> 1. A CCP shall keep separate records and accounts that shall enable it, at any time and without delay, to distinguish in accounts with the CCP the assets and positions held for the account of one clearing member from the assets and positions held for the account of any other clearing member and from its own assets.
+> 2. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the accounts of its clients (omnibus client segregation).
+> 3. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients (individual client segregation). Upon request, the CCP shall offer clearing members the possibility to open more accounts in their own name or for the account of their clients.
+> 4. A clearing member shall keep separate records and accounts that enable it to distinguish both in accounts held with the CCP and in its own accounts its assets and positions from the assets and positions held for the account of its clients at the CCP.
+> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2295 characters omitted…]
+
+**MODIFIED · Art. 56** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 62** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 63** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 65** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 67** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 72** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 76a** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 78** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 80** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 82** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 85** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 86** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 89** · applies from: unknown
+
+*amended by* `32019R0834`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20191218 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20190617 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20190101` → `02012R0648-20190617`
