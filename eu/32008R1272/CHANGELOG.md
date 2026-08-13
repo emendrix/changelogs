@@ -10,6 +10,161 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20190726 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20181201` → `02008R1272-20190726`
+
+- **Act** `eu:32008R1272` · **In force** 2019-07-26 · **Detected** 2026-08-13
+- **Touched** 7 provisions — 7 substantive · 0 date-only · **7 disputed**
+- **Diff** 3 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
+- **Gate** 0 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20181201` · `v2` = `02008R1272-20190726`
+
+---
+
+**MODIFIED · Art. 37 — Procedure for harmonisation of classification and labelling of substances** · applies from: unchanged
+
+*within* `AR 37 PA 5 ALN 1`, `AR 37 PA 5 ALN 2`, `AR 37 PA 5 ALN 3` · *amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20181201`)
+
+> Article 37
+> Procedure for harmonisation of classification and labelling of substances
+> 1. A competent authority may submit to the Agency a proposal for harmonised classification and labelling of substances and, where appropriate, specific concentration limits or M-factors, or a proposal for a revision thereof.
+> The proposal shall follow the format set out in Part 2 of Annex VI and contain the relevant information provided for in Part 1 of Annex VI.
+> 2. A manufacturer, importer or downstream user of a substance may submit to the Agency a proposal for harmonised classification and labelling of that substance and, where appropriate, specific concentration limits or M-factors, provided that there is no entry in Part 3 of Annex VI for such a substance in relation to the hazard class or differentiation covered by that proposal.
+> The proposal shall be drawn up in accordance with the relevant Parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006 and it shall follow the format set out in Part B of the Chemical Safety Report of section 7 of that Annex. It shall contain the relevant information provided for in Part 1 of Annex VI to this Regulation. Article 111 of Regulation (EC) No 1907/2006 shall apply.
+> 3. Where the proposal of the manufacturer, importer or downstream user concerns the harmonised classification and labelling of a substance in accordance with Article 36(3), it shall be accompanied by the fee determined by the Commission in accordance with the regulatory pro […truncated by emendrix: 1619 characters omitted…]
+
+*after* (`02008R1272-20190726`)
+
+> Article 37
+> Procedure for harmonisation of classification and labelling of substances
+> 1. A competent authority may submit to the Agency a proposal for harmonised classification and labelling of substances and, where appropriate, specific concentration limits or M-factors, or a proposal for a revision thereof.
+> The proposal shall follow the format set out in Part 2 of Annex VI and contain the relevant information provided for in Part 1 of Annex VI.
+> 2. A manufacturer, importer or downstream user of a substance may submit to the Agency a proposal for harmonised classification and labelling of that substance and, where appropriate, specific concentration limits or M-factors, provided that there is no entry in Part 3 of Annex VI for such a substance in relation to the hazard class or differentiation covered by that proposal.
+> The proposal shall be drawn up in accordance with the relevant Parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006 and it shall follow the format set out in Part B of the Chemical Safety Report of section 7 of that Annex. It shall contain the relevant information provided for in Part 1 of Annex VI to this Regulation. Article 111 of Regulation (EC) No 1907/2006 shall apply.
+> 3. Where the proposal of the manufacturer, importer or downstream user concerns the harmonised classification and labelling of a substance in accordance with Article 36(3), it shall be accompanied by the fee determined by the Commission in accordance with the regulatory pro […truncated by emendrix: 1583 characters omitted…]
+
+**MODIFIED · Art. 45 — Appointment of bodies responsible for receiving information relating to emergency health response** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 45 PA 4 ALN 1` · *dates* -2012-01-20 · *amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20181201`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving information relevant, in particular, for formulating preventative and curative measures, in particular in the event of emergency health response, from importers and downstream users placing mixtures on the market. This information shall include the chemical composition of mixtures placed on the market and classified as hazardous on the basis of their health or physical effects, including the chemical identity of substances in mixtures for which a request for use of an alternative chemical name has been accepted by the Agency, in accordance with Article 24.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;
+> and
+> (b) where requested by the Member State, to undertake statistical analysis to identify where improved risk management measures may be needed.
+> The information shall not be used for other purposes.
+> 3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.
+> 4. By 20 January 2012 the Commission shall carry out a review to a […truncated by emendrix: 649 characters omitted…]
+
+*after* (`02008R1272-20190726`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving information relevant, in particular, for formulating preventative and curative measures, in particular in the event of emergency health response, from importers and downstream users placing mixtures on the market. This information shall include the chemical composition of mixtures placed on the market and classified as hazardous on the basis of their health or physical effects, including the chemical identity of substances in mixtures for which a request for use of an alternative chemical name has been accepted by the Agency, in accordance with Article 24.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;
+> and
+> (b) where requested by the Member State, to undertake statistical analysis to identify where improved risk management measures may be needed.
+> The information shall not be used for other purposes.
+> 3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.
+> 4. The Commission is empowered to adopt delegated acts in accordan […truncated by emendrix: 279 characters omitted…]
+
+**MODIFIED · Art. 53 — Adaptations to technical and scientific progress** · applies from: unchanged
+
+*within* `AR 53 PA 1 ALN 1`, `AR 53 PA 1 ALN 2` · *amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20181201`)
+
+> Article 53
+> Adaptations to technical and scientific progress
+> 1. The Commission may adjust and adapt Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29 and 35(2) second and third subparagraph and Annexes I to VII to technical and scientific progress, including taking due account of the further development of the GHS, in particular any UN amendments relating to the use of information on similar mixtures, and considering the developments in internationally recognised chemical programmes and of the data from accident databases. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 54(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 54(4).
+> 2. Member States and the Commission shall, in the manner appropriate to their role in the relevant UN fora, promote the harmonisation of the criteria for classification and labelling of persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) substances at the level of the UN.
+
+*after* (`02008R1272-20190726`)
+
+> Article 53
+> Adaptations to technical and scientific progress
+> 1. The Commission is empowered to adopt delegated acts in accordance with Article 53a amending Article 6(5), Article 11(3), Articles 12 and 14, point (b) of Article 18(3), Article 23, Articles 25 to 29, the second and third subparagraphs of Article 35(2) and Annexes I to VIII in order to adapt them to technical and scientific progress, taking due account of the further development of the GHS, in particular any UN amendments relating to the use of information on similar mixtures, and considering the developments in internationally recognised chemical programmes and of the data from accident databases.
+> Where imperative grounds of urgency so require, the procedure provided for in Article 53b shall apply to delegated acts adopted pursuant to this paragraph.
+> 2. Member States and the Commission shall, in the manner appropriate to their role in the relevant UN fora, promote the harmonisation of the criteria for classification and labelling of persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) substances at the level of the UN.
+
+**INSERTED · Art. 53a — Exercise of the delegation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02008R1272-20190726`)
+
+> Article 53a
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 37(5), Article 45(4) and Article 53(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegation of power referred to in Articles 37(5), Article 45(4) and Article 53(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-MakingOJ L 123, 12.5.2016, p. 1..
+> 5. As soon as it adopts a delegated act, the Commission shall […truncated by emendrix: 624 characters omitted…]
+
+**INSERTED · Art. 53b — Urgency procedure** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02008R1272-20190726`)
+
+> Article 53b
+> Urgency procedure
+> 1. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+> 2. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 53a(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+**INSERTED · Art. 53c — Separate delegated acts for different delegated powers** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R1243`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02008R1272-20190726`)
+
+> Article 53c
+> Separate delegated acts for different delegated powers
+> The Commission shall adopt a separate delegated act in respect of each power delegated to it pursuant to this Regulation.
+
+**MODIFIED · Art. 54** · applies from: unknown
+
+*amended by* `32019R1243`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20190726 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20181201 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20180301` → `02008R1272-20181201`

@@ -1,0 +1,830 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32008R1272",
+    "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+  },
+  "from_version": "02008R1272-20181201",
+  "to_version": "02008R1272-20190726",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2019-07-26"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 3,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 66,
+    "disputed": 7
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 7,
+    "quoted": 0,
+    "unexplained": 7
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 37"
+        },
+        "heading": "Procedure for harmonisation of classification and labelling of substances",
+        "before": "Article 37\nProcedure for harmonisation of classification and labelling of substances\n1. A competent authority may submit to the Agency a proposal for harmonised classification and labelling of substances and, where appropriate, specific concentration limits or M-factors, or a proposal for a revision thereof.\nThe proposal shall follow the format set out in Part 2 of Annex VI and contain the relevant information provided for in Part 1 of Annex VI.\n2. A manufacturer, importer or downstream user of a substance may submit to the Agency a proposal for harmonised classification and labelling of that substance and, where appropriate, specific concentration limits or M-factors, provided that there is no entry in Part 3 of Annex VI for such a substance in relation to the hazard class or differentiation covered by that proposal.\nThe proposal shall be drawn up in accordance with the relevant Parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006 and it shall follow the format set out in Part B of the Chemical Safety Report of section 7 of that Annex. It shall contain the relevant information provided for in Part 1 of Annex VI to this Regulation. Article 111 of Regulation (EC) No 1907/2006 shall apply.\n3. Where the proposal of the manufacturer, importer or downstream user concerns the harmonised classification and labelling of a substance in accordance with Article 36(3), it shall be accompanied by the fee determined by the Commission in accordance with the regulatory procedure referred to in Article 54(2).\n4. The Committee for Risk Assessment of the Agency set up pursuant to Article 76(1)(c) of Regulation (EC) No 1907/2006 shall adopt an opinion on any proposal submitted pursuant to paragraphs 1 or 2 within 18 months of receipt of the proposal, giving the parties concerned the opportunity to comment. The Agency shall forward this opinion and any comments to the Commission.\n5. Where the Commission finds that the harmonisation of the classification and labelling of the substance concerned is appropriate, it shall, without undue delay, submit a draft decision concerning the inclusion of that substance together with the relevant classification and labelling elements in Table 3.1 of Part 3 of Annex VI and, where appropriate, the specific concentration limits or M-factors.\nA corresponding entry shall be included in Table 3.2 of Part 3 of Annex VI subject to the same conditions, until 31 May 2015.\nThat measure, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 54(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 54(4).\n6. Manufacturers, importers and downstream users who have new information which may lead to a change of the harmonised classification and labelling elements of a substance in Part 3 of Annex VI shall submit a proposal in accordance with the second subparagraph of paragraph 2 to the competent authority in one of the Member States in which the substance is placed on the market.",
+        "after": "Article 37\nProcedure for harmonisation of classification and labelling of substances\n1. A competent authority may submit to the Agency a proposal for harmonised classification and labelling of substances and, where appropriate, specific concentration limits or M-factors, or a proposal for a revision thereof.\nThe proposal shall follow the format set out in Part 2 of Annex VI and contain the relevant information provided for in Part 1 of Annex VI.\n2. A manufacturer, importer or downstream user of a substance may submit to the Agency a proposal for harmonised classification and labelling of that substance and, where appropriate, specific concentration limits or M-factors, provided that there is no entry in Part 3 of Annex VI for such a substance in relation to the hazard class or differentiation covered by that proposal.\nThe proposal shall be drawn up in accordance with the relevant Parts of sections 1, 2 and 3 of Annex I to Regulation (EC) No 1907/2006 and it shall follow the format set out in Part B of the Chemical Safety Report of section 7 of that Annex. It shall contain the relevant information provided for in Part 1 of Annex VI to this Regulation. Article 111 of Regulation (EC) No 1907/2006 shall apply.\n3. Where the proposal of the manufacturer, importer or downstream user concerns the harmonised classification and labelling of a substance in accordance with Article 36(3), it shall be accompanied by the fee determined by the Commission in accordance with the regulatory procedure referred to in Article 54(2).\n4. The Committee for Risk Assessment of the Agency set up pursuant to Article 76(1)(c) of Regulation (EC) No 1907/2006 shall adopt an opinion on any proposal submitted pursuant to paragraphs 1 or 2 within 18 months of receipt of the proposal, giving the parties concerned the opportunity to comment. The Agency shall forward this opinion and any comments to the Commission.\n5. The Commission shall without undue delay adopt delegated acts in accordance with Article 53a, where it finds that the harmonisation of the classification and labelling of the substance concerned is appropriate, to amend Annex VI by inclusion of that substance together with the relevant classification and labelling elements in Table 3.1 of Part 3 of Annex VI and, where appropriate, the specific concentration limits or M-factors.\nA corresponding entry shall be included in Table 3.2 of Part 3 of Annex VI subject to the same conditions, until 31 May 2015.\nWhere, in the case of harmonisation of classification and labelling of substances, imperative grounds of urgency so require, the procedure provided for in Article 53b shall apply to delegated acts adopted pursuant to this paragraph.\n6. Manufacturers, importers and downstream users who have new information which may lead to a change of the harmonised classification and labelling elements of a substance in Part 3 of Annex VI shall submit a proposal in accordance with the second subparagraph of paragraph 2 to the competent authority in one of the Member States in which the substance is placed on the market.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 37 PA 5 ALN 1",
+          "AR 37 PA 5 ALN 2",
+          "AR 37 PA 5 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 45"
+        },
+        "heading": "Appointment of bodies responsible for receiving information relating to emergency health response",
+        "before": "Article 45\nAppointment of bodies responsible for receiving information relating to emergency health response\n1. Member States shall appoint a body or bodies responsible for receiving information relevant, in particular, for formulating preventative and curative measures, in particular in the event of emergency health response, from importers and downstream users placing mixtures on the market. This information shall include the chemical composition of mixtures placed on the market and classified as hazardous on the basis of their health or physical effects, including the chemical identity of substances in mixtures for which a request for use of an alternative chemical name has been accepted by the Agency, in accordance with Article 24.\n2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:\n(a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;\nand\n(b) where requested by the Member State, to undertake statistical analysis to identify where improved risk management measures may be needed.\nThe information shall not be used for other purposes.\n3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.\n4. By 20 January 2012 the Commission shall carry out a review to assess the possibility of harmonising the information referred to in paragraph 1, including establishing a format for the submission of information by importers and downstream users to appointed bodies. On the basis of this review, and following consultation with relevant stakeholders such as the European Association of Poison Centres and Clinical Toxicologists (EAPCCT), the Commission may adopt a Regulation adding an Annex to this Regulation.\nThose measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 54(3).",
+        "after": "Article 45\nAppointment of bodies responsible for receiving information relating to emergency health response\n1. Member States shall appoint a body or bodies responsible for receiving information relevant, in particular, for formulating preventative and curative measures, in particular in the event of emergency health response, from importers and downstream users placing mixtures on the market. This information shall include the chemical composition of mixtures placed on the market and classified as hazardous on the basis of their health or physical effects, including the chemical identity of substances in mixtures for which a request for use of an alternative chemical name has been accepted by the Agency, in accordance with Article 24.\n2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:\n(a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;\nand\n(b) where requested by the Member State, to undertake statistical analysis to identify where improved risk management measures may be needed.\nThe information shall not be used for other purposes.\n3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.\n4. The Commission is empowered to adopt delegated acts in accordance with Article 53a amending Annex VIII to further harmonise the information relating to emergency health response and preventative measures, following consultation with relevant stakeholders such as the European Association of Poison Centres and Clinical Toxicologists (EAPCCT).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 45 PA 4 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2012-01-20"
+        ],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 53"
+        },
+        "heading": "Adaptations to technical and scientific progress",
+        "before": "Article 53\nAdaptations to technical and scientific progress\n1. The Commission may adjust and adapt Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29 and 35(2) second and third subparagraph and Annexes I to VII to technical and scientific progress, including taking due account of the further development of the GHS, in particular any UN amendments relating to the use of information on similar mixtures, and considering the developments in internationally recognised chemical programmes and of the data from accident databases. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 54(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 54(4).\n2. Member States and the Commission shall, in the manner appropriate to their role in the relevant UN fora, promote the harmonisation of the criteria for classification and labelling of persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) substances at the level of the UN.",
+        "after": "Article 53\nAdaptations to technical and scientific progress\n1. The Commission is empowered to adopt delegated acts in accordance with Article 53a amending Article 6(5), Article 11(3), Articles 12 and 14, point (b) of Article 18(3), Article 23, Articles 25 to 29, the second and third subparagraphs of Article 35(2) and Annexes I to VIII in order to adapt them to technical and scientific progress, taking due account of the further development of the GHS, in particular any UN amendments relating to the use of information on similar mixtures, and considering the developments in internationally recognised chemical programmes and of the data from accident databases.\nWhere imperative grounds of urgency so require, the procedure provided for in Article 53b shall apply to delegated acts adopted pursuant to this paragraph.\n2. Member States and the Commission shall, in the manner appropriate to their role in the relevant UN fora, promote the harmonisation of the criteria for classification and labelling of persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) substances at the level of the UN.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 53 PA 1 ALN 1",
+          "AR 53 PA 1 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 53a"
+        },
+        "heading": "Exercise of the delegation",
+        "before": null,
+        "after": "Article 53a\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 37(5), Article 45(4) and Article 53(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 37(5), Article 45(4) and Article 53(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-MakingOJ L 123, 12.5.2016, p. 1..\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 37(5), Article 45(4) and Article 53(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 53b"
+        },
+        "heading": "Urgency procedure",
+        "before": null,
+        "after": "Article 53b\nUrgency procedure\n1. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.\n2. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 53a(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 53c"
+        },
+        "heading": "Separate delegated acts for different delegated powers",
+        "before": null,
+        "after": "Article 53c\nSeparate delegated acts for different delegated powers\nThe Commission shall adopt a separate delegated act in respect of each power delegated to it pursuant to this Regulation.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R1272",
+            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+          },
+          "version": "02008R1272-20190726",
+          "location": "AR 54"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1243",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-26",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1243 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1243, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32008R1272",
+      "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+    },
+    "from_version": "02008R1272-20181201",
+    "to_version": "02008R1272-20190726",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 37",
+          "AR 45",
+          "AR 53",
+          "AR 53a",
+          "AR 53b",
+          "AR 53c"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 37",
+          "AR 45",
+          "AR 53",
+          "AR 53a",
+          "AR 53b",
+          "AR 53c",
+          "AR 54"
+        ],
+        "note": "8 annotations in (2018-12-01, 2019-07-26]",
+        "claims": [
+          {
+            "location": "AR 54 PA 4",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 54 PA 3",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 37 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 45 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 53b",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 53a",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 53c",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 53 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2019-07-26",
+            "source": "32019R1243 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1243",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32019R1243, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 7,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1": 0.923076923076923,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 7,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 37",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 45",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 53",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 53a",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 53b",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 53c",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 54",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 54"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 0,
+    "unavailable": 7,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 7,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
