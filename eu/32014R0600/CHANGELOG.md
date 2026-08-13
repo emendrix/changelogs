@@ -10,6 +10,102 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20200326 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20160701` → `02014R0600-20200326`
+
+- **Act** `eu:32014R0600` · **In force** 2020-03-26 · **Detected** 2026-08-13
+- **Touched** 8 provisions — 8 substantive · 0 date-only · **7 disputed**
+- **Diff** 1 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20160701` · `v2` = `02014R0600-20200326`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 17a — Tick sizes** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2033`
+
+*No explanation shipped — ModelAPIError: Connection error..*
+
+*after* (`02014R0600-20200326`)
+
+> Article 17a
+> Tick sizes
+> Systematic internalisers’ quotes, price improvements on those quotes and execution prices shall comply with tick sizes set in accordance with Article 49 of Directive 2014/65/EU.
+> Application of tick sizes shall not prevent systematic internalisers matching orders large in scale at mid‐point within the current bid and offer prices.
+
+**MODIFIED · Art. 46** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 49** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 52** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 54** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · TIS III** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20200326 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20160701 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20140702` → `02014R0600-20160701`
