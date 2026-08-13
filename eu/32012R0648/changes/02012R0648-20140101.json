@@ -1,0 +1,1007 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "32012R0648",
+  "to_version": "02012R0648-20140101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2013-11-08",
+    "2014-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 4,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 9,
+    "unchanged_units": 91,
+    "disputed": 8
+  },
+  "counts": {
+    "touched": 9,
+    "substantive": 9,
+    "date_only": 0,
+    "disputed": 8,
+    "quoted": 0,
+    "unexplained": 3
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter and scope",
+        "before": "Article 1\nSubject matter and scope\n1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.\n2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.\n3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.\n4. This Regulation shall not apply to:\n(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;\n(b) the Bank for International Settlements.\n5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:\n(a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;\n(b) public sector entities within the meaning of point (18) of Article 4 of Directive 2006/48/EC where they are owned by central governments and have explicit guarantee arrangements provided by central governments;\n(c) the European Financial Stability Facility and the European Stability Mechanism.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.\nTo that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.\nThe report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.",
+        "after": "Article 1\nSubject matter and scope\n1.\nThis Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.\n\n2.\nThis Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.\n3.\nTitle V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.\n4.\nThis Regulation shall not apply to:\n\n(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;\n\n(b) the Bank for International Settlements;\n\n\n(c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:\n\n(i) Japan;\n\n(ii) United States of America.\n\n5.\nWith the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:\n\n(a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;\n\n(b) public sector entities within the meaning of point (18) of Article 4 of Directive 2006/48/EC where they are owned by central governments and have explicit guarantee arrangements provided by central governments;\n\n(c) the European Financial Stability Facility and the European Stability Mechanism.\n6.\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.\nTo that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.\n\nThe report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 4 ALN 1 PTA (b)",
+          "AR 1 PA 4 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of entities to which the Regulation does not apply in Article 1(4) now includes a new point (c) naming the central banks and public bodies charged with or intervening in the management of the public debt of Japan and the United States of America, whereas the earlier version's list ended with the Bank for International Settlements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "32012R0648",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0648#art_1",
+              "label": "Art. 1, 32012R0648"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_1",
+              "label": "Art. 1, 02012R0648-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 1.4"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1002",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2013-11-08",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R1002 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 11.5"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0575 SU",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 50a"
+        },
+        "heading": "Calculation of K CCP",
+        "before": null,
+        "after": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This provision, Article 50a on the calculation of K CCP, is newly added and sets out a formula and methodology for a CCP to calculate hypothetical capital for the purposes of Article 308 of Regulation (EU) No 575/2013.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a",
+              "label": "Art. 50a, 02012R0648-20140101"
+            }
+          ]
+        },
+        {
+          "text": "It specifies the inputs to the formula, requires the calculation to be performed at least quarterly or more often if required by competent authorities of clearing members that are institutions, and directs EBA to develop implementing technical standards on the frequency, dates, and situations requiring higher-frequency calculation, to be submitted to the Commission by 1 January 2014.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a",
+              "label": "Art. 50a, 02012R0648-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 50b"
+        },
+        "heading": "General rules for the calculation of K CCP",
+        "before": null,
+        "after": "Article 50b\nGeneral rules for the calculation of KCCP\nFor the purposes of the calculation laid down in Article 50a(2), the following shall apply:\n\n(a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:\n\n(i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;\n\n(ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;\n\n(iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;\n\n(b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;\n\n(c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervisory volatility adjustments in accordance with the Financial Collateral Comprehensive Method specified in Article 224 of Regulation (EU) No 575/2013;\n\n(e) where a CCP has exposures to one or more CCPs it shall treat any such exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of KCCP;\n\n\n(f) where a CCP has in place a binding contractual arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the CCP shall consider that initial margin as prefunded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;\n\n(h) when applying the Mark-to-Market Method as set out in Article 274 of Regulation (EU) No 575/2013, a CCP shall replace the formula in point (c)(ii) of Article 298(1) of that Regulation with the following:\nPCEred = 0.15 · PCEgross + 0.85 · NGR · PCEgross\nwhere the numerator of NGR is calculated in accordance with Article 274(1) of that Regulation and just before the variation margin is actually exchanged at the end of the settlement period, and the denominator is gross replacement cost;\n\n(i) where a CCP cannot calculate the value of NGR as set out in point (c)(ii) of Article 298(1) of Regulation (EU) No 575/2013, it shall:\n\n(i) notify those of its clearing members which are institutions and their competent authorities about its inability to calculate NGR and the reasons why it is unable to carry out the calculation;\n\n(ii) for a period of three months, it may use a value of NGR of 0,3 to perform the calculation of PCEred specified in point (h) of this Article;\n\n(j) where, at the end of the period specified in point (ii) of point (i), the CCP would still be unable to calculate the value of NGR, it shall do the following:\n\n(i) stop calculating KCCP;\n\n(ii) notify those of its clearing members which are institutions and their competent authorities that it has stopped calculating KCCP;\n\n(k) for the purpose of calculating the potential future exposure for options and swaptions in accordance with the Mark-to-Market Method specified in Article 274 of Regulation (EU) No 575/2013, a CCP shall multiply the notional amount of the contract by the absolute value of the option's delta (δV/ δp) as set out in point (a) of Article 280(1) of that Regulation;\n\n\n(l) where a CCP has more than one default fund, it shall carry out the calculation laid down in Article 50a(2) for each default fund separately.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Article 50b is entirely new text, setting out general rules a CCP follows to calculate the values used in the KCCP calculation under Article 50a(2), covering how exposures to clearing members and other CCPs are valued, how collateral and initial margin are treated, how the mark-to-market potential future exposure formula and its NGR component are applied, what happens if NGR cannot be calculated, and how options, swaptions and multiple default funds are handled.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b",
+              "label": "Art. 50b, 02012R0648-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 50c"
+        },
+        "heading": "Reporting of information",
+        "before": null,
+        "after": "Article 50c\nReporting of information\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013, a CCP shall report the following information to those of its clearing members which are institutions and to their competent authorities:\n\n(a) the hypothetical capital (KCCP);\n\n(b) the sum of pre-funded contributions (DFCM);\n\n(c) the amount of its pre-funded financial resources that it is required to use — by law or due to a contractual agreement with its clearing members — to cover its losses following the default of one or more of its clearing members before using the default fund contributions of the remaining clearing members (DFCCP);\n\n(d) the total number of its clearing members (N);\n\n(e) the concentration factor (β), as set out in Article 50d.\nWhere the CCP has more than one default fund, it shall report the information in the first subparagraph for each default fund separately.\n2.\nThe CCP shall notify those of its clearing members which are institutions at least quarterly or more frequently where required by the competent authorities of those clearing members.\n3.\nEBA shall develop draft implementing technical standards to specify the following:\n\n(a) the uniform template for the purpose of the reporting specified in paragraph 1;\n\n(b) the frequency and dates of the reporting specified in paragraph 2;\n\n(c) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of reporting than those referred to in point (b).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a new Article 50c that sets out reporting obligations for a CCP toward clearing members that are institutions and their competent authorities, listing specific items such as hypothetical capital, pre-funded contributions, the amount of pre-funded resources required to be used before other clearing members' default fund contributions, the total number of clearing members, and the concentration factor.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50c",
+              "label": "Art. 50c, 02012R0648-20140101"
+            }
+          ]
+        },
+        {
+          "text": "It also specifies a minimum quarterly notification frequency, with more frequent reporting possible where required by competent authorities, and directs EBA to develop implementing technical standards on the reporting template, frequency and dates, and the circumstances allowing higher reporting frequency, to be submitted to the Commission by 1 January 2014.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50c",
+              "label": "Art. 50c, 02012R0648-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 50d"
+        },
+        "heading": "Calculation of specific items to be reported by the CCP",
+        "before": null,
+        "after": "Article 50d\nCalculation of specific items to be reported by the CCP\nFor the purposes of Article 50c, the following shall apply:\n\n(a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;\n\n(b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources DFCCPa to the total amount of pre-funded contributions (DF) as follows:\nDF = DFCCP + DFCM + DFCCPa.\n\n(c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:\nβ = PCEred,1 + PCEred,2ΣiPCEred,i\nwhere:\n\nPCEred,i\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;\nPCEred,1\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value;\nPCEred,2\nthe reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the second largest PCEred value.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Article 50d is entirely new text, setting out rules for calculating specific items a CCP must report under Article 50c, covering how a CCP treats financial resources used in parallel to or after depletion of clearing members' pre-funded contributions, and how it must calculate a concentration factor using potential future credit exposure figures for its clearing members.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 50d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d",
+              "label": "Art. 50d, 02012R0648-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "AR 89"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 89\nTransitional provisions\n1. For three years after the entry into force of this Regulation, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.\nThe OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.\n2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements complies with Article 2(10)(c) or (d) and that they encounter difficulties in meeting the variation margin requirements. The competent authority shall adopt a decision within ten working days of receipt of ESMA’s opinion, taking due account of that opinion. If the competent authority does not agree with ESMA’s opinion, it shall give full reasons in its decision and shall explain any significant deviation therefrom.\nESMA shall publish on its website a list of types of entities and types of arrangements referred to in Article 2(10)(c) and (d) which has been granted an exemption in accordance with the first subparagraph. To further strengthen consistency in supervisory outcomes, ESMA shall conduct a peer review of the entities included on the list every year in accordance with Article 30 of Regulation (EU) No 1095/2010.\n3. A CCP that has been authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards under Articles 4, 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 are adopted by the Commission, shall apply for authorisation under Article 14 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\nA CCP established in a third country, which has been recognised to provide clearing services in a Member State in accordance with the national law of that Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 are adopted by the Commission, shall apply for recognition under Article 25 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\n4. Until a decision is made under this Regulation on the authorisation or recognition of a CCP, the respective national rules on authorisation and recognition of CCPs shall continue to apply and the CCP shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n5. Where a competent authority authorised a CCP to clear a given class of derivatives in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that authorisation within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\nWhere a competent authority recognised a CCP established in a third country to provide clearing services in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that recognition within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\n6. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for registration under Article 55 within six months of the date of entry into force of those regulatory and implementing technical standards.\nA trade repository established in a third country, which is allowed to collect and maintain the records of derivatives in a Member State in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for recognition under Article 77 within six months of the date of entry into force of those regulatory and implementing technical standards.\n7. Until a decision is made under this Regulation on the registration or recognition of a trade repository, the respective national rules on authorisation, registration and recognition of trade repositories shall continue to apply and the trade repository shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n8. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the registration of the trade repository under this Regulation.\nA trade repository established in a third country which has been allowed to collect and maintain the records of derivatives in accordance with the national law of a Member State before all the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the recognition of the trade repository under this Regulation.\n9. Notwithstanding Article 81(3)(f), where no international agreement is in place between a third country and the Union as referred to in Article 75, a trade repository may make the necessary information available to the relevant authorities of that third country until 17 August 2013 provided that it notifies ESMA.",
+        "after": "Article 89\nTransitional provisions\n1.\nFor three years after the entry into force of this Regulation, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks directly relating to the financial solvency of pension scheme arrangements as defined in Article 2(10). The transitional period shall also apply to entities established for the purpose of providing compensation to members of pension scheme arrangements in case of a default.\nThe OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.\n2.\nIn relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements complies with Article 2(10)(c) or (d) and that they encounter difficulties in meeting the variation margin requirements. The competent authority shall adopt a decision within ten working days of receipt of ESMA’s opinion, taking due account of that opinion. If the competent authority does not agree with ESMA’s opinion, it shall give full reasons in its decision and shall explain any significant deviation therefrom.\nESMA shall publish on its website a list of types of entities and types of arrangements referred to in Article 2(10)(c) and (d) which has been granted an exemption in accordance with the first subparagraph. To further strengthen consistency in supervisory outcomes, ESMA shall conduct a peer review of the entities included on the list every year in accordance with Article 30 of Regulation (EU) No 1095/2010.\n\n3.\nA CCP that has been authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards under Articles 4, 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 are adopted by the Commission, shall apply for authorisation under Article 14 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\nA CCP established in a third country, which has been recognised to provide clearing services in a Member State in accordance with the national law of that Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 are adopted by the Commission, shall apply for recognition under Article 25 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49.\n4.\nUntil a decision is made under this Regulation on the authorisation or recognition of a CCP, the respective national rules on authorisation and recognition of CCPs shall continue to apply and the CCP shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n5.\nWhere a competent authority authorised a CCP to clear a given class of derivatives in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that authorisation within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\nWhere a competent authority recognised a CCP established in a third country to provide clearing services in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that recognition within one month of the date of entry into force of the regulatory technical standards under Article 5(1).\n\n\n5a.\nUntil 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 14 on the authorisation of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\nUntil 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 25 on the recognition of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.\n\nUntil the deadlines defined in the first two subparagraphs of this paragraph, and subject to the fourth subparagraph of this paragraph, where a CCP neither has a default fund nor has in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the information it is to report in accordance with Article 50c(1) shall include the total amount of initial margin it has received from its clearing members.\nThe deadlines referred to in the first and second subparagraphs of this paragraph may be extended by six months in accordance with a Commission implementing act adopted pursuant to Article 497(3) of Regulation (EU) No 575/2013.\n\n\n6.\nA trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for registration under Article 55 within six months of the date of entry into force of those regulatory and implementing technical standards.\nA trade repository established in a third country, which is allowed to collect and maintain the records of derivatives in a Member State in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for recognition under Article 77 within six months of the date of entry into force of those regulatory and implementing technical standards.\n7.\nUntil a decision is made under this Regulation on the registration or recognition of a trade repository, the respective national rules on authorisation, registration and recognition of trade repositories shall continue to apply and the trade repository shall continue to be supervised by the competent authority of its Member State of establishment or recognition.\n8.\nA trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the registration of the trade repository under this Regulation.\nA trade repository established in a third country which has been allowed to collect and maintain the records of derivatives in accordance with the national law of a Member State before all the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the recognition of the trade repository under this Regulation.\n\n9.\nNotwithstanding Article 81(3)(f), where no international agreement is in place between a third country and the Union as referred to in Article 75, a trade repository may make the necessary information available to the relevant authorities of that third country until 17 August 2013 provided that it notifies ESMA.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 89 PA 5a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0575 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 5a has been inserted, setting deadlines of 15 months after the entry into force of the latest relevant regulatory technical standards, or an earlier decision under Article 14 or Article 25, by which a CCP applies the treatment described in the third subparagraph of that paragraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_89",
+              "label": "Art. 89, 02012R0648-20140101"
+            }
+          ]
+        },
+        {
+          "text": "That new paragraph also specifies that, until those deadlines, a CCP without a default fund or without a binding arrangement to use clearing members' initial margin as pre-funded contributions reports the total amount of initial margin received from clearing members under Article 50c(1), and that the deadlines may be extended by six months through a Commission implementing act adopted under Article 497(3) of Regulation (EU) No 575/2013.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140101",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_89",
+              "label": "Art. 89, 02012R0648-20140101"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph 5a did not appear in the earlier version of Article 89.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "32012R0648",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0648#art_89",
+              "label": "Art. 89, 32012R0648"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20140101",
+          "location": "TIT IV"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0575 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "32012R0648",
+    "to_version": "02012R0648-20140101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 50a",
+          "AR 50b",
+          "AR 50c",
+          "AR 50d",
+          "AR 89"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1.4",
+          "AR 11.5",
+          "AR 89",
+          "TIT IV"
+        ],
+        "note": "4 annotations in (the act itself, 2014-01-01]",
+        "claims": [
+          {
+            "location": "AR 89 .5BI",
+            "change_type": "INSERTED",
+            "in_force": "2014-01-01",
+            "source": "32013R0575 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0575",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 11.5 PO B)",
+            "change_type": null,
+            "in_force": "2014-01-01",
+            "source": "32013R0575 SU",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0575",
+              "display_name": null
+            }
+          },
+          {
+            "location": "TIT IV CHA 4",
+            "change_type": "INSERTED",
+            "in_force": "2014-01-01",
+            "source": "32013R0575 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0575",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1.4 PO C)",
+            "change_type": "INSERTED",
+            "in_force": "2013-11-08",
+            "source": "32013R1002 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1002",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 4,
+        "shared": 1,
+        "precision": 0.16666666666666666,
+        "recall": 0.25,
+        "f1": 0.2,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 1.4",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 11.5",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": []
+      },
+      {
+        "unit": "AR 50a",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 50b",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 50c",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 50d",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "TIT IV",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1.4",
+      "AR 11.5",
+      "TIT IV"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 9,
+    "explained": 6,
+    "unavailable": 3,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 24153,
+      "output_tokens": 1551,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 9,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 3,
+    "retries": 0,
+    "sentences": 10,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
