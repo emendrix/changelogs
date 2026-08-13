@@ -1,0 +1,478 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0236",
+    "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+  },
+  "from_version": "02012R0236-20240109",
+  "to_version": "02012R0236-20240116",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-01-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 48,
+    "disputed": 3
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 3,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0236",
+            "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+          },
+          "version": "02012R0236-20240116",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2024-01-09, 2024-01-16]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0236",
+            "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+          },
+          "version": "02012R0236-20240116",
+          "location": "AR 15"
+        },
+        "heading": "Buy-in procedures",
+        "before": "Article 15\nBuy-in procedures\n1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:\n(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;\n(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and\n(c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).\n2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.\nThe daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.",
+        "after": "Article 15\nBuy-in procedures\n1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:\n(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;\n(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and\n(c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).\n2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.\nThe daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2845 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R2845, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0236",
+            "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+          },
+          "version": "02012R0236-20240116",
+          "location": "AR 15"
+        },
+        "heading": "Buy-in procedures",
+        "before": "Article 15\nBuy-in procedures\n1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:\n(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;\n(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and\n(c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).\n2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.\nThe daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.",
+        "after": "Article 15\nBuy-in procedures\nA central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:\n(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days of the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;\n(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure;\n(c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 15 ALN 1",
+          "AR 15 PA 1",
+          "AR 15 PA 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2845 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R2845, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision no longer contains a separate numbered paragraph 2 requiring daily payments from a person who fails to deliver shares by settlement date, nor the following sentence requiring those payments to be sufficiently high to act as a deterrent.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0236",
+                  "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+                },
+                "version": "02012R0236-20240109",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_15",
+              "label": "Art. 15, 02012R0236-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0236",
+                  "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+                },
+                "version": "02012R0236-20240116",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240116#art_15",
+              "label": "Art. 15, 02012R0236-20240116"
+            }
+          ]
+        },
+        {
+          "text": "The remaining text, previously labeled as paragraph 1, is no longer numbered and instead runs as the sole introductory statement before points (a) to (c), with the phrase \"within four business days after the day\" changed to \"within four business days of the day\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0236",
+                  "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+                },
+                "version": "02012R0236-20240109",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_15",
+              "label": "Art. 15, 02012R0236-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0236",
+                  "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+                },
+                "version": "02012R0236-20240116",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240116#art_15",
+              "label": "Art. 15, 02012R0236-20240116"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0236",
+      "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+    },
+    "from_version": "02012R0236-20240109",
+    "to_version": "02012R0236-20240116",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 15"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 15"
+        ],
+        "note": "1 annotations in (2024-01-09, 2024-01-16]",
+        "claims": [
+          {
+            "location": "AR 15",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-16",
+            "source": "32023R2845 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "32023R2845, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 2
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 15",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 15",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 2"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 1,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 1,
+    "usage": {
+      "input_tokens": 3103,
+      "output_tokens": 286,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

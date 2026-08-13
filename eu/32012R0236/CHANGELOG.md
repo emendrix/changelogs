@@ -10,6 +10,89 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0236-20240116 -->
+## Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain […]
+### `02012R0236-20240109` → `02012R0236-20240116`
+
+- **Act** `eu:32012R0236` · **In force** 2024-01-16 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0236-20240109` · `v2` = `02012R0236-20240116`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 15 — Buy-in procedures** · applies from: unchanged
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02012R0236-20240109`)
+
+> Article 15
+> Buy-in procedures
+> 1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:
+> (a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+> (b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and
+> (c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).
+> 2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.
+> The daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.
+
+*after* (`02012R0236-20240116`)
+
+> Article 15
+> Buy-in procedures
+> 1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:
+> (a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+> (b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and
+> (c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).
+> 2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.
+> The daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.
+
+**MODIFIED · Art. 15 — Buy-in procedures** · applies from: unchanged
+
+*within* `AR 15 ALN 1`, `AR 15 PA 1`, `AR 15 PA 2` · *amended by* `32023R2845`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The provision no longer contains a separate numbered paragraph 2 requiring daily payments from a person who fails to deliver shares by settlement date, nor the following sentence requiring those payments to be sufficiently high to act as a deterrent. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240116#art_15)
+
+The remaining text, previously labeled as paragraph 1, is no longer numbered and instead runs as the sole introductory statement before points (a) to (c), with the phrase "within four business days after the day" changed to "within four business days of the day". [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240116#art_15)
+
+*before* (`02012R0236-20240109`)
+
+> Article 15
+> Buy-in procedures
+> 1. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:
+> (a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+> (b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure; and
+> (c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).
+> 2. A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place, which ensure that where a natural or legal person who sells shares fails to deliver the shares for settlement by the date on which settlement is due, such person must make daily payments for each day that the failure continues.
+> The daily payments shall be sufficiently high to act as a deterrent to natural or legal persons failing to settle.
+
+*after* (`02012R0236-20240116`)
+
+> Article 15
+> Buy-in procedures
+> A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:
+> (a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days of the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+> (b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure;
+> (c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0236-20240116 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0236-20240109 -->
 ## Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain […]
 ### `02012R0236-20220131` → `02012R0236-20240109`
