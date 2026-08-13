@@ -10,6 +10,92 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20160112 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20140819` → `02010R1093-20160112`
+
+- **Act** `eu:32010R1093` · **In force** 2016-01-12 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20140819` · `v2` = `02010R1093-20160112`
+
+---
+
+**MODIFIED · Art. 1 — Establishment and scope of action** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 1 PA 2 ALN 1` · *dates* +2014-04-16 +2015-05-20 +2015-11-25 · *amended by* `32015L2366`
+
+Paragraph 2's list of acts within the Authority's scope of action was revised: references to Directive 94/19/EC and Regulation (EC) No 1781/2006 were removed, and Directive 2014/49/EU, Regulation (EU) 2015/847 and Directive (EU) 2015/2366 were added among the acts within the Authority's scope. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
+
+In the same paragraph, the reference to Directive 2005/60/EC among the acts applying to credit and financial institutions was replaced with a reference to Directive (EU) 2015/849, while Directive 2007/64/EC and Directive 2009/110/EC were removed from that clause, with Directive 2009/110/EC instead appearing earlier in the list of directly scoped acts. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
+
+*before* (`02010R1093-20140819`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC, Directive 2002/87/EC, Regulation (EC) No 1781/2006, Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1., Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firmsOJ L 176, 27.6.2013, p. 338. and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, Directive 2005/60/EC, Directive 2007/64/EC and Directive 2009/110/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..
+> 3. The Authority shall a […truncated by emendrix: 2167 characters omitted…]
+
+*after* (`02010R1093-20160112`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of, Directive 2002/87/EC, Directive 2009/110/EC, Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Regulation (EU) 2015/847 of the European Parliament and the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1)., Directive (EU) […truncated by emendrix: 3687 characters omitted…]
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unchanged
+
+*within* `AR 4 ALN 1 PO 1` · *amended by* `32015L2366`
+
+The definition of financial institutions in point (1) now cites credit institutions and investment firms by reference to points (1) and (2) of Article 4(1) of Regulation (EU) No 575/2013 instead of the earlier references to Directives 2006/48/EC and 2006/49/EC, and it adds payment service providers as defined in Directive (EU) 2015/2366 and electronic money institutions as defined in Directive 2009/110/EC to the list. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+
+The carve-out for financial institutions is now expressed by reference to Directive (EU) 2015/849 and its points (1) and (2) of Article 3, replacing the prior reference to Directive 2005/60/EC and its Article 3(1) and (2). [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+
+*before* (`02010R1093-20140819`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;
+> (2) competent authorities means:
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1364 characters omitted…]
+
+*after* (`02010R1093-20160112`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means credit institutions as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013, investment firms as defined in point (2) of Article 4(1) of Regulation (EU) No 575/2013, financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, payment service providers as defined in point (11) of Article 4 of Directive (EU) 2015/2366 and electronic money institutions as defined in point (1) of Article 2 of Directive 2009/110/EC, save that, with regard to Directive (EU) 2015/849, financial institutions means credit institutions and financial institutions as defined in points (1) and (2) of Article 3 of Directive (EU) 2015/849;
+> (2) competent authorities means:
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the Euro […truncated by emendrix: 1609 characters omitted…]
+
+**MODIFIED · Art. 110** · applies from: unknown
+
+*amended by* `32015L2366`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 113** · applies from: unknown
+
+*amended by* `32015L2366`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20160112 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140819 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20140702` → `02010R1093-20140819`
