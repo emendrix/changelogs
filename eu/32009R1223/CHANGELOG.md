@@ -10,6 +10,141 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20211001 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20210823` → `02009R1223-20211001`
+
+- **Act** `eu:32009R1223` · **In force** 2021-10-01 · **Detected** 2026-08-13
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Diff** 0 inserted · 4 modified · 1 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20210823` · `v2` = `02009R1223-20211001`
+
+---
+
+**DELETED · Art. 2** · applies from: unknown
+
+*amended by* `32021R0850`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN II` · *amended by* `32021R0850`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02009R1223-20210823`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
+> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market.
+> Referenc […truncated by emendrix: 164131 characters omitted…]
+
+*after* (`02009R1223-20211001`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
+> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market.
+> Referenc […truncated by emendrix: 165310 characters omitted…]
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
+
+*within* `AN III` · *amended by* `32021R0850`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02009R1223-20210823`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 165574 characters omitted…]
+
+*after* (`02009R1223-20211001`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 166058 characters omitted…]
+
+**MODIFIED · Annex IV — LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN IV` · *amended by* `32021R0850`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The entry for Titanium dioxide (No 143) now adds a second line covering titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less, with a cross-reference to Annex III, No 321. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
+
+The preamble note on UV-filter use also has minor wording changes, replacing 'UV-Filter' with 'UV filter' and removing a comma before the cross-reference to Annex VI, No 27. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
+
+*before* (`02009R1223-20210823`)
+
+> ANNEX IV
+> LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
+> For use as a UV-Filter, see Annex VI, No. 27.For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i j
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4- […truncated by emendrix: 20150 characters omitted…]
+
+*after* (`02009R1223-20211001`)
+
+> ANNEX IV
+> LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
+> For use as a UV filter, see Annex VI, No 27For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i j
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[( […truncated by emendrix: 20298 characters omitted…]
+
+**MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN VI` · *amended by* `32021R0850`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In entry 27 for Titanium Dioxide, the "Other" column has been changed from blank to a new statement noting that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321, and that for the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in the ready-for-use preparation given in column (g) of this entry applies. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_VI)
+
+The corresponding entry 27 in the earlier text contained no such wording in that column. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_VI)
+
+*before* (`02009R1223-20210823`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 6881 characters omitted…]
+
+*after* (`02009R1223-20211001`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 7205 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20211001 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20210823 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20210617` → `02009R1223-20210823`
