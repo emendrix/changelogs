@@ -10,6 +10,1276 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20130620 -->
+## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
+### `02009R1060-20110721` → `02009R1060-20130620`
+
+- **Act** `eu:32009R1060` · **In force** 2013-06-20 · **Detected** 2026-08-13
+- **Touched** 51 provisions — 51 substantive · 0 date-only · **47 disputed**
+- **Diff** 14 inserted · 37 modified · 0 deleted · 0 renumbered · 0 deferred · 40 unchanged
+- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Citations** `v1` = `02009R1060-20110721` · `v2` = `02009R1060-20130620`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter** · applies from: unchanged
+
+*within* `AR 1 ALN 1`, `AR 1 ALN 2` · *amended by* `32013R0462`
+
+The first sentence now refers to the independence of credit rating activities rather than their reliability, and refers to ratings issued in the Union rather than the Community, while also rephrasing the reference to the internal market and consumer and investor protection. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_1)
+
+The second sentence now extends the rules on organisation and conduct to shareholders and members of credit rating agencies, and adds the enhancement of consumer and investor protection as a further aim alongside independence and the avoidance of conflicts of interest. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_1)
+
+A new paragraph has been added stating that the Regulation also lays down obligations for issuers, originators and sponsors established in the Union regarding structured finance instruments. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_1)
+
+*before* (`02009R1060-20110721`)
+
+> Article 1
+> Subject matter
+> This Regulation introduces a common regulatory approach in order to enhance the integrity, transparency, responsibility, good governance and reliability of credit rating activities, contributing to the quality of credit ratings issued in the Community, thereby contributing to the smooth functioning of the internal market while achieving a high level of consumer and investor protection. It lays down conditions for the issuing of credit ratings and rules on the organisation and conduct of credit rating agencies to promote their independence and the avoidance of conflicts of interest.
+
+*after* (`02009R1060-20130620`)
+
+> Article 1
+> Subject matter
+> This Regulation introduces a common regulatory approach in order to enhance the integrity, transparency, responsibility, good governance and independence of credit rating activities, contributing to the quality of credit ratings issued in the Union and to the smooth functioning of the internal market, while achieving a high level of consumer and investor protection. It lays down conditions for the issuing of credit ratings and rules on the organisation and conduct of credit rating agencies, including their shareholders and members, to promote credit rating agencies’ independence, the avoidance of conflicts of interest, and the enhancement of consumer and investor protection.
+> This Regulation also lays down obligations for issuers, originators and sponsors established in the Union regarding structured finance instruments.
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 1 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The provision changes the wording describing where credit rating agencies are registered from 'the Community' to 'the Union'. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_2)
+
+*before* (`02009R1060-20110721`)
+
+> Article 2
+> Scope
+> 1.
+> This Regulation applies to credit ratings issued by credit rating agencies registered in the Community and which are disclosed publicly or distributed by subscription.
+> 2.
+> This Regulation does not apply to:
+>
+> (a) private credit ratings produced pursuant to an individual order and provided exclusively to the person who placed the order and which are not intended for public disclosure or distribution by subscription;
+>
+> (b) credit scores, credit scoring systems or similar assessments related to obligations arising from consumer, commercial or industrial relationships;
+>
+> (c) credit ratings produced by export credit agencies in accordance with point 1.3 of Part 1 of Annex VI to Directive 2006/48/EC; or
+>
+> (d) credit ratings produced by the central banks and which:
+>
+> (i) are not paid for by the rated entity;
+>
+> (ii) are not disclosed to the public;
+>
+> (iii) are issued in accordance with the principles, standards and procedures which ensure the adequate integrity and independence of credit rating activities as provided for by this Regulation; and
+>
+> (iv) do not relate to financial instruments issued by the respective central banks’ Member States.
+> 3.
+> A credit rating agency shall apply for registration under this Regulation as a condition for being recognised as an External Credit Assessment Institution (ECAI) in accordance with Part 2 of Annex VI to Directive 2006/48/EC, unless it only issues the credit ratings referred to in paragraph 2.
+> 4.
+> In order to ensure the uniform appli […truncated by emendrix: 523 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 2
+> Scope
+> 1. This Regulation applies to credit ratings issued by credit rating agencies registered in the Union and which are disclosed publicly or distributed by subscription.
+> 2. This Regulation does not apply to:
+> (a) private credit ratings produced pursuant to an individual order and provided exclusively to the person who placed the order and which are not intended for public disclosure or distribution by subscription;
+> (b) credit scores, credit scoring systems or similar assessments related to obligations arising from consumer, commercial or industrial relationships;
+> (c) credit ratings produced by export credit agencies in accordance with point 1.3 of Part 1 of Annex VI to Directive 2006/48/EC; or
+> (d) credit ratings produced by the central banks and which:
+> (i) are not paid for by the rated entity;
+> (ii) are not disclosed to the public;
+> (iii) are issued in accordance with the principles, standards and procedures which ensure the adequate integrity and independence of credit rating activities as provided for by this Regulation; and
+> (iv) do not relate to financial instruments issued by the respective central banks’ Member States.
+> 3. A credit rating agency shall apply for registration under this Regulation as a condition for being recognised as an External Credit Assessment Institution (ECAI) in accordance with Part 2 of Annex VI to Directive 2006/48/EC, unless it only issues the credit ratings referred to in paragraph 2.
+> 4. In order to ensure the uniform application of pa […truncated by emendrix: 511 characters omitted…]
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 3 PA 1 ALN 1 PTA (g)`, `AR 3 PA 1 ALN 1 PTA (m)`, `AR 3 PA 1 ALN 1 PTA (pa)`, `AR 3 PA 1 ALN 1 PTA (pb)`, `AR 3 PA 1 ALN 1 PTA (pc)`, `AR 3 PA 1 ALN 1 PTA (pd)`, `AR 3 PA 1 ALN 1 PTA (pe)`, `AR 3 PA 1 ALN 1 PTA (pf)`, `AR 3 PA 1 ALN 1 PTA (pg)`, `AR 3 PA 1 ALN 1 PTA (ph)`, `AR 3 PA 1 ALN 1 PTA (pi)`, `AR 3 PA 1 ALN 1 PTA (pj)`, `AR 3 PA 1 ALN 1 PTA (q)`, `AR 3 PA 1 ALN 1 PTA (r)`, `AR 3 PA 1 ALN 1 PTA (s)`, `AR 3 PA 1 ALN 1 PTA (t)`, `AR 3 PA 1 ALN 1 PTA (u)`, `AR 3 PA 1 ALN 1 PTA (v)`, `AR 3 PA 1 ALN 1 PTA (w)`, `AR 3 PA 1 ALN 1 PTA (x)`, `AR 3 PA 1 ALN 1 PTA (y)`, `AR 3 PA 1 ALN 1 PTA (z)`, `AR 3 PA 1 ALN 1 PTA (aa)`, `AR 3 PA 3` · *dates* +2005-10-26 +2009-07-13 +2009-11-25 +2011-06-08 +2012-07-04 · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The definition of regulatory purposes in point (g) now refers to compliance with Union law directly, or with Union law as implemented by national legislation, replacing the earlier reference to Community law as implemented by national legislation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_3)
+
+Point (m) now refers to a group of undertakings established in the Union rather than in the Community, and a series of new points (pa) through (pj) are added defining terms such as credit institution, investment firm, insurance undertaking, reinsurance undertaking, institution for occupational retirement provision, management company, investment company, alternative investment fund manager, central counterparty and prospectus, with points (q) and (r) updated to reference these new points and points (s) through (aa) added defining issuer, originator, sponsor, sovereign rating, rating outlook, unsolicited credit rating and unsolicited sovereign rating, credit score, regulated market and re-securitisation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
+
+A new paragraph 3 is added defining the term shareholder as including beneficial owners as defined in point (6) of Article 3 of Directive 2005/60/EC. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
+
+*before* (`02009R1060-20110721`)
+
+> Article 3
+> Definitions
+> 1.
+> For the purpose of this Regulation, the following definitions shall apply:
+>
+> (a) credit rating means an opinion regarding the creditworthiness of an entity, a debt or financial obligation, debt security, preferred share or other financial instrument, or of an issuer of such a debt or financial obligation, debt security, preferred share or other financial instrument, issued using an established and defined ranking system of rating categories;
+>
+> (b) credit rating agency means a legal person whose occupation includes the issuing of credit ratings on a professional basis;
+>
+> (c) home Member State means the Member State in which the credit rating agency has its registered office;
+>
+> (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
+>
+> (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
+>
+> (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
+>
+> (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3769 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 3
+> Definitions
+> 1. For the purpose of this Regulation, the following definitions shall apply:
+> (a) credit rating means an opinion regarding the creditworthiness of an entity, a debt or financial obligation, debt security, preferred share or other financial instrument, or of an issuer of such a debt or financial obligation, debt security, preferred share or other financial instrument, issued using an established and defined ranking system of rating categories;
+> (b) credit rating agency means a legal person whose occupation includes the issuing of credit ratings on a professional basis;
+> (c) home Member State means the Member State in which the credit rating agency has its registered office;
+> (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
+> (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
+> (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
+> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7835 characters omitted…]
+
+**MODIFIED · Art. 3.1** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 3.3** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 PA 1 ALN 1`, `AR 4 PA 1 ALN 2`, `AR 4 PA 2 ALN 1`, `AR 4 PA 3 ALN 1`, `AR 4 PA 3 ALN 1 PTA (b)`, `AR 4 PA 4 ALN 1` · *dates* -1973-07-24 -2002-11-05 -2005-11-16 -2009-07-13 -2011-06-08 · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The list of entities covered in paragraph 1 was rewritten from named categories with specific directive citations and dates into a shorter list of entity types (credit institutions, investment firms, insurance undertakings, reinsurance undertakings, institutions for occupational retirement provision, management companies, investment companies, alternative investment fund managers and central counterparties) without the earlier directive references and dates. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+
+References to the credit rating agency being established in the Community were changed to established in the Union throughout paragraphs 1 through 4, and the prospectus reference in paragraph 1 no longer cites Directive 2003/71/EC and Regulation (EC) No 809/2004. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+
+Paragraph 3(b) now adds that the stringency comparison also covers Annex I, while excluding Articles 6a, 6b, 8a, 8b, 8c and 11a, point (ba) of point 3, and points 3a and 3b of Section B of Annex I, which were not present before. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+
+*before* (`02009R1060-20110721`)
+
+> Article 4
+> Use of credit ratings
+>
+> 1.
+> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the take-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund ManagersOJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with […truncated by emendrix: 4564 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 4
+> Use of credit ratings
+> 1. Credit institutions, investment firms, insurance undertakings, reinsurance undertakings, institutions for occupational retirement provision, management companies, investment companies, alternative investment fund managers and central counterparties may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
+> Where a prospectus contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit ratings are issued by a credit rating agency established in the Union and registered under this Regulation.
+> 2. A credit rating agency established in the Union and registered in accordance with this Regulation shall be deemed to have issued a credit rating when the credit rating has been published on the credit rating agency’s website or by other means or distributed by subscription and presented and disclosed in accordance with the obligations of Article 10, clearly identifying that the credit rating is endorsed in accordance with paragraph 3 of this Article.
+> 3. A credit rating agency established in the Union and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting […truncated by emendrix: 3542 characters omitted…]
+
+**MODIFIED · Art. 4.1** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4.3** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5 — Equivalence and certification based on equivalence** · applies from: unchanged
+
+*within* `AR 5 PA 1 ALN 1`, `AR 5 PA 6 ALN 1 PTA (b)`, `AR 5 PA 8 ALN 1` · *amended by* `32013R0462`
+
+Paragraph 1 now refers to credit ratings being used in the Union rather than in the Community. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5)
+
+Paragraph 6(1)(b) now excludes a list of specific provisions, namely Articles 6a, 6b, 8a, 8b, 8c and 11a, point (ba) of point 3 and points 3a and 3b of Section B of Annex I, from the equivalence rules that a third country's legally binding requirements must match, whereas the earlier text made no such exclusion. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5)
+
+Paragraph 8 now names Article 23b alongside Articles 20 and 24 as applying to certified credit rating agencies, and states that these apply to agencies certified in accordance with Article 5(3), whereas the earlier text said Articles 20 and 24 applied mutatis mutandis to certified agencies under paragraph 1. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5)
+
+*before* (`02009R1060-20110721`)
+
+> Article 5
+> Equivalence and certification based on equivalence
+> 1.
+> The credit ratings that are related to entities established or financial instruments issued in third countries and that are issued by a credit rating agency established in a third country may be used in the Community under Article 4(1) without being endorsed in accordance with Article 4(3), provided that:
+>
+> (a) the credit rating agency is authorised or registered in and is subject to supervision in that third country;
+>
+> (b) the Commission has adopted an equivalence decision in accordance with paragraph 6 of this Article, recognising the legal and supervisory framework of that third country as equivalent to the requirements of this Regulation;
+>
+> (c) the cooperation arrangements referred to in paragraph 7 of this Article are operational;
+>
+> (d) the credit ratings issued by the credit rating agency and its credit rating activities are not of systemic importance to the financial stability or integrity of the financial markets of one or more Member States; and
+>
+> (e) the credit rating agency is certified in accordance with paragraph 2 of this Article.
+>
+> 2.
+> The credit rating agency referred to in paragraph 1 may apply for certification. The application shall be submitted to ESMA in accordance with the relevant provisions of Article 15.
+>
+>
+> 3.
+> ESMA shall examine and decide on the application for certification in accordance with the procedure set out in Article 16. The certification decision shall be based on the criteria set out […truncated by emendrix: 4323 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 5
+> Equivalence and certification based on equivalence
+> 1. The credit ratings that are related to entities established or financial instruments issued in third countries and that are issued by a credit rating agency established in a third country may be used in the Union under Article 4(1) without being endorsed in accordance with Article 4(3), provided that:
+> (a) the credit rating agency is authorised or registered in and is subject to supervision in that third country;
+> (b) the Commission has adopted an equivalence decision in accordance with paragraph 6 of this Article, recognising the legal and supervisory framework of that third country as equivalent to the requirements of this Regulation;
+> (c) the cooperation arrangements referred to in paragraph 7 of this Article are operational;
+> (d) the credit ratings issued by the credit rating agency and its credit rating activities are not of systemic importance to the financial stability or integrity of the financial markets of one or more Member States; and
+> (e) the credit rating agency is certified in accordance with paragraph 2 of this Article.
+> 2. The credit rating agency referred to in paragraph 1 may apply for certification. The application shall be submitted to ESMA in accordance with the relevant provisions of Article 15.
+> 3. ESMA shall examine and decide on the application for certification in accordance with the procedure set out in Article 16. The certification decision shall be based on the criteria set out in points (a […truncated by emendrix: 4444 characters omitted…]
+
+**MODIFIED · Art. 5.6** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5.8** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 5a — Over-reliance on credit ratings by financial institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 5a is added, requiring the entities referred to in the first subparagraph of Article 4(1) to make their own credit risk assessments and not rely solely or mechanistically on credit ratings when assessing the creditworthiness of an entity or financial instrument. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5a)
+
+It also directs sectoral competent authorities supervising those entities to monitor the adequacy of their credit risk assessment processes, assess the use of contractual references to credit ratings, and, where appropriate, encourage mitigation of such references, taking into account the nature, scale and complexity of the entities' activities and in line with specific sectoral legislation. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5a)
+
+*after* (`02009R1060-20130620`)
+
+> Article 5a
+> Over-reliance on credit ratings by financial institutions
+> 1. The entitites referred to in the first subparagraph of Article 4(1) shall make their own credit risk assessment and shall not solely or mechanistically rely on credit ratings for assessing the creditworthiness of an entity or financial instrument.
+> 2. Sectoral competent authorities in charge of supervising the entities referred to in the first subparagraph of Article 4(1) shall, taking into account the nature, scale and complexity of their activities, monitor the adequacy of their credit risk assessment processes, assess the use of contractual references to credit ratings and, where appropriate, encourage them to mitigate the impact of such references, with a view to reducing sole and mechanistic reliance on credit ratings, in line with specific sectoral legislation.
+
+**INSERTED · Art. 5b — Reliance on credit ratings by the European Supervisory Authorities and the European Systemic Risk Board** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 5b sets out that the EBA, EIOPA and ESMA are not to refer to credit ratings in their guidelines, recommendations and draft technical standards where such references could trigger sole or mechanistic reliance on those ratings by competent authorities, sectoral competent authorities, the entities referred to in Article 4(1) first subparagraph, or other financial market participants, and that by 31 December 2013 these three authorities are to review and, where appropriate, remove such references from existing guidelines and recommendations. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
+
+The same new article states that the European Systemic Risk Board is not to refer to credit ratings in its warnings and recommendations where such references could trigger sole or mechanistic reliance on credit ratings. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
+
+*after* (`02009R1060-20130620`)
+
+> Article 5b
+> Reliance on credit ratings by the European Supervisory Authorities and the European Systemic Risk Board
+> 1. The European Supervisory Authority (European Banking Authority) (EBA) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 12., the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 48. and ESMA shall not refer to credit ratings in their guidelines, recommendations and draft technical standards where such references have the potential to trigger sole or mechanistic reliance on credit ratings by the competent authorities, the sectoral competent authorities, the entitites referred to in the first subparagraph of Article 4(1) or other financial market participants. Accordingly, by 31 December 2013, EBA, EIOPA and ESMA shall review and remove, where appropriate, all such references to credit ratings in existing guidelines and recommendations.
+> 2. The European Systemic Risk Board (ESRB) established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk BoardOJ L 331, 15.12.2010, p. 1. shall not refer to credit ratings in its warnings and recommendations where such references have the potential to t […truncated by emendrix: 54 characters omitted…]
+
+**INSERTED · Art. 5c — Over-reliance on credit ratings in Union law** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new provision states that the Commission is to continue reviewing whether references to credit ratings in Union law cause or risk causing sole or mechanistic reliance on such ratings by competent authorities, sectoral competent authorities, the entities referred to in Article 4(1) first subparagraph, or other financial market participants. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5c)
+
+It further states that this review is aimed at deleting all references to credit ratings in Union law for regulatory purposes by 1 January 2020, on condition that appropriate alternatives to credit risk assessment have been identified and implemented. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5c)
+
+*after* (`02009R1060-20130620`)
+
+> Article 5c
+> Over-reliance on credit ratings in Union law
+> Without prejudice to its right of initiative, the Commission shall continue to review whether references to credit ratings in Union law trigger or have the potential to trigger sole or mechanistic reliance on credit ratings by the competent authorities, the sectoral competent authorities, the entities referred to in the first subparagraph of Article 4(1) or other financial market participants with a view to deleting all references to credit ratings in Union law for regulatory purposes by 1 January 2020, provided that appropriate alternatives to credit risk assessment have been identified and implemented.
+
+**MODIFIED · Art. 6 — Independence and avoidance of conflicts of interest** · applies from: unchanged
+
+*within* `AR 6 PA 1 ALN 1`, `AR 6 PA 3 ALN 1`, `AR 6 PA 4` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 1 now covers rating outlooks alongside credit ratings, and it adds shareholders to the list of persons whose conflicts of interest must not affect the issuing of a rating or rating outlook. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6)
+
+Paragraph 3 extends the set of exemptible requirements in Section A of Annex I to include point 9 alongside points 2, 5 and 6. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6)
+
+A new paragraph 4 is added requiring credit rating agencies to establish, maintain, enforce and document an internal control structure and standard operating procedures on corporate governance, organisation and conflict-of-interest management, with periodic monitoring and review of those procedures. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6)
+
+*before* (`02009R1060-20110721`)
+
+> Article 6
+> Independence and avoidance of conflicts of interest
+> 1.
+> A credit rating agency shall take all necessary steps to ensure that the issuing of a credit rating is not affected by any existing or potential conflict of interest or business relationship involving the credit rating agency issuing the credit rating, its managers, rating analysts, employees, any other natural person whose services are placed at the disposal or under the control of the credit rating agency, or any person directly or indirectly linked to it by control.
+> 2.
+> In order to ensure compliance with paragraph 1, a credit rating agency shall comply with the requirements set out in Sections A and B of Annex I.
+>
+> 3.
+> At the request of a credit rating agency, ESMA may exempt a credit rating agency from complying with the requirements of points 2, 5 and 6 of Section A of Annex I and Article 7(4) if the credit rating agency is able to demonstrate that those requirements are not proportionate in view of the nature, scale and complexity of its business and the nature and range of issue of credit ratings and that:
+>
+> (a) the credit rating agency has fewer than 50 employees;
+>
+> (b) the credit rating agency has implemented measures and procedures, in particular internal control mechanisms, reporting arrangements and measures ensuring independence of rating analysts and persons approving credit ratings, which ensure the effective compliance with the objectives of this Regulation; and
+>
+> (c) the size of the credit rating agen […truncated by emendrix: 407 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 6
+> Independence and avoidance of conflicts of interest
+> 1. A credit rating agency shall take all necessary steps to ensure that the issuing of a credit rating or a rating outlook is not affected by any existing or potential conflicts of interest or business relationship involving the credit rating agency issuing the credit rating or the rating outlook, its shareholders, managers, rating analysts, employees or any other natural person whose services are placed at the disposal or under the control of the credit rating agency, or any person directly or indirectly linked to it by control.
+> 2. In order to ensure compliance with paragraph 1, a credit rating agency shall comply with the requirements set out in Sections A and B of Annex I.
+> 3. At the request of a credit rating agency, ESMA may exempt a credit rating agency from complying with the requirements of points 2, 5, 6 and 9 of Section A of Annex I and Article 7(4) if the credit rating agency is able to demonstrate that those requirements are not proportionate in view of the nature, scale and complexity of its business and the nature and range of issue of credit ratings and that:
+> (a) the credit rating agency has fewer than 50 employees;
+> (b) the credit rating agency has implemented measures and procedures, in particular internal control mechanisms, reporting arrangements and measures ensuring independence of rating analysts and persons approving credit ratings, which ensure the effective compliance with the objectives of t […truncated by emendrix: 1180 characters omitted…]
+
+**MODIFIED · Art. 6.3** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 6.4** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 6a — Conflicts of interest concerning investments in credit rating agencies** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 6a is a wholly new provision setting out prohibitions on shareholders or members holding at least 5% of the capital or voting rights of one credit rating agency from simultaneously holding equivalent stakes, voting rights, board appointment powers, board membership, or control/dominant influence over another credit rating agency. [Art. 6a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6a)
+
+The new text also excludes diversified collective investment scheme holdings such as pension funds or life insurance from the capital-holding prohibition, subject to a significant-influence condition, and excludes investments among credit rating agencies belonging to the same group from the whole Article. [Art. 6a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6a)
+
+*after* (`02009R1060-20130620`)
+
+> Article 6a
+> Conflicts of interest concerning investments in credit rating agencies
+> 1. A shareholder or a member of a credit rating agency holding at least 5 % of either the capital or the voting rights in that credit rating agency or in a company which has the power to exercise control or a dominant influence over that credit rating agency, shall be prohibited from:
+> (a) holding 5 % or more of the capital of any other credit rating agency;
+> (b) having the right or the power to exercise 5 % or more of the voting rights in any other credit rating agency;
+> (c) having the right or the power to appoint or remove members of the administrative or supervisory board of any other credit rating agency;
+> (d) being a member of the administrative or supervisory board of any other credit rating agency;
+> (e) exercising or having the power to exercise control or a dominant influence over any other credit rating agency.
+> The prohibition referred to in point (a) of the first subparagraph does not apply to holdings in diversified collective investment schemes, including managed funds such as pension funds or life insurance, provided that the holdings in such schemes do not put the shareholder or member of a credit rating agency in a position to exercise significant influence on the business activities of those schemes.
+> 2. This Article does not apply to investments in other credit rating agencies belonging to the same group of credit rating agencies.
+
+**INSERTED · Art. 6b — Maximum duration of the contractual relationship with a credit rating agency** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new article setting a maximum four-year duration for a credit rating agency's contractual relationship for issuing credit ratings on re-securitisations with underlying assets from the same originator, along with rules on exemptions, cooling-off periods, group-level application, monitoring of existing ratings, and a size-based exclusion for smaller agencies. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6b)
+
+*after* (`02009R1060-20130620`)
+
+> Article 6b
+> Maximum duration of the contractual relationship with a credit rating agency
+> 1. Where a credit rating agency enters into a contract for the issuing of credit ratings on re-securitisations, it shall not issue credit ratings on new re-securitisations with underlying assets from the same originator for a period exceeding four years.
+> 2. Where a credit rating agency enters into a contract for rating re-securitisations, it shall request that the issuer:
+> (a) determine the number of credit rating agencies which have a contractual relationship for the issuing of credit ratings on re-securitisations with underlying assets from the same originator;
+> (b) calculate the percentage of the total number of outstanding rated re-securitisations with underlying assets from the same originator for which each credit rating agency issues credit ratings.
+> Where at least four credit rating agencies each rate more than 10 % of the total number of outstanding rated re-securitisations, the limitations set out in paragraph 1 shall not apply.
+> The exemption set out in the second subparagraph shall continue to apply at least until the credit rating agency enters into a new contract for rating re-securitisations with underlying assets from the same originator. Where the criteria set out in the second subparagraph are not met when entering into such a contract, the period referred to in paragraph 1 shall be calculated from the date on which the new contract was entered into.
+> 3. As from the expiry of […truncated by emendrix: 1518 characters omitted…]
+
+**MODIFIED · Art. 7 — Rating analysts, employees and other persons involved in the issuing of credit ratings** · applies from: unchanged
+
+*within* `AR 7 PA 5 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 5 now refers to compensation and performance evaluation of employees involved in credit rating activities or rating outlooks, in addition to persons approving credit ratings, whereas the earlier text referred only to rating analysts and persons approving the credit ratings. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_7)
+
+The provision also adds rating outlooks alongside credit ratings as the subject of the approving persons' role, where the earlier text mentioned only credit ratings. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_7)
+
+*before* (`02009R1060-20110721`)
+
+> Article 7
+> Rating analysts, employees and other persons involved in the issuing of credit ratings
+> 1.
+> A credit rating agency shall ensure that rating analysts, its employees and any other natural person whose services are placed at its disposal or under its control and who are directly involved in credit rating activities have appropriate knowledge and experience for the duties assigned.
+> 2.
+> A credit rating agency shall ensure that persons referred to in paragraph 1 shall not be allowed to initiate or participate in negotiations regarding fees or payments with any rated entity, related third party or any person directly or indirectly linked to the rated entity by control.
+> 3.
+> A credit rating agency shall ensure that persons referred to in paragraph 1 meet the requirements set out in Section C of Annex I.
+> 4.
+> A credit rating agency shall establish an appropriate gradual rotation mechanism with regard to the rating analysts and persons approving credit ratings as defined in Section C of Annex I. That rotation mechanism shall be undertaken in phases on the basis of individuals rather than of a complete team.
+> 5.
+> Compensation and performance evaluation of rating analysts and persons approving the credit ratings shall not be contingent on the amount of revenue that the credit rating agency derives from the rated entities or related third parties.
+
+*after* (`02009R1060-20130620`)
+
+> Article 7
+> Rating analysts, employees and other persons involved in the issuing of credit ratings
+> 1. A credit rating agency shall ensure that rating analysts, its employees and any other natural person whose services are placed at its disposal or under its control and who are directly involved in credit rating activities have appropriate knowledge and experience for the duties assigned.
+> 2. A credit rating agency shall ensure that persons referred to in paragraph 1 shall not be allowed to initiate or participate in negotiations regarding fees or payments with any rated entity, related third party or any person directly or indirectly linked to the rated entity by control.
+> 3. A credit rating agency shall ensure that persons referred to in paragraph 1 meet the requirements set out in Section C of Annex I.
+> 4. A credit rating agency shall establish an appropriate gradual rotation mechanism with regard to the rating analysts and persons approving credit ratings as defined in Section C of Annex I. That rotation mechanism shall be undertaken in phases on the basis of individuals rather than of a complete team.
+> 5. Compensation and performance evaluation of employees involved in the credit rating activities or rating outlooks, as well as persons approving the credit ratings or rating outlooks, shall not be contingent on the amount of revenue that the credit rating agency derives from the rated entities or related third parties.
+
+**MODIFIED · Art. 8 — Methodologies, models and key rating assumptions** · applies from: unchanged
+
+*within* `AR 8 PA 2 ALN 1`, `AR 8 PA 2a`, `AR 8 PA 5 ALN 2`, `AR 8 PA 5a`, `AR 8 PA 6 ALN 1`, `AR 8 PA 6 ALN 1 PTA (aa)`, `AR 8 PA 6 ALN 1 PTA (ab)`, `AR 8 PA 7` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02009R1060-20110721`)
+
+> Article 8
+> Methodologies, models and key rating assumptions
+> 1.
+> A credit rating agency shall disclose to the public the methodologies, models and key rating assumptions it uses in its credit rating activities as defined in point 5 of Part I of Section E of Annex I.
+> 2.
+> A credit rating agency shall adopt, implement and enforce adequate measures to ensure that the credit ratings it issues are based on a thorough analysis of all the information that is available to it and that is relevant to its analysis according to its rating methodologies. It shall adopt all necessary measures so that the information it uses in assigning a credit rating is of sufficient quality and from reliable sources.
+> 3.
+> A credit rating agency shall use rating methodologies that are rigorous, systematic, continuous and subject to validation based on historical experience, including back-testing.
+>
+> 4.
+> Where a credit rating agency is using an existing credit rating prepared by another credit rating agency with respect to underlying assets or structured finance instruments, it shall not refuse to issue a credit rating of an entity or a financial instrument because a portion of the entity or the financial instrument had been previously rated by another credit rating agency.
+> A credit rating agency shall record all instances where in its credit rating process it departs from existing credit ratings prepared by another credit rating agency with respect to underlying assets or structured finance instruments providing […truncated by emendrix: 1127 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 8
+> Methodologies, models and key rating assumptions
+> 1. A credit rating agency shall disclose to the public the methodologies, models and key rating assumptions it uses in its credit rating activities as defined in point 5 of Part I of Section E of Annex I.
+> 2. A credit rating agency shall adopt, implement and enforce adequate measures to ensure that the credit ratings and the rating outlooks it issues are based on a thorough analysis of all the information that is available to it and that is relevant to its analysis according to the applicable rating methodologies. It shall adopt all necessary measures so that the information it uses in assigning credit ratings and rating outlooks is of sufficient quality and from reliable sources. The credit rating agency shall issue credit ratings and rating outlooks stipulating that the rating is the agency’s opinion and should be relied upon to a limited degree.
+> 2a. Changes in credit ratings shall be issued in accordance with the credit rating agency’s published rating methodologies.
+> 3. A credit rating agency shall use rating methodologies that are rigorous, systematic, continuous and subject to validation based on historical experience, including back-testing.
+> 4. Where a credit rating agency is using an existing credit rating prepared by another credit rating agency with respect to underlying assets or structured finance instruments, it shall not refuse to issue a credit rating of an entity or a financial instrument because a porti […truncated by emendrix: 2963 characters omitted…]
+
+**INSERTED · Art. 8a — Sovereign ratings** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 8a on sovereign ratings has been added, setting out requirements for how sovereign ratings and related statements must be produced and disclosed, including individual country analysis, restrictions on public communications based on undisclosed information, and a requirement to publish an annual calendar of rating dates. [Art. 8a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8a)
+
+The provision also sets conditions for deviating from that published calendar, requiring such deviations to be linked to specified obligations and accompanied by a detailed explanation. [Art. 8a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8a)
+
+*after* (`02009R1060-20130620`)
+
+> Article 8a
+> Sovereign ratings
+> 1. Sovereign ratings shall be issued in a manner which ensures that the individual specificity of a particular Member State has been analysed. A statement announcing revision of a given group of countries shall be prohibited if it is not accompanied by individual country reports. Such reports shall be made publicly available.
+> 2. Public communications other than credit ratings, rating outlooks, or accompanying press releases or reports as referred to in point 5 of Part I of Section D of Annex I, which relate to potential changes in sovereign ratings shall not be based on information within the sphere of the rated entity that has been disclosed without the consent of the rated entity, unless it is available from generally accessible sources or unless there are no legitimate reasons for the rated entity not to give its consent to the disclosure of the information.
+> 3. A credit rating agency shall, taking into consideration the second subparagraph of Article 8(5), publish on its website and submit to ESMA on an annual basis, in accordance with point 3 of Part III of Section D of Annex I, a calendar at the end of December for the following 12 months, setting a maximum of three dates for the publication of unsolicited sovereign ratings and related rating outlooks and setting the dates for the publication of solicited sovereign ratings and related rating outlooks. Such dates shall be set on a Friday.
+> 4. Deviation of the publication of sovereign ratings or […truncated by emendrix: 306 characters omitted…]
+
+**INSERTED · Art. 8b — Information on structured finance instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 8b is a newly added provision setting out obligations for issuers, originators and sponsors of structured finance instruments established in the Union to jointly publish, on a website set up by ESMA, information on the credit quality and performance of underlying assets, transaction structure, cash flows and collateral, along with information needed for stress testing. [Art. 8b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8b)
+
+It also states that this publication duty does not extend to cases where it would breach national or Union law on confidentiality of information sources or personal data processing, and it directs ESMA to draft regulatory technical standards specifying the required information, its update frequency, and a standardised disclosure template, to be submitted to the Commission by 21 June 2014. [Art. 8b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8b)
+
+The provision further requires ESMA to set up the website referenced in paragraph 1 for publishing this information. [Art. 8b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8b)
+
+*after* (`02009R1060-20130620`)
+
+> Article 8b
+> Information on structured finance instruments
+> 1. The issuer, the originator and the sponsor of a structured finance instrument established in the Union shall, on the website set up by ESMA pursuant to paragraph 4, jointly publish information on the credit quality and performance of the underlying assets of the structured finance instrument, the structure of the securitisation transaction, the cash flows and any collateral supporting a securitisation exposure as well as any information that is necessary to conduct comprehensive and well-informed stress tests on the cash flows and collateral values supporting the underlying exposures.
+> 2. The obligation under paragraph 1 to publish information shall not extend to where such publication would breach national or Union law governing the protection of confidentiality of information sources or the processing of personal data.
+> 3. ESMA shall develop draft regulatory technical standards to specify:
+> (a) the information that the persons referred to in paragraph 1 must publish in order to comply with the obligation resulting from paragraph 1 in accordance with paragraph 2;
+> (b) the frequency with which the information referred to in point (a) is to be updated;
+> (c) the presentation of the information referred to in point (a) by means of a standardised disclosure template.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 21 June 2014.
+> Power is delegated to the Commission to adopt the regulatory tech […truncated by emendrix: 285 characters omitted…]
+
+**INSERTED · Art. 8c — Double credit rating of structured finance instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 8c is added, requiring an issuer or related third party that intends to solicit a credit rating of a structured finance instrument to appoint at least two credit rating agencies to provide independent ratings. [Art. 8c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8c)
+
+The provision also sets out conditions the appointed agencies must satisfy in relation to each other, covering group membership, shareholding, voting rights, board appointment powers, board membership overlap, and control or dominant influence. [Art. 8c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8c)
+
+*after* (`02009R1060-20130620`)
+
+> Article 8c
+> Double credit rating of structured finance instruments
+> 1. Where an issuer or a related third party intends to solicit a credit rating of a structured finance instrument, it shall appoint at least two credit rating agencies to provide credit ratings independently of each other.
+> 2. The issuer or a related third party as referred to in paragraph 1 shall ensure that the appointed credit rating agencies comply with the following conditions:
+> (a) they do not belong to the same group of credit rating agencies;
+> (b) they are not a shareholder or a member of any of the other credit rating agencies;
+> (c) they do not have the right or the power to exercise voting rights in any of the other credit rating agencies;
+> (d) they do not have the right or the power to appoint or remove members of the administrative or supervisory board of any of the other credit rating agencies;
+> (e) none of the members of their administrative or supervisory boards are a member of the administrative or supervisory boards of any of the other credit rating agencies;
+> (f) they do not exercise, or have the power to exercise, control or a dominant influence over any of the other credit rating agencies.
+
+**INSERTED · Art. 8d — Use of multiple credit rating agencies** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 8d is added, setting out that where an issuer or a related third party plans to appoint at least two credit rating agencies for the same issuance or entity, it is to consider appointing at least one agency with no more than 10% of total market share, provided ESMA's list shows such an agency is available, with documentation required if no such agency is appointed. [Art. 8d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8d)
+
+The new article also requires ESMA to annually publish a list of registered credit rating agencies with their market share and types of ratings issued, and it defines total market share by reference to annual turnover from credit rating activities and ancillary services at group level. [Art. 8d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8d)
+
+*after* (`02009R1060-20130620`)
+
+> Article 8d
+> Use of multiple credit rating agencies
+> 1. Where an issuer or a related third party intends to appoint at least two credit rating agencies for the credit rating of the same issuance or entity, the issuer or a related third party shall consider appointing at least one credit rating agency with no more than 10 % of the total market share, which can be evaluated by the issuer or a related third party as capable of rating the relevant issuance or entity, provided that, based on ESMA’s list referred to in paragraph 2, there is a credit rating agency available for rating the specific issuance or entity. Where the issuer or a related third party does not appoint at least one credit rating agency with no more than 10 % of the total market share, this shall be documented.
+> 2. With a view to facilitating the evaluation by the issuer or a related third party under paragraph 1, ESMA shall annually publish on its website a list of registered credit rating agencies, indicating their total market share and the types of credit ratings issued, which can be used by the issuer as a starting point for its evaluation.
+> 3. For the purposes of this Article, total market share shall be measured with reference to annual turnover generated from credit rating activities and ancillary services, at group level.
+
+**MODIFIED · Art. 10 — Disclosure and presentation of credit ratings** · applies from: unchanged
+
+*within* `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 2 ALN 1`, `AR 10 PA 2a`, `AR 10 PA 5 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 1 now covers rating outlooks in addition to credit ratings when requiring non-selective, timely disclosure and full reasons for discontinuation. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_10)
+
+Paragraph 2 extends the presentation requirements of Section D of Annex I to rating outlooks and adds a statement that factors unrelated to the credit ratings shall not be presented, and a new paragraph 2a treats undisclosed ratings, outlooks and related information as inside information, applying Article 6(3) of Directive 2003/6/EC to confidentiality and access-list duties and limiting the pre-disclosure recipient list to persons identified by each rated entity. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_10)
+
+Paragraph 5 adds a requirement to use a clearly distinguishable different colour code for the rating category and extends the access reference to management documents, alongside its existing wording on participation and access to accounts, compared with the earlier version. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_10)
+
+*before* (`02009R1060-20110721`)
+
+> Article 10
+> Disclosure and presentation of credit ratings
+> 1.
+> A credit rating agency shall disclose any credit rating, as well as any decision to discontinue a credit rating, on a non-selective basis and in a timely manner. In the event of a decision to discontinue a credit rating, the information disclosed shall include full reasons for the decision.
+> The first subparagraph shall also apply to credit ratings that are distributed by subscription.
+> 2.
+> Credit rating agencies shall ensure that credit ratings are presented and processed in accordance with the requirements set out in Section D of Annex I.
+> 3.
+> When a credit rating agency issues credit ratings for structured finance instruments, it shall ensure that rating categories that are attributed to structured finance instruments are clearly differentiated using an additional symbol which distinguishes them from rating categories used for any other entities, financial instruments or financial obligations.
+> 4.
+> A credit rating agency shall disclose its policies and procedures regarding unsolicited credit ratings.
+> 5.
+> When a credit rating agency issues an unsolicited credit rating, it shall state prominently in the credit rating whether or not the rated entity or related third party participated in the credit rating process and whether the credit rating agency had access to the accounts and other relevant internal documents of the rated entity or a related third party.
+> Unsolicited credit ratings shall be identified as such.
+>
+> 6.
+> A credi […truncated by emendrix: 261 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 10
+> Disclosure and presentation of credit ratings
+> 1. A credit rating agency shall disclose any credit rating or rating outlook, as well as any decision to discontinue a credit rating, on a non-selective basis and in a timely manner. In the event of a decision to discontinue a credit rating, the information disclosed shall include full reasons for the decision.
+> The first subparagraph shall also apply to credit ratings that are distributed by subscription.
+> 2. Credit rating agencies shall ensure that credit ratings and rating outlooks are presented and processed in accordance with the requirements set out in Section D of Annex I and shall not present factors other than those related to the credit ratings.
+> 2a. Until disclosure to the public of credit ratings, rating outlooks and information relating thereto, they shall be deemed to be inside information as defined in, and in accordance with, Directive 2003/6/EC.
+> Article 6(3) of that Directive shall apply mutatis mutandis to credit rating agencies as regards their duty of confidentiality and their obligation to maintain a list of persons who have access to their credit ratings, rating outlooks or related information before disclosure.
+> The list of persons to whom credit ratings, rating outlooks and information relating thereto are communicated before being disclosed shall be limited to persons identified by each rated entity for that purpose.
+> 3. When a credit rating agency issues credit ratings for structured finance instrum […truncated by emendrix: 1168 characters omitted…]
+
+**MODIFIED · Art. 10.5** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11 — General and periodic disclosures** · applies from: unchanged
+
+*within* `AR 11 PA 2 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The provision now specifies that the obligation to make historical performance data available in the ESMA central repository applies to a registered or certified credit rating agency, rather than to a credit rating agency generally. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_11)
+
+The second sentence of paragraph 2 correspondingly refers to "such a credit rating agency" instead of repeating "a credit rating agency," and minor punctuation was added around "including the ratings transition frequency." [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_11)
+
+*before* (`02009R1060-20110721`)
+
+> Article 11
+> General and periodic disclosures
+> 1.
+> A credit rating agency shall fully disclose to the public and update immediately information relating to the matters set out in Part I of Section E of Annex I.
+>
+>
+> 2.
+> A credit rating agency shall make available in a central repository established by ESMA information on its historical performance data including the ratings transition frequency and information about credit ratings issued in the past and on their changes. A credit rating agency shall provide information to that repository on a standard form as provided for by ESMA. ESMA shall make that information accessible to the public and shall publish summary information on the main developments observed on an annual basis.
+> 3.
+> A credit rating agency shall provide annually, by 31 March, to ESMA information relating to matters set out in point 2 of Part II of Section E of Annex I.
+
+*after* (`02009R1060-20130620`)
+
+> Article 11
+> General and periodic disclosures
+> 1. A credit rating agency shall fully disclose to the public and update immediately information relating to the matters set out in Part I of Section E of Annex I.
+> 2. A registered or certified credit rating agency shall make available in a central repository established by ESMA information on its historical performance data, including the ratings transition frequency, and information about credit ratings issued in the past and on their changes. Such a credit rating agency shall provide information to that repository on a standard form as provided for by ESMA. ESMA shall make that information accessible to the public and shall publish summary information on the main developments observed on an annual basis.
+> 3. A credit rating agency shall provide annually, by 31 March, to ESMA information relating to matters set out in point 2 of Part II of Section E of Annex I.
+
+**MODIFIED · Art. 11.2** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 11a** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 14 — Requirement for registration** · applies from: unchanged
+
+*within* `AR 14 PA 1 ALN 1`, `AR 14 PA 3 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+In paragraph 1, the word describing where a credit rating agency must be established changes from 'Community' to 'Union'. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_14)
+
+Paragraph 3 gains an added subparagraph requiring a credit rating agency to notify ESMA of intended material changes to rating methodologies, models or key rating assumptions, or of proposed new ones, when it publishes such proposed changes on its website under Article 8(5a), and to notify ESMA of any changes resulting from the consultation after the consultation period expires. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_14)
+
+*before* (`02009R1060-20110721`)
+
+> Article 14
+> Requirement for registration
+> 1.
+> A credit rating agency shall apply for registration for the purposes of Article 2(1) provided that it is a legal person established in the Community.
+>
+> 2.
+> The registration shall be effective for the entire territory of the Union once the decision to register a credit rating agency adopted by ESMA as referred to in Article 16(3) or Article 17(3) has taken effect.
+>
+>
+> 3.
+> A registered credit rating agency shall comply at all times with the conditions for initial registration.
+> A credit rating agency shall, without undue delay, notify ESMA of any material changes to the conditions for initial registration, including any opening or closing of a branch within the Union.
+>
+> 4.
+> Without prejudice to Article 16 or 17, ESMA shall register the credit rating agency if it concludes from the examination of the application that the credit rating agency complies with the conditions for the issuing of credit ratings set out in this Regulation, taking into consideration Articles 4 and 6.
+> 5.
+> ESMA shall not impose requirements regarding registration which are not provided for in this Regulation.
+
+*after* (`02009R1060-20130620`)
+
+> Article 14
+> Requirement for registration
+> 1. A credit rating agency shall apply for registration for the purposes of Article 2(1) provided that it is a legal person established in the Union.
+> 2. The registration shall be effective for the entire territory of the Union once the decision to register a credit rating agency adopted by ESMA as referred to in Article 16(3) or Article 17(3) has taken effect.
+> 3. A registered credit rating agency shall comply at all times with the conditions for initial registration.
+> A credit rating agency shall, without undue delay, notify ESMA of any material changes to the conditions for initial registration, including any opening or closing of a branch within the Union.
+> Without prejudice to the second subparagraph, the credit rating agency shall notify ESMA of the intended material changes to the rating methodologies, models or key rating assumptions or the proposed new rating methodologies, models or key rating assumptions when the credit rating agency publishes the proposed changes or proposed new rating methodologies on its website in accordance with Article 8(5a). After the expiry of the consultation period, the credit rating agency shall notify ESMA of any changes due to the consultation.
+> 4. Without prejudice to Article 16 or 17, ESMA shall register the credit rating agency if it concludes from the examination of the application that the credit rating agency complies with the conditions for the issuing of credit ratings set out in this Regulatio […truncated by emendrix: 154 characters omitted…]
+
+**MODIFIED · Art. 14.3** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Notification of a decision to register, refuse or withdraw registration, and publication of the list of registered credit rating agencies** · applies from: unchanged
+
+*within* `AR 18 PA 2 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02009R1060-20110721`)
+
+> Article 18
+> Notification of a decision to register, refuse or withdraw registration, and publication of the list of registered credit rating agencies
+> 1.
+> Within five working days of the adoption of a decision under Article 16, 17 or 20 ESMA shall notify its decision to the credit rating agency concerned. Where ESMA refuses to register the credit rating agency or withdraws the registration of the credit rating agency, it shall provide full reasons in its decision.
+> 2.
+> ESMA shall communicate to the Commission, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 12. (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 48. (EIOPA), the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
+> 3.
+> ESMA shall publish on its website a list of credit rating agencies registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under Article 16, 17 or 20. The Commission shall publish that updated list in the Official Journal of the European Union within 30 days following such update.
+
+*after* (`02009R1060-20130620`)
+
+> Article 18
+> Notification of a decision to register, refuse or withdraw registration, and publication of the list of registered credit rating agencies
+> 1. Within five working days of the adoption of a decision under Article 16, 17 or 20 ESMA shall notify its decision to the credit rating agency concerned. Where ESMA refuses to register the credit rating agency or withdraws the registration of the credit rating agency, it shall provide full reasons in its decision.
+> 2. ESMA shall communicate to the Commission, EBA, EIOPA, the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
+> 3. ESMA shall publish on its website a list of credit rating agencies registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under Article 16, 17 or 20. The Commission shall publish that updated list in the Official Journal of the European Union within 30 days following such update.
+
+**MODIFIED · Art. 18.2** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19 — Registration and supervisory fees** · applies from: unchanged
+
+*within* `AR 19 PA 1 ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The provision now states that ESMA's fees must fully cover expenditure relating to registration, certification and supervision of credit rating agencies, whereas the earlier text referred only to registration and supervision. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_19)
+
+The wording describing the fees ESMA charges was also rephrased from charging fees to the credit rating agencies to charging credit rating agencies fees, with the referenced regulation now described as the Commission regulation rather than the regulation on fees referred to in paragraph 2. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_19)
+
+*before* (`02009R1060-20110721`)
+
+> Article 19
+> Registration and supervisory fees
+> 1.
+> ESMA shall charge fees to the credit rating agencies in accordance with this Regulation and the regulation on fees referred to in paragraph 2. Those fees shall fully cover ESMA's necessary expenditure relating to the registration and supervision of credit rating agencies and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 30.
+>
+> 2.
+> The Commission shall adopt a regulation on fees. That regulation shall determine in particular the type of fees and the matters for which fees are due, the amount of the fees, the way in which they are to be paid and the way in which ESMA is to reimburse competent authorities in respect of any costs that they may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 30.
+> The amount of a fee charged to a credit rating agency shall cover all administrative costs and be proportionate to the turnover of the credit rating agency concerned.
+> The Commission shall adopt the regulation on fees referred to in the first subparagraph by means of a delegated act in accordance with Article 38a and subject to the conditions of Articles 38b and 38c.
+
+*after* (`02009R1060-20130620`)
+
+> Article 19
+> Registration and supervisory fees
+> 1. ESMA shall charge credit rating agencies fees in accordance with this Regulation and with the Commission regulation referred to in paragraph 2. Those fees shall fully cover ESMA’s necessary expenditure relating to the registration, certification and supervision of credit rating agencies and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 30.
+> 2. The Commission shall adopt a regulation on fees. That regulation shall determine in particular the type of fees and the matters for which fees are due, the amount of the fees, the way in which they are to be paid and the way in which ESMA is to reimburse competent authorities in respect of any costs that they may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 30.
+> The amount of a fee charged to a credit rating agency shall cover all administrative costs and be proportionate to the turnover of the credit rating agency concerned.
+> The Commission shall adopt the regulation on fees referred to in the first subparagraph by means of a delegated act in accordance with Article 38a and subject to the conditions of Articles 38b and 38c.
+
+**MODIFIED · Art. 19.1** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 21 — ESMA** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 21 PA 4 ALN 1`, `AR 21 PA 4 ALN 1 PTA (e)`, `AR 21 PA 4a`, `AR 21 PA 4b`, `AR 21 PA 5 ALN 1` · *dates* -2012-01-01 -2012-01-02 +2014-06-21 +2015-06-21 · *amended by* `32013R0462`
+
+Paragraph 4 no longer sets a 2 January 2012 deadline for submitting draft regulatory technical standards to the Commission but instead directs ESMA to submit them by 21 June 2014, and point (e) now refers to registered and certified credit rating agencies rather than simply credit rating agencies. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_21)
+
+Two new paragraphs, 4a and 4b, have been added requiring ESMA to develop further draft regulatory technical standards on disclosure and fee reporting by 21 June 2014, and to report on possible credit rating mappings to the Commission by 21 June 2015, with consultation of EBA and EIOPA on parts of that report. [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_21)
+
+Paragraph 5 removes the 1 January 2012 date for the first annual report and adds a requirement that the report also assess the application of the endorsement mechanism referred to in Article 4(3). [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_21)
+
+*before* (`02009R1060-20110721`)
+
+> Article 21
+> ESMA
+> 1.
+> Without prejudice to Article 25a, ESMA shall ensure that this Regulation is applied.
+>
+> 2.
+> In accordance with Article 16 of Regulation (EU) No 1095/2010, ESMA shall issue and update guidelines on the cooperation between ESMA, the competent authorities and the sectoral competent authorities for the purposes of this Regulation and for those of the relevant sectoral legislation, including the procedures and detailed conditions relating to the delegation of tasks.
+> 3.
+> In accordance with Article 16 of Regulation (EU) No 1095/2010, ESMA shall, in cooperation with EBA and EIOPA, issue and update guidelines on the application of the endorsement regime under Article 4(3) of this Regulation by 7 June 2011.
+> 4.
+> By 2 January 2012 ESMA shall submit draft regulatory technical standards for endorsement by the Commission in accordance with Article 10 of Regulation (EU) No 1095/2010 on:
+>
+> (a) the information to be provided by a credit rating agency in its application for registration as set out in Annex II;
+>
+> (b) information that the credit rating agency must provide for the application for certification and for the assessment of its systemic importance to the financial stability or integrity of financial markets referred to in Article 5;
+>
+> (c) the presentation of the information, including structure, format, method and period of reporting, that credit rating agencies shall disclose in accordance with Article 11(2) and point 1 of Part II of Section E of Annex I;
+>
+> (d) the assessmen […truncated by emendrix: 985 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 21
+> ESMA
+> 1. Without prejudice to Article 25a, ESMA shall ensure that this Regulation is applied.
+> 2. In accordance with Article 16 of Regulation (EU) No 1095/2010, ESMA shall issue and update guidelines on the cooperation between ESMA, the competent authorities and the sectoral competent authorities for the purposes of this Regulation and for those of the relevant sectoral legislation, including the procedures and detailed conditions relating to the delegation of tasks.
+> 3. In accordance with Article 16 of Regulation (EU) No 1095/2010, ESMA shall, in cooperation with EBA and EIOPA, issue and update guidelines on the application of the endorsement regime under Article 4(3) of this Regulation by 7 June 2011.
+> 4. ESMA shall develop draft regulatory technical standards to specify:
+> (a) the information to be provided by a credit rating agency in its application for registration as set out in Annex II;
+> (b) information that the credit rating agency must provide for the application for certification and for the assessment of its systemic importance to the financial stability or integrity of financial markets referred to in Article 5;
+> (c) the presentation of the information, including structure, format, method and period of reporting, that credit rating agencies shall disclose in accordance with Article 11(2) and point 1 of Part II of Section E of Annex I;
+> (d) the assessment of compliance of credit rating methodologies with the requirements set out in Article 8(3);
+> (e) the content […truncated by emendrix: 2656 characters omitted…]
+
+**MODIFIED · Art. 22** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 22a — Examination of compliance with methodology requirements** · applies from: unchanged
+
+*within* `AR 22a` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The article heading changed from referring to compliance with the back-testing obligation to referring to compliance with methodology requirements. [Art. 22a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_22a) [Art. 22a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_22a)
+
+The body text of paragraphs 1 and 2, including the listed points (a), (b) and (c), remains the same in substance, with only formatting differences in how the paragraph numbers and sub-points are presented. [Art. 22a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_22a) [Art. 22a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_22a)
+
+*before* (`02009R1060-20110721`)
+
+> Article 22a
+> Examination of compliance with the back-testing obligation
+> 1.
+> In the exercise of its ongoing supervision of credit rating agencies registered under this Regulation, ESMA shall examine regularly compliance with Article 8(3).
+> 2.
+> Without prejudice to Article 23, ESMA shall also in the framework of the examination referred to in paragraph 1:
+>
+> (a) verify the execution of back-testing by credit rating agencies;
+>
+> (b) analyse the results of that back-testing; and
+>
+> (c) verify that the credit rating agencies have processes in place to take into account the results of the back-testing in their rating methodologies.
+
+*after* (`02009R1060-20130620`)
+
+> Article 22a
+> Examination of compliance with methodology requirements
+> 1. In the exercise of its ongoing supervision of credit rating agencies registered under this Regulation, ESMA shall examine regularly compliance with Article 8(3).
+> 2. Without prejudice to Article 23, ESMA shall also in the framework of the examination referred to in paragraph 1:
+> (a) verify the execution of back-testing by credit rating agencies;
+> (b) analyse the results of that back-testing; and
+> (c) verify that the credit rating agencies have processes in place to take into account the results of the back-testing in their rating methodologies.
+
+**MODIFIED · Art. 25** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25a — Sectoral competent authorities responsible for the supervision and enforcement of Article 4(1) and Articles 5a, 8b, 8c and 8d** · applies from: unchanged
+
+*within* `AR 25a`, `AR 25a ALN 1` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The heading now lists Articles 5a, 8b, 8c and 8d alongside Article 4(1) as provisions covered by the sectoral competent authorities' supervision and enforcement role, whereas before it named only Article 4(1). [Art. 25a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_25a) [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_25a)
+
+The operative sentence was correspondingly expanded so that the sectoral competent authorities' responsibility for supervision and enforcement extends to Articles 5a, 8b, 8c and 8d in addition to Article 4(1), rather than to Article 4(1) alone. [Art. 25a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_25a) [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_25a)
+
+*before* (`02009R1060-20110721`)
+
+> Article 25a
+> Sectoral competent authorities responsible for the supervision and enforcement of Article 4(1) (the use of credit ratings)
+> The sectoral competent authorities shall be responsible for the supervision and enforcement of Article 4(1) in accordance with the relevant sectoral legislation.
+
+*after* (`02009R1060-20130620`)
+
+> Article 25a
+> Sectoral competent authorities responsible for the supervision and enforcement of Article 4(1) and Articles 5a, 8b, 8c and 8d
+> The sectoral competent authorities shall be responsible for the supervision and enforcement of Article 4(1) and Articles 5a, 8b, 8c and 8d in accordance with the relevant sectoral legislation.
+
+**INSERTED · Art. 35a — Civil liability** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new text establishing a civil liability regime for credit rating agencies, allowing investors or issuers to claim damages for infringements listed in Annex III that intentionally or with gross negligence had an impact on a credit rating. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_35a)
+
+It sets out conditions for investors and issuers to establish reliance or coverage, places the burden of presenting accurate and detailed information on the investor or issuer, limits the extent to which civil liability may be restricted in advance, and specifies that undefined terms and unaddressed matters are governed by applicable national law under private international law rules. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_35a)
+
+The provision also states that it does not exclude further civil liability claims under national law and does not prevent ESMA from exercising its powers under Article 36a. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_35a)
+
+*after* (`02009R1060-20130620`)
+
+> Article 35a
+> Civil liability
+> 1. Where a credit rating agency has committed, intentionally or with gross negligence, any of the infringements listed in Annex III having an impact on a credit rating, an investor or issuer may claim damages from that credit rating agency for damage caused to it due to that infringement.
+> An investor may claim damages under this Article where it establishes that it has reasonably relied, in accordance with Article 5a(1) or otherwise with due care, on a credit rating for a decision to invest into, hold onto or divest from a financial instrument covered by that credit rating.
+> An issuer may claim damages under this Article where it establishes that it or its financial instruments are covered by that credit rating and the infringement was not caused by misleading and inaccurate information provided by the issuer to the credit rating agency, directly or through information publicly available.
+> 2. It shall be the responsibility of the investor or issuer to present accurate and detailed information indicating that the credit rating agency has committed an infringement of this Regulation, and that that infringement had an impact on the credit rating issued.
+> What constitutes accurate and detailed information shall be assessed by the competent national court, taking into consideration that the investor or issuer may not have access to information which is purely within the sphere of the credit rating agency.
+> 3. The civil liability of credit rating agencies, a […truncated by emendrix: 1291 characters omitted…]
+
+**MODIFIED · Art. 36** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 36a — Fines** · applies from: unchanged
+
+*within* `AR 36a PA 2 ALN 1 PTA (a)`, `AR 36a PA 2 ALN 1 PTA (b)`, `AR 36a PA 2 ALN 1 PTA (d)`, `AR 36a PA 2 ALN 1 PTA (e)`, `AR 36a PA 2 ALN 1 PTA (h)` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Points (a), (b), (d), (e) and (h) of Article 36a(2)(1) now list additional Annex III point numbers alongside the ones previously named, expanding the sets of infringements grouped under each fine bracket. [Art. 36a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_36a) [Art. 36a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_36a)
+
+In particular, point (a) adds points 26a to 26d and 55 to 62, point (b) adds points 22a, 42a, 42b and 49a while dropping point 16 to 18 in favour of separately listed 16, 17 and 18, point (d) adds point 9, point (e) adds point 3a while removing point 4, and point (h) adds point 20a of Section I and points 4a to 4c of Section III. [Art. 36a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_36a)
+
+The monetary limits stated for each of these points remain the same figures as before. [Art. 36a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_36a) [Art. 36a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_36a)
+
+*before* (`02009R1060-20110721`)
+
+> Article 36a
+> Fines
+> 1.
+> Where, in accordance with Article 23e(5), ESMA's Board of Supervisors finds that a credit rating agency has, intentionally or negligently, committed one of the infringements listed in Annex III, it shall adopt a decision imposing a fine in accordance with paragraph 2.
+> An infringement by a credit rating agency shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that the credit rating agency or its senior management acted deliberately to commit the infringement.
+> 2.
+> The basic amount of the fines referred to in paragraph 1 shall be included within the following limits:
+>
+> (a) for infringements referred to in points 1 to 5, 11 to 15, 19, 20, 23, 28, 30, 32, 33, 35, 41, 43, 50 and 51 of Section I of Annex III, the fines shall amount to at least EUR 500000 and shall not exceed EUR 750000;
+>
+> (b) for the infringements referred to in points 6 to 8, 16 to 18, 21, 22, 24, 25, 27, 29, 31, 34, 37 to 40, 42, 45 to 47, 48, 49, 52 and 54 of Section I of Annex III, the fines shall amount to at least EUR 300000 and shall not exceed EUR 450000;
+>
+> (c) for the infringements referred to in points 9, 10, 26, 36, 44 and 53 of Section I of Annex III, the fines shall amount to at least EUR 100000 and shall not exceed EUR 200000;
+>
+> (d) for the infringements referred to in points 1, 6, 7 and 8 of Section II of Annex III, the fines shall amount to at least EUR 50000 and shall not exceed EUR 150000;
+>
+> (e) for the infringements referred t […truncated by emendrix: 2836 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 36a
+> Fines
+> 1. Where, in accordance with Article 23e(5), ESMA's Board of Supervisors finds that a credit rating agency has, intentionally or negligently, committed one of the infringements listed in Annex III, it shall adopt a decision imposing a fine in accordance with paragraph 2.
+> An infringement by a credit rating agency shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that the credit rating agency or its senior management acted deliberately to commit the infringement.
+> 2. The basic amount of the fines referred to in paragraph 1 shall be included within the following limits:
+> (a) for the infringements referred to in points 1 to 5, 11 to 15, 19, 20, 23, 26a to 26d, 28, 30, 32, 33, 35, 41, 43, 50, 51 and 55 to 62 of Section I of Annex III, the fines shall amount to at least EUR 500000 and shall not exceed EUR 750000;
+> (b) for the infringements referred to in points 6, 7, 8, 16, 17, 18, 21, 22, 22a, 24, 25, 27, 29, 31, 34, 37 to 40, 42, 42a, 42b, 45 to 49a, 52, 53 and 54 of Section I of Annex III, the fines shall amount to at least EUR 300000 and shall not exceed EUR 450000;
+> (c) for the infringements referred to in points 9, 10, 26, 36, 44 and 53 of Section I of Annex III, the fines shall amount to at least EUR 100000 and shall not exceed EUR 200000;
+> (d) for the infringements referred to in points 1, 6, 7, 8 and 9 of Section II of Annex III, the fines shall amount to at least EUR 50000 and shall not exceed EUR 15000 […truncated by emendrix: 2913 characters omitted…]
+
+**MODIFIED · Art. 39 — Reports** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 39 PA 4`, `AR 39 PA 5`, `AR 39 PA 6` · *dates* +2016-01-01 +2016-07-01 · *amended by* `32013R0462`
+
+The later version adds new paragraphs 4 and 5 requiring the Commission, after obtaining technical advice from ESMA, to review the credit rating market for structured finance instruments and the credit rating market generally, and to submit reports with accompanying legislative proposals if appropriate, addressing a list of specific matters in each case. [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39)
+
+It also adds a new paragraph 6 requiring the Commission to inform the European Parliament and the Council at least annually of any new equivalence decisions referred to in Article 5(6) adopted during the reporting period, none of which appear in the earlier text. [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39)
+
+Paragraphs 1 to 3, which existed in the earlier version, remain present with the same content. [Art. 39, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_39) [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39)
+
+*before* (`02009R1060-20110721`)
+
+> Article 39
+> Reports
+> 1.
+> By 7 December 2012, the Commission shall make an assessment of the application of this Regulation, including an assessment of the reliance on credit ratings in the Community, the impact on the level of concentration in the credit rating market, the cost and benefit of impacts of the Regulation and of the appropriateness of the remuneration of the credit rating agency by the rated entity (issuer-pays model), and submit a report thereon to the European Parliament and the Council.
+>
+> 2.
+> By 7 December 2010, the Commission shall, in the light of discussions with the competent authorities, assess the application of Title III of this Regulation, in particular of the cooperation of the competent authorities, the legal status of CESR and supervisory practices. The Commission shall present a report on those matters to the European Parliament and to the Council, accompanied, where appropriate, by proposals for a review of that Title.
+> That report shall include a reference to the Commission proposal of 12 November 2008 for a regulation on credit rating agencies and to the report of the Committee on Economic and Monetary Affairs of the European Parliament of 23 March 2009 relating to that proposal.
+>
+>
+> 3.
+> By 1 July 2011, the Commission shall, in the light of developments in the regulatory and supervisory framework for credit rating agencies in third countries, present a report to the European Parliament and to the Council concerning the effects of those developments and o […truncated by emendrix: 108 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> Article 39
+> Reports
+> 1. By 7 December 2012, the Commission shall make an assessment of the application of this Regulation, including an assessment of the reliance on credit ratings in the Community, the impact on the level of concentration in the credit rating market, the cost and benefit of impacts of the Regulation and of the appropriateness of the remuneration of the credit rating agency by the rated entity (issuer-pays model), and submit a report thereon to the European Parliament and the Council.
+> 2. By 7 December 2010, the Commission shall, in the light of discussions with the competent authorities, assess the application of Title III of this Regulation, in particular of the cooperation of the competent authorities, the legal status of CESR and supervisory practices. The Commission shall present a report on those matters to the European Parliament and to the Council, accompanied, where appropriate, by proposals for a review of that Title.
+> That report shall include a reference to the Commission proposal of 12 November 2008 for a regulation on credit rating agencies and to the report of the Committee on Economic and Monetary Affairs of the European Parliament of 23 March 2009 relating to that proposal.
+> 3. By 1 July 2011, the Commission shall, in the light of developments in the regulatory and supervisory framework for credit rating agencies in third countries, present a report to the European Parliament and to the Council concerning the effects of those developments and of t […truncated by emendrix: 2690 characters omitted…]
+
+**MODIFIED · Art. 39a — ESMA’s staffing and resources** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 39a`, `AR 39a ALN 1` · *dates* -2011-12-31 +2014-06-21 · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The article's heading changed from describing a report by ESMA to referring to ESMA's staffing and resources. [Art. 39a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_39a) [Art. 39a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39a)
+
+The deadline by which ESMA must assess its staffing and resources needs and submit its report was changed from 31 December 2011 to 21 June 2014. [Art. 39a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_39a) [Art. 39a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39a)
+
+*before* (`02009R1060-20110721`)
+
+> Article 39a
+> Report by ESMA
+> By 31 December 2011, ESMA shall assess the staffing and resources needs arising from the assumption of its powers and duties in accordance with this Regulation and submit a report to the European Parliament, the Council and the Commission.
+
+*after* (`02009R1060-20130620`)
+
+> Article 39a
+> ESMA’s staffing and resources
+> By 21 June 2014, ESMA shall assess its staffing and resources needs arising from the assumption of its powers and duties under this Regulation and shall submit a report to the European Parliament, the Council and the Commission.
+
+**INSERTED · Art. 39b — Reporting obligations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new article requires the Commission to submit several reports to the European Parliament and the Council: one by 31 December 2015 on steps taken to delete references to credit ratings that trigger sole or mechanistic reliance and on alternative tools for investors' own credit risk assessment, with a view to removing such references from Union law by 1 January 2020, with ESMA providing technical advice. [Art. 39b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39b)
+
+It also requires a report by 31 December 2014 on a European creditworthiness assessment for sovereign debt, followed by a further report by 31 December 2016 on the appropriateness and feasibility of a European credit rating agency or foundation, and a separate report by 31 December 2013 on the feasibility of a network of smaller credit rating agencies, which may lead to a re-evaluation of Article 8d. [Art. 39b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39b)
+
+*after* (`02009R1060-20130620`)
+
+> Article 39b
+> Reporting obligations
+> 1. By 31 December 2015, the Commission shall submit a report to the European Parliament and to the Council on:
+> (a) the steps taken as regards the deletion of references to credit ratings which trigger or have the potential to trigger sole or mechanistic reliance thereon; and
+> (b) alternative tools to enable investors to make their own credit risk assessment of issuers and of financial instruments,
+> with a view to deleting all references to credit ratings in Union law for regulatory purposes by 1 January 2020, subject to appropriate alternatives being identified and implemented. ESMA shall provide technical advice to the Commission within the framework of this paragraph.
+> 2. Taking into consideration the situation of the market, the Commission shall, by 31 December 2014, submit a report to the European Parliament and to the Council on the appropriateness of the development of a European creditworthiness assessment for sovereign debt.
+> Taking into consideration the findings of the report referred to in the first subparagraph and the situation of the market, the Commission shall, by 31 December 2016, submit a report to the European Parliament and to the Council, on the appropriateness and feasibility of supporting a European credit rating agency dedicated to assessing the creditworthiness of Member States’ sovereign debt and/or a European credit rating foundation for all other credit ratings.
+> 3. The Commission shall, by 31 December 2013, submit a re […truncated by emendrix: 509 characters omitted…]
+
+**MODIFIED · TIT III** · applies from: unknown
+
+*amended by* `32013R0462`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I — INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST** · applies from: unchanged
+
+*within* `AN I SCT B SCT 1`, `AN I SCT B SCT 3`, `AN I SCT B SCT 3 PTA (aa)`, `AN I SCT B SCT 3 PTA (ba)`, `AN I SCT B SCT 3 PTA (ca)`, `AN I SCT B SCT 3a`, `AN I SCT B SCT 3b`, `AN I SCT B SCT 3c`, `AN I SCT B SCT 4`, `AN I SCT B SCT 7 PTA (a)`, `AN I SCT B SCT 7 PTA (d)`, `AN I SCT B SCT 7 PTA (e)`, `AN I SCT C SCT 2`, `AN I SCT C SCT 3 PTA (b)`, `AN I SCT C SCT 7`, `AN I SCT C SCT 8`, `AN I SCT C SCT 8 PTA (a)`, `AN I SCT C SCT 8 PTA (b)`, `AN I SCT C SCT 8 PTA (b) PTI (i)`, `AN I SCT C SCT 8 PTA (b) PTI (ii)`, `AN I SCT C SCT 8 PTA (c)`, `AN I SCT D`, `AN I SCT D SCT 1`, `AN I SCT D SCT 2`, `AN I SCT D SCT 2 PTA (a)`, `AN I SCT D SCT 2 PTA (d)`, `AN I SCT D SCT 2 PTA (e)`, `AN I SCT D SCT 2 PTA (f)`, `AN I SCT D SCT 2a`, `AN I SCT D SCT 3`, `AN I SCT D SCT 4`, `AN I SCT D SCT 5`, `AN I SCT D SCT 6`, `AN I SCT D PO 1`, `AN I SCT D PO 2`, `AN I SCT D PO 3`, `AN I SCT D PO 4`, `AN I SCT E`, `AN I SCT E SCT 3`, `AN I SCT E PTA (a)`, `AN I SCT E PTA (aa)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Annex I now extends most independence, conflict-of-interest, record-keeping and disclosure requirements in Sections B, C and D to cover rating outlooks alongside credit ratings, and adds new ownership-based conflict provisions tied to shareholders or members holding 5% or 10% or more of a credit rating agency's capital or voting rights. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
+
+Section B gains new points 3(aa), (ba), (ca), 3a, 3b and 3c addressing shareholder ownership thresholds, indirect shareholders, and non-discriminatory fee-setting, none of which appeared in the earlier text, while point 4 is broadened to also bind persons holding at least 5% of the agency's capital or voting rights. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_I)
+
+Section C point 8 is restructured so the four-year, five-year and seven-year rotation limits are reorganised into points (a) and (b) with sub-points (i) and (ii) and made subject to a carve-out for agencies appointed by an issuer or related third party and for sovereign-rating agencies, and Section D is expanded with a new Part III on sovereign ratings and additional disclosure items in Section E, including fee and pricing-policy disclosures and turnover breakdowns, that were absent before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_I)
+
+*before* (`02009R1060-20110721`)
+
+>
+> ANNEX I
+> INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST
+>
+>
+> Section A
+> Organisational requirements
+> 1.
+> The credit rating agency shall have an administrative or supervisory board. Its senior management shall ensure that:
+>
+> (a) credit rating activities are independent, including from all political and economic influences or constraints;
+>
+> (b) conflicts of interest are properly identified, managed and disclosed;
+>
+> (c) the credit rating agency complies with the remaining requirements of this Regulation.
+> 2.
+> A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
+> The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
+> At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26011 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> ANNEX I
+> INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST
+> Section A
+> Organisational requirements
+> 1. The credit rating agency shall have an administrative or supervisory board. Its senior management shall ensure that:
+> (a) credit rating activities are independent, including from all political and economic influences or constraints;
+> (b) conflicts of interest are properly identified, managed and disclosed;
+> (c) the credit rating agency complies with the remaining requirements of this Regulation.
+> 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
+> The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
+> At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34440 characters omitted…]
+
+**MODIFIED · Annex II — INFORMATION TO BE PROVIDED IN THE APPLICATION FOR REGISTRATION** · applies from: unchanged
+
+*within* `AN II SCT 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In item 1, the reference to the registered office location changes from 'within the Community' to 'within the Union'. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_II)
+
+The remaining items in the list of information to be provided are unchanged in substance. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_II)
+
+*before* (`02009R1060-20110721`)
+
+>
+> ANNEX II
+> INFORMATION TO BE PROVIDED IN THE APPLICATION FOR REGISTRATION
+>
+> 1.
+> Full name of the credit rating agency, address of the registered office within the Community
+> 2.
+> Name and contact details of a contact person and of the compliance officer
+> 3.
+> Legal status
+> 4.
+> Class of credit ratings for which the credit rating agency is applying to be registered
+> 5.
+> Ownership structure
+> 6.
+> Organisational structure and corporate governance
+> 7.
+> Financial resources to perform credit rating activities
+> 8.
+> Staffing of credit rating agency and its expertise
+> 9.
+> Information regarding subsidiaries of credit rating agency
+> 10.
+> Description of the procedures and methodologies used to issue and review credit ratings
+> 11.
+> Policies and procedures to identify, manage and disclose any conflicts of interests
+> 12.
+> Information regarding rating analysts
+> 13.
+> Compensation and performance evaluation arrangements
+> 14.
+> Services other than credit rating activities, which the credit rating agency intends to provide
+> 15.
+> Programme of operations, including indications of where the main business activities are expected to be carried out, branches to be established, and setting out the type of business envisaged
+> 16.
+> Documents and detailed information related to the expected use of endorsement
+> 17.
+> Documents and detailed information related to the expected outsourcing arrangements including information on entities assuming outsourcing functions.
+
+*after* (`02009R1060-20130620`)
+
+> ANNEX II
+> INFORMATION TO BE PROVIDED IN THE APPLICATION FOR REGISTRATION
+> 1. Full name of the credit rating agency, address of the registered office within the Union
+> 2. Name and contact details of a contact person and of the compliance officer
+> 3. Legal status
+> 4. Class of credit ratings for which the credit rating agency is applying to be registered
+> 5. Ownership structure
+> 6. Organisational structure and corporate governance
+> 7. Financial resources to perform credit rating activities
+> 8. Staffing of credit rating agency and its expertise
+> 9. Information regarding subsidiaries of credit rating agency
+> 10. Description of the procedures and methodologies used to issue and review credit ratings
+> 11. Policies and procedures to identify, manage and disclose any conflicts of interests
+> 12. Information regarding rating analysts
+> 13. Compensation and performance evaluation arrangements
+> 14. Services other than credit rating activities, which the credit rating agency intends to provide
+> 15. Programme of operations, including indications of where the main business activities are expected to be carried out, branches to be established, and setting out the type of business envisaged
+> 16. Documents and detailed information related to the expected use of endorsement
+> 17. Documents and detailed information related to the expected outsourcing arrangements including information on entities assuming outsourcing functions.
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III`, `AN III PO 19`, `AN III PO 20`, `AN III PO 20a`, `AN III PO 21`, `AN III PO 22`, `AN III PO 22a`, `AN III PO 26a`, `AN III PO 26b`, `AN III PO 33`, `AN III PO 36`, `AN III PO 38`, `AN III PO 39`, `AN III PO 40`, `AN III PO 42`, `AN III PO 42a`, `AN III PO 42b`, `AN III PO 46`, `AN III PO 46a`, `AN III PO 49a`, `AN III PO 55`, `AN III PO 56`, `AN III PO 57`, `AN III PO 58`, `AN III PO 59`, `AN III PO 60`, `AN III PO 61`, `AN III PO 62`, `AN III PO 3a`, `AN III PO 3b`, `AN III PO 3c`, `AN III PO 4a`, `AN III PO 4b`, `AN III PO 4c` · *amended by* `32013R0462`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Annex III adds numerous new infringement entries covering matters such as re-securitisation contract durations, shareholder or member breaches of ownership restrictions, use of information outside Article 8(2), non-compliant rating methodology changes, sovereign rating monitoring and calendar publication, research report obligations, notification of methodology errors, and disclosure of new or changed rating methodologies, among others. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_III)
+
+Many existing entries are reworded to extend their scope from credit ratings alone to also cover rating outlooks, and several references to specific sub-points and periods (such as the five, six or seven-year analyst rotation periods) are restructured or renumbered within the affected points. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_III)
+
+Entries concerning information requests and inspections are also reworded to address failures to provide information or explanations, rather than only incorrect or misleading responses. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_III)
+
+*before* (`02009R1060-20110721`)
+
+>
+> ANNEX III
+>
+>
+> List of infringements referred to in Article 24(1) and Article 36a(1)
+>
+>
+> I. Infringements related to conflicts of interest, organisational or operational requirements
+>
+> 1. The credit rating agency infringes Article 4(3) by endorsing a credit rating issued in a third country without complying with the conditions set out in that paragraph, unless the reason for that infringement is outside the credit rating agency's knowledge or control.
+>
+> 2. The credit rating agency infringes the second subparagraph of Article 4(4) by using the endorsement of a credit rating issued in a third country with the intention of avoiding the requirements of this Regulation.
+>
+> 3. The credit rating agency infringes Article 6(2), in conjunction with point 1 of Section A of Annex I, by not establishing an administrative or a supervisory board.
+>
+> 4. The credit rating agency infringes Article 6(2), in conjunction with the first paragraph of point 2 of Section A of Annex I, by not ensuring that its business interest does not impair the independence or accuracy of the credit rating activities.
+>
+> 5. The credit rating agency infringes Article 6(2), in conjunction with the second paragraph of point 2 of Section A of Annex I, by appointing senior management which are not of good repute, sufficiently skilled or experienced, or cannot ensure the sound and prudent management of the credit rating agency.
+>
+> 6. The credit rating agency infringes Article 6(2), in conjunction with the third paragraph of point 2 of […truncated by emendrix: 21190 characters omitted…]
+
+*after* (`02009R1060-20130620`)
+
+> ANNEX III
+> List of infringements referred to in Article 24(1) and Article 36a(1)
+> I. Infringements related to conflicts of interest, organisational or operational requirements
+> 1. The credit rating agency infringes Article 4(3) by endorsing a credit rating issued in a third country without complying with the conditions set out in that paragraph, unless the reason for that infringement is outside the credit rating agency's knowledge or control.
+> 2. The credit rating agency infringes the second subparagraph of Article 4(4) by using the endorsement of a credit rating issued in a third country with the intention of avoiding the requirements of this Regulation.
+> 3. The credit rating agency infringes Article 6(2), in conjunction with point 1 of Section A of Annex I, by not establishing an administrative or a supervisory board.
+> 4. The credit rating agency infringes Article 6(2), in conjunction with the first paragraph of point 2 of Section A of Annex I, by not ensuring that its business interest does not impair the independence or accuracy of the credit rating activities.
+> 5. The credit rating agency infringes Article 6(2), in conjunction with the second paragraph of point 2 of Section A of Annex I, by appointing senior management which are not of good repute, sufficiently skilled or experienced, or cannot ensure the sound and prudent management of the credit rating agency.
+> 6. The credit rating agency infringes Article 6(2), in conjunction with the third paragraph of point 2 of Section A […truncated by emendrix: 29591 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20130620 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20110721 -->
 ## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
 ### `02009R1060-20110601` → `02009R1060-20110721`
