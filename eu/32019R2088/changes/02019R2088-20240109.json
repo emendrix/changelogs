@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32019R2088",
+    "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+  },
+  "from_version": "02019R2088-20200712",
+  "to_version": "02019R2088-20240109",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-01-09"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 21,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R2088",
+            "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+          },
+          "version": "02019R2088-20240109",
+          "location": "AR 17"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2869",
+            "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2020-07-12, 2024-01-09]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 017",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R2088",
+            "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+          },
+          "version": "02019R2088-20240109",
+          "location": "AR 18a"
+        },
+        "heading": "Accessibility of information on the European single access point",
+        "before": null,
+        "after": "Article 18a\nAccessibility of information on the European single access point\n1. From 10 January 2028, when making public any information referred to in Article 3(1) and (2), Article 4(1), (3), (4) and (5), Articles 5(1) and 10(1) of this Regulation, financial market participants and financial advisers shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the financial market participant or financial adviser to which the information relates;\n(ii) for legal persons, the legal entity identifier of the financial market participant or financial adviser, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) for legal persons, the size of the financial market participant or financial adviser by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), financial market participants and financial advisers that are legal persons shall obtain a legal entity identifier.\n3. By 9 January 2028, for the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, the ESAs, through the Joint Committee, shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), the ESAs shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nThe ESAs shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010, Article 15 of Regulation (EU) No 1094/2010 and Article 15 of Regulation (EU) No 1095/2010.\n5. Where necessary, the ESAs, through the Joint Committee, shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2869",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2869 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article requiring financial market participants and financial advisers to submit certain disclosures simultaneously to a designated collection body so that the information becomes accessible on the European single access point, with accompanying format and metadata requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20240109",
+                "location": "AR 18a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a",
+              "label": "Art. 18a, 02019R2088-20240109"
+            }
+          ]
+        },
+        {
+          "text": "It also directs Member States to designate a collection body and notify ESMA, and tasks the ESAs with developing implementing technical standards and guidelines on metadata and formatting.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20240109",
+                "location": "AR 18a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a",
+              "label": "Art. 18a, 02019R2088-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32019R2088",
+      "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+    },
+    "from_version": "02019R2088-20200712",
+    "to_version": "02019R2088-20240109",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 18a"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 18a"
+        ],
+        "note": "1 annotations in (2020-07-12, 2024-01-09]",
+        "claims": [
+          {
+            "location": "AR 18a",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-09",
+            "source": "32023R2869 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2869",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 17"
+        ],
+        "note": "32023R2869, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 17",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2869",
+              "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 17",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 18a",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 17"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3567,
+      "output_tokens": 333,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 1,
+    "coordinates_unsupported": 0
+  }
+}
