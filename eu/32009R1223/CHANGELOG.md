@@ -10,6 +10,111 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20140829 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20140701` → `02009R1223-20140829`
+
+- **Act** `eu:32009R1223` · **In force** 2014-08-29 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20140701` · `v2` = `02009R1223-20140829`
+
+---
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
+
+*within* `AN III` · *amended by* `32014R0866`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The footnote list preceding the table gains one additional entry, a cross-reference stating that use as a preservative is addressed at Annex V, entry No 44. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_III)
+
+The remainder of the visible table entries in Annex III appear unchanged between the two versions, and the compared texts are truncated before the full annex ends, so any further differences beyond what is shown cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_III)
+
+*before* (`02009R1223-20140701`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 133887 characters omitted…]
+
+*after* (`02009R1223-20140829`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 136118 characters omitted…]
+
+**MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN V` · *amended by* `32014R0866`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The footnote block in the preamble gains two additional cross-reference notes pointing to Annex III entries No 287 and No 286, which are not present in the earlier version. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V)
+
+Entry 44 (Alkyl (C12-22) trimethyl ammonium bromide and chloride) is reformatted from a single consolidated row listing all six substances with their CAS and EC numbers together into a layout that pairs each substance name with its own CAS and EC number on separate lines, while the same maximum concentration of 0,1 % is retained. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V)
+
+A new entry, numbered 59 and covering citric acid and silver citrate, appears at the end of the list in the later text with an EC number, a maximum concentration of 0,2 % corresponding to 0,0024 % of silver, and a restriction against use in oral products and eye products, none of which appears in the earlier text. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V)
+
+*before* (`02009R1223-20140701`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 11656 characters omitted…]
+
+*after* (`02009R1223-20140829`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 12051 characters omitted…]
+
+**MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN VI` · *amended by* `32014R0866`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The after text adds a new entry, numbered 29, for 1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, including as nanomaterial, listed under the names Tris-biphenyl triazine and Tris-biphenyl triazine (nano), with an allowed maximum concentration of 10 %. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_VI)
+
+This new entry states that the substance is not to be used in sprays and that only nanomaterials meeting stated characteristics are allowed, namely a median primary particle size greater than 80 nm, a purity of at least 98 %, and being uncoated. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_VI)
+
+No such entry, name, CAS number, or set of nanomaterial conditions appears in the earlier version of Annex VI. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_VI)
+
+*before* (`02009R1223-20140701`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use other than as a colorant, see Annex IV, No. 143.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as acid […truncated by emendrix: 2404 characters omitted…]
+
+*after* (`02009R1223-20140829`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use other than as a colorant, see Annex IV, No. 143.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as acid […truncated by emendrix: 2710 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20140829 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20140701 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20140401` → `02009R1223-20140701`
