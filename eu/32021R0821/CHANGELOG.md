@@ -10,6 +10,87 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20230112 -->
+## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
+### `02021R0821-20220505` → `02021R0821-20230112`
+
+- **Act** `eu:32021R0821` · **In force** 2023-01-12 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02021R0821-20220505` · `v2` = `02021R0821-20230112`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32023R0066`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unchanged
+
+*within* `AN I`, `AN I PTA (a)`, `AN I PTA (h)`, `AN I PTA (i)`, `AN I PTA (k)`, `AN I PTA (p)`, `AN I PTA (r)` · *amended by* `32023R0066`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The list of acronyms and abbreviations gains new entries, including ECAD and GAAFET, that were not present before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230112#anx_I)
+
+A new defined term for "Gate-All-Around Field-Effect Transistor" (GAAFET) is added to the definitions section, together with a technical note on nanosheet, nanowire and surrounding gate transistor structures. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230112#anx_I)
+
+Several existing entries are lightly reworded, such as the "Diffusion bonding" definition dropping references to categories 8 and 9, the "Compensation systems" definition inserting the word "the" before "rigid body rotation noise", and cross-references in the "Magnetic Gradiometers" and "Intrinsic Magnetic Gradiometer" entries changing capitalisation, alongside minor spacing changes in numeric tolerances. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20220505#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230112#anx_I)
+
+*before* (`02021R0821-20220505`)
+
+> ANNEX I
+> LIST OF DUAL-USE ITEMS REFERRED TO IN ARTICLE 3 OF THIS REGULATION
+> The list of dual-use items contained in this Annex implements internationally agreed dual-use controls including the Australia Grouphttps://www.australiagroup.net/, the Missile Technology Control Regime (MTCR)http://mtcr.info/, the Nuclear Suppliers Group (NSG)http://www.nuclearsuppliersgroup.org/, the Wassenaar Arrangementhttp://www.wassenaar.org/ and the Chemical Weapons Convention (CWC)https://www.opcw.org/chemical-weapons-convention.
+> CONTENTS
+> Part I General Notes, Acronyms and Abbreviations, and Definitions
+> Part II - Category 0 Nuclear materials, facilities and equipment
+> Part III - Category 1 Special materials and related equipment
+> Part IV- Category 2 Materials processing
+> Part V - Category 3 Electronics
+> Part VI - Category 4 Computers
+> Part VII - Category 5 Telecommunications and "information security"
+> Part VIII - Category 6 Sensors and lasers
+> Part IX - Category 7 Navigation and avionics
+> Part X - Category 8 Marine
+> Part XI - Category 9 Aerospace and propulsion
+> PART I
+> General Notes, Acronyms and Abbreviations, and Definitions
+> GENERAL NOTES TO ANNEX I
+> 1. For control of goods which are designed or modified for military use, see the relevant list(s) of controls on military goods maintained by individual EU Member States. References in this Annex that state "SEE ALSO MILITARY GOODS CONTROLS" refer to the same lists.
+> 2. The object of the controls contained in this Annex should not be defeated by the export […truncated by emendrix: 574179 characters omitted…]
+
+*after* (`02021R0821-20230112`)
+
+> ANNEX I
+> LIST OF DUAL-USE ITEMS REFERRED TO IN ARTICLE 3 OF THIS REGULATION
+> The list of dual-use items contained in this Annex implements internationally agreed dual-use controls including the Australia Grouphttps://www.australiagroup.net/, the Missile Technology Control Regime (MTCR)http://mtcr.info/, the Nuclear Suppliers Group (NSG)http://www.nuclearsuppliersgroup.org/, the Wassenaar Arrangementhttp://www.wassenaar.org/ and the Chemical Weapons Convention (CWC)https://www.opcw.org/chemical-weapons-convention.
+> CONTENTS
+> Part I General Notes, Acronyms and Abbreviations, and Definitions
+> Part II - Category 0 Nuclear materials, facilities and equipment
+> Part III - Category 1 Special materials and related equipment
+> Part IV- Category 2 Materials processing
+> Part V - Category 3 Electronics
+> Part VI - Category 4 Computers
+> Part VII - Category 5 Telecommunications and "information security"
+> Part VIII - Category 6 Sensors and lasers
+> Part IX - Category 7 Navigation and avionics
+> Part X - Category 8 Marine
+> Part XI - Category 9 Aerospace and propulsion
+> PART I
+> General Notes, Acronyms and Abbreviations, and Definitions
+> GENERAL NOTES TO ANNEX I
+> 1. For control of goods which are designed or modified for military use, see the relevant list(s) of controls on military goods maintained by individual EU Member States. References in this Annex that state "SEE ALSO MILITARY GOODS CONTROLS" refer to the same lists.
+> 2. The object of the controls contained in this Annex should not be defeated by the export […truncated by emendrix: 576414 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02021R0821-20230112 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20220505 -->
 ## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
 ### `02021R0821-20220107` → `02021R0821-20220505`
