@@ -1,0 +1,363 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20250629",
+  "to_version": "02013R0575-20260101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2026-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 1,
+    "touched_units": 2,
+    "unchanged_units": 789,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 1,
+    "date_only": 1,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20260101",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R1496",
+            "display_name": "Commission Delegated Regulation (EU) 2025/1496 of 12 June 2025 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2025-06-29, 2026-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20260101",
+          "location": "AR 520a"
+        },
+        "heading": "Application of own funds requirements for market risk",
+        "before": "Article 520a\nApplication of own funds requirements for market risk\nUntil 1 January 2026, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.",
+        "after": "Article 520a\nApplication of own funds requirements for market risk\nUntil 1 January 2027, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 520a ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R1496",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2026-01-01"
+        ],
+        "dates_added": [
+          "2027-01-01"
+        ],
+        "in_force": "2026-01-01",
+        "applies_from": "2027-01-01",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R1496 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32025R1496, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date until which institutions are to continue applying Part Three, Title IV and the market risk requirements of Articles 430, 430b, 445 and 455 in the version in force on 8 July 2024 was changed from 1 January 2026 to 1 January 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20260101",
+                "location": "AR 520a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20260101#art_520a",
+              "label": "Art. 520a, 02013R0575-20260101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250629",
+                "location": "AR 520a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_520a",
+              "label": "Art. 520a, 02013R0575-20250629"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20250629",
+    "to_version": "02013R0575-20260101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 520a"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 520a"
+        ],
+        "note": "1 annotations in (2025-06-29, 2026-01-01]",
+        "claims": [
+          {
+            "location": "AR 520a",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-01",
+            "source": "32025R1496 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1496",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32025R1496, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R1496",
+              "display_name": "Commission Delegated Regulation (EU) 2025/1496 of 12 June 2025 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the date of application of the own funds requirements for market risk"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 520a",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 2676,
+      "output_tokens": 170,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

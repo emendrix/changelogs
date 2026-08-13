@@ -10,6 +10,49 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20260101 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20250629` → `02013R0575-20260101`
+
+- **Act** `eu:32013R0575` · **In force** 2026-01-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 789 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20250629` · `v2` = `02013R0575-20260101`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32025R1496`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DEFERRED · Art. 520a — Application of own funds requirements for market risk** · applies from: 2027-01-01
+
+*within* `AR 520a ALN 1` · *dates* -2026-01-01 +2027-01-01 · *amended by* `32025R1496`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The date until which institutions are to continue applying Part Three, Title IV and the market risk requirements of Articles 430, 430b, 445 and 455 in the version in force on 8 July 2024 was changed from 1 January 2026 to 1 January 2027. [Art. 520a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20260101#art_520a) [Art. 520a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250629#art_520a)
+
+*before* (`02013R0575-20250629`)
+
+> Article 520a
+> Application of own funds requirements for market risk
+> Until 1 January 2026, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.
+
+*after* (`02013R0575-20260101`)
+
+> Article 520a
+> Application of own funds requirements for market risk
+> Until 1 January 2027, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20260101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20250629 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20250101` → `02013R0575-20250629`
