@@ -10,6 +10,130 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20200101 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20191201` → `02008R1272-20200101`
+
+- **Act** `eu:32008R1272` · **In force** 2020-01-01 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **1 disputed**
+- **Diff** 1 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20191201` · `v2` = `02008R1272-20200101`
+
+---
+
+**MODIFIED · Art. 25 — Supplemental information on the label** · applies from: unchanged
+
+*within* `AR 25 PA 7` · *amended by* `32020R0011`, `32017R0542`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20191201`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1 and 2, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1) (a) to (g) and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any other statements that […truncated by emendrix: 850 characters omitted…]
+
+*after* (`02008R1272-20200101`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1 and 2, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1) (a) to (g) and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any other statements that […truncated by emendrix: 1065 characters omitted…]
+
+**MODIFIED · Art. 29 — Exemptions from labelling and packaging requirements** · applies from: unchanged
+
+*within* `AR 29 PA 4a` · *amended by* `32020R0011`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20191201`)
+
+> Article 29
+> Exemptions from labelling and packaging requirements
+> 1. Where the packaging of a substance or a mixture is either in such a shape or form or is so small that it is impossible to meet the requirements of Article 31 for a label in the languages of the Member State in which the substance or mixture is placed on the market, the label elements in accordance with the first subparagraph of Article 17(2) shall be provided in accordance with section 1.5.1 of Annex I.
+> 2. If the full label information cannot be provided in the way specified in paragraph 1 the label information may be reduced in accordance with section 1.5.2 of Annex I.
+> 3. When a hazardous substance or mixture referred to in Part 5 of Annex II is supplied to the general public without packaging it shall be accompanied by a copy of the label elements in accordance with Article 17.
+> 4. For certain mixtures classified as hazardous to the environment, exemptions to certain provisions on environmental labelling or specific provisions in relation to environmental labelling may be determined in accordance with the procedure referred to in Article 53, where it can be demonstrated that there would be a reduction in the environmental impact. Such exemptions or specific provisions are defined in Part 2 of Annex II.
+> 5. The Commission may request the Agency to prepare and submit to it further draft exemptions from labelling and packaging requirements.
+
+*after* (`02008R1272-20200101`)
+
+> Article 29
+> Exemptions from labelling and packaging requirements
+> 1. Where the packaging of a substance or a mixture is either in such a shape or form or is so small that it is impossible to meet the requirements of Article 31 for a label in the languages of the Member State in which the substance or mixture is placed on the market, the label elements in accordance with the first subparagraph of Article 17(2) shall be provided in accordance with section 1.5.1 of Annex I.
+> 2. If the full label information cannot be provided in the way specified in paragraph 1 the label information may be reduced in accordance with section 1.5.2 of Annex I.
+> 3. When a hazardous substance or mixture referred to in Part 5 of Annex II is supplied to the general public without packaging it shall be accompanied by a copy of the label elements in accordance with Article 17.
+> 4. For certain mixtures classified as hazardous to the environment, exemptions to certain provisions on environmental labelling or specific provisions in relation to environmental labelling may be determined in accordance with the procedure referred to in Article 53, where it can be demonstrated that there would be a reduction in the environmental impact. Such exemptions or specific provisions are defined in Part 2 of Annex II.
+> 4a. Where under Annex VIII the submitter creates a unique formula identifier, the submitter may, instead of including it in the supplemental information on the label, opt to show it in another way permitted by […truncated by emendrix: 171 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02008R1272-20191201`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1995658 characters omitted…]
+
+*after* (`02008R1272-20200101`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1995695 characters omitted…]
+
+**INSERTED · Annex VIII — ANNEX VIII** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R0011`, `32017R0542`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02008R1272-20200101`)
+
+> ANNEX VIII
+> Harmonised information relating to emergency health response and preventative measures
+> PART A
+> GENERAL REQUIREMENTS
+> 1. Application
+> 1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers and downstream users placing on the market mixtures for industrial use within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.
+> 2. Purpose, definitions and scope
+> 2.1. This Annex sets out the requirements that importers and downstream users placing mixtures on the market, hereina […truncated by emendrix: 20229 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20200101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20191201 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20190726` → `02008R1272-20191201`
