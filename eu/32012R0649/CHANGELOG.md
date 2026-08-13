@@ -10,6 +10,55 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20231101 -->
+## Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and […]
+### `02012R0649-20220701` → `02012R0649-20231101`
+
+- **Act** `eu:32012R0649` · **In force** 2023-11-01 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02012R0649-20220701` · `v2` = `02012R0649-20231101`
+
+---
+
+**MODIFIED · Annex I — LIST OF CHEMICALS (referred to in Article 7)** · applies from: unchanged
+
+*within* `AN I` · *amended by* `32023R1656`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The list of chemicals in Part 1 has been expanded with numerous new entries, including substances such as 1-bromopropane, several phthalate esters, alpha-cypermethrin, azimsulfuron, bromadiolone, carbetamide, carboxin, cyproconazole, diisopentyl phthalate, dipentyl phthalate, diuron, esbiothrin, ethametsulfuron-methyl, etridiazole, famoxadone, fenbuconazole, fenoxycarb, fluquinconazole, indoxacarb, isopyrazam, lufenuron, metam-sodium, metosulam, myclobutanil, n-pentyl-isopentyl phthalate, pencycuron, phosmet, prochloraz, profoxydim, spirodiclofen, and triflumizole, each with associated CAS, EC and CN identifiers and subcategory and use-limitation codes. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_I)
+
+Part 2 has correspondingly gained many of the same new substances with category and use-limitation codes, some existing entries such as Bromoxynil, Chlorfenvinphos, Cyfluthrin, Diuron, Indoxacarb and the Nonylphenol ethoxylates entry have altered use-limitation or CAS/EC data, and the Perfluorooctanoic acid entry has lost its EC number reference compared to before. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_I)
+
+Part 3 now additionally lists Bis(pentabromophenyl) ether (decabromodiphenyl ether) and Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, each with new HS code and category data, entries that were not present before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_I)
+
+*before* (`02012R0649-20220701`)
+
+> ANNEX I
+> LIST OF CHEMICALS
+> (referred to in Article 7)
+> PART 1
+> List of chemicals subject to export notification procedure
+> (referred to in Article 8)
+> It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in Article 8(6), first subparagraph, points (b) and (c), have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
+> It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
+> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).Except motor fuels subject to Directive 98/7 […truncated by emendrix: 33383 characters omitted…]
+
+*after* (`02012R0649-20231101`)
+
+> ANNEX I
+> LIST OF CHEMICALS
+> (referred to in Article 7)
+> PART 1
+> List of chemicals subject to export notification procedure
+> (referred to in Article 8)
+> It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in Article 8(6), first subparagraph, points (b) and (c), have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
+> It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
+> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).Except motor fuels subject to Directive 98/7 […truncated by emendrix: 37730 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0649-20231101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20220701 -->
 ## Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and […]
 ### `02012R0649-20200901` → `02012R0649-20220701`
