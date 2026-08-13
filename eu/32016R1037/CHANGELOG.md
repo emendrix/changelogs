@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R1037-20200811 -->
+## Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised […]
+### `02016R1037-20180608` → `02016R1037-20200811`
+
+- **Act** `eu:32016R1037` · **In force** 2020-08-11 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02016R1037-20180608` · `v2` = `02016R1037-20200811`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32020R1173`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29a — Information at provisional stage** · applies from: unchanged
+
+*within* `AR 29a PA 1 ALN 1`, `AR 29a PA 2 ALN 1` · *amended by* `32020R1173`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In paragraph 1, the period before imposition of provisional duties during which information must be provided to the listed parties was changed from three weeks to four weeks. [Art. 29a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_29a) [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20200811#art_29a)
+
+In paragraph 2, the period before the Article 12(1) deadline during which interested parties must be informed of non-imposition of duties was likewise changed from three weeks to four weeks. [Art. 29a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_29a) [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20200811#art_29a)
+
+*before* (`02016R1037-20180608`)
+
+> Article 29a
+> Information at provisional stage
+> 1. Union producers, importers and exporters and their representative associations, and the country of origin and/or export, may request information on the planned imposition of provisional duties. Requests for such information shall be made in writing within the time limit prescribed in the notice of initiation. Such information shall be provided to those parties three weeks before the imposition of provisional duties. Such information shall include: a summary of the proposed duties for information purposes only, and details of the calculation of the amount of the countervailable subsidy and the margin adequate to remove the injury to the Union industry, due account being taken of the need to respect the confidentiality obligations contained in Article 29. Parties shall have a period of three working days from the supply of such information to provide comments on the accuracy of the calculations.
+> 2. In cases where it is intended not to impose provisional duties but to continue the investigation, interested parties shall be informed of the non-imposition of duties three weeks before the expiry of the deadline mentioned in Article 12(1) for the imposition of provisional duties.
+
+*after* (`02016R1037-20200811`)
+
+> Article 29a
+> Information at provisional stage
+> 1. Union producers, importers and exporters and their representative associations, and the country of origin and/or export, may request information on the planned imposition of provisional duties. Requests for such information shall be made in writing within the time limit prescribed in the notice of initiation. Such information shall be provided to those parties four weeks before the imposition of provisional duties. Such information shall include: a summary of the proposed duties for information purposes only, and details of the calculation of the amount of the countervailable subsidy and the margin adequate to remove the injury to the Union industry, due account being taken of the need to respect the confidentiality obligations contained in Article 29. Parties shall have a period of three working days from the supply of such information to provide comments on the accuracy of the calculations.
+> 2. In cases where it is intended not to impose provisional duties but to continue the investigation, interested parties shall be informed of the non-imposition of duties four weeks before the expiry of the deadline mentioned in Article 12(1) for the imposition of provisional duties.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1037-20200811 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1037-20180608 -->
 ## Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised […]
 ### `02016R1037-20171220` → `02016R1037-20180608`
