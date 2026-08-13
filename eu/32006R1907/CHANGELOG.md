@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20210215 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20210101` → `02006R1907-20210215`
+
+- **Act** `eu:32006R1907` · **In force** 2021-01-04 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20210101` · `v2` = `02006R1907-20210215`
+
+---
+
+**MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XIV` · *dates* +2017-04-05 +2022-06-22 +2023-12-22
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+A reference to Regulation (EU) 2017/746 on in vitro diagnostic medical devices has been added as an explanatory footnote near the top of the annex. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XIV)
+
+For entry 42, the latest application date and sunset date columns, previously each a single date, now each contain a two-part structure: a general date and a derogation date tied to specified COVID-19-related research, development, production and diagnostic/treatment/prevention uses involving medicinal products and medical devices referencing Directive 2001/83/EC, Directive 93/42/EEC, Regulation (EU) 2017/745, Directive 98/79/EC and Regulation (EU) 2017/746. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XIV)
+
+*before* (`02006R1907-20210101`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 9815 characters omitted…]
+
+*after* (`02006R1907-20210215`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 11477 characters omitted…]
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 10`, `AN XVII APP 13` · *dates* +2009-11-30 +2021-01-04 +2021-02-15 +2021-08-15 +2022-01-04 +2023-01-04 +2023-02-15 +2023-08-15 +2024-02-15 · *amended by* `32020R2081`, `32019R1148`, `32021R0057`, `32020R2096`
+
+A new recital-style reference to Regulation (EC) No 1223/2009 on cosmetic products was added to the list of Official Journal references at the start of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XVII)
+
+In entry 3, the text dropped the R65 hazard-labelling references alongside H304 in several sub-points, leaving only H304 as the cited label, and the general reference to Community provisions on classification, packaging and labelling of dangerous substances and mixtures was reworded to refer to Union provisions on classification, labelling and packaging of substances and mixtures. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XVII)
+
+In entries 28 to 30, a new point (f) was added to the derogation list in paragraph 2, exempting devices covered by Regulation (EU) 2017/745, and the text was truncated before the remainder of the entry could be compared. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XVII)
+
+*before* (`02006R1907-20210101`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 […truncated by emendrix: 587130 characters omitted…]
+
+*after* (`02006R1907-20210215`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 […truncated by emendrix: 604933 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20210215 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20210101 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20200824` → `02006R1907-20210101`
