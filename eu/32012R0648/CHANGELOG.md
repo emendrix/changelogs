@@ -10,6 +10,163 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170103 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20160112` → `02012R0648-20170103`
+
+- **Act** `eu:32012R0648` · **In force** 2017-01-03 · **Detected** 2026-08-13
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **5 disputed**
+- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20160112` · `v2` = `02012R0648-20170103`
+
+---
+
+**MODIFIED · Art. 5 — Clearing obligation procedure** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 5 PA 2 ALN 3` · *dates* +2014-05-15 · *amended by* `32014R0600`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new sentence has been added at the end of paragraph 2 stating that, in developing the draft regulatory technical standards under that paragraph, ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts laid down in Article 95 of Directive 2014/65/EU. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
+
+No other wording in Article 5, including paragraph 3, differs between the two versions shown. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
+
+*before* (`02012R0648-20160112`)
+
+> Article 5
+> Clearing obligation procedure
+> 1. Where a competent authority authorises a CCP to clear a class of OTC derivatives under Article 14 or 15, it shall immediately notify ESMA of that authorisation.
+> In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details to be included in the notifications referred to in the first subparagraph.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+> 2. Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in Article 25, ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
+> (a) the class of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
+> (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies; and
+> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3397 characters omitted…]
+
+*after* (`02012R0648-20170103`)
+
+> Article 5
+> Clearing obligation procedure
+> 1. Where a competent authority authorises a CCP to clear a class of OTC derivatives under Article 14 or 15, it shall immediately notify ESMA of that authorisation.
+> In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details to be included in the notifications referred to in the first subparagraph.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+> 2. Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in Article 25, ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
+> (a) the class of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
+> (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies; and
+> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3834 characters omitted…]
+
+**MODIFIED · Art. 5.2** · applies from: unknown
+
+*amended by* `32014R0600`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 7 — Access to a CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 7 PA 1 ALN 1`, `AR 7 PA 1 ALN 1 PTA (a)`, `AR 7 PA 1 ALN 1 PTA (b)`, `AR 7 PA 6` · *dates* +2014-05-15 · *amended by* `32014R0600`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 1 now specifies that non-discriminatory and transparent treatment extends to collateral requirements and fees related to access, and it adds two new points describing non-discriminatory treatment of contracts in terms of collateral requirements and netting of economically equivalent contracts, and cross-margining with correlated contracts cleared by the same CCP under a risk model complying with Article 41. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
+
+A new paragraph 6 was added stating that the conditions on non-discriminatory treatment regarding collateral requirements, netting of economically equivalent contracts, and cross-margining with correlated contracts are to be further specified by technical standards adopted under Article 35(6)(e) of Regulation (EU) No 600/2014. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
+
+These additions do not appear in the earlier version of Article 7. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_7)
+
+*before* (`02012R0648-20160112`)
+
+> Article 7
+> Access to a CCP
+> 1. A CCP that has been authorised to clear OTC derivative contracts shall accept clearing such contracts on a non-discriminatory and transparent basis, regardless of the trading venue.
+> A CCP may require that a trading venue comply with the operational and technical requirements established by the CCP, including the risk-management requirements.
+> 2. A CCP shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
+> 3. Where a CCP refuses access under paragraph 2, it shall provide the trading venue with full reasons for such refusal.
+> 4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision acceding to the trading venue’s formal request in accordance with paragraph 2.
+> The competent authority of the trading venue and that of the CCP may refuse access to the CCP following a formal request by the trading venue only where such access would threaten the smooth and orderly functioning of the markets or would adversely affect systemic risk.
+> 5. ESMA shall settle any dispute arising from a disagreement between competent authorities in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.
+
+*after* (`02012R0648-20170103`)
+
+> Article 7
+> Access to a CCP
+> 1. A CCP that has been authorised to clear OTC derivative contracts shall accept clearing such contracts on a non-discriminatory and transparent basis, including as regards collateral requirements and fees related to access, regardless of the trading venue. This in particular shall ensure that a trading venue has the right to non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of:
+> (a) collateral requirements and netting of economically equivalent contracts, where the inclusion of such contracts in the close-out and other netting procedures of a CCP based on the applicable insolvency law would not endanger the smooth and orderly functioning, the validity or enforceability of such procedures; and
+> (b) cross-margining with correlated contracts cleared by the same CCP under a risk model that complies with Article 41.
+> A CCP may require that a trading venue comply with the operational and technical requirements established by the CCP, including the risk-management requirements.
+> 2. A CCP shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
+> 3. Where a CCP refuses access under paragraph 2, it shall provide the trading venue with full reasons for such refusal.
+> 4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision ac […truncated by emendrix: 1140 characters omitted…]
+
+**MODIFIED · Art. 7.1** · applies from: unknown
+
+*amended by* `32014R0600`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 7.6** · applies from: unknown
+
+*amended by* `32014R0600`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81 — Transparency and data availability** · applies from: unchanged
+
+*within* `AR 81 PA 3 ALN 2` · *amended by* `32014R0600`
+
+A new sentence is added at the end of paragraph 3, stating that a trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_81)
+
+The rest of Article 81, including the list of entities in paragraph 3 and paragraphs 1, 2, 4 and 5, is unchanged between the two versions. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_81)
+
+*before* (`02012R0648-20160112`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) EBA;
+> (c) EIOPA;
+> (d) the ESRB;
+> (e) the competent authority supervising CCPs accessing the trade repositories;
+> (f) the competent authority supervising the trading venues of the reported contracts;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 2884 characters omitted…]
+
+*after* (`02012R0648-20170103`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) EBA;
+> (c) EIOPA;
+> (d) the ESRB;
+> (e) the competent authority supervising CCPs accessing the trade repositories;
+> (f) the competent authority supervising the trading venues of the reported contracts;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3228 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20170103 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20160112 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20150916` → `02012R0648-20160112`
