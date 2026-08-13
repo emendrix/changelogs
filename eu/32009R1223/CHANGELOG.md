@@ -10,6 +10,75 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20170303 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20160812` → `02009R1223-20170303`
+
+- **Act** `eu:32009R1223` · **In force** 2017-03-03 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20160812` · `v2` = `02009R1223-20170303`
+
+---
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +2017-09-03 +2018-03-03 · *amended by* `32017R0237`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The entry for reference number 9 now excludes both 9a and 9b from its scope, whereas before it excluded only 9a, and a new entry 9b for 2,6-Dihydroxyethylaminotoluene has been added with its own concentration limits, label wording and application dates. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_III)
+
+A new entry 8c for N,N'-Bis(2-Hydroxyethyl)-2-Nitro-p-Phenylenediamine has also been inserted, with restrictions and label text tied to specific dates. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III)
+
+The text for entry 9a has been rewritten with reorganised sub-points, added labelling text with a specific date, and revised wording, while the general footnote referring to potassium hydroxide uses has been slightly reworded. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_III)
+
+*before* (`02009R1223-20160812`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 142551 characters omitted…]
+
+*after* (`02009R1223-20170303`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 154078 characters omitted…]
+
+**MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN V`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only textual difference found between the two versions of Annex V is a minor formatting change in entry 12, where a line break in the substance description before 'Ethyl-' was removed. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V)
+
+All other text, including the preamble, substance entries, CAS and EC numbers, concentration limits, and conditions of use, remains identical between the two versions. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V)
+
+*before* (`02009R1223-20160812`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 13315 characters omitted…]
+
+*after* (`02009R1223-20170303`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 13314 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20170303 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20160812 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20160810` → `02009R1223-20160812`
