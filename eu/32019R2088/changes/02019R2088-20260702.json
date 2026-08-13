@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32019R2088",
+    "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+  },
+  "from_version": "02019R2088-20240109",
+  "to_version": "02019R2088-20260702",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2026-07-02"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 21,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R2088",
+            "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+          },
+          "version": "02019R2088-20260702",
+          "location": "AR 13"
+        },
+        "heading": "Marketing communications",
+        "before": "Article 13\nMarketing communications\n1. Without prejudice to stricter sectoral legislation, in particular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 and Regulation (EU) No 1286/2014, financial market participants and financial advisers shall ensure that their marketing communications do not contradict the information disclosed pursuant to this Regulation.\n2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.\nPower is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
+        "after": "Article 13\nMarketing communications\n1. Without prejudice to stricter sectoral legislation, in particular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 and Regulation (EU) No 1286/2014, financial market participants and financial advisers shall ensure that their marketing communications do not contradict the information disclosed pursuant to this Regulation.\n2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.\nPower is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.\n3. Where a financial market participant or a financial adviser issues and discloses to third parties an ESG rating, as defined in Article 3, point (1), of Regulation (EU) 2024/3005 of the European Parliament and of the CouncilRegulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) No 2023/2859 (OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj)., as part of its marketing communications, it shall include on its website the same information as that required by point 1 of Annex III to that Regulation and it shall disclose in those marketing communications a link to those website disclosures.\nThe ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the information referred to in the first subparagraph of this paragraph, taking into account the information already disclosed pursuant to Article 10 of this Regulation.\nThe ESAs shall submit the draft regulatory technical standards referred to in the second subparagraph to the Commission.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the second subparagraph of this paragraph, in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3005",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-11-27"
+        ],
+        "in_force": "2026-07-02",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R3005 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R3005, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 3 is added requiring financial market participants or financial advisers that issue and disclose an ESG rating, as defined in Regulation (EU) 2024/3005, to third parties as part of their marketing communications to include on their website the same information required by point 1 of Annex III to that Regulation and to disclose in those marketing communications a link to those website disclosures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20260702",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20260702#art_13",
+              "label": "Art. 13, 02019R2088-20260702"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph also directs the ESAs, through the Joint Committee, to develop draft regulatory technical standards specifying that information, taking into account information already disclosed under Article 10, to submit those standards to the Commission, and it delegates power to the Commission to adopt them under Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20260702",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20260702#art_13",
+              "label": "Art. 13, 02019R2088-20260702"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 and 2 remain unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20240109",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_13",
+              "label": "Art. 13, 02019R2088-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R2088",
+                  "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+                },
+                "version": "02019R2088-20260702",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20260702#art_13",
+              "label": "Art. 13, 02019R2088-20260702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R2088",
+            "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+          },
+          "version": "02019R2088-20260702",
+          "location": "AR 49"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3005",
+            "display_name": "Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/2859 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2024-01-09, 2026-07-02]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 049",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32019R2088",
+      "display_name": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)"
+    },
+    "from_version": "02019R2088-20240109",
+    "to_version": "02019R2088-20260702",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 13"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 13"
+        ],
+        "note": "1 annotations in (2024-01-09, 2026-07-02]",
+        "claims": [
+          {
+            "location": "AR 13 PA 3",
+            "change_type": "INSERTED",
+            "in_force": "2026-07-02",
+            "source": "32024R3005 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3005",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 49"
+        ],
+        "note": "32024R3005, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 49",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 049",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3005",
+              "display_name": "Regulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) 2023/2859 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 13",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 49",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 49"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3559,
+      "output_tokens": 428,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
