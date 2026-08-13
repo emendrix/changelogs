@@ -10,6 +10,112 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20160112 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20150916` → `02012R0648-20160112`
+
+- **Act** `eu:32012R0648` · **In force** 2016-01-12 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20150916` · `v2` = `02012R0648-20160112`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unchanged
+
+*within* `AR 2 ALN 1 PO 7` · *amended by* `32015R2365`
+
+In point (7), the definition of an OTC derivative or OTC derivative contract now refers to equivalence with a regulated market being determined in accordance with Article 2a of this Regulation, replacing the prior reference to Article 19(6) of Directive 2004/39/EC. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
+
+A small wording change also appears, with "considered as equivalent" replaced by "considered to be equivalent" in the same point. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
+
+*before* (`02012R0648-20150916`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> (1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+> (2) trade repository means a legal person that centrally collects and maintains the records of derivatives;
+> (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
+> (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
+> (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7884 characters omitted…]
+
+*after* (`02012R0648-20160112`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> (1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+> (2) trade repository means a legal person that centrally collects and maintains the records of derivatives;
+> (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
+> (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
+> (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7876 characters omitted…]
+
+**INSERTED · Art. 2a — Equivalence decisions for the purposes of the definition of OTC derivatives** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32015R2365`
+
+A new Article 2a has been added, setting out a procedure for the Commission to determine whether third-country markets are equivalent to a regulated market for purposes of the OTC derivatives definition in this Regulation. [Art. 2a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a)
+
+It provides that such equivalence rests on the third-country market complying with legally binding requirements equivalent to Title III of Directive 2004/39/EC and being subject to effective ongoing supervision and enforcement, with the Commission adopting implementing acts under the examination procedure to make that determination. [Art. 2a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a)
+
+It also directs the Commission and ESMA to publish and periodically update a list of markets considered equivalent under that implementing act. [Art. 2a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a)
+
+*after* (`02012R0648-20160112`)
+
+> Article 2a
+> Equivalence decisions for the purposes of the definition of OTC derivatives
+> 1. For the purposes of Article 2(7) of this Regulation, a third-country market shall be considered to be equivalent to a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC where it complies with legally binding requirements which are equivalent to the requirements laid down in Title III of that Directive and it is subject to effective supervision and enforcement in that third country on an ongoing basis, as determined by the Commission in accordance with the procedure referred to in paragraph 2 of this Article.
+> 2. The Commission may adopt implementing acts determining that a third-country market complies with legally binding requirements which are equivalent to the requirements laid down in Title III of Directive 2004/39/EC and it is subject to effective supervision and enforcement in that third country on an ongoing basis for the purposes of paragraph 1.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 86(2) of this Regulation.
+> 3. The Commission and ESMA shall publish on their websites a list of those markets that are to be considered to be equivalent in accordance with the implementing act referred to in paragraph 2. That list shall be updated periodically.
+
+**MODIFIED · Art. 81 — Transparency and data availability** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 81 PA 3 ALN 1 PTA (b)`, `AR 81 PA 3 ALN 1 PTA (c)`, `AR 81 PA 3 ALN 1 PTA (d)`, `AR 81 PA 3 ALN 1 PTA (e)`, `AR 81 PA 3 ALN 1 PTA (f)`, `AR 81 PA 3 ALN 1 PTA (g)`, `AR 81 PA 3 ALN 1 PTA (h)`, `AR 81 PA 3 ALN 1 PTA (i)`, `AR 81 PA 3 ALN 1 PTA (j)`, `AR 81 PA 3 ALN 1 PTA (k)`, `AR 81 PA 3 ALN 1 PTA (l)`, `AR 81 PA 3 ALN 1 PTA (m)`, `AR 81 PA 3 ALN 1 PTA (n)`, `AR 81 PA 3 ALN 1 PTA (o)`, `AR 81 PA 3 ALN 1 PTA (p)` · *dates* +2009-07-13 +2013-10-15 · *amended by* `32015R2365`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02012R0648-20150916`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) the ESRB;
+> (c) the competent authority supervising CCPs accessing the trade repository;
+> (d) the competent authority supervising the trading venues of the reported contracts;
+> (e) the relevant members of the ESCB;
+> (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+> (h) the relevant Union securities and market authorities;
+> (i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;
+> (j) the Agency for the Cooperation of Energy Regulators;
+> (k) the resolution authorities designated under Article 3 of Direct […truncated by emendrix: 1552 characters omitted…]
+
+*after* (`02012R0648-20160112`)
+
+> Article 81
+> Transparency and data availability
+> 1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+> 2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+> 3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+> (a) ESMA;
+> (b) EBA;
+> (c) EIOPA;
+> (d) the ESRB;
+> (e) the competent authority supervising CCPs accessing the trade repositories;
+> (f) the competent authority supervising the trading venues of the reported contracts;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 2884 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20160112 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20150916 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20150625` → `02012R0648-20150916`

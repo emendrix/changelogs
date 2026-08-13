@@ -1,0 +1,527 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20150916",
+  "to_version": "02012R0648-20160112",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2016-01-12"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 95,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20160112",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\nFor the purposes of this Regulation, the following definitions shall apply:\n(1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;\n(2) trade repository means a legal person that centrally collects and maintains the records of derivatives;\n(3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;\n(4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;\n(5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;\n(6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amount. Derivatives belonging to the same class may have different maturities;\n(7) OTC derivative or OTC derivative contract means a derivative contract the execution of which does not take place on a regulated market as within the meaning of Article 4(1)(14) of Directive 2004/39/EC or on a third-country market considered as equivalent to a regulated market in accordance with Article 19(6) of Directive 2004/39/EC;\n(8) financial counterparty means an investment firm authorised in accordance with Directive 2004/39/EC, a credit institution authorised in accordance with Directive 2006/48/EC, an insurance undertaking authorised in accordance with Directive 73/239/EEC, an assurance undertaking authorised in accordance with Directive 2002/83/EC, a reinsurance undertaking authorised in accordance with Directive 2005/68/EC, a UCITS and, where relevant, its management company, authorised in accordance with Directive 2009/65/EC, an institution for occupational retirement provision within the meaning of Article 6(a) of Directive 2003/41/EC and an alternative investment fund managed by AIFMs authorised or registered in accordance with Directive 2011/61/EU;\n(9) non-financial counterparty means an undertaking established in the Union other than the entities referred to in points (1) and (8);\n(10) pension scheme arrangement means:\n(a) institutions for occupational retirement provision within the meaning of Article 6(a) of Directive 2003/41/EC, including any authorised entity responsible for managing such an institution and acting on its behalf as referred to in Article 2(1) of that Directive as well as any legal entity set up for the purpose of investment of such institutions, acting solely and exclusively in their interest;\n(b) occupational retirement provision businesses of institutions referred to in Article 3 of Directive 2003/41/EC;\n(c) occupational retirement provision businesses of life insurance undertakings covered by Directive 2002/83/EC, provided that all assets and liabilities corresponding to the business are ring-fenced, managed and organised separately from the other activities of the insurance undertaking, without any possibility of transfer;\n(d) any other authorised and supervised entities, or arrangements, operating on a national basis, provided that:\n(i) they are recognised under national law; and\n(ii) their primary purpose is to provide retirement benefits;\n(11) counterparty credit risk means the risk that the counterparty to a transaction defaults before the final settlement of the transaction’s cash flows;\n(12) interoperability arrangement means an arrangement between two or more CCPs that involves a cross-system execution of transactions;\n(13) competent authority means the competent authority referred to in the legislation referred to in point (8) of this Article, the competent authority referred to in Article 10(5) or the authority designated by each Member State in accordance with Article 22;\n(14) clearing member means an undertaking which participates in a CCP and which is responsible for discharging the financial obligations arising from that participation;\n(15) client means an undertaking with a contractual relationship with a clearing member of a CCP which enables that undertaking to clear its transactions with that CCP;\n(16) group means the group of undertakings consisting of a parent undertaking and its subsidiaries within the meaning of Articles 1 and 2 of Directive 83/349/EEC or the group of undertakings referred to in Article 3(1) and Article 80(7) and (8) of Directive 2006/48/EC;\n(17) financial institution means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to carry on one or more of the activities listed in points (2) to (12) of Annex I to Directive 2006/48/EC;\n(18) financial holding company means a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiary undertakings being a credit institution, and which is not a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerateOJ L 35, 11.2.2003, p. 1.;\n(19) ancillary services undertaking means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or a similar activity which is ancillary to the principal activity of one or more credit institution;\n(20) qualifying holding means any direct or indirect holding in a CCP or trade repository which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated marketOJ L 390, 31.12.2004, p. 38., taking into account the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the CCP or trade repository in which that holding subsists;\n(21) parent undertaking means a parent undertaking as described in Articles 1 and 2 of Directive 83/349/EEC;\n(22) subsidiary means a subsidiary undertaking as described in Articles 1 and 2 of Directive 83/349/EEC, including a subsidiary of a subsidiary undertaking of an ultimate parent undertaking;\n(23) control means the relationship between a parent undertaking and a subsidiary, as described in Article 1 of Directive 83/349/EEC;\n(24) close links means a situation in which two or more natural or legal persons are linked by:\n(a) participation, by way of direct ownership or control, of 20 % or more of the voting rights or capital of an undertaking; or\n(b) control or a similar relationship between any natural or legal person and an undertaking or a subsidiary of a subsidiary also being considered a subsidiary of the parent undertaking which is at the head of those undertakings.\nA situation in which two or more natural or legal persons are permanently linked to one and the same person by a control relationship shall also be regarded as constituting a close link between such persons.\n(25) capital means subscribed capital within the meaning of Article 22 of Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutionsOJ L 372, 31.12.1986, p. 1. in so far it has been paid up, plus the related share premium accounts, it fully absorbs losses in going concern situations, and, in the event of bankruptcy or liquidation, it ranks after all other claims;\n(26) reserves means reserves as set out in Article 9 of Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companiesOJ L 222, 14.8.1978, p. 11. and profits and losses brought forward as a result of the application of the final profit or loss;\n(27) board means administrative or supervisory board, or both, in accordance with national company law;\n(28) independent member of the board means a member of the board who has no business, family or other relationship that raises a conflict of interests regarding the CCP concerned or its controlling shareholders, its management or its clearing members, and who has had no such relationship during the five years preceding his membership of the board;\n(29) senior management means the person or persons who effectively direct the business of the CCP or the trade repository, and the executive member or members of the board.",
+        "after": "Article 2\nDefinitions\nFor the purposes of this Regulation, the following definitions shall apply:\n(1) CCP means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;\n(2) trade repository means a legal person that centrally collects and maintains the records of derivatives;\n(3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;\n(4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;\n(5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;\n(6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amount. Derivatives belonging to the same class may have different maturities;\n(7) OTC derivative or OTC derivative contract means a derivative contract the execution of which does not take place on a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC or on a third-country market considered to be equivalent to a regulated market in accordance with Article 2a of this Regulation;\n(8) financial counterparty means an investment firm authorised in accordance with Directive 2004/39/EC, a credit institution authorised in accordance with Directive 2006/48/EC, an insurance undertaking authorised in accordance with Directive 73/239/EEC, an assurance undertaking authorised in accordance with Directive 2002/83/EC, a reinsurance undertaking authorised in accordance with Directive 2005/68/EC, a UCITS and, where relevant, its management company, authorised in accordance with Directive 2009/65/EC, an institution for occupational retirement provision within the meaning of Article 6(a) of Directive 2003/41/EC and an alternative investment fund managed by AIFMs authorised or registered in accordance with Directive 2011/61/EU;\n(9) non-financial counterparty means an undertaking established in the Union other than the entities referred to in points (1) and (8);\n(10) pension scheme arrangement means:\n(a) institutions for occupational retirement provision within the meaning of Article 6(a) of Directive 2003/41/EC, including any authorised entity responsible for managing such an institution and acting on its behalf as referred to in Article 2(1) of that Directive as well as any legal entity set up for the purpose of investment of such institutions, acting solely and exclusively in their interest;\n(b) occupational retirement provision businesses of institutions referred to in Article 3 of Directive 2003/41/EC;\n(c) occupational retirement provision businesses of life insurance undertakings covered by Directive 2002/83/EC, provided that all assets and liabilities corresponding to the business are ring-fenced, managed and organised separately from the other activities of the insurance undertaking, without any possibility of transfer;\n(d) any other authorised and supervised entities, or arrangements, operating on a national basis, provided that:\n(i) they are recognised under national law; and\n(ii) their primary purpose is to provide retirement benefits;\n(11) counterparty credit risk means the risk that the counterparty to a transaction defaults before the final settlement of the transaction’s cash flows;\n(12) interoperability arrangement means an arrangement between two or more CCPs that involves a cross-system execution of transactions;\n(13) competent authority means the competent authority referred to in the legislation referred to in point (8) of this Article, the competent authority referred to in Article 10(5) or the authority designated by each Member State in accordance with Article 22;\n(14) clearing member means an undertaking which participates in a CCP and which is responsible for discharging the financial obligations arising from that participation;\n(15) client means an undertaking with a contractual relationship with a clearing member of a CCP which enables that undertaking to clear its transactions with that CCP;\n(16) group means the group of undertakings consisting of a parent undertaking and its subsidiaries within the meaning of Articles 1 and 2 of Directive 83/349/EEC or the group of undertakings referred to in Article 3(1) and Article 80(7) and (8) of Directive 2006/48/EC;\n(17) financial institution means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to carry on one or more of the activities listed in points (2) to (12) of Annex I to Directive 2006/48/EC;\n(18) financial holding company means a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiary undertakings being a credit institution, and which is not a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerateOJ L 35, 11.2.2003, p. 1.;\n(19) ancillary services undertaking means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or a similar activity which is ancillary to the principal activity of one or more credit institution;\n(20) qualifying holding means any direct or indirect holding in a CCP or trade repository which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated marketOJ L 390, 31.12.2004, p. 38., taking into account the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the CCP or trade repository in which that holding subsists;\n(21) parent undertaking means a parent undertaking as described in Articles 1 and 2 of Directive 83/349/EEC;\n(22) subsidiary means a subsidiary undertaking as described in Articles 1 and 2 of Directive 83/349/EEC, including a subsidiary of a subsidiary undertaking of an ultimate parent undertaking;\n(23) control means the relationship between a parent undertaking and a subsidiary, as described in Article 1 of Directive 83/349/EEC;\n(24) close links means a situation in which two or more natural or legal persons are linked by:\n(a) participation, by way of direct ownership or control, of 20 % or more of the voting rights or capital of an undertaking; or\n(b) control or a similar relationship between any natural or legal person and an undertaking or a subsidiary of a subsidiary also being considered a subsidiary of the parent undertaking which is at the head of those undertakings.\nA situation in which two or more natural or legal persons are permanently linked to one and the same person by a control relationship shall also be regarded as constituting a close link between such persons.\n(25) capital means subscribed capital within the meaning of Article 22 of Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutionsOJ L 372, 31.12.1986, p. 1. in so far it has been paid up, plus the related share premium accounts, it fully absorbs losses in going concern situations, and, in the event of bankruptcy or liquidation, it ranks after all other claims;\n(26) reserves means reserves as set out in Article 9 of Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companiesOJ L 222, 14.8.1978, p. 11. and profits and losses brought forward as a result of the application of the final profit or loss;\n(27) board means administrative or supervisory board, or both, in accordance with national company law;\n(28) independent member of the board means a member of the board who has no business, family or other relationship that raises a conflict of interests regarding the CCP concerned or its controlling shareholders, its management or its clearing members, and who has had no such relationship during the five years preceding his membership of the board;\n(29) senior management means the person or persons who effectively direct the business of the CCP or the trade repository, and the executive member or members of the board.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 ALN 1 PO 7"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015R2365",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-01-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015R2365 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 032 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (7), the definition of an OTC derivative or OTC derivative contract now refers to equivalence with a regulated market being determined in accordance with Article 2a of this Regulation, replacing the prior reference to Article 19(6) of Directive 2004/39/EC.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20150916",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_2",
+              "label": "Art. 2, 02012R0648-20150916"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20160112",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2",
+              "label": "Art. 2, 02012R0648-20160112"
+            }
+          ]
+        },
+        {
+          "text": "A small wording change also appears, with \"considered as equivalent\" replaced by \"considered to be equivalent\" in the same point.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20160112",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2",
+              "label": "Art. 2, 02012R0648-20160112"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20160112",
+          "location": "AR 2a"
+        },
+        "heading": "Equivalence decisions for the purposes of the definition of OTC derivatives",
+        "before": null,
+        "after": "Article 2a\nEquivalence decisions for the purposes of the definition of OTC derivatives\n1. For the purposes of Article 2(7) of this Regulation, a third-country market shall be considered to be equivalent to a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC where it complies with legally binding requirements which are equivalent to the requirements laid down in Title III of that Directive and it is subject to effective supervision and enforcement in that third country on an ongoing basis, as determined by the Commission in accordance with the procedure referred to in paragraph 2 of this Article.\n2. The Commission may adopt implementing acts determining that a third-country market complies with legally binding requirements which are equivalent to the requirements laid down in Title III of Directive 2004/39/EC and it is subject to effective supervision and enforcement in that third country on an ongoing basis for the purposes of paragraph 1.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 86(2) of this Regulation.\n3. The Commission and ESMA shall publish on their websites a list of those markets that are to be considered to be equivalent in accordance with the implementing act referred to in paragraph 2. That list shall be updated periodically.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015R2365",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-01-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015R2365 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 032 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 2a has been added, setting out a procedure for the Commission to determine whether third-country markets are equivalent to a regulated market for purposes of the OTC derivatives definition in this Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20160112",
+                "location": "AR 2a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a",
+              "label": "Art. 2a, 02012R0648-20160112"
+            }
+          ]
+        },
+        {
+          "text": "It provides that such equivalence rests on the third-country market complying with legally binding requirements equivalent to Title III of Directive 2004/39/EC and being subject to effective ongoing supervision and enforcement, with the Commission adopting implementing acts under the examination procedure to make that determination.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20160112",
+                "location": "AR 2a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a",
+              "label": "Art. 2a, 02012R0648-20160112"
+            }
+          ]
+        },
+        {
+          "text": "It also directs the Commission and ESMA to publish and periodically update a list of markets considered equivalent under that implementing act.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20160112",
+                "location": "AR 2a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2a",
+              "label": "Art. 2a, 02012R0648-20160112"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20160112",
+          "location": "AR 81"
+        },
+        "heading": "Transparency and data availability",
+        "before": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) the ESRB;\n(c) the competent authority supervising CCPs accessing the trade repository;\n(d) the competent authority supervising the trading venues of the reported contracts;\n(e) the relevant members of the ESCB;\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;\n(h) the relevant Union securities and market authorities;\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n(j) the Agency for the Cooperation of Energy Regulators;\n(k) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) EBA;\n(c) EIOPA;\n(d) the ESRB;\n(e) the competent authority supervising CCPs accessing the trade repositories;\n(f) the competent authority supervising the trading venues of the reported contracts;\n(g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;\n(h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;\n(j) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover contracts, markets, participants and underlyings which fall within the scope of this Regulation;\n(k) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA, as referred to in Article 76;\n(l) the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the CouncilRegulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (OJ L 211, 14.8.2009, p. 1).;\n(m) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).;\n(n) the Single Resolution Board established by Regulation (EU) No 806/2014;\n(o) competent authorities or national competent authorities within the meaning of Regulations (EU) No 1024/2013 and (EU) No 909/2014 and of Directives 2003/41/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU and, 2014/65/EU, and supervisory authorities within the meaning of Directive 2009/138/EC;\n(p) the competent authorities designated in accordance with Article 10(5) of this Regulation.\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 81 PA 3 ALN 1 PTA (b)",
+          "AR 81 PA 3 ALN 1 PTA (c)",
+          "AR 81 PA 3 ALN 1 PTA (d)",
+          "AR 81 PA 3 ALN 1 PTA (e)",
+          "AR 81 PA 3 ALN 1 PTA (f)",
+          "AR 81 PA 3 ALN 1 PTA (g)",
+          "AR 81 PA 3 ALN 1 PTA (h)",
+          "AR 81 PA 3 ALN 1 PTA (i)",
+          "AR 81 PA 3 ALN 1 PTA (j)",
+          "AR 81 PA 3 ALN 1 PTA (k)",
+          "AR 81 PA 3 ALN 1 PTA (l)",
+          "AR 81 PA 3 ALN 1 PTA (m)",
+          "AR 81 PA 3 ALN 1 PTA (n)",
+          "AR 81 PA 3 ALN 1 PTA (o)",
+          "AR 81 PA 3 ALN 1 PTA (p)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015R2365",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2009-07-13",
+          "2013-10-15"
+        ],
+        "in_force": "2016-01-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015R2365 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 032 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "UnexpectedModelBehavior: Exceeded maximum output retries (1)"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20150916",
+    "to_version": "02012R0648-20160112",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 2a",
+          "AR 81"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 2a",
+          "AR 81"
+        ],
+        "note": "3 annotations in (2015-09-16, 2016-01-12]",
+        "claims": [
+          {
+            "location": "AR 2 PO 7",
+            "change_type": "MODIFIED",
+            "in_force": "2016-01-12",
+            "source": "32015R2365 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2a",
+            "change_type": "INSERTED",
+            "in_force": "2016-01-12",
+            "source": "32015R2365 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 81 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2016-01-12",
+            "source": "32015R2365 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 2a",
+          "AR 81"
+        ],
+        "note": "32015R2365, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PO 7",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 032 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": "Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 032 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": "Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 81 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 032 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2365",
+              "display_name": "Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 2,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 11128,
+      "output_tokens": 567,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 5,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
