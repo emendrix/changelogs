@@ -10,6 +10,475 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20191225 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20190627` → `02013R0575-20191225`
+
+- **Act** `eu:32013R0575` · **In force** 2019-12-25 · **Detected** 2026-08-13
+- **Touched** 37 provisions — 37 substantive · 0 date-only · **36 disputed**
+- **Diff** 2 inserted · 33 modified · 2 deleted · 0 renumbered · 0 deferred · 636 unchanged
+- **Gate** 0 sentences quoted verbatim · 34 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20190627` · `v2` = `02013R0575-20191225`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 10a** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 15** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 82** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 84** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 85** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 87** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 93** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 95** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 119** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 162** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 197** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 200** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 202** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 224** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 227** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 243** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 325m — Credit spread risk factors for non-securitisation** · applies from: unchanged
+
+*within* `AR 325m`, `AR 325m PA 1 ALN 1`, `AR 325m PA 2 ALN 1`, `AR 325m PA 3`, `AR 325m PA 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The BEFORE text shown is actually Article 325am covering risk weights for credit spread risk of securitisations not included in the ACTP, using a bucket table keyed to credit quality and sector, while the AFTER text is Article 325m covering delta, vega and curvature credit spread risk factors for non-securitisation instruments and options, defined by reference to issuer credit spread rates, implied volatilities and pricing-model maturity vectors. [Art. 325m, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m) [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_325m)
+
+The AFTER text organizes the provision into four paragraphs addressing delta risk factors and maturity mapping, vega risk factors for options, curvature risk factor vectors, and sensitivity calculation under Article 325g, none of which appear in the BEFORE text's securitisation bucket table and sector-assignment rules. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_325m) [Art. 325m, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
+
+*before* (`02013R0575-20190627`)
+
+> Article 325am
+> Risk weights for credit spread risk for securitisations not included in the ACTP
+> 1. Risk weights for the sensitivities to credit spread risk factors for securitisation not included in the ACTP shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket in Table 7 and shall be specified for each bucket in Table 7 pursuant to the delegated act referred to in Article 461a:
+> Table 7
+> Bucket number Credit quality Sector
+> 1 Senior and Credit quality step 1 to 3 RMBS - Prime
+> 2 RMBS - Mid-Prime
+> 3 RMBS - Sub-Prime
+> 4 CMBS
+> 5 Asset backed securities (ABS) - Student loans
+> 6 ABS - Credit cards
+> 7 ABS - Auto
+> 8 Collateralised loan obligations (CLO) non-ACTP
+> 9 Non-senior and credit quality step 1 to 3 RMBS - Prime
+> 10 RMBS - Mid-Prime
+> 11 RMBS - Sub-Prime
+> 12 CMBS
+> 13 ABS - Student loans
+> 14 ABS - Credit cards
+> 15 ABS - Auto
+> 16 CLO non-ACTP
+> 17 Credit quality step 4 to 6 RMBS - Prime
+> 18 RMBS - Mid-Prime
+> 19 RMBS - Sub-Prime
+> 20 CMBS
+> 21 ABS - Student loans
+> 22 ABS - Credit cards
+> 23 ABS - Auto
+> 24 CLO non-ACTP
+> 25 Other sector
+> 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each tranche to one of the sector buckets in Table 7. Risk exposures from any tranche that an institution cannot assign to a sector in such a manner shall be assigned to bucket 25.
+
+*after* (`02013R0575-20191225`)
+
+> Article 325m
+> Credit spread risk factors for non-securitisation
+> 1. The delta credit spread risk factors to be applied by institutions to non-securitisation instruments that are sensitive to credit spread shall be the issuer credit spread rates of those instruments, inferred from the relevant debt instruments and credit default swaps, and mapped to each of the following maturities: 0,5 years, 1 year, 3 years, 5 years, 10 years. Institutions shall apply one risk factor per issuer and maturity, regardless of whether those issuer credit spread rates are inferred from debt instruments or credit default swaps. The buckets shall be sector buckets, as referred to in Section 6, and each bucket shall include all the risk factors allocated to the relevant sector.
+> 2. The vega credit spread risk factors to be applied by institutions to options with non-securitisation underlyings that are sensitive to credit spread shall be the implied volatilities of the underlying's issuer credit spread rates inferred as laid down in paragraph 1, which shall be mapped to the following maturities in accordance with the maturity of the option subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years. The same buckets shall be used as the buckets that were used for the delta credit spread risk for non-securitisation.
+> 3. The curvature credit spread risk factors to be applied by institutions to non-securitisation instruments shall consist of one vector of credit spread rates, representin […truncated by emendrix: 788 characters omitted…]
+
+**INSERTED · Art. 325am — Risk weights for credit spread risk for securitisations not included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a newly inserted article setting out risk weights for sensitivities to credit spread risk factors for securitisations not included in the ACTP, applying the same risk weight across all listed maturities within each bucket of Table 7, with the actual weight values to be specified in a delegated act referred to in Article 461a. [Art. 325am, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_325a)
+
+The provision also directs institutions to assign each securitisation tranche to a sector bucket in Table 7 using a market-standard sector classification, placing any tranche that cannot be so assigned into bucket 25. [Art. 325am, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_325a)
+
+*after* (`02013R0575-20191225`)
+
+> Article 325am
+> Risk weights for credit spread risk for securitisations not included in the ACTP
+> 1. Risk weights for the sensitivities to credit spread risk factors for securitisation not included in the ACTP shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket in Table 7 and shall be specified for each bucket in Table 7 pursuant to the delegated act referred to in Article 461a:
+> Table 7
+> Bucket number Credit quality Sector
+> 1 Senior and Credit quality step 1 to 3 RMBS - Prime
+> 2 RMBS - Mid-Prime
+> 3 RMBS - Sub-Prime
+> 4 CMBS
+> 5 Asset backed securities (ABS) - Student loans
+> 6 ABS - Credit cards
+> 7 ABS - Auto
+> 8 Collateralised loan obligations (CLO) non-ACTP
+> 9 Non-senior and credit quality step 1 to 3 RMBS - Prime
+> 10 RMBS - Mid-Prime
+> 11 RMBS - Sub-Prime
+> 12 CMBS
+> 13 ABS - Student loans
+> 14 ABS - Credit cards
+> 15 ABS - Auto
+> 16 CLO non-ACTP
+> 17 Credit quality step 4 to 6 RMBS - Prime
+> 18 RMBS - Mid-Prime
+> 19 RMBS - Sub-Prime
+> 20 CMBS
+> 21 ABS - Student loans
+> 22 ABS - Credit cards
+> 23 ABS - Auto
+> 24 CLO non-ACTP
+> 25 Other sector
+> 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each tranche to one of the sector buckets in Table 7. Risk exposures from any tranche that an institution cannot assign to a sector in such a manner shall be assigned to bucket 25.
+
+**MODIFIED · Art. 382** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 388** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 395** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 402** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 412** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 422** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 428a** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 430b — Specific reporting requirements for market risk** · applies from: unchanged
+
+*within* `AR 430b PA 1 ALN 1` · *amended by* `32019R2033`
+
+In paragraph 1, the word describing the entities subject to the reporting requirement changed from "institutions" to "credit institutions". [Art. 430b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430b) [Art. 430b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_430b)
+
+*before* (`02013R0575-20190627`)
+
+> Article 430b
+> Specific reporting requirements for market risk
+> 1. From the date of application of the delegated act referred to in Article 461a, institutions that do not meet the conditions set out in Article 94(1) nor the conditions set out in Article 325a(1) shall report, for all their trading book positions and all their non-trading book positions that are subject to foreign exchange or commodity risks, the results of the calculations based on using the alternative standardised approach set out in Chapter 1a of Title IV of Part Three on the same basis as such institutions report the obligations laid down in points (b)(i) and (c) of Article 92(3).
+> 2. Institutions referred to in paragraph 1 of this Article shall report separately the calculations set out in points (a), (b) and (c) of Article 325c(2) for the portfolio of all trading book positions or non-trading book positions that are subject to foreign exchange and commodity risks.
+> 3. In addition to the requirement set out in paragraph 1 of this Article, from the end of a three-year-period following the date of entry into force of the latest regulatory technical standards referred to in Articles 325bd(7), 325be(3), 325bf(9), 325bg(4), institutions shall report, for those positions assigned to trading desks for which they have been granted permission by the competent authorities to use the alternative internal model approach in accordance with Article 325az(2), the results of the calculations based on using that approach set o […truncated by emendrix: 1871 characters omitted…]
+
+*after* (`02013R0575-20191225`)
+
+> Article 430b
+> Specific reporting requirements for market risk
+> 1. From the date of application of the delegated act referred to in Article 461a, credit institutions that do not meet the conditions set out in Article 94(1) nor the conditions set out in Article 325a(1) shall report, for all their trading book positions and all their non‐trading book positions that are subject to foreign exchange or commodity risks, the results of the calculations based on using the alternative standardised approach set out in Chapter 1a of Title IV of Part Three on the same basis as such institutions report the obligations laid down in points (b)(i) and (c) of Article 92(3).
+> 2. Institutions referred to in paragraph 1 of this Article shall report separately the calculations set out in points (a), (b) and (c) of Article 325c(2) for the portfolio of all trading book positions or non-trading book positions that are subject to foreign exchange and commodity risks.
+> 3. In addition to the requirement set out in paragraph 1 of this Article, from the end of a three-year-period following the date of entry into force of the latest regulatory technical standards referred to in Articles 325bd(7), 325be(3), 325bf(9), 325bg(4), institutions shall report, for those positions assigned to trading desks for which they have been granted permission by the competent authorities to use the alternative internal model approach in accordance with Article 325az(2), the results of the calculations based on using that approac […truncated by emendrix: 1878 characters omitted…]
+
+**MODIFIED · Art. 456** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 493** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 498** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 508** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex III** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20191225 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190627 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20190426` → `02013R0575-20190627`
