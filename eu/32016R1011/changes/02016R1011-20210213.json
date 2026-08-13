@@ -1,0 +1,1785 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R1011",
+    "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+  },
+  "from_version": "02016R1011-20191210",
+  "to_version": "02016R1011-20210213",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2021-02-13"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 4,
+    "modified": 8,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 12,
+    "unchanged_units": 59,
+    "disputed": 4
+  },
+  "counts": {
+    "touched": 12,
+    "substantive": 12,
+    "date_only": 0,
+    "disputed": 4,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 2"
+        },
+        "heading": "Scope",
+        "before": "Article 2\nScope\n1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.\n2. This Regulation shall not apply to:\n(a) a central bank;\n(b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;\n(c) a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;\n(d) the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;\n(e) the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;\n(f) a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;\n(g) a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:\n(i) the benchmark is referenced by financial instruments for which a request for admission to trading has been made on only one trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, or which are traded on only one such trading venue;\n(ii) the total notional value of financial instruments referencing the benchmark does not exceed EUR 100 million;\n(h) an index provider in respect of an index provided by said provider where that index provider is unaware and could not reasonably have been aware that that index is used for the purposes referred to in point (3) of Article 3(1).",
+        "after": "Article 2\nScope\n1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.\n2. This Regulation shall not apply to:\n(a) a central bank;\n(b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;\n(c) a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;\n(d) the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;\n(e) the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;\n(f) a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;\n(g) a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:\n(i) the benchmark is referenced by financial instruments for which a request for admission to trading has been made on only one trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, or which are traded on only one such trading venue;\n(ii) the total notional value of financial instruments referencing the benchmark does not exceed EUR 100 million;\n(h) an index provider in respect of an index provided by said provider where that index provider is unaware and could not reasonably have been aware that that index is used for the purposes referred to in point (3) of Article 3(1);\n(i) a spot foreign exchange benchmark which has been designated by the Commission in accordance with Article 18a(1).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 PA 2 ALN 1 PTA (h)",
+          "AR 2 PA 2 ALN 1 PTA (i)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (h) of Article 2(2)(1) now ends with a semicolon instead of a full stop, and a new point (i) has been added excluding a spot foreign exchange benchmark that has been designated by the Commission in accordance with Article 18a(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_2",
+              "label": "Art. 2, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version of the article did not contain this point (i) or any reference to a designation under Article 18a(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_2",
+              "label": "Art. 2, 02016R1011-20191210"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\n1. For the purposes of this Regulation, the following definitions apply:\n(1) index means any figure:\n(a) that is published or made available to the public;\n(b) that is regularly determined:\n(i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and\n(ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;\n(2) index provider means a natural or legal person that has control over the provision of an index;\n(3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;\n(4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;\n(5) provision of a benchmark means:\n(a) administering the arrangements for determining a benchmark;\n(b) collecting, analysing or processing input data for the purpose of determining a benchmark; and\n(c) determining a benchmark through the application of a formula or other method of calculation or by an assessment of input data provided for that purpose;\n(6) administrator means a natural or legal person that has control over the provision of a benchmark;\n(7) use of a benchmark means:\n(a) issuance of a financial instrument which references an index or a combination of indices;\n(b) determination of the amount payable under a financial instrument or a financial contract by referencing an index or a combination of indices;\n(c) being a party to a financial contract which references an index or a combination of indices;\n(d) providing a borrowing rate as defined in point (j) of Article 3 of Directive 2008/48/EC calculated as a spread or mark-up over an index or a combination of indices and that is solely used as a reference in a financial contract to which the creditor is a party;\n(e) measuring the performance of an investment fund through an index or a combination of indices for the purpose of tracking the return of such index or combination of indices, of defining the asset allocation of a portfolio, or of computing the performance fees;\n(8) contribution of input data means providing any input data not readily available to an administrator, or to another person for the purposes of passing to an administrator, that is required in connection with the determination of a benchmark, and is provided for that purpose;\n(9) contributor means a natural or legal person contributing input data;\n(10) supervised contributor means a supervised entity that contributes input data to an administrator located in the Union;\n(11) submitter means a natural person employed by the contributor for the purpose of contributing input data;\n(12) assessor means an employee of an administrator of a commodity benchmark, or any other natural person whose services are placed at the administrator's disposal or under the control of the administrator, and who is responsible for applying a methodology or judgement to input data and other information to reach a conclusive assessment about the price of a certain commodity;\n(13) expert judgement means the exercise of discretion by an administrator or a contributor with respect to the use of data in determining a benchmark, including extrapolating values from prior or related transactions, adjusting values for factors that might influence the quality of data such as market events or impairment of a buyer or seller's credit quality, and weighting firm bids or offers greater than a particular concluded transaction;\n(14) input data means the data in respect of the value of one or more underlying assets, or prices, including estimated prices, quotes, committed quotes or other values, used by an administrator to determine a benchmark;\n(15) transaction data means observable prices, rates, indices or values representing transactions between unaffiliated counterparties in an active market subject to competitive supply and demand forces;\n(16) financial instrument means any of the instruments listed in Section C of Annex I to Directive 2014/65/EU for which a request for admission to trading on a trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, has been made or which is traded on a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or via a systematic internaliser as defined in point (20) of Article 4(1) of that Directive;\n(17) supervised entity means any of the following:\n(a) a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;\n(b) an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;\n(c) an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).;\n(d) a reinsurance undertaking as defined in point (4) of Article 13 of Directive 2009/138/EC;\n(e) a UCITS as defined in Article 1(2) of Directive 2009/65/EC or, where applicable, a UCITS management company as defined in point (b) of Article 2(1) of that Directive;\n(f) an alternative investment fund manager (AIFM) as defined in point (b) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).;\n(g) an institution for occupational retirement provision as defined in point (a) of Article 6 of Directive 2003/41/EC of the European Parliament and of the CouncilDirective 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;\n(h) a creditor as defined in point (b) of Article 3 of Directive 2008/48/EC for the purposes of credit agreements as defined in point (c) of Article 3 of that Directive;\n(i) a non-credit institution as defined in point (10) of Article 4 of Directive 2014/17/EU for the purposes of credit agreements as defined in point (3) of Article 4 of that Directive;\n(j) a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;\n(k) a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the CouncilRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).;\n(l) a trade repository as defined in point (2) of Article 2 of Regulation (EU) No 648/2012;\n(m) an administrator;\n(18) financial contract means:\n(a) any credit agreement as defined in point (c) of Article 3 of Directive 2008/48/EC;\n(b) any credit agreement as defined in point (3) of Article 4 of Directive 2014/17/EU;\n(19) investment fund means an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU, or a UCITS as defined in Article 1(2) of Directive 2009/65/EC;\n(20) management body means the body or bodies of an administrator or another supervised entity which are appointed in accordance with national law, which are empowered to set the strategy, objectives and overall direction of the administrator or other supervised entity, and which oversee and monitor management decision-making and include persons who effectively direct the business of the administrator or other supervised entity;\n(21) consumer means a natural person who, in financial contracts covered by this Regulation, is acting for purposes which are outside his or her trade, business or profession;\n(22) interest rate benchmark means a benchmark which for the purposes of point (1)(b)(ii) of this paragraph is determined on the basis of the rate at which banks may lend to, or borrow from, other banks, or agents other than banks, in the money market;\n(23) commodity benchmark means a benchmark where the underlying asset for the purposes of point (1)(b)(ii) of this paragraph is a commodity within the meaning of point (1) of Article 2 of Commission Regulation (EC) No 1287/2006Commission Regulation (EC) No 1287/2006 of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards record-keeping obligations for investment firms, transaction reporting, market transparency, admission of financial instruments to trading, and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 1)., excluding emission allowances as referred to in point (11) of Section C of Annex I to Directive 2014/65/EU;\n(23a) EU Climate Transition Benchmark means a benchmark which is labelled as an EU Climate Transition Benchmark and fulfils the following requirements:\n(a) for the purposes of point 1(b)(ii) of this paragraph and of Article 19b, its underlying assets are selected, weighted or excluded in such a manner that the resulting benchmark portfolio is on a decarbonisation trajectory; and\n(b) it is constructed in accordance with the minimum standards laid down in the delegated acts referred to in Article 19a(2);\n(23b) EU Paris-aligned Benchmark means a benchmark which is labelled as an EU Paris-aligned Benchmark and fulfils the following requirements:\n(a) for the purposes of point 1(b)(ii) of this paragraph and of the delegated act referred to in Article 19c, its underlying assets are selected, weighted or excluded in such a manner that the resulting benchmark portfolio’s carbon emissions are aligned with the objectives of the Paris Agreement adopted under the United Nations Framework Convention on Climate Change, approved by the Union on 5 October 2016Council Decision (EU) 2016/1841 of 5 October 2016 on the conclusion, on behalf of the European Union, of the Paris Agreement adopted under the United Nations Framework Convention on Climate Change (OJ L 282, 19.10.2016, p. 1). (the Paris Agreement);\n(b) it is constructed in accordance with the minimum standards laid down in the delegated acts referred to in Article 19a(2); and\n(c) the activities relating to its underlying assets do not significantly harm other environmental, social and governance (ESG) objectives;\n(23c) decarbonisation trajectory means a measurable, science-based and time-bound trajectory towards alignment with the objectives of the Paris Agreement by reducing Scope 1, 2 and 3 carbon emissions as referred to in point (1)(e) of Annex III;\n(24) regulated-data benchmark means a benchmark determined by the application of a formula from:\n(a) input data contributed entirely and directly from:\n(i) a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or a trading venue in a third country for which the Commission has adopted an implementing decision that the legal and supervisory framework of that country is considered to have equivalent effect within the meaning of Article 28(4) of Regulation (EU) No 600/2014 of the European Parliament and of the CouncilRegulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84)., or a regulated market considered to be equivalent under Article 2a of Regulation (EU) No 648/2012, but in each case only with reference to transaction data concerning financial instruments;\n(ii) an approved publication arrangement as defined in point (52) of Article 4(1) of Directive 2014/65/EU or a consolidated tape provider as defined in point (53) of Article 4(1) of Directive 2014/65/EU, in accordance with mandatory post-trade transparency requirements, but only with reference to transaction data concerning financial instruments that are traded on a trading venue;\n(iii) an approved reporting mechanism as defined in point (54) of Article 4(1) of Directive 2014/65/EU, but only with reference to transaction data concerning financial instruments that are traded on a trading venue and that must be disclosed in accordance with mandatory post-trade transparency requirements;\n(iv) an electricity exchange as referred to in point (j) of Article 37(1) of Directive 2009/72/EC of the European Parliament and of the CouncilDirective 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55).;\n(v) a natural gas exchange as referred to in point (j) of Article 41(1) of Directive 2009/73/EC of the European Parliament and of the CouncilDirective 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94).;\n(vi) an auction platform referred to in Article 26 or 30 of Commission Regulation (EU) No 1031/2010Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community (OJ L 302, 18.11.2010, p. 1).;\n(vii) a service provider to which the benchmark administrator has outsourced the data collection in accordance with Article 10, provided that the service provider receives the data entirely and directly from an entity referred to in points (i) to (vi);\n(b) net asset values of investment funds;\n(25) critical benchmark means a benchmark other than a regulated-data benchmark that fulfils any of the conditions laid down in Article 20(1) and which is on the list established by the Commission pursuant to that Article;\n(26) significant benchmark means a benchmark that fulfils the conditions laid down in Article 24(1);\n(27) non-significant benchmark means a benchmark that does not fulfil the conditions laid down in Articles 20(1) and 24(1);\n(28) located means, in relation to a legal person, the country where that person's registered office or other official address is situated and, in relation to a natural person, the country where that person is resident for tax purposes;\n(29) public authority means:\n(a) any government or other public administration, including the entities charged with or intervening in the management of the public debt;\n(b) any entity or person either performing public administrative functions under national law or having public responsibilities or functions or providing public services, including measures of employment, economic activities and inflation, under the control of an entity within the meaning of point (a).\n2. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to specify further technical elements of the definitions laid down in paragraph 1 of this Article, in particular specifying what constitutes making available to the public for the purposes of the definition of an index.\nWhere applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.\n3. The Commission shall adopt implementing acts in order to establish and review a list of public authorities in the Union falling within the definition under point (29) of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 50(2).\nWhere applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.",
+        "after": "Article 3\nDefinitions\n1. For the purposes of this Regulation, the following definitions apply:\n(1) index means any figure:\n(a) that is published or made available to the public;\n(b) that is regularly determined:\n(i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and\n(ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;\n(2) index provider means a natural or legal person that has control over the provision of an index;\n(3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;\n(4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;\n(5) provision of a benchmark means:\n(a) administering the arrangements for determining a benchmark;\n(b) collecting, analysing or processing input data for the purpose of determining a benchmark; and\n(c) determining a benchmark through the application of a formula or other method of calculation or by an assessment of input data provided for that purpose;\n(6) administrator means a natural or legal person that has control over the provision of a benchmark;\n(7) use of a benchmark means:\n(a) issuance of a financial instrument which references an index or a combination of indices;\n(b) determination of the amount payable under a financial instrument or a financial contract by referencing an index or a combination of indices;\n(c) being a party to a financial contract which references an index or a combination of indices;\n(d) providing a borrowing rate as defined in point (j) of Article 3 of Directive 2008/48/EC calculated as a spread or mark-up over an index or a combination of indices and that is solely used as a reference in a financial contract to which the creditor is a party;\n(e) measuring the performance of an investment fund through an index or a combination of indices for the purpose of tracking the return of such index or combination of indices, of defining the asset allocation of a portfolio, or of computing the performance fees;\n(8) contribution of input data means providing any input data not readily available to an administrator, or to another person for the purposes of passing to an administrator, that is required in connection with the determination of a benchmark, and is provided for that purpose;\n(9) contributor means a natural or legal person contributing input data;\n(10) supervised contributor means a supervised entity that contributes input data to an administrator located in the Union;\n(11) submitter means a natural person employed by the contributor for the purpose of contributing input data;\n(12) assessor means an employee of an administrator of a commodity benchmark, or any other natural person whose services are placed at the administrator's disposal or under the control of the administrator, and who is responsible for applying a methodology or judgement to input data and other information to reach a conclusive assessment about the price of a certain commodity;\n(13) expert judgement means the exercise of discretion by an administrator or a contributor with respect to the use of data in determining a benchmark, including extrapolating values from prior or related transactions, adjusting values for factors that might influence the quality of data such as market events or impairment of a buyer or seller's credit quality, and weighting firm bids or offers greater than a particular concluded transaction;\n(14) input data means the data in respect of the value of one or more underlying assets, or prices, including estimated prices, quotes, committed quotes or other values, used by an administrator to determine a benchmark;\n(15) transaction data means observable prices, rates, indices or values representing transactions between unaffiliated counterparties in an active market subject to competitive supply and demand forces;\n(16) financial instrument means any of the instruments listed in Section C of Annex I to Directive 2014/65/EU for which a request for admission to trading on a trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, has been made or which is traded on a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or via a systematic internaliser as defined in point (20) of Article 4(1) of that Directive;\n(17) supervised entity means any of the following:\n(a) a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;\n(b) an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;\n(c) an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).;\n(d) a reinsurance undertaking as defined in point (4) of Article 13 of Directive 2009/138/EC;\n(e) a UCITS as defined in Article 1(2) of Directive 2009/65/EC or, where applicable, a UCITS management company as defined in point (b) of Article 2(1) of that Directive;\n(f) an alternative investment fund manager (AIFM) as defined in point (b) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).;\n(g) an institution for occupational retirement provision as defined in point (a) of Article 6 of Directive 2003/41/EC of the European Parliament and of the CouncilDirective 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;\n(h) a creditor as defined in point (b) of Article 3 of Directive 2008/48/EC for the purposes of credit agreements as defined in point (c) of Article 3 of that Directive;\n(i) a non-credit institution as defined in point (10) of Article 4 of Directive 2014/17/EU for the purposes of credit agreements as defined in point (3) of Article 4 of that Directive;\n(j) a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;\n(k) a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the CouncilRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).;\n(l) a trade repository as defined in point (2) of Article 2 of Regulation (EU) No 648/2012;\n(m) an administrator;\n(18) financial contract means:\n(a) any credit agreement as defined in point (c) of Article 3 of Directive 2008/48/EC;\n(b) any credit agreement as defined in point (3) of Article 4 of Directive 2014/17/EU;\n(19) investment fund means an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU, or a UCITS as defined in Article 1(2) of Directive 2009/65/EC;\n(20) management body means the body or bodies of an administrator or another supervised entity which are appointed in accordance with national law, which are empowered to set the strategy, objectives and overall direction of the administrator or other supervised entity, and which oversee and monitor management decision-making and include persons who effectively direct the business of the administrator or other supervised entity;\n(21) consumer means a natural person who, in financial contracts covered by this Regulation, is acting for purposes which are outside his or her trade, business or profession;\n(22) interest rate benchmark means a benchmark which for the purposes of point (1)(b)(ii) of this paragraph is determined on the basis of the rate at which banks may lend to, or borrow from, other banks, or agents other than banks, in the money market;\n(22a) spot foreign exchange benchmark means a benchmark which reflects the price, expressed in one currency, of another or a basket of other currencies, for delivery on the earliest possible value date;\n(23) commodity benchmark means a benchmark where the underlying asset for the purposes of point (1)(b)(ii) of this paragraph is a commodity within the meaning of point (1) of Article 2 of Commission Regulation (EC) No 1287/2006Commission Regulation (EC) No 1287/2006 of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards record-keeping obligations for investment firms, transaction reporting, market transparency, admission of financial instruments to trading, and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 1)., excluding emission allowances as referred to in point (11) of Section C of Annex I to Directive 2014/65/EU;\n(23a) EU Climate Transition Benchmark means a benchmark which is labelled as an EU Climate Transition Benchmark and fulfils the following requirements:\n(a) for the purposes of point 1(b)(ii) of this paragraph and of Article 19b, its underlying assets are selected, weighted or excluded in such a manner that the resulting benchmark portfolio is on a decarbonisation trajectory; and\n(b) it is constructed in accordance with the minimum standards laid down in the delegated acts referred to in Article 19a(2);\n(23b) EU Paris-aligned Benchmark means a benchmark which is labelled as an EU Paris-aligned Benchmark and fulfils the following requirements:\n(a) for the purposes of point 1(b)(ii) of this paragraph and of the delegated act referred to in Article 19c, its underlying assets are selected, weighted or excluded in such a manner that the resulting benchmark portfolio’s carbon emissions are aligned with the objectives of the Paris Agreement adopted under the United Nations Framework Convention on Climate Change, approved by the Union on 5 October 2016Council Decision (EU) 2016/1841 of 5 October 2016 on the conclusion, on behalf of the European Union, of the Paris Agreement adopted under the United Nations Framework Convention on Climate Change (OJ L 282, 19.10.2016, p. 1). (the Paris Agreement);\n(b) it is constructed in accordance with the minimum standards laid down in the delegated acts referred to in Article 19a(2); and\n(c) the activities relating to its underlying assets do not significantly harm other environmental, social and governance (ESG) objectives;\n(23c) decarbonisation trajectory means a measurable, science-based and time-bound trajectory towards alignment with the objectives of the Paris Agreement by reducing Scope 1, 2 and 3 carbon emissions as referred to in point (1)(e) of Annex III;\n(24) regulated-data benchmark means a benchmark determined by the application of a formula from:\n(a) input data contributed entirely and directly from:\n(i) a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or a trading venue in a third country for which the Commission has adopted an implementing decision that the legal and supervisory framework of that country is considered to have equivalent effect within the meaning of Article 28(4) of Regulation (EU) No 600/2014 of the European Parliament and of the CouncilRegulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84). or Article 25(4) of Directive 2014/65/EU of the European Parliament and of the Council, or a regulated market considered to be equivalent under Article 2a of Regulation (EU) No 648/2012, but in each case only with reference to transaction data concerning financial instruments;\n(ii) an approved publication arrangement as defined in point (52) of Article 4(1) of Directive 2014/65/EU or a consolidated tape provider as defined in point (53) of Article 4(1) of Directive 2014/65/EU, in accordance with mandatory post-trade transparency requirements, but only with reference to transaction data concerning financial instruments that are traded on a trading venue;\n(iii) an approved reporting mechanism as defined in point (54) of Article 4(1) of Directive 2014/65/EU, but only with reference to transaction data concerning financial instruments that are traded on a trading venue and that must be disclosed in accordance with mandatory post-trade transparency requirements;\n(iv) an electricity exchange as referred to in point (j) of Article 37(1) of Directive 2009/72/EC of the European Parliament and of the CouncilDirective 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55).;\n(v) a natural gas exchange as referred to in point (j) of Article 41(1) of Directive 2009/73/EC of the European Parliament and of the CouncilDirective 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94).;\n(vi) an auction platform referred to in Article 26 or 30 of Commission Regulation (EU) No 1031/2010Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community (OJ L 302, 18.11.2010, p. 1).;\n(vii) a service provider to which the benchmark administrator has outsourced the data collection in accordance with Article 10, provided that the service provider receives the data entirely and directly from an entity referred to in points (i) to (vi);\n(b) net asset values of investment funds;\n(25) critical benchmark means a benchmark other than a regulated-data benchmark that fulfils any of the conditions laid down in Article 20(1) and which is on the list established by the Commission pursuant to that Article;\n(26) significant benchmark means a benchmark that fulfils the conditions laid down in Article 24(1);\n(27) non-significant benchmark means a benchmark that does not fulfil the conditions laid down in Articles 20(1) and 24(1);\n(28) located means, in relation to a legal person, the country where that person's registered office or other official address is situated and, in relation to a natural person, the country where that person is resident for tax purposes;\n(29) public authority means:\n(a) any government or other public administration, including the entities charged with or intervening in the management of the public debt;\n(b) any entity or person either performing public administrative functions under national law or having public responsibilities or functions or providing public services, including measures of employment, economic activities and inflation, under the control of an entity within the meaning of point (a).\n2. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to specify further technical elements of the definitions laid down in paragraph 1 of this Article, in particular specifying what constitutes making available to the public for the purposes of the definition of an index.\nWhere applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.\n3. The Commission shall adopt implementing acts in order to establish and review a list of public authorities in the Union falling within the definition under point (29) of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 50(2).\nWhere applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 PA 1 ALN 1 PO 22a",
+          "AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (i)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 R; 32021R0168 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2) (a); AR 001 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new definition, point (22a), was added to define a spot foreign exchange benchmark as one reflecting the price, expressed in one currency, of another currency or a basket of other currencies, for delivery on the earliest possible value date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3",
+              "label": "Art. 3, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "In point (24)(a)(i), the description of input data sources for a regulated-data benchmark was expanded to also include reference to Article 25(4) of Directive 2014/65/EU, alongside the existing reference to Article 28(4) of Regulation (EU) No 600/2014.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3",
+              "label": "Art. 3, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3",
+              "label": "Art. 3, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 18a"
+        },
+        "heading": "Spot foreign exchange benchmarks",
+        "before": null,
+        "after": "Article 18a\nSpot foreign exchange benchmarks\n1. The Commission may designate a spot foreign exchange benchmark that is administered by administrators located outside the Union where both of the following criteria are fulfilled:\n(a) the spot foreign exchange benchmark references a spot exchange rate of a third-country currency that is not freely convertible; and\n(b) the spot foreign exchange benchmark is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements.\n2. By 31 December 2022, the Commission shall conduct a public consultation to identify spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1.\n3. By 15 June 2023, the Commission shall adopt a delegated act in accordance with Article 49 to create a list of spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1 of this Article. The Commission shall update that list as appropriate.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 18a is added, setting out criteria under which the Commission may designate a spot foreign exchange benchmark administered outside the Union, namely that it references a spot exchange rate of a third-country currency that is not freely convertible and is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 18a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_18a",
+              "label": "Art. 18a, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The new article also directs the Commission to hold a public consultation by 31 December 2022 to identify benchmarks meeting those criteria, and to adopt a delegated act by 15 June 2023 creating and, as appropriate, updating a list of such benchmarks.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 18a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_18a",
+              "label": "Art. 18a, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 23a"
+        },
+        "heading": "Scope of the statutory replacement of a benchmark",
+        "before": null,
+        "after": "Article 23a\nScope of the statutory replacement of a benchmark\nThis Chapter applies to:\n(a) any contract, or any financial instrument as defined in Directive 2014/65/EU, that references a benchmark and is subject to the law of one of the Member States; and\n(b) any contract, the parties to which are all established in the Union, that references a benchmark and that is subject to the law of a third country and where that law does not provide for the orderly wind-down of a benchmark.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 23a is added, setting out that the Chapter's rules on statutory replacement of a benchmark apply to contracts or financial instruments under Directive 2014/65/EU that reference a benchmark and are subject to the law of a Member State, and to contracts referencing a benchmark where all parties are established in the Union and the contract is subject to a third-country law that does not provide for an orderly wind-down of the benchmark.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 23a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23a",
+              "label": "Art. 23a, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 23b"
+        },
+        "heading": "Replacement of a benchmark by Union law",
+        "before": null,
+        "after": "Article 23b\nReplacement of a benchmark by Union law\n1. This Article shall apply to:\n(a) benchmarks designated as critical by an implementing act adopted pursuant to point (a) or (c) of Article 20(1);\n(b) benchmarks based on the contribution of input data if their cessation or wind-down would significantly disrupt the functioning of financial markets in the Union; and\n(c) third-country benchmarks if their cessation or wind-down would significantly disrupt the functioning of financial markets in the Union or pose a systemic risk to the financial system in the Union.\n2. The Commission may designate one or more replacements for a benchmark provided that any of the following events has occurred:\n(a) the competent authority for the administrator of that benchmark has issued a public statement, or has published information, in which it is announced that that benchmark no longer reflects the underlying market or economic reality; in the case of a benchmark designated as critical by an implementing act adopted pursuant to point (a) or (c) of Article 20(1), the competent authority shall make such an announcement only where, following the exercise of the powers set out in Article 23, the benchmark still does not reflect the underlying market or economic reality;\n(b) the administrator of that benchmark, or a person acting on behalf of that administrator, has issued a public statement, or has published information, or such public statement has been made or such information has been published, in which it is announced that that administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely, provided that, at the time of the issuance of the statement or the publication of the information, there is no successor administrator that will continue to provide that benchmark;\n(c) the competent authority for the administrator of that benchmark or any entity with insolvency or resolution authority over such administrator has issued a public statement, or has published information, in which it is stated that the administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely, provided that, at the time of the issuance of the statement or the publication of the information, there is no successor administrator that will continue to provide that benchmark; or\n(d) the competent authority for the administrator of that benchmark withdraws or suspends the authorisation in accordance with Article 35 or the recognition in accordance with Article 32(8) or requires the cessation of the endorsement in accordance with Article 33(6), provided that, at the time of the withdrawal or suspension or the cessation of endorsement, there is no successor administrator that will continue to provide that benchmark and its administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely.\n3. For the purposes of paragraph 2 of this Article, the replacement for a benchmark shall replace all references to that benchmark in contracts and financial instruments as referred to in Article 23a where those contracts and financial instruments contain:\n(a) no fallback provision; or\n(b) no suitable fallback provisions.\n4. For the purpose of point (b) of paragraph 3, a fallback provision shall be deemed unsuitable if:\n(a) it does not provide for a permanent replacement for the benchmark in cessation; or\n(b) its application requires consent from third parties that has been denied; or\n(c) it provides for a replacement for a benchmark which no longer reflects or significantly diverges from the underlying market or the economic reality that the benchmark in cessation is intended to measure, and its application could have an adverse impact on financial stability.\n5. The replacement for a benchmark agreed as a contractual fallback rate no longer reflects or significantly diverges from the underlying market or the economic reality that the benchmark in cessation is intended to measure, and could have an adverse impact on financial stability, where:\n(a) that has been established by the relevant national authority on the basis of a horizontal assessment of a specific type of contractual arrangement that has been performed following a motivated request of at least one interested party, and after having consulted the relevant stakeholders;\n(b) following an assessment in accordance with point (a), one of the parties to the contract or financial instrument has objected to the contractually agreed fallback provision at the latest three months before the cessation of the benchmark; and\n(c) following an objection pursuant to point (b), the parties to the contract or financial instrument have not agreed on an alternative replacement for the benchmark at the latest one working day before the cessation of that benchmark.\n6. For the purposes of point (c) of paragraph 4, the relevant national authority shall, without undue delay, inform the Commission and ESMA of its assessment referred to in point (a) of paragraph 5. Where entities in more than one Member State could be affected by the assessment, the relevant authorities of all those Member States shall conduct the assessment jointly.\n7. Member States shall designate a relevant authority that is in the position to conduct the assessment referred to in point (a) of paragraph 5. Member States shall inform the Commission and ESMA of the designation of the relevant authorities by 14 August 2021.\n8. The Commission shall adopt implementing acts to designate one or more replacements for a benchmark in accordance with the examination procedure referred to in Article 50(2) where any of the events referred to in paragraph 2 of this Article have occurred.\n9. An implementing act as referred to in paragraph 8 shall include the following:\n(a) the replacement or replacements for a benchmark;\n(b) the spread adjustment, including the method for determining such spread adjustment, that is to be applied to the replacement for a benchmark in cessation on the date of the replacement for each particular term to account for the effects of the transition or change from the benchmark to be wound down to its replacement;\n(c) the corresponding essential conforming changes that are associated with and reasonably necessary for the use or application of a replacement for a benchmark; and\n(d) the date from which the replacement or replacements for a benchmark applies.\n10. When adopting an implementing act as referred to in paragraph 8, the Commission shall take into account available recommendations on the replacement for a benchmark, the corresponding conforming changes and the spread adjustment made by the central bank responsible for the currency area in which the relevant benchmark is being wound down, or by the alternative reference rate working group operating under the auspices of the public authorities or the central bank. Before adopting the implementing act, the Commission shall conduct a public consultation and shall take into account the recommendations of other relevant stakeholders, including the competent authority of the benchmark administrator and ESMA.\n11. Notwithstanding point (c) of paragraph (5) of this Article, a replacement for a benchmark designated by the Commission in accordance with paragraph 2 of this Article shall not apply where all parties or the required majority of parties to a contract or financial instrument referred to in Article 23a have agreed to apply a different replacement for a benchmark whether before or after the date of application of the implementing act referred to in paragraph 8 of this Article.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Article 23b is an entirely new provision that did not exist in the earlier version of the text, setting out rules for the Commission to designate a replacement for a benchmark in specified circumstances.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 23b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23b",
+              "label": "Art. 23b, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The new article covers which benchmarks it applies to, the triggering events for designating a replacement, when a fallback provision is deemed unsuitable, the process and content of the implementing act designating a replacement, and the circumstance in which such a designated replacement does not apply.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 23b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23b",
+              "label": "Art. 23b, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 23c"
+        },
+        "heading": "Replacement of a benchmark by national law",
+        "before": null,
+        "after": "Article 23c\nReplacement of a benchmark by national law\n1. The national competent authority of a Member State where the majority of contributors is located may designate one or more replacements for a benchmark as referred to in point (b) of Article 20(1), provided that any of the following events has occurred:\n(a) the competent authority for the administrator of that benchmark has issued a public statement, or has published information, in which it is announced that that benchmark no longer reflects the underlying market or economic reality; the competent authority shall make such an announcement only where, following the exercise of the powers set out in Article 23, the benchmark still does not reflect the underlying market or economic reality;\n(b) the administrator of that benchmark, or a person acting on behalf of that administrator, has issued a public statement, or has published information, or such public statement has been made or such information has been published, in which it is announced that that administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely, provided that, at the time of the issuance of the statement or the publication of the information, there is no successor administrator that will continue to provide that benchmark;\n(c) the competent authority for the administrator of that benchmark or any entity with insolvency or resolution authority over such administrator has issued a public statement, or has published information, in which it is stated that that administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely, provided that, at the time of the issuance of the statement or the publication of the information, there is no successor administrator that will continue to provide that benchmark; or\n(d) the competent authority for the administrator of that benchmark withdraws or suspends the authorisation in accordance with Article 35, provided that, at the time of the withdrawal or suspension, there is no successor administrator that will continue to provide that benchmark and its administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely.\n2. Where a Member State designates one or more replacements for a benchmark in accordance with paragraph 1, the competent authority of that Member State shall immediately notify the Commission and ESMA thereof.\n3. The replacement for a benchmark shall replace all references to that benchmark in contracts and financial instruments as referred to in Article 23a where both of the following conditions are fulfilled:\n(a) those contracts or financial instruments reference the benchmark in cessation on the date on which the national law designating the replacement for a benchmark becomes applicable; and\n(b) those contracts or financial instruments contain no fallback provision or contain a fallback provision that does not provide for a permanent replacement for the benchmark in cessation.\n4. A replacement for a benchmark designated by a competent authority in accordance with paragraph 1 of this Article shall not apply where all parties or the required majority of the parties to a contract or financial instrument as referred to in Article 23a have agreed to apply a different replacement for a benchmark whether before or after the date of application of the relevant provision of national law.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article that allows the national competent authority of a Member State where the majority of a benchmark's contributors is located to designate one or more replacements for a benchmark under certain listed conditions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 23c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23c",
+              "label": "Art. 23c, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "It sets out the specific triggering events for such a designation, requires notification of the Commission and ESMA, and describes when the designated replacement takes effect for contracts and financial instruments and when it does not apply.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 23c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23c",
+              "label": "Art. 23c, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 28"
+        },
+        "heading": "Changes to and cessation of a benchmark",
+        "before": "Article 28\nChanges to and cessation of a benchmark\n1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.\n2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall nominate one or several alternative benchmarks that could be referenced to substitute the benchmarks no longer provided, indicating why such benchmarks would be suitable alternatives. The supervised entities shall, upon request, provide the relevant competent authority with those plans and any updates and shall reflect them in the contractual relationship with clients.",
+        "after": "Article 28\nChanges to and cessation of a benchmark\n1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.\n2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall designate one or several alternative benchmarks that could be referenced to substitute the benchmarks that would no longer be provided, indicating the reasons for the suitability of such alternative benchmarks. The supervised entities shall, upon request and without undue delay, provide the relevant competent authority with those plans and any updates and shall reflect them in their contractual relationship with clients.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 28 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 2, the requirement that plans 'nominate' alternative benchmarks was changed to a requirement that plans 'designate' them, and the phrase describing benchmarks no longer provided was reworded from 'no longer provided' to 'that would no longer be provided'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_28",
+              "label": "Art. 28, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28",
+              "label": "Art. 28, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The wording on explaining the choice of alternatives was changed from indicating why such benchmarks would be suitable alternatives to indicating the reasons for the suitability of such alternative benchmarks.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_28",
+              "label": "Art. 28, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28",
+              "label": "Art. 28, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The obligation to provide plans to the competent authority upon request now also specifies that this must be done without undue delay, and the reference to contractual relationship with clients was changed to their contractual relationship with clients.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 28"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28",
+              "label": "Art. 28, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 29"
+        },
+        "heading": "Use of a benchmark",
+        "before": "Article 29\nUse of a benchmark\n1. A supervised entity may use a benchmark or a combination of benchmarks in the Union if the benchmark is provided by an administrator located in the Union and included in the register referred to in Article 36 or is a benchmark which is included in the register referred to in Article 36.\n2. Where the object of a prospectus to be published under Directive 2003/71/EC or Directive 2009/65/EC is transferable securities or other investment products that reference a benchmark, the issuer, offeror, or person asking for admission to trade on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether the benchmark is provided by an administrator included in the register referred to in Article 36 of this Regulation.",
+        "after": "Article 29\nUse of a benchmark\n1. A supervised entity may use a benchmark or a combination of benchmarks in the Union if the benchmark is provided by an administrator located in the Union and included in the register referred to in Article 36 or is a benchmark which is included in the register referred to in Article 36.\n1a. A supervised entity may also use the replacement for a benchmark designated in accordance with Article 23b or Article 23c.\n2. Where the object of a prospectus to be published under Directive 2003/71/EC or Directive 2009/65/EC is transferable securities or other investment products that reference a benchmark, the issuer, offeror, or person asking for admission to trade on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether the benchmark is provided by an administrator included in the register referred to in Article 36 of this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 29 PA 1a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 1a has been added stating that a supervised entity may also use the replacement for a benchmark designated in accordance with Article 23b or Article 23c.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_29",
+              "label": "Art. 29, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph was not present in the earlier version of Article 29, which contained only paragraphs 1 and 2.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_29",
+              "label": "Art. 29, 02016R1011-20191210"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 49"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 49\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 10 December 2019. The Commission shall draw up a report in respect of the delegation of power no later than 11 March 2024. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegations of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) or 54(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 49\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 10 December 2019. The Commission shall draw up a report in respect of the delegation of power no later than 11 March 2024. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n2b. The power to adopt delegated acts referred to in Articles 18a(3) and 54(7) shall be conferred on the Commission for an indeterminate period of time from 13 February 2021.\n3. The delegations of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n3a. The delegation of power referred to in Articles 18a(3) and 54(7) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) or 54(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.\n6a. A delegated act adopted pursuant to Article 18a(3) or 54(7) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 49 PA 2b",
+          "AR 49 PA 3a",
+          "AR 49 PA 6a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2021-02-13"
+        ],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8) (a); AR 001 (8) (b); AR 001 (8) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Three new paragraphs, 2b, 3a and 6a, were added covering the delegated powers referred to in Articles 18a(3) and 54(7), which were not addressed in the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49",
+              "label": "Art. 49, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2b sets the conferral of that power on the Commission for an indeterminate period starting 13 February 2021, paragraph 3a mirrors the existing revocation wording for that power, and paragraph 6a mirrors the existing objection-period wording for delegated acts adopted under those same articles.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49",
+              "label": "Art. 49, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The other paragraphs of Article 49, covering the previously listed articles, remain unchanged in wording between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_49",
+              "label": "Art. 49, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49",
+              "label": "Art. 49, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 51"
+        },
+        "heading": "Transitional provisions",
+        "before": "Article 51\nTransitional provisions\n1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.\n2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:\n(a) the index provider does not provide a critical benchmark;\n(b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.\nThe competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.\nThe competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.\n3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where the index provider submits an application for authorisation or registration in accordance with paragraph 1, unless and until such authorisation or registration is refused.\n4. Where an existing benchmark does not meet the requirements of this Regulation, but ceasing or changing that benchmark to fulfil the requirements of this Regulation would result in a force majeure event, frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund, which references that benchmark, the use of the benchmark shall be permitted by the competent authority of the Member State where the index provider is located. No financial instruments, financial contracts, or measurements of the performance of an investment fund shall add a reference to such an existing benchmark after 1 January 2020.\n4a. An index provider may continue to provide an existing benchmark that has been recognised as a critical benchmark by an implementing act adopted by the Commission in accordance with Article 20 until 31 December 2021 or, where the index provider submits an application for authorisation in accordance with paragraph 1, unless and until such authorisation is refused.\n4b. An existing benchmark that has been recognised as a critical benchmark by an implementing act adopted by the Commission in accordance with Article 20 may be used for existing and new financial instruments, financial contracts, or for measuring the performance of an investment fund until 31 December 2021 or, where the index provider submits an application for authorisation in accordance with paragraph 1, unless and until such authorisation is refused.\n5. Unless the Commission has adopted an equivalence decision as referred to in Article 30(2) or (3) or unless an administrator has been recognised pursuant to Article 32, or a benchmark has been endorsed pursuant to Article 33, the use in the Union by supervised entities of a benchmark provided by an administrator located in a third country where the benchmark is already used in the Union as a reference for financial instruments, financial contracts, or for measuring the performance of an investment fund, shall be permitted only for such financial instruments, financial contracts and measurements of the performance of an investment fund that already reference the benchmark in the Union on, or which add a reference to such benchmark prior to, 31 December 2021.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 concerning measures to determine the conditions on which the relevant competent authority may assess whether the cessation or the changing of an existing benchmark to conform with the requirements of this Regulation could reasonably result in a force majeure event, frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund which references such benchmark.",
+        "after": "Article 51\nTransitional provisions\n1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.\n2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:\n(a) the index provider does not provide a critical benchmark;\n(b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.\nThe competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.\nThe competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.\n3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where the index provider submits an application for authorisation or registration in accordance with paragraph 1, unless and until such authorisation or registration is refused.\n4. Where an existing benchmark does not meet the requirements of this Regulation, but ceasing or changing that benchmark to fulfil the requirements of this Regulation would result in a force majeure event, frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund, which references that benchmark, the use of the benchmark shall be permitted by the competent authority of the Member State where the index provider is located. No financial instruments, financial contracts, or measurements of the performance of an investment fund shall add a reference to such an existing benchmark after 1 January 2020.\n4a. An index provider may continue to provide an existing benchmark that has been recognised as a critical benchmark by an implementing act adopted by the Commission in accordance with Article 20 until 31 December 2021 or, where the index provider submits an application for authorisation in accordance with paragraph 1, unless and until such authorisation is refused.\n4b. An existing benchmark that has been recognised as a critical benchmark by an implementing act adopted by the Commission in accordance with Article 20 may be used for existing and new financial instruments, financial contracts, or for measuring the performance of an investment fund until 31 December 2021 or, where the index provider submits an application for authorisation in accordance with paragraph 1, unless and until such authorisation is refused.\n5. Unless the Commission has adopted an equivalence decision as referred to in paragraph (2) or (3) of Article 30, an administrator has been recognised pursuant to Article 32 or a benchmark has been endorsed pursuant to Article 33, the use in the Union by supervised entities of a third-country benchmark shall be permitted only for financial instruments, financial contracts and measurements of the performance of an investment fund that already reference that benchmark or which add a reference to such benchmark before 31 December 2023.\nThe first subparagraph shall not apply to benchmarks provided by administrators who relocate from the Union to a third country during the transitional period. The competent authority shall notify ESMA in accordance with Article 35. ESMA shall draw up a list of third-country benchmarks to which the first subparagraph does not apply.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 concerning measures to determine the conditions on which the relevant competent authority may assess whether the cessation or the changing of an existing benchmark to conform with the requirements of this Regulation could reasonably result in a force majeure event, frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund which references such benchmark.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 51 PA 5 ALN 1",
+          "AR 51 PA 5 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2023-12-31"
+        ],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 5's cut-off date for referencing a third-country benchmark not covered by an equivalence decision, recognition or endorsement has been changed from 31 December 2021 to 31 December 2023, and the wording describing the relevant benchmark has been simplified to refer generally to a third-country benchmark rather than one already used in the Union as in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 51"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_51",
+              "label": "Art. 51, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 51"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_51",
+              "label": "Art. 51, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "A new subparagraph has been added to paragraph 5 stating that the first subparagraph does not apply to benchmarks provided by administrators relocating from the Union to a third country during the transitional period, requiring the competent authority to notify ESMA under Article 35, and providing that ESMA shall draw up a list of third-country benchmarks excluded from that first subparagraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 51"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_51",
+              "label": "Art. 51, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "AR 54"
+        },
+        "heading": "Review",
+        "before": "Article 54\nReview\n1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:\n(a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);\n(b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;\n(c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.\n2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Article 51(2) is not detrimental to a common European supervisory culture and consistent supervisory practices and approaches among competent authorities.\n4. By 31 December 2022, the Commission shall review the minimum standards for EU Climate Transition Benchmarks and for EU Paris-aligned Benchmarks in order to ensure that the selection of the underlying assets is coherent with environmentally sustainable investments as defined in a Union-wide framework.\n5. Before 31 December 2022, the Commission shall present a report to the European Parliament and to the Council on the impact of this Regulation and the feasibility of an ESG benchmark, taking into account the evolving nature of sustainability indicators and the methods used to measure them. That report shall be accompanied, where appropriate by a legislative proposal.\n6. By 1 April 2020, the Commission shall submit a report to the European Parliament and to the Council on the impact of this Regulation on the operation of third country benchmarks in the Union, including on the recourse by third country benchmark administrators to endorsement, recognition or equivalence, and on potential shortcomings of the current framework. That report shall analyse the consequences of the application of paragraphs 4a, 4b and 4c of Article 51 for Union and third-country benchmark administrators, including in terms of a level playing field. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.",
+        "after": "Article 54\nReview\n1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:\n(a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);\n(b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;\n(c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.\n2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Article 51(2) is not detrimental to a common European supervisory culture and consistent supervisory practices and approaches among competent authorities.\n4. By 31 December 2022, the Commission shall review the minimum standards for EU Climate Transition Benchmarks and for EU Paris-aligned Benchmarks in order to ensure that the selection of the underlying assets is coherent with environmentally sustainable investments as defined in a Union-wide framework.\n5. Before 31 December 2022, the Commission shall present a report to the European Parliament and to the Council on the impact of this Regulation and the feasibility of an ESG benchmark, taking into account the evolving nature of sustainability indicators and the methods used to measure them. That report shall be accompanied, where appropriate by a legislative proposal.\n6. By 15 June 2023, the Commission shall submit a report to the European Parliament and to the Council on the scope of this Regulation, in particular with respect to the continued use by supervised entities of third-country benchmarks and on potential shortcomings of the current framework. That report shall assess in particular whether there is a need to amend this Regulation in order to reduce its scope to the provision of certain types of benchmarks or to the provision of benchmarks that are widely used in the Union and shall be accompanied, where appropriate, by a legislative proposal.\n7. The Commission is empowered to adopt a delegated act in accordance with Article 49 by 15 June 2023 in order to extend the transitional period referred to in Article 51(5) until 31 December 2025 at the latest if the report referred to in paragraph 6 of this Article demonstrates that, otherwise, the continued use in the Union of certain third-country benchmarks by supervised entities would be significantly impaired or would pose a threat to financial stability.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 54 PA 6 ALN 1",
+          "AR 54 PA 7"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2020-04-01"
+        ],
+        "dates_added": [
+          "2023-06-15",
+          "2025-12-31"
+        ],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (10)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "UnexpectedModelBehavior: Exceeded maximum output retries (1)"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20210213",
+          "location": "TIS III"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0168",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0168 J; 32021R0168 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32021R0168, 0.938 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R1011",
+      "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+    },
+    "from_version": "02016R1011-20191210",
+    "to_version": "02016R1011-20210213",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 18a",
+          "AR 23a",
+          "AR 23b",
+          "AR 23c",
+          "AR 28",
+          "AR 29",
+          "AR 49",
+          "AR 51",
+          "AR 54"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 18a",
+          "AR 28",
+          "AR 29",
+          "AR 49",
+          "AR 51",
+          "AR 54",
+          "TIS III"
+        ],
+        "note": "13 annotations in (2019-12-10, 2021-02-13]",
+        "claims": [
+          {
+            "location": "AR 3 PA 1 PO 24 PTA (a) PTI (i)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 51 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 28 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "TIS III CHA 4A",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "TIS III CHA 2 TIT",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 54 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PA 2 PTA (i)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 29 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PA 1 PO 22a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 49 PA 2b",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 49 PA 6a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 49 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0168 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 18a",
+          "AR 23a",
+          "AR 23b",
+          "AR 23c",
+          "AR 28",
+          "AR 29",
+          "AR 49",
+          "AR 51",
+          "AR 54"
+        ],
+        "note": "32021R0168, 0.938 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 3 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 3 PA 1 PO 24",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 28 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 29 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 49 PA 2b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 49 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 49 PA 6a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 51 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0168",
+              "display_name": "Regulation (EU) 2021/168 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) 2016/1011 as regards the exemption of certain third-country spot foreign exchange benchmarks and the designation of replacements for certain benchmarks in cessation, and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 11,
+        "right_units": 9,
+        "shared": 8,
+        "precision": 0.7272727272727273,
+        "recall": 0.8888888888888888,
+        "f1": 0.7999999999999999,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 11,
+        "right_units": 11,
+        "shared": 11,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 11,
+        "shared": 8,
+        "precision": 0.8888888888888888,
+        "recall": 0.7272727272727273,
+        "f1": 0.7999999999999999,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 23a",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 23b",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 23c",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "TIS III",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "TIS III"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 12,
+    "explained": 10,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 55134,
+      "output_tokens": 3384,
+      "requests": 12,
+      "schema_repairs": 2
+    }
+  },
+  "gate": {
+    "changes": 12,
+    "passed_first": 10,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 21,
+    "citations": 26,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

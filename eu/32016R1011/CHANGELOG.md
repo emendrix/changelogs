@@ -10,6 +10,323 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20210213 -->
+## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
+### `02016R1011-20191210` → `02016R1011-20210213`
+
+- **Act** `eu:32016R1011` · **In force** 2021-02-13 · **Detected** 2026-08-13
+- **Touched** 12 provisions — 12 substantive · 0 date-only · **4 disputed**
+- **Diff** 4 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02016R1011-20191210` · `v2` = `02016R1011-20210213`
+
+---
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 2 ALN 1 PTA (h)`, `AR 2 PA 2 ALN 1 PTA (i)` · *amended by* `32021R0168`
+
+Point (h) of Article 2(2)(1) now ends with a semicolon instead of a full stop, and a new point (i) has been added excluding a spot foreign exchange benchmark that has been designated by the Commission in accordance with Article 18a(1). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_2)
+
+The earlier version of the article did not contain this point (i) or any reference to a designation under Article 18a(1). [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_2)
+
+*before* (`02016R1011-20191210`)
+
+> Article 2
+> Scope
+> 1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.
+> 2. This Regulation shall not apply to:
+> (a) a central bank;
+> (b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;
+> (c) a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;
+> (d) the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;
+> (e) the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;
+> (f) a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;
+> (g) a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:
+> (i) […truncated by emendrix: 603 characters omitted…]
+
+*after* (`02016R1011-20210213`)
+
+> Article 2
+> Scope
+> 1. This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.
+> 2. This Regulation shall not apply to:
+> (a) a central bank;
+> (b) a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;
+> (c) a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;
+> (d) the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;
+> (e) the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;
+> (f) a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;
+> (g) a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:
+> (i) […truncated by emendrix: 720 characters omitted…]
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 PA 1 ALN 1 PO 22a`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (i)` · *amended by* `32021R0168`
+
+A new definition, point (22a), was added to define a spot foreign exchange benchmark as one reflecting the price, expressed in one currency, of another currency or a basket of other currencies, for delivery on the earliest possible value date. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3)
+
+In point (24)(a)(i), the description of input data sources for a regulated-data benchmark was expanded to also include reference to Article 25(4) of Directive 2014/65/EU, alongside the existing reference to Article 28(4) of Regulation (EU) No 600/2014. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3)
+
+*before* (`02016R1011-20191210`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) index means any figure:
+> (a) that is published or made available to the public;
+> (b) that is regularly determined:
+> (i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and
+> (ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;
+> (2) index provider means a natural or legal person that has control over the provision of an index;
+> (3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;
+> (4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;
+> (5) provision of a benchmark means:
+> (a) administering the arrangements for determining a benchmark;
+> (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
+> (c) determining a benchmark through the application of […truncated by emendrix: 15163 characters omitted…]
+
+*after* (`02016R1011-20210213`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions apply:
+> (1) index means any figure:
+> (a) that is published or made available to the public;
+> (b) that is regularly determined:
+> (i) entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and
+> (ii) on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;
+> (2) index provider means a natural or legal person that has control over the provision of an index;
+> (3) benchmark means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;
+> (4) family of benchmarks means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;
+> (5) provision of a benchmark means:
+> (a) administering the arrangements for determining a benchmark;
+> (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
+> (c) determining a benchmark through the application of […truncated by emendrix: 15453 characters omitted…]
+
+**INSERTED · Art. 18a — Spot foreign exchange benchmarks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0168`
+
+A new Article 18a is added, setting out criteria under which the Commission may designate a spot foreign exchange benchmark administered outside the Union, namely that it references a spot exchange rate of a third-country currency that is not freely convertible and is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_18a)
+
+The new article also directs the Commission to hold a public consultation by 31 December 2022 to identify benchmarks meeting those criteria, and to adopt a delegated act by 15 June 2023 creating and, as appropriate, updating a list of such benchmarks. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_18a)
+
+*after* (`02016R1011-20210213`)
+
+> Article 18a
+> Spot foreign exchange benchmarks
+> 1. The Commission may designate a spot foreign exchange benchmark that is administered by administrators located outside the Union where both of the following criteria are fulfilled:
+> (a) the spot foreign exchange benchmark references a spot exchange rate of a third-country currency that is not freely convertible; and
+> (b) the spot foreign exchange benchmark is used on a frequent, systematic and regular basis to hedge against adverse foreign exchange rate movements.
+> 2. By 31 December 2022, the Commission shall conduct a public consultation to identify spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1.
+> 3. By 15 June 2023, the Commission shall adopt a delegated act in accordance with Article 49 to create a list of spot foreign exchange benchmarks that fulfil the criteria laid down in paragraph 1 of this Article. The Commission shall update that list as appropriate.
+
+**INSERTED · Art. 23a — Scope of the statutory replacement of a benchmark** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0168`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 23a is added, setting out that the Chapter's rules on statutory replacement of a benchmark apply to contracts or financial instruments under Directive 2014/65/EU that reference a benchmark and are subject to the law of a Member State, and to contracts referencing a benchmark where all parties are established in the Union and the contract is subject to a third-country law that does not provide for an orderly wind-down of the benchmark. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23a)
+
+*after* (`02016R1011-20210213`)
+
+> Article 23a
+> Scope of the statutory replacement of a benchmark
+> This Chapter applies to:
+> (a) any contract, or any financial instrument as defined in Directive 2014/65/EU, that references a benchmark and is subject to the law of one of the Member States; and
+> (b) any contract, the parties to which are all established in the Union, that references a benchmark and that is subject to the law of a third country and where that law does not provide for the orderly wind-down of a benchmark.
+
+**INSERTED · Art. 23b — Replacement of a benchmark by Union law** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0168`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 23b is an entirely new provision that did not exist in the earlier version of the text, setting out rules for the Commission to designate a replacement for a benchmark in specified circumstances. [Art. 23b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23b)
+
+The new article covers which benchmarks it applies to, the triggering events for designating a replacement, when a fallback provision is deemed unsuitable, the process and content of the implementing act designating a replacement, and the circumstance in which such a designated replacement does not apply. [Art. 23b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23b)
+
+*after* (`02016R1011-20210213`)
+
+> Article 23b
+> Replacement of a benchmark by Union law
+> 1. This Article shall apply to:
+> (a) benchmarks designated as critical by an implementing act adopted pursuant to point (a) or (c) of Article 20(1);
+> (b) benchmarks based on the contribution of input data if their cessation or wind-down would significantly disrupt the functioning of financial markets in the Union; and
+> (c) third-country benchmarks if their cessation or wind-down would significantly disrupt the functioning of financial markets in the Union or pose a systemic risk to the financial system in the Union.
+> 2. The Commission may designate one or more replacements for a benchmark provided that any of the following events has occurred:
+> (a) the competent authority for the administrator of that benchmark has issued a public statement, or has published information, in which it is announced that that benchmark no longer reflects the underlying market or economic reality; in the case of a benchmark designated as critical by an implementing act adopted pursuant to point (a) or (c) of Article 20(1), the competent authority shall make such an announcement only where, following the exercise of the powers set out in Article 23, the benchmark still does not reflect the underlying market or economic reality;
+> (b) the administrator of that benchmark, or a person acting on behalf of that administrator, has issued a public statement, or has published information, or such public statement has been made or such information has been publis […truncated by emendrix: 6474 characters omitted…]
+
+**INSERTED · Art. 23c — Replacement of a benchmark by national law** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0168`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article that allows the national competent authority of a Member State where the majority of a benchmark's contributors is located to designate one or more replacements for a benchmark under certain listed conditions. [Art. 23c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23c)
+
+It sets out the specific triggering events for such a designation, requires notification of the Commission and ESMA, and describes when the designated replacement takes effect for contracts and financial instruments and when it does not apply. [Art. 23c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23c)
+
+*after* (`02016R1011-20210213`)
+
+> Article 23c
+> Replacement of a benchmark by national law
+> 1. The national competent authority of a Member State where the majority of contributors is located may designate one or more replacements for a benchmark as referred to in point (b) of Article 20(1), provided that any of the following events has occurred:
+> (a) the competent authority for the administrator of that benchmark has issued a public statement, or has published information, in which it is announced that that benchmark no longer reflects the underlying market or economic reality; the competent authority shall make such an announcement only where, following the exercise of the powers set out in Article 23, the benchmark still does not reflect the underlying market or economic reality;
+> (b) the administrator of that benchmark, or a person acting on behalf of that administrator, has issued a public statement, or has published information, or such public statement has been made or such information has been published, in which it is announced that that administrator will commence the orderly wind-down of that benchmark or will cease to provide that benchmark or certain tenors or certain currencies for which that benchmark is calculated permanently or indefinitely, provided that, at the time of the issuance of the statement or the publication of the information, there is no successor administrator that will continue to provide that benchmark;
+> (c) the competent authority for the administrator of that benchmark or any enti […truncated by emendrix: 2266 characters omitted…]
+
+**MODIFIED · Art. 28 — Changes to and cessation of a benchmark** · applies from: unchanged
+
+*within* `AR 28 PA 2 ALN 1` · *amended by* `32021R0168`
+
+In paragraph 2, the requirement that plans 'nominate' alternative benchmarks was changed to a requirement that plans 'designate' them, and the phrase describing benchmarks no longer provided was reworded from 'no longer provided' to 'that would no longer be provided'. [Art. 28, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_28) [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28)
+
+The wording on explaining the choice of alternatives was changed from indicating why such benchmarks would be suitable alternatives to indicating the reasons for the suitability of such alternative benchmarks. [Art. 28, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_28) [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28)
+
+The obligation to provide plans to the competent authority upon request now also specifies that this must be done without undue delay, and the reference to contractual relationship with clients was changed to their contractual relationship with clients. [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_28)
+
+*before* (`02016R1011-20191210`)
+
+> Article 28
+> Changes to and cessation of a benchmark
+> 1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.
+> 2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall nominate one or several alternative benchmarks that could be referenced to substitute the benchmarks no longer provided, indicating why such benchmarks would be suitable alternatives. The supervised entities shall, upon request, provide the relevant competent authority with those plans and any updates and shall reflect them in the contractual relationship with clients.
+
+*after* (`02016R1011-20210213`)
+
+> Article 28
+> Changes to and cessation of a benchmark
+> 1. An administrator shall publish, together with the benchmark statement referred to in Article 27, a procedure concerning the actions to be taken by the administrator in the event of changes to or the cessation of a benchmark which may be used in the Union in accordance with Article 29(1). The procedure may be drafted, where applicable, for families of benchmarks and shall be updated and published whenever a material change occurs.
+> 2. Supervised entities other than an administrator as referred to in paragraph 1 that use a benchmark shall produce and maintain robust written plans setting out the actions that they would take in the event that a benchmark materially changes or ceases to be provided. Where feasible and appropriate, such plans shall designate one or several alternative benchmarks that could be referenced to substitute the benchmarks that would no longer be provided, indicating the reasons for the suitability of such alternative benchmarks. The supervised entities shall, upon request and without undue delay, provide the relevant competent authority with those plans and any updates and shall reflect them in their contractual relationship with clients.
+
+**MODIFIED · Art. 29 — Use of a benchmark** · applies from: unchanged
+
+*within* `AR 29 PA 1a` · *amended by* `32021R0168`
+
+A new paragraph 1a has been added stating that a supervised entity may also use the replacement for a benchmark designated in accordance with Article 23b or Article 23c. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_29)
+
+This paragraph was not present in the earlier version of Article 29, which contained only paragraphs 1 and 2. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_29)
+
+*before* (`02016R1011-20191210`)
+
+> Article 29
+> Use of a benchmark
+> 1. A supervised entity may use a benchmark or a combination of benchmarks in the Union if the benchmark is provided by an administrator located in the Union and included in the register referred to in Article 36 or is a benchmark which is included in the register referred to in Article 36.
+> 2. Where the object of a prospectus to be published under Directive 2003/71/EC or Directive 2009/65/EC is transferable securities or other investment products that reference a benchmark, the issuer, offeror, or person asking for admission to trade on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether the benchmark is provided by an administrator included in the register referred to in Article 36 of this Regulation.
+
+*after* (`02016R1011-20210213`)
+
+> Article 29
+> Use of a benchmark
+> 1. A supervised entity may use a benchmark or a combination of benchmarks in the Union if the benchmark is provided by an administrator located in the Union and included in the register referred to in Article 36 or is a benchmark which is included in the register referred to in Article 36.
+> 1a. A supervised entity may also use the replacement for a benchmark designated in accordance with Article 23b or Article 23c.
+> 2. Where the object of a prospectus to be published under Directive 2003/71/EC or Directive 2009/65/EC is transferable securities or other investment products that reference a benchmark, the issuer, offeror, or person asking for admission to trade on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether the benchmark is provided by an administrator included in the register referred to in Article 36 of this Regulation.
+
+**MODIFIED · Art. 49 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 49 PA 2b`, `AR 49 PA 3a`, `AR 49 PA 6a` · *dates* +2021-02-13 · *amended by* `32021R0168`
+
+Three new paragraphs, 2b, 3a and 6a, were added covering the delegated powers referred to in Articles 18a(3) and 54(7), which were not addressed in the earlier version. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49)
+
+Paragraph 2b sets the conferral of that power on the Commission for an indeterminate period starting 13 February 2021, paragraph 3a mirrors the existing revocation wording for that power, and paragraph 6a mirrors the existing objection-period wording for delegated acts adopted under those same articles. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49)
+
+The other paragraphs of Article 49, covering the previously listed articles, remain unchanged in wording between the two versions. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_49)
+
+*before* (`02016R1011-20191210`)
+
+> Article 49
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 10 December 2019. The Commission shall draw up a report in respect of the delegation of power no later than 11 March 2024. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegations of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the […truncated by emendrix: 683 characters omitted…]
+
+*after* (`02016R1011-20210213`)
+
+> Article 49
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) shall be conferred on the Commission for a period of five years from 10 December 2019. The Commission shall draw up a report in respect of the delegation of power no later than 11 March 2024. The delegation of power shall be tacitly extended for further periods of identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 2b. The power to adopt delegated acts referred to in Articles 18a(3) and 54(7) shall be conferred on the Commission for an indeterminate period of time from 13 February 2021.
+> 3. The delegations of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 33(7), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 3a. The delegation of power referred to in Articles 18a(3) and 54(7) may be revoked at any ti […truncated by emendrix: 1861 characters omitted…]
+
+**MODIFIED · Art. 51 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 51 PA 5 ALN 1`, `AR 51 PA 5 ALN 2` · *dates* +2023-12-31 · *amended by* `32021R0168`
+
+Paragraph 5's cut-off date for referencing a third-country benchmark not covered by an equivalence decision, recognition or endorsement has been changed from 31 December 2021 to 31 December 2023, and the wording describing the relevant benchmark has been simplified to refer generally to a third-country benchmark rather than one already used in the Union as in the earlier text. [Art. 51, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_51) [Art. 51, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_51)
+
+A new subparagraph has been added to paragraph 5 stating that the first subparagraph does not apply to benchmarks provided by administrators relocating from the Union to a third country during the transitional period, requiring the competent authority to notify ESMA under Article 35, and providing that ESMA shall draw up a list of third-country benchmarks excluded from that first subparagraph. [Art. 51, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_51)
+
+*before* (`02016R1011-20191210`)
+
+> Article 51
+> Transitional provisions
+> 1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.
+> 2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:
+> (a) the index provider does not provide a critical benchmark;
+> (b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.
+> The competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.
+> The competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.
+> 3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where t […truncated by emendrix: 2956 characters omitted…]
+
+*after* (`02016R1011-20210213`)
+
+> Article 51
+> Transitional provisions
+> 1. An index provider providing a benchmark on 30 June 2016 shall apply for authorisation or registration in accordance with Article 34 by 1 January 2020.
+> 2. By 1 January 2020, the competent authority of the Member State where an index provider applying for authorisation in accordance with Article 34 is located shall have the power to decide to register that index provider as an administrator even if it is not a supervised entity, under the following conditions:
+> (a) the index provider does not provide a critical benchmark;
+> (b) the competent authority is aware, on a reasonable basis, that the index or indices provided by the index provider are not widely used, within the meaning of this Regulation, in the Member State where the index provider is located as well as in other Member States.
+> The competent authority shall notify ESMA of its decision adopted in accordance with the first subparagraph.
+> The competent authority shall keep evidence of the reasons for its decision adopted in accordance with the first subparagraph, in such a form that it is possible to fully understand the evaluations of the competent authority that the index or indices provided by the index provider are not widely used, including any market data, judgement or other information, as well as information received from the index provider.
+> 3. An index provider may continue to provide an existing benchmark which may be used by supervised entities until 1 January 2020 or, where t […truncated by emendrix: 3060 characters omitted…]
+
+**MODIFIED · Art. 54 — Review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 54 PA 6 ALN 1`, `AR 54 PA 7` · *dates* -2020-04-01 +2023-06-15 +2025-12-31 · *amended by* `32021R0168`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02016R1011-20191210`)
+
+> Article 54
+> Review
+> 1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:
+> (a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);
+> (b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;
+> (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
+> 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 1547 characters omitted…]
+
+*after* (`02016R1011-20210213`)
+
+> Article 54
+> Review
+> 1. By 1 January 2020, the Commission shall review and submit a report to the European Parliament and to the Council on this Regulation and in particular on:
+> (a) the functioning and effectiveness of the critical benchmark, mandatory administration and mandatory contribution regime under Articles 20, 21 and 23 and the definition of a critical benchmark in point (25) of Article 3(1);
+> (b) the effectiveness of the authorisation, registration and supervision regime of administrators under Title VI and the colleges under Article 46 and the appropriateness of supervision of certain benchmarks by a Union body;
+> (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
+> 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 1888 characters omitted…]
+
+**MODIFIED · TIS III** · applies from: unknown
+
+*amended by* `32021R0168`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20210213 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20191210 -->
 ## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
 ### `32016R1011` → `02016R1011-20191210`
