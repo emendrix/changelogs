@@ -10,6 +10,81 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20221212 -->
+## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
+### `02013R0952-20200101` → `02013R0952-20221212`
+
+- **Act** `eu:32013R0952` · **In force** 2022-12-12 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 288 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R0952-20200101` · `v2` = `02013R0952-20221212`
+
+---
+
+**MODIFIED · Art. 5 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 5 ALN 1 PO 2 PTA (e)` · *dates* +2022-11-23 · *amended by* `32022R2399`
+
+A new point (e) is added to the definition of "customs legislation" in Article 5(2), adding a reference to Regulation (EU) 2022/2399 establishing the European Union Single Window Environment for Customs, together with the provisions supplementing or implementing it, to the list of instruments that make up that body of legislation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_5)
+
+The corresponding earlier text of Article 5(2) listed only points (a) to (d), without any reference to that Regulation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_5)
+
+*before* (`02013R0952-20200101`)
+
+> Article 5
+> Definitions
+> For the purposes of the Code, the following definitions shall apply:
+> (1) "customs authorities" means the customs administrations of the Member States responsible for applying the customs legislation and any other authorities empowered under national law to apply certain customs legislation;
+> (2) "customs legislation" means the body of legislation made up of all of the following:
+> (a) the Code and the provisions supplementing or implementing it adopted at Union or national level;
+> (b) the Common Customs Tariff;
+> (c) the legislation setting up a Union system of reliefs from customs duty;
+> (d) international agreements containing customs provisions, insofar as they are applicable in the Union;
+> (3) "customs controls" means specific acts performed by the customs authorities in order to ensure compliance with the customs legislation and other legislation governing the entry, exit, transit, movement, storage and end-use of goods moved between the customs territory of the Union and countries or territories outside that territory, and the presence and movement within the customs territory of the Union of non-Union goods and goods placed under the end-use procedure;
+> (4) "person" means a natural person, a legal person, and any association of persons which is not a legal person but which is recognised under Union or national law as having the capacity to perform legal acts;
+> (5) "economic operator" means a person who, in the course of his or her business, is involved in ac […truncated by emendrix: 9331 characters omitted…]
+
+*after* (`02013R0952-20221212`)
+
+> Article 5
+> Definitions
+> For the purposes of the Code, the following definitions shall apply:
+> (1) "customs authorities" means the customs administrations of the Member States responsible for applying the customs legislation and any other authorities empowered under national law to apply certain customs legislation;
+> (2) "customs legislation" means the body of legislation made up of all of the following:
+> (a) the Code and the provisions supplementing or implementing it adopted at Union or national level;
+> (b) the Common Customs Tariff;
+> (c) the legislation setting up a Union system of reliefs from customs duty;
+> (d) international agreements containing customs provisions, insofar as they are applicable in the Union;
+> (e) Regulation (EU) 2022/2399 of the European Parliament and of the CouncilRegulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1). and the provisions supplementing or implementing it;
+> (3) "customs controls" means specific acts performed by the customs authorities in order to ensure compliance with the customs legislation and other legislation governing the entry, exit, transit, movement, storage and end-use of goods moved between the customs territory of the Union and countries or territories outside that territory, and the presence and movement within the customs territory of the Union of non-Union g […truncated by emendrix: 9691 characters omitted…]
+
+**MODIFIED · Art. 163 — Supporting documents** · applies from: unchanged
+
+*within* `AR 163 PA 1 ALN 2` · *amended by* `32022R2399`
+
+Paragraph 1 gains a new sentence stating that supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 are deemed to be in the declarant's possession and at the disposal of the customs authorities at the time the customs declaration is lodged, provided those authorities can obtain the necessary data from the corresponding Union non-customs systems through the European Union Customs Single Window Certificates Exchange System as described in Article 10(1), points (a) and (c), of that Regulation. [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
+
+Paragraphs 2 and 3 remain textually the same between the two versions shown. [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
+
+*before* (`02013R0952-20200101`)
+
+> Article 163
+> Supporting documents
+> 1. The supporting documents required for the application of the provisions governing the customs procedure for which the goods are declared shall be in the declarant's possession and at the disposal of the customs authorities at the time when the customs declaration is lodged.
+> 2. Supporting documents shall be provided to the customs authorities where Union legislation so requires or where necessary for customs controls.
+> 3. In specific cases, economic operators may draw up the supporting documents provided they are authorised to do so by the customs authorities.
+
+*after* (`02013R0952-20221212`)
+
+> Article 163
+> Supporting documents
+> 1. The supporting documents required for the application of the provisions governing the customs procedure for which the goods are declared shall be in the declarant's possession and at the disposal of the customs authorities at the time when the customs declaration is lodged.
+> The supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 shall be deemed to be in the possession of the declarant and at the disposal of the customs authorities at the time when the customs declaration is lodged, provided that those authorities are able to obtain the necessary data from the corresponding Union non-customs systems through the European Union Customs Single Window Certificates Exchange System in accordance with Article 10(1), points (a) and (c), of that Regulation.
+> 2. Supporting documents shall be provided to the customs authorities where Union legislation so requires or where necessary for customs controls.
+> 3. In specific cases, economic operators may draw up the supporting documents provided they are authorised to do so by the customs authorities.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0952-20221212 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20200101 -->
 ## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
 ### `02013R0952-20190515` → `02013R0952-20200101`
