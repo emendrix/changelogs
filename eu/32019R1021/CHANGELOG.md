@@ -10,6 +10,113 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20230610 -->
+## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
+### `02019R1021-20221213` → `02019R1021-20230610`
+
+- **Act** `eu:32019R1021` · **In force** 2023-06-10 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 27 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Citations** `v1` = `02019R1021-20221213` · `v2` = `02019R1021-20230610`
+
+---
+
+**INSERTED · Art. 21a — Transitional provision** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32022R2400`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*after* (`02019R1021-20230610`)
+
+> Article 21a
+> Transitional provision
+> 1. A value of 10 μg/kg shall apply to fly ashes from biomass units for heat and power production containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyl (dl-PCBs) as listed in Annex IV until 30 December 2023. The value of 5 μg/kg provided for in Annex IV shall apply to fly ashes from biomass units for heat and power production from 31 December 2023.
+> 2. A value of 15 μg/kg shall continue to apply for ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) as listed in Annex IV until 31 December 2024. For ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs), the value of 5 μg/kg provided for in Annex IV shall apply from 1 January 2025.
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN IV` · *dates* -2019-04-20 -2021-07-16 +2025-12-29 +2025-12-30 +2027-12-29 +2027-12-30 · *amended by* `32022R2400`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20221213`)
+
+> ANNEX IV
+> List of substances subject to waste management provisions set out in Article 7
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as PCDD and PCDF according to the following toxic equivalency factors (TEFs):
+> PCDD TEF PCDF TEF PCDD TEF
+> 2,3,7,8-TeCDD 1 2,3,7,8-TeCDF 0,1 1,2,3,6,7,8-HxCDF 0,1
+> 1,2,3,7,8-PeCDD 1 1,2,3,7,8-PeCDF 0,03 1,2,3,7,8,9-HxCDF 0,1
+> 1,2,3,4,7,8-HxCDD 0,1 2,3,4,7,8-PeCDF 0,3 2,3,4,6,7,8-HxCDF 0,1
+> 1,2,3,6,7,8-HxCDD 0,1 1,2,3,4,7,8-HxCDF 0,1 1,2,3,4,6,7,8-HpCDF 0,01
+> 1,2,3,7,8,9-HxCDD 0,1 1,2,3,4,7,8,9-HpCDF 0,01
+> 1,2,3,4,6,7,8-HpCDD 0,01 OCDF 0,0003
+> OCDD 0,0003 The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
+> Endosulfan 115-29-7
+> 959-98-8
+> 33213-65-9 204-079-4 50 mg/kg
+> Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
+> Polychlorinated naphthalenes 10 mg/kg
+> Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 10000 mg/kg
+> Tetrabromodiphenyl ether C12H6Br4O 40088-47-9 and others 254-787-2 and others Sum of the concentrations of tetrabromodiphenyl ether, pentabromodipheny […truncated by emendrix: 2075 characters omitted…]
+
+*after* (`02019R1021-20230610`)
+
+> ANNEX IV
+> List of substances subject to waste management provisions set out in Article 7
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
+> Endosulfan 115-29-7
+> 959-98-8
+> 33213-65-9 204-079-4 50 mg/kg
+> Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
+> Polychlorinated naphthalenes 10 mg/kg
+> Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg
+> The Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027.
+> Tetrabromodiphenyl ether C12H6Br4O 40088-47-9
+> and others 254-787-2
+> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br1 […truncated by emendrix: 3954 characters omitted…]
+
+**MODIFIED · Annex V — ANNEX V** · applies from: unchanged
+
+*within* `AN V` · *amended by* `32022R2400`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02019R1021-20221213`)
+
+> ANNEX V
+> WASTE MANAGEMENT
+> Part 1
+> Disposal and recovery under Article 7(2)
+> The following disposal and recovery operations, as provided for in Annexes I and II of Directive 2008/98/EC, are permitted for the purposes of Article 7(2), when applied in such a way as to ensure that the persistent organic pollutant content is destroyed or irreversibly transformed
+> Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> D9 Physico-chemical treatment.
+> D10 Incineration on land.
+> R1 Use principally as a fuel or other means to generate energy, excluding waste containing PCBs.
+> R4 Recycling/reclamation of metals and metal compounds, under the following conditions: The operations are restricted to residues from iron- and steel-making processes such as dusts or sludges from gas treatment or mill scale or zinc-containing filter dusts from steelworks, dusts from gas cleaning systems of copper smelters and similar wastes and lead-containing leaching residues of the non-ferrous metal production. Waste containing PCBs is excluded. The operations are restricted to processes for the recovery of iron and iron alloys (blast furnace, shaft furnace and hearth furnace) and non-ferrous metals (Waelz rotary kiln process, bath melting processes using vertical or horizontal furnaces), provided the facilities meet as minimum requirements the emission limit values for PCDDs and PCDFs […truncated by emendrix: 8407 characters omitted…]
+
+*after* (`02019R1021-20230610`)
+
+> ANNEX V
+> WASTE MANAGEMENT
+> Part 1
+> Disposal and recovery under Article 7(2)
+> The following disposal and recovery operations, as provided for in Annexes I and II of Directive 2008/98/EC, are permitted for the purposes of Article 7(2), when applied in such a way as to ensure that the persistent organic pollutant content is destroyed or irreversibly transformed
+> Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> D9 Physico-chemical treatment.
+> D10 Incineration on land.
+> R1 Use principally as a fuel or other means to generate energy, excluding waste containing PCBs.
+> R4 Recycling/reclamation of metals and metal compounds, under the following conditions: The operations are restricted to residues from iron- and steel-making processes such as dusts or sludges from gas treatment or mill scale or zinc-containing filter dusts from steelworks, dusts from gas cleaning systems of copper smelters and similar wastes and lead-containing leaching residues of the non-ferrous metal production. Waste containing PCBs is excluded. The operations are restricted to processes for the recovery of iron and iron alloys (blast furnace, shaft furnace and hearth furnace) and non-ferrous metals (Waelz rotary kiln process, bath melting processes using vertical or horizontal furnaces), provided the facilities meet as minimum requirements the emission limit values for PCDDs and PCDFs […truncated by emendrix: 9503 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20230610 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20221213 -->
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20210315` → `02019R1021-20221213`

@@ -1,0 +1,475 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32019R1021",
+    "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+  },
+  "from_version": "02019R1021-20221213",
+  "to_version": "02019R1021-20230610",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2023-06-10"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 27,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 3
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20230610",
+          "location": "AR 21a"
+        },
+        "heading": "Transitional provision",
+        "before": null,
+        "after": "Article 21a\nTransitional provision\n1. A value of 10 μg/kg shall apply to fly ashes from biomass units for heat and power production containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyl (dl-PCBs) as listed in Annex IV until 30 December 2023. The value of 5 μg/kg provided for in Annex IV shall apply to fly ashes from biomass units for heat and power production from 31 December 2023.\n2. A value of 15 μg/kg shall continue to apply for ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) as listed in Annex IV until 31 December 2024. For ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs), the value of 5 μg/kg provided for in Annex IV shall apply from 1 January 2025.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2400",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2023-06-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2400 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20230610",
+          "location": "AN IV"
+        },
+        "heading": "ANNEX IV",
+        "before": "ANNEX IV\nList of substances subject to waste management provisions set out in Article 7\nPolychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as PCDD and PCDF according to the following toxic equivalency factors (TEFs):\nPCDD TEF PCDF TEF PCDD TEF\n2,3,7,8-TeCDD 1 2,3,7,8-TeCDF 0,1 1,2,3,6,7,8-HxCDF 0,1\n1,2,3,7,8-PeCDD 1 1,2,3,7,8-PeCDF 0,03 1,2,3,7,8,9-HxCDF 0,1\n1,2,3,4,7,8-HxCDD 0,1 2,3,4,7,8-PeCDF 0,3 2,3,4,6,7,8-HxCDF 0,1\n1,2,3,6,7,8-HxCDD 0,1 1,2,3,4,7,8-HxCDF 0,1 1,2,3,4,6,7,8-HpCDF 0,01\n1,2,3,7,8,9-HxCDD 0,1 1,2,3,4,7,8,9-HpCDF 0,01\n1,2,3,4,6,7,8-HpCDD 0,01 OCDF 0,0003\nOCDD 0,0003 The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.\nSubstance CAS No EC No Concentration limit referred to in Article 7(4)(a)\nEndosulfan 115-29-7\n959-98-8\n33213-65-9 204-079-4 50 mg/kg\nHexachlorobutadiene 87-68-3 201-765-5 100 mg/kg\nPolychlorinated naphthalenes 10 mg/kg\nAlkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 10000 mg/kg\nTetrabromodiphenyl ether C12H6Br4O 40088-47-9 and others 254-787-2 and others Sum of the concentrations of tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether: 1000 mg/kg.\nThe Commission shall review that concentration limit and shall, where appropriate and in accordance with the Treaties, adopt a legislative proposal to lower that value to 500 mg/kg. The Commission shall carry out such review as soon as possible and, in any event, not later than 16 July 2021.\nPentabromodiphenyl ether C12H5Br5O 32534-81-9 and others 251-084-2 and others\nHexabromodiphenyl ether C12H4Br6O 36483-60-0 and others 253-058-6 and others\nHeptabromodiphenyl ether C12H3Br7O 68928-80-3 and others 273-031-2 and others\nDecabromodiphenyl ether C12Br10O 1163-19-5 and others 214-604-9 and others\nPerfluorooctane sulfonic acid and its derivatives (PFOS) C8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) 1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others 217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others 50 mg/kg\nPolychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) 15 μg/kg\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane) 50-29-3 200-024-3 50 mg/kg\nChlordane 57-74-9 200-349-0 50 mg/kg\nHexachlorocyclohexanes, including lindane 58-89-9\n319-84-6\n319-85-7\n608-73-1 210-168-9\n200-401-2\n206-270-8\n206-271-3 50 mg/kg\nDieldrin 60-57-1 200-484-5 50 mg/kg\nEndrin 72-20-8 200-775-7 50 mg/kg\nHeptachlor 76-44-8 200-962-3 50 mg/kg\nHexachlorobenzene 118-74-1 204-273-9 50 mg/kg\nChlordecone 143-50-0 205-601-3 50 mg/kg\nAldrin 309-00-2 206-215-8 50 mg/kg\nPentachlorobenzene 608-93-5 210-172-0 50 mg/kg\nPolychlorinated Biphenyls (PCB) 1336-36-3 and others 215-648-1 50 mg/kg\nMirex 2385-85-5 219-196-6 50 mg/kg\nToxaphene 8001-35-2 232-283-3 50 mg/kg\nHexabromobiphenyl 36355-01-8 252-994-2 50 mg/kg\nHexabromocyclododecane 25637-99-4,\n3194-55-6,\n134237-50-6,\n134237-51-7,\n134237-52-8 247-148-4\n221-695-9 1000 mg/kg, subject to review by the Commission by 20 April 2019",
+        "after": "ANNEX IV\nList of substances subject to waste management provisions set out in Article 7\nPolychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.\nSubstance CAS No EC No Concentration limit referred to in Article 7(4)(a)\nEndosulfan 115-29-7\n959-98-8\n33213-65-9 204-079-4 50 mg/kg\nHexachlorobutadiene 87-68-3 201-765-5 100 mg/kg\nPolychlorinated naphthalenes 10 mg/kg\nAlkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027.\nTetrabromodiphenyl ether C12H6Br4O 40088-47-9\nand others 254-787-2\nand others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br10O:\n(a) until 29 December 2025, 500 mg/kg;\n(b) from 30 December 2025 until 29 December 2027, 350 mg/kg, or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether;\n(c) from 30 December 2027, 200 mg/kg or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether.\nPentabromodiphenyl ether C12H5Br5O 32534-81-9\nand others 251-084-2\nand others\nHexabromodiphenyl ether C12H4Br6O 36483-60-0\nand others 253-058-6\nand others\nHeptabromodiphenyl ether C12H3Br7O 68928-80-3\nand others 273-031-2\nand others\nBis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O 1163-19-5\nand others 214-604-9\nand others\nPerfluorooctane sulfonic acid and its derivatives (PFOS) C8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) 1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others 217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others 50 mg/kg\nPolychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs) 5 μg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane) 50-29-3 200-024-3 50 mg/kg\nChlordane 57-74-9 200-349-0 50 mg/kg\nHexachlorocyclohexanes, including lindane 58-89-9\n319-84-6\n319-85-7\n608-73-1 210-168-9\n200-401-2\n206-270-8\n206-271-3 50 mg/kg\nDieldrin 60-57-1 200-484-5 50 mg/kg\nEndrin 72-20-8 200-775-7 50 mg/kg\nHeptachlor 76-44-8 200-962-3 50 mg/kg\nHexachlorobenzene 118-74-1 204-273-9 50 mg/kg\nChlordecone 143-50-0 205-601-3 50 mg/kg\nAldrin 309-00-2 206-215-8 50 mg/kg\nPentachlorobenzene 608-93-5 210-172-0 50 mg/kg\nPolychlorinated Biphenyls (PCB) 1336-36-3 and others 215-648-1 50 mg/kg\nMirex 2385-85-5 219-196-6 50 mg/kg\nToxaphene 8001-35-2 232-283-3 50 mg/kg\nHexabromobiphenyl 36355-01-8 252-994-2 50 mg/kg\nHexabromocyclododecane 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 247-148-4\n221-695-9 500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value to not higher than 200 mg/kg no later than 30 December 2027.\nPentachlorophenol, its salts and esters 87-86-5 and others 201-778-6 and others 100 mg/kg\nDicofol 115-32-2 204-082-0 50 mg/kg\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I 335-67-1 and others 206-397-9 and others 1 mg/kg\n(PFOA and its salts),\n40 mg/kg\n(sum of PFOA-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.\nPerfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds 355-46-4 and others 206-587-1 and others 1 mg/kg\n(PFHxS and its salts), 40 mg/kg\n(sum of PFHxS-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027.",
+        "previous_location": null,
+        "changed_within": [
+          "AN IV"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2400",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2019-04-20",
+          "2021-07-16"
+        ],
+        "dates_added": [
+          "2025-12-29",
+          "2025-12-30",
+          "2027-12-29",
+          "2027-12-30"
+        ],
+        "in_force": "2023-06-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2400 J; 32022R2400 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2400, 0.500 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1021",
+            "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+          },
+          "version": "02019R1021-20230610",
+          "location": "AN V"
+        },
+        "heading": "ANNEX V",
+        "before": "ANNEX V\nWASTE MANAGEMENT\nPart 1\nDisposal and recovery under Article 7(2)\nThe following disposal and recovery operations, as provided for in Annexes I and II of Directive 2008/98/EC, are permitted for the purposes of Article 7(2), when applied in such a way as to ensure that the persistent organic pollutant content is destroyed or irreversibly transformed\nDirective 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).\nD9 Physico-chemical treatment.\nD10 Incineration on land.\nR1 Use principally as a fuel or other means to generate energy, excluding waste containing PCBs.\nR4 Recycling/reclamation of metals and metal compounds, under the following conditions: The operations are restricted to residues from iron- and steel-making processes such as dusts or sludges from gas treatment or mill scale or zinc-containing filter dusts from steelworks, dusts from gas cleaning systems of copper smelters and similar wastes and lead-containing leaching residues of the non-ferrous metal production. Waste containing PCBs is excluded. The operations are restricted to processes for the recovery of iron and iron alloys (blast furnace, shaft furnace and hearth furnace) and non-ferrous metals (Waelz rotary kiln process, bath melting processes using vertical or horizontal furnaces), provided the facilities meet as minimum requirements the emission limit values for PCDDs and PCDFs laid down in accordance with Directive 2010/75/EU of the European Parliament and of the Council, whether or not the processes are subject to that Directive and without prejudice to the other provisions of the Directive.\nPre-treatment operation prior to destruction or irreversible transformation pursuant to this Part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with this Part of this Annex. Where only part of a product or waste, such as waste equipment, contains or is contaminated with persistent organic pollutants, it shall be separated and then disposed of in accordance with the requirements of this Regulation. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to destruction or irreversible transformation pursuant to this part of this Annex.\nPart 2\nWastes and operations to which Article 7(4)(b) applies\nThe following operations are permitted for the purposes of Article 7(4)(b) in respect of the wastes specified, defined by the six-digit code as classified in Commission Decision 2000/532/ECCommission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3)..\nPre-treatment operations prior to permanent storage pursuant to this part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with Part 1 of this Annex. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to permanent storage pursuant to this part of this Annex.\nThese limits apply exclusively to a landfill site for hazardous waste and do not apply to permanent underground storage facilities for hazardous waste, including salt mines.Any waste marked with an asterisk * is considered as hazardous waste pursuant to Directive 2008/98/EC and is subject to the provisions of that Directive.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha- hexabromocyclododecane, beta- hexabromocyclododecane and gamma- hexabromocyclododecane.Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).Council Decision 2003/33/EC of 19 December 2002 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to Directive 1999/31/EC (OJ L 11, 16.1.2003, p. 27).The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.\nWastes as classified in Decision 2000/532/EC Maximum concentration limits of substances listed in Annex IV Operation\n10 WASTES FROM THERMAL PROCESSES Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs): 10000 mg/kg;\nAldrin: 5000 mg/kg;\nChlordane: 5000 mg/kg;\nChlordecone: 5000 mg/kg;\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl) ethane): 5000 mg/kg;\nDieldrin: 5000 mg/kg;\nEndosulfan: 5000 mg/kg;\nEndrin: 5000 mg/kg;\nHeptachlor: 5000 mg/kg;\nHexabromobiphenyl: 5000 mg/kg;\nHexabromocyclododecane: 1000 mg/kg;\nHexachlorobenzene: 5000 mg/kg;\nHexachlorobutadiene: 1000 mg/kg;\nHexachlorocyclohexanes, including lindane: 5000 mg/kg;\nMirex: 5000 mg/kg;\nPentachlorobenzene: 5000 mg/kg;\nPerfluorooctane sulfonic acid and its derivatives (PFOS) (C8F17SO2X) (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers): 50 mg/kg;\nPolychlorinated Biphenyls (PCB): 50 mg/kg;\nPolychlorinated dibenzo-p-dioxins and dibenzofurans: 5 mg/kg;\nPolychlorinated naphthalenes (*): 1000 mg/kg;\nSum of the concentrations of tetrabromodiphenyl ether C12H6Br4O), pentabromodiphenyl ether (C12H5Br5O), hexabromodiphenyl ether (C12H4Br6O)and heptabromodiphenyl ether (C12H3Br7O): 10000 mg/kg;\nToxaphene: 5000 mg/kg. Permanent storage shall be allowed only when all the following conditions are met:\n(1) The storage takes place in one of the following locations:\nsafe, deep, underground, hard rock formations,\nsalt mines,\na landfill site for hazardous waste, provided that the waste is solidified or partly stabilised where technically feasible as required for classification of the waste in subchapter 19 03 of Decision 2000/532/EC.\n(2) The provisions of Council Directive 1999/31/EC and Council Decision 2003/33/EC were respected.\n(3) It has been demonstrated that the selected operation is environmentally preferable.\n10 01 Wastes from power stations and other combustion plants (except 19)\n10 01 14 * Bottom ash, slag and boiler dust from co-incineration containing hazardous substances\n10 01 16 * Fly ash from co-incineration containing hazardous substances\n10 02 Wastes from the iron and steel industry\n10 02 07 * Solid wastes from gas treatment containing hazardous substances\n10 03 Wastes from aluminium thermal metallurgy\n10 03 04 * Primary production slags\n10 03 08 * Salt slags from secondary production\n10 03 09 * Black drosses from secondary production\n10 03 19 * Flue-gas dust containing hazardous substances\n10 03 21 * Other particulates and dust (including ball-mill dust) containing hazardous substances\n10 03 29 * Wastes from treatment of salt slags and black drosses containing hazardous substances\n10 04 Wastes from lead thermal metallurgy\n10 04 01 * Slags from primary and secondary production\n10 04 02 * Dross and skimmings from primary and secondary production\n10 04 04 * Flue-gas dust\n10 04 05 * Other particulates and dust\n10 04 06 * Solid wastes from gas treatment\n10 05 Wastes from zinc thermal metallurgy\n10 05 03 * Flue-gas dust\n10 05 05 * Solid waste from gas treatment\n10 06 Wastes from copper thermal metallurgy\n10 06 03 * Flue-gas dust\n10 06 06 * Solid wastes from gas treatment\n10 08 Wastes from other non-ferrous thermal metallurgy\n10 08 08 * Salt slag from primary and secondary production\n10 08 15 * Flue-gas dust containing hazardous substances\n10 09 Wastes from casting of ferrous pieces\n10 09 09 * Flue-gas dust containing hazardous substances\n16 WASTES NOT OTHERWISE SPECIFIED IN THE LIST\n16 11 Waste linings and refractories\n16 11 01 * Carbon-based linings and refractories from metallurgical processes containing hazardous substances\n16 11 03 * Other linings and refractories from metallurgical processes containing hazardous substances\n17 CONSTRUCTION AND DEMOLITION WASTES (INCLUDING EXCAVATED SOIL FROM CONTAMINATED SITES)\n17 01 Concrete, bricks, tiles and ceramics\n17 01 06 * Mixtures of, or separate fractions of concrete, bricks, tiles and ceramics containing hazardous substances\n17 05 Soil (including excavated soil from contaminated sites), stones and dredging spoil\n17 05 03 * Soil and stones containing hazardous substances\n17 09 Other construction and demolition wastes\n17 09 02 * Construction and demolition wastes containing PCB, excluding PCB containing equipment\n17 09 03 * Other construction and demolition wastes (including mixed wastes) containing hazardous substances\n19 WASTES FROM WASTE MANAGEMENT FACILITIES, OFF-SITE WASTE WATER TREATMENT PLANTS AND THE PREPARATION OF WATER INTENDED FOR HUMAN CONSUMPTION AND WATER FROM INDUSTRIAL USE\n19 01 Wastes from incineration or pyrolysis of waste\n19 01 07 * Solid wastes from gas treatment\n19 01 11 * Bottom ash and slag containing hazardous substances\n19 01 13 * Fly ash containing hazardous substances\n19 01 15 * Boiler dust containing hazardous substances\n19 04 Vitrified waste and waste from vitrification\n19 04 02 * Fly ash and other flue-gas treatment wastes\n19 04 03 * Non-vitrified solid phase\nThe maximum concentration limit of polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD and PCDF) shall be calculated according to the following toxic equivalency factors (TEFs):\nPCDD TEF\n2,3,7,8-TeCDD 1\n1,2,3,7,8-PeCDD 1\n1,2,3,4,7,8-HxCDD 0,1\n1,2,3,6,7,8-HxCDD 0,1\n1,2,3,7,8,9-HxCDD 0,1\n1,2,3,4,6,7,8-HpCDD 0,01\nOCDD 0,0003\nPCDF TEF\n2,3,7,8-TeCDF 0,1\n1,2,3,7,8-PeCDF 0,03\n2,3,4,7,8-PeCDF 0,3\n1,2,3,4,7,8-HxCDF 0,1\n1,2,3,6,7,8-HxCDF 0,1\n1,2,3,7,8,9-HxCDF 0,1\n2,3,4,6,7,8-HxCDF 0,1\n1,2,3,4,6,7,8-HpCDF 0,01\n1,2,3,4,7,8,9-HpCDF 0,01\nOCDF 0,0003",
+        "after": "ANNEX V\nWASTE MANAGEMENT\nPart 1\nDisposal and recovery under Article 7(2)\nThe following disposal and recovery operations, as provided for in Annexes I and II of Directive 2008/98/EC, are permitted for the purposes of Article 7(2), when applied in such a way as to ensure that the persistent organic pollutant content is destroyed or irreversibly transformed\nDirective 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).\nD9 Physico-chemical treatment.\nD10 Incineration on land.\nR1 Use principally as a fuel or other means to generate energy, excluding waste containing PCBs.\nR4 Recycling/reclamation of metals and metal compounds, under the following conditions: The operations are restricted to residues from iron- and steel-making processes such as dusts or sludges from gas treatment or mill scale or zinc-containing filter dusts from steelworks, dusts from gas cleaning systems of copper smelters and similar wastes and lead-containing leaching residues of the non-ferrous metal production. Waste containing PCBs is excluded. The operations are restricted to processes for the recovery of iron and iron alloys (blast furnace, shaft furnace and hearth furnace) and non-ferrous metals (Waelz rotary kiln process, bath melting processes using vertical or horizontal furnaces), provided the facilities meet as minimum requirements the emission limit values for PCDDs and PCDFs laid down in accordance with Directive 2010/75/EU of the European Parliament and of the Council, whether or not the processes are subject to that Directive and without prejudice to the other provisions of the Directive.\nPre-treatment operation prior to destruction or irreversible transformation pursuant to this Part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with this Part of this Annex. Where only part of a product or waste, such as waste equipment, contains or is contaminated with persistent organic pollutants, it shall be separated and then disposed of in accordance with the requirements of this Regulation. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to destruction or irreversible transformation pursuant to this part of this Annex.\nPart 2\nWastes and operations to which Article 7(4)(b) applies\nThe following operations are permitted for the purposes of Article 7(4)(b) in respect of the wastes specified, defined by the six-digit code as classified in Commission Decision 2000/532/ECCommission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3)..\nPre-treatment operations prior to permanent storage pursuant to this part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with Part 1 of this Annex. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to permanent storage pursuant to this part of this Annex.\nThese limits apply exclusively to a landfill site for hazardous waste and do not apply to permanent underground storage facilities for hazardous waste, including salt mines.Any waste marked with an asterisk * is considered as hazardous waste pursuant to Directive 2008/98/EC and is subject to the provisions of that Directive.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha- hexabromocyclododecane, beta- hexabromocyclododecane and gamma- hexabromocyclododecane.Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).Council Decision 2003/33/EC of 19 December 2002 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to Directive 1999/31/EC (OJ L 11, 16.1.2003, p. 27).The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.\nWastes as classified in Decision 2000/532/EC Maximum concentration limits of substances listed in Annex IV Operation\n10 WASTES FROM THERMAL PROCESSES Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs): 10000 mg/kg;\nAldrin: 5000 mg/kg;\nChlordane: 5000 mg/kg;\nChlordecone: 5000 mg/kg;\nDDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl) ethane): 5000 mg/kg;\nDieldrin: 5000 mg/kg;\nEndosulfan: 5000 mg/kg;\nEndrin: 5000 mg/kg;\nHeptachlor: 5000 mg/kg;\nHexabromobiphenyl: 5000 mg/kg;\nHexabromocyclododecane: 1000 mg/kg;\nHexachlorobenzene: 5000 mg/kg;\nHexachlorobutadiene: 1000 mg/kg;\nHexachlorocyclohexanes, including lindane: 5000 mg/kg;\nMirex: 5000 mg/kg;\nPentachlorobenzene: 5000 mg/kg;\nPerfluorooctane sulfonic acid and its derivatives (PFOS) (C8F17SO2X) (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers): 50 mg/kg;\nPolychlorinated Biphenyls (PCB): 50 mg/kg;\nPolychlorinated dibenzo-p-dioxins and dibenzofurans and dioxin-like polychlorinated biphenyls (dl-PCBs): 5 mg/kg;\nPolychlorinated naphthalenes (*): 1000 mg/kg;\nSum of the concentrations of tetrabromodiphenyl ether (C12H6Br4O), pentabromodiphenyl ether (C12H5Br5O), hexabromodiphenyl ether (C12H4Br6O), heptabromodiphenyl ether (C12H3Br7O) and decabromodiphenyl ether (C12Br10O): 10000 mg/kg;\nToxaphene: 5000 mg/kg;\nPentachlorophenol, its salts and esters: 1000 mg/kg;\nDicofol: 5000 mg/kg;\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds: 50 mg/kg (PFOA and its salts), 2000 mg/kg (PFOA-related compounds);\nPerfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds:\n50 mg/kg (PFHxS and its salts), 2000 mg/kg (PFHxS-related compounds). Permanent storage shall be allowed only when all the following conditions are met:\n(1) The storage takes place in one of the following locations:\nsafe, deep, underground, hard rock formations,\nsalt mines,\na landfill site for hazardous waste, provided that the waste is solidified or partly stabilised where technically feasible as required for classification of the waste in subchapter 19 03 of Decision 2000/532/EC.\n(2) The provisions of Council Directive 1999/31/EC and Council Decision 2003/33/EC were respected.\n(3) It has been demonstrated that the selected operation is environmentally preferable.\n10 01 Wastes from power stations and other combustion plants (except 19)\n10 01 03 Fly ash from peat and untreated wood\n10 01 14 * Bottom ash, slag and boiler dust from co-incineration containing hazardous substances\n10 01 16 * Fly ash from co-incineration containing hazardous substances\n10 02 Wastes from the iron and steel industry\n10 02 07 * Solid wastes from gas treatment containing hazardous substances\n10 03 Wastes from aluminium thermal metallurgy\n10 03 04 * Primary production slags\n10 03 08 * Salt slags from secondary production\n10 03 09 * Black drosses from secondary production\n10 03 19 * Flue-gas dust containing hazardous substances\n10 03 21 * Other particulates and dust (including ball-mill dust) containing hazardous substances\n10 03 29 * Wastes from treatment of salt slags and black drosses containing hazardous substances\n10 04 Wastes from lead thermal metallurgy\n10 04 01 * Slags from primary and secondary production\n10 04 02 * Dross and skimmings from primary and secondary production\n10 04 04 * Flue-gas dust\n10 04 05 * Other particulates and dust\n10 04 06 * Solid wastes from gas treatment\n10 05 Wastes from zinc thermal metallurgy\n10 05 03 * Flue-gas dust\n10 05 05 * Solid waste from gas treatment\n10 06 Wastes from copper thermal metallurgy\n10 06 03 * Flue-gas dust\n10 06 06 * Solid wastes from gas treatment\n10 08 Wastes from other non-ferrous thermal metallurgy\n10 08 08 * Salt slag from primary and secondary production\n10 08 15 * Flue-gas dust containing hazardous substances\n10 09 Wastes from casting of ferrous pieces\n10 09 09 * Flue-gas dust containing hazardous substances\n16 WASTES NOT OTHERWISE SPECIFIED IN THE LIST\n16 11 Waste linings and refractories\n16 11 01 * Carbon-based linings and refractories from metallurgical processes containing hazardous substances\n16 11 03 * Other linings and refractories from metallurgical processes containing hazardous substances\n17 CONSTRUCTION AND DEMOLITION WASTES (INCLUDING EXCAVATED SOIL FROM CONTAMINATED SITES)\n17 01 Concrete, bricks, tiles and ceramics\n17 01 06 * Mixtures of, or separate fractions of concrete, bricks, tiles and ceramics containing hazardous substances\n17 05 Soil (including excavated soil from contaminated sites), stones and dredging spoil\n17 05 03 * Soil and stones containing hazardous substances\n17 05 04 Soil and stones other than those mentioned in 17 05 03\n17 09 Other construction and demolition wastes\n17 09 02 * Construction and demolition wastes containing PCB, excluding PCB containing equipment\n17 09 03 * Other construction and demolition wastes (including mixed wastes) containing hazardous substances\n19 WASTES FROM WASTE MANAGEMENT FACILITIES, OFF-SITE WASTE WATER TREATMENT PLANTS AND THE PREPARATION OF WATER INTENDED FOR HUMAN CONSUMPTION AND WATER FROM INDUSTRIAL USE\n19 01 Wastes from incineration or pyrolysis of waste\n19 01 07 * Solid wastes from gas treatment\n19 01 11 * Bottom ash and slag containing hazardous substances\n19 01 13 * Fly ash containing hazardous substances\n19 01 15 * Boiler dust containing hazardous substances\n19 04 Vitrified waste and waste from vitrification\n19 04 02 * Fly ash and other flue-gas treatment wastes\n19 04 03 * Non-vitrified solid phase\n20 MUNICIPAL WASTES (HOUSEHOLD WASTE AND SIMILAR COMMERCIAL, INDUSTRIAL AND INSTITUTIONAL WASTES) INCLUDING SEPARATELY COLLECTED FRACTIONS\n20 01 Separately collected fractions (except 15 01)\n20 01 41 Wastes from chimney sweeping\nThe maximum concentration limit of polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD and PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs) shall be calculated according to the following toxic equivalency factors (TEFs):\nToxicity equivalency factors (TEFs) for PCDD, PCDF and dl-PCBs\nPCDD TEF\n2,3,7,8-TeCDD 1\n1,2,3,7,8-PeCDD 1\n1,2,3,4,7,8-HxCDD 0,1\n1,2,3,6,7,8-HxCDD 0,1\n1,2,3,7,8,9-HxCDD 0,1\n1,2,3,4,6,7,8-HpCDD 0,01\nOCDD 0,0003\nPCDF TEF\n2,3,7,8-TeCDF 0,1\n1,2,3,7,8-PeCDF 0,03\n2,3,4,7,8-PeCDF 0,3\n1,2,3,4,7,8-HxCDF 0,1\n1,2,3,6,7,8-HxCDF 0,1\n1,2,3,7,8,9-HxCDF 0,1\n2,3,4,6,7,8-HxCDF 0,1\n1,2,3,4,6,7,8-HpCDF 0,01\n1,2,3,4,7,8,9-HpCDF 0,01\nOCDF 0,0003\ndl-PCBs TEF\nPCB 77 0,0001\nPCB 81 0,0003\nPCB 105 0,00003\nPCB 114 0,00003\nPCB 118 0,00003\nPCB 123 0,00003\nPCB 126 0,1\nPCB 169 0,03\nPCB 156 0,00003\nPCB 157 0,00003\nPCB 167 0,00003\nPCB 189 0,00003",
+        "previous_location": null,
+        "changed_within": [
+          "AN V"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2400",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2023-06-10",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2400 J; 32022R2400 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2400, 0.500 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32019R1021",
+      "display_name": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+    },
+    "from_version": "02019R1021-20221213",
+    "to_version": "02019R1021-20230610",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 21a",
+          "AN IV",
+          "AN V"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 21a",
+          "AN IV",
+          "AN V"
+        ],
+        "note": "7 annotations in (2022-12-13, 2023-06-10]",
+        "claims": [
+          {
+            "location": "AN V PRT 2 ALN 2 COL 2 TXT",
+            "change_type": "INSERTED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 21a",
+            "change_type": "INSERTED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PRT 2 ALN 2 COL 2 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PRT 2 ALN 2 COL 1 TXT",
+            "change_type": "INSERTED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN IV TAB TXT",
+            "change_type": "INSERTED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PRT 2 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN IV TAB TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2023-06-10",
+            "source": "32022R2400 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 21a"
+        ],
+        "note": "32022R2400, 0.500 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 21a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2400",
+              "display_name": "Regulation (EU) 2022/2400 of the European Parliament and of the Council of 23 November 2022 amending Annexes IV and V to Regulation (EU) 2019/1021 on persistent organic pollutants (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN IV",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN V",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 0,
+    "unavailable": 3,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 3,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
