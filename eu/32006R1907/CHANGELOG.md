@@ -10,6 +10,41 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20220501 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20220301` → `02006R1907-20220501`
+
+- **Act** `eu:32006R1907` · **In force** 2022-05-01 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20220301` · `v2` = `02006R1907-20220501`
+
+---
+
+**MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XIV` · *dates* +2023-11-01 +2025-05-01 · *amended by* `32022R0586`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The AFTER text adds five new numbered entries, 55 through 59, covering substances including tetraethyllead and several phthalate- and phenol-related compounds, each with a latest application date of 1 November 2023 and a sunset date of 1 May 2025. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_XIV)
+
+The BEFORE text ends at entry 54 and does not contain these five additional entries. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220301#anx_XIV)
+
+*before* (`02006R1907-20220301`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 13832 characters omitted…]
+
+*after* (`02006R1907-20220501`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2021 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products, the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without that spare part and the spare part cannot be produced without that substance, and for the use of the substance (on its own or in a mixture) for the repair of such articles or complex products where that substance on its own or in a mixture was used in the production of those articles or complex products and they cannot be repaired otherwise than by using that substance.1 March 2023 for the use of the substance in the production of spare parts as articles or as complex products for the repair of articles or complex products the production of which ceased or will have ceased before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles or complex products and these cannot function as intended without those spare parts and the spare part cannot be produced without that substance, and for the use of the substance […truncated by emendrix: 15028 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20220501 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20220301 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20220108` → `02006R1907-20220301`
