@@ -10,6 +10,59 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210213 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20210211` → `02012R0648-20210213`
+
+- **Act** `eu:32012R0648` · **In force** 2021-02-13 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 126 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20210211` · `v2` = `02012R0648-20210213`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32021R0168`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13a — Amendments to legacy contracts for the purpose of the implementation of benchmark reforms** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 13a`, `AR 13a PA 1 ALN 1`, `AR 13a PA 2 ALN 1`, `AR 13a PA 3` · *dates* -2021-02-11 +2021-02-13 · *amended by* `32021R0168`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The heading changes from a narrower reference to replacing interest rate benchmarks in legacy trades to a broader heading covering amendments to legacy contracts for the implementation of benchmark reforms. [Art. 13a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a) [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_13a)
+
+The dates used as reference points in paragraphs 1 and 2 change from 11 February 2021 to 13 February 2021, and the scope of covered transactions widens from novations of non-centrally cleared OTC derivative contracts and transactions referring to interest rate benchmarks to amendments or novations of OTC derivative contracts not cleared by a CCP referring to any benchmark. [Art. 13a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a) [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_13a)
+
+A new paragraph 3 is added listing three conditions that must be met for paragraphs 1 and 2 to apply, concerning necessity for benchmark replacement, preservation of economic substance or risk factor, and exclusion of unrelated contractual changes. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_13a)
+
+*before* (`02012R0648-20210211`)
+
+> Article 13a
+> Replacement of interest rate benchmarks in legacy trades
+> 1. Counterparties referred to in Article 11(3) may continue to apply the risk-management procedures that they have in place at the date of application of this Regulation in respect of non-centrally cleared OTC derivative contracts entered into or novated before the date on which the obligation to have risk-management procedures pursuant to Article 11(3) takes effect where, after 11 February 2021, those contracts are novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark.
+> 2. Transactions entered into or novated before the date on which the clearing obligation takes effect pursuant to Article 4 and which, after 11 February 2021, are subsequently novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark, shall not, for that reason, become subject to the clearing obligation referred to in Article 4.
+
+*after* (`02012R0648-20210213`)
+
+> Article 13a
+> Amendments to legacy contracts for the purpose of the implementation of benchmark reforms
+> 1. Counterparties may continue to apply the risk-management procedures referred to in Article 11(3) that they have in place on 13 February 2021 in respect of OTC derivative contracts which are not cleared by a CCP and that are entered into or novated before the date on which the obligation to have risk-management procedures in place pursuant to Article 11(3) takes effect where, after 13 February 2021, those contracts are subsequently amended or novated for the sole purpose of replacing a reference benchmark or introducing a fallback provision in relation to any benchmark referenced in that contract.
+> 2. Contracts which are entered into or novated before the date on which the clearing obligation takes effect pursuant to Article 4 and which, after 13 February 2021, are subsequently amended or novated for the sole purpose of replacing a reference benchmark or introducing a fallback provision in relation to any benchmark referenced in that contract, shall not, for that reason, become subject to the clearing obligation referred to in Article 4.
+> 3. Paragraphs 1 and 2 shall apply only to OTC derivative contracts the amendment or novation of which:
+> (a) is necessary for the purpose of replacing a benchmark in the context of benchmark reforms;
+> (b) does not change the economic substance or risk factor represented by the reference to a benchmark in such contract; and
+> (c) does not encompas […truncated by emendrix: 211 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20210213 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210211 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20200618` → `02012R0648-20210211`
