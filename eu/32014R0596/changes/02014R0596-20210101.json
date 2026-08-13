@@ -1,0 +1,1104 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0596",
+    "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+  },
+  "from_version": "02014R0596-20160703",
+  "to_version": "02014R0596-20210101",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2021-01-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 6,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 35,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 11"
+        },
+        "heading": "Market soundings",
+        "before": "Article 11\nMarket soundings\n1. A market sounding comprises the communication of information, prior to the announcement of a transaction, in order to gauge the interest of potential investors in a possible transaction and the conditions relating to it such as its potential size or pricing, to one or more potential investors by:\n(a) an issuer;\n(b) a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;\n(c) an emission allowance market participant; or\n(d) a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).\n2. Without prejudice to Article 23(3), disclosure of inside information by a person intending to make a takeover bid for the securities of a company or a merger with a company to parties entitled to the securities, shall also constitute a market sounding, provided that:\n(a) the information is necessary to enable the parties entitled to the securities to form an opinion on their willingness to offer their securities: and\n(b) the willingness of parties entitled to the securities to offer their securities is reasonably required for the decision to make the takeover bid or merger.\n3. A disclosing market participant shall, prior to conducting a market sounding, specifically consider whether the market sounding will involve the disclosure of inside information. The disclosing market participant shall make a written record of its conclusion and the reasons therefor. It shall provide such written records to the competent authority upon request. This obligation shall apply to each disclosure of information throughout the course of the market sounding. The disclosing market participant shall update the written records referred to in this paragraph accordingly.\n4. For the purposes of Article 10(1), disclosure of inside information made in the course of a market sounding shall be deemed to be made in the normal exercise of a person’s employment, profession or duties where the disclosing market participant complies with paragraphs 3 and 5 of this Article.\n5. For the purposes of paragraph 4, the disclosing market participant shall, before making the disclosure:\n(a) obtain the consent of the person receiving the market sounding to receive inside information;\n(b) inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by acquiring or disposing of, for his own account or for the account of a third party, directly or indirectly, financial instruments relating to that information;\n(c) inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by cancelling or amending an order which has already been placed concerning a financial instrument to which the information relates; and\n(d) inform the person receiving the market sounding that by agreeing to receive the information he is obliged to keep the information confidential.\nThe disclosing market participant shall make and maintain a record of all information given to the person receiving the market sounding, including the information given in accordance with points (a) to (d) of the first subparagraph, and the identity of the potential investors to whom the information has been disclosed, including but not limited to the legal and natural persons acting on behalf of the potential investor, and the date and time of each disclosure. The disclosing market participant shall provide that record to the competent authority upon request.\n6. Where information that has been disclosed in the course of a market sounding ceases to be inside information according to the assessment of the disclosing market participant, the disclosing market participant shall inform the recipient accordingly, as soon as possible.\nThe disclosing market participant shall maintain a record of the information given in accordance with this paragraph and shall provide it to the competent authority upon request.\n7. Notwithstanding the provisions of this Article, the person receiving the market sounding shall assess for itself whether it is in possession of inside information or when it ceases to be in possession of inside information.\n8. The disclosing market participant shall keep the records referred to in this Article for a period of at least five years.\n9. In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards to determine appropriate arrangements, procedures and record keeping requirements for persons to comply with the requirements laid down in paragraphs 4, 5, 6 and 8.\nESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n10. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to specify the systems and notification templates to be used by persons to comply with the requirements established by paragraphs 4, 5, 6 and 8 of this Article, particularly the precise format of the records referred to in paragraphs 4 to 8 and the technical means for appropriate communication of the information referred to in paragraph 6 to the person receiving the market sounding.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n11. ESMA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010, addressed to persons receiving market soundings, regarding:\n(a) the factors that such persons are to take into account when information is disclosed to them as part of a market sounding in order for them to assess whether the information amounts to inside information;\n(b) the steps that such persons are to take if inside information has been disclosed to them in order to comply with Articles 8 and 10 of this Regulation; and\n(c) the records that such persons are to maintain in order to demonstrate that they have complied with Articles 8 and 10 of this Regulation.",
+        "after": "Article 11\nMarket soundings\n1. A market sounding comprises the communication of information, prior to the announcement of a transaction, in order to gauge the interest of potential investors in a possible transaction and the conditions relating to it such as its potential size or pricing, to one or more potential investors by:\n(a) an issuer;\n(b) a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;\n(c) an emission allowance market participant; or\n(d) a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).\n1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behalf or on its account, shall not constitute a market sounding. Such communication shall be deemed to be made in the normal exercise of a person’s employment, profession or duties as provided for in Article 10(1) of this Regulation, and therefore shall not constitute unlawful disclosure of inside information. That issuer or any person acting on its behalf or on its account shall ensure that the qualified investors receiving the information are aware of, and acknowledge in writing, the legal and regulatory duties entailed and are aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information.\n2. Without prejudice to Article 23(3), disclosure of inside information by a person intending to make a takeover bid for the securities of a company or a merger with a company to parties entitled to the securities, shall also constitute a market sounding, provided that:\n(a) the information is necessary to enable the parties entitled to the securities to form an opinion on their willingness to offer their securities: and\n(b) the willingness of parties entitled to the securities to offer their securities is reasonably required for the decision to make the takeover bid or merger.\n3. A disclosing market participant shall, prior to conducting a market sounding, specifically consider whether the market sounding will involve the disclosure of inside information. The disclosing market participant shall make a written record of its conclusion and the reasons therefor. It shall provide such written records to the competent authority upon request. This obligation shall apply to each disclosure of information throughout the course of the market sounding. The disclosing market participant shall update the written records referred to in this paragraph accordingly.\n4. For the purposes of Article 10(1), disclosure of inside information made in the course of a market sounding shall be deemed to be made in the normal exercise of a person’s employment, profession or duties where the disclosing market participant complies with paragraphs 3 and 5 of this Article.\n5. For the purposes of paragraph 4, the disclosing market participant shall, before making the disclosure:\n(a) obtain the consent of the person receiving the market sounding to receive inside information;\n(b) inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by acquiring or disposing of, for his own account or for the account of a third party, directly or indirectly, financial instruments relating to that information;\n(c) inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by cancelling or amending an order which has already been placed concerning a financial instrument to which the information relates; and\n(d) inform the person receiving the market sounding that by agreeing to receive the information he is obliged to keep the information confidential.\nThe disclosing market participant shall make and maintain a record of all information given to the person receiving the market sounding, including the information given in accordance with points (a) to (d) of the first subparagraph, and the identity of the potential investors to whom the information has been disclosed, including but not limited to the legal and natural persons acting on behalf of the potential investor, and the date and time of each disclosure. The disclosing market participant shall provide that record to the competent authority upon request.\n6. Where information that has been disclosed in the course of a market sounding ceases to be inside information according to the assessment of the disclosing market participant, the disclosing market participant shall inform the recipient accordingly, as soon as possible.\nThe disclosing market participant shall maintain a record of the information given in accordance with this paragraph and shall provide it to the competent authority upon request.\n7. Notwithstanding the provisions of this Article, the person receiving the market sounding shall assess for itself whether it is in possession of inside information or when it ceases to be in possession of inside information.\n8. The disclosing market participant shall keep the records referred to in this Article for a period of at least five years.\n9. In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards to determine appropriate arrangements, procedures and record keeping requirements for persons to comply with the requirements laid down in paragraphs 4, 5, 6 and 8.\nESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n10. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to specify the systems and notification templates to be used by persons to comply with the requirements established by paragraphs 4, 5, 6 and 8 of this Article, particularly the precise format of the records referred to in paragraphs 4 to 8 and the technical means for appropriate communication of the information referred to in paragraph 6 to the person receiving the market sounding.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n11. ESMA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010, addressed to persons receiving market soundings, regarding:\n(a) the factors that such persons are to take into account when information is disclosed to them as part of a market sounding in order for them to assess whether the information amounts to inside information;\n(b) the steps that such persons are to take if inside information has been disclosed to them in order to comply with Articles 8 and 10 of this Regulation; and\n(c) the records that such persons are to maintain in order to demonstrate that they have complied with Articles 8 and 10 of this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 11 PA 1a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2017-06-14"
+        ],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 1a is inserted stating that where an offer of securities is addressed solely to qualified investors as defined under Regulation (EU) 2017/1129, communication of information to those qualified investors for negotiating the contractual terms of their participation in a bond issuance by an issuer with financial instruments admitted to trading on a trading venue, or by a person acting on the issuer's behalf, does not constitute a market sounding.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11",
+              "label": "Art. 11, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph states that such communication is deemed made in the normal exercise of a person's employment, profession or duties under Article 10(1) and therefore does not constitute unlawful disclosure of inside information, and it requires the issuer or person acting on its behalf to ensure the qualified investors are aware of, and acknowledge in writing, the legal and regulatory duties involved and the sanctions applicable to insider dealing and unlawful disclosure of inside information.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11",
+              "label": "Art. 11, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph 1a did not appear in the earlier version of Article 11, which otherwise contains the same text in both versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_11",
+              "label": "Art. 11, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 13"
+        },
+        "heading": "Accepted market practices",
+        "before": "Article 13\nAccepted market practices\n1. The prohibition in Article 15 shall not apply to the activities referred to in Article 12(1)(a), provided that the person entering into a transaction, placing an order to trade or engaging in any other behaviour establishes that such transaction, order or behaviour have been carried out for legitimate reasons, and conform with an accepted market practice as established in accordance with this Article.\n2. A competent authority may establish an accepted market practice, taking into account the following criteria:\n(a) whether the market practice provides for a substantial level of transparency to the market;\n(b) whether the market practice ensures a high degree of safeguards to the operation of market forces and the proper interplay of the forces of supply and demand;\n(c) whether the market practice has a positive impact on market liquidity and efficiency;\n(d) whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;\n(e) whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;\n(f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice infringed rules or regulations designed to prevent market abuse, or codes of conduct, irrespective of whether it concerns the relevant market or directly or indirectly related markets within the Union; and\n(g) the structural characteristics of the relevant market, inter alia, whether it is regulated or not, the types of financial instruments traded and the type of market participants, including the extent of retail-investor participation in the relevant market.\nA market practice that has been established by a competent authority as an accepted market practice in a particular market shall not be considered to be applicable to other markets unless the competent authorities of those other markets have accepted that practice pursuant to this Article.\n3. Before establishing an accepted market practice in accordance with paragraph 2, the competent authority shall notify ESMA and the other competent authorities of its intention to establish an accepted market practice and shall provide the details of that assessment made in accordance with the criteria laid down in paragraph 2. Such a notification shall be made at least three months before the accepted market practice is intended to take effect.\n4. Within two months following receipt of the notification, ESMA shall issue an opinion to the notifying competent authority assessing the compatibility of the accepted market practice with paragraph 2 and with the regulatory technical standards adopted pursuant to paragraph 7. ESMA shall also assess whether the establishment of the accepted market practice would not threaten the market confidence in the Union’s financial market. The opinion shall be published on ESMA’s website.\n5. Where a competent authority establishes an accepted market practice contrary to the opinion of ESMA issued in accordance with paragraph 4, it shall publish on its website within 24 hours of establishing the accepted market practice a notice setting out in full its reasons for doing so, including why the accepted market practice does not threaten market confidence.\n6. Where a competent authority considers that another competent authority has established an accepted market practice that does not meet the criteria set out in paragraph 2, ESMA shall assist the authorities concerned in reaching an agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.\nIf the competent authorities concerned fail to reach an agreement, ESMA may take a decision in accordance with Article 19(3) of Regulation (EU) No 1095/2010.\n7. In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards specifying the criteria, the procedure and the requirements for establishing an accepted market practice under paragraphs 2, 3 and 4, and the requirements for maintaining it, terminating it, or modifying the conditions for its acceptance.\nESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n8. Competent authorities shall review regularly, and at least every two years, the accepted market practices that they have established, in particular by taking into account significant changes to the relevant market environment, such as changes to trading rules or to market infrastructures, with a view to deciding whether to maintain it, to terminate it, or to modify the conditions for its acceptance.\n9. ESMA shall publish on its website a list of accepted market practices and in which Member States they are applicable.\n10. ESMA shall monitor the application of accepted market practices and shall submit an annual report to the Commission on how they are applied in the markets concerned.\n11. Competent authorities shall notify accepted market practices that they have established before 2 July 2014 to ESMA within three months of the entry into force of the regulatory technical standards referred to in paragraph 7.\nThe accepted market practices referred to in the first subparagraph of this paragraph shall continue to apply in the Member State concerned until the competent authority has made a decision regarding the continuation of that practice following ESMA’s opinion under paragraph 4.",
+        "after": "Article 13\nAccepted market practices\n1. The prohibition in Article 15 shall not apply to the activities referred to in Article 12(1)(a), provided that the person entering into a transaction, placing an order to trade or engaging in any other behaviour establishes that such transaction, order or behaviour have been carried out for legitimate reasons, and conform with an accepted market practice as established in accordance with this Article.\n2. A competent authority may establish an accepted market practice, taking into account the following criteria:\n(a) whether the market practice provides for a substantial level of transparency to the market;\n(b) whether the market practice ensures a high degree of safeguards to the operation of market forces and the proper interplay of the forces of supply and demand;\n(c) whether the market practice has a positive impact on market liquidity and efficiency;\n(d) whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;\n(e) whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;\n(f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice infringed rules or regulations designed to prevent market abuse, or codes of conduct, irrespective of whether it concerns the relevant market or directly or indirectly related markets within the Union; and\n(g) the structural characteristics of the relevant market, inter alia, whether it is regulated or not, the types of financial instruments traded and the type of market participants, including the extent of retail-investor participation in the relevant market.\nA market practice that has been established by a competent authority as an accepted market practice in a particular market shall not be considered to be applicable to other markets unless the competent authorities of those other markets have accepted that practice pursuant to this Article.\n3. Before establishing an accepted market practice in accordance with paragraph 2, the competent authority shall notify ESMA and the other competent authorities of its intention to establish an accepted market practice and shall provide the details of that assessment made in accordance with the criteria laid down in paragraph 2. Such a notification shall be made at least three months before the accepted market practice is intended to take effect.\n4. Within two months following receipt of the notification, ESMA shall issue an opinion to the notifying competent authority assessing the compatibility of the accepted market practice with paragraph 2 and with the regulatory technical standards adopted pursuant to paragraph 7. ESMA shall also assess whether the establishment of the accepted market practice would not threaten the market confidence in the Union’s financial market. The opinion shall be published on ESMA’s website.\n5. Where a competent authority establishes an accepted market practice contrary to the opinion of ESMA issued in accordance with paragraph 4, it shall publish on its website within 24 hours of establishing the accepted market practice a notice setting out in full its reasons for doing so, including why the accepted market practice does not threaten market confidence.\n6. Where a competent authority considers that another competent authority has established an accepted market practice that does not meet the criteria set out in paragraph 2, ESMA shall assist the authorities concerned in reaching an agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.\nIf the competent authorities concerned fail to reach an agreement, ESMA may take a decision in accordance with Article 19(3) of Regulation (EU) No 1095/2010.\n7. In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards specifying the criteria, the procedure and the requirements for establishing an accepted market practice under paragraphs 2, 3 and 4, and the requirements for maintaining it, terminating it, or modifying the conditions for its acceptance.\nESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.\n8. Competent authorities shall review regularly, and at least every two years, the accepted market practices that they have established, in particular by taking into account significant changes to the relevant market environment, such as changes to trading rules or to market infrastructures, with a view to deciding whether to maintain it, to terminate it, or to modify the conditions for its acceptance.\n9. ESMA shall publish on its website a list of accepted market practices and in which Member States they are applicable.\n10. ESMA shall monitor the application of accepted market practices and shall submit an annual report to the Commission on how they are applied in the markets concerned.\n11. Competent authorities shall notify accepted market practices that they have established before 2 July 2014 to ESMA within three months of the entry into force of the regulatory technical standards referred to in paragraph 7.\nThe accepted market practices referred to in the first subparagraph of this paragraph shall continue to apply in the Member State concerned until the competent authority has made a decision regarding the continuation of that practice following ESMA’s opinion under paragraph 4.\n12. Without prejudice to accepted market practices as established in accordance with paragraphs 1 to 11 of this Article, an issuer of financial instruments admitted to trading on an SME growth market may enter into a liquidity contract for its shares where all of the following conditions are met:\n(a) the terms and conditions of the liquidity contract comply with the criteria set out in paragraph 2 of this Article and in Commission Delegated Regulation (EU) 2016/908Commission Delegated Regulation (EU) 2016/908 of 26 February 2016 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council laying down regulatory technical standards on the criteria, the procedure and the requirements for establishing an accepted market practice and the requirements for maintaining it, terminating it or modifying the conditions for its acceptance (OJ L 153, 10.6.2016, p. 3).;\n(b) the liquidity contract is drawn up in accordance with the Union template referred to in paragraph 13 of this Article;\n(c) the liquidity provider is duly authorised by the competent authority in accordance with Directive 2014/65/EU and is registered as a market member with the market operator or the investment firm operating the SME growth market;\n(d) the market operator or the investment firm operating the SME growth market acknowledges in writing to the issuer that it has received a copy of the liquidity contract and agrees to that contract’s terms and conditions.\nThe issuer referred to in the first subparagraph of this paragraph shall be able to demonstrate at any time that the conditions under which the contract was concluded are met on an ongoing basis. That issuer and the market operator or the investment firm operating the SME growth market shall provide the relevant competent authorities with a copy of the liquidity contract upon their request.\n13. ESMA shall develop draft regulatory technical standards to draw up a contractual template to be used for the purposes of entering into a liquidity contract in accordance with paragraph 12, in order to ensure compliance with the criteria set out in paragraph 2, including as regards transparency to the market and performance of the liquidity provision.\nESMA shall submit those draft regulatory technical standards to the Commission by 1 September 2020.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 12",
+          "AR 13 PA 13"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2016-02-26",
+          "2020-09-01"
+        ],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The revised article adds a new paragraph 12 permitting an issuer of financial instruments admitted to trading on an SME growth market to enter into a liquidity contract for its shares, subject to conditions covering compliance with paragraph 2 criteria and a related delegated regulation, use of a Union template, authorisation and registration of the liquidity provider, and written acknowledgment from the market operator or investment firm, along with a duty for the issuer to be able to demonstrate ongoing compliance and to provide the contract to competent authorities on request.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13",
+              "label": "Art. 13, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "It also adds a new paragraph 13 directing ESMA to develop draft regulatory technical standards for a contractual template for such liquidity contracts, to submit them to the Commission by a stated deadline, with power delegated to the Commission to adopt them under Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13",
+              "label": "Art. 13, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 through 11 remain otherwise unchanged from the earlier version of the article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_13",
+              "label": "Art. 13, 02014R0596-20160703"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13",
+              "label": "Art. 13, 02014R0596-20210101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 17"
+        },
+        "heading": "Public disclosure of inside information",
+        "before": "Article 17\nPublic disclosure of inside information\n1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.\nThe issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.\nThis Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.\n2. An emission allowance market participant shall publicly, effectively and in a timely manner disclose inside information concerning emission allowances which it holds in respect of its business, including aviation activities as specified in Annex I to Directive 2003/87/EC or installations within the meaning of Article 3(e) of that Directive which the participant concerned, or its parent undertaking or related undertaking, owns or controls or for the operational matters of which the participant, or its parent undertaking or related undertaking, is responsible, in whole or in part. With regard to installations, such disclosure shall include information relevant to the capacity and utilisation of installations, including planned or unplanned unavailability of such installations.\nThe first subparagraph shall not apply to a participant in the emission allowance market where the installations or aviation activities that it owns, controls or is responsible for, in the preceding year have had emissions not exceeding a minimum threshold of carbon dioxide equivalent and, where they carry out combustion activities, have had a rated thermal input not exceeding a minimum threshold.\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 35 establishing a minimum threshold of carbon dioxide equivalent and a minimum threshold of rated thermal input for the purposes of the application of the exemption provided for in the second subparagraph of this paragraph.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the competent authority for the notifications of paragraphs 4 and 5 of this Article.\n4. An issuer or an emission allowance market participant, may, on its own responsibility, delay disclosure to the public of inside information provided that all of the following conditions are met:\n(a) immediate disclosure is likely to prejudice the legitimate interests of the issuer or emission allowance market participant;\n(b) delay of disclosure is not likely to mislead the public;\n(c) the issuer or emission allowance market participant is able to ensure the confidentiality of that information.\nIn the case of a protracted process that occurs in stages and that is intended to bring about, or that results in, a particular circumstance or a particular event, an issuer or an emission allowance market participant may on its own responsibility delay the public disclosure of inside information relating to this process, subject to points (a), (b) and (c) of the first subparagraph.\nWhere an issuer or emission allowance market participant has delayed the disclosure of inside information under this paragraph, it shall inform the competent authority specified under paragraph 3 that disclosure of the information was delayed and shall provide a written explanation of how the conditions set out in this paragraph were met, immediately after the information is disclosed to the public. Alternatively, Member States may provide that a record of such an explanation is to be provided only upon the request of the competent authority specified under paragraph 3.\n5. In order to preserve the stability of the financial system, an issuer that is a credit institution or a financial institution, may, on its own responsibility, delay the public disclosure of inside information, including information which is related to a temporary liquidity problem and, in particular, the need to receive temporary liquidity assistance from a central bank or lender of last resort, provided that all of the following conditions are met:\n(a) the disclosure of the inside information entails a risk of undermining the financial stability of the issuer and of the financial system;\n(b) it is in the public interest to delay the disclosure;\n(c) the confidentiality of that information can be ensured; and\n(d) the competent authority specified under paragraph 3 has consented to the delay on the basis that the conditions in points (a), (b) and (c) are met.\n6. For the purposes of points (a) to (d) of paragraph 5, an issuer shall notify the competent authority specified under paragraph 3 of its intention to delay the disclosure of the inside information and provide evidence that the conditions set out in points (a), (b) and (c) of paragraph 5 are met. The competent authority specified under paragraph 3 shall consult, as appropriate, the national central bank or the macro-prudential authority, where instituted, or, alternatively, the following authorities:\n(a) where the issuer is a credit institution or an investment firm the authority designated in accordance with Article 133(1) of Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).;\n(b) in cases other than those referred to in point (a), any other national authority responsible for the supervision of the issuer.\nThe competent authority specified under paragraph 3 shall ensure that disclosure of the inside information is delayed only for a period as is necessary in the public interest. The competent authority specified under paragraph 3 shall evaluate at least on a weekly basis whether the conditions set out in points (a), (b) and (c) of paragraph 5 are still met.\nIf the competent authority specified under paragraph 3 does not consent to the delay of disclosure of the inside information, the issuer shall disclose the inside information immediately.\nThis paragraph shall apply to cases where the issuer does not decide to delay the disclosure of inside information in accordance with paragraph 4.\nReference in this paragraph to the competent authority specified under paragraph 3 is without prejudice to the ability of the competent authority to exercise its functions in any of the ways referred to in Article 23(1).\n7. Where disclosure of inside information has been delayed in accordance with paragraph 4 or 5 and the confidentiality of that inside information is no longer ensured, the issuer or the emission allowance market participant shall disclose that inside information to the public as soon as possible.\nThis paragraph includes situations where a rumour explicitly relates to inside information the disclosure of which has been delayed in accordance with paragraph 4 or 5, where that rumour is sufficiently accurate to indicate that the confidentiality of that information is no longer ensured.\n8. Where an issuer or an emission allowance market participant, or a person acting on their behalf or for their account, discloses any inside information to any third party in the normal course of the exercise of an employment, profession or duties as referred to in Article 10(1), they must make complete and effective public disclosure of that information, simultaneously in the case of an intentional disclosure, and promptly in the case of a non-intentional disclosure. This paragraph shall not apply if the person receiving the information owes a duty of confidentiality, regardless of whether such duty is based on a law, on regulations, on articles of association, or on a contract.\n9. Inside information relating to issuers whose financial instruments are admitted to trading on an SME growth market, may be posted on the trading venue’s website instead of on the website of the issuer where the trading venue chooses to provide this facility for issuers on that market.\n10. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine:\n(a) the technical means for appropriate public disclosure of inside information as referred to in paragraphs 1, 2, 8 and 9; and\n(b) the technical means for delaying the public disclosure of inside information as referred to in paragraphs 4 and 5.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n11. ESMA shall issue guidelines to establish a non-exhaustive indicative list of the legitimate interests of issuers, as referred to in point (a) of paragraph 4, and of situations in which delay of disclosure of inside information is likely to mislead the public as referred to in point (b) of paragraph 4.",
+        "after": "Article 17\nPublic disclosure of inside information\n1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.\nThe issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.\nThis Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.\n2. An emission allowance market participant shall publicly, effectively and in a timely manner disclose inside information concerning emission allowances which it holds in respect of its business, including aviation activities as specified in Annex I to Directive 2003/87/EC or installations within the meaning of Article 3(e) of that Directive which the participant concerned, or its parent undertaking or related undertaking, owns or controls or for the operational matters of which the participant, or its parent undertaking or related undertaking, is responsible, in whole or in part. With regard to installations, such disclosure shall include information relevant to the capacity and utilisation of installations, including planned or unplanned unavailability of such installations.\nThe first subparagraph shall not apply to a participant in the emission allowance market where the installations or aviation activities that it owns, controls or is responsible for, in the preceding year have had emissions not exceeding a minimum threshold of carbon dioxide equivalent and, where they carry out combustion activities, have had a rated thermal input not exceeding a minimum threshold.\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 35 establishing a minimum threshold of carbon dioxide equivalent and a minimum threshold of rated thermal input for the purposes of the application of the exemption provided for in the second subparagraph of this paragraph.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the competent authority for the notifications of paragraphs 4 and 5 of this Article.\n4. An issuer or an emission allowance market participant, may, on its own responsibility, delay disclosure to the public of inside information provided that all of the following conditions are met:\n(a) immediate disclosure is likely to prejudice the legitimate interests of the issuer or emission allowance market participant;\n(b) delay of disclosure is not likely to mislead the public;\n(c) the issuer or emission allowance market participant is able to ensure the confidentiality of that information.\nIn the case of a protracted process that occurs in stages and that is intended to bring about, or that results in, a particular circumstance or a particular event, an issuer or an emission allowance market participant may on its own responsibility delay the public disclosure of inside information relating to this process, subject to points (a), (b) and (c) of the first subparagraph.\nWhere an issuer or emission allowance market participant has delayed the disclosure of inside information under this paragraph, it shall inform the competent authority specified under paragraph 3 that disclosure of the information was delayed and shall provide a written explanation of how the conditions set out in this paragraph were met, immediately after the information is disclosed to the public. Alternatively, Member States may provide that a record of such an explanation is to be provided only upon the request of the competent authority specified under paragraph 3.\nBy way of derogation from the third subparagraph of this paragraph, an issuer whose financial instruments are admitted to trading only on an SME growth market shall provide a written explanation to the competent authority specified under paragraph 3 only upon request. As long as the issuer is able to justify its decision to delay, the issuer shall not be required to keep a record of that explanation.\n5. In order to preserve the stability of the financial system, an issuer that is a credit institution or a financial institution, may, on its own responsibility, delay the public disclosure of inside information, including information which is related to a temporary liquidity problem and, in particular, the need to receive temporary liquidity assistance from a central bank or lender of last resort, provided that all of the following conditions are met:\n(a) the disclosure of the inside information entails a risk of undermining the financial stability of the issuer and of the financial system;\n(b) it is in the public interest to delay the disclosure;\n(c) the confidentiality of that information can be ensured; and\n(d) the competent authority specified under paragraph 3 has consented to the delay on the basis that the conditions in points (a), (b) and (c) are met.\n6. For the purposes of points (a) to (d) of paragraph 5, an issuer shall notify the competent authority specified under paragraph 3 of its intention to delay the disclosure of the inside information and provide evidence that the conditions set out in points (a), (b) and (c) of paragraph 5 are met. The competent authority specified under paragraph 3 shall consult, as appropriate, the national central bank or the macro-prudential authority, where instituted, or, alternatively, the following authorities:\n(a) where the issuer is a credit institution or an investment firm the authority designated in accordance with Article 133(1) of Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).;\n(b) in cases other than those referred to in point (a), any other national authority responsible for the supervision of the issuer.\nThe competent authority specified under paragraph 3 shall ensure that disclosure of the inside information is delayed only for a period as is necessary in the public interest. The competent authority specified under paragraph 3 shall evaluate at least on a weekly basis whether the conditions set out in points (a), (b) and (c) of paragraph 5 are still met.\nIf the competent authority specified under paragraph 3 does not consent to the delay of disclosure of the inside information, the issuer shall disclose the inside information immediately.\nThis paragraph shall apply to cases where the issuer does not decide to delay the disclosure of inside information in accordance with paragraph 4.\nReference in this paragraph to the competent authority specified under paragraph 3 is without prejudice to the ability of the competent authority to exercise its functions in any of the ways referred to in Article 23(1).\n7. Where disclosure of inside information has been delayed in accordance with paragraph 4 or 5 and the confidentiality of that inside information is no longer ensured, the issuer or the emission allowance market participant shall disclose that inside information to the public as soon as possible.\nThis paragraph includes situations where a rumour explicitly relates to inside information the disclosure of which has been delayed in accordance with paragraph 4 or 5, where that rumour is sufficiently accurate to indicate that the confidentiality of that information is no longer ensured.\n8. Where an issuer or an emission allowance market participant, or a person acting on their behalf or for their account, discloses any inside information to any third party in the normal course of the exercise of an employment, profession or duties as referred to in Article 10(1), they must make complete and effective public disclosure of that information, simultaneously in the case of an intentional disclosure, and promptly in the case of a non-intentional disclosure. This paragraph shall not apply if the person receiving the information owes a duty of confidentiality, regardless of whether such duty is based on a law, on regulations, on articles of association, or on a contract.\n9. Inside information relating to issuers whose financial instruments are admitted to trading on an SME growth market, may be posted on the trading venue’s website instead of on the website of the issuer where the trading venue chooses to provide this facility for issuers on that market.\n10. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine:\n(a) the technical means for appropriate public disclosure of inside information as referred to in paragraphs 1, 2, 8 and 9; and\n(b) the technical means for delaying the public disclosure of inside information as referred to in paragraphs 4 and 5.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n11. ESMA shall issue guidelines to establish a non-exhaustive indicative list of the legitimate interests of issuers, as referred to in point (a) of paragraph 4, and of situations in which delay of disclosure of inside information is likely to mislead the public as referred to in point (b) of paragraph 4.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 17 PA 4 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new subparagraph is added to paragraph 4, stating that an issuer whose financial instruments are admitted to trading only on an SME growth market is to provide the written explanation to the competent authority specified under paragraph 3 only upon request, rather than immediately after disclosure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17",
+              "label": "Art. 17, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "This added text further states that such an issuer is not required to keep a record of that explanation as long as it is able to justify its decision to delay.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17",
+              "label": "Art. 17, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "The corresponding provision in the earlier version contained no such derogation for issuers on an SME growth market.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_17",
+              "label": "Art. 17, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 18"
+        },
+        "heading": "Insider lists",
+        "before": "Article 18\nInsider lists\n1. Issuers or any person acting on their behalf or on their account, shall:\n(a) draw up a list of all persons who have access to inside information and who are working for them under a contract of employment, or otherwise performing tasks through which they have access to inside information, such as advisers, accountants or credit rating agencies (insider list);\n(b) promptly update the insider list in accordance with paragraph 4; and\n(c) provide the insider list to the competent authority as soon as possible upon its request.\n2. Issuers or any person acting on their behalf or on their account, shall take all reasonable steps to ensure that any person on the insider list acknowledges in writing the legal and regulatory duties entailed and is aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information.\nWhere another person acting on behalf or on the account of the issuer assumes the task of drawing up and updating the insider list, the issuer remains fully responsible for complying with this Article. The issuer shall always retain a right of access to the insider list.\n3. The insider list shall include at least:\n(a) the identity of any person having access to inside information;\n(b) the reason for including that person in the insider list;\n(c) the date and time at which that person obtained access to inside information; and\n(d) the date on which the insider list was drawn up.\n4. Issuers or any person acting on their behalf or on their account shall update the insider list promptly, including the date of the update, in the following circumstances:\n(a) where there is a change in the reason for including a person already on the insider list;\n(b) where there is a new person who has access to inside information and needs, therefore, to be added to the insider list; and\n(c) where a person ceases to have access to inside information.\nEach update shall specify the date and time when the change triggering the update occurred.\n5. Issuers or any person acting on their behalf or on their account shall retain the insider list for a period of at least five years after it is drawn up or updated.\n6. Issuers whose financial instruments are admitted to trading on an SME growth market shall be exempt from drawing up an insider list, provided that the following conditions are met:\n(a) the issuer takes all reasonable steps to ensure that any person with access to inside information acknowledges the legal and regulatory duties entailed and is aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information; and\n(b) the issuer is able to provide the competent authority, upon request, with an insider list.\n7. This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.\n8. Paragraphs 1 to 5 of this Article shall also apply to:\n(a) emission allowance market participants in relation to inside information concerning emission allowances that arises in relation to the physical operations of that emission allowance market participant;\n(b) any auction platform, auctioneer and auction monitor in relation to auctions of emission allowances or other auctioned products based thereon that are held pursuant to Regulation (EU) No 1031/2010.\n9. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the precise format of insider lists and the format for updating insider lists referred to in this Article.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "after": "Article 18\nInsider lists\n1. Issuers and any person acting on their behalf or on their account, shall each:\n(a) draw up a list of all persons who have access to inside information and who are working for them under a contract of employment, or otherwise performing tasks through which they have access to inside information, such as advisers, accountants or credit rating agencies (insider list);\n(b) promptly update the insider list in accordance with paragraph 4; and\n(c) provide the insider list to the competent authority as soon as possible upon its request.\n2. Issuers and any person acting on their behalf or on their account, shall take all reasonable steps to ensure that any person on the insider list acknowledges in writing the legal and regulatory duties entailed and is aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information.\nWhere another person is requested by the issuer to draw up and update the issuer’s insider list, the issuer shall remain fully responsible for complying with this Article. The issuer shall always retain a right of access to the insider list that the other person is drawing up.\n3. The insider list shall include at least:\n(a) the identity of any person having access to inside information;\n(b) the reason for including that person in the insider list;\n(c) the date and time at which that person obtained access to inside information; and\n(d) the date on which the insider list was drawn up.\n4. Issuers and any person acting on their behalf or on their account shall each update their insider list promptly, including the date of the update, in the following circumstances:\n(a) where there is a change in the reason for including a person already on the insider list;\n(b) where there is a new person who has access to inside information and needs, therefore, to be added to the insider list; and\n(c) where a person ceases to have access to inside information.\nEach update shall specify the date and time when the change triggering the update occurred.\n5. Issuers and any person acting on their behalf or on their account shall each retain their insider list for a period of at least five years after it is drawn up or updated.\n6. Issuers whose financial instruments are admitted to trading on an SME growth market shall be entitled to include in their insider lists only those persons who, due to the nature of their function or position within the issuer, have regular access to inside information.\nBy way of derogation from the first subparagraph of this paragraph and where justified by specific national market integrity concerns, Member States may require issuers whose financial instruments are admitted to trading on an SME growth market to include in their insider lists all persons referred to in point (a) of paragraph 1. Those lists shall comprise information specified in the format determined by ESMA pursuant to the fourth subparagraph of this paragraph.\nThe insider lists referred to in the first and second subparagraphs of this paragraph shall be provided to the competent authority as soon as possible upon its request.\nESMA shall develop draft implementing technical standards to determine the precise format of the insider lists referred to in the second subparagraph of this paragraph. The format of the insider lists shall be proportionate and represent a lighter administrative burden compared to the format of insider lists referred to in paragraph 9.\nESMA shall submit those draft implementing technical standards to the Commission by 1 September 2020.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the fourth subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n7. This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.\n8. Paragraphs 1 to 5 of this Article shall also apply to:\n(a) emission allowance market participants in relation to inside information concerning emission allowances that arises in relation to the physical operations of that emission allowance market participant;\n(b) any auction platform, auctioneer and auction monitor in relation to auctions of emission allowances or other auctioned products based thereon that are held pursuant to Regulation (EU) No 1031/2010.\n9. In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the precise format of insider lists and the format for updating insider lists referred to in this Article.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 18 PA 1 ALN 1",
+          "AR 18 PA 2 ALN 1",
+          "AR 18 PA 2 ALN 2",
+          "AR 18 PA 4 ALN 1",
+          "AR 18 PA 4 ALN 2",
+          "AR 18 PA 5 ALN 1",
+          "AR 18 PA 6 ALN 1",
+          "AR 18 PA 6 ALN 1 PTA (a)",
+          "AR 18 PA 6 ALN 1 PTA (b)",
+          "AR 18 PA 6 ALN 2",
+          "AR 18 PA 6 ALN 3",
+          "AR 18 PA 6 ALN 4",
+          "AR 18 PA 6 ALN 5",
+          "AR 18 PA 6 ALN 6"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2020-09-01"
+        ],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4) (a); AR 001 (4) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraphs 1, 2, 4 and 5 now describe issuers and any person acting on their behalf or on their account as each individually bearing the listed duties, rather than referring to them collectively, and paragraph 2 rephrases how another person comes to draw up and update the issuer's list while the issuer's right of access is described as covering the list that other person is drawing up.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_18",
+              "label": "Art. 18, 02014R0596-20160703"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_18",
+              "label": "Art. 18, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 6 no longer exempts SME growth market issuers from drawing up an insider list at all; instead it entitles them to include only persons with regular access to inside information due to their function or position, allows Member States to require inclusion of all persons under point (a) of paragraph 1 in specified circumstances, requires such lists to be provided to the competent authority on request, and adds an ESMA implementing-standards process with a submission deadline of 1 September 2020 and a delegated Commission power, replacing the former two-condition exemption text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_18",
+              "label": "Art. 18, 02014R0596-20160703"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_18",
+              "label": "Art. 18, 02014R0596-20210101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 19"
+        },
+        "heading": "Managers’ transactions",
+        "before": "Article 19\nManagers’ transactions\n1. Persons discharging managerial responsibilities, as well as persons closely associated with them, shall notify the issuer or the emission allowance market participant and the competent authority referred to in the second subparagraph of paragraph 2:\n(a) in respect of issuers, of every transaction conducted on their own account relating to the shares or debt instruments of that issuer or to derivatives or other financial instruments linked thereto;\n(b) in respect of emission allowance market participants, of every transaction conducted on their own account relating to emission allowances, to auction products based thereon or to derivatives relating thereto.\nSuch notifications shall be made promptly and no later than three business days after the date of the transaction.\nThe first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.\n1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:\n(a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;\n(b) the financial instrument provides exposure to a portfolio of assets in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the portfolio's assets;\n(c) the financial instrument is a unit or share in a collective investment undertaking or provides exposure to a portfolio of assets and the person discharging managerial responsibilities or person closely associated with such a person does not know, and could not know, the investment composition or exposure of such collective investment undertaking or portfolio of assets in relation to the issuer's shares or debt instruments, and furthermore there is no reason for that person to believe that the issuer's shares or debt instruments exceed the thresholds in point (a) or (b).\nIf information regarding the investment composition of the collective investment undertaking or exposure to the portfolio of assets is available, then the person discharging managerial responsibility or person closely associated with such a person shall make all reasonable efforts to avail themselves of that information.\n2. For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.\nThe rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant is registered. Notifications shall be made within three working days of the transaction date to the competent authority of that Member State. Where the issuer is not registered in a Member State, the notification shall be made to the competent authority of the home Member State in accordance with point (i) of Article 2(1) of Directive 2004/109/EC or, in the absence thereof, to the competent authority of the trading venue.\n3. The issuer or emission allowance market participant shall ensure that the information that is notified in accordance with paragraph 1 is made public promptly and no later than three business days after the transaction in a manner which enables fast access to this information on a non-discriminatory basis in accordance with the implementing technical standards referred to in point (a) of Article 17(10).\nThe issuer or emission allowance market participant shall use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Union, and, where applicable, it shall use the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC.\nAlternatively, national law may provide that a competent authority may itself make public the information.\n4. This Article shall apply to issuers who:\n(a) have requested or approved admission of their financial instruments to trading on a regulated market; or\n(b) in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF.\n5. Issuers and emission allowance market participants shall notify the person discharging managerial responsibilities of their obligations under this Article in writing. Issuers and emission allowance market participants shall draw up a list of all persons discharging managerial responsibilities and persons closely associated with them.\nPersons discharging managerial responsibilities shall notify the persons closely associated with them of their obligations under this Article in writing and shall keep a copy of this notification.\n6. A notification of transactions referred to in paragraph 1 shall contain the following information:\n(a) the name of the person;\n(b) the reason for the notification;\n(c) the name of the relevant issuer or emission allowance market participant;\n(d) a description and the identifier of the financial instrument;\n(e) the nature of the transaction(s) (e.g. acquisition or disposal), indicating whether it is linked to the exercise of share option programmes or to the specific examples set out in paragraph 7;\n(f) the date and place of the transaction(s); and\n(g) the price and volume of the transaction(s). In the case of a pledge whose terms provide for its value to change, this should be disclosed together with its value at the date of the pledge.\n7. For the purposes of paragraph 1, transactions that must be notified shall also include:\n(a) the pledging or lending of financial instruments by or on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1;\n(b) transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1, including where discretion is exercised;\n(c) transactions made under a life insurance policy, defined in accordance with Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., where:\n(i) the policyholder is a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1,\n(ii) the investment risk is borne by the policyholder, and\n(iii) the policyholder has the power or discretion to make investment decisions regarding specific instruments in that life insurance policy or to execute transactions regarding specific instruments for that life insurance policy.\nFor the purposes of point (a), a pledge, or a similar security interest, of financial instruments in connection with the depositing of the financial instruments in a custody account does not need to be notified, unless and until such time that such pledge or other security interest is designated to secure a specific credit facility.\nFor the purposes of point (b), transactions executed in shares or debt instruments of an issuer or derivatives or other financial instruments linked thereto by managers of a collective investment undertaking in which the person discharging managerial responsibilities or a person closely associated with them has invested do not need to be notified where the manager of the collective investment undertaking operates with full discretion, which excludes the manager receiving any instructions or suggestions on portfolio composition directly or indirectly from investors in that collective investment undertaking.\nInsofar as a policyholder of an insurance contract is required to notify transactions according to this paragraph, an obligation to notify is not incumbent on the insurance company.\n8. Paragraph 1 shall apply to any subsequent transaction once a total amount of EUR 5000 has been reached within a calendar year. The threshold of EUR 5000 shall be calculated by adding without netting all transactions referred to in paragraph 1.\n9. A competent authority may decide to increase the threshold set out in paragraph 8 to EUR 20000 and shall inform ESMA of its decision and the justification for its decision, with specific reference to market conditions, to adopt the higher threshold prior to its application. ESMA shall publish on its website the list of thresholds that apply in accordance with this Article and the justifications provided by competent authorities for such thresholds.\n10. This Article shall also apply to transactions by persons discharging managerial responsibilities within any auction platform, auctioneer and auction monitor involved in the auctions held under Regulation (EU) No 1031/2010 and to persons closely associated with such persons in so far as their transactions involve emission allowances, derivatives thereof or auctioned products based thereon. Those persons shall notify their transactions to the auction platforms, auctioneers and auction monitor, as applicable, and to the competent authority where the auction platform, auctioneer or auction monitor, as applicable, is registered. The information that is so notified shall be made public by the auction platforms, auctioneers, auction monitor or competent authority in accordance with paragraph 3.\n11. Without prejudice to Articles 14 and 15, a person discharging managerial responsibilities within an issuer shall not conduct any transactions on its own account or for the account of a third party, directly or indirectly, relating to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked to them during a closed period of 30 calendar days before the announcement of an interim financial report or a year-end report which the issuer is obliged to make public according to:\n(a) the rules of the trading venue where the issuer’s shares are admitted to trading; or\n(b) national law.\n12. Without prejudice to Articles 14 and 15, an issuer may allow a person discharging managerial responsibilities within it to trade on its own account or for the account of a third party during a closed period as referred to in paragraph 11 either:\n(a) on a case-by-case basis due to the existence of exceptional circumstances, such as severe financial difficulty, which require the immediate sale of shares; or\n(b) due to the characteristics of the trading involved for transactions made under, or related to, an employee share or saving scheme, qualification or entitlement of shares, or transactions where the beneficial interest in the relevant security does not change.\n13. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the circumstances under which trading during a closed period may be permitted by the issuer, as referred to in paragraph 12, including the circumstances that would be considered as exceptional and the types of transaction that would justify the permission for trading.\n14. The Commission shall be empowered to adopt delegated acts in accordance with Article 35, specifying types of transactions that would trigger the requirement referred to in paragraph 1.\n15. In order to ensure uniform application of paragraph 1, ESMA shall develop draft implementing technical standards concerning the format and template in which the information referred to in paragraph 1 is to be notified and made public.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "after": "Article 19\nManagers’ transactions\n1. Persons discharging managerial responsibilities, as well as persons closely associated with them, shall notify the issuer or the emission allowance market participant and the competent authority referred to in the second subparagraph of paragraph 2:\n(a) in respect of issuers, of every transaction conducted on their own account relating to the shares or debt instruments of that issuer or to derivatives or other financial instruments linked thereto;\n(b) in respect of emission allowance market participants, of every transaction conducted on their own account relating to emission allowances, to auction products based thereon or to derivatives relating thereto.\nSuch notifications shall be made promptly and no later than three business days after the date of the transaction.\nThe first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.\n1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:\n(a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;\n(b) the financial instrument provides exposure to a portfolio of assets in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the portfolio's assets;\n(c) the financial instrument is a unit or share in a collective investment undertaking or provides exposure to a portfolio of assets and the person discharging managerial responsibilities or person closely associated with such a person does not know, and could not know, the investment composition or exposure of such collective investment undertaking or portfolio of assets in relation to the issuer's shares or debt instruments, and furthermore there is no reason for that person to believe that the issuer's shares or debt instruments exceed the thresholds in point (a) or (b).\nIf information regarding the investment composition of the collective investment undertaking or exposure to the portfolio of assets is available, then the person discharging managerial responsibility or person closely associated with such a person shall make all reasonable efforts to avail themselves of that information.\n2. For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.\nThe rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant is registered. Notifications shall be made within three working days of the transaction date to the competent authority of that Member State. Where the issuer is not registered in a Member State, the notification shall be made to the competent authority of the home Member State in accordance with point (i) of Article 2(1) of Directive 2004/109/EC or, in the absence thereof, to the competent authority of the trading venue.\n3. The issuer or emission allowance market participant shall make public the information contained in a notification referred to in paragraph 1 within two business days of receipt of such a notification.\nThe issuer or emission allowance market participant shall use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Union, and, where applicable, it shall use the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC.\nAlternatively, national law may provide that a competent authority may itself make public the information.\n4. This Article shall apply to issuers who:\n(a) have requested or approved admission of their financial instruments to trading on a regulated market; or\n(b) in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF.\n5. Issuers and emission allowance market participants shall notify the person discharging managerial responsibilities of their obligations under this Article in writing. Issuers and emission allowance market participants shall draw up a list of all persons discharging managerial responsibilities and persons closely associated with them.\nPersons discharging managerial responsibilities shall notify the persons closely associated with them of their obligations under this Article in writing and shall keep a copy of this notification.\n6. A notification of transactions referred to in paragraph 1 shall contain the following information:\n(a) the name of the person;\n(b) the reason for the notification;\n(c) the name of the relevant issuer or emission allowance market participant;\n(d) a description and the identifier of the financial instrument;\n(e) the nature of the transaction(s) (e.g. acquisition or disposal), indicating whether it is linked to the exercise of share option programmes or to the specific examples set out in paragraph 7;\n(f) the date and place of the transaction(s); and\n(g) the price and volume of the transaction(s). In the case of a pledge whose terms provide for its value to change, this should be disclosed together with its value at the date of the pledge.\n7. For the purposes of paragraph 1, transactions that must be notified shall also include:\n(a) the pledging or lending of financial instruments by or on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1;\n(b) transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1, including where discretion is exercised;\n(c) transactions made under a life insurance policy, defined in accordance with Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., where:\n(i) the policyholder is a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1,\n(ii) the investment risk is borne by the policyholder, and\n(iii) the policyholder has the power or discretion to make investment decisions regarding specific instruments in that life insurance policy or to execute transactions regarding specific instruments for that life insurance policy.\nFor the purposes of point (a), a pledge, or a similar security interest, of financial instruments in connection with the depositing of the financial instruments in a custody account does not need to be notified, unless and until such time that such pledge or other security interest is designated to secure a specific credit facility.\nFor the purposes of point (b), transactions executed in shares or debt instruments of an issuer or derivatives or other financial instruments linked thereto by managers of a collective investment undertaking in which the person discharging managerial responsibilities or a person closely associated with them has invested do not need to be notified where the manager of the collective investment undertaking operates with full discretion, which excludes the manager receiving any instructions or suggestions on portfolio composition directly or indirectly from investors in that collective investment undertaking.\nInsofar as a policyholder of an insurance contract is required to notify transactions according to this paragraph, an obligation to notify is not incumbent on the insurance company.\n8. Paragraph 1 shall apply to any subsequent transaction once a total amount of EUR 5000 has been reached within a calendar year. The threshold of EUR 5000 shall be calculated by adding without netting all transactions referred to in paragraph 1.\n9. A competent authority may decide to increase the threshold set out in paragraph 8 to EUR 20000 and shall inform ESMA of its decision and the justification for its decision, with specific reference to market conditions, to adopt the higher threshold prior to its application. ESMA shall publish on its website the list of thresholds that apply in accordance with this Article and the justifications provided by competent authorities for such thresholds.\n10. This Article shall also apply to transactions by persons discharging managerial responsibilities within any auction platform, auctioneer and auction monitor involved in the auctions held under Regulation (EU) No 1031/2010 and to persons closely associated with such persons in so far as their transactions involve emission allowances, derivatives thereof or auctioned products based thereon. Those persons shall notify their transactions to the auction platforms, auctioneers and auction monitor, as applicable, and to the competent authority where the auction platform, auctioneer or auction monitor, as applicable, is registered. The information that is so notified shall be made public by the auction platforms, auctioneers, auction monitor or competent authority in accordance with paragraph 3.\n11. Without prejudice to Articles 14 and 15, a person discharging managerial responsibilities within an issuer shall not conduct any transactions on its own account or for the account of a third party, directly or indirectly, relating to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked to them during a closed period of 30 calendar days before the announcement of an interim financial report or a year-end report which the issuer is obliged to make public according to:\n(a) the rules of the trading venue where the issuer’s shares are admitted to trading; or\n(b) national law.\n12. Without prejudice to Articles 14 and 15, an issuer may allow a person discharging managerial responsibilities within it to trade on its own account or for the account of a third party during a closed period as referred to in paragraph 11 either:\n(a) on a case-by-case basis due to the existence of exceptional circumstances, such as severe financial difficulty, which require the immediate sale of shares; or\n(b) due to the characteristics of the trading involved for transactions made under, or related to, an employee share or saving scheme, qualification or entitlement of shares, or transactions where the beneficial interest in the relevant security does not change.\n13. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the circumstances under which trading during a closed period may be permitted by the issuer, as referred to in paragraph 12, including the circumstances that would be considered as exceptional and the types of transaction that would justify the permission for trading.\n14. The Commission shall be empowered to adopt delegated acts in accordance with Article 35, specifying types of transactions that would trigger the requirement referred to in paragraph 1.\n15. In order to ensure uniform application of paragraph 1, ESMA shall develop draft implementing technical standards concerning the format and template in which the information referred to in paragraph 1 is to be notified and made public.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 19 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The obligation on the issuer or emission allowance market participant to make public the notified information changed from a requirement to do so promptly and no later than three business days after the transaction, using a manner enabling fast non-discriminatory access under implementing technical standards, to a requirement to make the information public within two business days of receiving the notification.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19",
+              "label": "Art. 19, 02014R0596-20160703"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_19",
+              "label": "Art. 19, 02014R0596-20210101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20210101",
+          "location": "AR 35"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 35\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3) , Article 19(13) and (14) and Article 38 shall be conferred on the Commission for an indeterminate period of time from 2 July 2014.\n3. The delegation of power referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3) , Article 19(13) and (14) and Article 38, may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Article 6(5) or (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), Article 19(13) or (14) or Article 38, shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.",
+        "after": "Article 35\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), Article 19(13) and (14), and Article 38 shall be conferred on the Commission for a period of five years from 31 December 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3) , Article 19(13) and (14) and Article 38, may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Article 6(5) or (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), Article 19(13) or (14) or Article 38, shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 35 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2014-07-02"
+        ],
+        "dates_added": [
+          "2019-12-31"
+        ],
+        "in_force": "2021-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2115 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 changes the duration and start point of the delegated power from an indeterminate period beginning on 2 July 2014 to a fixed five-year period beginning on 31 December 2019.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_35",
+              "label": "Art. 35, 02014R0596-20160703"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_35",
+              "label": "Art. 35, 02014R0596-20210101"
+            }
+          ]
+        },
+        {
+          "text": "The revised paragraph 2 also adds text requiring the Commission to draw up a report no later than nine months before the end of the five-year period, and provides for tacit extension of the delegation for periods of identical duration unless the European Parliament or the Council opposes such extension no later than three months before the end of each period.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20210101",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_35",
+              "label": "Art. 35, 02014R0596-20210101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0596",
+      "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+    },
+    "from_version": "02014R0596-20160703",
+    "to_version": "02014R0596-20210101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 11",
+          "AR 13",
+          "AR 17",
+          "AR 18",
+          "AR 19",
+          "AR 35"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 11",
+          "AR 13",
+          "AR 17",
+          "AR 18",
+          "AR 19",
+          "AR 35"
+        ],
+        "note": "11 annotations in (2016-07-03, 2021-01-01]",
+        "claims": [
+          {
+            "location": "AR 11 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 13 PA 13",
+            "change_type": "INSERTED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 13 PA 12",
+            "change_type": "INSERTED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 19 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 35 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 17 PA 4 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2021-01-01",
+            "source": "32019R2115 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 11",
+          "AR 13",
+          "AR 17",
+          "AR 18",
+          "AR 19",
+          "AR 35"
+        ],
+        "note": "32019R2115, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 11 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 13 PA 12",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 13 PA 13",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 19 PA 3 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 35 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2115",
+              "display_name": "Regulation (EU) 2019/2115 of the European Parliament and of the Council of 27 November 2019 amending Directive 2014/65/EU and Regulations (EU) No 596/2014 and (EU) 2017/1129 as regards the promotion of the use of SME growth markets (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 6,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 40602,
+      "output_tokens": 2069,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 14,
+    "citations": 19,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
