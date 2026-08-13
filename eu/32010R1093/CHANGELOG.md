@@ -10,6 +10,114 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140702 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20140320` → `02010R1093-20140702`
+
+- **Act** `eu:32010R1093` · **In force** 2014-07-02 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20140320` · `v2` = `02010R1093-20140702`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 2`, `AR 4 ALN 1 PO 2 PTI (i)`, `AR 4 ALN 1 PO 2 PTI (ii)`, `AR 4 ALN 1 PO 2 PTI (iii)`, `AR 4 ALN 1 PO 2 PTI (iv)` · *dates* +2014-04-16 +2014-05-15 · *amended by* `32014L0059`
+
+The term defined in point (2) changes from the plural "competent authorities" to the singular "competent authority", and sub-point (i) rephrases its cross-reference to point (40) of Article 4(1) of Regulation (EU) No 575/2013 while adding a reference to being within the meaning of Directives 2007/64/EC and 2009/110/EC, dropping the earlier mention of the European Central Bank and Regulation (EU) No 1024/2013. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+
+Sub-point (iii), which previously referred to bodies or public authorities administering deposit-guarantee schemes under Directive 94/19/EC, is replaced with a reference to a designated authority as defined in Article 2(1)(18) of Directive 2014/49/EU. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+
+A new sub-point (iv) is added, defining a resolution authority by reference to Article 2(1)(18) of Directive 2014/59/EU, which did not appear in the earlier text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+
+*before* (`02010R1093-20140320`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+>
+> (1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;
+>
+> (2) competent authorities means:
+>
+>
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
+>
+>
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions; and
+>
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit-guarantee schemes pursuant to Directive 94/19/EC, or, where the operation of the deposit-guarantee scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive.
+
+*after* (`02010R1093-20140702`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;
+> (2) competent authority means:
+> (i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
+> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directi […truncated by emendrix: 334 characters omitted…]
+
+**MODIFIED · Art. 40 — Composition** · applies from: unchanged
+
+*within* `AR 40 PA 6 ALN 2` · *amended by* `32014L0059`
+
+Paragraph 6 gains a second sentence stating that, for acting within the scope of Directive 2014/59/EU, the member referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_40)
+
+The earlier text contained only the sentence referring to Directive 94/19/EC and deposit-guarantee scheme bodies, without any mention of resolution authorities. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_40)
+
+*before* (`02010R1093-20140320`)
+
+> Article 40
+> Composition
+> 1.
+> The Board of Supervisors shall be composed of:
+>
+> (a) the Chairperson, who shall be non-voting;
+>
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+>
+>
+> (c) one representative of the Commission, who shall be non-voting;
+>
+>
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+>
+>
+> (e) one representative of the ESRB, who shall be non-voting;
+>
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2.
+> The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3.
+> Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4.
+> Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+>
+> 4a.
+> In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank wi […truncated by emendrix: 988 characters omitted…]
+
+*after* (`02010R1093-20140702`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson, who shall be non-voting;
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+> (e) one representative of the ESRB, who shall be non-voting;
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+> 4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with experti […truncated by emendrix: 1260 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20140702 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140320 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20131030` → `02010R1093-20140320`

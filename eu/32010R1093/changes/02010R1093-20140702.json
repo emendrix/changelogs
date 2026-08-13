@@ -1,0 +1,431 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1093",
+    "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+  },
+  "from_version": "02010R1093-20140320",
+  "to_version": "02010R1093-20140702",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-07-02"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 84,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20140702",
+          "location": "AR 4"
+        },
+        "heading": "Definitions",
+        "before": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n\n(1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;\n\n(2) competent authorities means:\n\n\n(i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;\n\n\n(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions; and\n\n(iii) with regard to deposit guarantee schemes, bodies which administer deposit-guarantee schemes pursuant to Directive 94/19/EC, or, where the operation of the deposit-guarantee scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive.",
+        "after": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;\n(2) competent authority means:\n(i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;\n(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;\n(iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;\n(iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)., a resolution authority as defined in Article 2(1)(18) of that Directive.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4 ALN 1 PO 2",
+          "AR 4 ALN 1 PO 2 PTI (i)",
+          "AR 4 ALN 1 PO 2 PTI (ii)",
+          "AR 4 ALN 1 PO 2 PTI (iii)",
+          "AR 4 ALN 1 PO 2 PTI (iv)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0059",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2014-04-16",
+          "2014-05-15"
+        ],
+        "in_force": "2014-07-02",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014L0059 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 125 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The term defined in point (2) changes from the plural \"competent authorities\" to the singular \"competent authority\", and sub-point (i) rephrases its cross-reference to point (40) of Article 4(1) of Regulation (EU) No 575/2013 while adding a reference to being within the meaning of Directives 2007/64/EC and 2009/110/EC, dropping the earlier mention of the European Central Bank and Regulation (EU) No 1024/2013.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140320",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4",
+              "label": "Art. 4, 02010R1093-20140320"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140702",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4",
+              "label": "Art. 4, 02010R1093-20140702"
+            }
+          ]
+        },
+        {
+          "text": "Sub-point (iii), which previously referred to bodies or public authorities administering deposit-guarantee schemes under Directive 94/19/EC, is replaced with a reference to a designated authority as defined in Article 2(1)(18) of Directive 2014/49/EU.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140702",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4",
+              "label": "Art. 4, 02010R1093-20140702"
+            }
+          ]
+        },
+        {
+          "text": "A new sub-point (iv) is added, defining a resolution authority by reference to Article 2(1)(18) of Directive 2014/59/EU, which did not appear in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140702",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4",
+              "label": "Art. 4, 02010R1093-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20140702",
+          "location": "AR 40"
+        },
+        "heading": "Composition",
+        "before": "Article 40\nComposition\n1.\nThe Board of Supervisors shall be composed of:\n\n(a) the Chairperson, who shall be non-voting;\n\n(b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;\n\n\n(c) one representative of the Commission, who shall be non-voting;\n\n\n(d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;\n\n\n(e) one representative of the ESRB, who shall be non-voting;\n\n(f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.\n2.\nThe Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.\n3.\nEach competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4.\nWhere the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.\n\n4a.\nIn discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tasks.\n\n5.\nIn Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n6.\nFor the purpose of acting within the scope of Directive 94/19/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer deposit-guarantee schemes in each Member State, who shall be non-voting.\n7.\nThe Board of Supervisors may decide to admit observers.\nThe Executive Director may participate in meetings of the Board of Supervisors, without the right to vote.",
+        "after": "Article 40\nComposition\n1. The Board of Supervisors shall be composed of:\n(a) the Chairperson, who shall be non-voting;\n(b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;\n(c) one representative of the Commission, who shall be non-voting;\n(d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;\n(e) one representative of the ESRB, who shall be non-voting;\n(f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.\n2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.\n3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.\n4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tasks.\n5. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n6. For the purpose of acting within the scope of Directive 94/19/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer deposit-guarantee schemes in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Directive 2014/59/EU, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.\n7. The Board of Supervisors may decide to admit observers.\nThe Executive Director may participate in meetings of the Board of Supervisors, without the right to vote.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 40 PA 6 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014L0059",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-07-02",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014L0059 C",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 125 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 gains a second sentence stating that, for acting within the scope of Directive 2014/59/EU, the member referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140702",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_40",
+              "label": "Art. 40, 02010R1093-20140702"
+            }
+          ]
+        },
+        {
+          "text": "The earlier text contained only the sentence referring to Directive 94/19/EC and deposit-guarantee scheme bodies, without any mention of resolution authorities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140320",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_40",
+              "label": "Art. 40, 02010R1093-20140320"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1093",
+      "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+    },
+    "from_version": "02010R1093-20140320",
+    "to_version": "02010R1093-20140702",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": "2 annotations in (2014-03-20, 2014-07-02]",
+        "claims": [
+          {
+            "location": "AR 40 .6",
+            "change_type": "MODIFIED",
+            "in_force": "2014-07-02",
+            "source": "32014L0059 C",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0059",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PT 2",
+            "change_type": "MODIFIED",
+            "in_force": "2014-07-02",
+            "source": "32014L0059 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0059",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": "32014L0059, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 4 PO 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 125 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0059",
+              "display_name": "Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 40 PA 6",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 125 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014L0059",
+              "display_name": "Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council  Text with EEA relevance"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7727,
+      "output_tokens": 694,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 5,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
