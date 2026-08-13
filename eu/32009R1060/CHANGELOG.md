@@ -10,6 +10,87 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20250117 -->
+## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
+### `02009R1060-20240109` → `02009R1060-20250117`
+
+- **Act** `eu:32009R1060` · **In force** 2025-01-17 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1060-20240109` · `v2` = `02009R1060-20250117`
+
+---
+
+**MODIFIED · Annex I — INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I SCT A SCT 4` · *dates* +2022-12-14 · *amended by* `32022R2554`
+
+In Section A, point 4, the requirement for effective control and safeguard arrangements for information processing systems is replaced with a requirement for effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
+
+The revised text adds a footnote identifying that regulation as the one of 14 December 2022 on digital operational resilience for the financial sector, which also amends several other named regulations. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
+
+*before* (`02009R1060-20240109`)
+
+> ANNEX I
+> INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST
+> Section A
+> Organisational requirements
+> 1. The credit rating agency shall have an administrative or supervisory board. Its senior management shall ensure that:
+> (a) credit rating activities are independent, including from all political and economic influences or constraints;
+> (b) conflicts of interest are properly identified, managed and disclosed;
+> (c) the credit rating agency complies with the remaining requirements of this Regulation.
+> 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
+> The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
+> At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34416 characters omitted…]
+
+*after* (`02009R1060-20250117`)
+
+> ANNEX I
+> INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST
+> Section A
+> Organisational requirements
+> 1. The credit rating agency shall have an administrative or supervisory board. Its senior management shall ensure that:
+> (a) credit rating activities are independent, including from all political and economic influences or constraints;
+> (b) conflicts of interest are properly identified, managed and disclosed;
+> (c) the credit rating agency complies with the remaining requirements of this Regulation.
+> 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
+> The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
+> At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34793 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III PO 12` · *amended by* `32022R2554`
+
+In point 12 of Section I, the reference to safeguard arrangements for 'information processing systems' has been replaced with a reference to arrangements for 'managing ICT systems in accordance with Regulation (EU) 2022/2554'. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_III)
+
+*before* (`02009R1060-20240109`)
+
+> ANNEX III
+> List of infringements referred to in Article 24(1) and Article 36a(1)
+> I. Infringements related to conflicts of interest, organisational or operational requirements
+> 1. The credit rating agency infringes Article 4(3) by endorsing a credit rating issued in a third country without complying with the conditions set out in that paragraph, unless the reason for that infringement is outside the credit rating agency's knowledge or control.
+> 2. The credit rating agency infringes the second subparagraph of Article 4(4) by using the endorsement of a credit rating issued in a third country with the intention of avoiding the requirements of this Regulation.
+> 3. The credit rating agency infringes Article 6(2), in conjunction with point 1 of Section A of Annex I, by not establishing an administrative or a supervisory board.
+> 4. The credit rating agency infringes Article 6(2), in conjunction with the first paragraph of point 2 of Section A of Annex I, by not ensuring that its business interest does not impair the independence or accuracy of the credit rating activities.
+> 5. The credit rating agency infringes Article 6(2), in conjunction with the second paragraph of point 2 of Section A of Annex I, by appointing senior management which are not of good repute, sufficiently skilled or experienced, or cannot ensure the sound and prudent management of the credit rating agency.
+> 6. The credit rating agency infringes Article 6(2), in conjunction with the third paragraph of point 2 of Section A […truncated by emendrix: 29571 characters omitted…]
+
+*after* (`02009R1060-20250117`)
+
+> ANNEX III
+> List of infringements referred to in Article 24(1) and Article 36a(1)
+> I. Infringements related to conflicts of interest, organisational or operational requirements
+> 1. The credit rating agency infringes Article 4(3) by endorsing a credit rating issued in a third country without complying with the conditions set out in that paragraph, unless the reason for that infringement is outside the credit rating agency's knowledge or control.
+> 2. The credit rating agency infringes the second subparagraph of Article 4(4) by using the endorsement of a credit rating issued in a third country with the intention of avoiding the requirements of this Regulation.
+> 3. The credit rating agency infringes Article 6(2), in conjunction with point 1 of Section A of Annex I, by not establishing an administrative or a supervisory board.
+> 4. The credit rating agency infringes Article 6(2), in conjunction with the first paragraph of point 2 of Section A of Annex I, by not ensuring that its business interest does not impair the independence or accuracy of the credit rating activities.
+> 5. The credit rating agency infringes Article 6(2), in conjunction with the second paragraph of point 2 of Section A of Annex I, by appointing senior management which are not of good repute, sufficiently skilled or experienced, or cannot ensure the sound and prudent management of the credit rating agency.
+> 6. The credit rating agency infringes Article 6(2), in conjunction with the third paragraph of point 2 of Section A […truncated by emendrix: 29606 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20250117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20240109 -->
 ## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
 ### `02009R1060-20190101` → `02009R1060-20240109`
