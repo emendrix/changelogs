@@ -10,6 +10,1552 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20150118 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20130628` → `02013R0575-20150118`
+
+- **Act** `eu:32013R0575` · **In force** 2015-01-18 · **Detected** 2026-08-13
+- **Touched** 31 provisions — 31 substantive · 0 date-only · **30 disputed**
+- **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 496 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20130628` · `v2` = `02013R0575-20150118`
+
+---
+
+**MODIFIED · Art. 153 — Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks** · applies from: unchanged
+
+*within* `AR 153 PA 1 ALN 1 PTI (ii)`, `AR 153 PA 1 ALN 1 PTI (iii)`, `AR 153 PA 4 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The mathematical formulae in points (ii) and (iii) of Article 153(1)(1) and in Article 153(4)(1) appear with altered spacing, punctuation and symbol formatting compared to the earlier version, though the same underlying variables and terms are present. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_153)
+
+The surrounding numbering and paragraph layout are presented in a more condensed form, but no substantive wording, values or cross-references appear to have changed. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_153)
+
+*before* (`02013R0575-20130628`)
+
+> Article 153
+> Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks
+> 1.
+> Subject to the application of the specific treatments laid down in paragraphs 2, 3 and 4, the risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as
+>
+> (i) if PD = 0, RW shall be 0;
+>
+>
+> (ii) if PD = 1, i.e., for defaulted exposures:
+>
+> where institutions apply the LGD values set out in Article 161(1), RW shall be 0;
+> where institutions use own estimates of LGDs, RW shall be RW = max 0,12.5 · LGD – ELBE;
+> where the expected loss best estimate (hereinafter referred to as ELBE) shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+>
+> (iii) if 0 < PD < 1
+> RW = LGD · N11 – R · GPD + R1 – R · G0.999 – LGD · PD · 1 + M – 2,5 · b1 – 1,5 · b · 12,5 · 1,06
+> where:
+>
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z)
+> R
+> denotes the coefficient of correlation, is defined asR = 0.12 · 1 – e– 50 · PD1 – e– 50 + 0.24 · 1 – 1 – e– […truncated by emendrix: 5146 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 153
+> Risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks
+> 1. Subject to the application of the specific treatments laid down in paragraphs 2, 3 and 4, the risk-weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as
+> (i) if PD = 0, RW shall be 0;
+> (ii) if PD = 1, i.e., for defaulted exposures:
+> where institutions apply the LGD values set out in Article 161(1), RW shall be 0;
+> where institutions use own estimates of LGDs, RW shall be RWmax 0;12.5LGD  ELBE;
+> where the expected loss best estimate (hereinafter referred to as ELBE) shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (iii) if 0 < PD < 1
+> RWLGD  N11  R  GPDR1  R  G0.999 LGD  PD  1 M  2,5  b1  1,5  b  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z)
+> R
+> denotes the coefficient of correlation, is defined asR0.12  1  e 50  PD1  e 500.24  1  1  e 50  PD1  e 50
+> b
+> the maturity adjustment factor, whi […truncated by emendrix: 5058 characters omitted…]
+
+**MODIFIED · Art. 154 — Risk-weighted exposure amounts for retail exposures** · applies from: unchanged
+
+*within* `AR 154 PA 1 ALN 1 PTI (i)`, `AR 154 PA 1 ALN 1 PTI (ii)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formulae in points (i) and (ii) of Article 154(1) are rendered with different formatting, having lost spaces, punctuation and some mathematical symbols compared to the earlier version, though the underlying mathematical terms and variable definitions appear unchanged. [Art. 154, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_154) [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_154)
+
+*before* (`02013R0575-20130628`)
+
+> Article 154
+> Risk-weighted exposure amounts for retail exposures
+> 1.
+> The risk-weighted exposure amounts for retail exposures shall be calculated in accordance with the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as follows:
+>
+> (i) if PD = 1, i.e., for defaulted exposures, RW shall be
+> RW = max 0,12.5 · LGD – ELBE;
+> where ELBE shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+>
+>
+> (ii) if 0 < PD < 1, i.e., for any possible value for PD other than under (i)
+> RW = LGD · N11 – R · GPD + R1 – R · G0.999 – LGD · PD · 12,5 · 1,06
+> where:
+>
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z);
+> R
+> the coefficient of correlation defined asR = 0.03 · 1 – e– 35 · PD1 – e– 35 + 0.16 · 1 – 1 – e– 35 · PD1 – e– 35
+> 2.
+> The risk-weighted exposure amount for each exposure to an SME as referred to in Article 147(5) which meets the requirements set out in Articles 202 and 217 may be calculated in accordance with Article 153(3).
+> 3.
+> For retail exposures secured by immovable property collateral a coefficient of correlation R of 0,15 shall replace the figure produced by the correlation formula in paragraph 1.
+> 4. […truncated by emendrix: 3360 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 154
+> Risk-weighted exposure amounts for retail exposures
+> 1. The risk-weighted exposure amounts for retail exposures shall be calculated in accordance with the following formulae:
+> Risk – weighted exposure amount = RW · exposure value
+> where the risk weight RW is defined as follows:
+> (i) if PD = 1, i.e., for defaulted exposures, RW shall be
+> RWmax 0;12.5 LGD  ELBE;
+> where ELBE shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+> (ii) if 0 < PD < 1, i.e., for any possible value for PD other than under (i)
+> RWLGD  N11  R  GPDR1  R  G0.999  LGD  PD  12,5  1,06
+> where:
+> N(x)
+> the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+> G(Z)
+> the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z);
+> R
+> the coefficient of correlation defined asR0.03  1  e 35  PD1  e 350.16  1  1  e 35  PD1  e 35
+> 2. The risk-weighted exposure amount for each exposure to an SME as referred to in Article 147(5) which meets the requirements set out in Articles 202 and 217 may be calculated in accordance with Article 153(3).
+> 3. For retail exposures secured by immovable property collateral a coefficient of correlation R of 0,15 shall replace the figure produced by the correlation formula in paragraph 1.
+> 4. For qualifying revolving retail exposures in […truncated by emendrix: 3306 characters omitted…]
+
+**MODIFIED · Art. 156 — Risk-weighted exposure amounts for other non credit-obligation assets** · applies from: unchanged
+
+*within* `AR 156 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula in point (b) for calculating the risk-weighted exposure amount of a residual value of leased assets is rendered without the multiplication dots between the terms "1t", "100 %" and "exposure value" in the later text, compared with the earlier text which used the "·" symbol between them. [Art. 156, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_156) [Art. 156, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_156)
+
+*before* (`02013R0575-20130628`)
+
+> Article 156
+> Risk-weighted exposure amounts for other non credit-obligation assets
+> The risk-weighted exposure amounts for other non credit-obligation assets shall be calculated in accordance with the following formula:
+> Risk – weighted exposure amount = 100 % · exposure value,
+> except for:
+>
+> (a) cash in hand and equivalent cash items as well as gold bullion held in own vault or on an allocated basis to the extent backed by bullion liabilities, in which case a 0 % risk-weight shall be assigned;
+>
+> (b) when the exposure is a residual value of leased assets in which case it shall be calculated as follows:
+> 1t · 100 % · exposure value
+>
+> where t is the greater of 1 and the nearest number of whole years of the lease remaining.
+
+*after* (`02013R0575-20150118`)
+
+> Article 156
+> Risk-weighted exposure amounts for other non credit-obligation assets
+> The risk-weighted exposure amounts for other non credit-obligation assets shall be calculated in accordance with the following formula:
+> Risk – weighted exposure amount = 100 % · exposure value,
+> except for:
+> (a) cash in hand and equivalent cash items as well as gold bullion held in own vault or on an allocated basis to the extent backed by bullion liabilities, in which case a 0 % risk-weight shall be assigned;
+> (b) when the exposure is a residual value of leased assets in which case it shall be calculated as follows:
+> 1t 100 %  exposure value
+> where t is the greater of 1 and the nearest number of whole years of the lease remaining.
+
+**MODIFIED · Art. 162 — Maturity** · applies from: unchanged
+
+*within* `AR 162 PA 2 ALN 1 PTA (a)`, `AR 162 PA 2 ALN 1 PTA (g)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The mathematical formulas in point (a) and point (g) are rendered with different formatting and spacing between the earlier and later versions, without any wording change to the surrounding text. [Art. 162, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_162) [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_162)
+
+Aside from these formatting differences in the formulas, the substantive text of Article 162, including its numbering, headings and other points, remains the same in both versions. [Art. 162, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_162) [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_162)
+
+*before* (`02013R0575-20130628`)
+
+> Article 162
+> Maturity
+> 1.
+> Institutions that have not received permission to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures M of 2,5 years.
+> Alternatively, as part of the permission referred to in Article 143, the competent authorities shall decide on whether the institution shall use maturity (M) for each exposure as set out under paragraph 2.
+> 2.
+> Institutions that have received the permission of the competent authority to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks pursuant to Article 143 shall calculate M for each of these exposures as set out in points (a) to (e) of this paragraph and subject to paragraphs 3 to 5 of this Article. M shall be no greater than five years except in the cases specified in Article 384(1) where M as specified there shall be used:
+>
+> (a) for an instrument subject to a cash flow schedule, M shall be calculated in accordance with the following formula:
+> M = max1,minΣtt · CFtΣtCFt,5
+> where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+>
+> (b) for derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exp […truncated by emendrix: 5705 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 162
+> Maturity
+> 1. Institutions that have not received permission to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures M of 2,5 years.
+> Alternatively, as part of the permission referred to in Article 143, the competent authorities shall decide on whether the institution shall use maturity (M) for each exposure as set out under paragraph 2.
+> 2. Institutions that have received the permission of the competent authority to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks pursuant to Article 143 shall calculate M for each of these exposures as set out in points (a) to (e) of this paragraph and subject to paragraphs 3 to 5 of this Article. M shall be no greater than five years except in the cases specified in Article 384(1) where M as specified there shall be used:
+> (a) for an instrument subject to a cash flow schedule, M shall be calculated in accordance with the following formula:
+> Mmax1, mintt  CFttCFt,5
+> where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+> (b) for derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exposure, […truncated by emendrix: 5649 characters omitted…]
+
+**MODIFIED · Art. 220 — Using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach for master netting agreements** · applies from: unchanged
+
+*within* `AR 220 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The text of the formula in paragraph 3 has lost its mathematical symbols and spacing, rendering the summation and variable notation as a run-together string rather than the previously formatted equation. [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_220)
+
+Aside from this formatting change to the formula and minor removal of blank lines and numbering spacing throughout the article, the wording of paragraphs 1, 2, 4 and 5 is unchanged. [Art. 220, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_220) [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_220)
+
+*before* (`02013R0575-20130628`)
+
+> Article 220
+> Using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach for master netting agreements
+> 1.
+> When institutions calculate the 'fully adjusted exposure value' (E*) for the exposures subject to an eligible master netting agreement covering repurchase transactions or securities or commodities lending or borrowing transactions or other capital market-driven transactions, they shall calculate the volatility adjustments that they need to apply either by using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach ('Own Estimates Approach') as set out in Articles 223 to 226 for the Financial Collateral Comprehensive Method.
+> The use of the Own Estimates Approach shall be subject to the same conditions and requirements as apply under the Financial Collateral Comprehensive Method.
+> 2.
+> For the purpose of calculating E*, institutions shall:
+>
+> (a) calculate the net position in each group of securities or in each type of commodity by subtracting the amount in point (ii) from the amount in point (i):
+>
+>
+> (i) the total value of a group of securities or of commodities of the same type lent, sold or provided under the master netting agreement;
+>
+> (ii) the total value of a group of securities or of commodities of the same type borrowed, purchased or received under the master netting agreement;
+>
+> (b) calculate the net position in each currency, other than the settlement currency of the master netting […truncated by emendrix: 2802 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 220
+> Using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach for master netting agreements
+> 1. When institutions calculate the 'fully adjusted exposure value' (E*) for the exposures subject to an eligible master netting agreement covering repurchase transactions or securities or commodities lending or borrowing transactions or other capital market-driven transactions, they shall calculate the volatility adjustments that they need to apply either by using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach ('Own Estimates Approach') as set out in Articles 223 to 226 for the Financial Collateral Comprehensive Method.
+> The use of the Own Estimates Approach shall be subject to the same conditions and requirements as apply under the Financial Collateral Comprehensive Method.
+> 2. For the purpose of calculating E*, institutions shall:
+> (a) calculate the net position in each group of securities or in each type of commodity by subtracting the amount in point (ii) from the amount in point (i):
+> (i) the total value of a group of securities or of commodities of the same type lent, sold or provided under the master netting agreement;
+> (ii) the total value of a group of securities or of commodities of the same type borrowed, purchased or received under the master netting agreement;
+> (b) calculate the net position in each currency, other than the settlement currency of the master netting agre […truncated by emendrix: 2776 characters omitted…]
+
+**MODIFIED · Art. 221 — Using the internal models approach for master netting agreements** · applies from: unchanged
+
+*within* `AR 221 PA 6 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula for E* in paragraph 6 has changed formatting, with the earlier version presenting it as "E* = max0,Σi Ei – Σi Ci + potential change in value" and the later version rendering it as "E *max0,i Ei i Ci potential change in value", omitting the summation symbols and some spacing and operators. [Art. 221, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_221) [Art. 221, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_221)
+
+Aside from this formatting difference in the formula, the surrounding text of paragraph 6 and the rest of Article 221 remain the same in both versions. [Art. 221, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_221) [Art. 221, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_221)
+
+*before* (`02013R0575-20130628`)
+
+> Article 221
+> Using the internal models approach for master netting agreements
+> 1.
+> Subject to permission of competent authorities, institutions may, as an alternative to using the Supervisory Volatility Adjustments Approach or the Own Estimates Approach in calculating the fully adjusted exposure value (E*) resulting from the application of an eligible master netting agreement covering repurchase transactions, securities or commodities lending or borrowing transactions, or other capital market driven transactions other than derivative transactions, use an internal models approach which takes into account correlation effects between security positions subject to the master netting agreement as well as the liquidity of the instruments concerned.
+> 2.
+> Subject to the permission of the competent authorities, institutions may also use their internal models for margin lending transactions, where the transactions are covered under a bilateral master netting agreement that meets the requirements set out in Chapter 6, Section 7.
+> 3.
+> An institution may choose to use an internal models approach independently of the choice it has made between the Standardised Approach and the IRB Approach for the calculation of risk-weighted exposure amounts. However, where an institution seeks to use an internal models approach, it shall do so for all counterparties and securities, excluding immaterial portfolios where it may use the Supervisory Volatility Adjustments Approach or the Own Estimates Approach as l […truncated by emendrix: 6215 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 221
+> Using the internal models approach for master netting agreements
+> 1. Subject to permission of competent authorities, institutions may, as an alternative to using the Supervisory Volatility Adjustments Approach or the Own Estimates Approach in calculating the fully adjusted exposure value (E*) resulting from the application of an eligible master netting agreement covering repurchase transactions, securities or commodities lending or borrowing transactions, or other capital market driven transactions other than derivative transactions, use an internal models approach which takes into account correlation effects between security positions subject to the master netting agreement as well as the liquidity of the instruments concerned.
+> 2. Subject to the permission of the competent authorities, institutions may also use their internal models for margin lending transactions, where the transactions are covered under a bilateral master netting agreement that meets the requirements set out in Chapter 6, Section 7.
+> 3. An institution may choose to use an internal models approach independently of the choice it has made between the Standardised Approach and the IRB Approach for the calculation of risk-weighted exposure amounts. However, where an institution seeks to use an internal models approach, it shall do so for all counterparties and securities, excluding immaterial portfolios where it may use the Supervisory Volatility Adjustments Approach or the Own Estimates Approach as l […truncated by emendrix: 6184 characters omitted…]
+
+**MODIFIED · Art. 223 — Financial Collateral Comprehensive Method** · applies from: unchanged
+
+*within* `AR 223 PA 2 ALN 1`, `AR 223 PA 3 ALN 1`, `AR 223 PA 3 ALN 2`, `AR 223 PA 5 ALN 1`, `AR 223 PA 7 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20130628`)
+
+> Article 223
+> Financial Collateral Comprehensive Method
+> 1.
+> In order to take account of price volatility, institutions shall apply volatility adjustments to the market value of collateral, as set out in Articles 224 to 227, when valuing financial collateral for the purposes of the Financial Collateral Comprehensive Method.
+> Where collateral is denominated in a currency that differs from the currency in which the underlying exposure is denominated, institutions shall add an adjustment reflecting currency volatility to the volatility adjustment appropriate to the collateral as set out in Articles 224 to 227.
+> In the case of OTC derivatives transactions covered by netting agreements recognised by the competent authorities under Chapter 6, institutions shall apply a volatility adjustment reflecting currency volatility when there is a mismatch between the collateral currency and the settlement currency. Even where multiple currencies are involved in the transactions covered by the netting agreement, institutions shall apply a single volatility adjustment.
+> 2.
+> Institutions shall calculate the volatility-adjusted value of the collateral (CVA) they need to take into account as follows:CVA = C · 1 – HC – Hfx
+> where:
+>
+> C
+> the value of the collateral;
+> HC
+> the volatility adjustment appropriate to the collateral, as calculated under Articles 224 and 227;
+> Hfx
+> the volatility adjustment appropriate to currency mismatch, as calculated under Articles 224 and 227.
+> Institutions shall use the formula in th […truncated by emendrix: 2715 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 223
+> Financial Collateral Comprehensive Method
+> 1. In order to take account of price volatility, institutions shall apply volatility adjustments to the market value of collateral, as set out in Articles 224 to 227, when valuing financial collateral for the purposes of the Financial Collateral Comprehensive Method.
+> Where collateral is denominated in a currency that differs from the currency in which the underlying exposure is denominated, institutions shall add an adjustment reflecting currency volatility to the volatility adjustment appropriate to the collateral as set out in Articles 224 to 227.
+> In the case of OTC derivatives transactions covered by netting agreements recognised by the competent authorities under Chapter 6, institutions shall apply a volatility adjustment reflecting currency volatility when there is a mismatch between the collateral currency and the settlement currency. Even where multiple currencies are involved in the transactions covered by the netting agreement, institutions shall apply a single volatility adjustment.
+> 2. Institutions shall calculate the volatility-adjusted value of the collateral (CVA) they need to take into account as follows:CVA C  1  HC  Hfx
+> where:
+> C
+> the value of the collateral;
+> HC
+> the volatility adjustment appropriate to the collateral, as calculated under Articles 224 and 227;
+> Hfx
+> the volatility adjustment appropriate to currency mismatch, as calculated under Articles 224 and 227.
+> Institutions shall use the formula in this par […truncated by emendrix: 2688 characters omitted…]
+
+**MODIFIED · Art. 225 — Own estimates of volatility adjustments under the Financial Collateral Comprehensive Method** · applies from: unchanged
+
+*within* `AR 225 PA 2 ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The two versions present the same substantive rules for Article 225, including the square root of time formula in point (c) of paragraph 2, with only formatting differences such as spacing and how the formula symbols are rendered. [Art. 225, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_225) [Art. 225, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_225)
+
+The paragraph and point numbering and text throughout paragraphs 1, 2 and 3 otherwise remain the same in substance between the two texts shown. [Art. 225, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_225) [Art. 225, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_225)
+
+*before* (`02013R0575-20130628`)
+
+> Article 225
+> Own estimates of volatility adjustments under the Financial Collateral Comprehensive Method
+> 1.
+> The competent authorities shall permit institutions to use their own volatility estimates for calculating the volatility adjustments to be applied to collateral and exposures where those institutions comply with the requirements set out in paragraphs 2 and 3. Institutions which have obtained permission to use their own volatility estimates shall not revert to the use of other methods except for demonstrated good cause and subject to the permission of the competent authorities.
+> For debt securities that have a credit assessment from an ECAI equivalent to investment grade or better, institutions may calculate a volatility estimate for each category of security.
+> For debt securities that have a credit assessment from an ECAI equivalent to below investment grade, and for other eligible collateral, institutions shall calculate the volatility adjustments for each individual item.
+> Institutions using the Own Estimates Approach shall estimate volatility of the collateral or foreign exchange mismatch without taking into account any correlations between the unsecured exposure, collateral or exchange rates.
+>
+> In determining relevant categories, institutions shall take into account the type of issuer of the security, the external credit assessment of the securities, their residual maturity, and their modified duration. Volatility estimates shall be representative of the securities inclu […truncated by emendrix: 4066 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 225
+> Own estimates of volatility adjustments under the Financial Collateral Comprehensive Method
+> 1. The competent authorities shall permit institutions to use their own volatility estimates for calculating the volatility adjustments to be applied to collateral and exposures where those institutions comply with the requirements set out in paragraphs 2 and 3. Institutions which have obtained permission to use their own volatility estimates shall not revert to the use of other methods except for demonstrated good cause and subject to the permission of the competent authorities.
+> For debt securities that have a credit assessment from an ECAI equivalent to investment grade or better, institutions may calculate a volatility estimate for each category of security.
+> For debt securities that have a credit assessment from an ECAI equivalent to below investment grade, and for other eligible collateral, institutions shall calculate the volatility adjustments for each individual item.
+> Institutions using the Own Estimates Approach shall estimate volatility of the collateral or foreign exchange mismatch without taking into account any correlations between the unsecured exposure, collateral or exchange rates.
+> In determining relevant categories, institutions shall take into account the type of issuer of the security, the external credit assessment of the securities, their residual maturity, and their modified duration. Volatility estimates shall be representative of the securities includ […truncated by emendrix: 4042 characters omitted…]
+
+**MODIFIED · Art. 226 — Scaling up of volatility adjustment under the Financial Collateral Comprehensive Method** · applies from: unchanged
+
+*within* `AR 226 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The square-root-of-time formula for scaling up the volatility adjustment is rendered differently between the two texts, with the earlier version showing it with clearer mathematical notation and spacing while the later version presents the same variables run together without the formatting. [Art. 226, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_226) [Art. 226, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_226)
+
+The surrounding descriptive text and the definitions of H, HM, NR, and TM remain the same in both versions. [Art. 226, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_226) [Art. 226, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_226)
+
+*before* (`02013R0575-20130628`)
+
+> Article 226
+> Scaling up of volatility adjustment under the Financial Collateral Comprehensive Method
+> The volatility adjustments set out in Article 224 are the volatility adjustments an institution shall apply where there is daily revaluation. Similarly, where an institution uses its own estimates of the volatility adjustments in accordance with Article 225, it shall calculate them in the first instance on the basis of daily revaluation. Where the frequency of revaluation is less than daily, institutions shall apply larger volatility adjustments. Institutions shall calculate them by scaling up the daily revaluation volatility adjustments, using the following square-root-of-time formula:H = HM · NR + TM – 1TM
+> where:
+>
+> H
+> the volatility adjustment to be applied;
+> HM
+> the volatility adjustment where there is daily revaluation;
+> NR
+> the actual number of business days between revaluations;
+> TM
+> the liquidation period for the type of transaction in question.
+
+*after* (`02013R0575-20150118`)
+
+> Article 226
+> Scaling up of volatility adjustment under the Financial Collateral Comprehensive Method
+> The volatility adjustments set out in Article 224 are the volatility adjustments an institution shall apply where there is daily revaluation. Similarly, where an institution uses its own estimates of the volatility adjustments in accordance with Article 225, it shall calculate them in the first instance on the basis of daily revaluation. Where the frequency of revaluation is less than daily, institutions shall apply larger volatility adjustments. Institutions shall calculate them by scaling up the daily revaluation volatility adjustments, using the following square-root-of-time formula:HHM  NRTM  1TM
+> where:
+> H
+> the volatility adjustment to be applied;
+> HM
+> the volatility adjustment where there is daily revaluation;
+> NR
+> the actual number of business days between revaluations;
+> TM
+> the liquidation period for the type of transaction in question.
+
+**MODIFIED · Art. 228 — Calculating risk-weighted exposure amounts and expected loss amounts under the Financial Collateral Comprehensive method** · applies from: unchanged
+
+*within* `AR 228 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula for LGD* in paragraph 2 is written without the multiplication and division symbols that appeared in the earlier version, showing the terms LGD, E* and E listed together rather than expressed as LGD multiplied by the ratio of E* to E. [Art. 228, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_228) [Art. 228, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_228)
+
+The numbering style of paragraphs 1 and 2 also changed from a stand-alone numeral on its own line to a numeral followed directly by the paragraph text. [Art. 228, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_228) [Art. 228, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_228)
+
+*before* (`02013R0575-20130628`)
+
+> Article 228
+> Calculating risk-weighted exposure amounts and expected loss amounts under the Financial Collateral Comprehensive method
+> 1.
+> Under the Standardised Approach, institutions shall use E* as calculated under Article 223(5) as the exposure value for the purposes of Article 113. In the case of off-balance sheet items listed in Annex I, institutions shall use E* as the value to which the percentages indicated in Article 111(1) shall be applied to arrive at the exposure value.
+> 2.
+> Under the IRB Approach, institutions shall use the effective LGD (LGD*) as the LGD for the purposes of Chapter 3. Institutions shall calculate LGD* as follows:LGD* = LGD ·E*E
+> where:
+>
+> LGD
+> the LGD that would apply to the exposure under Chapter 3 where the exposure was not collateralised;
+>
+> E
+> the exposure value in accordance with Article 223(3);
+> E*
+> the fully adjusted exposure value in accordance with Article 223(5).
+
+*after* (`02013R0575-20150118`)
+
+> Article 228
+> Calculating risk-weighted exposure amounts and expected loss amounts under the Financial Collateral Comprehensive method
+> 1. Under the Standardised Approach, institutions shall use E* as calculated under Article 223(5) as the exposure value for the purposes of Article 113. In the case of off-balance sheet items listed in Annex I, institutions shall use E* as the value to which the percentages indicated in Article 111(1) shall be applied to arrive at the exposure value.
+> 2. Under the IRB Approach, institutions shall use the effective LGD (LGD*) as the LGD for the purposes of Chapter 3. Institutions shall calculate LGD* as follows:LGD*LGD E*E
+> where:
+> LGD
+> the LGD that would apply to the exposure under Chapter 3 where the exposure was not collateralised;
+> E
+> the exposure value in accordance with Article 223(3);
+> E*
+> the fully adjusted exposure value in accordance with Article 223(5).
+
+**MODIFIED · Art. 233 — Valuation** · applies from: unchanged
+
+*within* `AR 233 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula in paragraph 3 for the foreign-exchange adjusted credit protection amount is rendered differently between the two texts, with the earlier version showing it as a spaced-out equation with a multiplication sign and the later version presenting the same symbols run together without the multiplication sign or minus sign spacing. [Art. 233, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_233) [Art. 233, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_233)
+
+Aside from this formatting difference in the formula and the removal of blank lines between numbered paragraphs and lettered points, the wording of Article 233 is otherwise unchanged. [Art. 233, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_233) [Art. 233, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_233)
+
+*before* (`02013R0575-20130628`)
+
+> Article 233
+> Valuation
+> 1.
+> For the purpose of calculating the effects of unfunded credit protection in accordance with this Sub-section, the value of unfunded credit protection (G) shall be the amount that the protection provider has undertaken to pay in the event of the default or non-payment of the borrower or on the occurrence of other specified credit events.
+> 2.
+> In the case of credit derivatives which do not include as a credit event restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that result in a credit loss event the following shall apply:
+>
+> (a) where the amount that the protection provider has undertaken to pay is not higher than the exposure value, institutions shall reduce the value of the credit protection calculated under paragraph 1 by 40 %;
+>
+> (b) where the amount that the protection provider has undertaken to pay is higher than the exposure value, the value of the credit protection shall be no higher than 60 % of the exposure value.
+> 3.
+> Where unfunded credit protection is denominated in a currency different from that in which the exposure is denominated, institutions shall reduce the value of the credit protection by the application of a volatility adjustment as follows:G* = G · 1 – Hfx
+> where:
+>
+> G*
+> the amount of credit protection adjusted for foreign exchange risk,
+> G
+> the nominal amount of the credit protection;
+> Hfx
+> the volatility adjustment for any currency mismatch between the credit protection and the un […truncated by emendrix: 515 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 233
+> Valuation
+> 1. For the purpose of calculating the effects of unfunded credit protection in accordance with this Sub-section, the value of unfunded credit protection (G) shall be the amount that the protection provider has undertaken to pay in the event of the default or non-payment of the borrower or on the occurrence of other specified credit events.
+> 2. In the case of credit derivatives which do not include as a credit event restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that result in a credit loss event the following shall apply:
+> (a) where the amount that the protection provider has undertaken to pay is not higher than the exposure value, institutions shall reduce the value of the credit protection calculated under paragraph 1 by 40 %;
+> (b) where the amount that the protection provider has undertaken to pay is higher than the exposure value, the value of the credit protection shall be no higher than 60 % of the exposure value.
+> 3. Where unfunded credit protection is denominated in a currency different from that in which the exposure is denominated, institutions shall reduce the value of the credit protection by the application of a volatility adjustment as follows:G*G  1  Hfx
+> where:
+> G*
+> the amount of credit protection adjusted for foreign exchange risk,
+> G
+> the nominal amount of the credit protection;
+> Hfx
+> the volatility adjustment for any currency mismatch between the credit protection and the underlying […truncated by emendrix: 507 characters omitted…]
+
+**MODIFIED · Art. 235 — Calculating risk-weighted exposure amounts under the Standardised Approach** · applies from: unchanged
+
+*within* `AR 235 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula in paragraph 1 is rendered without the multiplication and subtraction symbols that appeared in the earlier version, though the same variables E, GA, r and g are listed. [Art. 235, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_235) [Art. 235, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_235)
+
+The paragraph numbering for 1, 2 and 3 is now run into the same line as the text rather than set on its own line, but the wording of paragraphs 2 and 3 is otherwise unchanged. [Art. 235, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_235) [Art. 235, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_235)
+
+*before* (`02013R0575-20130628`)
+
+> Article 235
+> Calculating risk-weighted exposure amounts under the Standardised Approach
+> 1.
+> For the purposes of Article 113(3) institutions shall calculate the risk-weighted exposure amounts in accordance with the following formula:max 0,E – GA · r + GA · g
+> where:
+>
+> E
+> the exposure value in accordance with Article 111; for this purpose, the exposure value of an off-balance sheet item listed in Annex I shall be 100 % of its value rather than the exposure value indicated in Article 111(1);
+> GA
+> the amount of credit risk protection as calculated under Article 233(3) (G*) further adjusted for any maturity mismatch as laid down in Section 5;
+> r
+> the risk weight of exposures to the obligor as specified under Chapter 2;
+> g
+> the risk weight of exposures to the protection provider as specified under Chapter 2.
+> 2.
+> Where the protected amount (GA) is less than the exposure (E), institutions may apply the formula specified in paragraph 1 only where the protected and unprotected parts of the exposure are of equal seniority.
+> 3.
+> Institutions may extend the treatment set out in Article 114(4) and (7) to exposures or parts of exposures guaranteed by the central government or central bank, where the guarantee is denominated in the domestic currency of the borrower and the exposure is funded in that currency.
+
+*after* (`02013R0575-20150118`)
+
+> Article 235
+> Calculating risk-weighted exposure amounts under the Standardised Approach
+> 1. For the purposes of Article 113(3) institutions shall calculate the risk-weighted exposure amounts in accordance with the following formula:max 0,E  GA  rGA  g
+> where:
+> E
+> the exposure value in accordance with Article 111; for this purpose, the exposure value of an off-balance sheet item listed in Annex I shall be 100 % of its value rather than the exposure value indicated in Article 111(1);
+> GA
+> the amount of credit risk protection as calculated under Article 233(3) (G*) further adjusted for any maturity mismatch as laid down in Section 5;
+> r
+> the risk weight of exposures to the obligor as specified under Chapter 2;
+> g
+> the risk weight of exposures to the protection provider as specified under Chapter 2.
+> 2. Where the protected amount (GA) is less than the exposure (E), institutions may apply the formula specified in paragraph 1 only where the protected and unprotected parts of the exposure are of equal seniority.
+> 3. Institutions may extend the treatment set out in Article 114(4) and (7) to exposures or parts of exposures guaranteed by the central government or central bank, where the guarantee is denominated in the domestic currency of the borrower and the exposure is funded in that currency.
+
+**MODIFIED · Art. 239 — Valuation of protection** · applies from: unchanged
+
+*within* `AR 239 PA 2 ALN 1`, `AR 239 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formatting of the formulas in paragraphs 2 and 3 was changed, with the earlier version's spaced-out mathematical notation replaced by a condensed run-together rendering of the same symbols. [Art. 239, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_239) [Art. 239, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_239)
+
+The numbering style of paragraphs 1 through 3 also changed from a separate line for the paragraph number to the number appearing inline with the paragraph text. [Art. 239, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_239) [Art. 239, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_239)
+
+*before* (`02013R0575-20130628`)
+
+> Article 239
+> Valuation of protection
+> 1.
+> For transactions subject to funded credit protection under the Financial Collateral Simple Method, where there is a mismatch between the maturity of the exposure and the maturity of the protection, the collateral does not qualify as eligible funded credit protection.
+> 2.
+> For transactions subject to funded credit protection under the Financial Collateral Comprehensive Method, institutions shall reflect the maturity of the credit protection and of the exposure in the adjusted value of the collateral in accordance with the following formula:CVAM = CVA · t – t*T – t*
+> where:
+>
+> CVA
+> the volatility adjusted value of the collateral as specified in Article 223(2) or the amount of the exposure, whichever is lower;
+> t
+> the number of years remaining to the maturity date of the credit protection calculated in accordance with Article 238, or the value of T, whichever is lower;
+> T
+> the number of years remaining to the maturity date of the exposure calculated in accordance with Article 238, or five years, whichever is lower;
+> t*
+> 0,25.
+> Institutions shall use CVAM as CVA further adjusted for maturity mismatch in the formula for the calculation of the fully adjusted value of the exposure (E*) set out in Article 223(5).
+> 3.
+> For transactions subject to unfunded credit protection, institutions shall reflect the maturity of the credit protection and of the exposure in the adjusted value of the credit protection in accordance with the following formula:GA = G* · t – t*T […truncated by emendrix: 544 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 239
+> Valuation of protection
+> 1. For transactions subject to funded credit protection under the Financial Collateral Simple Method, where there is a mismatch between the maturity of the exposure and the maturity of the protection, the collateral does not qualify as eligible funded credit protection.
+> 2. For transactions subject to funded credit protection under the Financial Collateral Comprehensive Method, institutions shall reflect the maturity of the credit protection and of the exposure in the adjusted value of the collateral in accordance with the following formula:CVAMCVA  t  t*T  t*
+> where:
+> CVA
+> the volatility adjusted value of the collateral as specified in Article 223(2) or the amount of the exposure, whichever is lower;
+> t
+> the number of years remaining to the maturity date of the credit protection calculated in accordance with Article 238, or the value of T, whichever is lower;
+> T
+> the number of years remaining to the maturity date of the exposure calculated in accordance with Article 238, or five years, whichever is lower;
+> t*
+> 0,25.
+> Institutions shall use CVAM as CVA further adjusted for maturity mismatch in the formula for the calculation of the fully adjusted value of the exposure (E*) set out in Article 223(5).
+> 3. For transactions subject to unfunded credit protection, institutions shall reflect the maturity of the credit protection and of the exposure in the adjusted value of the credit protection in accordance with the following formula:GAG*  t  t*T  t*
+> where: […truncated by emendrix: 529 characters omitted…]
+
+**MODIFIED · Art. 250 — Treatment of maturity mismatches in synthetic securitisations** · applies from: unchanged
+
+*within* `AR 250 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The wording of the formula for RW* under point (b) is presented differently, with the spacing and symbols of the equation reformatted rather than any of the defined terms or their meanings being altered. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_250)
+
+The surrounding text of the article, including the introductory clause and points (a) and (b), remains the same in substance between the two versions. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_250)
+
+*before* (`02013R0575-20130628`)
+
+> Article 250
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+>
+> (a) the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+>
+>
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW* = RWSP · t – t*T – t* + RWAss · T – tT – t*
+> where:
+>
+> RW*
+> risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+> RWAss
+> risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures expressed in years;
+> t
+> maturity of credit protection. expressed in years;
+> t*
+> 0,25.
+
+*after* (`02013R0575-20150118`)
+
+> Article 250
+> Treatment of maturity mismatches in synthetic securitisations
+> For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+> (a) the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+> (b) an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+> RW *RWSP  t  t*T  t*RWAss  T  tT  t*
+> where:
+> RW*
+> risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+> RWAss
+> risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+> RWSP
+> risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+> T
+> maturity of the underlying exposures expressed in years;
+> t
+> maturity of credit protection. expressed in years;
+> t*
+> 0,25.
+
+**MODIFIED · Art. 261 — Ratings Based Method** · applies from: unchanged
+
+*within* `AR 261 PA 1 ALN 7`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The two texts present the same numbering, table values and formula content for Article 261(1), differing only in formatting such as paragraph numbering style, spacing of the table rows, and the rendering of the effective-number-of-exposures formula. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_261)
+
+No wording change is visible in the risk weights, column assignments, or the credit risk mitigation cross-reference in paragraph 2 between the two versions. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_261)
+
+*before* (`02013R0575-20130628`)
+
+> Article 261
+> Ratings Based Method
+> 1.
+> Under the Ratings Based Method, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value and multiplying the result by 1,06.
+> The relevant risk weight shall be the risk weight as laid down in Table 4, with which the credit assessment of the position is associated in accordance with Section 4.
+>
+> Table 4
+>
+> Credit Quality Step
+> Securitisation Positions
+> Re-securitisation Positions
+> Credit assessments other than short term
+> Short term credit assessments
+> A
+> B
+> C
+> D
+> E
+> 1
+> 1
+> 7 %
+> 12 %
+> 20 %
+> 20 %
+> 30 %
+> 2
+>
+> 8 %
+> 15 %
+> 25 %
+> 25 %
+> 40 %
+> 3
+>
+> 10 %
+> 18 %
+> 35 %
+> 35 %
+> 50 %
+> 4
+> 2
+> 12 %
+> 20 %
+> 40 %
+> 65 %
+> 5
+>
+> 20 %
+> 35 %
+> 60 %
+> 100 %
+> 6
+>
+> 35 %
+> 50 %
+> 100 %
+> 150 %
+> 7
+> 3
+> 60 %
+> 75 %
+> 150 %
+> 225 %
+> 8
+>
+> 100 %
+> 200 %
+> 350 %
+> 9
+>
+> 250 %
+> 300 %
+> 500 %
+> 10
+>
+> 425 %
+> 500 %
+> 650 %
+> 11
+>
+> 650 %
+> 750 %
+> 850 %
+> all other and unrated
+> 1250 %
+> The weightings in column C of Table 4 shall be applied where the securitisation position is not a re-securitisation position and where the effective number of exposures securitised is less than six.
+> For the remainder of the securitisation positions that are not re-securitisation positions, the weightings in column B shall be applied unless the position is in the most senior tranche of a securitisation, in which case the weightings in column A shall be applied.
+> For re-securitisation positions the weightings in column E shall be applied unless the re-securitisation position is in t […truncated by emendrix: 938 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 261
+> Ratings Based Method
+> 1. Under the Ratings Based Method, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value and multiplying the result by 1,06.
+> The relevant risk weight shall be the risk weight as laid down in Table 4, with which the credit assessment of the position is associated in accordance with Section 4.
+> Table 4
+> Credit Quality Step Securitisation Positions Re-securitisation Positions
+> Credit assessments other than short term Short term credit assessments A B C D E
+> 1 1 7 % 12 % 20 % 20 % 30 %
+> 2 8 % 15 % 25 % 25 % 40 %
+> 3 10 % 18 % 35 % 35 % 50 %
+> 4 2 12 % 20 % 40 % 65 %
+> 5 20 % 35 % 60 % 100 %
+> 6 35 % 50 % 100 % 150 %
+> 7 3 60 % 75 % 150 % 225 %
+> 8 100 % 200 % 350 %
+> 9 250 % 300 % 500 %
+> 10 425 % 500 % 650 %
+> 11 650 % 750 % 850 %
+> all other and unrated 1250 %
+> The weightings in column C of Table 4 shall be applied where the securitisation position is not a re-securitisation position and where the effective number of exposures securitised is less than six.
+> For the remainder of the securitisation positions that are not re-securitisation positions, the weightings in column B shall be applied unless the position is in the most senior tranche of a securitisation, in which case the weightings in column A shall be applied.
+> For re-securitisation positions the weightings in column E shall be applied unless the re-securitisation position is in the most se […truncated by emendrix: 922 characters omitted…]
+
+**MODIFIED · Art. 262 — Supervisory Formula Method** · applies from: unchanged
+
+*within* `AR 262 PA 1 ALN 1`, `AR 262 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The mathematical formulas in paragraph 1's definition of S[x] and in paragraph 2's definition of N are rendered with different spacing and formatting between the two versions, though the underlying symbols and structure remain the same. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_262)
+
+The surrounding text of Article 262, including its headings, defined terms, and paragraphs 3 and 4, is otherwise unchanged. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_262)
+
+*before* (`02013R0575-20130628`)
+
+> Article 262
+> Supervisory Formula Method
+> 1.
+> Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:12.5 · SL + T – SLT
+> where:
+>
+> S[x] =
+> x,
+> when x ≤ KIRBR
+> KIRBR + Kx – KKIRBR + 1 – expω · KIRBR – xKIRBR · d · KIRBRω,
+> when x > KIRBR
+> where:h = 1 – KIRBRELGDNc = KIRBR1 – hv = ELGD – KIRBR · KIRBR + 0,25 · 1 – ELGD · KIRBRNf = v + KIRBR21 – h – c2 + 1 – KIRBR · KIRBR – ν1 – h · τg = 1 – c · cf – 1a = g · cb = g · 1 – cd = 1 – 1 – h · 1 – BetaKIRBR; a,bKx = 1 – h · 1 – Betax; a, b · x + Betax; a + 1, b · c
+>
+> τ
+> 1000;
+> ω
+> 20;
+> Beta [x; a, b]
+> the cumulative beta distribution with parameters a and b evaluated at x;
+> T
+> the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+> KIRBR
+> the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+> L
+> the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of […truncated by emendrix: 2739 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 262
+> Supervisory Formula Method
+> 1. Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:12.5  SL  T  SLT
+> where:
+> S[x] = x, when x ≤ KIRBR
+> KIRBR Kx  KKIRBR1  expω KIRBR  xKIRBR  d  KIRBRω, when x > KIRBR
+> where:h1  KIRBRELGDNcKIRBR1  hvELGD  KIRBR  KIRBR0,25  1  ELGD  KIRBRNfv  KIRBR21  h  c21  KIRBR  KIRBR  ν1  h τg1  c  cf  1ag  cbg  1  cd1  1  h  1  BetaKIRBR; a , bKx1  h  1  Betax ; a , b  xBetax ; a 1, b  c
+> τ
+> 1000;
+> ω
+> 20;
+> Beta [x; a, b]
+> the cumulative beta distribution with parameters a and b evaluated at x;
+> T
+> the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+> KIRBR
+> the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+> L
+> the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the nominal amounts of the exposures that have been securitised. Capitalised fut […truncated by emendrix: 2634 characters omitted…]
+
+**MODIFIED · Art. 276 — Standardised Method** · applies from: unchanged
+
+*within* `AR 276 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formatting of the exposure value formula in paragraph 2 has changed, with spacing and mathematical symbols rendered differently, though the underlying formula components remain the same. [Art. 276, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_276) [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_276)
+
+The numbering style of paragraphs 1, 2 and 3 has been tightened from a line-break format to an inline format, with no change to the substantive wording of the text. [Art. 276, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_276) [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_276)
+
+*before* (`02013R0575-20130628`)
+
+> Article 276
+> Standardised Method
+> 1.
+> Institutions may use the Standardised Method (hereinafter referred to as SM) only for calculating the exposure value for OTC derivatives and long settlement transactions.
+>
+> 2.
+> When applying the SM, institutions shall calculate the exposure value separately for each netting set, net of collateral, as follows:Exposure value = β · max CMV – CMC, ΣjΣiRPTij – ΣlRPClj · CCRMj
+> where:
+>
+> CMV
+> current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, where:CMV = ΣiCMVi
+> where:
+>
+> CMVi
+> the current market value of transaction i;
+> CMC
+> the current market value of the collateral assigned to the netting set, where:CMC = ΣlCMCl
+> where:
+>
+> CMCl
+> the current market value of collateral l;
+> i
+> index designating transaction;
+> l
+> index designating collateral;
+> j
+> index designating hedging set category;
+> The hedging sets for this purpose correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based.
+>
+> RPTij
+> risk position from transaction i with respect to hedging set j;
+> RPClj
+> risk position from collateral l with respect to hedging set j;
+> CCRMj
+> CCR Multiplier set out in Table 5 with respect to hedging set j;
+> β
+> 1,4.
+> 3.
+> For the purposes of the calculation under paragraph 2:
+>
+> (a) eligible collateral received from a counterparty shall have a positive sign and collateral posted to a counterparty shall have a negative sign;
+>
+>
+> (b) only coll […truncated by emendrix: 448 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 276
+> Standardised Method
+> 1. Institutions may use the Standardised Method (hereinafter referred to as SM) only for calculating the exposure value for OTC derivatives and long settlement transactions.
+> 2. When applying the SM, institutions shall calculate the exposure value separately for each netting set, net of collateral, as follows:Exposure valueβ  max CMV  CMC ,jiRPTij  lRPClj  CCRMj
+> where:
+> CMV
+> current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, where:CMViCMVi
+> where:
+> CMVi
+> the current market value of transaction i;
+> CMC
+> the current market value of the collateral assigned to the netting set, where:CMClCMCl
+> where:
+> CMCl
+> the current market value of collateral l;
+> i
+> index designating transaction;
+> l
+> index designating collateral;
+> j
+> index designating hedging set category;
+> The hedging sets for this purpose correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based.
+> RPTij
+> risk position from transaction i with respect to hedging set j;
+> RPClj
+> risk position from collateral l with respect to hedging set j;
+> CCRMj
+> CCR Multiplier set out in Table 5 with respect to hedging set j;
+> β
+> 1,4.
+> 3. For the purposes of the calculation under paragraph 2:
+> (a) eligible collateral received from a counterparty shall have a positive sign and collateral posted to a counterparty shall have a negative sign;
+> (b) only collateral that is eligible un […truncated by emendrix: 420 characters omitted…]
+
+**MODIFIED · Art. 280 — Calculation of risk positions** · applies from: unchanged
+
+*within* `AR 280 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 280 PA 2 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formatting of the mathematical expression for the delta equivalent notional value in point (a)(ii) of paragraph 1 has changed, with the multiplication symbol between the terms rendered differently. [Art. 280, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_280) [Art. 280, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_280)
+
+The summation formula at the end of paragraph 2 has likewise changed in its symbol rendering, with the summation notation appearing without the preceding sigma characters in the later text. [Art. 280, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_280) [Art. 280, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_280)
+
+*before* (`02013R0575-20130628`)
+
+> Article 280
+> Calculation of risk positions
+> 1.
+> An institution shall determine the size and sign of a risk position as follows:
+>
+> (a) for all instruments other than debt instruments:
+>
+> (i) as the effective notional value in the case of a transaction with a linear risk profile;
+>
+> (ii) as the delta equivalent notional value, pref · ∂V∂p, in the case of a transaction with a non-linear risk profile,
+>
+> where:
+>
+> Pref
+> price of the underlying instrument, expressed in the reference currency;
+> V
+> value of the financial instrument (in the case of an option, the value is the option price);
+> p
+> price of the underlying instrument, expressed in the same currency as V;
+>
+> (b) for debt instruments and the payment legs of all transactions:
+>
+> (i) as the effective notional value multiplied by the modified duration in the case of a transaction with a linear risk profile;
+>
+> (ii) as the delta equivalent in notional value multiplied by the modified duration, ∂V∂r, in the case of a transaction with a non-linear risk profile,
+> where:
+>
+> V
+> value of the financial instrument (in the case of an option this is the option price);
+> r
+> interest rate level.
+> If V is denominated in a currency other than the reference currency, the derivative shall be converted into the reference currency by multiplication with the relevant exchange rate.
+> 2.
+> Institutions shall group the risk positions into hedging sets. The absolute value amount of the sum of the resulting risk positions shall be calculated for each hedging set. The net risk position […truncated by emendrix: 128 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 280
+> Calculation of risk positions
+> 1. An institution shall determine the size and sign of a risk position as follows:
+> (a) for all instruments other than debt instruments:
+> (i) as the effective notional value in the case of a transaction with a linear risk profile;
+> (ii) as the delta equivalent notional value, pref  ∂V∂p, in the case of a transaction with a non-linear risk profile,
+> where:
+> Pref
+> price of the underlying instrument, expressed in the reference currency;
+> V
+> value of the financial instrument (in the case of an option, the value is the option price);
+> p
+> price of the underlying instrument, expressed in the same currency as V;
+> (b) for debt instruments and the payment legs of all transactions:
+> (i) as the effective notional value multiplied by the modified duration in the case of a transaction with a linear risk profile;
+> (ii) as the delta equivalent in notional value multiplied by the modified duration, ∂V∂r, in the case of a transaction with a non-linear risk profile,
+> where:
+> V
+> value of the financial instrument (in the case of an option this is the option price);
+> r
+> interest rate level.
+> If V is denominated in a currency other than the reference currency, the derivative shall be converted into the reference currency by multiplication with the relevant exchange rate.
+> 2. Institutions shall group the risk positions into hedging sets. The absolute value amount of the sum of the resulting risk positions shall be calculated for each hedging set. The net risk position shall be […truncated by emendrix: 115 characters omitted…]
+
+**MODIFIED · Art. 284 — Exposure value** · applies from: unchanged
+
+*within* `AR 284 PA 5 ALN 1`, `AR 284 PA 6 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formulas in paragraphs 5 and 6 for calculating Effective EE and Effective EPE appear with altered spacing and formatting, such as the removal of subscript and summation notation markers, without any change to the surrounding words. [Art. 284, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_284) [Art. 284, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_284)
+
+The numbering style of paragraphs throughout the article changes from a numeral on its own line followed by text to a numeral followed directly by the paragraph text on the same line. [Art. 284, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_284) [Art. 284, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_284)
+
+*before* (`02013R0575-20130628`)
+
+> Article 284
+> Exposure value
+> 1.
+> Where an institution is permitted, in accordance with Article 283(1), to use the IMM to calculate the exposure value of some or all transactions mentioned in that paragraph, it shall measure the exposure value of those transactions at the level of the netting set.
+> The model used by the institution for that purpose shall:
+>
+> (a) specify the forecasting distribution for changes in the market value of the netting set attributable to joint changes in relevant market variables, such as interest rates, foreign exchange rates;
+>
+> (b) calculate the exposure value for the netting set at each of the future dates on the basis of the joint changes in the market variables.
+> 2.
+> In order for the model to capture the effects of margining, the model of the collateral value shall meet the quantitative, qualitative and data requirements for the IMM in accordance with this Section and the institution may include in its forecasting distributions for changes in the market value of the netting set only eligible financial collateral as referred to in Articles 197 and 198 and points (c) and (d) of Article 299(2).
+> 3.
+> The own funds requirement for counterparty credit risk with respect to the CCR exposures to which an institution applies the IMM, shall be the higher of the following:
+>
+> (a) the own funds requirement for those exposures calculated on the basis of Effective EPE using current market data;
+>
+> (b) the own funds requirement for those exposures calculated on the basis of E […truncated by emendrix: 3892 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 284
+> Exposure value
+> 1. Where an institution is permitted, in accordance with Article 283(1), to use the IMM to calculate the exposure value of some or all transactions mentioned in that paragraph, it shall measure the exposure value of those transactions at the level of the netting set.
+> The model used by the institution for that purpose shall:
+> (a) specify the forecasting distribution for changes in the market value of the netting set attributable to joint changes in relevant market variables, such as interest rates, foreign exchange rates;
+> (b) calculate the exposure value for the netting set at each of the future dates on the basis of the joint changes in the market variables.
+> 2. In order for the model to capture the effects of margining, the model of the collateral value shall meet the quantitative, qualitative and data requirements for the IMM in accordance with this Section and the institution may include in its forecasting distributions for changes in the market value of the netting set only eligible financial collateral as referred to in Articles 197 and 198 and points (c) and (d) of Article 299(2).
+> 3. The own funds requirement for counterparty credit risk with respect to the CCR exposures to which an institution applies the IMM, shall be the higher of the following:
+> (a) the own funds requirement for those exposures calculated on the basis of Effective EPE using current market data;
+> (b) the own funds requirement for those exposures calculated on the basis of Effec […truncated by emendrix: 3872 characters omitted…]
+
+**MODIFIED · Art. 298 — Effects of recognition of netting as risk-reducing** · applies from: unchanged
+
+*within* `AR 298 PA 1 ALN 1 PTA (c) PTI (ii)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula shown for the reduced potential future credit exposure under point (c)(ii) is rendered with spacing and symbols altered, collapsing the earlier spaced-out equation into a compressed run of characters, while the same variables PCEred, PCEgross and NGR are still defined immediately below it. [Art. 298, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_298) [Art. 298, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_298)
+
+Aside from this formatting change to the formula's presentation, the wording of the surrounding provisions in paragraphs 1 through 4, including Table 6, remains the same between the two texts. [Art. 298, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_298) [Art. 298, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_298)
+
+*before* (`02013R0575-20130628`)
+
+> Article 298
+> Effects of recognition of netting as risk-reducing
+> 1.
+> The following treatment applies to contractual netting agreements:
+>
+> (a) netting for the purposes of Sections 5 and 6 shall be recognised as set out in those Sections;
+>
+> (b) in the case of contracts for novation, the single net amounts fixed by such contracts rather than the gross amounts involved, may be weighted.
+> In the application of Section 3, institutions may take the contract for novation into account when determining:
+>
+> (i) the current replacement cost referred to in Article 274(1);
+>
+> (ii) the notional principal amounts or underlying values referred to in Article 274(2).
+> In the application of Section 4, in determining the notional amount referred to in Article 275(1) institutions may take into account the contract for novation for the purposes of calculating the notional principal amount In such cases, institutions shall apply the percentages of Table 3.
+>
+> (c) In the case of other netting agreements, institutions shall apply Section 3 as follows:
+>
+> (i) the current replacement cost referred to in Article 274(1) for the contracts included in a netting agreement shall be obtained by taking account of the actual hypothetical net replacement cost which results from the agreement; in the case where netting leads to a net obligation for the institution calculating the net replacement cost, the current replacement cost is calculated as 0;
+>
+> (ii) the figure for potential future credit exposure referred to in Article 274 […truncated by emendrix: 2356 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 298
+> Effects of recognition of netting as risk-reducing
+> 1. The following treatment applies to contractual netting agreements:
+> (a) netting for the purposes of Sections 5 and 6 shall be recognised as set out in those Sections;
+> (b) in the case of contracts for novation, the single net amounts fixed by such contracts rather than the gross amounts involved, may be weighted.
+> In the application of Section 3, institutions may take the contract for novation into account when determining:
+> (i) the current replacement cost referred to in Article 274(1);
+> (ii) the notional principal amounts or underlying values referred to in Article 274(2).
+> In the application of Section 4, in determining the notional amount referred to in Article 275(1) institutions may take into account the contract for novation for the purposes of calculating the notional principal amount In such cases, institutions shall apply the percentages of Table 3.
+> (c) In the case of other netting agreements, institutions shall apply Section 3 as follows:
+> (i) the current replacement cost referred to in Article 274(1) for the contracts included in a netting agreement shall be obtained by taking account of the actual hypothetical net replacement cost which results from the agreement; in the case where netting leads to a net obligation for the institution calculating the net replacement cost, the current replacement cost is calculated as 0;
+> (ii) the figure for potential future credit exposure referred to in Article 274(2) for […truncated by emendrix: 2335 characters omitted…]
+
+**MODIFIED · Art. 308 — Own funds requirements for pre-funded contributions to the default fund of a QCCP** · applies from: unchanged
+
+*within* `AR 308 PA 2 ALN 1`, `AR 308 PA 3 ALN 1`, `AR 308 PA 3 ALN 1 PTA (a)`, `AR 308 PA 3 ALN 1 PTA (b)`, `AR 308 PA 3 ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formulas in paragraphs 2 and 3 are presented with different spacing and formatting between the summation and multiplication symbols and the variable names, but the same variables, terms, and mathematical structure appear in both versions. [Art. 308, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_308) [Art. 308, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_308)
+
+The numbered paragraph markers in the before text appear on their own line while in the after text they are followed immediately by the paragraph's text on the same line, a purely formatting difference. [Art. 308, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_308) [Art. 308, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_308)
+
+*before* (`02013R0575-20130628`)
+
+> Article 308
+> Own funds requirements for pre-funded contributions to the default fund of a QCCP
+> 1.
+> The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.
+> 2.
+> An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki = 1 + β · NN – 2 · DFiDFCM · KCM
+> where:
+>
+> β
+> the concentration factor communicated to the institution by the CCP;
+> N
+> the number of clearing members communicated to the institution by the CCP;
+> DFCM
+> the sum of pre-funded contributions of all clearing members of the CCP ΣiDFicommunicated to the institution by the CCP;
+> KCM
+> the sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 ΣiKi.
+> 3.
+> An institution shall calculate KCM as follows:
+>
+> (a) where KCCP ≤ DFCCP, the institution shall use the following formula:
+> KCM = c1 · DFCM*;
+>
+> (b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:
+> KCM = c2 · KCCP – DFCCP + c1 · DF* – KCCP;
+>
+> (c) where DF* < KCCP, the institution shall use the following formula:
+> KCM = c2 · μ · KCCP – DF* + c2 · DFCM*
+> where:
+>
+> DFCCP
+> the pre-funded financial resources of the […truncated by emendrix: 770 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 308
+> Own funds requirements for pre-funded contributions to the default fund of a QCCP
+> 1. The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.
+> 2. An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:Ki1β  NN  2  DFiDFCM  KCM
+> where:
+> β
+> the concentration factor communicated to the institution by the CCP;
+> N
+> the number of clearing members communicated to the institution by the CCP;
+> DFCM
+> the sum of pre-funded contributions of all clearing members of the CCP iDFicommunicated to the institution by the CCP;
+> KCM
+> the sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 iKi.
+> 3. An institution shall calculate KCM as follows:
+> (a) where KCCP ≤ DFCCP, the institution shall use the following formula:
+> KCMc1  DFCM*;
+> (b) where DFCCP < KCCP ≤DF*, the institution shall use the following formula:
+> KCMc2  KCCP  DFCCPc1  DF *  KCCP;
+> (c) where DF* < KCCP, the institution shall use the following formula:
+> KCMc2  μ  KCCP  DF *c2  DFCM*
+> where:
+> DFCCP
+> the pre-funded financial resources of the CCP communicated to the institution by […truncated by emendrix: 725 characters omitted…]
+
+**MODIFIED · Art. 309 — Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP** · applies from: unchanged
+
+*within* `AR 309 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formatting of paragraph 1 changed from a numbered, line-broken layout to a single continuous paragraph, and the formula expression lost its explicit mathematical operators and equals sign, appearing instead as a run-together sequence of symbols. [Art. 309, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_309) [Art. 309, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_309)
+
+Paragraphs 2 and 3 otherwise retain the same wording in both versions, differing only in the removal of line breaks after the paragraph numbers. [Art. 309, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_309) [Art. 309, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_309)
+
+*before* (`02013R0575-20130628`)
+
+> Article 309
+> Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+> 1.
+> An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Ki = c2 · μ · DFi + UCi
+> where c2·and μ are defined as in Article 308(3).
+>
+> 2.
+> For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.
+> 3.
+> An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.
+
+*after* (`02013R0575-20150118`)
+
+> Article 309
+> Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+> 1. An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:Kic2  μ  DFi UCi
+> where c2·and μ are defined as in Article 308(3).
+> 2. For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.
+> 3. An institution shall calculate the risk-weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.
+
+**MODIFIED · Art. 310 — Alternative calculation of own funds requirement for exposures to a QCCP** · applies from: unchanged
+
+*within* `AR 310 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formula for calculating the own funds requirement Ki has had its mathematical operators and equals sign removed, so the sequence of terms 8%, min, 2%, TEi, 1250%, DFi and 20% TEi now appears run together without the multiplication and equality symbols shown in the earlier text. [Art. 310, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_310) [Art. 310, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_310)
+
+*before* (`02013R0575-20130628`)
+
+> Article 310
+> Alternative calculation of own funds requirement for exposures to a QCCP
+> An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its trade exposures and the trade exposures of its clients (TEi) and pre-funded contributions (DFi) to the default fund of a QCCP:Ki = 8% · min2% · TEi + 1250% · DFi;20% · TEi
+
+*after* (`02013R0575-20150118`)
+
+> Article 310
+> Alternative calculation of own funds requirement for exposures to a QCCP
+> An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its trade exposures and the trade exposures of its clients (TEi) and pre-funded contributions (DFi) to the default fund of a QCCP:Ki8%  min2%  TEi1250%  DFi;20%  TEi
+
+**MODIFIED · Art. 340 — Duration-based calculation of general risk** · applies from: unchanged
+
+*within* `AR 340 PA 3 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formatting of the modified duration and duration formulas in paragraph 3 has changed, with the mathematical notation rendered differently and without the spacing and symbols used in the earlier version. [Art. 340, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_340) [Art. 340, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_340)
+
+The numbered paragraph markers throughout the article now appear on the same line as the paragraph text rather than on a separate line, but the substantive wording of paragraphs 1, 2, 4, 5, 6 and 7 is otherwise unchanged. [Art. 340, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_340) [Art. 340, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_340)
+
+*before* (`02013R0575-20130628`)
+
+> Article 340
+> Duration-based calculation of general risk
+> 1.
+> Institutions may use an approach for calculating the own funds requirement for the general risk on debt instruments which reflects duration, instead of the approach set out in Article 339, provided that the institution does so on a consistent basis.
+> 2.
+> Under the duration-based approach referred to in paragraph 1, the institution shall take the market value of each fixed-rate debt instrument and hence calculate its yield to maturity, which is implied discount rate for that instrument. In the case of floating-rate instruments, the institution shall take the market value of each instrument and hence calculate its yield on the assumption that the principal is due when the interest rate can next be changed.
+> 3.
+> The institution shall then calculate the modified duration of each debt instrument on the basis of the following formula:modified duration = D1 + R
+> where:
+>
+> D
+> duration calculated according to the following formula:D = Σt=1Mt · Ct1 + RtΣt=1MCt1 + Rt
+> where:
+>
+> R
+> yield to maturity;
+> Ct
+> cash payment in time t;
+> M
+> total maturity.
+> Correction shall be made to the calculation of the modified duration for debt instruments which are subject to prepayment risk. EBA shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines about how to apply such corrections.
+>
+> 4.
+> The institution shall then allocate each debt instrument to the appropriate zone in Table 3. It shall do so on the basis of the modified duration […truncated by emendrix: 1303 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 340
+> Duration-based calculation of general risk
+> 1. Institutions may use an approach for calculating the own funds requirement for the general risk on debt instruments which reflects duration, instead of the approach set out in Article 339, provided that the institution does so on a consistent basis.
+> 2. Under the duration-based approach referred to in paragraph 1, the institution shall take the market value of each fixed-rate debt instrument and hence calculate its yield to maturity, which is implied discount rate for that instrument. In the case of floating-rate instruments, the institution shall take the market value of each instrument and hence calculate its yield on the assumption that the principal is due when the interest rate can next be changed.
+> 3. The institution shall then calculate the modified duration of each debt instrument on the basis of the following formula:modified durationD1  R
+> where:
+> D
+> duration calculated according to the following formula:DMt1t  Ct1  RtMt1Ct1 Rt
+> where:
+> R
+> yield to maturity;
+> Ct
+> cash payment in time t;
+> M
+> total maturity.
+> Correction shall be made to the calculation of the modified duration for debt instruments which are subject to prepayment risk. EBA shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines about how to apply such corrections.
+> 4. The institution shall then allocate each debt instrument to the appropriate zone in Table 3. It shall do so on the basis of the modified duration of each instrumen […truncated by emendrix: 1279 characters omitted…]
+
+**MODIFIED · Art. 383 — Advanced method** · applies from: unchanged
+
+*within* `AR 383 PA 1 ALN 3`, `AR 383 PA 2 ALN 1 PTA (b)`, `AR 383 PA 2 ALN 1 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The formulae in paragraphs 1 and 2 for calculating own funds requirements for CVA risk have been reformatted, with mathematical symbols and operators rendered differently, though the underlying variables and structure described in the surrounding text remain the same. [Art. 383, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_383) [Art. 383, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_383)
+
+The paragraph numbering style throughout Article 383 was changed so that numbered paragraphs no longer begin on a separate line but run directly into the following text. [Art. 383, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_383) [Art. 383, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_383)
+
+*before* (`02013R0575-20130628`)
+
+> Article 383
+> Advanced method
+> 1.
+> An institution which has permission to use an internal model for the specific risk of debt instruments in accordance with point (d) of Article 363 (1) shall, for all transactions for which it has permission to use the IMM for determining the exposure value for the associated counterparty credit risk exposure in accordance with Article 283, determine the own funds requirements for CVA risk by modelling the impact of changes in the counterparties' credit spreads on the CVAs of all counterparties of those transactions, taking into account CVA hedges that are eligible in accordance with Article 386.
+> An institution shall use its internal model for determining the own funds requirements for the specific risk associated with traded debt positions and shall apply a 99 % confidence interval and a 10-day equivalent holding period. The internal model shall be used in such way that it simulates changes in the credit spreads of counterparties, but does not model the sensitivity of CVA to changes in other market factors, including changes in the value of the reference asset, commodity, currency or interest rate of a derivative.
+> The own funds requirements for CVA risk for each counterparty shall be calculated in accordance with the following formula:CVA = LGDMKT · Σi=1T max 0,exp– si – 1 · ti – 1LGDMKT – exp– si · tiLGDMKT · EEi – 1 · Di – 1 + EEi · Di2
+> where:
+>
+> ti
+> the time of the i-th revaluation, starting from t0=0;
+> tT
+> the longest contractual maturity across […truncated by emendrix: 7328 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 383
+> Advanced method
+> 1. An institution which has permission to use an internal model for the specific risk of debt instruments in accordance with point (d) of Article 363 (1) shall, for all transactions for which it has permission to use the IMM for determining the exposure value for the associated counterparty credit risk exposure in accordance with Article 283, determine the own funds requirements for CVA risk by modelling the impact of changes in the counterparties' credit spreads on the CVAs of all counterparties of those transactions, taking into account CVA hedges that are eligible in accordance with Article 386.
+> An institution shall use its internal model for determining the own funds requirements for the specific risk associated with traded debt positions and shall apply a 99 % confidence interval and a 10-day equivalent holding period. The internal model shall be used in such way that it simulates changes in the credit spreads of counterparties, but does not model the sensitivity of CVA to changes in other market factors, including changes in the value of the reference asset, commodity, currency or interest rate of a derivative.
+> The own funds requirements for CVA risk for each counterparty shall be calculated in accordance with the following formula:CVALGDMKT  Ti1 max 0,expsi  1  ti  1LGDMKT  expsi  tiLGDMKT  EEi  1  Di  1 EEi  Di2
+> where:
+> ti
+> the time of the i-th revaluation, starting from t0=0;
+> tT
+> the longest contractual maturity across the netting sets with t […truncated by emendrix: 7225 characters omitted…]
+
+**MODIFIED · Art. 384 — Standardised method** · applies from: unchanged
+
+*within* `AR 384 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The discounting factor formulas for the notional amounts Bi and Bind now use maturity variables labelled Mihedge and Miind respectively, whereas the earlier text used Mi in both of those discounting factor expressions. [Art. 384, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_384) [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_384)
+
+The rest of the formatting in Article 384(1)(1) differs only in spacing and layout of the formula and defined terms, without other substantive wording changes visible in the texts shown. [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_384)
+
+*before* (`02013R0575-20130628`)
+
+> Article 384
+> Standardised method
+> 1.
+> An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K = 2.33 · h · Σi 0.5 · wi · Mi · EADitotal – MihedgeBi – Σind wind · Mind · Bind2 + Σi 0.75 · wi2 · Mi · EADitotal – MihedgeBi2
+> where:
+>
+> h
+> the one-year risk horizon (in units of a year); h = 1;
+> wi
+> the weight applicable to counterparty i.
+> Counterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:
+>
+> (a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;
+>
+> (b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;
+> EADitotal
+> the total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the cal […truncated by emendrix: 2526 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 384
+> Standardised method
+> 1. An institution which does not calculate the own funds requirements for CVA risk for its counterparties in accordance with Article 383 shall calculate a portfolio own funds requirements for CVA risk for each counterparty in accordance with the following formula, taking into account CVA hedges that are eligible in accordance with Article 386:K2.33  h  i 0.5  wi  Mi  EADitotal  MihedgeBi  ind wind  Mind Bind2 i 0.75  wi2  Mi  EADitotal  MihedgeBi2
+> where:
+> h
+> the one-year risk horizon (in units of a year); h = 1;
+> wi
+> the weight applicable to counterparty i.
+> Counterparty i shall be mapped to one of the six weights wi based on an external credit assessment by a nominated ECAI, as set out in Table 1. For a counterparty for which a credit assessment by a nominated ECAI is not available:
+> (a) an institution using the approach in Title II, Chapter 3 shall map the internal rating of the counterparty to one of the external credit assessment;
+> (b) an institution using the approach in Title II, Chapter 2 shall assign wi=1,0 % to this counterparty. However, if an institution uses Article 128 to risk weight counterparty credit risk exposures to this counterparty, wi=3,0 % shall be assigned;
+> EADitotal
+> the total counterparty credit risk exposure value of counterparty i (summed across its netting sets) including the effect of collateral in accordance with the methods set out in Sections 3 to 6 of Title II, Chapter 6 as applicable to the calculation of the own funds […truncated by emendrix: 2502 characters omitted…]
+
+**MODIFIED · Art. 429 — Calculation of the leverage ratio** · applies from: unchanged
+
+*within* `AR 429 PA 1 ALN 1`, `AR 429 PA 2 ALN 2`, `AR 429 PA 4 ALN 1`, `AR 429 PA 4 ALN 1 PTA (a)`, `AR 429 PA 4 ALN 1 PTA (b)`, `AR 429 PA 4 ALN 1 PTA (c)`, `AR 429 PA 4 ALN 1 PTA (d)`, `AR 429 PA 4 ALN 2`, `AR 429 PA 5 ALN 1`, `AR 429 PA 5 ALN 1 PTA (a)`, `AR 429 PA 5 ALN 1 PTA (c)`, `AR 429 PA 5 ALN 1 PTA (d)`, `AR 429 PA 6 ALN 1`, `AR 429 PA 6 ALN 2`, `AR 429 PA 7 ALN 1`, `AR 429 PA 8 ALN 1`, `AR 429 PA 8 ALN 1 PTA (a)`, `AR 429 PA 8 ALN 1 PTA (b)`, `AR 429 PA 8 ALN 1 PTA (c)`, `AR 429 PA 8 ALN 2`, `AR 429 PA 9 ALN 1`, `AR 429 PA 10 ALN 1`, `AR 429 PA 10 ALN 1 PTA (a)`, `AR 429 PA 10 ALN 1 PTA (b)`, `AR 429 PA 10 ALN 1 PTA (c)`, `AR 429 PA 10 ALN 1 PTA (d)`, `AR 429 PA 10 ALN 2`, `AR 429 PA 11 ALN 1`, `AR 429 PA 11 ALN 1 PTA (a)`, `AR 429 PA 11 ALN 1 PTA (b)`, `AR 429 PA 11 ALN 1 PTA (c)`, `AR 429 PA 11 ALN 1 PTA (d)`, `AR 429 PA 11 ALN 1 PTA (e)`, `AR 429 PA 11 ALN 1 PTA (f)`, `AR 429 PA 12`, `AR 429 PA 13`, `AR 429 PA 14` · *amended by* `32015R0062`
+
+The methodology reference in paragraph 1 now extends to paragraphs 2 to 13 rather than 2 to 11, and the number of substantive paragraphs in the article has increased, adding provisions such as paragraph 12 on guarantees for clients clearing through a QCCP and paragraph 14 on excluding certain public sector entity exposures. [Art. 429, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_429) [Art. 429, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429)
+
+The calculation instruction in paragraph 2 changed from computing the leverage ratio as a simple arithmetic mean of monthly leverage ratios over a quarter to calculating it at the reporting reference date, and the total exposure measure definition in paragraph 4 was restructured into a list of components covering assets, derivatives, counterparty credit risk add-ons under Article 429b, and off-balance sheet items instead of the prior single sum-based description. [Art. 429, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_429) [Art. 429, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429)
+
+The rules for exposure values of derivatives, off-balance sheet items, and repurchase-type transactions were reworded and relocated, including new netting conditions in paragraph 8, a cross-reference to Article 429a for derivatives in paragraph 9, and revised conversion factor treatment in paragraph 10, replacing the earlier detailed conversion-factor table and the separate significant investment calculation formerly in paragraph 4. [Art. 429, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_429) [Art. 429, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429)
+
+*before* (`02013R0575-20130628`)
+
+> Article 429
+> Calculation of the leverage ratio
+> 1.
+> Institutions shall calculate their leverage ratio in accordance with the methodology set out in paragraphs 2 to 11.
+>
+> 2.
+> The leverage ratio shall be calculated as an institution's capital measure divided by that institution's total exposure measure and shall be expressed as a percentage.
+> Institutions shall calculate the leverage ratio as the simple arithmetic mean of the monthly leverage ratios over a quarter.
+> 3.
+> For the purposes of paragraph 2, the capital measure shall be the Tier 1 capital.
+> 4.
+> The total exposure measure is the sum of the exposure values of all assets and off-balance sheet items not deducted when determining the capital measure referred to in paragraph 3.
+> Where institutions include a financial sector entity in which they hold a significant investment in accordance with Article 43 in their consolidation according to the applicable accounting framework, but not in their prudential consolidation in accordance with Chapter 2 of Title II of Part One, they shall determine the exposure value for the significant investment not in accordance with point (a) of paragraph 5 of this Article but as the amount that is obtained by multiplying the amount defined in point (a) of this subparagraph with the factor defined in point (b) of this subparagraph:
+>
+> (a) the sum of the exposure values of all exposures of the financial sector entity in which the significant investment is held;
+>
+> (b) for all direct, indirect and synthetic hol […truncated by emendrix: 3898 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 429
+> Calculation of the leverage ratio
+> 1. Institutions shall calculate their leverage ratio in accordance with the methodology set out in paragraphs 2 to 13.
+> 2. The leverage ratio shall be calculated as an institution's capital measure divided by that institution's total exposure measure and shall be expressed as a percentage.
+> Institutions shall calculate the leverage ratio at the reporting reference date.
+> 3. For the purposes of paragraph 2, the capital measure shall be the Tier 1 capital.
+> 4. The total exposure measure shall be the sum of the exposure values of:
+> (a) assets referred to in paragraph 5 unless they are deducted when determining the capital measure referred to in paragraph 3;
+> (b) derivatives referred to in paragraph 9;
+> (c) add-ons for counterparty credit risk of repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions including those that are off-balance sheet referred to in Article 429b;
+> (d) off-balance sheet items referred to in paragraph 10.
+> 5. Institutions shall determine the exposure value of assets, excluding contracts listed in Annex II and credit derivatives, in accordance with the following principles:
+> (a) the exposure values of assets means exposure values in accordance with the first sentence of Article 111(1);
+> (b) physical or financial collateral, guarantees or credit risk mitigation purchased shall not be used to reduce exposure values of assets;
+> (c) loans […truncated by emendrix: 4757 characters omitted…]
+
+**INSERTED · Art. 429a — Exposure value of derivatives** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32018R0405`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED
+
+This is a newly inserted provision setting out how institutions determine the exposure value of derivative contracts and credit derivatives, including rules on netting, variation margin treatment, and written and purchased credit derivatives. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429a)
+
+It also permits, as a derogation, use of an alternative method for certain contracts under specified conditions, and specifies related limits on reducing the exposure measure by cash variation margin received. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429a)
+
+*after* (`02013R0575-20150118`)
+
+> Article 429a
+> Exposure value of derivatives
+> 1. Institutions shall determine the exposure value of contracts listed in Annex II and of credit derivatives, including those that are off-balance sheet, in accordance with the method set out in Article 274. Institutions shall apply Article 299(2)(a) for the determination of the potential future credit exposure for credit derivatives.
+> When determining the potential future credit exposure of credit derivatives, institutions shall apply the principles laid down in Article 299(2)(a) to all their credit derivatives, not only those assigned to the trading book.
+> In determining the exposure value, institutions may take into account the effects of contracts for novation and other netting agreements in accordance with Article 295. Cross-product netting shall not apply. However, institutions may net within the product category referred to in point (25)(c) of Article 272 and credit derivatives when they are subject to a contractual cross-product netting agreement referred to in Article 295(c).
+> 2. Where the provision of collateral related to derivatives contracts reduces the amount of assets under the applicable accounting framework, institutions shall reverse that reduction.
+> 3. For the purposes of paragraph 1, institutions may deduct variation margin received in cash from the counterparty from the current replacement cost portion of the exposure value in so far as under the applicable accounting framework the variation margin has not already be […truncated by emendrix: 5742 characters omitted…]
+
+**INSERTED · Art. 429b — Counterparty credit risk add-on for repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32018R0405`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED
+
+Article 429b is a new provision setting out a counterparty credit risk add-on that institutions must include in the exposure measure for repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions, including off-balance sheet versions of these. [Art. 429b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429b)
+
+It lays down separate formulas for calculating the add-on on a transaction-by-transaction basis for counterparties not covered by a qualifying master netting agreement, and on an agreement-by-agreement basis for those that are, and it allows use of the method in Article 222 with a 20% risk-weight floor as an alternative in specified circumstances. [Art. 429b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429b)
+
+It also addresses reversal of sale-accounting entries for repurchase transactions and sets rules for how an institution acting as agent between two parties treats such transactions in the exposure measure depending on whether it provides an indemnity or guarantee or bears economic exposure beyond the add-on. [Art. 429b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_429b)
+
+*after* (`02013R0575-20150118`)
+
+> Article 429b
+> Counterparty credit risk add-on for repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions
+> 1. In addition to the exposure value of repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions including those that are off-balance sheet in accordance with Article 429(5), institutions shall include in the exposure measure an add-on for counterparty credit risk determined in accordance to paragraph 2 or 3 of this Article, as applicable.
+> 2. For the purposes of paragraph 1, for transactions with a counterparty which are not subject to a master netting agreement that meets the conditions laid down in Article 206 the add-on (Ei*)shall be determined on a transaction-by-transaction basis in accordance with the following formula:E*imax0, EiCi
+> where:
+> Ei is the fair value of securities or cash lent to the counterparty under transaction i;
+> Ci is the fair value of cash or securities received from the counterparty under transaction i.
+> 3. For the purposes of paragraph 1, for transactions with a counterparty that are subject to a master netting agreement that meets the conditions laid down in Article 206, the add-on for those transactions (Ei*) shall be determined on an agreement-by-agreement basis in accordance with the following formula:E*imax0, iEiiCi
+> where:
+> Ei is the fair value of securities or cash le […truncated by emendrix: 2009 characters omitted…]
+
+**MODIFIED · Art. 497 — Own funds requirements for exposures to CCPs** · applies from: unchanged
+
+*within* `AR 497 PA 4 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20130628`)
+
+> Article 497
+> Own funds requirements for exposures to CCPs
+> 1.
+> Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 14 of that Regulation on the authorisation of the CCP, whichever is earlier, an institution may consider that CCP to be a QCCP, provided that the CCP was authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards in Articles 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 of that Regulation have been adopted.
+> 2.
+> Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 25 of that Regulation on the recognition of the CCP established in a third country, whichever is earlier, an institution may consider that CCP to be a QCCP,
+> 3.
+> The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011 extending the transitional provisions in paragraphs 1 and 2 of this Article by a further six months, in exceptional circumstances where it is necessary and proportionate to avoid disruption to international financial markets.
+> 4.
+> Until th […truncated by emendrix: 649 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 497
+> Own funds requirements for exposures to CCPs
+> 1. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 14 of that Regulation on the authorisation of the CCP, whichever is earlier, an institution may consider that CCP to be a QCCP, provided that the CCP was authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards in Articles 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 of that Regulation have been adopted.
+> 2. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 25 of that Regulation on the recognition of the CCP established in a third country, whichever is earlier, an institution may consider that CCP to be a QCCP,
+> 3. The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011 extending the transitional provisions in paragraphs 1 and 2 of this Article by a further six months, in exceptional circumstances where it is necessary and proportionate to avoid disruption to international financial markets.
+> 4. Until th […truncated by emendrix: 638 characters omitted…]
+
+**MODIFIED · Art. 520 — Amendment of Regulation (EU) No 648/2012** · applies from: unchanged
+
+*within* `AR 520 ALN 1 PO 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The wording of the inserted Chapter 4 provisions is unchanged in substance, with the only visible differences being formatting adjustments such as removal of spacing, line breaks and some mathematical operator symbols within the KCCP, PCEred and DF formulas. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
+
+The surrounding legal text of Article 50a to 50d and the amendments to Article 11(15) and Article 89(5a) of Regulation (EU) No 648/2012 remain identical in both versions. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
+
+*before* (`02013R0575-20130628`)
+
+> Article 520
+> Amendment of Regulation (EU) No 648/2012
+> Regulation (EU) No 648/2012 is amended as follows:
+>
+> (1) the following Chapter is added in Title IV:
+>
+>
+> CHAPTER 4
+> Calculations and reporting for the purposes of Regulation (EU) No 575/2013
+> Article 50a
+> Calculation of KCCP
+> 1.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+>
+> 2.
+> A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · captial ratio
+> where:
+>
+> EBRMi
+> exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted to the CCP by clearing member i;
+> DFi
+> the pre-funded contribution of clearing member i;
+> RW
+> a risk weight of 20 %;
+> capital ratio
+> 8 %.
+> All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+> 3.
+> A CCP shall undertake the calculation required by para […truncated by emendrix: 9964 characters omitted…]
+
+*after* (`02013R0575-20150118`)
+
+> Article 520
+> Amendment of Regulation (EU) No 648/2012
+> Regulation (EU) No 648/2012 is amended as follows:
+> (1) the following Chapter is added in Title IV:
+> CHAPTER 4
+> Calculations and reporting for the purposes of Regulation (EU) No 575/2013
+> Article 50a
+> Calculation of KCCP
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  captial ratio
+> where:
+> EBRMi
+> exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+> IMi
+> the initial margin posted to the CCP by clearing member i;
+> DFi
+> the pre-funded contribution of clearing member i;
+> RW
+> a risk weight of 20 %;
+> capital ratio
+> 8 %.
+> All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+> 3. A CCP shall undertake the calculation required by paragraph 2 at lea […truncated by emendrix: 9890 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20150118 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20130628 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `32013R0575` → `02013R0575-20130628`
