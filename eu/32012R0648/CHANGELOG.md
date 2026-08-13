@@ -10,6 +10,169 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210211 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20200618` → `02012R0648-20210211`
+
+- **Act** `eu:32012R0648` · **In force** 2021-02-11 · **Detected** 2026-08-13
+- **Touched** 10 provisions — 10 substantive · 0 date-only · **9 disputed**
+- **Diff** 3 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
+- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20200618` · `v2` = `02012R0648-20210211`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
+
+*within* `AR 1 PA 4 ALN 1 PTA (c) PTI (viii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (ix)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The list of countries in Article 1(4)(c) now ends with a semicolon after Switzerland rather than a full stop, and a new item (ix) adds the United Kingdom of Great Britain and Northern Ireland to the list of countries whose central banks and public debt management bodies are named. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_1)
+
+All other text of Article 1, including paragraphs 1 through 3, 5, and 6, remains identical between the two versions. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200618#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_1)
+
+*before* (`02012R0648-20200618`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.
+> 2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+> 3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+> 4. This Regulation shall not apply to:
+> (a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+> (b) the Bank for International Settlements;
+> (c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+> (i) Japan;
+> (ii) United States of America;
+> (iii) Australia;
+> (iv) Canada;
+> (v) Hong Kong;
+> (vi) Mexico;
+> (vii) Singapore;
+> (viii) Switzerland.
+> 5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
+> (a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/ […truncated by emendrix: 1418 characters omitted…]
+
+*after* (`02012R0648-20210211`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.
+> 2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+> 3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+> 4. This Regulation shall not apply to:
+> (a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+> (b) the Bank for International Settlements;
+> (c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+> (i) Japan;
+> (ii) United States of America;
+> (iii) Australia;
+> (iv) Canada;
+> (v) Hong Kong;
+> (vi) Mexico;
+> (vii) Singapore;
+> (viii) Switzerland;
+> (ix) the United Kingdom of Great Britain and Northern Ireland.
+> 5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
+> (a) multilateral development banks, as li […truncated by emendrix: 1481 characters omitted…]
+
+**INSERTED · Art. 6b** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 13a — Replacement of interest rate benchmarks in legacy trades** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R0023`
+
+A new Article 13a is added, setting out that counterparties may keep applying their existing risk-management procedures for certain non-centrally cleared OTC derivative contracts even where those contracts are novated after 11 February 2021 solely to replace an interest rate benchmark or to add fallback provisions relating to it. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a)
+
+It also provides that transactions entered into or novated before the clearing obligation under Article 4 took effect, and later novated after 11 February 2021 for that same sole purpose of replacing an interest rate benchmark or adding fallback provisions, do not thereby become subject to that clearing obligation. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a)
+
+*after* (`02012R0648-20210211`)
+
+> Article 13a
+> Replacement of interest rate benchmarks in legacy trades
+> 1. Counterparties referred to in Article 11(3) may continue to apply the risk-management procedures that they have in place at the date of application of this Regulation in respect of non-centrally cleared OTC derivative contracts entered into or novated before the date on which the obligation to have risk-management procedures pursuant to Article 11(3) takes effect where, after 11 February 2021, those contracts are novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark.
+> 2. Transactions entered into or novated before the date on which the clearing obligation takes effect pursuant to Article 4 and which, after 11 February 2021, are subsequently novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark, shall not, for that reason, become subject to the clearing obligation referred to in Article 4.
+
+**MODIFIED · Art. 24a** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 28** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 37** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 45a** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 93** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20210211 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20200618 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20200101` → `02012R0648-20200618`
