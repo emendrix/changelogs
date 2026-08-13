@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32006R1907",
+    "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+  },
+  "from_version": "02006R1907-20130421",
+  "to_version": "02006R1907-20130701",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2013-07-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 157,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20130701",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\nFor the purposes of this Regulation:\n1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;\n2. mixture: means a mixture or solution composed of two or more substances;\n3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;\n4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;\n5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:\n(a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;\n(b) less than a simple weight majority of molecules of the same molecular weight.\nIn the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;\n6. monomer: means a substance which is capable of forming covalent bonds with a sequence of additional like or unlike molecules under the conditions of the relevant polymer-forming reaction used for the particular process;\n7. registrant: means the manufacturer or the importer of a substance or the producer or importer of an article submitting a registration for a substance;\n8. manufacturing: means production or extraction of substances in the natural state;\n9. manufacturer: means any natural or legal person established within the Community who manufactures a substance within the Community;\n10. import: means the physical introduction into the customs territory of the Community;\n11. importer: means any natural or legal person established within the Community who is responsible for import;\n12. placing on the market: means supplying or making available, whether in return for payment or free of charge, to a third party. Import shall be deemed to be placing on the market;\n13. downstream user: means any natural or legal person established within the Community, other than the manufacturer or the importer, who uses a substance, either on its own or in a mixture, in the course of his industrial or professional activities. A distributor or a consumer is not a downstream user. A re-importer exempted pursuant to Article 2(7)(c) shall be regarded as a downstream user;\n14. distributor: means any natural or legal person established within the Community, including a retailer, who only stores and places on the market a substance, on its own or in a mixture, for third parties;\n15. intermediate: means a substance that is manufactured for and consumed in or used for chemical processing in order to be transformed into another substance (hereinafter referred to as synthesis):\n(a) non-isolated intermediate: means an intermediate that during synthesis is not intentionally removed (except for sampling) from the equipment in which the synthesis takes place. Such equipment includes the reaction vessel, its ancillary equipment, and any equipment through which the substance(s) pass(es) during a continuous flow or batch process as well as the pipework for transfer from one vessel to another for the purpose of the next reaction step, but it excludes tanks or other vessels in which the substance(s) are stored after the manufacture;\n(b) on-site isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and where the manufacture of the intermediate and the synthesis of (an)other substance(s) from that intermediate take place on the same site, operated by one or more legal entities;\n(c) transported isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and transported between or supplied to other sites;\n16. site: means a single location, in which, if there is more than one manufacturer of (a) substance(s), certain infrastructure and facilities are shared;\n17. actors in the supply chain: means all manufacturers and/or importers and/or downstream users in a supply chain;\n18. Agency: means the European Chemicals Agency as established by this Regulation;\n19. competent authority: means the authority or authorities or bodies established by the Member States to carry out the obligations arising from this Regulation;\n20. phase-in substance: means a substance which meets at least one of the following criteria:\n(a) it is listed in the European Inventory of Existing Commercial Chemical Substances (EINECS);\n(b) it was manufactured in the Community, or in the countries acceding to the European Union on 1 January 1995, on 1 May 2004 or on 1 January 2007, but not placed on the market by the manufacturer or importer, at least once in the 15 years before the entry into force of this Regulation, provided the manufacturer or importer has documentary evidence of this;\n(c) it was placed on the market in the Community, or in the countries acceding to the European Union on 1 January 1995, on 1 May 2004 or on 1 January 2007, by the manufacturer or importer before the entry into force of this Regulation and it was considered as having been notified in accordance with the first indent of Article 8(1) of Directive 67/548/EEC in the version of Article 8(1) resulting from the amendment effected by Directive 79/831/EEC, but it does not meet the definition of a polymer as set out in this Regulation, provided the manufacturer or importer has documentary evidence of this, including proof that the substance was placed on the market by any manufacturer or importer between 18 September 1981 and 31 October 1993 inclusive;\n21. notified substance: means a substance for which a notification has been submitted and which could be placed on the market in accordance with Directive 67/548/EEC;\n22. product and process orientated research and development: means any scientific development related to product development or the further development of a substance, on its own, in mixtures or in articles in the course of which pilot plant or production trials are used to develop the production process and/or to test the fields of application of the substance;\n23. scientific research and development: means any scientific experimentation, analysis or chemical research carried out under controlled conditions in a volume less than one tonne per year;\n24. use: means any processing, formulation, consumption, storage, keeping, treatment, filling into containers, transfer from one container to another, mixing, production of an article or any other utilisation;\n25. registrant's own use: means an industrial or professional use by the registrant;\n26. identified use: means a use of a substance on its own or in a mixture, or a use of a mixture, that is intended by an actor in the supply chain, including his own use, or that is made known to him in writing by an immediate downstream user;\n27. full study report: means a complete and comprehensive description of the activity performed to generate the information. This covers the complete scientific paper as published in the literature describing the study performed or the full report prepared by the test house describing the study performed;\n28. robust study summary: means a detailed summary of the objectives, methods, results and conclusions of a full study report providing sufficient information to make an independent assessment of the study minimising the need to consult the full study report;\n29. study summary: means a summary of the objectives, methods, results and conclusions of a full study report providing sufficient information to make an assessment of the relevance of the study;\n30. per year: means per calendar year, unless stated otherwise, for phase-in substances that have been imported or manufactured for at least three consecutive years, quantities per year shall be calculated on the basis of the average production or import volumes for the three preceding calendar years;\n31. restriction: means any condition for or prohibition of the manufacture, use or placing on the market;\n32. supplier of a substance or a mixture: means any manufacturer, importer, downstream user or distributor placing on the market a substance, on its own or in a mixture, or a mixture;\n33. supplier of an article: means any producer or importer of an article, distributor or other actor in the supply chain placing an article on the market;\n34. recipient of a substance or a mixture: means a downstream user or a distributor being supplied with a substance or a mixture;\n35. recipient of an article: means an industrial or professional user, or a distributor, being supplied with an article but does not include consumers;\n36. SME: means small and medium-sized enterprises as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.;\n37. exposure scenario: means the set of conditions, including operational conditions and risk management measures, that describe how the substance is manufactured or used during its life-cycle and how the manufacturer or importer controls, or recommends downstream users to control, exposures of humans and the environment. These exposure scenarios may cover one specific process or use or several processes or uses as appropriate;\n38. use and exposure category: means an exposure scenario covering a wide range of processes or uses, where the processes or uses are communicated, as a minimum, in terms of the brief general description of use;\n39. substances which occur in nature: means a naturally occurring substance as such, unprocessed or processed only by manual, mechanical or gravitational means, by dissolution in water, by flotation, by extraction with water, by steam distillation or by heating solely to remove water, or which is extracted from air by any means;\n40. not chemically modified substance: means a substance whose chemical structure remains unchanged, even if it has undergone a chemical process or treatment, or a physical mineralogical transformation, for instance to remove impurities;\n41. alloy: means a metallic material, homogenous on a macroscopic scale, consisting of two or more elements so combined that they cannot be readily separated by mechanical means.",
+        "after": "Article 3\nDefinitions\nFor the purposes of this Regulation:\n1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;\n2. mixture: means a mixture or solution composed of two or more substances;\n3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;\n4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;\n5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:\n(a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;\n(b) less than a simple weight majority of molecules of the same molecular weight.\nIn the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;\n6. monomer: means a substance which is capable of forming covalent bonds with a sequence of additional like or unlike molecules under the conditions of the relevant polymer-forming reaction used for the particular process;\n7. registrant: means the manufacturer or the importer of a substance or the producer or importer of an article submitting a registration for a substance;\n8. manufacturing: means production or extraction of substances in the natural state;\n9. manufacturer: means any natural or legal person established within the Community who manufactures a substance within the Community;\n10. import: means the physical introduction into the customs territory of the Community;\n11. importer: means any natural or legal person established within the Community who is responsible for import;\n12. placing on the market: means supplying or making available, whether in return for payment or free of charge, to a third party. Import shall be deemed to be placing on the market;\n13. downstream user: means any natural or legal person established within the Community, other than the manufacturer or the importer, who uses a substance, either on its own or in a mixture, in the course of his industrial or professional activities. A distributor or a consumer is not a downstream user. A re-importer exempted pursuant to Article 2(7)(c) shall be regarded as a downstream user;\n14. distributor: means any natural or legal person established within the Community, including a retailer, who only stores and places on the market a substance, on its own or in a mixture, for third parties;\n15. intermediate: means a substance that is manufactured for and consumed in or used for chemical processing in order to be transformed into another substance (hereinafter referred to as synthesis):\n(a) non-isolated intermediate: means an intermediate that during synthesis is not intentionally removed (except for sampling) from the equipment in which the synthesis takes place. Such equipment includes the reaction vessel, its ancillary equipment, and any equipment through which the substance(s) pass(es) during a continuous flow or batch process as well as the pipework for transfer from one vessel to another for the purpose of the next reaction step, but it excludes tanks or other vessels in which the substance(s) are stored after the manufacture;\n(b) on-site isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and where the manufacture of the intermediate and the synthesis of (an)other substance(s) from that intermediate take place on the same site, operated by one or more legal entities;\n(c) transported isolated intermediate: means an intermediate not meeting the criteria of a non-isolated intermediate and transported between or supplied to other sites;\n16. site: means a single location, in which, if there is more than one manufacturer of (a) substance(s), certain infrastructure and facilities are shared;\n17. actors in the supply chain: means all manufacturers and/or importers and/or downstream users in a supply chain;\n18. Agency: means the European Chemicals Agency as established by this Regulation;\n19. competent authority: means the authority or authorities or bodies established by the Member States to carry out the obligations arising from this Regulation;\n20. phase-in substance: means a substance which meets at least one of the following criteria:\n(a) it is listed in the European Inventory of Existing Commercial Chemical Substances (EINECS);\n(b) it was manufactured in the Community, or in the countries acceding to the European Union on 1 January 1995, on 1 May 2004, on 1 January 2007 or on 1 July 2013, but not placed on the market by the manufacturer or importer, at least once in the 15 years before the entry into force of this Regulation, provided the manufacturer or importer has documentary evidence of this;\n(c) it was placed on the market in the Community, or in the countries acceding to the European Union on 1 January 1995, on 1 May 2004, on 1 January 2007 or on 1 July 2013, by the manufacturer or importer before the entry into force of this Regulation and it was considered as having been notified in accordance with the first indent of Article 8(1) of Directive 67/548/EEC in the version of Article 8(1) resulting from the amendment effected by Directive 79/831/EEC, but it does not meet the definition of a polymer as set out in this Regulation, provided the manufacturer or importer has documentary evidence of this, including proof that the substance was placed on the market by any manufacturer or importer between 18 September 1981 and 31 October 1993 inclusive;\n21. notified substance: means a substance for which a notification has been submitted and which could be placed on the market in accordance with Directive 67/548/EEC;\n22. product and process orientated research and development: means any scientific development related to product development or the further development of a substance, on its own, in mixtures or in articles in the course of which pilot plant or production trials are used to develop the production process and/or to test the fields of application of the substance;\n23. scientific research and development: means any scientific experimentation, analysis or chemical research carried out under controlled conditions in a volume less than one tonne per year;\n24. use: means any processing, formulation, consumption, storage, keeping, treatment, filling into containers, transfer from one container to another, mixing, production of an article or any other utilisation;\n25. registrant's own use: means an industrial or professional use by the registrant;\n26. identified use: means a use of a substance on its own or in a mixture, or a use of a mixture, that is intended by an actor in the supply chain, including his own use, or that is made known to him in writing by an immediate downstream user;\n27. full study report: means a complete and comprehensive description of the activity performed to generate the information. This covers the complete scientific paper as published in the literature describing the study performed or the full report prepared by the test house describing the study performed;\n28. robust study summary: means a detailed summary of the objectives, methods, results and conclusions of a full study report providing sufficient information to make an independent assessment of the study minimising the need to consult the full study report;\n29. study summary: means a summary of the objectives, methods, results and conclusions of a full study report providing sufficient information to make an assessment of the relevance of the study;\n30. per year: means per calendar year, unless stated otherwise, for phase-in substances that have been imported or manufactured for at least three consecutive years, quantities per year shall be calculated on the basis of the average production or import volumes for the three preceding calendar years;\n31. restriction: means any condition for or prohibition of the manufacture, use or placing on the market;\n32. supplier of a substance or a mixture: means any manufacturer, importer, downstream user or distributor placing on the market a substance, on its own or in a mixture, or a mixture;\n33. supplier of an article: means any producer or importer of an article, distributor or other actor in the supply chain placing an article on the market;\n34. recipient of a substance or a mixture: means a downstream user or a distributor being supplied with a substance or a mixture;\n35. recipient of an article: means an industrial or professional user, or a distributor, being supplied with an article but does not include consumers;\n36. SME: means small and medium-sized enterprises as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.;\n37. exposure scenario: means the set of conditions, including operational conditions and risk management measures, that describe how the substance is manufactured or used during its life-cycle and how the manufacturer or importer controls, or recommends downstream users to control, exposures of humans and the environment. These exposure scenarios may cover one specific process or use or several processes or uses as appropriate;\n38. use and exposure category: means an exposure scenario covering a wide range of processes or uses, where the processes or uses are communicated, as a minimum, in terms of the brief general description of use;\n39. substances which occur in nature: means a naturally occurring substance as such, unprocessed or processed only by manual, mechanical or gravitational means, by dissolution in water, by flotation, by extraction with water, by steam distillation or by heating solely to remove water, or which is extracted from air by any means;\n40. not chemically modified substance: means a substance whose chemical structure remains unchanged, even if it has undergone a chemical process or treatment, or a physical mineralogical transformation, for instance to remove impurities;\n41. alloy: means a metallic material, homogenous on a macroscopic scale, consisting of two or more elements so combined that they cannot be readily separated by mechanical means.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 ALN 1 PO 20 PTA (b)",
+          "AR 3 ALN 1 PO 20 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0517",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2013-07-01"
+        ],
+        "in_force": "2013-07-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0517 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32013R0517, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the definition of phase-in substance, points (b) and (c) now list an additional accession date of 1 July 2013 alongside the previously listed dates of 1 January 1995, 1 May 2004 and 1 January 2007.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20130701",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#art_3",
+              "label": "Art. 3, 02006R1907-20130701"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version of these two points referred only to the three accession dates of 1 January 1995, 1 May 2004 and 1 January 2007.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20130421",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#art_3",
+              "label": "Art. 3, 02006R1907-20130421"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32006R1907",
+      "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+    },
+    "from_version": "02006R1907-20130421",
+    "to_version": "02006R1907-20130701",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 3"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 3"
+        ],
+        "note": "2 annotations in (2013-04-21, 2013-07-01]",
+        "claims": [
+          {
+            "location": "AR 3 .20 PO C)",
+            "change_type": "MODIFIED",
+            "in_force": "2013-07-01",
+            "source": "32013R0517 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0517",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 .20 PO B)",
+            "change_type": "MODIFIED",
+            "in_force": "2013-07-01",
+            "source": "32013R0517 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0517",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32013R0517, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 3",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 8786,
+      "output_tokens": 217,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

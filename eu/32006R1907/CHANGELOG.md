@@ -10,6 +10,59 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20130701 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20130421` → `02006R1907-20130701`
+
+- **Act** `eu:32006R1907` · **In force** 2013-07-01 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20130421` · `v2` = `02006R1907-20130701`
+
+---
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 3 ALN 1 PO 20 PTA (b)`, `AR 3 ALN 1 PO 20 PTA (c)` · *dates* +2013-07-01 · *amended by* `32013R0517`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In the definition of phase-in substance, points (b) and (c) now list an additional accession date of 1 July 2013 alongside the previously listed dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#art_3)
+
+The earlier version of these two points referred only to the three accession dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#art_3)
+
+*before* (`02006R1907-20130421`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation:
+> 1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+> 2. mixture: means a mixture or solution composed of two or more substances;
+> 3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;
+> 4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;
+> 5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:
+> (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
+> (b) less than a simple weight majority of molecules of the same molecular weight.
+> In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
+> 6. monomer: […truncated by emendrix: 9264 characters omitted…]
+
+*after* (`02006R1907-20130701`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation:
+> 1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+> 2. mixture: means a mixture or solution composed of two or more substances;
+> 3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;
+> 4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;
+> 5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:
+> (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
+> (b) less than a simple weight majority of molecules of the same molecular weight.
+> In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
+> 6. monomer: […truncated by emendrix: 9296 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20130701 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20130421 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20130306` → `02006R1907-20130421`
