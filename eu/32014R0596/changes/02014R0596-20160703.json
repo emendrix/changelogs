@@ -1,0 +1,952 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0596",
+    "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+  },
+  "from_version": "32014R0596",
+  "to_version": "02014R0596-20160703",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2016-06-30",
+    "2016-07-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 6,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 35,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\n1. For the purposes of this Regulation, the following definitions apply:\n(1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;\n(2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;\n(3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;\n(4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;\n(5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;\n(6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;\n(7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;\n(8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;\n(9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;\n(10) trading venue means a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU;\n(11) SME growth market means SME growth market as defined in point (12) of Article 4(1) of Directive 2014/65/EU;\n(12) competent authority means an authority designated in accordance with Article 22, unless otherwise specified in this Regulation;\n(13) person means a natural or legal person;\n(14) commodity means a commodity as defined in point (1) of Article 2 of Commission Regulation (EC) No 1287/2006Commission Regulation (EC) No 1287/2006 of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards record-keeping obligations for investment firms, transaction reporting, market transparency, admission of financial instruments to trading, and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 1).;\n(15) spot commodity contract means a contract for the supply of a commodity traded on a spot market which is promptly delivered when the transaction is settled, and a contract for the supply of a commodity that is not a financial instrument, including a physically settled forward contract;\n(16) spot market means a commodity market in which commodities are sold for cash and promptly delivered when the transaction is settled, and other non-financial markets, such as forward markets for commodities;\n(17) buy-back programme means trading in own shares in accordance with Articles 21 to 27 of Directive 2012/30/EU of the European Parliament and of the CouncilDirective 2012/30/EU of the European Parliament and of the Council of 25 October 2012 on coordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 54 of the Treaty on the Functioning of the European Union, in respect of the formation of public limited liability companies and the maintenance and alteration of their capital, with a view to making such safeguards equivalent (OJ L 315, 14.11.2012, p. 74).;\n(18) algorithmic trading means algorithmic trading as defined in point (39) of Article 4(1) of Directive 2014/65/EU;\n(19) emission allowance means emission allowance as described in point (11) of Section C of Annex I to Directive 2014/65/EU;\n(20) emission allowance market participant means any person who enters into transactions, including the placing of orders to trade, in emission allowances, auctioned products based thereon, or derivatives thereof and who does not benefit from an exemption pursuant to the second subparagraph of Article 17(2);\n(21) issuer means a legal entity governed by private or public law, which issues or proposes to issue financial instruments, the issuer being, in case of depository receipts representing financial instruments, the issuer of the financial instrument represented;\n(22) wholesale energy product means wholesale energy product as defined in point (4) of Article 2 of Regulation (EU) No 1227/2011;\n(23) national regulatory authority means national regulatory authority as defined in point (10) of Article 2 of Regulation (EU) No 1227/2011;\n(24) commodity derivatives means commodity derivatives as defined in point (30) of Article 2(1) of Regulation (EU) No 600/2014 of the European Parliament and of the CouncilRegulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014. on markets in financial instruments and amending Regulation (EU) No 648/2012 (see page 84 of this Official Journal).;\n(25) person discharging managerial responsibilities means a person within an issuer, an emission allowance market participant or another entity referred to in Article 19(10), who is:\n(a) a member of the administrative, management or supervisory body of that entity; or\n(b) a senior executive who is not a member of the bodies referred to in point (a), who has regular access to inside information relating directly or indirectly to that entity and power to take managerial decisions affecting the future developments and business prospects of that entity;\n(26) person closely associated means:\n(a) a spouse, or a partner considered to be equivalent to a spouse in accordance with national law;\n(b) a dependent child, in accordance with national law;\n(c) a relative who has shared the same household for at least one year on the date of the transaction concerned; or\n(d) a legal person, trust or partnership, the managerial responsibilities of which are discharged by a person discharging managerial responsibilities or by a person referred to in point (a), (b) or (c), which is directly or indirectly controlled by such a person, which is set up for the benefit of such a person, or the economic interests of which are substantially equivalent to those of such a person;\n(27) data traffic records means records of traffic data as defined in point (b) of the second paragraph of Article 2 of Directive 2002/58/EC of the European Parliament and the CouncilDirective 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).;\n(28) person professionally arranging or executing transactions means a person professionally engaged in the reception and transmission of orders for, or in the execution of transactions in, financial instruments;\n(29) benchmark means any rate, index or figure, made available to the public or published that is periodically or regularly determined by the application of a formula to, or on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates or other values, or surveys, and by reference to which the amount payable under a financial instrument or the value of a financial instrument is determined;\n(30) market maker means a market maker as defined in point (7) of Article 4(1) of Directive 2014/65/EU;\n(31) stake-building means an acquisition of securities in a company which does not trigger a legal or regulatory obligation to make an announcement of a takeover bid in relation to that company;\n(32) disclosing market participant means a person who falls into any of the categories set out in points (a) to (d) of Article 11(1) or of Article 11(2), and discloses information in the course of a market sounding;\n(33) high-frequency trading means high-frequency algorithmic trading technique as defined in point (40) of Article 4(1) of Directive 2014/65/EU;\n(34) information recommending or suggesting an investment strategy means information:\n(i) produced by an independent analyst, an investment firm, a credit institution, any other person whose main business is to produce investment recommendations or a natural person working for them under a contract of employment or otherwise, which, directly or indirectly, expresses a particular investment proposal in respect of a financial instrument or an issuer; or\n(ii) produced by persons other than those referred to in point (i), which directly proposes a particular investment decision in respect of a financial instrument;\n(35) investment recommendations means information recommending or suggesting an investment strategy, explicitly or implicitly, concerning one or several financial instruments or the issuers, including any opinion as to the present or future value or price of such instruments, intended for distribution channels or for the public.\n2. For the purposes of Article 5, the following definitions apply:\n(a) securities means:\n(i) shares and other securities equivalent to shares;\n(ii) bonds and other forms of securitised debt; or\n(iii) securitised debt convertible or exchangeable into shares or into other securities equivalent to shares.\n(b) associated instruments means the following financial instruments, including those which are not admitted to trading or traded on a trading venue, or for which a request for admission to trading on a trading venue has not been made:\n(i) contracts or rights to subscribe for, acquire or dispose of securities;\n(ii) financial derivatives of securities;\n(iii) where the securities are convertible or exchangeable debt instruments, the securities into which such convertible or exchangeable debt instruments may be converted or exchanged;\n(iv) instruments which are issued or guaranteed by the issuer or guarantor of the securities and whose market price is likely to materially influence the price of the securities, or vice versa;\n(v) where the securities are securities equivalent to shares, the shares represented by those securities and any other securities equivalent to those shares;\n(c) significant distribution means an initial or secondary offer of securities that is distinct from ordinary trading both in terms of the amount in value of the securities to be offered and the selling method to be employed;\n(d) stabilisation means a purchase or offer to purchase securities, or a transaction in associated instruments equivalent thereto, which is undertaken by a credit institution or an investment firm in the context of a significant distribution of such securities exclusively for supporting the market price of those securities for a predetermined period of time, due to a selling pressure in such securities.",
+        "after": "Article 3\nDefinitions\n1. For the purposes of this Regulation, the following definitions apply:\n(1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;\n(2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;\n(3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;\n(4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;\n(5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;\n(6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;\n(7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;\n(8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;\n(9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;\n(10) trading venue means a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU;\n(11) SME growth market means SME growth market as defined in point (12) of Article 4(1) of Directive 2014/65/EU;\n(12) competent authority means an authority designated in accordance with Article 22, unless otherwise specified in this Regulation;\n(13) person means a natural or legal person;\n(14) commodity means a commodity as defined in point (1) of Article 2 of Commission Regulation (EC) No 1287/2006Commission Regulation (EC) No 1287/2006 of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards record-keeping obligations for investment firms, transaction reporting, market transparency, admission of financial instruments to trading, and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 1).;\n(15) spot commodity contract means a contract for the supply of a commodity traded on a spot market which is promptly delivered when the transaction is settled, and a contract for the supply of a commodity that is not a financial instrument, including a physically settled forward contract;\n(16) spot market means a commodity market in which commodities are sold for cash and promptly delivered when the transaction is settled, and other non-financial markets, such as forward markets for commodities;\n(17) buy-back programme means trading in own shares in accordance with Articles 21 to 27 of Directive 2012/30/EU of the European Parliament and of the CouncilDirective 2012/30/EU of the European Parliament and of the Council of 25 October 2012 on coordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 54 of the Treaty on the Functioning of the European Union, in respect of the formation of public limited liability companies and the maintenance and alteration of their capital, with a view to making such safeguards equivalent (OJ L 315, 14.11.2012, p. 74).;\n(18) algorithmic trading means algorithmic trading as defined in point (39) of Article 4(1) of Directive 2014/65/EU;\n(19) emission allowance means emission allowance as described in point (11) of Section C of Annex I to Directive 2014/65/EU;\n(20) emission allowance market participant means any person who enters into transactions, including the placing of orders to trade, in emission allowances, auctioned products based thereon, or derivatives thereof and who does not benefit from an exemption pursuant to the second subparagraph of Article 17(2);\n(21) issuer means a legal entity governed by private or public law, which issues or proposes to issue financial instruments, the issuer being, in case of depository receipts representing financial instruments, the issuer of the financial instrument represented;\n(22) wholesale energy product means wholesale energy product as defined in point (4) of Article 2 of Regulation (EU) No 1227/2011;\n(23) national regulatory authority means national regulatory authority as defined in point (10) of Article 2 of Regulation (EU) No 1227/2011;\n(24) commodity derivatives means commodity derivatives as defined in point (30) of Article 2(1) of Regulation (EU) No 600/2014 of the European Parliament and of the CouncilRegulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014. on markets in financial instruments and amending Regulation (EU) No 648/2012 (see page 84 of this Official Journal).;\n(25) person discharging managerial responsibilities means a person within an issuer, an emission allowance market participant or another entity referred to in Article 19(10), who is:\n(a) a member of the administrative, management or supervisory body of that entity; or\n(b) a senior executive who is not a member of the bodies referred to in point (a), who has regular access to inside information relating directly or indirectly to that entity and power to take managerial decisions affecting the future developments and business prospects of that entity;\n(26) person closely associated means:\n(a) a spouse, or a partner considered to be equivalent to a spouse in accordance with national law;\n(b) a dependent child, in accordance with national law;\n(c) a relative who has shared the same household for at least one year on the date of the transaction concerned; or\n(d) a legal person, trust or partnership, the managerial responsibilities of which are discharged by a person discharging managerial responsibilities or by a person referred to in point (a), (b) or (c), or which is directly or indirectly controlled by such a person, or which is set up for the benefit of such a person, or the economic interests of which are substantially equivalent to those of such a person;\n(27) data traffic records means records of traffic data as defined in point (b) of the second paragraph of Article 2 of Directive 2002/58/EC of the European Parliament and the CouncilDirective 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).;\n(28) person professionally arranging or executing transactions means a person professionally engaged in the reception and transmission of orders for, or in the execution of transactions in, financial instruments;\n(29) benchmark means any rate, index or figure, made available to the public or published that is periodically or regularly determined by the application of a formula to, or on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates or other values, or surveys, and by reference to which the amount payable under a financial instrument or the value of a financial instrument is determined;\n(30) market maker means a market maker as defined in point (7) of Article 4(1) of Directive 2014/65/EU;\n(31) stake-building means an acquisition of securities in a company which does not trigger a legal or regulatory obligation to make an announcement of a takeover bid in relation to that company;\n(32) disclosing market participant means a person who falls into any of the categories set out in points (a) to (d) of Article 11(1) or of Article 11(2), and discloses information in the course of a market sounding;\n(33) high-frequency trading means high-frequency algorithmic trading technique as defined in point (40) of Article 4(1) of Directive 2014/65/EU;\n(34) information recommending or suggesting an investment strategy means information:\n(i) produced by an independent analyst, an investment firm, a credit institution, any other person whose main business is to produce investment recommendations or a natural person working for them under a contract of employment or otherwise, which, directly or indirectly, expresses a particular investment proposal in respect of a financial instrument or an issuer; or\n(ii) produced by persons other than those referred to in point (i), which directly proposes a particular investment decision in respect of a financial instrument;\n(35) investment recommendations means information recommending or suggesting an investment strategy, explicitly or implicitly, concerning one or several financial instruments or the issuers, including any opinion as to the present or future value or price of such instruments, intended for distribution channels or for the public.\n2. For the purposes of Article 5, the following definitions apply:\n(a) securities means:\n(i) shares and other securities equivalent to shares;\n(ii) bonds and other forms of securitised debt; or\n(iii) securitised debt convertible or exchangeable into shares or into other securities equivalent to shares.\n(b) associated instruments means the following financial instruments, including those which are not admitted to trading or traded on a trading venue, or for which a request for admission to trading on a trading venue has not been made:\n(i) contracts or rights to subscribe for, acquire or dispose of securities;\n(ii) financial derivatives of securities;\n(iii) where the securities are convertible or exchangeable debt instruments, the securities into which such convertible or exchangeable debt instruments may be converted or exchanged;\n(iv) instruments which are issued or guaranteed by the issuer or guarantor of the securities and whose market price is likely to materially influence the price of the securities, or vice versa;\n(v) where the securities are securities equivalent to shares, the shares represented by those securities and any other securities equivalent to those shares;\n(c) significant distribution means an initial or secondary offer of securities that is distinct from ordinary trading both in terms of the amount in value of the securities to be offered and the selling method to be employed;\n(d) stabilisation means a purchase or offer to purchase securities, or a transaction in associated instruments equivalent thereto, which is undertaken by a credit institution or an investment firm in the context of a significant distribution of such securities exclusively for supporting the market price of those securities for a predetermined period of time, due to a selling pressure in such securities.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 PA 1 ALN 1 PO 26 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "10 annotations in (the act itself, 2016-07-03]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (26)(d), the clause describing a legal person, trust or partnership whose managerial responsibilities are discharged by a specified person now separates the conditions of control, being set up for that person's benefit, and having substantially equivalent economic interests with the word \"or\" before each, rather than joining them with commas as in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_3",
+              "label": "Art. 3, 32014R0596"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_3",
+              "label": "Art. 3, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 19"
+        },
+        "heading": "Managers’ transactions",
+        "before": "Article 19\nManagers’ transactions\n1. Persons discharging managerial responsibilities, as well as persons closely associated with them, shall notify the issuer or the emission allowance market participant and the competent authority referred to in the second subparagraph of paragraph 2:\n(a) in respect of issuers, of every transaction conducted on their own account relating to the shares or debt instruments of that issuer or to derivatives or other financial instruments linked thereto;\n(b) in respect of emission allowance market participants, of every transaction conducted on their own account relating to emission allowances, to auction products based thereon or to derivatives relating thereto.\nSuch notifications shall be made promptly and no later than three business days after the date of the transaction.\nThe first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.\n2. For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.\nThe rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant is registered. Notifications shall be made within three working days of the transaction date to the competent authority of that Member State. Where the issuer is not registered in a Member State, the notification shall be made to the competent authority of the home Member State in accordance with point (i) of Article 2(1) of Directive 2004/109/EC or, in the absence thereof, to the competent authority of the trading venue.\n3. The issuer or emission allowance market participant shall ensure that the information that is notified in accordance with paragraph 1 is made public promptly and no later than three business days after the transaction in a manner which enables fast access to this information on a non-discriminatory basis in accordance with the implementing technical standards referred to in point (a) of Article 17(10).\nThe issuer or emission allowance market participant shall use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Union, and, where applicable, it shall use the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC.\nAlternatively, national law may provide that a competent authority may itself make public the information.\n4. This Article shall apply to issuers who:\n(a) have requested or approved admission of their financial instruments to trading on a regulated market; or\n(b) in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF.\n5. Issuers and emission allowance market participants shall notify the person discharging managerial responsibilities of their obligations under this Article in writing. Issuers and emission allowance market participants shall draw up a list of all persons discharging managerial responsibilities and persons closely associated with them.\nPersons discharging managerial responsibilities shall notify the persons closely associated with them of their obligations under this Article in writing and shall keep a copy of this notification.\n6. A notification of transactions referred to in paragraph 1 shall contain the following information:\n(a) the name of the person;\n(b) the reason for the notification;\n(c) the name of the relevant issuer or emission allowance market participant;\n(d) a description and the identifier of the financial instrument;\n(e) the nature of the transaction(s) (e.g. acquisition or disposal), indicating whether it is linked to the exercise of share option programmes or to the specific examples set out in paragraph 7;\n(f) the date and place of the transaction(s); and\n(g) the price and volume of the transaction(s). In the case of a pledge whose terms provide for its value to change, this should be disclosed together with its value at the date of the pledge.\n7. For the purposes of paragraph 1, transactions that must be notified shall also include:\n(a) the pledging or lending of financial instruments by or on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1;\n(b) transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1, including where discretion is exercised;\n(c) transactions made under a life insurance policy, defined in accordance with Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., where:\n(i) the policyholder is a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1,\n(ii) the investment risk is borne by the policyholder, and\n(iii) the policyholder has the power or discretion to make investment decisions regarding specific instruments in that life insurance policy or to execute transactions regarding specific instruments for that life insurance policy.\nFor the purposes of point (a), a pledge, or a similar security interest, of financial instruments in connection with the depositing of the financial instruments in a custody account does not need to be notified, unless and until such time that such pledge or other security interest is designated to secure a specific credit facility.\nInsofar as a policyholder of an insurance contract is required to notify transactions according to this paragraph, an obligation to notify is not incumbent on the insurance company.\n8. Paragraph 1 shall apply to any subsequent transaction once a total amount of EUR 5000 has been reached within a calendar year. The threshold of EUR 5000 shall be calculated by adding without netting all transactions referred to in paragraph 1.\n9. A competent authority may decide to increase the threshold set out in paragraph 8 to EUR 20000 and shall inform ESMA of its decision and the justification for its decision, with specific reference to market conditions, to adopt the higher threshold prior to its application. ESMA shall publish on its website the list of thresholds that apply in accordance with this Article and the justifications provided by competent authorities for such thresholds.\n10. This Article shall also apply to transactions by persons discharging managerial responsibilities within any auction platform, auctioneer and auction monitor involved in the auctions held under Regulation (EU) No 1031/2010 and to persons closely associated with such persons in so far as their transactions involve emission allowances, derivatives thereof or auctioned products based thereon. Those persons shall notify their transactions to the auction platforms, auctioneers and auction monitor, as applicable, and to the competent authority where the auction platform, auctioneer or auction monitor, as applicable, is registered. The information that is so notified shall be made public by the auction platforms, auctioneers, auction monitor or competent authority in accordance with paragraph 3.\n11. Without prejudice to Articles 14 and 15, a person discharging managerial responsibilities within an issuer shall not conduct any transactions on its own account or for the account of a third party, directly or indirectly, relating to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked to them during a closed period of 30 calendar days before the announcement of an interim financial report or a year-end report which the issuer is obliged to make public according to:\n(a) the rules of the trading venue where the issuer’s shares are admitted to trading; or\n(b) national law.\n12. Without prejudice to Articles 14 and 15, an issuer may allow a person discharging managerial responsibilities within it to trade on its own account or for the account of a third party during a closed period as referred to in paragraph 11 either:\n(a) on a case-by-case basis due to the existence of exceptional circumstances, such as severe financial difficulty, which require the immediate sale of shares; or\n(b) due to the characteristics of the trading involved for transactions made under, or related to, an employee share or saving scheme, qualification or entitlement of shares, or transactions where the beneficial interest in the relevant security does not change.\n13. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the circumstances under which trading during a closed period may be permitted by the issuer, as referred to in paragraph 12, including the circumstances that would be considered as exceptional and the types of transaction that would justify the permission for trading.\n14. The Commission shall be empowered to adopt delegated acts in accordance with Article 35, specifying types of transactions that would trigger the requirement referred to in paragraph 1.\n15. In order to ensure uniform application of paragraph 1, ESMA shall develop draft implementing technical standards concerning the format and template in which the information referred to in paragraph 1 is to be notified and made public.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "after": "Article 19\nManagers’ transactions\n1. Persons discharging managerial responsibilities, as well as persons closely associated with them, shall notify the issuer or the emission allowance market participant and the competent authority referred to in the second subparagraph of paragraph 2:\n(a) in respect of issuers, of every transaction conducted on their own account relating to the shares or debt instruments of that issuer or to derivatives or other financial instruments linked thereto;\n(b) in respect of emission allowance market participants, of every transaction conducted on their own account relating to emission allowances, to auction products based thereon or to derivatives relating thereto.\nSuch notifications shall be made promptly and no later than three business days after the date of the transaction.\nThe first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.\n1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:\n(a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;\n(b) the financial instrument provides exposure to a portfolio of assets in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the portfolio's assets;\n(c) the financial instrument is a unit or share in a collective investment undertaking or provides exposure to a portfolio of assets and the person discharging managerial responsibilities or person closely associated with such a person does not know, and could not know, the investment composition or exposure of such collective investment undertaking or portfolio of assets in relation to the issuer's shares or debt instruments, and furthermore there is no reason for that person to believe that the issuer's shares or debt instruments exceed the thresholds in point (a) or (b).\nIf information regarding the investment composition of the collective investment undertaking or exposure to the portfolio of assets is available, then the person discharging managerial responsibility or person closely associated with such a person shall make all reasonable efforts to avail themselves of that information.\n2. For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.\nThe rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant is registered. Notifications shall be made within three working days of the transaction date to the competent authority of that Member State. Where the issuer is not registered in a Member State, the notification shall be made to the competent authority of the home Member State in accordance with point (i) of Article 2(1) of Directive 2004/109/EC or, in the absence thereof, to the competent authority of the trading venue.\n3. The issuer or emission allowance market participant shall ensure that the information that is notified in accordance with paragraph 1 is made public promptly and no later than three business days after the transaction in a manner which enables fast access to this information on a non-discriminatory basis in accordance with the implementing technical standards referred to in point (a) of Article 17(10).\nThe issuer or emission allowance market participant shall use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Union, and, where applicable, it shall use the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC.\nAlternatively, national law may provide that a competent authority may itself make public the information.\n4. This Article shall apply to issuers who:\n(a) have requested or approved admission of their financial instruments to trading on a regulated market; or\n(b) in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF.\n5. Issuers and emission allowance market participants shall notify the person discharging managerial responsibilities of their obligations under this Article in writing. Issuers and emission allowance market participants shall draw up a list of all persons discharging managerial responsibilities and persons closely associated with them.\nPersons discharging managerial responsibilities shall notify the persons closely associated with them of their obligations under this Article in writing and shall keep a copy of this notification.\n6. A notification of transactions referred to in paragraph 1 shall contain the following information:\n(a) the name of the person;\n(b) the reason for the notification;\n(c) the name of the relevant issuer or emission allowance market participant;\n(d) a description and the identifier of the financial instrument;\n(e) the nature of the transaction(s) (e.g. acquisition or disposal), indicating whether it is linked to the exercise of share option programmes or to the specific examples set out in paragraph 7;\n(f) the date and place of the transaction(s); and\n(g) the price and volume of the transaction(s). In the case of a pledge whose terms provide for its value to change, this should be disclosed together with its value at the date of the pledge.\n7. For the purposes of paragraph 1, transactions that must be notified shall also include:\n(a) the pledging or lending of financial instruments by or on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1;\n(b) transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1, including where discretion is exercised;\n(c) transactions made under a life insurance policy, defined in accordance with Directive 2009/138/EC of the European Parliament and of the CouncilDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., where:\n(i) the policyholder is a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1,\n(ii) the investment risk is borne by the policyholder, and\n(iii) the policyholder has the power or discretion to make investment decisions regarding specific instruments in that life insurance policy or to execute transactions regarding specific instruments for that life insurance policy.\nFor the purposes of point (a), a pledge, or a similar security interest, of financial instruments in connection with the depositing of the financial instruments in a custody account does not need to be notified, unless and until such time that such pledge or other security interest is designated to secure a specific credit facility.\nFor the purposes of point (b), transactions executed in shares or debt instruments of an issuer or derivatives or other financial instruments linked thereto by managers of a collective investment undertaking in which the person discharging managerial responsibilities or a person closely associated with them has invested do not need to be notified where the manager of the collective investment undertaking operates with full discretion, which excludes the manager receiving any instructions or suggestions on portfolio composition directly or indirectly from investors in that collective investment undertaking.\nInsofar as a policyholder of an insurance contract is required to notify transactions according to this paragraph, an obligation to notify is not incumbent on the insurance company.\n8. Paragraph 1 shall apply to any subsequent transaction once a total amount of EUR 5000 has been reached within a calendar year. The threshold of EUR 5000 shall be calculated by adding without netting all transactions referred to in paragraph 1.\n9. A competent authority may decide to increase the threshold set out in paragraph 8 to EUR 20000 and shall inform ESMA of its decision and the justification for its decision, with specific reference to market conditions, to adopt the higher threshold prior to its application. ESMA shall publish on its website the list of thresholds that apply in accordance with this Article and the justifications provided by competent authorities for such thresholds.\n10. This Article shall also apply to transactions by persons discharging managerial responsibilities within any auction platform, auctioneer and auction monitor involved in the auctions held under Regulation (EU) No 1031/2010 and to persons closely associated with such persons in so far as their transactions involve emission allowances, derivatives thereof or auctioned products based thereon. Those persons shall notify their transactions to the auction platforms, auctioneers and auction monitor, as applicable, and to the competent authority where the auction platform, auctioneer or auction monitor, as applicable, is registered. The information that is so notified shall be made public by the auction platforms, auctioneers, auction monitor or competent authority in accordance with paragraph 3.\n11. Without prejudice to Articles 14 and 15, a person discharging managerial responsibilities within an issuer shall not conduct any transactions on its own account or for the account of a third party, directly or indirectly, relating to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked to them during a closed period of 30 calendar days before the announcement of an interim financial report or a year-end report which the issuer is obliged to make public according to:\n(a) the rules of the trading venue where the issuer’s shares are admitted to trading; or\n(b) national law.\n12. Without prejudice to Articles 14 and 15, an issuer may allow a person discharging managerial responsibilities within it to trade on its own account or for the account of a third party during a closed period as referred to in paragraph 11 either:\n(a) on a case-by-case basis due to the existence of exceptional circumstances, such as severe financial difficulty, which require the immediate sale of shares; or\n(b) due to the characteristics of the trading involved for transactions made under, or related to, an employee share or saving scheme, qualification or entitlement of shares, or transactions where the beneficial interest in the relevant security does not change.\n13. The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the circumstances under which trading during a closed period may be permitted by the issuer, as referred to in paragraph 12, including the circumstances that would be considered as exceptional and the types of transaction that would justify the permission for trading.\n14. The Commission shall be empowered to adopt delegated acts in accordance with Article 35, specifying types of transactions that would trigger the requirement referred to in paragraph 1.\n15. In order to ensure uniform application of paragraph 1, ESMA shall develop draft implementing technical standards concerning the format and template in which the information referred to in paragraph 1 is to be notified and made public.\nESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 19 PA 1a",
+          "AR 19 PA 7 ALN 3",
+          "AR 19 PA 7 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-30",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R1011 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 1a has been added, setting out conditions under which the notification obligation in paragraph 1 does not apply to transactions in financial instruments linked to shares or debt instruments of the issuer, including thresholds on exposure to the issuer's shares or debt instruments through collective investment undertakings or asset portfolios, and a related requirement to make reasonable efforts to obtain information on investment composition where available.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19",
+              "label": "Art. 19, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 7 has been expanded with a new subparagraph following point (b) stating that transactions executed by managers of a collective investment undertaking in shares, debt instruments, or linked derivatives of an issuer do not need to be notified where the manager acts with full discretion excluding instructions or suggestions on portfolio composition from investors in that undertaking.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19",
+              "label": "Art. 19, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version of Article 19 contained neither this exemption in paragraph 1a nor this additional carve-out text following point (b) of paragraph 7.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_19",
+              "label": "Art. 19, 32014R0596"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 35"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 35\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), and Article 19(13) and (14) shall be conferred on the Commission for an indeterminate period of time from 2 July 2014.\n3. The delegation of power referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), and Article 19(13) and (14), may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to referred to Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), or Article 19(13) or (14), shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.",
+        "after": "Article 35\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3) , Article 19(13) and (14) and Article 38 shall be conferred on the Commission for an indeterminate period of time from 2 July 2014.\n3. The delegation of power referred to in Article 6(5) and (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3) , Article 19(13) and (14) and Article 38, may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Article 6(5) or (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), Article 19(13) or (14) or Article 38, shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 35 PA 2 ALN 1",
+          "AR 35 PA 3 ALN 1",
+          "AR 35 PA 5 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-30",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R1011 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraphs 2, 3, and 5 now add Article 38 to the list of provisions whose delegated-act power is covered by this Article, alongside the previously listed articles.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_35",
+              "label": "Art. 35, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 5 also drops the words \"pursuant to referred to\" before the list of articles, replacing them with \"pursuant to\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_35",
+              "label": "Art. 35, 32014R0596"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_35",
+              "label": "Art. 35, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 37"
+        },
+        "heading": "Repeal of Directive 2003/6/EC and its implementing measures",
+        "before": "Article 37\nRepeal of Directive 2003/6/EC and its implementing measures\nDirective 2003/6/EC and Commission Directives 2004/72/ECCommission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers’ transactions and the notification of suspicious transactions (OJ L 162, 30.4.2004, p. 70)., 2003/125/ECCommission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/ECCommission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II to this Regulation.",
+        "after": "Article 37\nRepeal of Directive 2003/6/EC and its implementing measures\nDirective 2003/6/EC and Commission Directives 2004/72/EC, 2003/125/ECCommission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/ECCommission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II to this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 37 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2004-04-29"
+        ],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "10 annotations in (the act itself, 2016-07-03]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference to Commission Directive 2004/72/EC no longer carries its explanatory footnote describing that directive's title and Official Journal publication details, including its 29 April 2004 date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37",
+              "label": "Art. 37, 32014R0596"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37",
+              "label": "Art. 37, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "The remaining text, including the repeal date of 3 July 2016 and the references to the other directives and the Regulation, is otherwise unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37",
+              "label": "Art. 37, 32014R0596"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37",
+              "label": "Art. 37, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 38"
+        },
+        "heading": "Report",
+        "before": "Article 38\nReport\nBy 3 July 2019, the Commission shall submit a report to the European Parliament and to the Council on the application of this Regulation, together with a legislative proposal to amend it if appropriate. That report shall assess, inter alia:\n(a) the appropriateness of introducing common rules on the need for all Member States to provide for administrative sanctions for insider dealing and market manipulation;\n(b) whether the definition of inside information is sufficient to cover all information relevant for competent authorities to effectively combat market abuse;\n(c) the appropriateness of the conditions under which the prohibition on trading is mandated in accordance with Article 19(11) with a view to identifying whether there are any further circumstances under which the prohibition should apply;\n(d) the possibility of establishing a Union framework for cross-market order book surveillance in relation to market abuse, including recommendations for such a framework; and\n(e) the scope of the application of the benchmark provisions.\nFor the purposes of point (a) of the first subparagraph, ESMA shall undertake a mapping exercise of the application of administrative sanctions and, where Member States have decided, pursuant to the second subparagraph of Article 30(1), to lay down criminal sanctions as referred to therein for infringements of this Regulation, of the application of such criminal sanctions within Member States. That exercise shall also include any data made available under Article 33(1) and (2).",
+        "after": "Article 38\nReport\nBy 3 July 2019, the Commission shall submit a report to the European Parliament and to the Council on the application of this Regulation, together with a legislative proposal to amend it if appropriate. That report shall assess, inter alia:\n(a) the appropriateness of introducing common rules on the need for all Member States to provide for administrative sanctions for insider dealing and market manipulation;\n(b) whether the definition of inside information is sufficient to cover all information relevant for competent authorities to effectively combat market abuse;\n(c) the appropriateness of the conditions under which the prohibition on trading is mandated in accordance with Article 19(11) with a view to identifying whether there are any further circumstances under which the prohibition should apply;\n(d) the possibility of establishing a Union framework for cross-market order book surveillance in relation to market abuse, including recommendations for such a framework; and\n(e) the scope of the application of the benchmark provisions.\nFor the purposes of point (a) of the first subparagraph, ESMA shall undertake a mapping exercise of the application of administrative sanctions and, where Member States have decided, pursuant to the second subparagraph of Article 30(1), to lay down criminal sanctions as referred to therein for infringements of this Regulation, of the application of such criminal sanctions within Member States. That exercise shall also include any data made available under Article 33(1) and (2).\nBy 3 July 2019, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the level of the thresholds set out in Article 19(1a)(a) and (b) in relation to managers' transactions where the issuer's shares or debt instruments form part of a collective investment undertaking or provide exposure to a portfolio of assets, with a view to assessing whether that level is appropriate or should be adjusted.\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 35 adjusting the thresholds in Article 19(1a)(a) and (b), if it determines in that report that those thresholds should be adjusted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 38 ALN 3",
+          "AR 38 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-30",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R1011 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision now adds a further Commission reporting duty, requiring a report to the European Parliament and Council, after consulting ESMA, on the level of the thresholds set out in Article 19(1a)(a) and (b) as they relate to managers' transactions where the issuer's shares or debt instruments form part of a collective investment undertaking or provide exposure to a portfolio of assets, assessing whether that level is appropriate or should be adjusted.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_38",
+              "label": "Art. 38, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "It also adds a new empowerment for the Commission to adopt delegated acts under Article 35 to adjust the thresholds in Article 19(1a)(a) and (b) if that report determines such adjustment is warranted.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_38",
+              "label": "Art. 38, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "The earlier text contained no such threshold-review report or delegated-act empowerment.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 38"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_38",
+              "label": "Art. 38, 32014R0596"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0596",
+            "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+          },
+          "version": "02014R0596-20160703",
+          "location": "AR 39"
+        },
+        "heading": "Entry into force and application",
+        "before": "Article 39\nEntry into force and application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 3 July 2016 except for Article 4(4) and (5), Article 5(6), Article 6(5) and (6), Article 7(5), Article 11(9), (10) and (11), Article 12(5), Article 13(7) and (11), Article 16(5), the third subparagraph of Article 17(2), Article 17(3), (10) and (11), Article 18(9), Article 19(13), (14) and (15), Article 20(3), Article 24(3), Article 25(9), the second, third and fourth subparagraphs of Article 26(2), Article 32(5) and Article 33(5), which shall apply on 2 July 2014.\n3. Member States shall take the necessary measures to comply with Articles 22, 23 and 30, Article 31(1) and Articles 32 and 34 by 3 July 2016.\n4. References in this Regulation to Directive 2014/65/EU and Regulation (EU) No 600/2014 shall, before 3 January 2017, be read as references to Directive 2004/39/EC in accordance with the correlation table set out in Annex IV to Directive 2014/65/EU in so far as that correlation table contains provisions referring to Directive 2004/39/EC.\nWhere reference in the provisions of this Regulation is made to OTFs, SME growth markets, emission allowances or auctioned products based thereon, those provisions shall not apply to OTFs, SME growth markets, emission allowances or auctioned products based thereon until 3 January 2017.",
+        "after": "Article 39\nEntry into force and application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. It shall apply from 3 July 2016 except for:\n(a) Article 4(2) and (3), which shall apply from 3 January 2018; and\n(b) Article 4(4) and (5), Article 5(6), Article 6(5) and (6), Article 7(5), Article 11(9), (10) and (11), Article 12(5), Article 13(7) and (11), Article 16(5), the third subparagraph of Article 17(2), Article 17(3), (10) and (11), Article 18(9), Article 19(13), (14) and (15), Article 20(3), Article 24(3), Article 25(9), the second, third and fourth subparagraphs of Article 26(2), Article 32(5) and Article 33(5), which shall apply from 2 July 2014.\n3. Member States shall take the necessary measures to comply with Articles 22, 23 and 30, Article 31(1) and Articles 32 and 34 by 3 July 2016.\n4. References in this Regulation to Directive 2014/65/EU and Regulation (EU) No 600/2014 shall, before 3 January 2018, be read as references to Directive 2004/39/EC in accordance with the correlation table set out in Annex IV to Directive 2014/65/EU in so far as that correlation table contains provisions referring to Directive 2004/39/EC.\nWhere reference in the provisions of this Regulation is made to OTFs, SME growth markets, emission allowances or auctioned products based thereon, those provisions shall not apply to OTFs, SME growth markets, emission allowances or auctioned products based thereon until 3 January 2018.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 39 PA 2 ALN 1",
+          "AR 39 PA 2 ALN 1 PTA (a)",
+          "AR 39 PA 2 ALN 1 PTA (b)",
+          "AR 39 PA 4 ALN 1",
+          "AR 39 PA 4 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R1033",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2017-01-03"
+        ],
+        "dates_added": [
+          "2018-01-03"
+        ],
+        "in_force": "2016-07-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R1033 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 is restructured into two lettered points, adding a new point (a) stating that Article 4(2) and (3) shall apply from 3 January 2018, while the previously listed group of provisions is moved into point (b) and continues to apply from 2 July 2014.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 39"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_39",
+              "label": "Art. 39, 02014R0596-20160703"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 4, the date before which references to Directive 2014/65/EU and Regulation (EU) No 600/2014 are read as references to Directive 2004/39/EC, and the date until which certain provisions do not apply to OTFs, SME growth markets, emission allowances or auctioned products based thereon, is changed from 3 January 2017 to 3 January 2018.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "32014R0596",
+                "location": "AR 39"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_39",
+              "label": "Art. 39, 32014R0596"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0596",
+                  "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+                },
+                "version": "02014R0596-20160703",
+                "location": "AR 39"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_39",
+              "label": "Art. 39, 02014R0596-20160703"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0596",
+      "display_name": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC  Text with EEA relevance"
+    },
+    "from_version": "32014R0596",
+    "to_version": "02014R0596-20160703",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 19",
+          "AR 35",
+          "AR 37",
+          "AR 38",
+          "AR 39"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 19",
+          "AR 35",
+          "AR 38",
+          "AR 39"
+        ],
+        "note": "10 annotations in (the act itself, 2016-07-03]",
+        "claims": [
+          {
+            "location": "AR 39 PA 4 L 2",
+            "change_type": "MODIFIED",
+            "in_force": "2016-07-01",
+            "source": "32016R1033 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1033",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 39 PA 4 L 1",
+            "change_type": "MODIFIED",
+            "in_force": "2016-07-01",
+            "source": "32016R1033 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1033",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 39 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2016-07-01",
+            "source": "32016R1033 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1033",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 35 PA 2 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 35 PA 5 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 35 PA 3 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 19 PA 7 L 3",
+            "change_type": "INSERTED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 38 L 2",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 38 L 1",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 19 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2016-06-30",
+            "source": "32016R1011 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1011",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32016R1033, 32016R1011",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 4,
+        "shared": 4,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 3",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 37",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 6,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 32671,
+      "output_tokens": 1731,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 13,
+    "citations": 18,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
