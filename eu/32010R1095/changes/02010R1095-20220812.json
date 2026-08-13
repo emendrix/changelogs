@@ -1,0 +1,422 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1095",
+    "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+  },
+  "from_version": "02010R1095-20200101",
+  "to_version": "02010R1095-20220812",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-08-12"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 92,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20220812",
+          "location": "AR 4"
+        },
+        "heading": "Definitions",
+        "before": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) financial market participant means any person in relation to whom a requirement in the legislation referred to in Article 1(2) or a national law implementing such legislation applies;\n(2) key financial market participant means a financial market participant whose regular activity or financial viability has or is likely to have a significant effect on the stability, integrity or efficiency of the financial markets in the Union;\n(3) competent authorities means:\n(i) competent authorities and/or supervisory authorities as defined in the legislation referred to in Article 1(2);\n(ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by firms providing investment services and by collective investment undertakings marketing their units or shares;\n(iii) with regard to investor compensation schemes, bodies which administer national compensation schemes pursuant to Directive 97/9/EC, or in the case where the operation of the investor compensation scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive.",
+        "after": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) financial market participant means any person in relation to whom a requirement in the legislation referred to in Article 1(2) or a national law implementing such legislation applies;\n(2) key financial market participant means a financial market participant whose regular activity or financial viability has or is likely to have a significant effect on the stability, integrity or efficiency of the financial markets in the Union;\n(3) competent authorities means:\n(i) competent authorities and/or supervisory authorities as defined in the legislation referred to in Article 1(2);\n(ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by firms providing investment services and by collective investment undertakings marketing their units or shares;\n(iii) with regard to investor compensation schemes, bodies which administer national compensation schemes pursuant to Directive 97/9/EC, or in the case where the operation of the investor compensation scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive;\n(iv) with regard to Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., a resolution authority as defined in point (3) of Article 2 of that Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4 ALN 1 PO 3 PTI (iii)",
+          "AR 4 ALN 1 PO 3 PTI (iv)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2020-12-16",
+          "2021-01-22"
+        ],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 086 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of competent authorities in point (3) now includes a new subpoint (iv) covering resolution authorities as defined under Regulation (EU) 2021/23 on central counterparty recovery and resolution, referencing point (3) of Article 2 of that Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20220812",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4",
+              "label": "Art. 4, 02010R1095-20220812"
+            }
+          ]
+        },
+        {
+          "text": "Point (3)(iii) on investor compensation schemes ends with a semicolon in the amended text rather than a full stop, reflecting the addition of the new subpoint that follows it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_4",
+              "label": "Art. 4, 02010R1095-20200101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20220812",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4",
+              "label": "Art. 4, 02010R1095-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1095",
+            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+          },
+          "version": "02010R1095-20220812",
+          "location": "AR 40"
+        },
+        "heading": "Composition",
+        "before": "Article 40\nComposition\n1. The Board of Supervisors shall be composed of:\n(a) the Chairperson;\n(b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;\n(c) one representative of the Commission, who shall be non-voting;\n(d) one representative of the ESRB, who shall be non-voting;\n(e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;\n2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.\n3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer investor compensation schemes in each Member State, who shall be non-voting.\n6. The Board of Supervisors may decide to admit observers.\nThe Executive Director may participate in meetings of the Board of Supervisors without the right to vote.\n7. Where the national public authority referred to in point (b) of paragraph 1 is not responsible for the enforcement of consumer protection rules, the member of the Board of Supervisors referred to in that point may decide to invite a representative from the Member State’s consumer protection authority, who shall be non-voting. In the case where the responsibility for consumer protection is shared by several authorities in a Member State, those authorities shall agree on a common representative.",
+        "after": "Article 40\nComposition\n1. The Board of Supervisors shall be composed of:\n(a) the Chairperson;\n(b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;\n(c) one representative of the Commission, who shall be non-voting;\n(d) one representative of the ESRB, who shall be non-voting;\n(e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;\n2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.\n3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer investor compensation schemes in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Regulation (EU) 2021/23, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.\n6. The Board of Supervisors may decide to admit observers.\nThe Executive Director may participate in meetings of the Board of Supervisors without the right to vote.\n7. Where the national public authority referred to in point (b) of paragraph 1 is not responsible for the enforcement of consumer protection rules, the member of the Board of Supervisors referred to in that point may decide to invite a representative from the Member State’s consumer protection authority, who shall be non-voting. In the case where the responsibility for consumer protection is shared by several authorities in a Member State, those authorities shall agree on a common representative.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 40 PA 5 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 086 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new sentence is added to paragraph 5 stating that, for the purpose of acting within the scope of Regulation (EU) 2021/23, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20220812",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_40",
+              "label": "Art. 40, 02010R1095-20220812"
+            }
+          ]
+        },
+        {
+          "text": "The rest of Article 40, including the existing sentence on Directive 97/9/EC representatives, remains as it was.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_40",
+              "label": "Art. 40, 02010R1095-20200101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20220812",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_40",
+              "label": "Art. 40, 02010R1095-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1095",
+      "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+    },
+    "from_version": "02010R1095-20200101",
+    "to_version": "02010R1095-20220812",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": "2 annotations in (2020-01-01, 2022-08-12]",
+        "claims": [
+          {
+            "location": "AR 40 PO 5 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 3 PTI (iv)",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 40"
+        ],
+        "note": "32021R0023, 0.938 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 4 PO 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 086 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 086 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7344,
+      "output_tokens": 525,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

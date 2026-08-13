@@ -10,6 +10,90 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20220812 -->
+## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1095-20200101` → `02010R1095-20220812`
+
+- **Act** `eu:32010R1095` · **In force** 2022-08-12 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 92 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1095-20200101` · `v2` = `02010R1095-20220812`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 3 PTI (iii)`, `AR 4 ALN 1 PO 3 PTI (iv)` · *dates* +2020-12-16 +2021-01-22 · *amended by* `32021R0023`
+
+The definition of competent authorities in point (3) now includes a new subpoint (iv) covering resolution authorities as defined under Regulation (EU) 2021/23 on central counterparty recovery and resolution, referencing point (3) of Article 2 of that Regulation. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
+
+Point (3)(iii) on investor compensation schemes ends with a semicolon in the amended text rather than a full stop, reflecting the addition of the new subpoint that follows it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
+
+*before* (`02010R1095-20200101`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial market participant means any person in relation to whom a requirement in the legislation referred to in Article 1(2) or a national law implementing such legislation applies;
+> (2) key financial market participant means a financial market participant whose regular activity or financial viability has or is likely to have a significant effect on the stability, integrity or efficiency of the financial markets in the Union;
+> (3) competent authorities means:
+> (i) competent authorities and/or supervisory authorities as defined in the legislation referred to in Article 1(2);
+> (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by firms providing investment services and by collective investment undertakings marketing their units or shares;
+> (iii) with regard to investor compensation schemes, bodies which administer national compensation schemes pursuant to Directive 97/9/EC, or in the case where the operation of the investor compensation scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive.
+
+*after* (`02010R1095-20220812`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial market participant means any person in relation to whom a requirement in the legislation referred to in Article 1(2) or a national law implementing such legislation applies;
+> (2) key financial market participant means a financial market participant whose regular activity or financial viability has or is likely to have a significant effect on the stability, integrity or efficiency of the financial markets in the Union;
+> (3) competent authorities means:
+> (i) competent authorities and/or supervisory authorities as defined in the legislation referred to in Article 1(2);
+> (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by firms providing investment services and by collective investment undertakings marketing their units or shares;
+> (iii) with regard to investor compensation schemes, bodies which administer national compensation schemes pursuant to Directive 97/9/EC, or in the case where the operation of the investor compensation scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive;
+> (iv) with regard to Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterpar […truncated by emendrix: 311 characters omitted…]
+
+**MODIFIED · Art. 40 — Composition** · applies from: unchanged
+
+*within* `AR 40 PA 5 ALN 2` · *amended by* `32021R0023`
+
+A new sentence is added to paragraph 5 stating that, for the purpose of acting within the scope of Regulation (EU) 2021/23, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_40)
+
+The rest of Article 40, including the existing sentence on Directive 97/9/EC representatives, remains as it was. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_40)
+
+*before* (`02010R1095-20200101`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where […truncated by emendrix: 834 characters omitted…]
+
+*after* (`02010R1095-20220812`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where […truncated by emendrix: 1120 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1095-20220812 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20200101 -->
 ## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1095-20140523` → `02010R1095-20200101`
