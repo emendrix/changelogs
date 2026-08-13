@@ -10,6 +10,56 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20210626 -->
+## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
+### `02014R0806-20201228` → `02014R0806-20210626`
+
+- **Act** `eu:32014R0806` · **In force** 2021-06-26 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02014R0806-20201228` · `v2` = `02014R0806-20210626`
+
+---
+
+**MODIFIED · Art. 12a — Application and calculation of the minimum requirement for own funds and eligible liabilities** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 12a PA 3` · *dates* +2019-11-27 · *amended by* `32019R2033`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — ModelAPIError: Connection error..*
+
+*before* (`02014R0806-20201228`)
+
+> Article 12a
+> Application and calculation of the minimum requirement for own funds and eligible liabilities
+> 1. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.
+> 2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:
+> (a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+> (b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
+
+*after* (`02014R0806-20210626`)
+
+> Article 12a
+> Application and calculation of the minimum requirement for own funds and eligible liabilities
+> 1. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.
+> 2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:
+> (a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+> (b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
+> 3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment fi […truncated by emendrix: 1365 characters omitted…]
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20210626 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20201228 -->
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `32014R0806` → `02014R0806-20201228`
