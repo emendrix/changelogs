@@ -10,6 +10,85 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20251115 -->
+## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
+### `02021R0821-20241108` → `02021R0821-20251115`
+
+- **Act** `eu:32021R0821` · **In force** 2025-11-15 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02021R0821-20241108` · `v2` = `02021R0821-20251115`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32025R2003`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I — LIST OF DUAL-USE ITEMS REFERRED TO IN ARTICLE 3 OF THIS REGULATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I`, `AN I PTA (0b001) PTA (b) PO 13 PTA (b)`, `AN I PTA (0b001) PTA (h) PO 1`, `AN I PTA (0b004) PTA (b) PO 8`, `AN I PTA (0b004) PTA (b) PO 10 PO 3`, `AN I PTA (0c001)`, `AN I PTA (0c004)`, `AN I PTA (1a002)`, `AN I PTA (1a004) PTA (a) PO 4 PTA (d)`, `AN I PTA (1a004) PTA (a) PO 4 PTA (e)`, `AN I PTA (1a008)`, `AN I PTA (1a008) PTA (a)`, `AN I PTA (1a225)`, `AN I PTA (1b001)`, `AN I PTA (1c001) PTA (a)`, `AN I PTA (1c001) PTA (b)`, `AN I PTA (1c002)`, `AN I PTA (1c002) PTA (c) PO 1 PTA (a)`, `AN I PTA (1c002) PTA (c) PO 2 PTA (g)`, `AN I PTA (1c002) PTA (c) PO 2 PTA (h)`, `AN I PTA (1c002) PTA (c) PO 2 PTA (i)`, `AN I PTA (1c005) PTA (b) PO 1`, `AN I PTA (1c005) PTA (b) PO 2`, `AN I PTA (1c005) PTA (c)`, `AN I PTA (1c010) PTA (b)`, `AN I PTA (1c010) PTA (e) PO 1`, `AN I PTA (1c010) PTA (e) PO 2`, `AN I PTA (1c010) PO 1`, `AN I PTA (1c011)`, `AN I PTA (1c107) PTA (f)`, `AN I PTA (1c116)`, `AN I PTA (1c216) PTA (1c225)`, `AN I PTA (1c216) PTA (1c226)`, `AN I PTA (1c237)`, `AN I PTA (1c350)`, `AN I PTA (1c350) PO 18`, `AN I PTA (1c351) PTA (a) PO 4 PTA (b)`, `AN I PTA (1c351) PTA (d)`, `AN I PTA (1c351) PTA (d) PO 1`, `AN I PTA (1c513)`, `AN I PTA (2b001) PTA (b) PO 4`, `AN I PTA (2b001) PTA (b) PO 4 PTA (a)`, `AN I PTA (2b001) PTA (c)`, `AN I PTA (2b001) PTA (c) PO 2`, `AN I PTA (2b001) PTA (c) PO 2 PTA (c)`, `AN I PTA (2b002) PTA (d) PO 1`, `AN I PTA (2b002) PTA (d) PO 2`, `AN I PTA (2b004)`, `AN I PTA (2b006) PTA (a)`, `AN I PTA (2b006) PTA (b) PO 3 PTA (c)`, `AN I PTA (2b201)`, `AN I PTA (2b201) PTA (a) PO 1`, `AN I PTA (2b201) PTA (b)`, `AN I PTA (2b201) PTA (b) PO 1`, `AN I PTA (2b201) PTA (c)`, `AN I PTA (2b206) PTA (d) PO 2`, `AN I PTA (2b352)`, `AN I PTA (2b352) PTA (c)`, `AN I PTA (2b352) PTA (c) PO 1`, `AN I PTA (2b352) PTA (c) PO 1 PTA (a)`, `AN I PTA (2b352) PTA (c) PO 1 PTA (b)`, `AN I PTA (2b352) PTA (c) PO 1 PTA (c)`, `AN I PTA (2b352) PTA (c) PO 2`, `AN I PTA (2b352) PTA (c) PO 3`, `AN I PTA (2b352) PTA (c) PO 4`, `AN I PTA (2b352) PTA (h) PO 2`, `AN I PTA (2b352) PTA (j)`, `AN I PTA (2b510)`, `AN I PTA (2d001) PTA (a)`, `AN I PTA (2d002)`, `AN I PTA (2e001)`, `AN I PTA (2e503)`, `AN I PO 8`, `AN I PO 14`, `AN I PTA (3a001) PTA (a)`, `AN I PTA (3a001) PTA (a) PO 2`, `AN I PTA (3a001) PTA (a) PO 5 PTA (a)`, `AN I PTA (3a001) PTA (a) PO 5 PTA (b)`, `AN I PTA (3a001) PTA (a) PO 5 PTA (b) PO 1`, `AN I PTA (3a001) PTA (a) PO 7`, `AN I PTA (3a001) PTA (a) PO 9`, `AN I PTA (3a001) PTA (a) PO 10 PTA (b)`, `AN I PTA (3a001) PTA (a) PO 10 PTA (c)`, `AN I PTA (3a001) PTA (a) PO 14`, `AN I PTA (3a001) PTA (b) PO 1 PTA (d)`, `AN I PTA (3a001) PTA (b) PO 2`, `AN I PTA (3a001) PTA (b) PO 3`, `AN I PTA (3a001) PTA (b) PO 4`, `AN I PTA (3a001) PTA (b) PO 4 PTA (e) PO 3`, `AN I PTA (3a001) PTA (b) PO 4 PTA (f)`, `AN I PTA (3a001) PTA (b) PO 11`, `AN I PTA (3a001) PTA (b) PO 12`, `AN I PTA (3a001) PTA (b) PO 12 PTA (a)`, `AN I PTA (3a001) PTA (b) PO 12 PTA (c)`, `AN I PTA (3a001) PTA (c) PO 1 PTA (b)`, `AN I PTA (3a001) PTA (e) PO 1`, `AN I PTA (3a001) PTA (e) PO 3 PTA (c)`, `AN I PTA (3a001) PTA (g)`, `AN I PTA (3a001) PTA (h)`, `AN I PTA (3a002) PTA (a)`, `AN I PTA (3a002) PTA (a) PO 7`, `AN I PTA (3a002) PTA (a) PO 7 PTA (a)`, `AN I PTA (3a002) PTA (a) PO 7 PTA (b)`, `AN I PTA (3a002) PTA (d) PO 5`, `AN I PTA (3a002) PTA (h) PO 1 PTA (d)`, `AN I PTA (3a002) PTA (h) PO 2 PTA (c)`, `AN I PTA (3a101)`, `AN I PTA (3a101) PTA (a)`, `AN I PTA (3a101) PTA (b)`, `AN I PTA (3a501)`, `AN I PTA (3a502)`, `AN I PTA (3a504)`, `AN I PTA (3b001) PTA (a)`, `AN I PTA (3b001) PTA (f) PO 1`, `AN I PTA (3b001) PTA (f) PO 1 PTA (b)`, `AN I PTA (3b001) PTA (f) PO 2`, `AN I PTA (3b001) PTA (i)`, `AN I PTA (3b001) PTA (j) PO 1`, `AN I PTA (3b501)`, `AN I PTA (3b503)`, `AN I PTA (3b504)`, `AN I PTA (3c001)`, `AN I PTA (3c005)`, `AN I PTA (3c507)`, `AN I PTA (3c508)`, `AN I PTA (3c509)`, `AN I PTA (3d001)`, `AN I PTA (3d002)`, `AN I PTA (3d507)`, `AN I PTA (3e001)`, `AN I PTA (3e003) PTA (b)`, `AN I PTA (3e505)`, `AN I PTA (4a001) PTA (a)`, `AN I PTA (4a001) PTA (a) PO 1`, `AN I PTA (4a001) PTA (a) PO 2`, `AN I PTA (4a001) PTA (a) PO 2 PTA (a)`, `AN I PTA (4a001) PTA (a) PO 2 PTA (b)`, `AN I PTA (4a001) PTA (a) PO 2 PTA (c)`, `AN I PTA (4a003) PTA (g)`, `AN I PTA (4a506)`, `AN I PTA (4a507)`, `AN I PTA (4d001) PTA (a)`, `AN I PTA (4d001) PTA (b) PO 2`, `AN I PTA (4d001) PTA (b) PO 3`, `AN I PTA (4d002)`, `AN I PTA (4e001)`, `AN I PTA (4e001) PTA (a)`, `AN I PTA (4e001) PTA (b) PO 2`, `AN I PTA (4e001) PTA (b) PO 3`, `AN I PTA (5a001) PTA (a)`, `AN I PTA (5a001) PTA (b) PO 3 PTA (b)`, `AN I PTA (5a001) PTA (b) PO 5`, `AN I PTA (5a001) PTA (b) PO 6`, `AN I PTA (5a001) PTA (c)`, `AN I PTA (5a001) PTA (d)`, `AN I PTA (5a001) PTA (d) PO 1`, `AN I PTA (5a001) PTA (d) PO 2`, `AN I PTA (5a001) PTA (d) PO 3`, `AN I PTA (5a001) PTA (f)`, `AN I PTA (5d001) PTA (d) PO 4`, `AN I PTA (5e001) PTA (b) PO 1`, `AN I PTA (5e001) PTA (c) PO 3`, `AN I PTA (5a002)`, `AN I PTA (5a002) PTA (a)`, `AN I PTA (6a001) PTA (a) PO 1 PTA (a)`, `AN I PTA (6a001) PTA (a) PO 1 PTA (a) PO 1`, `AN I PTA (6a001) PTA (a) PO 1 PTA (a) PO 1 PTA (d)`, `AN I PTA (6a001) PTA (a) PO 1 PTA (c) PO 1`, `AN I PTA (6a002) PTA (a) PO 3`, `AN I PTA (6a002) PTA (a) PO 3 PTA (e)`, `AN I PTA (6a002) PTA (a) PO 3 PTA (f)`, `AN I PTA (6a002) PTA (a) PO 3 PTA (g)`, `AN I PTA (6a002) PTA (a) PTA (e)`, `AN I PTA (6a002) PTA (a) PTA (f)`, `AN I PTA (6a002) PTA (a) PTA (g)`, `AN I PTA (6a002) PTA (b) PO 1`, `AN I PTA (6a002) PTA (c)`, `AN I PTA (6a002) PTA (c) PO 3`, `AN I PTA (6a002) PTA (f)`, `AN I PTA (6a003) PTA (b) PO 1`, `AN I PTA (6a003) PTA (b) PO 1 PTA (a) PO 1`, `AN I PTA (6a003) PTA (b) PO 1 PTA (a) PO 2`, `AN I PTA (6a003) PTA (b) PO 1 PTA (a) PO 3`, `AN I PTA (6a003) PTA (b) PO 2 PTA (a)`, `AN I PTA (6a003) PTA (b) PO 4`, `AN I PTA (6a004) PTA (a) PO 1`, `AN I PTA (6a004) PTA (d) PO 2 PTA (a) PO 1`, `AN I PTA (6a004) PTA (d) PO 4`, `AN I PTA (6a005)`, `AN I PTA (6a005) PTA (a) PO 6 PTA (b)`, `AN I PTA (6a005) PTA (a) PO 6 PTA (b) PO 1`, `AN I PTA (6a005) PTA (b)`, `AN I PTA (6a005) PTA (b) PO 6 PTA (c) PO 1 PTA (c)`, `AN I PTA (6a005) PTA (b) PO 6 PTA (c) PO 2 PTA (b)`, `AN I PTA (6a005) PTA (b) PO 6 PTA (d) PO 1 PTA (b)`, `AN I PTA (6a005) PTA (b) PO 6 PTA (d) PO 2`, `AN I PTA (6a005) PTA (b) PO 6 PO 2`, `AN I PTA (6a005) PTA (b) PO 6 PO 7`, `AN I PTA (6a005) PTA (b) PO 6 PO 8`, `AN I PTA (6a005) PTA (b) PO 6 PO 9`, `AN I PTA (6a005) PTA (b) PO 6 PO 10`, `AN I PTA (6a005) PTA (b) PO 7`, `AN I PTA (6a005) PTA (b) PO 8`, `AN I PTA (6a005) PTA (b) PO 9`, `AN I PTA (6a005) PTA (b) PO 10`, `AN I PTA (6a005) PTA (d) PO 1`, `AN I PTA (6a005) PTA (d) PO 1 PTA (a) PO 1`, `AN I PTA (6a005) PTA (d) PO 1 PTA (a) PO 2`, `AN I PTA (6a005) PTA (d) PO 1 PTA (b) PO 1`, `AN I PTA (6a005) PTA (d) PO 1 PTA (b) PO 2`, `AN I PTA (6a005) PTA (d) PO 1 PTA (b) PO 3`, `AN I PTA (6a005) PTA (d) PO 1 PTA (b) PO 4`, `AN I PTA (6a005) PTA (d) PO 1 PTA (b) PO 5`, `AN I PTA (6a005) PTA (d) PO 1 PTA (c) PO 1`, `AN I PTA (6a005) PTA (d) PO 1 PTA (c) PO 2`, `AN I PTA (6a005) PTA (d) PO 1 PTA (c) PO 3`, `AN I PTA (6a005) PTA (d) PO 5`, `AN I PTA (6a005) PTA (d) PO 6`, `AN I PTA (6a005) PTA (e) PO 3 PTA (c) PO 2`, `AN I PTA (6a005) PTA (f)`, `AN I PTA (6a008)`, `AN I PTA (6a008) PTA (h)`, `AN I PTA (6a008) PTA (h) PO 2`, `AN I PTA (6a008) PTA (j)`, `AN I PTA (6a203) PTA (c)`, `AN I PTA (6a225)`, `AN I PTA (6c004) PTA (b) PO 4`, `AN I PTA (6c004) PTA (e)`, `AN I PTA (6d003) PTA (c)`, `AN I PTA (7a003)`, `AN I PTA (7a008)`, `AN I PTA (7b001)`, `AN I PTA (7e003)`, `AN I PTA (7e004) PTA (a) PO 5`, `AN I PTA (8a001) PTA (b)`, `AN I PTA (8a001) PTA (c) PO 1 PTA (a)`, `AN I PTA (8a001) PTA (c) PO 1 PTA (b)`, `AN I PTA (8a001) PTA (c) PO 1 PTA (c)`, `AN I PTA (8a002) PTA (a) PO 2`, `AN I PTA (8a002) PTA (b)`, `AN I PTA (8a002) PTA (d) PO 2 PTA (b)`, `AN I PTA (8a002) PTA (o) PO 1`, `AN I PTA (8a002) PTA (o) PO 4`, `AN I PTA (8e002) PTA (b)`, `AN I PTA (9a001) PTA (a)`, `AN I PTA (9a004)`, `AN I PTA (9a004) PTA (b)`, `AN I PTA (9a004) PTA (d)`, `AN I PTA (9a004) PTA (e) PO 1`, `AN I PTA (9a004) PTA (e) PO 2`, `AN I PTA (9a004) PTA (e) PO 3`, `AN I PTA (9a006) PTA (b)`, `AN I PTA (9a007) PTA (e)`, `AN I PTA (9a008) PTA (a)`, `AN I PTA (9a012) PTA (a)`, `AN I PTA (9b003)`, `AN I PTA (9b004)`, `AN I PTA (9d005)`, `AN I PTA (9d101)`, `AN I PTA (9e003)`, `AN I PTA (9e003) PTA (a)`, `AN I PTA (9e003) PTA (a) PO 1`, `AN I PTA (9e003) PTA (a) PO 2`, `AN I PTA (9e003) PTA (a) PO 2 PTA (e)`, `AN I PTA (9e003) PTA (a) PO 5`, `AN I PTA (9e003) PTA (a) PO 6`, `AN I PTA (9e003) PTA (a) PO 8`, `AN I PTA (9e003) PTA (c)`, `AN I PTA (9e003) PTA (e)`, `AN I PTA (9e003) PTA (i)`, `AN I PTA (9e003) PTA (i) PO 3`, `AN I PTA (9e003) PTA (k)`, `AN I PTA (9e102)`, `AN I PTA (1c225)`, `AN I PTA (1c226)` · *dates* -2404-03-07 · *amended by* `32025R2003`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The Annex's acronyms/abbreviations list and its definitions section have been edited: several entries were dropped, some new ones added (for example FPLD, LUT, PMAC, and a standalone "Data device" definition), and various definitions were reworded, merged, or had cross-references and citation numbers adjusted, such as the removal of the (8) category reference from "Accuracy" and the shortened "Laser" cross-reference note. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20241108#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20251115#anx_I)
+
+Some terms present before, such as "Camming", "Chemical laser", and "Basic gate propagation delay time", no longer appear, while other terms, such as "Maintenance Level I" and "Maintenance Level II", have been introduced in their place within the definitions list. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20251115#anx_I)
+
+Given the very large number of listed sub-provisions and the truncation of both texts, only the visible portions of Part I's acronyms and definitions can be compared, and the remainder of the differences across the numbered categories cannot be described from the material shown. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20241108#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20251115#anx_I)
+
+*before* (`02021R0821-20241108`)
+
+> ANNEX I
+> LIST OF DUAL-USE ITEMS REFERRED TO IN ARTICLE 3 OF THIS REGULATION
+> The list of dual-use items contained in this Annex implements internationally agreed dual-use controls including the Australia Grouphttps://www.australiagroup.net/, the Missile Technology Control Regime (MTCR)http://mtcr.info/, the Nuclear Suppliers Group (NSG)http://www.nuclearsuppliersgroup.org/, the Wassenaar Arrangementhttp://www.wassenaar.org/ and the Chemical Weapons Convention (CWC)https://www.opcw.org/chemical-weapons-convention..
+> CONTENTS
+> Part I General Notes, Acronyms and Abbreviations, and Definitions
+> Part II - Category 0 Nuclear materials, facilities and equipment
+> Part III - Category 1 Special materials and related equipment
+> Part IV- Category 2 Materials processing
+> Part V - Category 3 Electronics
+> Part VI - Category 4 Computers
+> Part VII - Category 5 Telecommunications and "information security"
+> Part VIII - Category 6 Sensors and lasers
+> Part IX - Category 7 Navigation and avionics
+> Part X - Category 8 Marine
+> Part XI - Category 9 Aerospace and propulsion
+> PART I
+> General Notes, Acronyms and Abbreviations, and Definitions
+> GENERAL NOTES TO ANNEX I
+> 1. For control of goods which are designed or modified for military use, see the Common Military List of the European UnionCommon Military List of the European Union (equipment covered by Council Common Position 2008/944/CFSP defining common rules governing the control of exports of military technology and equipment). and relevant list(s) of controls on m […truncated by emendrix: 586451 characters omitted…]
+
+*after* (`02021R0821-20251115`)
+
+> ANNEX I
+> LIST OF DUAL-USE ITEMS REFERRED TO IN ARTICLE 3 OF THIS REGULATION
+> The list of dual-use items contained in this Annex implements internationally agreed dual-use controls including the Australia Grouphttps://www.australiagroup.net/, the Missile Technology Control Regime (MTCR)http://mtcr.info/, the Nuclear Suppliers Group (NSG)http://www.nuclearsuppliersgroup.org/, the Wassenaar Arrangementhttp://www.wassenaar.org/ and the Chemical Weapons Convention (CWC)https://www.opcw.org/chemical-weapons-convention..
+> CONTENTS
+> Part I General Notes, Acronyms and Abbreviations, and Definitions
+> Part II - Category 0 Nuclear materials, facilities and equipment
+> Part III - Category 1 Special materials and related equipment
+> Part IV- Category 2 Materials processing
+> Part V - Category 3 Electronics
+> Part VI - Category 4 Computers
+> Part VII - Category 5 Telecommunications and "information security"
+> Part VIII - Category 6 Sensors and lasers
+> Part IX - Category 7 Navigation and avionics
+> Part X - Category 8 Marine
+> Part XI - Category 9 Aerospace and propulsion
+> PART I
+> General Notes, Acronyms and Abbreviations, and Definitions
+> GENERAL NOTES TO ANNEX I
+> 1. For control of goods which are designed or modified for military use, see the Common Military List of the European UnionCommon Military List of the European Union (equipment covered by Council Common Position 2008/944/CFSP defining common rules governing the control of exports of military technology and equipment). and relevant list(s) of controls on m […truncated by emendrix: 613372 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02021R0821-20251115 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20241108 -->
 ## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
 ### `02021R0821-20231216` → `02021R0821-20241108`
