@@ -10,6 +10,169 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20200101 -->
+## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
+### `02013R0952-20190515` → `02013R0952-20200101`
+
+- **Act** `eu:32013R0952` · **In force** 2020-01-01 · **Detected** 2026-08-13
+- **Touched** 10 provisions — 10 substantive · 0 date-only · **9 disputed**
+- **Diff** 1 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 289 unchanged
+- **Gate** 0 sentences quoted verbatim · 9 changes shipped without an explanation
+- **Citations** `v1` = `02013R0952-20190515` · `v2` = `02013R0952-20200101`
+
+---
+
+**MODIFIED · Art. 4 — Customs territory** · applies from: unchanged
+
+*within* `AR 4 PA 1 ALN 1` · *amended by* `32019R0474`
+
+In the description of the Italian Republic's territory, the exclusion of the municipality of Campione d'Italia and the national waters of Lake Lugano between Ponte Tresa and Porto Ceresio has been removed, leaving only the municipality of Livigno as an exception. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_4)
+
+*before* (`02013R0952-20190515`)
+
+> Article 4
+> Customs territory
+> 1. The customs territory of the Union shall comprise the following territories, including their territorial waters, internal waters and airspace:
+> the territory of the Kingdom of Belgium,
+> the territory of the Republic of Bulgaria,
+> the territory of the Czech Republic,
+> the territory of the Kingdom of Denmark, except the Faroe Islands and Greenland,
+> the territory of the Federal Republic of Germany, except the Island of Heligoland and the territory of Büsingen (Treaty of 23 November 1964 between the Federal Republic of Germany and the Swiss Confederation),
+> the territory of the Republic of Estonia,
+> the territory of Ireland,
+> the territory of the Hellenic Republic,
+> the territory of the Kingdom of Spain, except Ceuta and Melilla,
+> the territory of the French Republic, except the French overseas countries and territories to which the provisions of Part Four of the TFEU apply,
+> the territory of the Republic of Croatia,
+> the territory of the Italian Republic, except the municipalities of Livigno and Campione d'Italia and the national waters of Lake Lugano which are between the bank and the political frontier of the area between Ponte Tresa and Porto Ceresio,
+> the territory of the Republic of Cyprus, in accordance with the provisions of the 2003 Act of Accession,
+> the territory of the Republic of Latvia,
+> the territory of the Republic of Lithuania,
+> the territory of the Grand Duchy of Luxembourg,
+> the territory of Hungary,
+> the territory of Malta,
+> the territory of the K […truncated by emendrix: 1251 characters omitted…]
+
+*after* (`02013R0952-20200101`)
+
+> Article 4
+> Customs territory
+> 1. The customs territory of the Union shall comprise the following territories, including their territorial waters, internal waters and airspace:
+> the territory of the Kingdom of Belgium,
+> the territory of the Republic of Bulgaria,
+> the territory of the Czech Republic,
+> the territory of the Kingdom of Denmark, except the Faroe Islands and Greenland,
+> the territory of the Federal Republic of Germany, except the Island of Heligoland and the territory of Büsingen (Treaty of 23 November 1964 between the Federal Republic of Germany and the Swiss Confederation),
+> the territory of the Republic of Estonia,
+> the territory of Ireland,
+> the territory of the Hellenic Republic,
+> the territory of the Kingdom of Spain, except Ceuta and Melilla,
+> the territory of the French Republic, except the French overseas countries and territories to which the provisions of Part Four of the TFEU apply,
+> the territory of the Republic of Croatia,
+> the territory of the Italian Republic, except the municipality of Livigno,
+> the territory of the Republic of Cyprus, in accordance with the provisions of the 2003 Act of Accession,
+> the territory of the Republic of Latvia,
+> the territory of the Republic of Lithuania,
+> the territory of the Grand Duchy of Luxembourg,
+> the territory of Hungary,
+> the territory of Malta,
+> the territory of the Kingdom of the Netherlands in Europe,
+> the territory of the Republic of Austria,
+> the territory of the Republic of Poland,
+> the territory of the Portuguese Republic,
+> the t […truncated by emendrix: 1084 characters omitted…]
+
+**MODIFIED · Art. 34** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 124** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 126** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 129** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 139** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 146** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 260a** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 272** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 275** · applies from: unknown
+
+*amended by* `32019R0474`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0952-20200101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0952-20190515 -->
 ## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
 ### `02013R0952-20161224` → `02013R0952-20190515`
