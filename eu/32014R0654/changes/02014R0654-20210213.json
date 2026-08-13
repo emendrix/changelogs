@@ -1,0 +1,1549 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0654",
+    "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+  },
+  "from_version": "02014R0654-20151105",
+  "to_version": "02014R0654-20210213",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2021-02-13"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 9,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 9,
+    "unchanged_units": 3,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 9,
+    "substantive": 9,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter",
+        "before": "Article 1\nSubject matter\nThis Regulation lays down rules and procedures to ensure an effective and timely exercise of the Union's rights to suspend or withdraw concessions or other obligations under international trade agreements, with the intention of:\n(a) responding to breaches by third countries of international trade rules which affect the Union's interests, with a view to seeking a satisfactory solution that restores benefits for the Union's economic operators;\n(b) rebalancing concessions or other obligations in the trade relations with third countries, when the treatment accorded to goods from the Union is altered in a way that affects the Union's interests.",
+        "after": "Article 1\nSubject matter\nThis Regulation lays down rules and procedures to ensure an effective and timely exercise of the Union's rights to suspend or withdraw concessions or other obligations under international trade agreements, with the intention of:\n(a) responding to breaches by third countries of international trade rules which affect the Union's interests, with a view to seeking a satisfactory solution that restores benefits for the Union's economic operators;\n(b) rebalancing concessions or other obligations in the trade relations with third countries, when the treatment accorded to goods or services from the Union is altered in a way that affects the Union’s interests.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b), the reference to the treatment accorded to goods from the Union has been expanded to also cover services from the Union.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_1",
+              "label": "Art. 1, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_1",
+              "label": "Art. 1, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(a) \"country\" means any State or separate customs territory;\n(b) \"concessions or other obligations\" means tariff concessions or any other benefits that the Union has committed itself to applying in its trade with third countries by virtue of international trade agreements to which it is a party;\n(c) \"level of nullification or impairment\" means the degree to which the benefits accruing to the Union under an international trade agreement are affected. Except as otherwise defined in the relevant agreement, it includes any adverse economic impact resulting from a third country measure;\n(d) \"mandatory price penalty\" means an obligation on contracting authorities or entities conducting public procurement procedures to increase, subject to certain exceptions, the price of services and/or goods originating in certain third countries that have been offered in contract award procedures.",
+        "after": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(a) \"country\" means any State or separate customs territory;\n(b) \"concessions or other obligations\" means tariff concessions or other obligations or benefits in the field of trade in goods or services, or concerning trade-related aspects of intellectual property rights, that the Union has committed itself to applying in its trade with third countries by virtue of international trade agreements to which it is a party;\n(c) \"level of nullification or impairment\" means the degree to which the benefits accruing to the Union under an international trade agreement are affected. Except as otherwise defined in the relevant agreement, it includes any adverse economic impact resulting from a third country measure;\n(d) \"mandatory price penalty\" means an obligation on contracting authorities or entities conducting public procurement procedures to increase, subject to certain exceptions, the price of services and/or goods originating in certain third countries that have been offered in contract award procedures.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of \"concessions or other obligations\" in point (b) now describes tariff concessions or other obligations or benefits in the field of trade in goods or services, or concerning trade-related aspects of intellectual property rights, rather than tariff concessions or any other benefits generally.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_2",
+              "label": "Art. 2, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_2",
+              "label": "Art. 2, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 3"
+        },
+        "heading": "Scope",
+        "before": "Article 3\nScope\nThis Regulation applies:\n(a) following the adjudication of trade disputes under the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes (WTO Dispute Settlement Understanding), when the Union has been authorised to suspend concessions or other obligations under the multilateral and plurilateral agreements covered by the WTO Dispute Settlement Understanding;\n(b) following the adjudication of trade disputes under other international trade agreements, including regional or bilateral agreements, when the Union has the right to suspend concessions or other obligations under such agreements;\n(c) for the rebalancing of concessions or other obligations, to which the application of a safeguard measure by a third country may give right pursuant to Article 8 of the WTO Agreement on Safeguards, or to the provisions on safeguards included in other international trade agreements, including regional or bilateral agreements;\n(d) in cases of modification of concessions by a WTO member under Article XXVIII of the GATT 1994, where no compensatory adjustments have been agreed.",
+        "after": "Article 3\nScope\nThis Regulation applies:\n(a) following the adjudication of trade disputes under the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes (WTO Dispute Settlement Understanding), when the Union has been authorised to suspend concessions or other obligations under the multilateral and plurilateral agreements covered by the WTO Dispute Settlement Understanding;\n(aa) following the circulation of a WTO panel report upholding, in whole or in part, the claims brought by the Union, if an appeal under Article 17 of the WTO Dispute Settlement Understanding cannot be completed and if the third country has not agreed to interim appeal arbitration under Article 25 of the WTO Dispute Settlement Understanding;\n(b) following the adjudication of trade disputes under other international trade agreements, including regional or bilateral agreements, when the Union has the right to suspend concessions or other obligations under such agreements;\n(ba) in trade disputes relating to other international trade agreements, including regional or bilateral agreements, if adjudication is not possible because the third country is not taking the steps that are necessary for a dispute settlement procedure to function, including unduly delaying the proceedings amounting to non-cooperation in the process;\n(c) for the rebalancing of concessions or other obligations, to which the application of a safeguard measure by a third country may give right pursuant to Article 8 of the WTO Agreement on Safeguards, or to the provisions on safeguards included in other international trade agreements, including regional or bilateral agreements;\n(d) in cases of modification of concessions or commitments by a WTO member under Article XXVIII of the GATT 1994 or Article XXI of the General Agreement on Trade in Services (GATS), where no compensatory adjustments have been agreed and, as regards services, compensatory adjustments are not made in conformity with the findings of the arbitration pursuant to Article XXI of the GATS.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 ALN 1 PTA (aa)",
+          "AR 3 ALN 1 PTA (ba)",
+          "AR 3 ALN 1 PTA (d)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 J; 32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3) (a); AR 001 (3) (b); AR 001 (3) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The scope provision adds a new point (aa) covering situations following the circulation of a WTO panel report upholding the Union's claims where an appeal cannot be completed and the third country has not agreed to interim appeal arbitration, and a new point (ba) covering trade disputes under other international agreements where adjudication is not possible because a third country fails to take steps necessary for a dispute settlement procedure to function, including undue delay amounting to non-cooperation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_3",
+              "label": "Art. 3, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_3",
+              "label": "Art. 3, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "Point (d) is expanded to also cover modification of commitments by a WTO member under Article XXI of the GATS, and now states that for services the condition of no agreed compensatory adjustments includes cases where such adjustments are not made in conformity with the findings of arbitration pursuant to Article XXI of the GATS.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_3",
+              "label": "Art. 3, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_3",
+              "label": "Art. 3, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 4"
+        },
+        "heading": "Exercise of the Union's rights",
+        "before": "Article 4\nExercise of the Union's rights\n1. Where action is necessary to safeguard the Union's interests in the cases referred to in Article 3, the Commission shall adopt implementing acts determining the appropriate commercial policy measures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 8(2).\n2. Implementing acts adopted pursuant to paragraph 1 shall meet the following conditions:\n(a) where concessions or other obligations are suspended following the adjudication of a trade dispute under the WTO Dispute Settlement Understanding, their level shall not exceed the level authorised by the WTO Dispute Settlement Body;\n(b) where concessions or other obligations are suspended following the discharge of an international dispute settlement procedure under other international trade agreements, including regional or bilateral agreements, their level shall not exceed the level of nullification or impairment as a result of the third country measure concerned, as determined by the Commission or through recourse to arbitration, as the case may be;\n(c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in international trade agreements, the Union's action shall be substantially equivalent to the level of concessions or other obligations affected by the safeguard measure, in accordance with the conditions of the WTO Agreement on Safeguards or of the provisions on safeguards in other international trade agreements, including regional or bilateral agreements, under which the safeguard measure is applied;\n(d) where concessions are withdrawn in the trade with a third country in connection with Article XXVIII of the GATT 1994 and the related UnderstandingUnderstanding \"Interpretation and Application of Article XXVIII\"., they shall be substantially equivalent to the concessions modified or withdrawn by that third country, in accordance with the terms established in Article XXVIII of the GATT 1994 and the related Understanding.\n3. Commercial policy measures referred to in paragraph 1 shall be determined on the basis of the following criteria, in light of available information and of the Union's general interest:\n(a) effectiveness of the measures in inducing compliance of third countries with international trade rules;\n(b) potential of the measures to provide relief to economic operators within the Union affected by third country measures;\n(c) availability of alternative sources of supply for the goods or services concerned, in order to avoid or minimise any negative impact on downstream industries, contracting authorities or entities, or final consumers within the Union;\n(d) avoidance of disproportionate administrative complexity and costs in the application of the measures;\n(e) any specific criteria that may be established in international trade agreements in connection with the cases referred to in Article 3.",
+        "after": "Article 4\nExercise of the Union's rights\n1. Where action is necessary to safeguard the Union's interests in the cases referred to in Article 3, the Commission shall adopt implementing acts determining the appropriate commercial policy measures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 8(2).\n2. Implementing acts adopted pursuant to paragraph 1 shall meet the following conditions:\n(a) where concessions or other obligations are suspended following the adjudication of a trade dispute under the WTO Dispute Settlement Understanding, their level shall not exceed the level authorised by the WTO Dispute Settlement Body;\n(b) where concessions or other obligations are suspended following the discharge of an international dispute settlement procedure under other international trade agreements, including regional or bilateral agreements, their level shall not exceed the level of nullification or impairment as a result of the third country measure concerned, as determined by the Commission or through recourse to arbitration, as the case may be;\n(ba) where measures are taken to restrict trade with a third country in situations under point (aa) or (ba) of Article 3, the level of such measures shall not exceed the nullification or impairment of the Union’s commercial interests caused by the measures of that third country;\n(c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in international trade agreements, the Union's action shall be substantially equivalent to the level of concessions or other obligations affected by the safeguard measure, in accordance with the conditions of the WTO Agreement on Safeguards or of the provisions on safeguards in other international trade agreements, including regional or bilateral agreements, under which the safeguard measure is applied;\n(d) where concessions or commitments are modified or withdrawn in the trade with a third country in connection with Article XXVIII of the GATT 1994 and the related UnderstandingUnderstanding Interpretation and Application of Article XXVIII., or with Article XXI of the GATS and the related implementing procedures, they shall be substantially equivalent to the concessions or commitments modified or withdrawn by that third country, in accordance with the terms established in Article XXVIII of the GATT 1994 and the related Understanding or Article XXI of the GATS and the related implementing procedures.\n3. Commercial policy measures referred to in paragraph 1 shall be determined on the basis of the following criteria, in light of available information and of the Union's general interest:\n(a) effectiveness of the measures in inducing compliance of third countries with international trade rules;\n(b) potential of the measures to provide relief to economic operators within the Union affected by third country measures;\n(c) availability of alternative sources of supply for the goods or services concerned, in order to avoid or minimise any negative impact on downstream industries, contracting authorities or entities, or final consumers within the Union;\n(d) avoidance of disproportionate administrative complexity and costs in the application of the measures;\n(e) any specific criteria that may be established in international trade agreements in connection with the cases referred to in Article 3.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4 PA 2 ALN 1 PTA (ba)",
+          "AR 4 PA 2 ALN 1 PTA (d)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 J; 32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4) (a); AR 001 (4) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new point (ba) has been added setting a cap so that measures taken to restrict trade with a third country under points (aa) or (ba) of Article 3 do not exceed the nullification or impairment of the Union's commercial interests caused by that third country's measures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4",
+              "label": "Art. 4, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "Point (d) has been expanded to cover modification, not only withdrawal, of concessions or commitments, and to add coverage of Article XXI of the GATS and its related implementing procedures alongside Article XXVIII of the GATT 1994 and its related Understanding, with the equivalence requirement extended to concessions or commitments modified as well as withdrawn.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_4",
+              "label": "Art. 4, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4",
+              "label": "Art. 4, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 5"
+        },
+        "heading": "Commercial policy measures",
+        "before": "Article 5\nCommercial policy measures\n1. Without prejudice to any international agreement to which the Union is a party, the commercial policy measures that may be enacted by means of an implementing act pursuant to Article 4(1) shall consist of:\n(a) the suspension of tariff concessions and the imposition of new or increased customs duties, including the re-establishment of customs duties at the most favoured nation level or the imposition of customs duties beyond the most favoured nation level, or the introduction of any additional charge on imports or exports of goods;\n(b) the introduction or increase of quantitative restrictions on imports or exports of goods, whether made effective through quotas, import or export licences or other measures;\n(c) the suspension of concessions regarding goods, services or suppliers in the area of public procurement, through:\n(i) the exclusion from public procurement of suppliers of goods or services established in and operating from the third country concerned and/or of tenders the total value of which is made up of more than 50 % of goods or services originating in the third country concerned; and/or\n(ii) the imposition of a mandatory price penalty on tenders of suppliers of goods or services established in and operating from the third country concerned and/or on that part of the tender consisting of goods or services originating in the third country concerned.\n2. Measures adopted pursuant to paragraph 1(c) shall:\n(a) include thresholds, according to the characteristics of the goods or services concerned, above which the exclusion and/or mandatory price penalty is to apply, taking into account the provisions of the trade agreement concerned and the level of nullification or impairment;\n(b) determine the sectors or the categories of goods or services to which they apply, as well as any applicable exceptions;\n(c) determine the contracting authorities or entities or categories of contracting authorities or entities, listed by Member State, whose procurement is covered. To provide the basis for this determination, each Member State shall submit a list of appropriate contracting authorities or entities or categories of contracting authorities or entities. The measures shall ensure that an appropriate level of suspension of concessions or other obligations and a fair distribution among Member States is achieved.",
+        "after": "Article 5\nCommercial policy measures\n1. Without prejudice to any international agreement to which the Union is a party, the commercial policy measures that may be enacted by means of an implementing act pursuant to Article 4(1) shall consist of:\n(a) the suspension of tariff concessions and the imposition of new or increased customs duties, including the re-establishment of customs duties at the most favoured nation level or the imposition of customs duties beyond the most favoured nation level, or the introduction of any additional charge on imports or exports of goods;\n(b) the introduction or increase of quantitative restrictions on imports or exports of goods, whether made effective through quotas, import or export licences or other measures;\n(ba) the suspension of obligations regarding trade in services and the imposition of restrictions on trade in services;\n(bb) the suspension of obligations with respect to trade-related aspects of intellectual property rights granted by a Union institution or agency and valid throughout the Union, and the imposition of restrictions on the protection of such intellectual property rights or their commercial exploitation, in relation to right-holders who are nationals of the third country concerned;\n(c) the suspension of concessions regarding goods, services or suppliers in the area of public procurement, through:\n(i) the exclusion from public procurement of suppliers of goods or services established in and operating from the third country concerned and/or of tenders the total value of which is made up of more than 50 % of goods or services originating in the third country concerned; and/or\n(ii) the imposition of a mandatory price penalty on tenders of suppliers of goods or services established in and operating from the third country concerned and/or on that part of the tender consisting of goods or services originating in the third country concerned.\n1a. When selecting measures to be adopted pursuant to point (ba) of paragraph 1 of this Article, the Commission shall always consider measures according to the following hierarchy of steps:\n(a) measures relating to trade in services requiring an authorisation valid throughout the Union and based on secondary legislation, or, where no such measures are available,\n(b) measures relating to other services in areas where extensive Union legislation exists, or, where no such measures are available,\n(c) measures which the information-gathering exercise conducted pursuant to Article 9(1a), as provided for in point (a) of Article 5(1b), has demonstrated would not impose a disproportionate burden on the process of administration of relevant national regulations.\n1b. Measures adopted pursuant to points (ba) and (bb) of paragraph 1 shall:\n(a) be subject to an information-gathering exercise pursuant to Article 9(1a);\n(b) be adjusted, if necessary, by means of an implementing act pursuant to Article 4(1) where, after a review conducted pursuant to Article 9(1a), the Commission concludes that the measures are of insufficient effectiveness or impose an unreasonable burden on the process of administration of relevant national regulations. Such review by the Commission shall be first conducted six months after the date of application of the measures and at intervals of 12 months thereafter;\n(c) be subject to an evaluation report, six months after their termination and based, inter alia, on stakeholder input, which shall examine their effectiveness and operation, and draw possible conclusions for future measures.\n2. Measures adopted pursuant to paragraph 1(c) shall:\n(a) include thresholds, according to the characteristics of the goods or services concerned, above which the exclusion and/or mandatory price penalty is to apply, taking into account the provisions of the trade agreement concerned and the level of nullification or impairment;\n(b) determine the sectors or the categories of goods or services to which they apply, as well as any applicable exceptions;\n(c) determine the contracting authorities or entities or categories of contracting authorities or entities, listed by Member State, whose procurement is covered. To provide the basis for this determination, each Member State shall submit a list of appropriate contracting authorities or entities or categories of contracting authorities or entities. The measures shall ensure that an appropriate level of suspension of concessions or other obligations and a fair distribution among Member States is achieved.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 5 PA 1 ALN 1 PTA (ba)",
+          "AR 5 PA 1 ALN 1 PTA (bb)",
+          "AR 5 PA 1a",
+          "AR 5 PA 1b"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5) (a); AR 001 (5) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Two new points (ba) and (bb) are added to Article 5(1), covering the suspension of obligations regarding trade in services with restrictions on such trade, and the suspension of obligations on trade-related intellectual property rights with restrictions on their protection or exploitation for right-holders who are nationals of the third country concerned.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 5"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_5",
+              "label": "Art. 5, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 1a sets out a hierarchy of steps the Commission must always consider when selecting measures under point (ba), moving from services requiring a Union-wide authorisation, to other extensively regulated services, to measures shown by an information-gathering exercise not to impose a disproportionate administrative burden.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 5"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_5",
+              "label": "Art. 5, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 1b requires measures adopted under points (ba) and (bb) to undergo an information-gathering exercise, to be adjustable through an implementing act after periodic Commission reviews assessing effectiveness or burden, and to be subject to an evaluation report six months after their termination, none of which appears in the earlier version of Article 5.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 5"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_5",
+              "label": "Art. 5, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 5"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_5",
+              "label": "Art. 5, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 6"
+        },
+        "heading": "Rules of origin",
+        "before": "Article 6\nRules of origin\n1. The origin of a good shall be determined in accordance with Regulation (EEC) No 2913/92.\n2. The origin of a service shall be determined on the basis of the origin of the natural or legal person providing it. The origin of the service provider shall be deemed to be:\n(a) in the case of a natural person, the country of which the person is a national or where he has a right of permanent residence;\n(b) in the case of a legal person, either of the following:\n(i) if the service is provided other than through a commercial presence within the Union, the country where the legal person is constituted or otherwise organised under the laws of that country and in the territory of which the legal person is engaged in substantive business operations;\n(ii) if the service is provided through a commercial presence within the Union, the Member State where the legal person is established and in the territory of which it is engaged in substantive business operations such that it has a direct and effective link with the economy of that Member State.\nFor the purposes of point (ii) of point (b) of the first subparagraph, if the legal person providing the service is not engaged in substantive business operations such that it has a direct and effective link with the economy of the Member State in which it is established, the origin of that legal person shall be deemed to be the origin of the natural or legal persons which own or control it.\nThe legal person providing the service shall be considered to be \"owned\" by persons of a given country if more than 50 % of the equity interest in it is beneficially owned by persons of that country and \"controlled\" by persons of a given country if such persons have the power to name a majority of its directors or otherwise to legally direct its actions.",
+        "after": "Article 6\nRules of origin\n1. The origin of a good shall be determined in accordance with Regulation (EEC) No 2913/92.\n2. The origin of a service shall be determined on the basis of the origin of the natural or legal person providing it. The origin of the service provider shall be deemed to be:\n(a) in the case of a natural person, the country of which the person is a national or where he has a right of permanent residence;\n(b) in the case of a legal person, either of the following:\n(i) if the service is provided other than through a commercial presence within the Union, the country where the legal person is constituted or otherwise organised under the laws of that country and in the territory of which the legal person is engaged in substantive business operations;\n(ii) if the service is provided through a commercial presence within the Union, the Member State where the legal person is established and in the territory of which it is engaged in substantive business operations such that it has a direct and effective link with the economy of that Member State.\nFor the purposes of point (ii) of point (b) of the first subparagraph, if the legal person providing the service is not engaged in substantive business operations such that it has a direct and effective link with the economy of the Member State in which it is established, the origin of that legal person shall be deemed to be the origin of the natural or legal persons which own or control it.\nThe legal person providing the service shall be considered to be \"owned\" by persons of a given country if more than 50 % of the equity interest in it is beneficially owned by persons of that country and \"controlled\" by persons of a given country if such persons have the power to name a majority of its directors or otherwise to legally direct its actions.\n3. Regarding trade-related aspects of intellectual property rights, the term nationals shall be understood in the same sense as it is used in paragraph 3 of Article 1 of the WTO Agreement on Trade-Related Aspects of Intellectual Property Rights.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 6 PA 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 3 has been added, stating that for trade-related aspects of intellectual property rights the term nationals is to be understood in the same sense as it is used in paragraph 3 of Article 1 of the WTO Agreement on Trade-Related Aspects of Intellectual Property Rights.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_6",
+              "label": "Art. 6, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 and 2 remain unchanged from the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_6",
+              "label": "Art. 6, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_6",
+              "label": "Art. 6, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 7"
+        },
+        "heading": "Suspension, modification and repeal of measures",
+        "before": "Article 7\nSuspension, modification and repeal of measures\n1. Where, after the adoption of an implementing act pursuant to Article 4(1), the third country concerned accords adequate and proportionate compensation to the Union in the cases referred to in Article 3(1)(a) and (b), the Commission may suspend the application of that implementing act for the duration of the compensation period. The suspension shall be decided in accordance with the examination procedure referred to in Article 8(2).\n2. The Commission shall repeal an implementing act adopted under Article 4(1) in any of the following circumstances:\n(a) when the third country whose measures were found to be in breach of international trade rules in a dispute settlement procedure brings itself into compliance, or where a mutually satisfactory solution has otherwise been reached;\n(b) in cases of rebalancing of concessions or other obligations following the adoption by a third country of a safeguard measure, when the safeguard measure is withdrawn or expires, or when the third country concerned accords adequate and proportionate compensation to the Union after the adoption of an implementing act under Article 4(1);\n(c) in cases of modification of concessions by a WTO member under Article XXVIII of the GATT 1994, when the third country concerned accords adequate and proportionate compensation to the Union after the adoption of an implementing act under Article 4(1).\nThe repeal referred to in the first subparagraph shall be decided in accordance with the examination procedure referred to in Article 8(2).\n3. Where it is necessary to make adjustments to commercial policy measures adopted under this Regulation, subject to Article 4(2) and (3), the Commission may introduce any appropriate amendments in accordance with the examination procedure referred to in Article 8(2).\n4. On duly justified imperative grounds of urgency relating to the termination or the modification of the third country measure concerned, the Commission shall adopt immediately applicable implementing acts suspending, amending or repealing implementing acts adopted under Article 4(1), as provided for in this Article, in accordance with the procedure referred to in Article 8(3).",
+        "after": "Article 7\nSuspension, modification and repeal of measures\n1. Where, after the adoption of an implementing act pursuant to Article 4(1), the third country concerned accords adequate and proportionate compensation to the Union in the cases referred to in Article 3(1)(a) and (b), the Commission may suspend the application of that implementing act for the duration of the compensation period. The suspension shall be decided in accordance with the examination procedure referred to in Article 8(2).\n2. The Commission shall repeal an implementing act adopted under Article 4(1) in any of the following circumstances:\n(a) when the third country whose measures were found to be in breach of international trade rules in a dispute settlement procedure brings itself into compliance, or where a mutually satisfactory solution has otherwise been reached;\n(b) in cases of rebalancing of concessions or other obligations following the adoption by a third country of a safeguard measure, when the safeguard measure is withdrawn or expires, or when the third country concerned accords adequate and proportionate compensation to the Union after the adoption of an implementing act under Article 4(1);\n(c) in cases of the withdrawal or modification of concessions or commitments by a WTO member under Article XXVIII of the GATT 1994 or Article XXI of the GATS, when the third country concerned accords adequate and proportionate compensation to the Union after the adoption of an implementing act under Article 4(1).\nThe repeal referred to in the first subparagraph shall be decided in accordance with the examination procedure referred to in Article 8(2).\n3. Where it is necessary to make adjustments to commercial policy measures adopted under this Regulation, subject to Article 4(2) and (3), the Commission may introduce any appropriate amendments in accordance with the examination procedure referred to in Article 8(2).\n4. On duly justified imperative grounds of urgency relating to the termination or the modification of the third country measure concerned, the Commission shall adopt immediately applicable implementing acts suspending, amending or repealing implementing acts adopted under Article 4(1), as provided for in this Article, in accordance with the procedure referred to in Article 8(3).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 7 PA 2 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (c) of Article 7(2) now refers to the withdrawal or modification of concessions or commitments, rather than only modification of concessions, by a WTO member.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_7",
+              "label": "Art. 7, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_7",
+              "label": "Art. 7, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "The provision also adds a reference to Article XXI of the GATS alongside the existing reference to Article XXVIII of the GATT 1994.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_7",
+              "label": "Art. 7, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 9"
+        },
+        "heading": "Information gathering",
+        "before": "Article 9\nInformation gathering\n1. The Commission shall seek information and views regarding the Union's economic interests in specific goods or services or in specific sectors, in the application of this Regulation, through a notice in the Official Journal of the European Union or through other suitable public communication means, indicating the period within which input is to be submitted. The Commission shall take the input received into account.\n2. Information received pursuant to this Regulation shall be used only for the purpose for which it was requested.\n3. Neither the European Parliament, nor the Council, nor the Commission, nor Member States, nor their respective officials shall reveal any information of a confidential nature received pursuant to this Regulation, without specific permission from the supplier of such information.\n4. The supplier of information may request that information supplied be treated as confidential. In such cases, it shall be accompanied by a non-confidential summary which presents the information in a generalised form or a statement of the reasons why the information cannot be summarised.\n5. If it appears that a request for confidentiality is not justified and if the supplier is unwilling either to make the information public or to authorise its disclosure in generalised or summary form, the information in question may be disregarded.\n6. Paragraphs 2 to 5 shall not preclude the disclosure of general information by the institutions of the Union and the authorities of the Member States. Such disclosure must take into account the legitimate interest of the parties concerned in not having their business secrets divulged.",
+        "after": "Article 9\nInformation gathering\n1. The Commission shall seek information and views regarding the Union’s economic interests in specific goods or services sectors, or regarding specific trade-related aspects of intellectual property rights, in the application of this Regulation, through a notice in the Official Journal of the European Union or through other suitable public communication means, indicating the period within which input is to be submitted. The Commission shall take the input received into account.\n1a. When the Commission envisages measures pursuant to point (ba) or (bb) of Article 5(1), it shall inform and conduct consultations with stakeholders, in particular industry associations, affected by possible commercial policy measures and with Member State public authorities involved in the formulation or implementation of legislation regulating the affected fields. Without unduly delaying the adoption of such measures, the Commission shall, in particular, seek information on:\n(a) the impact of such measures on third country service providers or right-holders who are nationals of the third country concerned and on Union competitors, users or consumers of such services or intellectual property rights holders;\n(b) the interaction of such measures with relevant Member State regulations;\n(c) the administrative burden which may be occasioned by such measures.\nThe Commission shall take utmost account of the information gathered during such consultations.\nThe Commission shall provide an analysis of the envisaged measures to Member States when proposing the draft implementing act pursuant to Article 8.\n2. Information received pursuant to this Regulation shall be used only for the purpose for which it was requested.\n3. Neither the European Parliament, nor the Council, nor the Commission, nor Member States, nor their respective officials shall reveal any information of a confidential nature received pursuant to this Regulation, without specific permission from the supplier of such information.\n4. The supplier of information may request that information supplied be treated as confidential. In such cases, it shall be accompanied by a non-confidential summary which presents the information in a generalised form or a statement of the reasons why the information cannot be summarised.\n5. If it appears that a request for confidentiality is not justified and if the supplier is unwilling either to make the information public or to authorise its disclosure in generalised or summary form, the information in question may be disregarded.\n6. Paragraphs 2 to 5 shall not preclude the disclosure of general information by the institutions of the Union and the authorities of the Member States. Such disclosure must take into account the legitimate interest of the parties concerned in not having their business secrets divulged.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 9 PA 1 ALN 1",
+          "AR 9 PA 1a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 R; 32021R0167 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8) (a); AR 001 (8) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now refers to the Union's economic interests in specific goods or services sectors, or regarding specific trade-related aspects of intellectual property rights, replacing the earlier reference to specific goods or services or specific sectors.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_9",
+              "label": "Art. 9, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_9",
+              "label": "Art. 9, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 1a has been added requiring the Commission, when envisaging measures under point (ba) or (bb) of Article 5(1), to inform and consult stakeholders and Member State public authorities, to seek information on the impact, regulatory interaction, and administrative burden of such measures, to take utmost account of information gathered in such consultations, and to provide Member States an analysis of envisaged measures when proposing a draft implementing act under Article 8.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_9",
+              "label": "Art. 9, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0654",
+            "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+          },
+          "version": "02014R0654-20210213",
+          "location": "AR 10"
+        },
+        "heading": "Review",
+        "before": "Article 10\nReview\n1. No later than three years after the first instance of the adoption of an implementing act or no later than 18 July 2019, whichever is the earlier, the Commission shall review the scope of this Regulation, particularly as regards the commercial policy measures that may be adopted, as well as its implementation, and shall report its findings to the European Parliament and the Council.\n2. Notwithstanding paragraph 1, the Commission shall undertake a review aimed at envisaging under this Regulation additional commercial policy measures suspending concessions or other obligations in the field of trade in services. The Commission shall examine, inter alia, the following aspects:\n(a) international developments with regard to the suspension of other obligations under the General Agreement on Trade in Services (GATS);\n(b) developments within the Union with regard to the adoption of common rules on services sectors;\n(c) the effectiveness of possible additional commercial policy measures as a means to enforce the Union's rights under international trade agreements;\n(d) available mechanisms to ensure the practical implementation, in a uniform and efficient manner, of possible additional commercial policy measures concerning services; and\n(e) implications for service providers present in the Union at the time of adoption of implementing acts under this Regulation.\nThe Commission shall report its initial assessment to the European Parliament and the Council by 18 July 2017.",
+        "after": "Article 10\nReview\n1. At the earliest possible opportunity after 13 February 2021, but no later than one year after that date, the Commission shall review the scope of this Regulation, taking into account in particular the commercial policy measures that may be adopted, as well as its implementation, and shall report its findings to the European Parliament and the Council.\n2. In acting pursuant to paragraph 1, the Commission shall undertake a review aimed at envisaging under this Regulation additional commercial policy measures suspending concessions or other obligations in the field of trade-related aspects of intellectual property rights.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 1 ALN 1",
+          "AR 10 PA 2 ALN 1",
+          "AR 10 PA 2 ALN 1 PTA (a)",
+          "AR 10 PA 2 ALN 1 PTA (b)",
+          "AR 10 PA 2 ALN 1 PTA (c)",
+          "AR 10 PA 2 ALN 1 PTA (d)",
+          "AR 10 PA 2 ALN 1 PTA (e)",
+          "AR 10 PA 2 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0167",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2017-07-18",
+          "2019-07-18"
+        ],
+        "dates_added": [
+          "2021-02-13"
+        ],
+        "in_force": "2021-02-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0167 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The review deadline in paragraph 1 changed from three years after the first implementing act or 18 July 2019, whichever came first, to a period beginning at the earliest possible opportunity after 13 February 2021 and ending no later than one year after that date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_10",
+              "label": "Art. 10, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_10",
+              "label": "Art. 10, 02014R0654-20210213"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 no longer lists the five specific aspects on services (points (a) to (e)) or the separate 18 July 2017 initial-assessment reporting deadline, and it now directs the review toward additional commercial policy measures in the field of trade-related aspects of intellectual property rights rather than trade in services.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20151105",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_10",
+              "label": "Art. 10, 02014R0654-20151105"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20210213",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_10",
+              "label": "Art. 10, 02014R0654-20210213"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0654",
+      "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+    },
+    "from_version": "02014R0654-20151105",
+    "to_version": "02014R0654-20210213",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2",
+          "AR 3",
+          "AR 4",
+          "AR 5",
+          "AR 6",
+          "AR 7",
+          "AR 9",
+          "AR 10"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2",
+          "AR 3",
+          "AR 4",
+          "AR 5",
+          "AR 6",
+          "AR 7",
+          "AR 9",
+          "AR 10"
+        ],
+        "note": "16 annotations in (2015-11-05, 2021-02-13]",
+        "claims": [
+          {
+            "location": "AR 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 6 PA 3",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 9 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 7 PA 2 ALN 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 5 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 5 PA 1b",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PTA (aa)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PA 2 PTA (ba)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 5 PA 1 PTA (bb)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 5 PA 1 PTA (ba)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PA 2 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 9 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PTA (ba)",
+            "change_type": "INSERTED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 10",
+            "change_type": "MODIFIED",
+            "in_force": "2021-02-13",
+            "source": "32021R0167 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2",
+          "AR 3",
+          "AR 4",
+          "AR 5",
+          "AR 6",
+          "AR 7",
+          "AR 9",
+          "AR 10"
+        ],
+        "note": "32021R0167, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 2 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 3 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 4 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (4) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 4 PA 2 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 5 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 7 PA 2 ALN 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 9 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 9",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          },
+          {
+            "location": "AR 10",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0167",
+              "display_name": "Regulation (EU) 2021/167 of the European Parliament and of the Council of 10 February 2021 amending Regulation (EU) No 654/2014 concerning the exercise of the Union’s rights for the application and enforcement of international trade rules"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 9,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 9,
+    "explained": 9,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 32012,
+      "output_tokens": 2537,
+      "requests": 9,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 9,
+    "passed_first": 9,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 17,
+    "citations": 28,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
