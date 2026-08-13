@@ -10,6 +10,29 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20220505 -->
+## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
+### `02021R0821-20220107` → `02021R0821-20220505`
+
+- **Act** `eu:32021R0821` · **In force** 2022-05-05 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 38 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02021R0821-20220107` · `v2` = `02021R0821-20220505`
+
+---
+
+**MODIFIED · Annex II** · applies from: unknown
+
+*amended by* `32022R0699`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02021R0821-20220505 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02021R0821-20220107 -->
 ## Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the […]
 ### `32021R0821` → `02021R0821-20220107`
