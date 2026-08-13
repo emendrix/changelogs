@@ -10,6 +10,95 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20231201 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20230731` → `02008R1272-20231201`
+
+- **Act** `eu:32008R1272` · **In force** 2023-12-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20230731` · `v2` = `02008R1272-20231201`
+
+---
+
+**MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
+
+*within* `AN III SCT 3`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02008R1272-20230731`)
+
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+> 1. Part 1: hazard statements
+> The hazard statements shall be applied in accordance with Parts 2, 3, 4 and 5 of Annex I.
+> In selecting the hazard statements in accordance with Articles 21 and 27, suppliers may use the combined hazard statements provided for in this Annex.
+> In accordance with Article 27 the following principles of precedence for hazard statements may apply to labelling:
+> (a) if the hazard statement H410 Very toxic to aquatic life with long lasting effects is assigned, the statement H400 Very toxic to aquatic life may be omitted;
+> (b) if the statement H314 Causes severe skin burns and eye damage is assigned, the statement H318 Causes serious eye damage may be omitted;
+> (c) if the hazard statement EUH441 Strongly accumulates in the environment and living organisms including in humans is assigned, the statement EUH440 Accumulates in the environment and living organisms including in humans may be omitted;
+> (d) if the hazard statement EUH451 Can cause very long-lasting and diffuse contamination of water resources is assigned, the statement EUH450 Can cause long-lasting and diffuse contamination of water resources may be omitted.
+> In order to indicate the route of administration or exposure the combined hazard statements in Table 1.2 may be used.
+> Table 1.1
+> Hazard statements for physical hazards
+> The codification system for GHS hazard statements is still under discussion in the […truncated by emendrix: 197556 characters omitted…]
+
+*after* (`02008R1272-20231201`)
+
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+> 1. Part 1: hazard statements
+> The hazard statements shall be applied in accordance with Parts 2, 3, 4 and 5 of Annex I.
+> In selecting the hazard statements in accordance with Articles 21 and 27, suppliers may use the combined hazard statements provided for in this Annex.
+> In accordance with Article 27 the following principles of precedence for hazard statements may apply to labelling:
+> (a) if the hazard statement H410 Very toxic to aquatic life with long lasting effects is assigned, the statement H400 Very toxic to aquatic life may be omitted;
+> (b) if the statement H314 Causes severe skin burns and eye damage is assigned, the statement H318 Causes serious eye damage may be omitted;
+> (c) if the hazard statement EUH441 Strongly accumulates in the environment and living organisms including in humans is assigned, the statement EUH440 Accumulates in the environment and living organisms including in humans may be omitted;
+> (d) if the hazard statement EUH451 Can cause very long-lasting and diffuse contamination of water resources is assigned, the statement EUH450 Can cause long-lasting and diffuse contamination of water resources may be omitted.
+> In order to indicate the route of administration or exposure the combined hazard statements in Table 1.2 may be used.
+> Table 1.1
+> Hazard statements for physical hazards
+> The codification system for GHS hazard statements is still under discussion in the […truncated by emendrix: 197568 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 3` · *amended by* `32022R0692`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02008R1272-20230731`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2025881 characters omitted…]
+
+*after* (`02008R1272-20231201`)
+
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Union level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Union level. In Table 3 the classification and labelling are based on the criteria in Annex I to this Regulation.
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+> 1.1. Information listed for each entry
+> 1.1.1. Numbering of entries and identification of a substance
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035174 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20231201 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20230731 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20230420` → `02008R1272-20230731`
