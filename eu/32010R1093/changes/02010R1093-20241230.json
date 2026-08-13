@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1093",
+    "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+  },
+  "from_version": "02010R1093-20210626",
+  "to_version": "02010R1093-20241230",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-12-30"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 97,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20241230",
+          "location": "AR 1"
+        },
+        "heading": "Establishment and scope of action",
+        "before": "Article 1\nEstablishment and scope of action\n1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).\n2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214)., Directive (EU) 2015/2366Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35). of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..\nThe Authority shall also act within the powers conferred by this Regulation and within the scope of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). and of Regulation (EU) 2015/847 of the European Parliament and of the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1). to the extent that that Directive and Regulation apply to financial sector operators and the competent authorities that supervise them. For that purpose only, the Authority shall carry out the tasks conferred by any legally binding Union act on the European Supervisory Authority (European Insurance and Occupational Pensions Authority), established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilRegulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48). or on the European Supervisory Authority (European Securities and Markets Authority), established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilRegulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).. When carrying out such tasks, the Authority shall consult those European Supervisory Authorities and keep them informed of its activities concerning any entity which is a financial institution as defined in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010.\n3. The Authority shall act in the field of activities of credit institutions, financial conglomerates, investment firms, payment institutions and e-money institutions in relation to issues not directly covered by the legislative acts referred to in paragraph 2, including matters of corporate governance, auditing and financial reporting, taking into account sustainable business models and the integration of environmental, social and governance related factors, provided that such actions are necessary to ensure the effective and consistent application of those acts.\n4. The provisions of this Regulation are without prejudice to the powers of the Commission, in particular pursuant to Article 258 TFEU, to ensure compliance with Union law.\n5. The objective of the Authority shall be to protect the public interest by contributing to the short-, medium- and long-term stability and effectiveness of the financial system, for the Union economy, its citizens and businesses. The Authority shall, within its respective competences, contribute to:\n(a) improving the functioning of the internal market, including, in particular, a sound, effective and consistent level of regulation and supervision;\n(b) ensuring the integrity, transparency, efficiency and orderly functioning of financial markets;\n(c) strengthening international supervisory coordination;\n(d) preventing regulatory arbitrage and promoting equal conditions of competition;\n(e) ensuring that the taking of credit and other risks are appropriately regulated and supervised;\n(f) enhancing customer and consumer protection;\n(g) enhancing supervisory convergence across the internal market; and\n(h) preventing the use of the financial system for the purposes of money laundering and terrorist financing.\nFor those purposes, the Authority shall contribute to ensuring the consistent, efficient and effective application of the acts referred to in paragraph 2 of this Article, foster supervisory convergence, and provide opinions in accordance with Article 16a to the European Parliament, to the Council, and to the Commission.\nIn the exercise of the tasks conferred upon it by this Regulation, the Authority shall pay particular attention to any systemic risk posed by financial institutions, the failure of which may impair the operation of the financial system or the real economy.\nWhen carrying out its tasks, the Authority shall act independently, objectively and in a non-discriminatory and transparent manner, in the interests of the Union as a whole and shall respect, where relevant, the principle of proportionality. The Authority shall be accountable and act with integrity and shall ensure that all stakeholders are treated fairly.\nThe content and form of the Authority’s actions and measures, in particular guidelines, recommendations, opinions, questions and answers, draft regulatory standards and draft implementing standards, shall fully respect the applicable provisions of this Regulation and of the legislative acts referred to in paragraph 2. To the extent permitted and relevant under those provisions, the Authority’s actions and measures shall, in accordance with the principle of proportionality, take due account of the nature, scale and complexity of the risks inherent in the business of a financial institution, undertaking, other subject or financial activity, that is affected by the Authority’s actions and measures.\n6. The Authority shall establish, as an integral part thereof, a Committee advising it as to how, in full compliance with applicable rules, its actions and measures should take account of specific differences prevailing in the sector, pertaining to the nature, scale and complexity of risks, to business models and practice as well as to the size of financial institutions and of markets to the extent that such factors are relevant under the rules considered.",
+        "after": "Article 1\nEstablishment and scope of action\n1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).\n2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214)., Directive (EU) 2015/2366Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35)., Regulation (EU) 2023/1114Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40). of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..\nThe Authority shall also act within the powers conferred by this Regulation and within the scope of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). and of Regulation (EU) 2015/847 of the European Parliament and of the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1). to the extent that that Directive and Regulation apply to financial sector operators and the competent authorities that supervise them. For that purpose only, the Authority shall carry out the tasks conferred by any legally binding Union act on the European Supervisory Authority (European Insurance and Occupational Pensions Authority), established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilRegulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48). or on the European Supervisory Authority (European Securities and Markets Authority), established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilRegulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).. When carrying out such tasks, the Authority shall consult those European Supervisory Authorities and keep them informed of its activities concerning any entity which is a financial institution as defined in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010.\n3. The Authority shall act in the field of activities of credit institutions, financial conglomerates, investment firms, payment institutions and e-money institutions in relation to issues not directly covered by the legislative acts referred to in paragraph 2, including matters of corporate governance, auditing and financial reporting, taking into account sustainable business models and the integration of environmental, social and governance related factors, provided that such actions are necessary to ensure the effective and consistent application of those acts.\n4. The provisions of this Regulation are without prejudice to the powers of the Commission, in particular pursuant to Article 258 TFEU, to ensure compliance with Union law.\n5. The objective of the Authority shall be to protect the public interest by contributing to the short-, medium- and long-term stability and effectiveness of the financial system, for the Union economy, its citizens and businesses. The Authority shall, within its respective competences, contribute to:\n(a) improving the functioning of the internal market, including, in particular, a sound, effective and consistent level of regulation and supervision;\n(b) ensuring the integrity, transparency, efficiency and orderly functioning of financial markets;\n(c) strengthening international supervisory coordination;\n(d) preventing regulatory arbitrage and promoting equal conditions of competition;\n(e) ensuring that the taking of credit and other risks are appropriately regulated and supervised;\n(f) enhancing customer and consumer protection;\n(g) enhancing supervisory convergence across the internal market; and\n(h) preventing the use of the financial system for the purposes of money laundering and terrorist financing.\nFor those purposes, the Authority shall contribute to ensuring the consistent, efficient and effective application of the acts referred to in paragraph 2 of this Article, foster supervisory convergence, and provide opinions in accordance with Article 16a to the European Parliament, to the Council, and to the Commission.\nIn the exercise of the tasks conferred upon it by this Regulation, the Authority shall pay particular attention to any systemic risk posed by financial institutions, the failure of which may impair the operation of the financial system or the real economy.\nWhen carrying out its tasks, the Authority shall act independently, objectively and in a non-discriminatory and transparent manner, in the interests of the Union as a whole and shall respect, where relevant, the principle of proportionality. The Authority shall be accountable and act with integrity and shall ensure that all stakeholders are treated fairly.\nThe content and form of the Authority’s actions and measures, in particular guidelines, recommendations, opinions, questions and answers, draft regulatory standards and draft implementing standards, shall fully respect the applicable provisions of this Regulation and of the legislative acts referred to in paragraph 2. To the extent permitted and relevant under those provisions, the Authority’s actions and measures shall, in accordance with the principle of proportionality, take due account of the nature, scale and complexity of the risks inherent in the business of a financial institution, undertaking, other subject or financial activity, that is affected by the Authority’s actions and measures.\n6. The Authority shall establish, as an integral part thereof, a Committee advising it as to how, in full compliance with applicable rules, its actions and measures should take account of specific differences prevailing in the sector, pertaining to the nature, scale and complexity of risks, to business models and practice as well as to the size of financial institutions and of markets to the extent that such factors are relevant under the rules considered.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R1114",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2023-05-31"
+        ],
+        "in_force": "2024-12-30",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R1114 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R1114, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of legislative acts within the Authority's scope of action now includes Regulation (EU) 2023/1114 on markets in crypto-assets, which was not named in the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20241230",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20241230#art_1",
+              "label": "Art. 1, 02010R1093-20241230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20210626",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_1",
+              "label": "Art. 1, 02010R1093-20210626"
+            }
+          ]
+        },
+        {
+          "text": "The reference to Directive 2013/36/EU also drops the phrase describing prudential supervision as extending to investment firms, now referring only to the prudential supervision of credit institutions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20241230",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20241230#art_1",
+              "label": "Art. 1, 02010R1093-20241230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20210626",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_1",
+              "label": "Art. 1, 02010R1093-20210626"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20241230",
+          "location": "AR 144"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R1114",
+            "display_name": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2021-06-26, 2024-12-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 144",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1093",
+      "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+    },
+    "from_version": "02010R1093-20210626",
+    "to_version": "02010R1093-20241230",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "1 annotations in (2021-06-26, 2024-12-30]",
+        "claims": [
+          {
+            "location": "AR 1 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-30",
+            "source": "32023R1114 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R1114",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 144"
+        ],
+        "note": "32023R1114, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 144 PA 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 144",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R1114",
+              "display_name": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 144",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 144"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 8600,
+      "output_tokens": 247,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
