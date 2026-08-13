@@ -10,6 +10,988 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20200101 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20191218` → `02012R0648-20200101`
+
+- **Act** `eu:32012R0648` · **In force** 2020-01-01 · **Detected** 2026-08-13
+- **Touched** 41 provisions — 40 substantive · 1 date-only · **8 disputed**
+- **Diff** 26 inserted · 14 modified · 0 deleted · 0 renumbered · 1 deferred · 86 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20191218` · `v2` = `02012R0648-20200101`
+
+---
+
+**MODIFIED · Art. 6 — Public register** · applies from: unchanged
+
+*within* `AR 6 PA 2 ALN 1 PTA (b)` · *amended by* `32019R2099`
+
+Point (b) of Article 6(2) now specifies that CCPs are authorised in accordance with Article 17 or recognised in accordance with Article 25, adding a reference to the date of authorisation or recognition respectively, and describes the CCPs authorised or recognised for the clearing obligation as being indicated rather than simply listed. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_6)
+
+The remainder of Article 6, including the other listed register contents and the provisions on removal of CCPs and regulatory technical standards, is unchanged between the two versions. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_6)
+
+*before* (`02012R0648-20191218`)
+
+> Article 6
+> Public register
+> 1. ESMA shall establish, maintain and keep up to date a public register in order to identify the classes of OTC derivatives subject to the clearing obligation correctly and unequivocally. The public register shall be available on ESMA’s website.
+> 2. The register shall include:
+> (a) the classes of OTC derivatives that are subject to the clearing obligation pursuant to Article 4;
+> (b) the CCPs that are authorised or recognised for the purpose of the clearing obligation;
+> (c) the dates from which the clearing obligation takes effect, including any phased-in implementation;
+> (d) the classes of OTC derivatives identified by ESMA in accordance with Article 5(3);
+> (e) the minimum remaining maturity of the derivative contracts referred to in Article 4(1)(b)(ii);
+> (f) the CCPs that have been notified to ESMA by the competent authority for the purpose of the clearing obligation and the date of notification of each of them.
+> 3. Where a CCP is no longer authorised or recognised in accordance with this Regulation to clear a specific class of OTC derivatives, ESMA shall immediately remove that CCP from the public register in relation to that class of OTC derivatives.
+> 4. In order to ensure consistent application of this Article, ESMA may develop draft regulatory technical standards specifying the details to be included in the public register referred to in paragraph 1.
+> ESMA shall submit any such draft regulatory technical standards to the Commission by 30 September 2012.
+> P […truncated by emendrix: 187 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 6
+> Public register
+> 1. ESMA shall establish, maintain and keep up to date a public register in order to identify the classes of OTC derivatives subject to the clearing obligation correctly and unequivocally. The public register shall be available on ESMA’s website.
+> 2. The register shall include:
+> (a) the classes of OTC derivatives that are subject to the clearing obligation pursuant to Article 4;
+> (b) the CCPs that are authorised in accordance with Article 17 or recognised in accordance with Article 25 and the date of authorisation or recognition respectively, indicating the CCPs that are authorised or recognised for the purpose of the clearing obligation;
+> (c) the dates from which the clearing obligation takes effect, including any phased-in implementation;
+> (d) the classes of OTC derivatives identified by ESMA in accordance with Article 5(3);
+> (e) the minimum remaining maturity of the derivative contracts referred to in Article 4(1)(b)(ii);
+> (f) the CCPs that have been notified to ESMA by the competent authority for the purpose of the clearing obligation and the date of notification of each of them.
+> 3. Where a CCP is no longer authorised or recognised in accordance with this Regulation to clear a specific class of OTC derivatives, ESMA shall immediately remove that CCP from the public register in relation to that class of OTC derivatives.
+> 4. In order to ensure consistent application of this Article, ESMA may develop draft regulatory technical standards specifying the detail […truncated by emendrix: 360 characters omitted…]
+
+**MODIFIED · Art. 15 — Extension of activities and services** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 15 PA 3` · *dates* +2021-01-02 · *amended by* `32019R2099`
+
+A new paragraph 3 has been added requiring ESMA, working with the ESCB, to develop draft regulatory technical standards that specify when additional services or activities are not covered by the initial authorisation and thus require an extension under paragraph 1, and that specify a procedure for consulting the college established under Article 18 on whether those conditions are met. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_15)
+
+This added paragraph also sets a deadline for ESMA to submit those draft standards to the Commission and delegates power to the Commission to adopt them in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_15)
+
+Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_15)
+
+*before* (`02012R0648-20191218`)
+
+> Article 15
+> Extension of activities and services
+> 1. A CCP wishing to extend its business to additional services or activities not covered by the initial authorisation shall submit a request for extension to the CCP’s competent authority. The offering of clearing services for which the CCP has not already been authorised shall be considered to be an extension of that authorisation.
+> The extension of authorisation shall be made in accordance with the procedure set out under Article 17.
+> 2. Where a CCP wishes to extend its business into a Member State other than that where it is established, the CCP’s competent authority shall immediately notify the competent authority of that other Member State.
+
+*after* (`02012R0648-20200101`)
+
+> Article 15
+> Extension of activities and services
+> 1. A CCP wishing to extend its business to additional services or activities not covered by the initial authorisation shall submit a request for extension to the CCP’s competent authority. The offering of clearing services for which the CCP has not already been authorised shall be considered to be an extension of that authorisation.
+> The extension of authorisation shall be made in accordance with the procedure set out under Article 17.
+> 2. Where a CCP wishes to extend its business into a Member State other than that where it is established, the CCP’s competent authority shall immediately notify the competent authority of that other Member State.
+> 3. In order to ensure consistent application of this Article, ESMA shall, in cooperation with the ESCB, develop draft regulatory technical standards specifying the conditions under which additional services or activities to which a CCP wishes to extend its business are not covered by the initial authorisation and therefore require an extension of authorisation in accordance with paragraph 1 of this Article and also specifying the procedure for consulting the college established in accordance with Article 18 on whether or not those conditions are met.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 2 January 2021.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Article […truncated by emendrix: 43 characters omitted…]
+
+**MODIFIED · Art. 17 — Procedure for granting and refusing authorisation** · applies from: unchanged
+
+*within* `AR 17 PA 3 ALN 1` · *amended by* `32019R2099`
+
+Paragraph 3 changes "If the application is not complete" to "Where the application is not complete" and adds a new sentence requiring the competent authority, upon receiving the additional information it requested, to immediately transmit that information to ESMA and the college established under Article 18(1). [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_17)
+
+The closing sentence of paragraph 3 also drops the phrase "established in accordance with Article 18(1)" when referring to the college, referring simply to "the members of the college and ESMA" in the notification after an application is assessed as complete. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_17)
+
+*before* (`02012R0648-20191218`)
+
+> Article 17
+> Procedure for granting and refusing authorisation
+> 1. The applicant CCP shall submit an application for authorisation to the competent authority of the Member State where it is established.
+> 2. The applicant CCP shall provide all information necessary to satisfy the competent authority that the applicant CCP has established, at the time of authorisation, all the necessary arrangements to meet the requirements laid down in this Regulation. The competent authority shall immediately transmit all the information received from the applicant CCP to ESMA and the college referred to in Article 18(1).
+> 3. Within 30 working days of receipt of the application, the competent authority shall assess whether the application is complete. If the application is not complete, the competent authority shall set a deadline by which the applicant CCP has to provide additional information. After assessing that an application is complete, the competent authority shall notify the applicant CCP and the members of the college established in accordance with Article 18(1) and ESMA accordingly.
+> 4. The competent authority shall grant authorisation only where it is fully satisfied that the applicant CCP complies with all the requirements laid down in this Regulation and that the CCP is notified as a system pursuant to Directive 98/26/EC.
+> The competent authority shall duly consider the opinion of the college reached in accordance with Article 19. Where the CCP’s competent authority does not agree with […truncated by emendrix: 3011 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 17
+> Procedure for granting and refusing authorisation
+> 1. The applicant CCP shall submit an application for authorisation to the competent authority of the Member State where it is established.
+> 2. The applicant CCP shall provide all information necessary to satisfy the competent authority that the applicant CCP has established, at the time of authorisation, all the necessary arrangements to meet the requirements laid down in this Regulation. The competent authority shall immediately transmit all the information received from the applicant CCP to ESMA and the college referred to in Article 18(1).
+> 3. Within 30 working days of receipt of the application, the competent authority shall assess whether the application is complete. Where the application is not complete, the competent authority shall set a deadline by which the applicant CCP has to provide additional information. Upon receipt of such additional information, the competent authority shall immediately transmit it to ESMA and the college established in accordance with Article 18(1). After assessing that an application is complete, the competent authority shall notify the applicant CCP and the members of the college and ESMA accordingly.
+> 4. The competent authority shall grant authorisation only where it is fully satisfied that the applicant CCP complies with all the requirements laid down in this Regulation and that the CCP is notified as a system pursuant to Directive 98/26/EC.
+> The competent authority shall duly con […truncated by emendrix: 3138 characters omitted…]
+
+**MODIFIED · Art. 18 — College** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 18 PA 1 ALN 1`, `AR 18 PA 2 ALN 1 PTA (a)`, `AR 18 PA 2 ALN 1 PTA (c)`, `AR 18 PA 2 ALN 1 PTA (ca)`, `AR 18 PA 2 ALN 1 PTA (h)`, `AR 18 PA 2 ALN 1 PTA (i)`, `AR 18 PA 2 ALN 2`, `AR 18 PA 4 ALN 2`, `AR 18 PA 5 ALN 2`, `AR 18 PA 5 ALN 2 PTI (i)`, `AR 18 PA 5 ALN 2 PTI (ii)`, `AR 18 PA 5 ALN 2 PTI (iii)`, `AR 18 PA 5 ALN 2 PTI (iv)`, `AR 18 PA 5 ALN 2 PTI (v)`, `AR 18 PA 5 ALN 2 PTI (vi)`, `AR 18 PA 6 ALN 1`, `AR 18 PA 6 ALN 2` · *dates* -2012-09-30 +2013-10-15 +2021-01-02 · *amended by* `32019R2099`
+
+The list of tasks triggering the college's establishment in paragraph 1 is expanded to add references to Articles 30, 31, 32 and 35, and the college's composition in paragraph 2 is changed by replacing ESMA's membership with the Chair or an independent member of the CCP Supervisory Committee, adding a reference to the ECB's role under Regulation No 1024/2013, and inserting new points (ca) and (i) allowing additional competent authorities and central banks of issue to join subject to the CCP's competent authority's consent. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_18)
+
+Paragraph 2 also adds a new requirement for the CCP's competent authority to publish and update a list of college members and notify it to ESMA, which must then publish the list itself, and paragraph 4 adds a provision entitling college members to contribute to setting the meeting agenda. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_18)
+
+Paragraph 5's agreement content is expanded from a single reference to voting procedures into a numbered list covering voting, agenda-setting, meeting frequency, information format and scope, assessment timeframes and communication modalities, while paragraph 6 adds a requirement for ESMA to cooperate with the ESCB and changes the submission deadline for draft regulatory technical standards from 30 September 2012 to 2 January 2021. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_18)
+
+*before* (`02012R0648-20191218`)
+
+> Article 18
+> College
+> 1. Within 30 calendar days of the submission of a complete application in accordance with Article 17, the CCP’s competent authority shall establish, manage and chair a college to facilitate the exercise of the tasks referred to in Articles 15, 17, 49, 51 and 54.
+> 2. The college shall consist of:
+> (a) ESMA;
+> (b) the CCP’s competent authority;
+> (c) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;
+> (d) the competent authorities responsible for the supervision of trading venues served by the CCP;
+> (e) the competent authorities supervising CCPs with which interoperability arrangements have been established;
+> (f) the competent authorities supervising central securities depositories to which the CCP is linked;
+> (g) the relevant members of the ESCB responsible for the oversight of the CCP and the relevant members of the ESCB responsible for the oversight of the CCPs with which interoperability arrangements have been established;
+> (h) the central banks of issue of the most relevant Union currencies of the financial instruments cleared.
+> 3. The competent authority of a Member State which is not a member of the college may request from the college any information relevant for the performance of its supervisory duties.
+> 4. The college shall, without prejudic […truncated by emendrix: 1567 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 18
+> College
+> 1. Within 30 calendar days of the submission of a complete application in accordance with Article 17, the CCP's competent authority shall establish, manage and chair a college to facilitate the exercise of the tasks referred to in Articles 15, 17, 30, 31, 32, 35, 49, 51 and 54.
+> 2. The college shall consist of:
+> (a) the Chair or any of the independent members of the CCP Supervisory Committee referred to in points (a) and (b) of Article 24a(2);
+> (b) the CCP’s competent authority;
+> (c) the competent authorities responsible for the supervision of the clearing members of the CCP which are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 of this Regulation on an aggregate basis over a one-year period, including, where relevant, the ECB in the framework of the tasks concerning the prudential supervision of credit institutions within the single supervisory mechanism conferred upon it in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (ca) the competent authorities responsible for the supervision of clearing members of the CCP, other than those referred to in point (c), subject to the consent of the CCP's competent authority. Those competent authorities shall request […truncated by emendrix: 4816 characters omitted…]
+
+**MODIFIED · Art. 19 — Opinion of the college** · applies from: unchanged
+
+*within* `AR 19 PA 1a`, `AR 19 PA 3 ALN 1`, `AR 19 PA 3 ALN 2`, `AR 19 PA 3 ALN 3`, `AR 19 PA 3 ALN 4`, `AR 19 PA 4` · *amended by* `32019R2099`
+
+A new paragraph 1a is added allowing the college's opinion to include recommendations addressing shortcomings in the CCP's risk management and resilience when requested by a member and adopted by majority, and allowing a central bank of issue that is a college member under points (h) and (i) of Article 18(2) to adopt recommendations relating to the currency it issues. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_19)
+
+Paragraph 3 is expanded to state that the ECB, where a member under points (c) and (h) of Article 18(2), has two votes, and that college members referred to in points (a), (ca) and (i) of Article 18(2) have no voting rights, replacing the prior blanket statement that ESMA alone has no voting rights. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_19)
+
+A new paragraph 4 is added requiring the competent authority to duly consider the college's opinion, including any recommendations on risk management shortcomings and resilience, and to give full reasons and an explanation of any significant deviation when it disagrees with that opinion or its recommendations. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_19)
+
+*before* (`02012R0648-20191218`)
+
+> Article 19
+> Opinion of the college
+> 1. Within four months of the submission of a complete application by the CCP in accordance with Article 17, the CCP’s competent authority shall conduct a risk assessment of the CCP and submit a report to the college.
+> Within 30 calendar days of receipt, and on the basis of the findings in, that report, the college shall reach a joint opinion determining whether the applicant CCP complies with all the requirements laid down in this Regulation.
+> Without prejudice to the fourth subparagraph of Article 17(4) and if no joint opinion is reached in accordance with the second subparagraph, the college shall adopt a majority opinion within the same period.
+> 2. ESMA shall facilitate the adoption of the joint opinion in accordance with its general coordination function under Article 31 of Regulation (EU) No 1095/2010.
+> 3. A majority opinion of the college shall be adopted on the basis of a simple majority of its members. For colleges up to and including 12 members, a maximum of two college members belonging to the same Member State shall have a vote and each voting member shall have one vote. For colleges with more than 12 members, a maximum of three members belonging to the same Member State shall have a vote and each voting member shall have one vote. ESMA shall have no voting rights on the opinions of the college.
+
+*after* (`02012R0648-20200101`)
+
+> Article 19
+> Opinion of the college
+> 1. Within four months of the submission of a complete application by the CCP in accordance with Article 17, the CCP’s competent authority shall conduct a risk assessment of the CCP and submit a report to the college.
+> Within 30 calendar days of receipt, and on the basis of the findings in, that report, the college shall reach a joint opinion determining whether the applicant CCP complies with all the requirements laid down in this Regulation.
+> Without prejudice to the fourth subparagraph of Article 17(4) and if no joint opinion is reached in accordance with the second subparagraph, the college shall adopt a majority opinion within the same period.
+> 1a. Where the college gives an opinion pursuant to this Regulation, at the request of any member of the college and upon adoption by a majority of the college in accordance with paragraph 3 of this Article, that opinion may include, in addition to the determination of whether the CCP complies with this Regulation, recommendations aimed at addressing shortcomings in the CCP's risk management and increasing its resilience.
+> Where the college may give an opinion, any central bank of issue, which is a member of the college pursuant to points (h) and (i) of Article 18(2), may adopt recommendations relating to the currency it issues.
+> 2. ESMA shall facilitate the adoption of the joint opinion in accordance with its general coordination function under Article 31 of Regulation (EU) No 1095/2010.
+> 3. A majority o […truncated by emendrix: 1371 characters omitted…]
+
+**MODIFIED · Art. 21 — Review and evaluation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 21 PA 1 ALN 1`, `AR 21 PA 3 ALN 1`, `AR 21 PA 3 ALN 2`, `AR 21 PA 3 ALN 3`, `AR 21 PA 6 ALN 1`, `AR 21 PA 6 ALN 2`, `AR 21 PA 6 ALN 3` · *dates* +2021-01-02 · *amended by* `32019R2099`
+
+Paragraph 1 now specifies that the risks to be evaluated include at least financial and operational risks, whereas the earlier text referred only to risks without that specification. [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_21)
+
+Paragraph 3 adds interconnectedness with other financial market infrastructures as a factor competent authorities must have particular regard to, and adds provisions allowing competent authorities to invite ESMA staff to on-site inspections upon ESMA's request and allowing a competent authority to forward information received from CCPs during or in relation to such inspections to ESMA. [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_21)
+
+Paragraph 6 is replaced: instead of describing ESMA's coordination role, peer reviews and Union-wide resilience assessments as in the earlier text, it now requires ESMA to issue guidelines under Article 16 of Regulation (EU) No 1095/2010 specifying common procedures and methodologies for the supervisory review and evaluation process, with the text stating this must occur "By 2 January 2021". [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_21) [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_21)
+
+*before* (`02012R0648-20191218`)
+
+> Article 21
+> Review and evaluation
+> 1. Without prejudice to the role of the college, the competent authorities referred to in Article 22 shall review the arrangements, strategies, processes and mechanisms implemented by CCPs to comply with this Regulation and evaluate the risks to which CCPs are, or might be, exposed.
+> 2. The review and evaluation referred to in paragraph 1 shall cover all the requirements on CCPs laid down in this Regulation.
+> 3. The competent authorities shall establish the frequency and depth of the review and evaluation referred to in paragraph 1 having regard to the size, systemic importance, nature, scale and complexity of the activities of the CCPs concerned. The review and evaluation shall be updated at least on an annual basis.
+> The CCPs shall be subject to on-site inspections.
+> 4. The competent authorities shall regularly, and at least annually, inform the college of the results of the review and evaluation as referred to in paragraph 1, including any remedial action taken or penalty imposed.
+> 5. The competent authorities shall require any CCP that does not meet the requirements laid down in this Regulation to take the necessary action or steps at an early stage to address the situation.
+> 6. ESMA shall fulfil a coordination role between competent authorities and across colleges with a view to building a common supervisory culture and consistent supervisory practices, ensuring uniform procedures and consistent approaches, and strengthening consistency in supe […truncated by emendrix: 723 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 21
+> Review and evaluation
+> 1. Without prejudice to the role of the college, the competent authorities referred to in Article 22 shall review the arrangements, strategies, processes and mechanisms implemented by CCPs to comply with this Regulation and evaluate the risks, including at least financial and operational risks, to which CCPs are, or might be, exposed.
+> 2. The review and evaluation referred to in paragraph 1 shall cover all the requirements on CCPs laid down in this Regulation.
+> 3. The competent authorities shall establish the frequency and depth of the review and evaluation referred to in paragraph 1, having particular regard to the size, systemic importance, nature, scale, complexity of the activities and interconnectedness with other financial market infrastructures of the CCPs concerned. The review and evaluation shall be updated at least on an annual basis.
+> CCPs shall be subject to on-site inspections. Upon ESMA's request, competent authorities may invite ESMA staff to participate in on-site inspections.
+> The competent authority may forward to ESMA any information received from the CCPs during or in relation to on-site inspections.
+> 4. The competent authorities shall regularly, and at least annually, inform the college of the results of the review and evaluation as referred to in paragraph 1, including any remedial action taken or penalty imposed.
+> 5. The competent authorities shall require any CCP that does not meet the requirements laid down in this Regulatio […truncated by emendrix: 719 characters omitted…]
+
+**INSERTED · Art. 23a — Supervisory cooperation between competent authorities and ESMA with regards to authorised CCPs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 23a is added, setting out a role for ESMA in coordinating supervisory practices among competent authorities and across colleges, particularly for matters with a cross-border dimension. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_23a)
+
+It requires competent authorities to submit certain draft decisions to ESMA before adopting acts or measures under specified Articles, allows submission of other draft decisions on a discretionary basis, and sets a 20-working-day period for ESMA to issue an opinion or, where appropriate, guidelines or recommendations. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_23a)
+
+It also states that where ESMA issues an opinion, the competent authority must give it due consideration, report on subsequent action or inaction, and provide comments to ESMA if it significantly deviates from that opinion. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_23a)
+
+*after* (`02012R0648-20200101`)
+
+> Article 23a
+> Supervisory cooperation between competent authorities and ESMA with regards to authorised CCPs
+> 1. ESMA shall fulfil a coordination role between competent authorities and across colleges with a view to building a common supervisory culture and consistent supervisory practices, ensuring uniform procedures and consistent approaches, and strengthening consistency in supervisory outcomes, especially with regard to supervisory areas which have a cross-border dimension or a possible cross-border impact.
+> 2. Competent authorities shall submit their draft decisions to ESMA before adopting any act or measure pursuant to Articles 7, 8, 14, 15, 29 to 33, 35, 36 and 54.
+> Competent authorities may also submit draft decisions to ESMA before adopting any other act or measure in accordance with their duties under Article 22(1).
+> 3. Within 20 working days of receipt of a draft decision submitted in accordance with paragraph 2 in relation to a specific Article ESMA shall provide an opinion on that draft decision to the competent authority where necessary to promote a consistent and coherent application of that Article.
+> Where the draft decision submitted to ESMA in accordance with paragraph 2 shows a lack of convergence or coherence in the application of this Regulation, ESMA shall issue guidelines or recommendations to promote the necessary consistency or coherence in the application of this Regulation pursuant to Article 16 of Regulation (EU) No 1095/2010.
+> 4. Where ESMA adopts an opin […truncated by emendrix: 311 characters omitted…]
+
+**MODIFIED · Art. 24 — Emergency situations** · applies from: unchanged
+
+*within* `AR 24 ALN 1` · *amended by* `32019R2099`
+
+The phrase referring to any other authority now specifies any other relevant authority. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24)
+
+The list of possible adverse effects has been expanded to include the transmission of monetary policy and the smooth operation of payment systems, alongside market liquidity and financial stability. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24)
+
+*before* (`02012R0648-20191218`)
+
+> Article 24
+> Emergency situations
+> The CCP’s competent authority or any other authority shall inform ESMA, the college, the relevant members of the ESCB and other relevant authorities without undue delay of any emergency situation relating to a CCP, including developments in financial markets, which may have an adverse effect on market liquidity and the stability of the financial system in any of the Member States where the CCP or one of its clearing members are established.
+
+*after* (`02012R0648-20200101`)
+
+> Article 24
+> Emergency situations
+> The CCP's competent authority or any other relevant authority shall inform ESMA, the college, the relevant members of the ESCB and other relevant authorities without undue delay of any emergency situation relating to a CCP, including developments in financial markets, which may have an adverse effect on market liquidity, the transmission of monetary policy, the smooth operation of payment systems or the stability of the financial system in any of the Member States where the CCP or one of its clearing members are established.
+
+**INSERTED · Art. 24a — CCP Supervisory Committee** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new text, establishing a permanent internal ESMA committee called the CCP Supervisory Committee, setting out its composition, voting arrangements, appointment and removal procedures for its Chair and independent members, and the tasks it carries out in relation to both authorised and third-country CCPs. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24a)
+
+*after* (`02012R0648-20200101`)
+
+> Article 24a
+> CCP Supervisory Committee
+> 1. ESMA shall establish a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1095/2010 for the purposes of preparing draft decisions for adoption by the Board of Supervisors and carrying out the tasks set out in paragraphs 7, 9 and 10 of this Article (CCP Supervisory Committee).
+> 2. The CCP Supervisory Committee shall be composed of:
+> (a) the Chair, who shall be voting;
+> (b) two independent members, who shall be voting;
+> (c) the competent authorities of Member States referred to in Article 22 of this Regulation with an authorised CCP, who shall be voting; where a Member State has designated several competent authorities, each of the designated competent authorities of this Member State may decide to appoint one representative for the purposes of participation pursuant to this point, however, for the voting procedures set out in Article 24c, the representatives of the respective Member State shall together be considered as one voting member;
+> (d) The following central banks of issue:
+> (i) where the CCP Supervisory Committee convenes in relation to third-country CCPs, in respect of the preparation of all decisions pertaining to Articles referred to in paragraph 10 of this Article in relation to Tier 2 CCPs and to Article 25(2a), the central banks of issue referred to in point (f) of Article 25(3) that have requested membership of the CCP Supervisory Committee, who shall be non-voting;
+> (ii) where the CCP Supervisory Committe […truncated by emendrix: 8196 characters omitted…]
+
+**INSERTED · Art. 24b — Consultation of central banks of issue** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new text introducing Article 24b, which sets out procedures for the CCP Supervisory Committee to consult central banks of issue on certain draft decisions concerning Tier 2 CCPs, including response timeframes and treatment of proposed amendments or objections. [Art. 24b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24b)
+
+It also establishes a separate agreement-seeking procedure for decisions under specified articles, under which a central bank of issue's silence within a set period is treated as agreement, while proposed amendments or objections on matters relating to its own currency affect what the Committee may submit to the Board of Supervisors. [Art. 24b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24b)
+
+*after* (`02012R0648-20200101`)
+
+> Article 24b
+> Consultation of central banks of issue
+> 1. With regard to decisions to be taken pursuant to Articles 41, 44, 46, 50 and 54 in relation to Tier 2 CCPs, the CCP Supervisory Committee shall consult the central banks of issue referred to in point (f) of Article 25(3). Each central bank of issue may respond. Any response shall be received within 10 working days of the transmission of the draft decision. In emergency situations, the aforementioned period shall not exceed 24 hours. Where a central bank of issue proposes amendments or objects to draft decisions pursuant to Articles 41, 44, 46, 50 and 54, it shall provide full and detailed reasons, in writing. Upon conclusion of the period for consultation, the CCP Supervisory Committee shall duly consider the amendments proposed by the central banks of issue.
+> 2. Where the CCP Supervisory Committee does not reflect in its draft decision the amendments proposed by a central bank of issue, the CCP Supervisory Committee shall inform that central bank of issue in writing stating its full reasons for not taking into account the amendments proposed by that central bank of issue, providing an explanation for any deviations from those amendments. The CCP Supervisory Committee shall submit to the Board of Supervisors the amendments proposed by central banks of issue and its explanations for not taking them into account together with its draft decision.
+> 3. With regard to decisions to be taken pursuant to Articles 25(2c) and 85(6), th […truncated by emendrix: 996 characters omitted…]
+
+**INSERTED · Art. 24c — Decision making within the CCP Supervisory Committee** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added and sets out that the CCP Supervisory Committee decides matters by a simple majority of its voting members, with the Chair given a casting vote in case of a tie. [Art. 24c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24c)
+
+*after* (`02012R0648-20200101`)
+
+> Article 24c
+> Decision making within the CCP Supervisory Committee
+> The CCP Supervisory Committee shall take its decisions by a simple majority of its voting members. In the event of a tie, the Chair shall have the casting vote.
+
+**INSERTED · Art. 24d — Decision making within the Board of Supervisors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted provision setting out how the Board of Supervisors decides on draft decisions submitted to it by the CCP Supervisory Committee. [Art. 24d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24d)
+
+It distinguishes decisions arising under a specified list of articles, including provisions applicable additionally to Tier 2 CCPs, which are to be decided within 10 working days, from decisions arising under any other articles, which are to be decided within three working days, in both cases in accordance with Article 44 of Regulation (EU) No 1095/2010. [Art. 24d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24d)
+
+*after* (`02012R0648-20200101`)
+
+> Article 24d
+> Decision making within the Board of Supervisors
+> Where the CCP Supervisory Committee submits draft decisions to the Board of Supervisors pursuant to Articles 25(2), 25(2a), 25(2b), 25(2c), 25(5), 25p, 85(6), 89(3b) of this Regulation and additionally only for Tier 2 CCPs in accordance with Articles 41, 44, 46, 50 and 54 of this Regulation, the Board of Supervisors shall decide on those draft decisions in accordance with Article 44 of Regulation (EU) No 1095/2010 within 10 working days.
+> Where the CCP Supervisory Committee submits draft decisions to the Board of Supervisors pursuant to Articles other than those referred to in the first subparagraph, the Board of Supervisors shall decide on those draft decisions in accordance with Article 44 of Regulation (EU) No 1095/2010 within three working days.
+
+**INSERTED · Art. 24e — Accountability** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new Article 24e establishing that the European Parliament or the Council may invite the Chair and independent members of the CCP Supervisory Committee to make a statement, with an obligation to do so and answer questions before the European Parliament when requested. [Art. 24e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24e)
+
+It further sets out a duty to report in writing on the Committee's main activities to the European Parliament and, where requested, to the Council at least 15 days before that statement, and a duty to report ad hoc, confidential information requested by the European Parliament, excluding confidential information on individual CCPs. [Art. 24e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24e)
+
+*after* (`02012R0648-20200101`)
+
+> Article 24e
+> Accountability
+> 1. The European Parliament or the Council may invite the Chair and the independent members of the CCP Supervisory Committee to make a statement while fully respecting their independence. The Chair and the independent members of the CCP Supervisory Committee shall make that statement before the European Parliament and answer any questions put by its Members whenever so requested.
+> 2. The Chair and the independent members of the CCP Supervisory Committee shall report in writing on the main activities of the CCP Supervisory Committee to the European Parliament and to the Council where requested and at least 15 days before making the statement referred to in paragraph 1.
+> 3. The Chair and the independent members of the CCP Supervisory Committee shall report any relevant information requested by the European Parliament on an ad hoc and confidential basis. That report shall not cover confidential information relating to individual CCPs.
+
+**MODIFIED · Art. 25 — Recognition of a third-country CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 25 PA 1 ALN 1`, `AR 25 PA 2 ALN 1 PTA (d)`, `AR 25 PA 2 ALN 1 PTA (e)`, `AR 25 PA 2a`, `AR 25 PA 2b`, `AR 25 PA 2c`, `AR 25 PA 3 ALN 1`, `AR 25 PA 3 ALN 1 PTA (f)`, `AR 25 PA 4 ALN 2`, `AR 25 PA 4 ALN 3`, `AR 25 PA 4 ALN 4`, `AR 25 PA 4 ALN 5`, `AR 25 PA 4 ALN 6`, `AR 25 PA 5 ALN 1`, `AR 25 PA 5 ALN 1 PTA (a)`, `AR 25 PA 5 ALN 1 PTA (b)`, `AR 25 PA 6 ALN 1`, `AR 25 PA 6 ALN 1 PTA (a)`, `AR 25 PA 6 ALN 1 PTA (b)`, `AR 25 PA 6 ALN 1 PTA (c)`, `AR 25 PA 6a`, `AR 25 PA 6b`, `AR 25 PA 7 ALN 1`, `AR 25 PA 7 ALN 1 PTA (a)`, `AR 25 PA 7 ALN 1 PTA (d)`, `AR 25 PA 7 ALN 1 PTA (e)`, `AR 25 PA 7 ALN 1 PTA (f)`, `AR 25 PA 7 ALN 1 PTA (g)`, `AR 25 PA 7 ALN 1 PTA (h)`, `AR 25 PA 7 ALN 2` · *dates* +2021-01-02 · *amended by* `32019R2099`
+
+The provision adds new paragraphs 2a, 2b, 2c, 6a and 6b establishing a Tier 1/Tier 2 classification system for third-country CCPs, with criteria and a process for ESMA, after consulting the ESRB and relevant central banks of issue, to determine systemic importance and to impose additional compliance and central-bank-related conditions on CCPs found to be systemically important. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25)
+
+Paragraph 2 gains a new point (e) tying recognition to the Tier 1 determination, paragraph 3's consultation duty is now limited to points (a) to (d) of paragraph 2, and paragraph 3(f) is broadened from the currencies of the most relevant Union currencies to all Union currencies of instruments cleared. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25)
+
+Paragraph 4 adds a requirement that ESMA transmit information to the third-country CCP college and ties the recognition decision and the 180-working-day deadline to the Tier classification, paragraph 5 introduces a periodic five-year review and a reclassification adaptation period, paragraph 6 restructures the equivalence criteria into points (a) to (c) and adds a possibility to condition the implementing act, and paragraph 7 expands the cooperation-arrangement requirements to include central banks of issue and additional procedural points. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25)
+
+*Applicability:* The Commission shall adopt a delegated act in accordance with Article 82 to specify further the criteria set out in the first subparagraph by 2 January 2021. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25)
+
+*before* (`02012R0648-20191218`)
+
+> Article 25
+> Recognition of a third-country CCP
+> 1. A CCP established in a third country may provide clearing services to clearing members or trading venues established in the Union only where that CCP is recognised by ESMA.
+> 2. ESMA, after consulting the authorities referred to in paragraph 3, may recognise a CCP established in a third country that has applied for recognition to provide certain clearing services or activities where:
+> (a) the Commission has adopted an implementing act in accordance with paragraph 6;
+> (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
+> (c) cooperation arrangements have been established pursuant to paragraph 7;
+> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 5021 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 25
+> Recognition of a third-country CCP
+> 1. A CCP established in a third country may only provide clearing services to clearing members or trading venues established in the Union where that CCP is recognised by ESMA.
+> 2. ESMA, after consulting the authorities referred to in paragraph 3, may recognise a CCP established in a third country that has applied for recognition to provide certain clearing services or activities where:
+> (a) the Commission has adopted an implementing act in accordance with paragraph 6;
+> (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
+> (c) cooperation arrangements have been established pursuant to paragraph 7;
+> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 22172 characters omitted…]
+
+**INSERTED · Art. 25a — Comparable compliance** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 25a is added, allowing a CCP referred to in Article 25(2b) to submit a reasoned request for ESMA to assess whether its compliance with an applicable third-country framework may be deemed to satisfy the requirements of Article 16 and Titles IV and V, with the request to be forwarded immediately to the third-country CCP college. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25a)
+
+The new provision also specifies what the request must contain, and requires the Commission to adopt a delegated act setting out the minimum elements and modalities for carrying out that assessment. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25a)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25a
+> Comparable compliance
+> 1. A CCP referred to in Article 25(2b) may submit a reasoned request that ESMA assesses whether in its compliance with the applicable third-country framework, taking into account the provisions of the implementing act adopted in accordance with Article 25(6), that CCP may be deemed to satisfy compliance with the requirements set out in Article 16 and Titles IV and V. ESMA shall immediately transmit the request to the third-country CCP college.
+> 2. The request referred to in paragraph 1 shall provide the factual basis for a finding of comparability and the reasons why compliance with the requirements applicable in the third country satisfies the requirements set out in Article 16 and Titles IV and V.
+> 3. The Commission, in order to ensure that the assessment referred to in paragraph 1 effectively reflects the regulatory objectives of the requirements set out in Article 16 and Titles IV and V and the Union's interests as a whole, shall adopt a delegated act specifying the following:
+> (a) the minimum elements to be assessed for the purposes of paragraph 1of this Article;
+> (b) the modalities and conditions to carry out the assessment.
+> The Commission shall adopt the delegated act referred to in the first subparagraph in accordance with Article 82 by 2 January 2021.
+
+**INSERTED · Art. 25b — Ongoing compliance with the conditions for recognition** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This provision is entirely new, establishing rules on ESMA's ongoing supervision of recognised Tier 2 CCPs' compliance with recognition requirements, including consultation with relevant central banks of issue on certain decisions and a requirement for CCPs to confirm compliance at least yearly. [Art. 25b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25b)
+
+It also sets out consequences when a CCP fails to provide that confirmation or when a central bank of issue notifies ESMA that a condition is no longer fulfilled, triggering a specified procedure, and requires ESMA, together with the ESRB, to carry out resilience assessments of such CCPs covering at least financial and operational risks. [Art. 25b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25b)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25b
+> Ongoing compliance with the conditions for recognition
+> 1. ESMA shall be responsible for carrying out the duties resulting from this Regulation for the supervision on an ongoing basis of the compliance of recognised Tier 2 CCPs with the requirements referred to in point (a) of Article 25(2b). With regard to decisions pursuant to Articles 41, 44, 46, 50 and 54, ESMA shall consult the central banks of issue referred to in point (f) of Article 25(3) in accordance with Article 24b(1).
+> ESMA shall require confirmation from each Tier 2 CCP at least on a yearly basis that the requirements referred to in points (a), (c) and (d) of Article 25(2b) continue to be fulfilled.
+> Where a central bank of issue referred to in point (f) of Article 25(3) considers that a Tier 2 CCP no longer fulfils the condition referred to in point (b) of Article 25(2b), it shall immediately notify ESMA.
+> 2. Where a Tier 2 CCP fails to provide ESMA with the confirmation referred to in the second subparagraph of paragraph 1 or where ESMA receives a notification pursuant to the third subparagraph of paragraph 1, the CCP shall be considered as no longer meeting the conditions for recognition pursuant to Article 25(2b) and the procedure set out in Article 25p(2), (3) and (4) shall apply.
+> 3. ESMA shall, in cooperation with the ESRB, carry out assessments of the resilience of recognised Tier 2 CCPs to adverse market developments in accordance with Article 32(2) of Regulation (EU) No 1095/2010, in coordinatio […truncated by emendrix: 462 characters omitted…]
+
+**INSERTED · Art. 25c — Third-country CCP college** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This article is entirely new, establishing a third-country CCP college convened by ESMA to facilitate information sharing. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25c)
+
+It sets out the college's membership, including the CCP Supervisory Committee's Chair and independent members, competent authorities under Article 22, authorities supervising clearing members, trading venues and central securities depositories in the Union, and ESCB members, and it allows college members to request that the CCP Supervisory Committee discuss specific matters concerning a third-country CCP. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25c)
+
+It also provides that the college's establishment and functioning rest on a written agreement among its members and that the professional secrecy obligation under Article 83 applies to all of them. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25c)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25c
+> Third-country CCP college
+> 1. ESMA shall establish a college for third-country CCPs to facilitate the sharing of information.
+> 2. The college shall consist of:
+> (a) the Chair of the CCP Supervisory Committee, who shall chair the college;
+> (b) the two independent members of the CCP Supervisory Committee;
+> (c) the competent authorities referred to in Article 22; in Member States where more than one authority has been designated as competent in accordance with Article 22, those authorities shall agree on a common representative;
+> (d) the competent authorities responsible for the supervision of the clearing members established in the Union;
+> (e) the competent authorities responsible for the supervision of trading venues established in the Union, served or to be served by the CCPs;
+> (f) the competent authorities supervising central securities depositories established in the Union to which the CCPs are linked or intend to be linked;
+> (g) the members of the ESCB.
+> 3. The college members may request that the CCP Supervisory Committee discusses specific matters in relation to a CCP established in a third country. Such request shall be made in writing and shall include detailed reasoning for the request. The CCP Supervisory Committee shall duly consider such requests and provide an appropriate response.
+> 4. The establishment and functioning of the college shall be based on a written agreement between all its members. The obligation of professional secrecy in accordance with Article 83 […truncated by emendrix: 36 characters omitted…]
+
+**INSERTED · Art. 25d — Fees** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This new article sets out that ESMA is to charge fees to third-country CCPs, covering fees for recognition applications and annual fees tied to ESMA's tasks under the Regulation for recognised CCPs. [Art. 25d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25d)
+
+It further provides that these fees must be proportionate to the CCP's turnover and cover ESMA's costs, and that the Commission is to adopt a delegated act specifying the types of fees, the matters they cover, their amounts, and how they are paid by applicant CCPs and by CCPs classified as Tier 1 or Tier 2. [Art. 25d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25d)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25d
+> Fees
+> 1. ESMA shall charge the following fees to CCPs established in a third country in accordance with this Regulation and in accordance with the delegated act adopted pursuant to paragraph 3:
+> (a) fees associated with applications for recognition pursuant to Article 25;
+> (b) annual fees associated with ESMA's tasks in accordance with this Regulation in relation to the CCPs recognised in accordance with Article 25.
+> 2. The fees referred to in paragraph 1 shall be proportionate to the turnover of the CCP concerned and shall cover all costs incurred by ESMA for the recognition and the performance of its tasks in accordance with this Regulation.
+> 3. The Commission shall adopt a delegated act in accordance with Article 82 in order to specify further the following:
+> (a) the types of fees;
+> (b) the matters for which fees are due;
+> (c) the amount of the fees;
+> (d) the manner in which fees are to be paid by the following:
+> (i) a CCP which applies for recognition;
+> (ii) a recognised CCP classified as a Tier 1 CCP in accordance with Article 25(2);
+> (iii) a recognised CCP classified as a Tier 2 CCP in accordance with Article 25(2b).
+
+**INSERTED · Art. 25e — Exercise of the powers referred to in Articles 25f to 25h** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 25e has been added, stating that the powers given to ESMA or any official or other person authorised by it under Articles 25f to 25h cannot be used to require disclosure of information or documents that are subject to legal privilege. [Art. 25e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25e)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25e
+> Exercise of the powers referred to in Articles 25f to 25h
+> The powers conferred on ESMA or any official of or other person authorised by them by Articles 25f to 25h shall not be used to require the disclosure of information or documents which are subject to legal privilege.
+
+**INSERTED · Art. 25f — Request for information** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 25f is added, giving ESMA the power to require recognised CCPs and third parties to which they have outsourced operational functions or activities to supply information needed for ESMA to carry out its duties, either by simple request or by decision. [Art. 25f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25f)
+
+The provision sets out the content that must be included in a simple request (legal basis, purpose, information required, deadline, voluntary nature, and the fine for incorrect or misleading answers) and in a decision (the same elements plus periodic penalty payments, the fine for failure to respond or for incorrect/misleading answers, and a right of appeal), and it addresses who must supply the information and ESMA's obligation to notify the relevant third-country competent authority. [Art. 25f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25f)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25f
+> Request for information
+> 1. ESMA may by simple request or by decision require recognised CCPs and related third parties to whom those CCPs have outsourced operational functions or activities to provide all necessary information to enable ESMA to carry out its duties under this Regulation.
+> 2. When sending a simple request for information under paragraph 1, ESMA shall indicate all of the following:
+> (a) the reference to this Article as the legal basis of the request;
+> (b) the purpose of the request;
+> (c) the information required;
+> (d) the time limit to provide the information;
+> (e) inform the person from whom the information is requested that there is no obligation to provide the information but that in the case of a voluntary reply to the request the information provided must not be incorrect or misleading;
+> (f) the fine provided for in Article 25j in conjunction with point (a) of Section V of Annex III, where the answers to questions asked are incorrect or misleading.
+> 3. When requiring that information is provided under paragraph 1 by decision, ESMA shall indicate all of the following:
+> (a) the reference to this Article as the legal basis of the request;
+> (b) the purpose of the request;
+> (c) the information required;
+> (d) the time limit to provide the information;
+> (e) the periodic penalty payments provided for in Article 25k where the production of the required information is incomplete;
+> (f) the fine provided for in Article 25j in conjunction with point (a) of Section V of A […truncated by emendrix: 1071 characters omitted…]
+
+**INSERTED · Art. 25g — General investigations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This article is entirely new, setting out ESMA's power to conduct general investigations of Tier 2 CCPs and third parties to which such CCPs have outsourced functions, including examining records, taking statements, and requesting call and data traffic records. [Art. 25g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25g)
+
+It also describes the procedural requirements for such investigations, including written authorisation, notice to the relevant third-country competent authority, and the possible involvement of central banks of issue and the third-country CCP college. [Art. 25g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25g)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25g
+> General investigations
+> 1. In order to carry out its duties under this Regulation, ESMA may conduct necessary investigations of Tier 2 CCPs and related third parties to whom those CCPs have outsourced operational functions, services or activities. To that end, the officials and other persons authorised by ESMA shall be empowered to:
+> (a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;
+> (b) take or obtain certified copies of or extracts from such records, data, procedures and other material;
+> (c) summon and ask Tier 2 CCPs or their representatives or staff for oral or written explanations on facts or documents relating to the subject matter and purpose of the inspection and to record the answers;
+> (d) interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;
+> (e) request records of telephone and data traffic.
+> The central banks of issue referred to in point (f) of Article 25(3) may, upon a reasoned request to ESMA, participate in such investigations where those investigations are relevant for the carrying out of their monetary policy tasks.
+> The third-country CCP college referred to in Article 25c shall be informed without undue delay of any findings that may be relevant for the execution of its tasks.
+> 2. The officials and other persons authorised by ESMA for t […truncated by emendrix: 1723 characters omitted…]
+
+**INSERTED · Art. 25h — On-site inspections** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 25h has been added, giving ESMA power to carry out on-site inspections at the premises, land or property of Tier 2 CCPs and of third parties to whom operational functions, services or activities have been outsourced. [Art. 25h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25h)
+
+The article sets out procedural details for such inspections, including notice to third-country authorities, the content of inspection decisions, the powers of authorised officials, and possible assistance from third-country competent authorities. [Art. 25h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25h)
+
+It also provides for participation requests by central banks of issue and for informing the third-country CCP college of relevant findings. [Art. 25h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25h)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25h
+> On-site inspections
+> 1. In order to carry out its duties under this Regulation, ESMA may conduct all necessary on-site inspections at any business premises, land or property of Tier 2 CCPs and related third parties to whom those CCPs have outsourced operational functions, services or activities.
+> The central banks of issue referred to in point (f) of Article 25(3) may submit a reasoned request to ESMA to participate in such on-site inspections where relevant for the carrying out of their monetary policy tasks.
+> The third-country CCP college referred to in Article 25c shall be informed without undue delay of any findings that may be relevant for the execution of its tasks.
+> 2. The officials and other persons authorised by ESMA to conduct an on-site inspection may enter any business premises, land or property of the legal persons subject to an inspection decision adopted by ESMA and shall have all the powers stipulated in Article 25g(1). They shall also have the power to seal any business premises and books or records for the period of, and to the extent necessary for, the inspection.
+> 3. In sufficient time before the inspection, ESMA shall give notice of the inspection to the relevant third-country competent authority where the inspection is to be conducted. Where the proper conduct and efficiency of the inspection so require, ESMA, after informing the relevant third-country competent authority, may carry out the on-site inspection without prior notice to the CCP. Inspe […truncated by emendrix: 1889 characters omitted…]
+
+**INSERTED · Art. 25i — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This is a newly inserted article setting out procedural rules for ESMA to investigate possible infringements listed in Annex III, including the appointment of an independent investigation officer, investigative powers, access-to-file rights, and the eventual decision on supervisory measures and fines. [Art. 25i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25i)
+
+It also provides for delegated acts specifying further procedural rules on fines and periodic penalty payments, and addresses referral of matters to other authorities and the treatment of prior criminal proceedings. [Art. 25i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25i)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25i
+> Procedural rules for taking supervisory measures and imposing fines
+> 1. Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements listed in Annex III, ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the recognition or supervision process of the CCP concerned and shall perform his or her functions independently from ESMA.
+> 2. The investigation officer shall investigate the alleged infringements, taking into account any comments submitted by the persons who are subject to the investigations, and shall submit a complete file with his or her findings to ESMA.
+> In order to carry out his or her tasks, the investigation officer may exercise the power to request information in accordance with Article 25f and to conduct investigations and on-site inspections in accordance with Articles 25g and 25h. When using those powers, the investigation officer shall comply with Article 25e.
+> Where carrying out his or her tasks, the investigation officer shall have access to all documents and information gathered by ESMA in its activities.
+> 3. Upon completion of his or her investigation and before submitting the file with his or her findings to ESMA, the investigation officer shall give the persons subject to the investiga […truncated by emendrix: 2506 characters omitted…]
+
+**INSERTED · Art. 25j — Fines** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+Article 25j is a newly inserted provision that sets out how ESMA imposes fines on a CCP found to have intentionally or negligently committed an infringement listed in Annex III. [Art. 25j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25j)
+
+It defines the basic amount of such fines by reference to profits gained, losses avoided, or a percentage of annual turnover, and describes adjustment of that basic amount using aggravating or mitigating coefficients from Annex IV, along with an overall cap and a floor tied to any financial benefit obtained. [Art. 25j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25j)
+
+It also states that where conduct constitutes more than one listed infringement, only the higher of the fines calculated for those infringements applies. [Art. 25j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25j)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25j
+> Fines
+> 1. Where, in accordance with Article 25i(5), ESMA finds that a CCP has, intentionally or negligently, committed one of the infringements listed in Annex III, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+> An infringement by a CCP shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that the CCP or its senior management acted deliberately to commit the infringement.
+> 2. The basic amounts of the fines referred to in paragraph 1 shall be up to twice the amount of the profits gained or losses avoided because of the breach where those can be determined, or up to 10 % of the total annual turnover, as defined in relevant Union law, of a legal person in the preceding business year.
+> 3. The basic amounts set out in paragraph 2 shall be adjusted, if need be, by taking into account aggravating or mitigating factors in accordance with the relevant coefficients set out in Annex IV.
+> The relevant aggravating coefficients shall be applied one by one to the basic amount. If more than one aggravating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual aggravating coefficient shall be added to the basic amount.
+> The relevant mitigating coefficients shall be applied one by one to the basic amount. If more than one mitigating coefficient is applicable, the difference between the basic amount and the amount r […truncated by emendrix: 648 characters omitted…]
+
+**INSERTED · Art. 25k — Periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+Article 25k is a newly inserted provision setting out ESMA's power to impose periodic penalty payments on Tier 2 CCPs or persons referred to in Article 25f(1) to compel compliance with certain decisions, such as ending an infringement, supplying complete information, or submitting to an investigation or on-site inspection. [Art. 25k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25k)
+
+The provision specifies that such payments must be effective and proportionate, imposed per day of delay, set at 3% of average daily turnover (or 2% of average daily income for natural persons) from a date stated in the decision, and limited to a maximum of six months before ESMA reviews the measure. [Art. 25k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25k)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25k
+> Periodic penalty payments
+> 1. ESMA shall, by decision, impose periodic penalty payments in order to compel:
+> (a) a Tier 2 CCP to put an end to an infringement in accordance with a decision taken pursuant to point (a) of Article 25q(1);
+> (b) a person referred to in Article 25f(1) to supply complete information which has been requested by a decision pursuant to Article 25f;
+> (c) a Tier 2 CCP:
+> (i) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 25g; or
+> (ii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 25h.
+> 2. A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+> 3. Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+> 4. A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA's decision. Following the end of that period, ESMA shall review the measure.
+
+**INSERTED · Art. 25l — Hearing of the persons concerned** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+A new Article 25l has been inserted, requiring ESMA to give persons subject to proceedings under Articles 25j and 25k an opportunity to be heard on its findings before deciding on a fine or periodic penalty payment, with an exception allowing an interim decision followed by a later hearing where urgent action is needed to prevent significant and imminent damage to the financial system. [Art. 25l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25l)
+
+The new provision also states that the rights of defence of the persons subject to the proceedings are to be fully respected, including a right of access to ESMA's file that excludes confidential information and ESMA's internal preparatory documents and is subject to other persons' legitimate interest in protecting their business secrets. [Art. 25l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25l)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25l
+> Hearing of the persons concerned
+> 1. Before taking any decision on a fine or periodic penalty payment under Articles 25j and 25k, ESMA shall give the persons subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons subject to the proceedings have had an opportunity to comment.
+> The first subparagraph of this paragraph shall not apply where urgent action is needed in order to prevent significant and imminent damage to the financial system. In such a case ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+> 2. The rights of the defence of the persons subject to the proceedings shall be fully respected in the proceedings. They shall be entitled to have access to ESMA's file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA's internal preparatory documents.
+
+**INSERTED · Art. 25m — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+Article 25m is a newly inserted provision setting out rules on disclosing, characterising, enforcing and allocating fines and periodic penalty payments imposed under Articles 25j and 25k. [Art. 25m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25m)
+
+It covers ESMA's public disclosure of such fines and penalty payments subject to exceptions for market harm or disproportionate damage, classifies them as administrative in nature, requires ESMA to inform the European Parliament, the Council, the Commission and relevant third-country competent authorities with reasons when it decides not to impose them, states that they are enforceable under the civil procedure rules of the relevant Member State or third country, and provides that the collected amounts go to the general budget of the European Union. [Art. 25m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25m)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25m
+> Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+> 1. ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 25j and 25k of this Regulation unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EC) No 45/2001.
+> 2. Fines and periodic penalty payments imposed pursuant to Articles 25j and 25k shall be of an administrative nature.
+> 3. Where ESMA decides to impose no fines or penalty payments, it shall inform the European Parliament, the Council, the Commission, and the relevant third-country competent authorities accordingly and shall set out the reasons for its decision.
+> 4. Fines and periodic penalty payments imposed pursuant to Articles 25j and 25k shall be enforceable.
+> Enforcement shall be governed by the rules of civil procedure in force in the Member State or third-country in which it is carried out.
+> 5. The amounts of the fines and periodic penalty payments shall be allocated to the general budget of the European Union.
+
+**INSERTED · Art. 25n — Review by the Court of Justice** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This provision is new, adding Article 25n, which gives the Court of Justice unlimited jurisdiction to review decisions in which ESMA has imposed a fine or a periodic penalty payment. [Art. 25n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25n)
+
+It also states that the Court may annul, reduce or increase the fine or periodic penalty payment imposed. [Art. 25n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25n)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25n
+> Review by the Court of Justice
+> The Court of Justice shall have unlimited jurisdiction to review decisions whereby ESMA has imposed a fine or a periodic penalty payment. It may annul, reduce or increase the fine or periodic penalty payment imposed.
+
+**INSERTED · Art. 25o — Amendments to Annex IV** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+This article is newly added and empowers the Commission to adopt delegated acts under Article 82 to amend Annex IV in order to take account of developments on financial markets. [Art. 25o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25o)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25o
+> Amendments to Annex IV
+> In order to take account of developments on financial markets the Commission is empowered to adopt delegated acts in accordance with Article 82 concerning measures to amend Annex IV.
+
+**INSERTED · Art. 25p — Withdrawal of recognition** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+Article 25p is a newly inserted provision setting out grounds and procedure for ESMA to withdraw a recognition decision previously granted to a third-country CCP under Article 25. [Art. 25p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25p)
+
+It lists circumstances such as non-use or renunciation of recognition, obtaining recognition through false statements, serious or systematic breaches of recognition conditions without remedial action, ESMA's inability to exercise its responsibilities due to lack of cooperation from the third-country authority, and withdrawal or suspension of the underlying implementing act, and it addresses limiting withdrawal to specific services or activities, timing of entry into effect, prior consideration of alternative measures, notification of the third-country authority, and requests by other authorities for ESMA to examine withdrawal conditions. [Art. 25p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25p)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25p
+> Withdrawal of recognition
+> 1. Without prejudice to Article 25q and subject to the following paragraphs, ESMA, after consulting the authorities and entities referred to in Article 25(3), shall withdraw a recognition decision adopted in accordance with Article 25 where:
+> (a) the CCP concerned has not made use of the recognition within six months, expressly renounces the recognition or has ceased to engage in business for more than six months;
+> (b) the CCP concerned has obtained the recognition through false statements or by any other irregular means;
+> (c) the CCP concerned has seriously and systematically infringed any of the conditions for recognition laid down in Article 25 or no longer complies with any of those conditions and in any of those situations has not taken the remedial action requested by ESMA within an appropriately set timeframe of up to a maximum of six months;
+> (d) ESMA is unable to exercise effectively its responsibilities under this Regulation over the CCP concerned, due to the failure of the third-country authority of the CCP to provide ESMA with all relevant information or cooperate with ESMA in accordance with Article 25(7);
+> (e) the implementing act referred to in Article 25(6) has been withdrawn or suspended, or any of the conditions attached to it is no longer satisfied.
+> ESMA may limit the withdrawal of the recognition to a particular service, activity or class of financial instruments.
+> When determining the date of entry into effect of the decisi […truncated by emendrix: 1370 characters omitted…]
+
+**INSERTED · Art. 25q — Supervisory measures by ESMA** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+Article 25q is a new provision setting out supervisory measures that ESMA may take against a Tier 2 CCP found to have committed an infringement listed in Annex III, including requiring an end to the infringement, imposing fines, issuing public notices, or withdrawing recognition. [Art. 25q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25q)
+
+It also lists criteria ESMA must consider when deciding on such measures, including the duration, frequency, seriousness, intentional or negligent nature of the infringement, and any link to financial crime, and it sets out notification and public disclosure requirements including appeal-related disclosures. [Art. 25q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_25q)
+
+*after* (`02012R0648-20200101`)
+
+> Article 25q
+> Supervisory measures by ESMA
+> 1. Where, in accordance with Article 25i(5), ESMA finds that a Tier 2 CCP has committed one of the infringements listed in Annex III, it shall take one or more of the following decisions:
+> (a) require the CCP to bring the infringement to an end;
+> (b) impose fines under Article 25j;
+> (c) issue public notices;
+> (d) withdraw the recognition of the CCP, or its recognition for a particular service, activity or class of financial instruments, under Article 25p.
+> 2. When taking the decisions referred to in paragraph 1, ESMA shall take into account the nature and seriousness of the infringement, having regard to the following criteria:
+> (a) the duration and frequency of the infringement;
+> (b) whether the infringement has revealed serious or systemic weaknesses in the CCP's procedures or in its management systems or internal controls;
+> (c) whether financial crime has been occasioned, facilitated or otherwise attributable to the infringement;
+> (d) whether the infringement has been committed intentionally or negligently.
+> 3. Without undue delay, ESMA shall notify any decision adopted pursuant to paragraph 1 to the CCP concerned, and shall communicate it to the relevant third-country competent authorities and to the Commission. It shall publicly disclose any such decision on its website within 10 working days of the date when it was adopted.
+> When making public its decision as referred to in the first subparagraph, ESMA shall also make public the right of th […truncated by emendrix: 345 characters omitted…]
+
+**MODIFIED · Art. 32 — Assessment** · applies from: unchanged
+
+*within* `AR 32 PA 1 ALN 4` · *amended by* `32019R2099`
+
+A new sentence is added at the end of paragraph 1, stating that the competent authority's assessment of the notification under Article 31(2) and the information under Article 31(3) is subject to an opinion of the college pursuant to Article 19. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_32)
+
+No other part of paragraph 1, nor any of the other paragraphs of Article 32, is changed between the two versions. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_32)
+
+*before* (`02012R0648-20191218`)
+
+> Article 32
+> Assessment
+> 1. Where assessing the notification provided for in Article 31(2) and the information referred to in Article 31(3), the competent authority shall, in order to ensure the sound and prudent management of the CCP in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the CCP, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:
+> (a) the reputation and financial soundness of the proposed acquirer;
+> (b) the reputation and experience of any person who will direct the business of the CCP as a result of the proposed acquisition;
+> (c) whether the CCP will be able to comply and continue to comply with this Regulation;
+> (d) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+> Where assessing the financial soundness of the proposed acquirer, the competent authority shall pay particular attention to the type of business pursued and envisaged in the CCP in which the acquisition is proposed.
+> Where assessing the CCP’s ability to comply with this Regulation, the competent authority shall pay particular attention to whether the group of which it will become a part has a structure that makes it p […truncated by emendrix: 2970 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 32
+> Assessment
+> 1. Where assessing the notification provided for in Article 31(2) and the information referred to in Article 31(3), the competent authority shall, in order to ensure the sound and prudent management of the CCP in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the CCP, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:
+> (a) the reputation and financial soundness of the proposed acquirer;
+> (b) the reputation and experience of any person who will direct the business of the CCP as a result of the proposed acquisition;
+> (c) whether the CCP will be able to comply and continue to comply with this Regulation;
+> (d) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+> Where assessing the financial soundness of the proposed acquirer, the competent authority shall pay particular attention to the type of business pursued and envisaged in the CCP in which the acquisition is proposed.
+> Where assessing the CCP’s ability to comply with this Regulation, the competent authority shall pay particular attention to whether the group of which it will become a part has a structure that makes it p […truncated by emendrix: 3190 characters omitted…]
+
+**MODIFIED · Art. 35 — Outsourcing** · applies from: unchanged
+
+*within* `AR 35 PA 1 ALN 2` · *amended by* `32019R2099`
+
+A new sentence is added after the restriction on outsourcing major risk-management activities, stating that the competent authority's decision on such outsourcing is subject to an opinion of the college pursuant to Article 19. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_35)
+
+The remainder of Article 35, including paragraphs 2 and 3 and the rest of paragraph 1, is unchanged between the two versions. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_35)
+
+*before* (`02012R0648-20191218`)
+
+> Article 35
+> Outsourcing
+> 1. Where a CCP outsources operational functions, services or activities, it shall remain fully responsible for discharging all of its obligations under this Regulation and shall ensure at all times that:
+> (a) outsourcing does not result in the delegation of its responsibility;
+> (b) the relationship and obligations of the CCP towards its clearing members or, where relevant, towards their clients are not altered;
+> (c) the conditions for authorisation of the CCP do not effectively change;
+> (d) outsourcing does not prevent the exercise of supervisory and oversight functions, including on-site access to acquire any relevant information needed to fulfil those mandates;
+> (e) outsourcing does not result in depriving the CCP from the necessary systems and controls to manage the risks it faces;
+> (f) the service provider implements equivalent business continuity requirements to those that the CCP must fulfil under this Regulation;
+> (g) the CCP retains the necessary expertise and resources to evaluate the quality of the services provided and the organisational and capital adequacy of the service provider, and to supervise the outsourced functions effectively and manage the risks associated with the outsourcing and supervises those functions and manages those risks on an ongoing basis;
+> (h) the CCP has direct access to the relevant information of the outsourced functions;
+> (i) the service provider cooperates with the competent authority in connection with the outsourced acti […truncated by emendrix: 894 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 35
+> Outsourcing
+> 1. Where a CCP outsources operational functions, services or activities, it shall remain fully responsible for discharging all of its obligations under this Regulation and shall ensure at all times that:
+> (a) outsourcing does not result in the delegation of its responsibility;
+> (b) the relationship and obligations of the CCP towards its clearing members or, where relevant, towards their clients are not altered;
+> (c) the conditions for authorisation of the CCP do not effectively change;
+> (d) outsourcing does not prevent the exercise of supervisory and oversight functions, including on-site access to acquire any relevant information needed to fulfil those mandates;
+> (e) outsourcing does not result in depriving the CCP from the necessary systems and controls to manage the risks it faces;
+> (f) the service provider implements equivalent business continuity requirements to those that the CCP must fulfil under this Regulation;
+> (g) the CCP retains the necessary expertise and resources to evaluate the quality of the services provided and the organisational and capital adequacy of the service provider, and to supervise the outsourced functions effectively and manage the risks associated with the outsourcing and supervises those functions and manages those risks on an ongoing basis;
+> (h) the CCP has direct access to the relevant information of the outsourced functions;
+> (i) the service provider cooperates with the competent authority in connection with the outsourced acti […truncated by emendrix: 1004 characters omitted…]
+
+**MODIFIED · Art. 49 — Review of models, stress testing and back testing** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 49 PA 1 ALN 1`, `AR 49 PA 1 ALN 2`, `AR 49 PA 1 ALN 3`, `AR 49 PA 1a`, `AR 49 PA 1b`, `AR 49 PA 1c`, `AR 49 PA 1d`, `AR 49 PA 1e`, `AR 49 PA 5` · *dates* +2021-01-02 · *amended by* `32019R2099`
+
+Paragraph 1 now points to a validation procedure set out in new paragraphs 1a to 1e, and the passage of stress-test information to other bodies now names the ESCB and the Single Resolution Board alongside the ESAs. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_49)
+
+New paragraphs 1a through 1e set out a detailed procedure for a CCP to apply for validation of significant changes to its models and parameters, including application requirements, risk-assessment and reporting deadlines for the competent authority and ESMA, a college opinion process, a timeframe for granting or refusing validation, and a possibility for the competent authority, in agreement with ESMA, to allow provisional adoption of a change before validation. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_49)
+
+A new paragraph 5 has been added requiring ESMA, after consulting EBA, other relevant competent authorities and the ESCB, to develop draft regulatory technical standards on what makes a change to the models and parameters significant, to be submitted to the Commission by 2 January 2021. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_49)
+
+*before* (`02012R0648-20191218`)
+
+> Article 49
+> Review of models, stress testing and back testing
+> 1. A CCP shall regularly review the models and parameters adopted to calculate its margin requirements, default fund contributions, collateral requirements and other risk control mechanisms. It shall subject the models to rigorous and frequent stress tests to assess their resilience in extreme but plausible market conditions and shall perform back tests to assess the reliability of the methodology adopted. The CCP shall obtain independent validation, shall inform its competent authority and ESMA of the results of the tests performed and shall obtain their validation before adopting any significant change to the models and parameters.
+> The adopted models and parameters, including any significant change thereto, shall be subject to an opinion of the college pursuant to Article 19.
+> ESMA shall ensure that information on the results of the stress tests is passed on to the ESAs to enable them to assess the exposure of financial undertakings to the default of CCPs.
+> 2. A CCP shall regularly test the key aspects of its default procedures and take all reasonable steps to ensure that all clearing members understand them and have appropriate arrangements in place to respond to a default event.
+> 3. A CCP shall publicly disclose key information on its risk-management model and assumptions adopted to perform the stress tests referred to in paragraph 1.
+> 4. In order to ensure consistent application of this Article, ESMA shall, after c […truncated by emendrix: 720 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 49
+> Review of models, stress testing and back testing
+> 1. A CCP shall regularly review the models and parameters adopted to calculate its margin requirements, default fund contributions, collateral requirements and other risk control mechanisms. It shall subject the models to rigorous and frequent stress tests to assess their resilience in extreme but plausible market conditions and shall perform back tests to assess the reliability of the methodology adopted. The CCP shall obtain independent validation, shall inform its competent authority and ESMA of the results of the tests performed and shall obtain their validation in accordance with paragraphs 1a, 1b, 1c, 1d and 1e before adopting any significant change to the models and parameters.
+> The adopted models and parameters, including any significant change thereto, shall be subject to an opinion of the college in accordance with the following paragraphs.
+> ESMA shall ensure that information on the results of the stress tests is passed on to the ESAs, the ESCB and the Single Resolution Board to enable them to assess the exposure of financial undertakings to the default of CCPs.
+> 1a. Where a CCP intends to adopt any significant change to the models and parameters referred to in paragraph 1, it shall apply to the competent authority and ESMA for validation of that change. The CCP shall enclose an independent validation of the intended change to its applications. The competent authority and ESMA shall each confirm the receipt o […truncated by emendrix: 3219 characters omitted…]
+
+**MODIFIED · Art. 82 — Exercise of the delegation** · applies from: unchanged
+
+*within* `AR 82 PA 2 ALN 1`, `AR 82 PA 3 ALN 1`, `AR 82 PA 6 ALN 1` · *amended by* `32019R2099`
+
+The list of articles whose delegated-act powers are conferred to the Commission for an indeterminate period now includes additional references to Article 25(2a), Article 25(6a), Article 25a(3), Article 25d(3), Article 25i(7) and Article 25o, alongside the previously listed provisions. [Art. 82, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_82) [Art. 82, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_82)
+
+The same set of additional article references was inserted into the list of delegations that may be revoked by the European Parliament or the Council. [Art. 82, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_82) [Art. 82, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_82)
+
+The same additional article references were also added to the list of provisions under which a delegated act is subject to the three-month non-objection period before entering into force. [Art. 82, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_82) [Art. 82, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_82)
+
+*before* (`02012R0648-20191218`)
+
+> Article 82
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred to the Commission subject to the conditions laid down in this Article.
+> 2. The delegation of power referred to in Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3), and 85(2) shall be conferred to the Commission for an indeterminate period of time.
+> 3. The delegation of power referred to in Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3) and 85(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall endeavour to consult ESMA and shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 6. A delegated act adopted pursuant to Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3) and 85(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notifi […truncated by emendrix: 313 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 82
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred to the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 1(6), Article 4(3a), Article 25(2a), Article 25(6a), Article 25a(3), Article 25d(3), Article 25i(7), Article 25o, Article 64(7), Article 70, Article 72(3), and Article 85(2) shall be conferred to the Commission for an indeterminate period of time.
+> 3. The delegation of power referred to in Article 1(6), Article 4(3a), Article 25(2a), Article 25(6a), Article 25a(3), Article 25d(3), Article 25i(7), Article 25o, Article 64(7), Article 70, Article 72(3) and Article 85(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall endeavour to consult ESMA and shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 6. A delegated ac […truncated by emendrix: 669 characters omitted…]
+
+**MODIFIED · Art. 85 — Reports and review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 85 PA 6`, `AR 85 PA 7` · *dates* +2023-01-02 · *amended by* `32019R2099`
+
+The after text adds two new paragraphs, Article 85(6) and Article 85(7), which were not present in the before text. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_85)
+
+Paragraph 6 requires ESMA to submit a report to the Commission on the application of an implementing act addressed to a third-country CCP, in cooperation with the ESRB and in agreement with the central banks of issue of Union currencies of the instruments cleared by that CCP, followed by a Commission report to the European Parliament and Council within 12 months of receiving ESMA's report. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_85)
+
+Paragraph 7 requires the Commission to prepare a report assessing the effectiveness of ESMA's tasks including the CCP Supervisory Committee, the framework for recognition and supervision of third-country CCPs, the level playing field framework, and the division of responsibilities between ESMA, competent authorities and central banks of issue, and to submit that report to the European Parliament and the Council with any appropriate proposals. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_85)
+
+*before* (`02012R0648-20191218`)
+
+> Article 85
+> Reports and review
+> 1. By 18 June 2024 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
+> 1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
+> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the CouncilRegulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+> (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
+> (c) the changes to the reporting framework, includin […truncated by emendrix: 8411 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 85
+> Reports and review
+> 1. By 18 June 2024 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
+> 1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
+> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the CouncilRegulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+> (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
+> (c) the changes to the reporting framework, includin […truncated by emendrix: 10458 characters omitted…]
+
+**MODIFIED · Art. 89 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 89 PA 3a`, `AR 89 PA 3b`, `AR 89 PA 3c` · *dates* +2020-01-01 · *amended by* `32019R2099`
+
+The revised text inserts three new paragraphs, 3a, 3b and 3c, after paragraph 3, none of which appeared in the earlier version. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_89)
+
+Paragraph 3a restricts ESMA's exercise of its powers under Article 25(2a), (2b) and (2c) until certain delegated or implementing acts enter into force, paragraph 3b sets a four-month deadline for ESMA to establish a college under Article 25c for CCPs recognised before 1 January 2020, and paragraph 3c sets an 18-month deadline for ESMA to review recognition decisions under Article 25(1) and describes an adaptation period, extendable by up to six months, for CCPs reclassified as Tier 2. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_89)
+
+All other paragraphs of Article 89, including paragraphs 1 through 3 and 4 through 9, remain unchanged between the two versions. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_89)
+
+*before* (`02012R0648-20191218`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 18 June 2021, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks that directly relate to the financial solvency of pension scheme arrangements, and to entities established to provide compensation to members of such arrangements in case of default.
+> The clearing obligation set out in Article 4 shall not apply to OTC derivative contracts as referred to in the first subparagraph of this paragraph entered into by pension scheme arrangements from 17 August 2018 until 16 June 2019.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The […truncated by emendrix: 7381 characters omitted…]
+
+*after* (`02012R0648-20200101`)
+
+> Article 89
+> Transitional provisions
+> 1. Until 18 June 2021, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks that directly relate to the financial solvency of pension scheme arrangements, and to entities established to provide compensation to members of such arrangements in case of default.
+> The clearing obligation set out in Article 4 shall not apply to OTC derivative contracts as referred to in the first subparagraph of this paragraph entered into by pension scheme arrangements from 17 August 2018 until 16 June 2019.
+> The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+> 2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The […truncated by emendrix: 9217 characters omitted…]
+
+**DEFERRED · Art. 90 — Staff and resources of ESMA** · applies from: 2022-01-02
+
+*within* `AR 90 ALN 1` · *dates* -2012-12-31 +2022-01-02 · *amended by* `32019R2099`
+
+The date by which ESMA must assess staffing and resource needs and submit its report was changed from 31 December 2012 to 2 January 2022. [Art. 90, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_90) [Art. 90, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_90)
+
+*before* (`02012R0648-20191218`)
+
+> Article 90
+> Staff and resources of ESMA
+> By 31 December 2012, ESMA shall assess the staffing and resources needs arising from the assumption of its powers and duties in accordance with this Regulation and submit a report to the European Parliament, the Council and the Commission.
+
+*after* (`02012R0648-20200101`)
+
+> Article 90
+> Staff and resources of ESMA
+> By 2 January 2022, ESMA shall assess the staffing and resources needs arising from the assumption of its powers and duties in accordance with this Regulation and submit a report to the European Parliament, the Council and the Commission.
+
+**INSERTED · Annex III — List of infringements referred to in Article 25j(1)** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+
+A new Annex III has been added, setting out a categorized list of infringements referred to in Article 25j(1), grouped under headings covering capital requirements, organisational requirements or conflicts of interest, operational requirements, transparency and availability of information, and obstacles to supervisory activities. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_III)
+
+Each listed item describes a specific infringement by a Tier 2 CCP, or in some cases any CCP, of a named article and paragraph of the Regulation, paired with a description of the conduct that constitutes that infringement. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_III)
+
+*after* (`02012R0648-20200101`)
+
+> ANNEX III
+> List of infringements referred to in Article 25j(1)
+> I. Infringements relating to capital requirements:
+> (a) a Tier 2 CCP infringes Article 16(1) by not having a permanent and available initial capital of at least EUR 7,5 million;
+> (b) a Tier 2 CCP infringes Article 16(2) by not having capital, including retained earnings and reserves, which is proportionate to the risk stemming from its activities and at all times sufficient to ensure an orderly winding-down or restructuring of that activities over an appropriate time span and an adequate protection of the CCP against credit, counterparty, market, operational, legal and business risks which are not already covered by specific financial resources as referred to in Articles 41 to 44.
+> II. Infringements relating to organisational requirements or conflicts of interest:
+> (a) a Tier 2 CCP infringes Article 26(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed and adequate internal control mechanisms, including sound administrative and accounting procedures;
+> (b) a Tier 2 CCP infringes Article 26(2) by not adopting policies and procedures which are sufficiently effective to ensure compliance including that of its managers and employees, with this Regulation;
+> (c) a Tier 2 CCP infringes Article 26(3) by not mainta […truncated by emendrix: 24024 characters omitted…]
+
+**INSERTED · Annex IV — List of the coefficients linked to aggravating and mitigating factors for the application of Article 25j(3)** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Annex IV is newly added, setting out a list of coefficients tied to aggravating and mitigating factors used when applying Article 25j(3), including separate coefficient lists for aggravating factors such as repeated, prolonged, systemic, intentional, uncooperative or unremedied infringements, and for mitigating factors such as short-duration infringements, preventive measures, prompt disclosure to ESMA, or voluntary corrective action. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_IV)
+
+The text states that these coefficients apply cumulatively to the basic amounts referred to in Article 25j(2). [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_IV)
+
+*after* (`02012R0648-20200101`)
+
+> ANNEX IV
+> List of the coefficients linked to aggravating and mitigating factors for the application of Article 25j(3)
+> The following coefficients shall be applicable, cumulatively, to the basic amounts referred to in Article 25j(2):
+> I. Adjustment coefficients linked to aggravating factors:
+> (a) if the infringement has been committed repeatedly, for every time it has been repeated, an additional coefficient of 1,1 shall apply;
+> (b) if the infringement has been committed for more than six months, a coefficient of 1,5 shall apply;
+> (c) if the infringement has revealed systemic weaknesses in the organisation of the CCP, in particular in its procedures, management systems or internal controls, a coefficient of 2,2 shall apply;
+> (d) if the infringement has a negative impact on the quality of the activities and services of the CCP, a coefficient of 1,5 shall apply;
+> (e) if the infringement has been committed intentionally, a coefficient of 2 shall apply;
+> (f) if no remedial action has been taken since the breach has been identified, a coefficient of 1,7 shall apply;
+> (g) if the CCP’s senior management has not cooperated with ESMA in carrying out its investigations, a coefficient of 1,5 shall apply.
+> II. Adjustment coefficients linked to mitigating factors:
+> (a) if the infringement has been committed for less than 10 working days, a coefficient of 0,9 shall apply;
+> (b) if the CCP’s senior management can demonstrate to have taken all the necessary measures to prevent the infringement, a coefficie […truncated by emendrix: 310 characters omitted…]
+
+**INSERTED · CHA 3A** · applies from: unknown
+
+*amended by* `32019R2099`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20200101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20191218 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20190617` → `02012R0648-20191218`
