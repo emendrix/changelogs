@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R1131",
+    "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+  },
+  "from_version": "02017R1131-20240109",
+  "to_version": "02017R1131-20241224",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-12-24"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 45,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20241224",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) short-term assets means financial assets with a residual maturity not exceeding 2 years;\n(2) money market instruments means money market instruments as defined in Article 2(1)(o) of Directive 2009/65/EC, and instruments as referred to in Article 3 of Commission Directive 2007/16/ECCommission Directive 2007/16/EC of 19 March 2007 implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.3.2007, p. 11).;\n(3) transferable securities means transferable securities as defined in Article 2(1)(n) of Directive 2009/65/EC, and instruments as referred to in Article 2(1) of Directive 2007/16/EC;\n(4) repurchase agreement means any agreement in which one party transfers securities or any rights related to that title to a counterparty, subject to a commitment to repurchase them at a specified price on a future date specified or to be specified;\n(5) reverse repurchase agreement means any agreement in which one party receives securities, or any rights related to a title or security from a counterparty subject to a commitment to sell them back at a specified price on a future date specified or to be specified;\n(6) securities lending and securities borrowing mean any transaction in which an institution or its counterparty transfers securities subject to a commitment that the borrower will return equivalent securities at some future date or when requested to do so by the transferor, that transaction being known as securities lending for the institution transferring the securities and being known as securities borrowing for the institution to which they are transferred;\n(7) securitisation means securitisation as defined in Article 4(1)(61) of Regulation (EU) No 575/2013;\n(8) mark-to-market means the valuation of positions at readily available close out prices that are sourced independently, including exchange prices, screen prices, or quotes from several independent reputable brokers;\n(9) mark-to-model means any valuation which is benchmarked, extrapolated or otherwise calculated from one or more market input;\n(10) amortised cost method means a valuation method which takes the acquisition cost of an asset and adjusts that value for amortisation of premiums or discounts until maturity;\n(11) public debt constant net asset value MMF or public debt CNAV MMF means an MMF:\n(a) that seeks to maintain an unchanging net asset value (NAV) per unit or share;\n(b) where the income in the fund is accrued daily and can either be paid out to the investor or used to purchase more units or shares in the fund;\n(c) where assets are generally valued according to the amortised cost method and where the NAV is rounded to the nearest percentage point or its equivalent in currency terms; and\n(d) that invests at least 99,5 % of its assets in instruments referred to in Article 17(7), reverse repurchase agreements secured with government debt referred to in Article 17(7) and in cash;\n(12) low volatility net asset value MMF or LVNAV MMF means an MMF that complies with the specific requirements laid down in Articles 29, 30 and 32 and in Article 33(2)(b);\n(13) variable net asset value MMF or VNAV MMF means an MMF that complies with the specific requirements laid down in Articles 29 and 30 and in Article 33(1);\n(14) short-term MMF means an MMF that invests in eligible money market instruments referred to in Article 10(1) and is subject to the portfolio rules set out in Article 24;\n(15) standard MMF means an MMF that invests in eligible money market instruments referred to in Article 10(1) and (2) and is subject to the portfolio rules set out in Article 25;\n(16) credit institution means credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013;\n(17) competent authority of the MMF means:\n(a) for UCITS, the competent authority of the UCITS home Member State designated in accordance with Article 97 of Directive 2009/65/EC;\n(b) for EU AIFs, the competent authority of the home Member State of the AIF as defined in Article 4(1)(p) of Directive 2011/61/EU;\n(c) for non-EU AIFs, any of the following:\n(i) the competent authority of the Member State where the non-EU AIF is marketed in the Union without a passport;\n(ii) the competent authority of the EU AIFM managing the non-EU AIF, where the non-EU AIF is marketed in the Union with a passport or is not marketed in the Union;\n(iii) the competent authority of the Member State of reference if the non-EU AIF is not managed by an EU AIFM and is marketed in the Union with a passport;\n(18) legal maturity means the date when the principal of a security is to be repaid in full and which is not subject to any optionality;\n(19) weighted average maturity or WAM means the average length of time to legal maturity or, if shorter, to the next interest rate reset to a money market rate, of all of the underlying assets in the MMF reflecting the relative holdings in each asset;\n(20) weighted average life or WAL means the average length of time to legal maturity of all of the underlying assets in the MMF reflecting the relative holdings in each asset;\n(21) residual maturity means the length of time remaining until the legal maturity of a security;\n(22) short sale means any sale by an MMF of an instrument which the MMF does not own at the time of entering into the agreement to sell, including such sale where, at the time of entering into the agreement to sell, the MMF has borrowed or agreed to borrow the instrument for delivery at settlement, not including:\n(a) a sale by either party under a repurchase agreement where one party has agreed to sell to the other a security at a specified price with a commitment from the other party to sell the security back at a later date at another specified price; or\n(b) an entry into a futures contract or other derivative contract where it is agreed to sell securities at a specified price at a future date;\n(23) manager of an MMF means, in the case of an MMF that is a UCITS, the UCITS management company, or the UCITS investment company in the case of a self-managed UCITS, and, in the case of an MMF that is an AIF, an AIFM or an internally-managed AIF.",
+        "after": "Article 2\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) short-term assets means financial assets with a residual maturity not exceeding 2 years;\n(2) money market instruments means money market instruments as defined in Article 2(1)(o) of Directive 2009/65/EC, and instruments as referred to in Article 3 of Commission Directive 2007/16/ECCommission Directive 2007/16/EC of 19 March 2007 implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.3.2007, p. 11).;\n(3) transferable securities means transferable securities as defined in Article 2(1)(n) of Directive 2009/65/EC, and instruments as referred to in Article 2(1) of Directive 2007/16/EC;\n(4) repurchase agreement means any agreement in which one party transfers securities or any rights related to that title to a counterparty, subject to a commitment to repurchase them at a specified price on a future date specified or to be specified;\n(5) reverse repurchase agreement means any agreement in which one party receives securities, or any rights related to a title or security from a counterparty subject to a commitment to sell them back at a specified price on a future date specified or to be specified;\n(6) securities lending and securities borrowing mean any transaction in which an institution or its counterparty transfers securities subject to a commitment that the borrower will return equivalent securities at some future date or when requested to do so by the transferor, that transaction being known as securities lending for the institution transferring the securities and being known as securities borrowing for the institution to which they are transferred;\n(7) securitisation means securitisation as defined in Article 4(1)(61) of Regulation (EU) No 575/2013;\n(8) mark-to-market means the valuation of positions at readily available close out prices that are sourced independently, including exchange prices, screen prices, or quotes from several independent reputable brokers;\n(9) mark-to-model means any valuation which is benchmarked, extrapolated or otherwise calculated from one or more market input;\n(10) amortised cost method means a valuation method which takes the acquisition cost of an asset and adjusts that value for amortisation of premiums or discounts until maturity;\n(11) public debt constant net asset value MMF or public debt CNAV MMF means an MMF:\n(a) that seeks to maintain an unchanging net asset value (NAV) per unit or share;\n(b) where the income in the fund is accrued daily and can either be paid out to the investor or used to purchase more units or shares in the fund;\n(c) where assets are generally valued according to the amortised cost method and where the NAV is rounded to the nearest percentage point or its equivalent in currency terms; and\n(d) that invests at least 99,5 % of its assets in instruments referred to in Article 17(7), reverse repurchase agreements secured with government debt referred to in Article 17(7) and in cash;\n(12) low volatility net asset value MMF or LVNAV MMF means an MMF that complies with the specific requirements laid down in Articles 29, 30 and 32 and in Article 33(2)(b);\n(13) variable net asset value MMF or VNAV MMF means an MMF that complies with the specific requirements laid down in Articles 29 and 30 and in Article 33(1);\n(14) short-term MMF means an MMF that invests in eligible money market instruments referred to in Article 10(1) and is subject to the portfolio rules set out in Article 24;\n(15) standard MMF means an MMF that invests in eligible money market instruments referred to in Article 10(1) and (2) and is subject to the portfolio rules set out in Article 25;\n(16) credit institution means credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013;\n(17) competent authority of the MMF means:\n(a) for UCITS, the competent authority of the UCITS home Member State designated in accordance with Article 97 of Directive 2009/65/EC;\n(b) for EU AIFs, the competent authority of the home Member State of the AIF as defined in Article 4(1)(p) of Directive 2011/61/EU;\n(c) for non-EU AIFs, any of the following:\n(i) the competent authority of the Member State where the non-EU AIF is marketed in the Union without a passport;\n(ii) the competent authority of the EU AIFM managing the non-EU AIF, where the non-EU AIF is marketed in the Union with a passport or is not marketed in the Union;\n(iii) the competent authority of the Member State of reference if the non-EU AIF is not managed by an EU AIFM and is marketed in the Union with a passport;\n(18) legal maturity means the date when the principal of a security is to be repaid in full and which is not subject to any optionality;\n(19) weighted average maturity or WAM means the average length of time to legal maturity or, if shorter, to the next interest rate reset to a money market rate, of all of the underlying assets in the MMF reflecting the relative holdings in each asset;\n(20) weighted average life or WAL means the average length of time to legal maturity of all of the underlying assets in the MMF reflecting the relative holdings in each asset;\n(21) residual maturity means the length of time remaining until the legal maturity of a security;\n(22) short sale means any sale by an MMF of an instrument which the MMF does not own at the time of entering into the agreement to sell, including such sale where, at the time of entering into the agreement to sell, the MMF has borrowed or agreed to borrow the instrument for delivery at settlement, not including:\n(a) a sale by either party under a repurchase agreement where one party has agreed to sell to the other a security at a specified price with a commitment from the other party to sell the security back at a later date at another specified price; or\n(b) an entry into a futures contract or other derivative contract where it is agreed to sell securities at a specified price at a future date;\n(23) manager of an MMF means, in the case of an MMF that is a UCITS, the UCITS management company, or the UCITS investment company in the case of a self-managed UCITS, and, in the case of an MMF that is an AIF, an AIFM or an internally-managed AIF;\n(24) CCP means a CCP as defined in Article 2, point (1), of Regulation (EU) No 648/2012 of the European Parliament and of the CouncilRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 ALN 1 PO 23",
+          "AR 2 ALN 1 PO 24"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2987",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2012-07-04"
+        ],
+        "in_force": "2024-12-24",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2987 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (23), defining 'manager of an MMF', now ends with a semicolon instead of a full stop, reflecting that a further definition follows it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_2",
+              "label": "Art. 2, 02017R1131-20241224"
+            }
+          ]
+        },
+        {
+          "text": "A new point (24) has been added, defining 'CCP' as a CCP as defined in Article 2, point (1), of Regulation (EU) No 648/2012.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_2",
+              "label": "Art. 2, 02017R1131-20241224"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20241224",
+          "location": "AR 14"
+        },
+        "heading": "Eligible repurchase agreements",
+        "before": "Article 14\nEligible repurchase agreements\nA repurchase agreement shall be eligible to be entered into by an MMF provided that all of the following conditions are fulfilled:\n(a) it is used on a temporary basis, for no more than seven working days, only for liquidity management purposes and not for investment purposes other than as referred to in point (c);\n(b) the counterparty receiving assets transferred by the MMF as collateral under the repurchase agreement is prohibited from selling, investing, pledging or otherwise transferring those assets without the MMF's prior consent;\n(c) the cash received by the MMF as part of the repurchase agreement is able to be:\n(i) placed on deposits in accordance with point (f) of Article 50(1) of Directive 2009/65/EC; or\n(ii) invested in assets referred to in Article 15(6), but shall not otherwise be invested in eligible assets as referred to in Article 9, transferred or otherwise reused;\n(d) the cash received by the MMF as part of the repurchase agreement does not exceed 10 % of its assets;\n(e) the MMF has the right to terminate the agreement at any time upon giving prior notice of no more than two working days.",
+        "after": "Article 14\nEligible repurchase agreements\nA repurchase agreement shall be eligible to be entered into by an MMF provided that all of the following conditions are fulfilled:\n(a) it is used on a temporary basis, for no more than seven working days, only for liquidity management purposes and not for investment purposes other than as referred to in point (c);\n(b) the counterparty receiving assets transferred by the MMF as collateral under the repurchase agreement is prohibited from selling, investing, pledging or otherwise transferring those assets without the MMF's prior consent;\n(c) the cash received by the MMF as part of the repurchase agreement is able to be:\n(i) placed on deposits in accordance with point (f) of Article 50(1) of Directive 2009/65/EC; or\n(ii) invested in assets referred to in Article 15(6), but shall not otherwise be invested in eligible assets as referred to in Article 9, transferred or otherwise reused;\n(d) the cash received by the MMF as part of the repurchase agreement that is not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation does not exceed 10 % of its assets;\n(da) the cash received by the MMF as part of the repurchase agreement that is centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation does not exceed 15 % of its assets;\n(e) the MMF has the right to terminate the agreement at any time upon giving prior notice of no more than two working days.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 14 ALN 1 PTA (d)",
+          "AR 14 ALN 1 PTA (da)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2987",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-12-24",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2987 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (d) now limits its 10% cash-received cap specifically to repurchase agreements that are not centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 14"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_14",
+              "label": "Art. 14, 02017R1131-20241224"
+            }
+          ]
+        },
+        {
+          "text": "A new point (da) was added setting a separate 15% cap on cash received by the MMF under repurchase agreements that are centrally cleared through such an authorised or recognised CCP.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 14"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_14",
+              "label": "Art. 14, 02017R1131-20241224"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version contained only the single, undifferentiated 10% cap in point (d) without any distinction based on central clearing through a CCP.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20240109",
+                "location": "AR 14"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_14",
+              "label": "Art. 14, 02017R1131-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1131",
+            "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+          },
+          "version": "02017R1131-20241224",
+          "location": "AR 17"
+        },
+        "heading": "Diversification",
+        "before": "Article 17\nDiversification\n1. An MMF shall invest no more than:\n(a) 5 % of its assets in money market instruments, securitisations and ABCPs issued by the same body;\n(b) 10 % of its assets in deposits made with the same credit institution, unless the structure of the banking sector in the Member State in which the MMF is domiciled is such that there are insufficient viable credit institutions to meet that diversification requirement and it is not economically feasible for the MMF to make deposits in another Member State, in which case up to 15 % of its assets may be deposited with the same credit institution.\n2. By way of derogation from point (a) of paragraph 1, a VNAV MMF may invest up to 10 % of its assets in money market instruments, securitisations and ABCPs issued by the same body provided that the total value of such money market instruments, securitisations and ABCPs held by the VNAV MMF in each issuing body in which it invests more than 5 % of its assets does not exceed 40 % of the value of its assets.\n3. Until the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 15 % of the assets of the MMF.\nAs from the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 20 % of the assets of the MMF, whereby up to 15 % of the assets of the MMF may be invested in securitisations and ABCPs that do not comply with the criteria for the identification of STS securitisations and ABCPs.\n4. The aggregate risk exposure to the same counterparty of an MMF stemming from OTC derivative transactions which fulfil the conditions set out in Article 13 shall not exceed 5 % of the assets of the MMF.\n5. The aggregate amount of cash provided to the same counterparty of an MMF in reverse repurchase agreements shall not exceed 15 % of the assets of the MMF.\n6. Notwithstanding the individual limits laid down in paragraphs 1 and 4, an MMF shall not combine, where to do so would result in an investment of more than 15 % of its assets in a single body, any of the following:\n(a) investments in money market instruments, securitisations and ABCPs issued by that body;\n(b) deposits made with that body;\n(c) OTC financial derivative instruments giving counterparty risk exposure to that body.\nBy way of derogation from the diversification requirement provided for in the first subparagraph, where the structure of the financial market in the Member State in which the MMF is domiciled is such that there are insufficient viable financial institutions to meet that diversification requirement and it is not economically feasible for the MMF to use financial institutions in another Member State, the MMF may combine the types of investments referred to in points (a) to (c) up to a maximum investment of 20 % of its assets in a single body.\n7. By way of derogation from point (a) of paragraph 1, the competent authority of an MMF may authorise an MMF to invest, in accordance with the principle of risk-spreading, up to 100 % of its assets in different money market instruments issued or guaranteed separately or jointly by the Union, the national, regional and local administrations of the Member States or their central banks, the European Central Bank, the European Investment Bank, the European Investment Fund, the European Stability Mechanism, the European Financial Stability Facility, a central authority or central bank of a third country, the International Monetary Fund, the International Bank for Reconstruction and Development, the Council of Europe Development Bank, the European Bank for Reconstruction and Development, the Bank for International Settlements, or any other relevant international financial institution or organisation to which one or more Member States belong.\nThe first subparagraph shall only apply where all of the following requirements are met:\n(a) the MMF holds money market instruments from at least six different issues by the issuer;\n(b) the MMF limits the investment in money market instruments from the same issue to a maximum of 30 % of its assets;\n(c) the MMF makes express reference, in its fund rules or instruments of incorporation, to all administrations, institutions or organisations referred to in the first subparagraph that issue or guarantee separately or jointly money market instruments in which it intends to invest more than 5 % of its assets;\n(d) the MMF includes a prominent statement in its prospectus and marketing communications drawing attention to the use of the derogation and indicating all administrations, institutions or organisations referred to in the first subparagraph that issue or guarantee separately or jointly money market instruments in which it intends to invest more than 5 % of its assets.\n8. Notwithstanding the individual limits laid down in paragraph 1, an MMF may invest no more than 10 % of its assets in bonds issued by a single credit institution that has its registered office in a Member State and is subject by law to special public supervision designed to protect bond-holders. In particular, sums deriving from the issue of those bonds shall be invested in accordance with the law in assets which, during the whole period of validity of the bonds, are capable of covering claims attaching to the bonds and which, in the event of failure of the issuer, would be used on a priority basis for the reimbursement of the principal and payment of the accrued interest.\nWhere an MMF invests more than 5 % of its assets in the bonds referred to in the first subparagraph issued by a single issuer, the total value of those investments shall not exceed 40 % of the value of the assets of the MMF.\n9. Notwithstanding the individual limits laid down in paragraph 1, an MMF may invest no more than 20 % of its assets in bonds issued by a single credit institution where the requirements set out in point (f) of Article 10(1) or point (c) of Article 11(1) of Delegated Regulation (EU) 2015/61 are met, including any possible investment in assets referred to in paragraph 8 of this Article.\nWhere an MMF invests more than 5 % of its assets in the bonds referred to in the first subparagraph issued by a single issuer, the total value of those investments shall not exceed 60 % of the value of the assets of the MMF, including any possible investment in assets referred to in paragraph 8, respecting the limits set out therein.\n10. Companies which are included in the same group for the purposes of consolidated accounts under Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or in accordance with recognised international accounting rules, shall be regarded as a single body for the purpose of calculating the limits referred to in paragraphs 1 to 6 of this Article.",
+        "after": "Article 17\nDiversification\n1. An MMF shall invest no more than:\n(a) 5 % of its assets in money market instruments, securitisations and ABCPs issued by the same body;\n(b) 10 % of its assets in deposits made with the same credit institution, unless the structure of the banking sector in the Member State in which the MMF is domiciled is such that there are insufficient viable credit institutions to meet that diversification requirement and it is not economically feasible for the MMF to make deposits in another Member State, in which case up to 15 % of its assets may be deposited with the same credit institution.\n2. By way of derogation from point (a) of paragraph 1, a VNAV MMF may invest up to 10 % of its assets in money market instruments, securitisations and ABCPs issued by the same body provided that the total value of such money market instruments, securitisations and ABCPs held by the VNAV MMF in each issuing body in which it invests more than 5 % of its assets does not exceed 40 % of the value of its assets.\n3. Until the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 15 % of the assets of the MMF.\nAs from the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 20 % of the assets of the MMF, whereby up to 15 % of the assets of the MMF may be invested in securitisations and ABCPs that do not comply with the criteria for the identification of STS securitisations and ABCPs.\n4. The aggregate risk exposure to the same counterparty of an MMF stemming from derivative transactions which fulfil the conditions set out in Article 13 and which are not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation, shall not exceed 5 % of the assets of the MMF.\n5. The aggregate amount of cash provided to the same counterparty of an MMF in reverse repurchase agreements that are not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation shall not exceed 15 % of the assets of the MMF.\nWhere a reverse repurchase agreement is centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation, the cash provided by an MMF as part of each reverse repurchase agreement shall not exceed 15 % of the assets of the MMF.\n6. Notwithstanding the individual limits laid down in paragraphs 1 and 4, an MMF shall not combine, where to do so would result in an investment of more than 15 % of its assets in a single body, any of the following:\n(a) investments in money market instruments, securitisations and ABCPs issued by that body;\n(b) deposits made with that body;\n(c) financial derivative instruments that are not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation, giving counterparty risk exposure to that body.\nBy way of derogation from the diversification requirement provided for in the first subparagraph, where the structure of the financial market in the Member State in which the MMF is domiciled is such that there are insufficient viable financial institutions to meet that diversification requirement and it is not economically feasible for the MMF to use financial institutions in another Member State, the MMF may combine the types of investments referred to in points (a) to (c) up to a maximum investment of 20 % of its assets in a single body.\n7. By way of derogation from point (a) of paragraph 1, the competent authority of an MMF may authorise an MMF to invest, in accordance with the principle of risk-spreading, up to 100 % of its assets in different money market instruments issued or guaranteed separately or jointly by the Union, the national, regional and local administrations of the Member States or their central banks, the European Central Bank, the European Investment Bank, the European Investment Fund, the European Stability Mechanism, the European Financial Stability Facility, a central authority or central bank of a third country, the International Monetary Fund, the International Bank for Reconstruction and Development, the Council of Europe Development Bank, the European Bank for Reconstruction and Development, the Bank for International Settlements, or any other relevant international financial institution or organisation to which one or more Member States belong.\nThe first subparagraph shall only apply where all of the following requirements are met:\n(a) the MMF holds money market instruments from at least six different issues by the issuer;\n(b) the MMF limits the investment in money market instruments from the same issue to a maximum of 30 % of its assets;\n(c) the MMF makes express reference, in its fund rules or instruments of incorporation, to all administrations, institutions or organisations referred to in the first subparagraph that issue or guarantee separately or jointly money market instruments in which it intends to invest more than 5 % of its assets;\n(d) the MMF includes a prominent statement in its prospectus and marketing communications drawing attention to the use of the derogation and indicating all administrations, institutions or organisations referred to in the first subparagraph that issue or guarantee separately or jointly money market instruments in which it intends to invest more than 5 % of its assets.\n8. Notwithstanding the individual limits laid down in paragraph 1, an MMF may invest no more than 10 % of its assets in bonds issued by a single credit institution that has its registered office in a Member State and is subject by law to special public supervision designed to protect bond-holders. In particular, sums deriving from the issue of those bonds shall be invested in accordance with the law in assets which, during the whole period of validity of the bonds, are capable of covering claims attaching to the bonds and which, in the event of failure of the issuer, would be used on a priority basis for the reimbursement of the principal and payment of the accrued interest.\nWhere an MMF invests more than 5 % of its assets in the bonds referred to in the first subparagraph issued by a single issuer, the total value of those investments shall not exceed 40 % of the value of the assets of the MMF.\n9. Notwithstanding the individual limits laid down in paragraph 1, an MMF may invest no more than 20 % of its assets in bonds issued by a single credit institution where the requirements set out in point (f) of Article 10(1) or point (c) of Article 11(1) of Delegated Regulation (EU) 2015/61 are met, including any possible investment in assets referred to in paragraph 8 of this Article.\nWhere an MMF invests more than 5 % of its assets in the bonds referred to in the first subparagraph issued by a single issuer, the total value of those investments shall not exceed 60 % of the value of the assets of the MMF, including any possible investment in assets referred to in paragraph 8, respecting the limits set out therein.\n10. Companies which are included in the same group for the purposes of consolidated accounts under Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or in accordance with recognised international accounting rules, shall be regarded as a single body for the purpose of calculating the limits referred to in paragraphs 1 to 6 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 17 PA 4 ALN 1",
+          "AR 17 PA 5 ALN 1",
+          "AR 17 PA 5 ALN 2",
+          "AR 17 PA 6 ALN 1 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2987",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-12-24",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2987 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (3) (a); AR 003 (3) (b); AR 003 (3) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4 now refers to derivative transactions generally rather than only OTC derivative transactions, and limits the 5% counterparty exposure cap to those derivative transactions that are not centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17",
+              "label": "Art. 17, 02017R1131-20241224"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 5 now applies its 15% cash limit only to reverse repurchase agreements that are not centrally cleared through such a CCP, and a new second subparagraph sets a separate 15% cap on cash provided per agreement when the reverse repurchase agreement is centrally cleared through such a CCP.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17",
+              "label": "Art. 17, 02017R1131-20241224"
+            }
+          ]
+        },
+        {
+          "text": "Point (c) of paragraph 6 now excludes from the combination limit any financial derivative instruments that are centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012, whereas it previously covered OTC financial derivative instruments without that carve-out.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20241224",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17",
+              "label": "Art. 17, 02017R1131-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1131",
+                  "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+                },
+                "version": "02017R1131-20240109",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_17",
+              "label": "Art. 17, 02017R1131-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R1131",
+      "display_name": "Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text with EEA relevance. )"
+    },
+    "from_version": "02017R1131-20240109",
+    "to_version": "02017R1131-20241224",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 14",
+          "AR 17"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 14",
+          "AR 17"
+        ],
+        "note": "5 annotations in (2024-01-09, 2024-12-24]",
+        "claims": [
+          {
+            "location": "AR 2 PO 24",
+            "change_type": "INSERTED",
+            "in_force": "2024-12-24",
+            "source": "32024R2987 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 14 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-24",
+            "source": "32024R2987 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 17 PA 6 ALN 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-24",
+            "source": "32024R2987 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 17 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-24",
+            "source": "32024R2987 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 17 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-24",
+            "source": "32024R2987 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 14",
+          "AR 17"
+        ],
+        "note": "32024R2987, 0.993 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": "Regulation (EU) 2024/2987 of the European Parliament and of the Council of 27 November 2024 amending Regulations (EU) No 648/2012, (EU) No 575/2013 and (EU) 2017/1131 as regards measures to mitigate excessive exposures to third-country central counterparties and improve the efficiency of Union clearing markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 14 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": "Regulation (EU) 2024/2987 of the European Parliament and of the Council of 27 November 2024 amending Regulations (EU) No 648/2012, (EU) No 575/2013 and (EU) 2017/1131 as regards measures to mitigate excessive exposures to third-country central counterparties and improve the efficiency of Union clearing markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": "Regulation (EU) 2024/2987 of the European Parliament and of the Council of 27 November 2024 amending Regulations (EU) No 648/2012, (EU) No 575/2013 and (EU) 2017/1131 as regards measures to mitigate excessive exposures to third-country central counterparties and improve the efficiency of Union clearing markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": "Regulation (EU) 2024/2987 of the European Parliament and of the Council of 27 November 2024 amending Regulations (EU) No 648/2012, (EU) No 575/2013 and (EU) 2017/1131 as regards measures to mitigate excessive exposures to third-country central counterparties and improve the efficiency of Union clearing markets (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 6 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (3) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2987",
+              "display_name": "Regulation (EU) 2024/2987 of the European Parliament and of the Council of 27 November 2024 amending Regulations (EU) No 648/2012, (EU) No 575/2013 and (EU) 2017/1131 as regards measures to mitigate excessive exposures to third-country central counterparties and improve the efficiency of Union clearing markets (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 3,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 17353,
+      "output_tokens": 965,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 8,
+    "citations": 9,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

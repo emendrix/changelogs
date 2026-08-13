@@ -10,6 +10,119 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1131-20241224 -->
+## Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text […]
+### `02017R1131-20240109` → `02017R1131-20241224`
+
+- **Act** `eu:32017R1131` · **In force** 2024-12-24 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R1131-20240109` · `v2` = `02017R1131-20241224`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 2 ALN 1 PO 23`, `AR 2 ALN 1 PO 24` · *dates* +2012-07-04 · *amended by* `32024R2987`
+
+Point (23), defining 'manager of an MMF', now ends with a semicolon instead of a full stop, reflecting that a further definition follows it. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_2)
+
+A new point (24) has been added, defining 'CCP' as a CCP as defined in Article 2, point (1), of Regulation (EU) No 648/2012. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_2)
+
+*before* (`02017R1131-20240109`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) short-term assets means financial assets with a residual maturity not exceeding 2 years;
+> (2) money market instruments means money market instruments as defined in Article 2(1)(o) of Directive 2009/65/EC, and instruments as referred to in Article 3 of Commission Directive 2007/16/ECCommission Directive 2007/16/EC of 19 March 2007 implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.3.2007, p. 11).;
+> (3) transferable securities means transferable securities as defined in Article 2(1)(n) of Directive 2009/65/EC, and instruments as referred to in Article 2(1) of Directive 2007/16/EC;
+> (4) repurchase agreement means any agreement in which one party transfers securities or any rights related to that title to a counterparty, subject to a commitment to repurchase them at a specified price on a future date specified or to be specified;
+> (5) reverse repurchase agreement means any agreement in which one party receives securities, or any rights related to a title or security from a counterparty subject to a commitment to sell them back at a specified price on a future date specified or to be specified;
+> (6) securities lending and securities borrowing mean any transaction in which an institu […truncated by emendrix: 4898 characters omitted…]
+
+*after* (`02017R1131-20241224`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) short-term assets means financial assets with a residual maturity not exceeding 2 years;
+> (2) money market instruments means money market instruments as defined in Article 2(1)(o) of Directive 2009/65/EC, and instruments as referred to in Article 3 of Commission Directive 2007/16/ECCommission Directive 2007/16/EC of 19 March 2007 implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.3.2007, p. 11).;
+> (3) transferable securities means transferable securities as defined in Article 2(1)(n) of Directive 2009/65/EC, and instruments as referred to in Article 2(1) of Directive 2007/16/EC;
+> (4) repurchase agreement means any agreement in which one party transfers securities or any rights related to that title to a counterparty, subject to a commitment to repurchase them at a specified price on a future date specified or to be specified;
+> (5) reverse repurchase agreement means any agreement in which one party receives securities, or any rights related to a title or security from a counterparty subject to a commitment to sell them back at a specified price on a future date specified or to be specified;
+> (6) securities lending and securities borrowing mean any transaction in which an institu […truncated by emendrix: 5216 characters omitted…]
+
+**MODIFIED · Art. 14 — Eligible repurchase agreements** · applies from: unchanged
+
+*within* `AR 14 ALN 1 PTA (d)`, `AR 14 ALN 1 PTA (da)` · *amended by* `32024R2987`
+
+Point (d) now limits its 10% cash-received cap specifically to repurchase agreements that are not centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_14)
+
+A new point (da) was added setting a separate 15% cap on cash received by the MMF under repurchase agreements that are centrally cleared through such an authorised or recognised CCP. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_14)
+
+The earlier version contained only the single, undifferentiated 10% cap in point (d) without any distinction based on central clearing through a CCP. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_14)
+
+*before* (`02017R1131-20240109`)
+
+> Article 14
+> Eligible repurchase agreements
+> A repurchase agreement shall be eligible to be entered into by an MMF provided that all of the following conditions are fulfilled:
+> (a) it is used on a temporary basis, for no more than seven working days, only for liquidity management purposes and not for investment purposes other than as referred to in point (c);
+> (b) the counterparty receiving assets transferred by the MMF as collateral under the repurchase agreement is prohibited from selling, investing, pledging or otherwise transferring those assets without the MMF's prior consent;
+> (c) the cash received by the MMF as part of the repurchase agreement is able to be:
+> (i) placed on deposits in accordance with point (f) of Article 50(1) of Directive 2009/65/EC; or
+> (ii) invested in assets referred to in Article 15(6), but shall not otherwise be invested in eligible assets as referred to in Article 9, transferred or otherwise reused;
+> (d) the cash received by the MMF as part of the repurchase agreement does not exceed 10 % of its assets;
+> (e) the MMF has the right to terminate the agreement at any time upon giving prior notice of no more than two working days.
+
+*after* (`02017R1131-20241224`)
+
+> Article 14
+> Eligible repurchase agreements
+> A repurchase agreement shall be eligible to be entered into by an MMF provided that all of the following conditions are fulfilled:
+> (a) it is used on a temporary basis, for no more than seven working days, only for liquidity management purposes and not for investment purposes other than as referred to in point (c);
+> (b) the counterparty receiving assets transferred by the MMF as collateral under the repurchase agreement is prohibited from selling, investing, pledging or otherwise transferring those assets without the MMF's prior consent;
+> (c) the cash received by the MMF as part of the repurchase agreement is able to be:
+> (i) placed on deposits in accordance with point (f) of Article 50(1) of Directive 2009/65/EC; or
+> (ii) invested in assets referred to in Article 15(6), but shall not otherwise be invested in eligible assets as referred to in Article 9, transferred or otherwise reused;
+> (d) the cash received by the MMF as part of the repurchase agreement that is not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation does not exceed 10 % of its assets;
+> (da) the cash received by the MMF as part of the repurchase agreement that is centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation does not exceed 15 % of its assets; […truncated by emendrix: 124 characters omitted…]
+
+**MODIFIED · Art. 17 — Diversification** · applies from: unchanged
+
+*within* `AR 17 PA 4 ALN 1`, `AR 17 PA 5 ALN 1`, `AR 17 PA 5 ALN 2`, `AR 17 PA 6 ALN 1 PTA (c)` · *amended by* `32024R2987`
+
+Paragraph 4 now refers to derivative transactions generally rather than only OTC derivative transactions, and limits the 5% counterparty exposure cap to those derivative transactions that are not centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17)
+
+Paragraph 5 now applies its 15% cash limit only to reverse repurchase agreements that are not centrally cleared through such a CCP, and a new second subparagraph sets a separate 15% cap on cash provided per agreement when the reverse repurchase agreement is centrally cleared through such a CCP. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17)
+
+Point (c) of paragraph 6 now excludes from the combination limit any financial derivative instruments that are centrally cleared through a CCP authorised under Article 14 or recognised under Article 25 of Regulation (EU) No 648/2012, whereas it previously covered OTC financial derivative instruments without that carve-out. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20241224#art_17) [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_17)
+
+*before* (`02017R1131-20240109`)
+
+> Article 17
+> Diversification
+> 1. An MMF shall invest no more than:
+> (a) 5 % of its assets in money market instruments, securitisations and ABCPs issued by the same body;
+> (b) 10 % of its assets in deposits made with the same credit institution, unless the structure of the banking sector in the Member State in which the MMF is domiciled is such that there are insufficient viable credit institutions to meet that diversification requirement and it is not economically feasible for the MMF to make deposits in another Member State, in which case up to 15 % of its assets may be deposited with the same credit institution.
+> 2. By way of derogation from point (a) of paragraph 1, a VNAV MMF may invest up to 10 % of its assets in money market instruments, securitisations and ABCPs issued by the same body provided that the total value of such money market instruments, securitisations and ABCPs held by the VNAV MMF in each issuing body in which it invests more than 5 % of its assets does not exceed 40 % of the value of its assets.
+> 3. Until the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 15 % of the assets of the MMF.
+> As from the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 20 % of the assets of the MMF, whereby up to 15 % of the assets of the MMF may be invested in sec […truncated by emendrix: 5752 characters omitted…]
+
+*after* (`02017R1131-20241224`)
+
+> Article 17
+> Diversification
+> 1. An MMF shall invest no more than:
+> (a) 5 % of its assets in money market instruments, securitisations and ABCPs issued by the same body;
+> (b) 10 % of its assets in deposits made with the same credit institution, unless the structure of the banking sector in the Member State in which the MMF is domiciled is such that there are insufficient viable credit institutions to meet that diversification requirement and it is not economically feasible for the MMF to make deposits in another Member State, in which case up to 15 % of its assets may be deposited with the same credit institution.
+> 2. By way of derogation from point (a) of paragraph 1, a VNAV MMF may invest up to 10 % of its assets in money market instruments, securitisations and ABCPs issued by the same body provided that the total value of such money market instruments, securitisations and ABCPs held by the VNAV MMF in each issuing body in which it invests more than 5 % of its assets does not exceed 40 % of the value of its assets.
+> 3. Until the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 15 % of the assets of the MMF.
+> As from the date of application of the delegated act referred to in Article 11(4), the aggregate of all of an MMF's exposures to securitisations and ABCPs shall not exceed 20 % of the assets of the MMF, whereby up to 15 % of the assets of the MMF may be invested in sec […truncated by emendrix: 6620 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1131-20241224 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1131-20240109 -->
 ## Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (Text […]
 ### `02017R1131-20190101` → `02017R1131-20240109`
