@@ -10,6 +10,896 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20110419 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20101201` → `02008R1272-20110419`
+
+- **Act** `eu:32008R1272` · **In force** 2011-04-19 · **Detected** 2026-08-13
+- **Touched** 9 provisions — 9 substantive · 0 date-only · **8 disputed**
+- **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20101201` · `v2` = `02008R1272-20110419`
+
+---
+
+**MODIFIED · Art. 25** · applies from: unknown
+
+*amended by* `32011R0286`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 26 — Principles of precedence for hazard pictograms** · applies from: unchanged
+
+*within* `AR 26 PA 1 ALN 1 PTA (d)`, `AR 26 PA 1 ALN 1 PTA (e)` · *amended by* `32011R0286`
+
+Point (d) now ends with a semicolon rather than a full stop, and a new point (e) has been added stating that if the hazard pictogram GHS02 or GHS06 applies, the use of the hazard pictogram GHS04 shall be optional. [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#art_26)
+
+The remainder of Article 26, including point (1)(1)(a) through (c) and paragraph 2, is unchanged between the two versions. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#art_26)
+
+*before* (`02008R1272-20101201`)
+
+> Article 26
+> Principles of precedence for hazard pictograms
+> 1.
+> Where the classification of a substance or mixture would result in more than one hazard pictogram on the label, the following rules of precedence shall apply to reduce the number of hazard pictograms required:
+>
+> (a) if the hazard pictogram GHS01 applies, the use of the hazard pictograms GHS02 and GHS03 shall be optional, except in cases where more than one of these hazard pictograms are compulsory;
+>
+> (b) if the hazard pictogram GHS06 applies, the hazard pictogram GHS07 shall not appear;
+>
+> (c) if the hazard pictogram GHS05 applies, the hazard pictogram GHS07 shall not appear for skin or eye irritation;
+>
+> (d) if the hazard pictogram GHS08 applies for respiratory sensitisation, the hazard pictogram GHS07 shall not appear for skin sensitisation or for skin and eye irritation.
+> 2.
+> Where the classification of a substance or mixture would result in more than one hazard pictogram for the same hazard class the label shall include the hazard pictogram corresponding to the most severe hazard category for each hazard class concerned.
+> For substances that are included in Part 3 of Annex VI and also subject to classification pursuant to Title II, the label shall include the hazard pictogram corresponding to the most severe hazard category for each relevant hazard class.
+
+*after* (`02008R1272-20110419`)
+
+> Article 26
+> Principles of precedence for hazard pictograms
+> 1.
+> Where the classification of a substance or mixture would result in more than one hazard pictogram on the label, the following rules of precedence shall apply to reduce the number of hazard pictograms required:
+>
+> (a) if the hazard pictogram GHS01 applies, the use of the hazard pictograms GHS02 and GHS03 shall be optional, except in cases where more than one of these hazard pictograms are compulsory;
+>
+> (b) if the hazard pictogram GHS06 applies, the hazard pictogram GHS07 shall not appear;
+>
+> (c) if the hazard pictogram GHS05 applies, the hazard pictogram GHS07 shall not appear for skin or eye irritation;
+>
+> (d) if the hazard pictogram GHS08 applies for respiratory sensitisation, the hazard pictogram GHS07 shall not appear for skin sensitisation or for skin and eye irritation;
+>
+>
+> (e) if the hazard pictogram GHS02 or GHS06 applies, the use of the hazard pictogram GHS04 shall be optional.
+>
+> 2.
+> Where the classification of a substance or mixture would result in more than one hazard pictogram for the same hazard class the label shall include the hazard pictogram corresponding to the most severe hazard category for each hazard class concerned.
+> For substances that are included in Part 3 of Annex VI and also subject to classification pursuant to Title II, the label shall include the hazard pictogram corresponding to the most severe hazard category for each relevant hazard class.
+
+**MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.2`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.3`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.4`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.5`, `AN I SCT 1 SCT 1.2 SCT 1.2.1`, `AN I SCT 1 SCT 1.2 SCT 1.2.1 SCT 1.2.1.1`, `AN I SCT 1 SCT 1.2 SCT 1.2.1 SCT 1.2.1.2`, `AN I SCT 1 SCT 1.2 SCT 1.2.1 SCT 1.2.1.3`, `AN I SCT 1 SCT 1.2 SCT 1.2.1 SCT 1.2.1.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.1`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.2 PTA (b)`, `AN I SCT 2 SCT 2.1 SCT 2.1.4`, `AN I SCT 2 SCT 2.1 SCT 2.1.4 SCT 2.1.4.2`, `AN I SCT 2 SCT 2.2 SCT 2.2.2`, `AN I SCT 2 SCT 2.3 SCT 2.3.2`, `AN I SCT 2 SCT 2.4 SCT 2.4.2`, `AN I SCT 2 SCT 2.5 SCT 2.5.3`, `AN I SCT 2 SCT 2.6 SCT 2.6.2`, `AN I SCT 2 SCT 2.6 SCT 2.6.4`, `AN I SCT 2 SCT 2.6 SCT 2.6.4 PTA (b)`, `AN I SCT 2 SCT 2.7 SCT 2.7.2`, `AN I SCT 2 SCT 2.11 SCT 2.11.1`, `AN I SCT 3 SCT 3.1 SCT 3.1.2`, `AN I SCT 3 SCT 3.1 SCT 3.1.3`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 PTA (c)`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 PTA (d)`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.5`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.6 SCT 3.1.3.6.1`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.6 SCT 3.1.3.6.1 PTA (c)`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.6 SCT 3.1.3.6.2`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.6 SCT 3.1.3.6.2 PTA (a)`, `AN I SCT 3 SCT 3.1 SCT 3.1.4`, `AN I SCT 3 SCT 3.4 SCT 3.4.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 SCT 3.4.2.1.2.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 SCT 3.4.2.1.2.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 SCT 3.4.2.1.2.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 SCT 3.4.2.1.2.4`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 SCT 3.4.2.1.2.5`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 PTI (i)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.2 PTI (ii)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTA (a)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTA (b)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTI (i)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTI (ii)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTI (iii)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 PTI (iv)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 SCT 3.4.2.2.2.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 SCT 3.4.2.2.2.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 PTA (a)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 PTA (b)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 PTA (c)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 PTA (d)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.2 PTA (e)`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.3 SCT 3.4.2.2.3.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.3 SCT 3.4.2.2.3.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.3 SCT 3.4.2.2.3.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.4`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.4 SCT 3.4.2.2.4.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.4 SCT 3.4.2.2.4.2`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.4 SCT 3.4.2.2.4.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.2 SCT 3.4.2.2.4 SCT 3.4.2.2.4.4`, `AN I SCT 3 SCT 3.4 SCT 3.4.3 SCT 3.4.3.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.4`, `AN I SCT 3 SCT 3.8 SCT 3.8.3 SCT 3.8.3.4`, `AN I SCT 3 SCT 3.9 SCT 3.9.1`, `AN I SCT 3 SCT 3.10 SCT 3.10.1 SCT 3.10.1.6`, `AN I SCT 4 SCT 4.1 SCT 4.1.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (a)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (b)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (c)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (d)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (e)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (f)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (g)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (h)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (i)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (j)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.1 PTA (k)`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.2 SCT 4.1.1.2.0`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.2 SCT 4.1.1.2.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.2 SCT 4.1.1.2.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.3 SCT 4.1.1.3.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.1 SCT 4.1.1.3 SCT 4.1.1.3.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.6`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.7`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.7 SCT 4.1.2.7.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.7 SCT 4.1.2.7.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.8`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.8 SCT 4.1.2.8.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 SCT 4.1.2.9.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 SCT 4.1.2.9.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 SCT 4.1.2.9.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 SCT 4.1.2.9.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 SCT 4.1.2.9.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 PTA (a)`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 PTA (b)`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.9 PTA (c)`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.10`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.10 SCT 4.1.2.10.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.2 SCT 4.1.2.10 SCT 4.1.2.10.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 SCT 4.1.3.3.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 SCT 4.1.3.3.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 SCT 4.1.3.3.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 SCT 4.1.3.3.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 SCT 4.1.3.3.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 PTA (a)`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 PTA (b)`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 PTA (c)`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.3 PTA (d)`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.4 SCT 4.1.3.4.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.4 SCT 4.1.3.4.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.4 SCT 4.1.3.4.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.1 SCT 4.1.3.5.5.1.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.1 SCT 4.1.3.5.5.1.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.2 SCT 4.1.3.5.5.2.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.3 SCT 4.1.3.5.5.3.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.3 SCT 4.1.3.5.5.3.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4 SCT 4.1.3.5.5.4.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4 SCT 4.1.3.5.5.4.2`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4 SCT 4.1.3.5.5.4.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4 SCT 4.1.3.5.5.4.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.4 SCT 4.1.3.5.5.4.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.5`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.5 SCT 4.1.3.5.5.5.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.6`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.6 SCT 4.1.3.6.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.4`, `AN I SCT 4 SCT 4.1 SCT 4.1.4 SCT 4.1.4.1`, `AN I SCT 5`, `AN I SCT 5 SCT 5.1 SCT 5.1.1`, `AN I SCT 5 SCT 5.1 SCT 5.1.1 SCT 5.1.1.1`, `AN I SCT 5 SCT 5.1 SCT 5.1.2`, `AN I SCT 5 SCT 5.1 SCT 5.1.2 SCT 5.1.2.1`, `AN I SCT 5 SCT 5.1 SCT 5.1.3`, `AN I SCT 5 SCT 5.1 SCT 5.1.3 SCT 5.1.3.1`, `AN I SCT 5 SCT 5.1 SCT 5.1.4`, `AN I SCT 5 SCT 5.1 SCT 5.1.4 SCT 5.1.4.1` · *dates* -2000-06-29 +2009-09-16 · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Several bridging principles in section 1.1.3 (dilution, batching, concentration of highly hazardous mixtures, interpolation and substantially similar mixtures) were reworded to explicitly distinguish between tested and untested mixtures, adding words such as "tested" and "untested" that were absent before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+
+Section 1.2.1 was restructured and renumbered from three subpoints on pictograms and label dimensions into four subpoints, with a new table adding minimum pictogram dimensions alongside the label dimensions, and the note on generic cut-off values in Table 1.1 was reworded regarding volume percentages for gaseous mixtures. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+
+The explosives classification figures and notes in section 2.1.4 were altered, including changes to the wording and structure of Figure 2.1.3 and Figure 2.1.4 and an expanded note under 2.1.4.2 describing additional test conditions, and the text is cut off before further differences could be seen. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+>
+>
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+>
+>
+> 1.0. Definitions
+> Gas means a substance which:
+>
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+>
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+>
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+>
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+>
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+>
+>
+> 1.1. Classification of substances and mixtures
+>
+>
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286155 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX I
+> CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES
+> This annex sets out the criteria for classification in hazard classes and in their differentiations and sets out additional provisions on how the criteria may be met.
+>
+>
+> 1. PART 1: GENERAL PRINCIPLES FOR CLASSIFICATION AND LABELLING
+>
+>
+> 1.0. Definitions
+> Gas means a substance which:
+>
+> (i) at 50 oC has a vapour pressure greater than 300 kPa (absolute); or
+>
+> (ii) is completely gaseous at 20 oC at a standard pressure of 101,3 kPa;
+> Liquid means a substance or mixture which:
+>
+> (i) at 50 oC has a vapour pressure of not more than 300 kPa (3 bar);
+>
+> (ii) is not completely gaseous at 20 oC and at a standard pressure of 101,3 kPa; and
+>
+> (iii) which has a melting point or initial melting point of 20 oC or less at a standard pressure of 101,3 kPa;
+> Solid means a substance or mixture which does not meet the definitions of liquid or gas.
+>
+>
+> 1.1. Classification of substances and mixtures
+>
+>
+> 1.1.0. Cooperation to meet the requirements in this Regulation
+> Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
+> Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 302830 characters omitted…]
+
+**MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
+
+*within* `AN II SCT 2 SCT 2.8`, `AN II SCT 2 SCT 2.10`, `AN II SCT 3 SCT 3.2` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+>
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+>
+>
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+>
+>
+> 1.1. Physical properties
+>
+>
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+>
+>
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+>
+>
+> 1.1.3. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+>
+>
+> 1.1.4. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, whic […truncated by emendrix: 12479 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+>
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+>
+>
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+>
+>
+> 1.1. Physical properties
+>
+>
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+>
+>
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+>
+>
+> 1.1.3. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+>
+>
+> 1.1.4. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, whic […truncated by emendrix: 13084 characters omitted…]
+
+**MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
+
+*within* `AN III SCT 1`, `AN III SCT 1 PTA (a)`, `AN III SCT 1 PTA (b)`, `AN III SCT 3` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+>
+>
+> 1. Part 1: hazard statements
+> The hazard statements shall be applied in accordance with Parts 2, 3 and 4 of Annex I.
+>
+> Table 1.1
+> Hazard statements for physical hazards
+>
+> The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
+>
+> H200
+> Language
+> 2.1 — Explosives, Unstable explosives
+>
+> BG
+> Нестабилен експлозив.
+>
+> ES
+> Explosivo inestable.
+>
+> CS
+> Nestabilní výbušnina.
+>
+> DA
+> Ustabilt eksplosiv.
+>
+> DE
+> Instabil, explosiv.
+>
+> ET
+> Ebapüsiv lõhkeaine.
+>
+> EL
+> Ασταθή εκρηκτικά.
+>
+> EN
+> Unstable explosives.
+>
+> FR
+> Explosif instable.
+>
+> GA
+> Pléascáin éagobhsaí.
+>
+> IT
+> Esplosivo instabile.
+>
+> LV
+> Nestabili sprādzienbīstami materiāli.
+>
+> LT
+> Nestabilios sprogios medžiagos.
+>
+> HU
+> Instabil robbanóanyagok.
+>
+> MT
+> Splussivi instabbli.
+>
+> NL
+> Instabiele ontplofbare stof.
+>
+> PL
+> Materiały wybuchowe niestabilne.
+>
+> PT
+> Explosivo instável.
+>
+> RO
+> Exploziv instabil.
+>
+> SK
+> Nestabilné výbušniny.
+>
+> SL
+> Nestabilni eksplozivi.
+>
+> FI
+> Epästabiili räjähde.
+>
+> SV
+> Instabilt explosivt.
+>
+> H201
+> Language
+> 2.1 — Explosives, Division 1.1
+>
+> BG
+> Експлозив; опасност от масова експлозия.
+>
+> ES
+> Explosivo; peligro de explosión en masa.
+>
+> CS
+> Výbušnina; nebezpečí masivního výbuchu.
+>
+> DA
+> Eksplosiv, masseeksplosionsfare.
+>
+> DE
+> Explosiv, Gefahr der Massenexplosion.
+>
+> ET
+> Plahvatusohtlik; massiplahvatusoht.
+>
+> EL
+> Εκρηκτικό· κίνδυνος μαζικής έκρηξης.
+>
+>
+> EN
+> Explosive; mass explosion hazard.
+>
+> FR
+> Explosif; danger d'expl […truncated by emendrix: 141145 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX III
+> LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS
+>
+>
+> 1. Part 1: hazard statements
+>
+> The hazard statements shall be applied in accordance with Parts 2, 3, 4 and 5 of Annex I.
+> In selecting the hazard statements in accordance with Articles 21 and 27, suppliers may use the combined hazard statements provided for in this Annex.
+> In accordance with Article 27 the following principles of precedence for hazard statements may apply to labelling:
+>
+> (a) if the hazard statement H410 Very toxic to aquatic life with long lasting effects is assigned, the statement H400 Very toxic to aquatic life may be omitted;
+>
+> (b) if the statement H314 Causes severe skin burns and eye damage is assigned, the statement H318 Causes serious eye damage may be omitted.
+> In order to indicate the route of administration or exposure the combined hazard statements in Table 1.2 may be used.
+>
+>
+> Table 1.1
+> Hazard statements for physical hazards
+>
+>
+> The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
+>
+>
+> H200
+> Language
+> 2.1 — Explosives, Unstable explosives
+>
+> BG
+> Нестабилен експлозив.
+>
+> ES
+> Explosivo inestable.
+>
+> CS
+> Nestabilní výbušnina.
+>
+> DA
+> Ustabilt eksplosiv.
+>
+> DE
+> Instabil, explosiv.
+>
+> ET
+> Ebapüsiv lõhkeaine.
+>
+> EL
+> Ασταθή εκρηκτικά.
+>
+> EN
+> Unstable explosives.
+>
+> FR
+> Explosif instable.
+>
+> GA
+> Pléascáin éagobhsaí.
+>
+> IT
+> Esplosivo instabile.
+>
+> LV
+> Nestabili sprādzienbīstami materiāli.
+>
+> LT
+> Nestabilios sprogi […truncated by emendrix: 160325 characters omitted…]
+
+**MODIFIED · Annex IV — LIST OF PRECAUTIONARY STATEMENTS** · applies from: unchanged
+
+*within* `AN IV SCT 1`, `AN IV SCT 2` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX IV
+> LIST OF PRECAUTIONARY STATEMENTS
+> In selecting the precautionary statements in accordance with Articles 22 and 28(3), suppliers may combine the Precautionary Statements in the table below, having regard to clarity and comprehensibility of the precautionary advice.
+>
+>
+> 1. Part 1: Criteria for the selection of precautionary statements
+>
+> Table 6.1
+> Precautionary statements — General
+>
+> Code
+> General precautionary statements
+> Hazard class
+> Hazard category
+> Conditions for use
+> (1)
+> (2)
+> (3)
+> (4)
+> (5)
+> P101
+> If medical advice is needed, have product container or label at hand.
+> as appropriate
+>
+> Consumer products
+> P102
+> Keep out of reach of children.
+> as appropriate
+>
+> Consumer products
+> P103
+> Read label before use.
+> as appropriate
+>
+> Consumer products
+>
+> Table 6.2
+> Precautionary statements — Prevention
+>
+> Code
+> Prevention precautionary statements
+> Hazard class
+> Hazard category
+> Conditions for use
+> (1)
+> (2)
+> (3)
+> (4)
+> (5)
+> P201
+> Obtain special instructions before use.
+> Explosives (section 2.1)
+> Unstable explosive
+>
+> Germ cell mutagenicity (section 3.5)
+> 1A, 1B, 2
+>
+>
+> Carcinogenicity (section 3.6)
+> 1A, 1B, 2
+>
+>
+>
+> Reproductive toxicity (section 3.7)
+> 1A, 1B, 2
+>
+>
+>
+> Reproductive toxicity — effects on or via lactation (section 3.7)
+> Additional category
+>
+> P202
+> Do not handle until all safety precautions have been read and understood.
+> Explosives (section 2.1)
+> Unstable explosive
+>
+> Germ cell mutagenicity (section 3.5)
+> 1A, 1B, 2
+>
+>
+> Carcinogenicity (section 3.6)
+> 1A, 1B, 2
+>
+>
+>
+> Reproductive toxicity (section 3.7)
+> 1A, 1B, 2
+>
+> P210
+> Keep away from heat […truncated by emendrix: 222708 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX IV
+> LIST OF PRECAUTIONARY STATEMENTS
+> In selecting the precautionary statements in accordance with Articles 22 and 28(3), suppliers may combine the Precautionary Statements in the table below, having regard to clarity and comprehensibility of the precautionary advice.
+>
+>
+> 1. Part 1: Criteria for the selection of precautionary statements
+>
+> Table 6.1
+> Precautionary statements — General
+>
+> Code
+> General precautionary statements
+> Hazard class
+> Hazard category
+> Conditions for use
+> (1)
+> (2)
+> (3)
+> (4)
+> (5)
+> P101
+> If medical advice is needed, have product container or label at hand.
+> as appropriate
+>
+> Consumer products
+> P102
+> Keep out of reach of children.
+> as appropriate
+>
+> Consumer products
+> P103
+> Read label before use.
+> as appropriate
+>
+> Consumer products
+>
+> Table 6.2
+> Precautionary statements — Prevention
+>
+> Code
+> Prevention precautionary statements
+> Hazard class
+> Hazard category
+> Conditions for use
+> (1)
+> (2)
+> (3)
+> (4)
+> (5)
+> P201
+> Obtain special instructions before use.
+> Explosives (section 2.1)
+> Unstable explosive
+>
+> Germ cell mutagenicity (section 3.5)
+> 1A, 1B, 2
+> Carcinogenicity (section 3.6)
+> 1A, 1B, 2
+> Reproductive toxicity (section 3.7)
+> 1A, 1B, 2
+> Reproductive toxicity — effects on or via lactation (section 3.7)
+> Additional category
+> P202
+> Do not handle until all safety precautions have been read and understood.
+> Explosives (section 2.1)
+> Unstable explosive
+>
+> Germ cell mutagenicity (section 3.5)
+> 1A, 1B, 2
+> Carcinogenicity (section 3.6)
+> 1A, 1B, 2
+> Reproductive toxicity (section 3.7)
+> 1A, 1B, 2
+> P210
+> Keep away from heat/sparks/open fl […truncated by emendrix: 224618 characters omitted…]
+
+**MODIFIED · Annex V — HAZARD PICTOGRAMS** · applies from: unchanged
+
+*within* `AN V`, `AN V SCT 2 SCT 2.3`, `AN V SCT 2 SCT 2.4`, `AN V SCT 4` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introduction no longer refers to colour as one of the features the pictograms must conform to, mentioning only symbols and general format. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_V) [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_V)
+
+In section 2.3 the skin sensitisation entry is expanded from hazard category 1 alone to hazard categories 1, 1A and 1B, and in section 2.4 the respiratory sensitisation entry is likewise expanded from hazard category 1 alone to hazard categories 1, 1A and 1B. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_V) [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_V)
+
+A new Part 4, headed additional hazards, is added with an exclamation mark pictogram (GHS07) listing section 5.1 hazardous to the ozone layer, hazard category 1, a section that does not appear at all in the earlier text. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_V)
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX V
+> HAZARD PICTOGRAMS
+>
+>
+> INTRODUCTION
+> The hazard pictograms for each hazard class, differentiation of a hazard class and hazard category shall satisfy the provisions of this Annex and Annex I, section 1.2 and conform, in terms of colour, symbols and general format, to the specimens shown.
+>
+>
+> 1. PART 1: PHYSICAL HAZARDS
+>
+>
+> 1.1. Symbol: exploding bomb
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS01
+>
+> Section 2.1
+> Unstable explosives
+> Explosives of Divisions 1.1, 1.2, 1.3, 1.4
+> Section 2.8
+> Self reactive substances and mixtures, Types A, B
+> Section 2.15
+> Organic peroxides, Types A, B
+>
+>
+> 1.2. Symbol: flame
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS02
+>
+> Section 2.2
+> Flammable gases, hazard category 1
+> Section 2.3
+> Flammable aerosols, hazard categories 1, 2
+> Section 2.6
+> Flammable liquids, hazard categories 1, 2, 3
+> Section 2.7
+> Flammable solids, hazard categories 1, 2
+> Section 2.8
+> Self-reactive substances and mixtures, Types B, C, D, E, F
+> Section 2.9
+> Pyrophoric liquids, hazard category 1
+> Section 2.10
+> Pyrophoric solids, hazard category 1
+> Section 2.11
+> Self-heating substances and mixtures, hazard categories 1, 2
+> Section 2.12
+> Substances and mixtures, which in contact with water, emit flammable gases, hazard categories 1, 2, 3
+> Section 2.15
+> Organic peroxides, Types B, C, D, E, F
+>
+>
+> 1.3. Symbol: flame over circle
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS03
+>
+> Section 2.4
+> Oxidising gases, hazard category 1
+> Section 2.13
+> Oxidising liquids, hazard categories 1, 2, 3
+> Sectio […truncated by emendrix: 2674 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX V
+> HAZARD PICTOGRAMS
+>
+>
+> INTRODUCTION
+>
+> The hazard pictograms for each hazard class, differentiation of a hazard class and hazard category shall satisfy the provisions of this Annex and Annex I, section 1.2 and conform in terms of symbols and general format, to the specimens shown.
+>
+>
+>
+> 1. PART 1: PHYSICAL HAZARDS
+>
+>
+> 1.1. Symbol: exploding bomb
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS01
+>
+> Section 2.1
+> Unstable explosives
+> Explosives of Divisions 1.1, 1.2, 1.3, 1.4
+> Section 2.8
+> Self reactive substances and mixtures, Types A, B
+> Section 2.15
+> Organic peroxides, Types A, B
+>
+>
+> 1.2. Symbol: flame
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS02
+>
+> Section 2.2
+> Flammable gases, hazard category 1
+> Section 2.3
+> Flammable aerosols, hazard categories 1, 2
+> Section 2.6
+> Flammable liquids, hazard categories 1, 2, 3
+> Section 2.7
+> Flammable solids, hazard categories 1, 2
+> Section 2.8
+> Self-reactive substances and mixtures, Types B, C, D, E, F
+> Section 2.9
+> Pyrophoric liquids, hazard category 1
+> Section 2.10
+> Pyrophoric solids, hazard category 1
+> Section 2.11
+> Self-heating substances and mixtures, hazard categories 1, 2
+> Section 2.12
+> Substances and mixtures, which in contact with water, emit flammable gases, hazard categories 1, 2, 3
+> Section 2.15
+> Organic peroxides, Types B, C, D, E, F
+>
+>
+> 1.3. Symbol: flame over circle
+>
+> Pictogram
+> (1)
+> Hazard class and hazard category
+> (2)
+> GHS03
+>
+> Section 2.4
+> Oxidising gases, hazard category 1
+> Section 2.13
+> Oxidising liquids, hazard categories 1, 2, 3
+> Section 2.14 […truncated by emendrix: 2874 characters omitted…]
+
+**MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
+
+*within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.3`, `AN VI SCT 3` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In Table 1.1, the codes for respiratory and skin sensitisation were changed from single codes (Resp. Sens. 1 and Skin Sens. 1) to lists including sub-categories 1A and 1B, and the ozone-layer hazard code was changed from a bare 'Ozone' to 'Ozone 1'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+
+Section 1.1.2.3 rewrote the passage on M-factors, adding provisions for cases where separate M-factors exist for Aquatic Acute 1 and Aquatic Chronic 1 and for cases where a single M-factor covers both classifications, and removing the earlier sentence referring to an M-factor being used when a mixture is classified by the summation method. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+
+Part 3's introductory text no longer states that Table 3.1 and Table 3.2 are listed in separate Volumes IIIa and IIIb, instead simply naming the tables. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.1, subject to certain considerations arising from translating the classifications listed in Annex I to Directive 67/548/EEC.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Community level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Community level. In Table 3.1 the classification and labelling are based on the criteria in Annex I to this Regulation. In Table 3.2 classification and labelling are based on the criteria in Annex VI to Directive 67/548/EEC.
+>
+>
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+>
+>
+> 1.1. Information listed for each entry
+>
+>
+> 1.1.1. Numbering of entries and identification of a substance
+>
+>
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968669 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX VI
+> Harmonised classification and labelling for certain hazardous substances
+> Part 1 of this Annex provides an introduction to the list of harmonised classification and labelling, including information listed for each entry and related classifications and hazard statements in Table 3.1, subject to certain considerations arising from translating the classifications listed in Annex I to Directive 67/548/EEC.
+> Part 2 of this Annex lays down general principles for preparing dossiers to propose and justify harmonised classification and labelling of substances at Community level.
+> Part 3 of this Annex lists hazardous substances for which harmonised classification and labelling have been established at Community level. In Table 3.1 the classification and labelling are based on the criteria in Annex I to this Regulation. In Table 3.2 classification and labelling are based on the criteria in Annex VI to Directive 67/548/EEC.
+>
+>
+> 1. PART 1: INTRODUCTION TO THE LIST OF HARMONISED CLASSIFICATIONS AND LABELLING
+>
+>
+> 1.1. Information listed for each entry
+>
+>
+> 1.1.1. Numbering of entries and identification of a substance
+>
+>
+> 1.1.1.1. Index numbers
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968925 characters omitted…]
+
+**MODIFIED · Annex VII — Translation table from classification under Directive 67/548/EEC to classification under this Regulation** · applies from: unchanged
+
+*within* `AN VII SCT 1` · *amended by* `32011R0286`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In the row for N; R50, the hazard class label changes from "Aquatic. Acute 1" to "Aquatic Acute 1", removing the period after "Aquatic". [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VII)
+
+In the row for N; R59, the entry under "This Regulation" changes from the code EUH059 to the code H420. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VII)
+
+*before* (`02008R1272-20101201`)
+
+>
+> ANNEX VII
+> Translation table from classification under Directive 67/548/EEC to classification under this Regulation
+> This Annex includes a table to assist translation of a classification made for a substance or a mixture under Directive 67/548/EEC or Directive 1999/45/EC, respectively, into the corresponding classification under this Regulation. Whenever data for the substance or mixture are available, an evaluation and classification shall be done in accordance with Articles 9 to13 of this Regulation.
+>
+>
+> 1. Translation table
+> The codes used are introduced in Table 1.1 and section 1.1.2.2 of Annex VI.
+>
+> Table 1.1
+> Translation between classification in accordance with Directive 67/548/EEC and this Regulation
+>
+>
+> Note 1
+> For these classes it is possible to use the recommended minimum classification as defined in section 1.2.1.1 in Annex VI. Data or other information may be available to indicate that re-classification in a more severe category is appropriate.
+>
+> Note 2
+> It is recommended to classify in Category 1B even if it also could be possible that 1C could be applicable for certain cases. Going back to original data, may not result in a possibility to distinguish between Category 1B or 1C, since the exposure period has normally been up to 4 hours according to Regulation (EC) No 440/2008. However, for the future, when data are derived from tests following a sequential approach as foreseen in the Regulation (EC) No 440/2008, Category 1C should be considered.
+>
+>
+> Note 3
+> The route of exposu […truncated by emendrix: 4568 characters omitted…]
+
+*after* (`02008R1272-20110419`)
+
+>
+> ANNEX VII
+> Translation table from classification under Directive 67/548/EEC to classification under this Regulation
+> This Annex includes a table to assist translation of a classification made for a substance or a mixture under Directive 67/548/EEC or Directive 1999/45/EC, respectively, into the corresponding classification under this Regulation. Whenever data for the substance or mixture are available, an evaluation and classification shall be done in accordance with Articles 9 to13 of this Regulation.
+>
+>
+> 1. Translation table
+> The codes used are introduced in Table 1.1 and section 1.1.2.2 of Annex VI.
+>
+> Table 1.1
+> Translation between classification in accordance with Directive 67/548/EEC and this Regulation
+>
+>
+> Note 1
+> For these classes it is possible to use the recommended minimum classification as defined in section 1.2.1.1 in Annex VI. Data or other information may be available to indicate that re-classification in a more severe category is appropriate.
+>
+> Note 2
+> It is recommended to classify in Category 1B even if it also could be possible that 1C could be applicable for certain cases. Going back to original data, may not result in a possibility to distinguish between Category 1B or 1C, since the exposure period has normally been up to 4 hours according to Regulation (EC) No 440/2008. However, for the future, when data are derived from tests following a sequential approach as foreseen in the Regulation (EC) No 440/2008, Category 1C should be considered.
+>
+> Note 3
+> The route of exposur […truncated by emendrix: 4566 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20110419 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20101201 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `32008R1272` → `02008R1272-20101201`
