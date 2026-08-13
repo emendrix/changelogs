@@ -10,6 +10,167 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20221014 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20220501` → `02006R1907-20221014`
+
+- **Act** `eu:32006R1907` · **In force** 2022-10-14 · **Detected** 2026-08-13
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 153 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20220501` · `v2` = `02006R1907-20221014`
+
+---
+
+**MODIFIED · Annex VI — INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10** · applies from: unchanged
+
+*within* `AN VI SCT 1`, `AN VI SCT 2`, `AN VI SCT 3` · *amended by* `32022R0477`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 1 drops the fax number from contact details, adds a new point 1.1.4 requiring information on an only representative appointed under Article 8(1), and rewrites the joint submission rules of point 1.2 to describe, by reference to Article 11(1) and Article 11(3), how lead and member registrants must indicate which composition, nanoform or set of similar nanoforms specific submitted information pertains to. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VI)
+
+Section 2 replaces the prior identity and composition sub-points with new wording, including a revised EC number description, a new distinction between UVCB and other substances with detailed constituent and impurity naming and concentration rules in points 2.3.2 to 2.3.4, expanded qualitative and quantitative analytical data requirements in points 2.3.5 and 2.3.6, a reworded analytical methods description in 2.3.7, an added crystal structure element in point 2.2.1, and a new point 2.5 requiring any other available information relevant to identification of the substance. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VI)
+
+Section 3 changes point 3.5 from a brief general description of identified uses to a general description of identified uses, while the fax number is likewise removed from point 1.3.1's contact details. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VI)
+
+*before* (`02006R1907-20220501`)
+
+> ANNEX VI
+> INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10
+> NOTE ON FULFILLING THE REQUIREMENTS OF ANNEXES VI TO XI
+> Annexes VI to XI specify the information that shall be submitted for registration and evaluation purposes according to Articles 10, 12, 13, 40, 41 and 46. For the lowest tonnage level, the standard requirements are in Annex VII, and every time a new tonnage level is reached, the requirements of the corresponding Annex have to be added. For each registration the precise information requirements will differ, according to tonnage, use, and exposure. The Annexes shall thus be considered as a whole, and in conjunction with the overall requirements of registration, evaluation and the duty of care.
+> A substance is defined in accordance with Article 3(1) and identified in accordance with section 2 in this Annex. A substance is always manufactured or imported in at least one form. A substance can also occur in more than one form.
+> For all nanoforms covered by the registration certain specific information items shall be provided. Nanoforms shall be characterised as provided for in this Annex. The registrant shall justify why the information provided in the joint registration, covering the information requirements for the registered substances with nanoforms, is adequate for assessing the nanoforms. Information relevant to cover information requirements for such a substance can also be submitted separately by individual registrants, where justified in accordance with Article […truncated by emendrix: 15159 characters omitted…]
+
+*after* (`02006R1907-20221014`)
+
+> ANNEX VI
+> INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10
+> NOTE ON FULFILLING THE REQUIREMENTS OF ANNEXES VI TO XI
+> Annexes VI to XI specify the information that shall be submitted for registration and evaluation purposes according to Articles 10, 12, 13, 40, 41 and 46. For the lowest tonnage level, the standard requirements are in Annex VII, and every time a new tonnage level is reached, the requirements of the corresponding Annex have to be added. For each registration the precise information requirements will differ, according to tonnage, use, and exposure. The Annexes shall thus be considered as a whole, and in conjunction with the overall requirements of registration, evaluation and the duty of care.
+> A substance is defined in accordance with Article 3(1) and identified in accordance with section 2 in this Annex. A substance is always manufactured or imported in at least one form. A substance can also occur in more than one form.
+> For all nanoforms covered by the registration certain specific information items shall be provided. Nanoforms shall be characterised as provided for in this Annex. The registrant shall justify why the information provided in the joint registration, covering the information requirements for the registered substances with nanoforms, is adequate for assessing the nanoforms. Information relevant to cover information requirements for such a substance can also be submitted separately by individual registrants, where justified in accordance with Article […truncated by emendrix: 17450 characters omitted…]
+
+**MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VII SCT 8`, `AN VII SCT 9` · *amended by* `32022R0477`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.4 on mutagenicity is substantially expanded, replacing the earlier single sentence about considering further mutagenicity studies after a positive result with detailed follow-up requirements specifying in vitro and in vivo studies referenced to Annex VIII and Annex IX points, and adding exceptions where the in vitro gene mutation study and follow-up testing need not be conducted for substances meeting certain germ cell mutagenicity or carcinogenicity classification criteria with risk management measures in place. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VII)
+
+Section 8.4.1's column 2 adaptation rule is reworded to specify that the in vitro gene mutation study in bacteria not being appropriate for nanoforms requires provision of an in vitro study referenced to Annex VIII, point 8.4.3, replacing the prior broader reference to one or more in vitro mutagenicity studies in mammalian cells. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VII)
+
+Section 9.1.1's column 2 text is revised, changing the phrase about mitigating factors and adequate information for classification into a list of cases including factors indicating short-term toxicity is unlikely and availability of a long-term study, and it adds new text allowing the registrant to propose long-term toxicity testing with criteria for when it shall be proposed or required, including a specific solubility threshold. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VII)
+
+*before* (`02006R1907-20220501`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 15806 characters omitted…]
+
+*after* (`02006R1907-20221014`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 17908 characters omitted…]
+
+**MODIFIED · Annex VIII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VIII SCT 8`, `AN VIII SCT 9` · *amended by* `32022R0477`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.4 on mutagenicity now sets out its own detailed list of cases in which the studies under points 8.4.2 and 8.4.3 do not need to be conducted, including availability of adequate in vivo data and classification as a germ cell mutagen or genotoxic carcinogen with risk management measures in place, and it adds provisions on proposing or requiring an in vivo study when an in vitro genotoxicity result gives rise to concern or when an in vitro study is not applicable. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VIII)
+
+Point 8.4.2 is retitled to refer to an in vitro mammalian chromosomal aberration study or in vitro mammalian micronucleus study, replacing the earlier wording referring to an in vitro cytogenicity study or in vitro micronucleus study. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VIII)
+
+Section 9 on ecotoxicological information adds new introductory text under 9.1 on aquatic toxicity and expands section 9.2 on degradation and section 9.3 on fate and behaviour in the environment with new standard information requirements and rules on proposing further testing, replacing the shorter prior wording under those headings. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VIII)
+
+*before* (`02006R1907-20220501`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any relevant physicochemical, toxicological and ecotoxicological information shall include characterisation of the nanoform tested and test conditions. A justification shall be provided where QSARs are used or evidence is obtained by means other than […truncated by emendrix: 16154 characters omitted…]
+
+*after* (`02006R1907-20221014`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any relevant physicochemical, toxicological and ecotoxicological information shall include characterisation of the nanoform tested and test conditions. A justification shall be provided where QSARs are used or evidence is obtained by means other than […truncated by emendrix: 20223 characters omitted…]
+
+**MODIFIED · Annex IX — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN IX SCT 8`, `AN IX SCT 9` · *dates* +2022-04-14 · *amended by* `32022R0477`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.4 was rewritten from a rule about proposing an in vivo somatic cell genotoxicity study after a positive in vitro result into a mutagenicity provision with new sub-points 8.4.4 and 8.4.5 setting out separate in vivo mammalian somatic cell and germ cell genotoxicity study requirements and their own waiving conditions. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_IX)
+
+Section 8.7.2 and 8.7.3 changed their prescribed test references and route-of-administration wording, including added default oral/inhalation route rules and a reworded second-species/second-study trigger for 8.7.2, and removed references to the Commission Regulation on test methods and to Article 40 or 41 in 8.7.3. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_IX)
+
+Section 9.1, 9.1.6, 9.2, 9.2.3 and 9.4 were reworded to change who may require further testing (adding Agency alongside the registrant), to add a cutoff allowing fish short-term toxicity tests initiated before 14 April 2022 to satisfy the requirement under stated conditions, to broaden 9.2.3 to transformation and abiotic and biotic degradation products, and to redirect terrestrial long-term toxicity testing to Annex X. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_IX)
+
+*before* (`02006R1907-20220501`)
+
+> ANNEX IX
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(d).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 100 tonnes or more in accordance with Article 12(1)(d). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII and VIII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 18458 characters omitted…]
+
+*after* (`02006R1907-20221014`)
+
+> ANNEX IX
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(d).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 100 tonnes or more in accordance with Article 12(1)(d). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII and VIII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 20976 characters omitted…]
+
+**MODIFIED · Annex X — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN X SCT 8`, `AN X SCT 9` · *amended by* `32022R0477`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.4 now sets out a genotoxicity testing framework built around new points 8.4.6 and 8.4.7 covering second in vivo mammalian somatic cell and germ cell genotoxicity studies with specific waiver conditions, replacing the earlier single paragraph on a second in vivo somatic cell test following a positive in vitro result and its related germ cell mutagenicity consideration. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_X)
+
+The developmental toxicity study description at 8.7.2 has been rewritten to specify a pre-natal developmental toxicity study in a second species with route-of-administration and species-deviation requirements, and 8.7.3 now specifies OECD TG 443 without the prior reference to the Commission Regulation on test methods, drops the specific reference to Articles 40 or 41 in the extension provisions, and adds route-of-administration wording. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_X)
+
+In section 9, the wording for degradation testing (9.2), terrestrial organism effects (9.4), and sediment organism toxicity (9.5.1) has been changed to attribute the testing proposal jointly to the registrant or the Agency and to refer to transformation and degradation products and test media selection, where the earlier text referred only to the registrant proposing tests and to degradation products without transformation products. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_X)
+
+*before* (`02006R1907-20220501`)
+
+> ANNEX X
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(e).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 1000 tonnes or more in accordance with Article 12(1)(e). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII, VIII and IX. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any r […truncated by emendrix: 12816 characters omitted…]
+
+*after* (`02006R1907-20221014`)
+
+> ANNEX X
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(e).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 1000 tonnes or more in accordance with Article 12(1)(e). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII, VIII and IX. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any r […truncated by emendrix: 14700 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20221014 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20220501 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20220301` → `02006R1907-20220501`
