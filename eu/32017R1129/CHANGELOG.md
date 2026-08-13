@@ -10,6 +10,49 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20240109 -->
+## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
+### `02017R1129-20211110` → `02017R1129-20240109`
+
+- **Act** `eu:32017R1129` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R1129-20211110` · `v2` = `02017R1129-20240109`
+
+---
+
+**MODIFIED · Art. 13** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 21a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+This is a newly inserted provision requiring issuers, offerors, or persons seeking admission to trading to submit specified information simultaneously to a designated collection body so it can be made accessible on the European single access point (ESAP). [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
+
+The provision sets out format and metadata requirements for the submitted information, designates the competent authority as the collection body, and assigns ESMA the task of developing implementing technical standards and, where necessary, guidelines on the metadata. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
+
+*after* (`02017R1129-20240109`)
+
+> Article 21a
+> Accessibility of information on the European single access point
+> 1. From 10 July 2026, when making public any information referred to in Article 1(4) points (f) and (g), Article 1(5) first subparagraph, points (e) and (f), Articles 8(5), 9(4), 10(2), 17(2), 21(1), 21(9) and 23(1) of this Regulation, the issuer, the offeror or the person asking for admission to trading on a regulated market, where relevant, shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the issuer, the offeror, or the person asking for admission to trading on […truncated by emendrix: 3318 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20211110 -->
 ## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
 ### `02017R1129-20210318` → `02017R1129-20211110`
