@@ -10,6 +10,191 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090220 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20090120` → `02006R1907-20090220`
+
+- **Act** `eu:32006R1907` · **In force** 2009-02-20 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 155 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20090120` · `v2` = `02006R1907-20090220`
+
+---
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 ALN 1 PO 20 PTA (c)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point 20(c), the earlier requirement that placing on the market occurred at any time between 18 September 1981 and 31 October 1993 inclusive was replaced by a requirement that placing on the market occurred before the entry into force of this Regulation, with the 18 September 1981 to 31 October 1993 date range moved into a new clause about the documentary evidence to be held. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
+
+The AFTER text adds a requirement that the documentary evidence include proof that the substance was placed on the market by any manufacturer or importer within that same 18 September 1981 to 31 October 1993 window. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
+
+*before* (`02006R1907-20090120`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation:
+>
+> 1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+>
+> 2. mixture: means a mixture or solution composed of two or more substances;
+>
+> 3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;
+>
+> 4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;
+>
+> 5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:
+>
+> (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
+>
+> (b) less than a simple weight majority of molecules of the same molecular weight.
+> In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
+>
+> 6. m […truncated by emendrix: 9237 characters omitted…]
+
+*after* (`02006R1907-20090220`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation:
+> 1. substance: means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+> 2. mixture: means a mixture or solution composed of two or more substances;
+> 3. article: means an object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition;
+> 4. producer of an article: means any natural or legal person who makes or assembles an article within the Community;
+> 5. polymer: means a substance consisting of molecules characterised by the sequence of one or more types of monomer units. Such molecules must be distributed over a range of molecular weights wherein differences in the molecular weight are primarily attributable to differences in the number of monomer units. A polymer comprises the following:
+> (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
+> (b) less than a simple weight majority of molecules of the same molecular weight.
+> In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
+> 6. monomer: […truncated by emendrix: 9264 characters omitted…]
+
+**MODIFIED · Annex XI — GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XI SCT 3`, `AN XI SCT 3 SCT 3.1`, `AN XI SCT 3 SCT 3.2`, `AN XI SCT 3 SCT 3.3` · *dates* -2008-12-01
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Section 3.1 changes the description of which testing may be omitted, moving from an omission tied to Sections 8.6 and 8.7 of Annex VIII, Annex IX and Annex X together to an omission tied to Sections 8.6 and 8.7 of Annex VIII and separately to all of Annex IX and Annex X. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+
+Section 3.2 replaces the earlier short justification requirement, which referenced an exposure assessment under Section 5 of Annex I and consistency with criteria adopted under Section 3.3, with a longer requirement calling for a thorough and rigorous exposure assessment and compliance with one of several detailed listed criteria concerning DNEL or PNEC derivation, strictly controlled conditions, or substances embedded in a matrix. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+
+Section 3.3 no longer contains the earlier instruction for the Commission to adopt measures by 1 December 2008 to set criteria defining adequate justification, and instead states only that specific conditions of use must be communicated through the supply chain in accordance with Article 31 or 32, as the case may be. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+
+*before* (`02006R1907-20090120`)
+
+>
+> ANNEX XI
+> GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X
+> Annexes VII to X set out the information requirements for all substances manufactured or imported in quantities of:
+>
+> one tonne or more in accordance with Article 12(1)(a),
+> 10 tonnes or more in accordance with Article 12(1)(c),
+> 100 tonnes or more in accordance with Article 12(1)(d), and
+> 1000 tonnes or more in accordance with Article 12(1)(e).
+> In addition to the specific rules set out in column 2 of Annexes VII to X, a registrant may adapt the standard testing regime in accordance with the general rules set out in Section 1 of this Annex. Under dossier evaluation the Agency may assess these adaptations to the standard testing regime.
+>
+>
+> 1. TESTING DOES NOT APPEAR SCIENTIFICALLY NECESSARY
+>
+>
+> 1.1. Use of existing data
+>
+>
+> 1.1.1. Data on physical-chemical properties from experiments not carried out according to GLP or the test methods referred to in Article 13(3)
+> Data shall be considered to be equivalent to data generated by the corresponding test methods referred to in Article 13(3) if the following conditions are met:
+>
+> (1) adequacy for the purpose of classification and labelling and/or risk assessment;
+>
+> (2) sufficient documentation is provided to assess the adequacy of the study; and
+>
+> (3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
+>
+>
+> 1.1.2. Data on human health and environmental properties from experim […truncated by emendrix: 8341 characters omitted…]
+
+*after* (`02006R1907-20090220`)
+
+> ANNEX XI
+> GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X
+> Annexes VII to X set out the information requirements for all substances manufactured or imported in quantities of:
+> one tonne or more in accordance with Article 12(1)(a),
+> 10 tonnes or more in accordance with Article 12(1)(c),
+> 100 tonnes or more in accordance with Article 12(1)(d), and
+> 1000 tonnes or more in accordance with Article 12(1)(e).
+> In addition to the specific rules set out in column 2 of Annexes VII to X, a registrant may adapt the standard testing regime in accordance with the general rules set out in Section 1 of this Annex. Under dossier evaluation the Agency may assess these adaptations to the standard testing regime.
+> 1. TESTING DOES NOT APPEAR SCIENTIFICALLY NECESSARY
+> 1.1. Use of existing data
+> 1.1.1. Data on physical-chemical properties from experiments not carried out according to GLP or the test methods referred to in Article 13(3)
+> Data shall be considered to be equivalent to data generated by the corresponding test methods referred to in Article 13(3) if the following conditions are met:
+> (1) adequacy for the purpose of classification and labelling and/or risk assessment;
+> (2) sufficient documentation is provided to assess the adequacy of the study; and
+> (3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
+> 1.1.2. Data on human health and environmental properties from experiments not carr […truncated by emendrix: 10429 characters omitted…]
+
+**MODIFIED · Annex 11** · applies from: unknown
+
+*amended by* `32009R0134`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
+
+*within* `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The body of Annex XVII shown here reproduces the same numbered entries and restrictions in both versions, with the visible differences confined to spacing and line-break formatting rather than to the substance of the listed conditions. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
+
+Both texts are cut off before reaching Appendix 1, Appendix 2 and Appendix 4, so no wording from those sub-provisions is available for comparison here. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
+
+*before* (`02006R1907-20090120`)
+
+>
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+>
+>
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).
+> Chrysotile has two CAS Nos, confirmed by ECB.
+> Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).
+> OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).
+> For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+>
+> Designation of the substance, of the groups of substances or of the mixture
+> Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs)
+>
+> Mixtures, including waste oils, with a PCT content higher than 0,005 % by weight.
+> 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
+>
+> (a) closed-system electrical equipment transformers, resistors and inductors;
+>
+> (b) large condensers (≥ 1 kg total weight);
+>
+> (c) small condensers;
+>
+> (d) heat-transmitting fluids in clo […truncated by emendrix: 406748 characters omitted…]
+
+*after* (`02006R1907-20090220`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).Chrysotile has two CAS Nos, confirmed by ECB.Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+> Designation of the substance, of the groups of substances or of the mixture Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs)
+> Mixtures, including waste oils, with a PCT content higher than 0,005 % by weight. 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
+> (a) closed-system electrical equipment transformers, resistors and inductors;
+> (b) large condensers (≥ 1 kg total weight);
+> (c) small condensers;
+> (d) heat-transmitting fluids in closed-circuit h […truncated by emendrix: 406216 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20090220 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090120 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20081012` → `02006R1907-20090120`
