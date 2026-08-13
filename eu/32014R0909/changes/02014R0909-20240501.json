@@ -1,0 +1,4041 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0909",
+    "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+  },
+  "from_version": "02014R0909-20240116",
+  "to_version": "02014R0909-20240501",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-05-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 6,
+    "modified": 29,
+    "deleted": 1,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 36,
+    "unchanged_units": 82,
+    "disputed": 35
+  },
+  "counts": {
+    "touched": 36,
+    "substantive": 36,
+    "date_only": 0,
+    "disputed": 35,
+    "quoted": 0,
+    "unexplained": 35
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1) (a); AR 001 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 6"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 7"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 12"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 17"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5) (a); AR 001 (5) (b); AR 001 (5) (c); AR 001 (5) (d)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 19"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 20"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 22"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8) (a); AR 001 (8) (b); AR 001 (8) (c); AR 001 (8) (d) (i); AR 001 (8) (d) (ii); AR 001 (8) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 22a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 23"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (10)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 24"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11) (a); AR 001 (11) (b); AR 001 (11) (c); AR 001 (11) (d); AR 001 (11) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 24a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (12)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 25"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (13) (a); AR 001 (13) (b); AR 001 (13) (c); AR 001 (13) (d)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 26"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (14) (a); AR 001 (14) (b); AR 001 (14) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 27"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (15) (a); AR 001 (15) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 27a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (16)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 27b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (16)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 27c"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (16)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 28"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (17)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 29"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (18)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 36"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (19)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 40"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (20)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 47"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (21)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 47a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (22)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 49"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (23)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 52"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (24)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 54"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (25) (a); AR 001 (25) (b); AR 001 (25) (c); AR 001 (25) (d); AR 001 (25) (e); AR 001 (25) (f); AR 001 (25) (g)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 55"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (26) (a); AR 001 (26) (b) (i); AR 001 (26) (b) (ii)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 59"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (27) (a) (i); AR 001 (27) (a) (ii); AR 001 (27) (b); AR 001 (27) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 60"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (28) (a); AR 001 (28) (b) (i); AR 001 (28) (b) (ii)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 67"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (29) (a); AR 001 (29) (b); AR 001 (29) (c); AR 001 (29) (d)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 68"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (30)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 69"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (31) (a); AR 001 (31) (b); AR 001 (31) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 72"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (32)",
+            "change_types": [
+              "DELETED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 74"
+        },
+        "heading": "Reports",
+        "before": "Article 74\nReports\n1. ESMA shall, in cooperation with EBA and the competent authorities and the relevant authorities, submit annual reports to the Commission providing assessments of trends, potential risks and vulnerabilities, and, where necessary, recommendations of preventative or remedial action in the markets for services covered by this Regulation. Those reports shall include at least an assessment of the following:\n(a) settlement efficiency for domestic and cross-border operations for each Member State based on the number and volume of settlement fails, amount of penalties referred to in Article 7(2), number and volumes of buy-in transactions referred to in Article 7(3) and (4) and any other relevant criteria;\n(b) the appropriateness of penalties for settlement fails, in particular the need for additional flexibility in relation to penalties for settlement fails in relation to illiquid financial instruments referred to in Article 7(4);\n(c) measuring settlement which does not take place in the securities settlement systems operated by CSDs based on the number and volume of transactions based on the information received under Article 9 and any other relevant criteria;\n(d) the cross-border provision of services covered by this Regulation based on the number and types of CSD links, number of foreign participants in the securities settlement systems operated by CSDs, number and volume of transactions involving such participants, number of foreign issuers recording their securities in a CSD in accordance with Article 49 and any other relevant criteria;\n(e) the handling of access requests in Articles 49, 52 and 53 to identify the reasons for rejection of access requests by CSDs, CCPs and trading venues any trends in such rejections and ways in which the risks identified could be mitigated in future so as to allow for access to be granted, and any other substantive barriers to competition in post-trade financial services;\n(f) the handling of applications submitted in accordance with the procedures referred to in Article 23(3) to (7) and Article 25(4) to (10);\n(g) where applicable, the findings of the peer review process for cross-border supervision in Article 24(6) and whether the frequency of such reviews could be reduced in the future, including an indication of whether such findings indicate the need for more formal colleges of supervisors;\n(h) the application of civil liability rules of Member States relating to the losses attributable to CSDs;\n(i) the procedures and conditions under which CSDs have been authorised to designate credit institutions or themselves to provide banking-type ancillary services in accordance with Articles 54 and 55, including an assessment of the effects that such provision may have on financial stability and competition for settlement and banking-types ancillary services in the Union;\n(j) the application of the rules referred to in Article 38 on protection of securities of participants and those of their clients, in particular those in Article 38(5);\n(k) the application of the sanctions and in particular the need to further harmonise the administrative sanctions for the infringement of the requirements laid down in this Regulation.\n2. The reports referred to in paragraph 1 covering a calendar year shall be communicated to the Commission by 30 April of the following calendar year.\n3. By 17 January 2025 and every two years thereafter, ESMA, in close cooperation with the members of the ESCB, shall submit a report to the European Parliament and to the Council on the assessment regarding the potential shortening of the period referred to in Article 5(2), first sentence (settlement cycle). That report shall include all of the following:\n(a) an assessment of the appropriateness of shortening the settlement cycle and the potential impact of such shortening on CSDs, trading venues and other market participants;\n(b) an assessment of the costs and benefits of shortening the settlement cycle in the Union, differentiating, where appropriate, between different financial instruments and categories of transactions;\n(c) a detailed outline of how to move to a shorter settlement cycle, differentiating, where appropriate, between different financial instruments and categories of transactions;\n(d) an overview of international developments on settlement cycles and their impact on the Union’s capital markets.\n4. Upon the request of the Commission, ESMA shall provide a cost-benefit analysis of the introduction of the mandatory buy-in process. Such cost-benefit analysis shall consist of the following elements:\n(a) the average duration of settlement fails with respect to the financial instruments or categories of transactions in those financial instruments to which mandatory buy-ins could apply;\n(b) the impact of the introduction of the mandatory buy-in process on the Union market, including an assessment of the underlying causes of the settlement fails to which mandatory buy-ins could apply and an analysis of the implications of subjecting specific financial instruments and categories of transactions to mandatory buy-ins;\n(c) the application of a similar buy-in process in comparable third-country markets and the impact on the competitiveness of the Union market;\n(d) any clear impact on financial stability in the Union stemming from settlement fails;\n(e) any clear impact on fragmentation of the Union’s capital markets stemming from diverging settlement efficiency rates, including the reasons for such divergence and appropriate measures to limit it.\n5. EBA shall, in cooperation with the members of the ESCB and ESMA, publish an annual report on those CSDs which designate other CSDs or credit institutions for the provision of banking-type ancillary services. That report shall take into account the findings related to the monitoring of the threshold by competent authorities referred to in Article 54(5) and the credit and liquidity implications for CSDs providing banking-type ancillary services under such threshold.\n6. ESMA shall, after consulting the members of the ESCB, submit a report by 17 January 2025 to the Commission regarding the appropriateness of applying additional regulatory tools to improve settlement efficiency in the Union.\nThat report shall cover at least the shaping of transaction sizes, the partial settlement of failing trades and the use of auto-lend/borrow programmes.\nThereafter, ESMA, after consulting the members of the ESCB, shall report every three years on any potential additional tools to improve settlement efficiency in the Union. In cases where no new tools have been identified, ESMA shall inform the Commission thereof and shall not be required to provide a report.\n7. By 17 January 2026, EBA, in close cooperation with the members of the ESCB and ESMA, shall submit a report to the European Parliament and to the Council on the assessment of the residual credit loss related to residual credit exposures as referred to in Article 59(3), point (g), and ways of addressing it. That report shall be made available to the public.",
+        "after": "Article 74\nReports\n1. ESMA shall, in cooperation with EBA and the competent authorities and the relevant authorities, submit reports to the Commission providing assessments of trends, potential risks and vulnerabilities, and, where necessary, recommendations of preventative or remedial action in the markets for services covered by this Regulation. Those reports shall include an assessment of the following:\n(a) settlement efficiency for domestic and cross-border operations for each Member State, taking into account at least the following:\n(i) the number and volume of settlement fails and their evolution;\n(ii) impact of cash penalties on settlement fails across instruments;\n(iii) the duration and main drivers of settlement fails;\n(iv) the categories of financial instruments and markets where the highest settlement fail rates are observed;\n(v) an international comparison of settlement fail rates;\n(vi) the amount of the cash penalties referred to in Article 7;\n(vii) where applicable, the number and volumes of mandatory buy-ins referred to in Article 7a;\n(viii) any measures taken by competent authorities to address situations where a CSD’s settlement efficiency over a six-month period is significantly lower than the average settlement efficiency levels recorded in the Union market;\n(aa) the settlement efficiency levels in comparison to the situation in major third-country capital markets as well as in terms of instruments traded and types of transactions executed in such markets;\n(b) the appropriateness of cash penalties for settlement fails, in particular the need for additional flexibility in relation to those penalties for settlement fails in relation to illiquid financial instruments;\n(c) the number and volume of transactions that are settled outside the securities settlement systems operated by CSDs and their evolution over time, including a comparison with the number and volume of the transactions that are settled in the securities settlement systems operated by CSDs, based on the information received under Article 9 and any other relevant information, as well as the impact of that evolution on competition in the settlement market and any potential risks to financial stability from internalised settlement;\n(d) the cross-border provision of services covered by this Regulation based on the number and types of CSD links, number of foreign participants in the securities settlement systems operated by CSDs, number and volume of transactions involving such participants, number of foreign issuers recording their securities in a CSD in accordance with Article 49 and any other relevant criteria;\n(e) the handling of access requests in Articles 49, 52 and 53 to identify the reasons for rejection of access requests by CSDs, CCPs and trading venues any trends in such rejections and ways in which the risks identified could be mitigated in future so as to allow for access to be granted, and any other substantive barriers to competition in post-trade financial services;\n(f) the handling of applications submitted in accordance with the procedures referred to in Article 23(3) to (7) and Article 25(4) to (10);\n(g) where applicable, the findings of the peer review process for cross-border supervision in Article 24(6) and whether the frequency of such reviews could be reduced in the future, including an indication of whether such findings indicate the need for more formal colleges of supervisors;\n(h) the application of civil liability rules of Member States relating to the losses attributable to CSDs;\n(i) the procedures and conditions under which CSDs have been authorised to designate credit institutions or themselves to provide banking-type ancillary services in accordance with Articles 54 and 55, including an assessment of the effects that such provision may have on financial stability and competition for settlement and banking-types ancillary services in the Union;\n(j) the application of the rules referred to in Article 38 on protection of securities of participants and those of their clients, in particular those in Article 38(5);\n(k) the application of the sanctions and in particular the need to further harmonise the administrative sanctions for the infringement of the requirements laid down in this Regulation;\n(l) the handling of notifications submitted in accordance with Article 25(2a).\n2. The reports referred to in paragraph 1 shall be submitted to the Commission as follows:\n(a) every two years for the reports referred to in paragraph 1, points (a), (aa), (b), (c), (i) and (l);\n(b) every three years for the reports referred to in paragraph 1, points (d) and (f);\n(c) at least every three years, and in any case within six months from a peer review exercise carried out in accordance with Article 24, for the report referred to in paragraph 1, point (g);\n(d) upon request from the Commission, for the reports referred to in paragraph 1, points (e), (h), (j) and (k).\nThe reports referred to in paragraph 1 shall be communicated to the Commission by 30 April of the relevant year as determined in accordance with the periodicity set out in the first subparagraph of this paragraph.\n3. By 17 January 2025 and every two years thereafter, ESMA, in close cooperation with the members of the ESCB, shall submit a report to the European Parliament and to the Council on the assessment regarding the potential shortening of the period referred to in Article 5(2), first sentence (settlement cycle). That report shall include all of the following:\n(a) an assessment of the appropriateness of shortening the settlement cycle and the potential impact of such shortening on CSDs, trading venues and other market participants;\n(b) an assessment of the costs and benefits of shortening the settlement cycle in the Union, differentiating, where appropriate, between different financial instruments and categories of transactions;\n(c) a detailed outline of how to move to a shorter settlement cycle, differentiating, where appropriate, between different financial instruments and categories of transactions;\n(d) an overview of international developments on settlement cycles and their impact on the Union’s capital markets.\n4. Upon the request of the Commission, ESMA shall provide a cost-benefit analysis of the introduction of the mandatory buy-in process. Such cost-benefit analysis shall consist of the following elements:\n(a) the average duration of settlement fails with respect to the financial instruments or categories of transactions in those financial instruments to which mandatory buy-ins could apply;\n(b) the impact of the introduction of the mandatory buy-in process on the Union market, including an assessment of the underlying causes of the settlement fails to which mandatory buy-ins could apply and an analysis of the implications of subjecting specific financial instruments and categories of transactions to mandatory buy-ins;\n(c) the application of a similar buy-in process in comparable third-country markets and the impact on the competitiveness of the Union market;\n(d) any clear impact on financial stability in the Union stemming from settlement fails;\n(e) any clear impact on fragmentation of the Union’s capital markets stemming from diverging settlement efficiency rates, including the reasons for such divergence and appropriate measures to limit it.\n5. EBA shall, in cooperation with the members of the ESCB and ESMA, publish an annual report on those CSDs which designate other CSDs or credit institutions for the provision of banking-type ancillary services. That report shall take into account the findings related to the monitoring of the threshold by competent authorities referred to in Article 54(5) and the credit and liquidity implications for CSDs providing banking-type ancillary services under such threshold.\n6. ESMA shall, after consulting the members of the ESCB, submit a report by 17 January 2025 to the Commission regarding the appropriateness of applying additional regulatory tools to improve settlement efficiency in the Union.\nThat report shall cover at least the shaping of transaction sizes, the partial settlement of failing trades and the use of auto-lend/borrow programmes.\nThereafter, ESMA, after consulting the members of the ESCB, shall report every three years on any potential additional tools to improve settlement efficiency in the Union. In cases where no new tools have been identified, ESMA shall inform the Commission thereof and shall not be required to provide a report.\n7. By 17 January 2026, EBA, in close cooperation with the members of the ESCB and ESMA, shall submit a report to the European Parliament and to the Council on the assessment of the residual credit loss related to residual credit exposures as referred to in Article 59(3), point (g), and ways of addressing it. That report shall be made available to the public.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 74 PA 1 ALN 1",
+          "AR 74 PA 1 ALN 1 PTA (a)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (i)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (ii)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (iii)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (iv)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (v)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (vi)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (vii)",
+          "AR 74 PA 1 ALN 1 PTA (a) PTI (viii)",
+          "AR 74 PA 1 ALN 1 PTA (aa)",
+          "AR 74 PA 1 ALN 1 PTA (b)",
+          "AR 74 PA 1 ALN 1 PTA (c)",
+          "AR 74 PA 1 ALN 1 PTA (k)",
+          "AR 74 PA 1 ALN 1 PTA (l)",
+          "AR 74 PA 2 ALN 1",
+          "AR 74 PA 2 ALN 1 PTA (a)",
+          "AR 74 PA 2 ALN 1 PTA (b)",
+          "AR 74 PA 2 ALN 1 PTA (c)",
+          "AR 74 PA 2 ALN 1 PTA (d)",
+          "AR 74 PA 2 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-05-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2845 R; 32023R2845 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (33) (a) (i); AR 001 (33) (a) (ii); AR 001 (33) (a) (iii); AR 001 (33) (b); AR 001 (33) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 no longer describes the reports as annual and expands the settlement-efficiency assessment in point (a) into eight detailed sub-items covering fail evolution, cash penalty impact, duration and drivers of fails, categories most affected, international comparison, penalty amounts, mandatory buy-in figures and supervisory measures on persistently low efficiency, and adds a new point (aa) comparing efficiency to major third-country markets and a new point (l) on notifications under Article 25(2a).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20240116",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_74",
+              "label": "Art. 74, 02014R0909-20240116"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20240501",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_74",
+              "label": "Art. 74, 02014R0909-20240501"
+            }
+          ]
+        },
+        {
+          "text": "Point (b) now refers to cash penalties rather than penalties generally, point (c) is reworded to measure transactions settled outside CSD systems with a comparison to those settled within CSD systems and added references to competition and financial stability impacts, and point (k) is followed by the new point (l) rather than ending the list.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20240116",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_74",
+              "label": "Art. 74, 02014R0909-20240116"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20240501",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_74",
+              "label": "Art. 74, 02014R0909-20240501"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 replaces the single annual 30 April deadline with a differentiated schedule setting two-year, three-year, peer-review-linked, or request-based reporting periods for specified points of paragraph 1, while retaining the 30 April communication date tied to that periodicity.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20240501",
+                "location": "AR 74"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_74",
+              "label": "Art. 74, 02014R0909-20240501"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20240501",
+          "location": "AR 75"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2845",
+            "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2024-01-16, 2024-05-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (34)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0909",
+      "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+    },
+    "from_version": "02014R0909-20240116",
+    "to_version": "02014R0909-20240501",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 74"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 74"
+        ],
+        "note": "6 annotations in (2024-01-16, 2024-05-01]",
+        "claims": [
+          {
+            "location": "AR 74 PA 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 1 PTA (l)",
+            "change_type": "INSERTED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 1 TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 74 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2024-05-01",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 6",
+          "AR 7",
+          "AR 12",
+          "AR 17",
+          "AR 19",
+          "AR 20",
+          "AR 22",
+          "AR 22a",
+          "AR 23",
+          "AR 24",
+          "AR 24a",
+          "AR 25",
+          "AR 26",
+          "AR 27",
+          "AR 27a",
+          "AR 27b",
+          "AR 27c",
+          "AR 28",
+          "AR 29",
+          "AR 36",
+          "AR 40",
+          "AR 47",
+          "AR 47a",
+          "AR 49",
+          "AR 52",
+          "AR 54",
+          "AR 55",
+          "AR 59",
+          "AR 60",
+          "AR 67",
+          "AR 68",
+          "AR 69",
+          "AR 72",
+          "AR 74",
+          "AR 75"
+        ],
+        "note": "32023R2845, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 1 PO 26",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 2 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 6 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 7",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 7a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 8a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (5) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 19 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 20 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (8) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 10 ALN 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (d) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 10 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (d) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22 PA 11 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (8) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 22a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 23 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (11) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (11) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24 PA 4",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (11) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (11) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24 PA 7",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (11) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 24a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (12)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 25 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (13) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 25 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (13) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 25 PA 6 ALN 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (13) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 25 PA 13",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (13) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 26 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (14) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 26 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (14) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 26 PA 9",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (14) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (15) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (15) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (16)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (16)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 27c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (16)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 28 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (17)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 29 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (18)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 36",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (19)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (20)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 47 PA 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (21)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 47a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (22)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 49 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (23)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 52 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (24)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (25) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (25) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (25) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 4a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (25) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (25) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 8 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (25) (f)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 54 PA 9",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (25) (g)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 55 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (26) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 55 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (26) (b) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 55 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (26) (b) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 59 PA 4 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (27) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 59 PA 4 PTA (i)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (27) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 59 PA 4a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (27) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 59 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (27) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 60 PA 1 ALN 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (28) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 60 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (28) (b) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 60 PA 2 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (28) (b) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 67 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (29) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 67 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (29) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 67 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (29) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 67 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (29) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 68 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (30)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (31) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 4a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 4b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 4c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 6",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 7",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 69 PA 8",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (31) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 72",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (32)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (33) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (33) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (a) (iii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (33) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 6",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 74 PA 7",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (33) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 75",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (34)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": "Regulation (EU) 2023/2845 of the European Parliament and of the Council of 13 December 2023 amending Regulation (EU) No 909/2014 as regards settlement discipline, cross-border provision of services, supervisory cooperation, provision of banking-type ancillary services and requirements for third-country central securities depositories and amending Regulation (EU) No 236/2012 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 36,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.027777777777777776,
+        "f1": 0.05405405405405406,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 36,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.027777777777777776,
+        "f1": 0.05405405405405406,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 6",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 7",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 12",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 17",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 19",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 20",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 22",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 22a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 23",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 24",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 24a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 25",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 26",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 27",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 27a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 27b",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 27c",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 28",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 29",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 36",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 47",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 47a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 49",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 52",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 54",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 55",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 59",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 60",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 67",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 68",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 69",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 72",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 75",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 2",
+      "AR 6",
+      "AR 7",
+      "AR 12",
+      "AR 17",
+      "AR 19",
+      "AR 20",
+      "AR 22",
+      "AR 22a",
+      "AR 23",
+      "AR 24",
+      "AR 24a",
+      "AR 25",
+      "AR 26",
+      "AR 27",
+      "AR 27a",
+      "AR 27b",
+      "AR 27c",
+      "AR 28",
+      "AR 29",
+      "AR 36",
+      "AR 40",
+      "AR 47",
+      "AR 47a",
+      "AR 49",
+      "AR 52",
+      "AR 54",
+      "AR 55",
+      "AR 59",
+      "AR 60",
+      "AR 67",
+      "AR 68",
+      "AR 69",
+      "AR 72",
+      "AR 75"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 36,
+    "explained": 1,
+    "unavailable": 35,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 7516,
+      "output_tokens": 505,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 36,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 35,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 5,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
