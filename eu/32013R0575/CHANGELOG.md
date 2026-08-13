@@ -10,6 +10,276 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20230101 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20220708` → `02013R0575-20230101`
+
+- **Act** `eu:32013R0575` · **In force** 2022-11-14 · **Detected** 2026-08-13
+- **Touched** 12 provisions — 12 substantive · 0 date-only · **8 disputed**
+- **Diff** 1 inserted · 11 modified · 0 deleted · 0 renumbered · 0 deferred · 722 unchanged
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20220708` · `v2` = `02013R0575-20230101`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unchanged
+
+*within* `AR 4 PA 1 ALN 1 PO 130a` · *amended by* `32022R2036`
+
+A new definition, point (130a), has been inserted between the existing definitions of 'resolution authority' and 'resolution entity', defining 'relevant third-country authority' by reference to point (90) of Article 2(1) of Directive 2014/59/EU. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_4)
+
+This entry does not appear at all in the earlier version of the list of definitions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_4)
+
+*before* (`02013R0575-20220708`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which consists of any of the following:
+> (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
+> (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46227 characters omitted…]
+
+*after* (`02013R0575-20230101`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which consists of any of the following:
+> (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
+> (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46364 characters omitted…]
+
+**MODIFIED · Art. 12a — Consolidated calculation for G-SIIs with multiple resolution entities** · applies from: unchanged
+
+*within* `AR 12a ALN 1`, `AR 12a ALN 1 PTA (a)`, `AR 12a ALN 1 PTA (b)`, `AR 12a ALN 2`, `AR 12a ALN 3` · *amended by* `32022R2036`
+
+The provision now also covers third-country entities that would be resolution entities if established in the Union, alongside resolution entities belonging to the same G-SII. [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_12a)
+
+The calculation duty is restructured into two limbs, one for each resolution entity or such third-country entity individually and one for the EU parent institution treated as the sole resolution entity on a consolidated basis, replacing the earlier single consolidated calculation formulation. [Art. 12a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_12a) [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_12a)
+
+The prior distinction between resolution authorities being required to act when the consolidated amount was lower and merely permitted to act when it was higher has been removed, with the text now simply stating that resolution authorities shall act in accordance with Article 45d(4) and Article 45h(2) of Directive 2014/59/EU. [Art. 12a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_12a) [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_12a)
+
+*before* (`02013R0575-20220708`)
+
+> Article 12a
+> Consolidated calculation for G-SIIs with multiple resolution entities
+> Where at least two G-SII entities belonging to the same G-SII are resolution entities, the EU parent institution of that G-SII shall calculate the amount of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation. That calculation shall be undertaken on the basis of the consolidated situation of the EU parent institution as if it were the only resolution entity of the G-SII.
+> Where the amount calculated in accordance with the first paragraph of this Article is lower than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities shall act in accordance with Articles 45d(4) and 45h(2) of Directive 2014/59/EU.
+> Where the amount calculated in accordance with the first paragraph of this Article is higher than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities may act in accordance with Articles 45d(4) and 45h(2) of Directive 2014/59/EU.
+
+*after* (`02013R0575-20230101`)
+
+> Article 12a
+> Consolidated calculation for G-SIIs with multiple resolution entities
+> Where at least two G-SII entities that are part of the same G-SII are resolution entities or third-country entities that would be resolution entities if they were established in the Union, the EU parent institution of that G-SII shall calculate the amount of own funds and eligible liabilities referred to in Article 92a(1), point (a):
+> (a) for each resolution entity or third-country entity that would be a resolution entity if it were established in the Union;
+> (b) for the EU parent institution as if it were the only resolution entity of the G-SII.
+> The calculation referred to in point (b) of the first subparagraph shall be undertaken on the basis of the consolidated situation of the EU parent institution.
+> Resolution authorities shall act in accordance with Article 45d(4) and Article 45h(2) of Directive 2014/59/EU.
+
+**MODIFIED · Art. 49** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 72b — Eligible liabilities instruments** · applies from: unchanged
+
+*within* `AR 72b PA 2 ALN 4` · *amended by* `32022R2036`
+
+A new subparagraph is added at the end of paragraph 2, stating that for purposes of Article 92b, references to the resolution entity in points (c), (k), (l) and (m) of the first subparagraph of paragraph 2 are also to be understood as references to an institution that is a material subsidiary of a non-EU G-SII. [Art. 72b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_72b)
+
+This sentence does not appear in the earlier version of the article, which ends paragraph 2 with the subordination-assessment text and does not mention Article 92b or non-EU G-SII subsidiaries. [Art. 72b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_72b)
+
+*before* (`02013R0575-20220708`)
+
+> Article 72b
+> Eligible liabilities instruments
+> 1. Liabilities shall qualify as eligible liabilities instruments, provided that they comply with the conditions set out in this Article and only to the extent specified in this Article.
+> 2. Liabilities shall qualify as eligible liabilities instruments, provided that all the following conditions are met:
+> (a) the liabilities are directly issued or raised, as applicable, by an institution and are fully paid up;
+> (b) the liabilities are not owned by any of the following:
+> (i) the institution or an entity included in the same resolution group;
+> (ii) an undertaking in which the institution has a direct or indirect participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the acquisition of ownership of the liabilities is not funded directly or indirectly by the resolution entity;
+> (d) the claim on the principal amount of the liabilities under the provisions governing the instruments is wholly subordinated to claims arising from the excluded liabilities referred to in Article 72a(2); that subordination requirement shall be considered to be met in any of the following situations:
+> (i) the contractual provisions governing the liabilities specify that in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim on the principal amount of the instruments ranks below claims arising from any of the excluded […truncated by emendrix: 7261 characters omitted…]
+
+*after* (`02013R0575-20230101`)
+
+> Article 72b
+> Eligible liabilities instruments
+> 1. Liabilities shall qualify as eligible liabilities instruments, provided that they comply with the conditions set out in this Article and only to the extent specified in this Article.
+> 2. Liabilities shall qualify as eligible liabilities instruments, provided that all the following conditions are met:
+> (a) the liabilities are directly issued or raised, as applicable, by an institution and are fully paid up;
+> (b) the liabilities are not owned by any of the following:
+> (i) the institution or an entity included in the same resolution group;
+> (ii) an undertaking in which the institution has a direct or indirect participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the acquisition of ownership of the liabilities is not funded directly or indirectly by the resolution entity;
+> (d) the claim on the principal amount of the liabilities under the provisions governing the instruments is wholly subordinated to claims arising from the excluded liabilities referred to in Article 72a(2); that subordination requirement shall be considered to be met in any of the following situations:
+> (i) the contractual provisions governing the liabilities specify that in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim on the principal amount of the instruments ranks below claims arising from any of the excluded […truncated by emendrix: 7512 characters omitted…]
+
+**MODIFIED · Art. 72e — Deductions from eligible liabilities items** · applies from: unchanged
+
+*within* `AR 72e PA 4 ALN 1`, `AR 72e PA 4 ALN 2`, `AR 72e PA 4 ALN 3` · *amended by* `32022R2036`
+
+Paragraph 4 now also refers to consultation with relevant third-country authorities of subsidiaries concerned, in addition to resolution authorities. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_72e)
+
+The formula for the adjusted amount m_i is revised so that the deduction inside the brackets now takes the maximum of a risk-weighted amount (r_i times aRWA_i) and a leverage-based amount (w_i times aLRE_i), rather than only the risk-weighted amount as before. [Art. 72e, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_72e) [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_72e)
+
+The definitions section adds a new variable w_i and a new variable aLRE_i, and extends the definitions of r_i and aRWA_i to cover equivalent resolution requirements and local regulations applicable to third-country subsidiaries. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_72e)
+
+*before* (`02013R0575-20220708`)
+
+> Article 72e
+> Deductions from eligible liabilities items
+> 1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+> (a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+> (c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+> 2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilitie […truncated by emendrix: 3008 characters omitted…]
+
+*after* (`02013R0575-20230101`)
+
+> Article 72e
+> Deductions from eligible liabilities items
+> 1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+> (a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+> (c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+> 2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilitie […truncated by emendrix: 4245 characters omitted…]
+
+**MODIFIED · Art. 92 — Own funds requirements** · applies from: unchanged
+
+*within* `AR 92 PA 1a`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The after text adds a new paragraph 1a requiring a G-SII to maintain a leverage ratio buffer, calculated as the G-SII's total exposure measure multiplied by 50% of its applicable G-SII buffer rate, in addition to the leverage ratio requirement in point (d) of paragraph 1. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_92)
+
+This added paragraph further specifies that the buffer must be met with Tier 1 capital only, sets out that such Tier 1 capital cannot count toward other leverage-based requirements unless otherwise provided, and describes consequences tied to Article 141b and Article 141 of Directive 2013/36/EU where the buffer or combined buffer requirement is not met. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_92)
+
+The before text contains no equivalent paragraph 1a, moving directly from paragraph 1 to paragraph 2. [Art. 92, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_92)
+
+*before* (`02013R0575-20220708`)
+
+> Article 92
+> Own funds requirements
+> 1. Subject to Articles 93 and 94, institutions shall at all times satisfy the following own funds requirements:
+> (a) a Common Equity Tier 1 capital ratio of 4,5 %;
+> (b) a Tier 1 capital ratio of 6 %;
+> (c) a total capital ratio of 8 %;
+> (d) a leverage ratio of 3 %.
+> 2. Institutions shall calculate their capital ratios as follows:
+> (a) the Common Equity Tier 1 capital ratio is the Common Equity Tier 1 capital of the institution expressed as a percentage of the total risk exposure amount;
+> (b) the Tier 1 capital ratio is the Tier 1 capital of the institution expressed as a percentage of the total risk exposure amount;
+> (c) the total capital ratio is the own funds of the institution expressed as a percentage of the total risk exposure amount.
+> 3. Total risk exposure amount shall be calculated as the sum of points (a) to (f) of this paragraph after taking into account the provisions laid down in paragraph 4:
+> (a) the risk-weighted exposure amounts for credit risk and dilution risk, calculated in accordance with Title II and Article 379, in respect of all the business activities of an institution, excluding risk-weighted exposure amounts from the trading book business of the institution;
+> (b) the own funds requirements for the trading-book business of an institution for the following:
+> (i) market risk as determined in accordance with Title IV of this Part, excluding the approaches set out in Chapters 1a and 1b of that Title;
+> (ii) large exposures exceeding the […truncated by emendrix: 1775 characters omitted…]
+
+*after* (`02013R0575-20230101`)
+
+> Article 92
+> Own funds requirements
+> 1. Subject to Articles 93 and 94, institutions shall at all times satisfy the following own funds requirements:
+> (a) a Common Equity Tier 1 capital ratio of 4,5 %;
+> (b) a Tier 1 capital ratio of 6 %;
+> (c) a total capital ratio of 8 %;
+> (d) a leverage ratio of 3 %.
+> 1a. In addition to the requirement laid down in point (d) of paragraph 1 of this Article, a G-SII shall maintain a leverage ratio buffer equal to the G-SIIs total exposure measure referred to in Article 429(4) of this Regulation multiplied by 50 % of the G-SII buffer rate applicable to the G-SII in accordance with Article 131 of Directive 2013/36/EU.
+> A G-SII shall meet the leverage ratio buffer requirement with Tier 1 capital only. Tier 1 capital that is used to meet the leverage ratio buffer requirement shall not be used towards meeting any of the leverage based requirements set out in this Regulation and in Directive 2013/36/EU, unless explicitly otherwise provided therein.
+> Where a G-SII does not meet the leverage ratio buffer requirement, it shall be subject to the capital conservation requirement in accordance with Article 141b of Directive 2013/36/EU.
+> Where a G-SII does not meet at the same time the leverage ratio buffer requirement and the combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU, it shall be subject to the higher of the capital conservation requirements in accordance with Articles 141 and 141b of that Directive.
+> 2. Institutions sh […truncated by emendrix: 2962 characters omitted…]
+
+**MODIFIED · Art. 92a** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 113** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 151** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 429a** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 477a — Deductions from eligible liabilities items** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new text, setting out a derogation from Article 72e(4) that allows a resolution authority of a parent institution, after considering the opinion of relevant subsidiary resolution authorities, to permit an adjusted calculation of amounts mi using alternative definitions of ri and wi based on risk-based and non-risk-based capital requirements applicable to a third-country subsidiary. [Art. 477a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_477a)
+
+It also adds a second paragraph specifying conditions under which such permission may be granted where the subsidiary is in a third country lacking an applicable local resolution regime, namely the absence of practical or legal impediments to asset transfer or a third-country authority opinion confirming such transfer is possible. [Art. 477a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_477a)
+
+*after* (`02013R0575-20230101`)
+
+> Article 477a
+> Deductions from eligible liabilities items
+> 1. By way of derogation from Article 72e(4) and until 31 December 2024, the resolution authority of a parent institution, after duly considering the opinion of the resolution authorities or relevant third-country authorities of any subsidiaries concerned, may permit that the adjusted amount mi be calculated by using the following definition of ri, and wi:
+> ri
+> the total risk-based capital requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds under this Regulation;
+> wi
+> the total non-risk-based Tier 1 capital requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered Tier 1 capital under this Regulation.
+> 2. The resolution authority may grant the permission referred to in paragraph 1 where the subsidiary is established in a third country that does not yet have in place an applicable local resolution regime if at least one of the following conditions is met:
+> (a) there is no current or foreseen material practical or legal impediment to the prompt transfer of assets from the subsidiary to the parent institution;
+> (b) the relevant third-country authority of the subsidiary has provided an opinion to the resolution authority of the parent institution that assets equal to the amount to be deducted by the sub […truncated by emendrix: 131 characters omitted…]
+
+**MODIFIED · PRT 10** · applies from: unknown
+
+*amended by* `32022R2036`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20230101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20220708 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20220410` → `02013R0575-20220708`
