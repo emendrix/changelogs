@@ -1,0 +1,1388 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1093",
+    "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+  },
+  "from_version": "02010R1093-20251110",
+  "to_version": "02010R1093-20251231",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2025-12-31"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 8,
+    "deleted": 2,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 10,
+    "unchanged_units": 96,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 10,
+    "substantive": 10,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 6
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 1"
+        },
+        "heading": "Establishment and scope of action",
+        "before": "Article 1\nEstablishment and scope of action\n1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).\n2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214)., Directive (EU) 2015/2366Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35)., Regulation (EU) 2023/1114Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40). of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..\nThe Authority shall also act within the powers conferred by this Regulation and within the scope of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). and of Regulation (EU) 2015/847 of the European Parliament and of the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1). to the extent that that Directive and Regulation apply to financial sector operators and the competent authorities that supervise them. For that purpose only, the Authority shall carry out the tasks conferred by any legally binding Union act on the European Supervisory Authority (European Insurance and Occupational Pensions Authority), established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilRegulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48). or on the European Supervisory Authority (European Securities and Markets Authority), established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilRegulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).. When carrying out such tasks, the Authority shall consult those European Supervisory Authorities and keep them informed of its activities concerning any entity which is a financial institution as defined in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010.\n3. The Authority shall act in the field of activities of credit institutions, financial conglomerates, investment firms, payment institutions and e-money institutions in relation to issues not directly covered by the legislative acts referred to in paragraph 2, including matters of corporate governance, auditing and financial reporting, taking into account sustainable business models and the integration of environmental, social and governance related factors, provided that such actions are necessary to ensure the effective and consistent application of those acts.\n4. The provisions of this Regulation are without prejudice to the powers of the Commission, in particular pursuant to Article 258 TFEU, to ensure compliance with Union law.\n5. The objective of the Authority shall be to protect the public interest by contributing to the short-, medium- and long-term stability and effectiveness of the financial system, for the Union economy, its citizens and businesses. The Authority shall, within its respective competences, contribute to:\n(a) improving the functioning of the internal market, including, in particular, a sound, effective and consistent level of regulation and supervision;\n(b) ensuring the integrity, transparency, efficiency and orderly functioning of financial markets;\n(c) strengthening international supervisory coordination;\n(d) preventing regulatory arbitrage and promoting equal conditions of competition;\n(e) ensuring that the taking of credit and other risks are appropriately regulated and supervised;\n(f) enhancing customer and consumer protection;\n(g) enhancing supervisory convergence across the internal market; and\n(h) preventing the use of the financial system for the purposes of money laundering and terrorist financing.\nFor those purposes, the Authority shall contribute to ensuring the consistent, efficient and effective application of the acts referred to in paragraph 2 of this Article, foster supervisory convergence, and provide opinions in accordance with Article 16a to the European Parliament, to the Council, and to the Commission.\nIn the exercise of the tasks conferred upon it by this Regulation, the Authority shall pay particular attention to any systemic risk posed by financial institutions, the failure of which may impair the operation of the financial system or the real economy.\nWhen carrying out its tasks, the Authority shall act independently, objectively and in a non-discriminatory and transparent manner, in the interests of the Union as a whole and shall respect, where relevant, the principle of proportionality. The Authority shall be accountable and act with integrity and shall ensure that all stakeholders are treated fairly.\nThe content and form of the Authority’s actions and measures, in particular guidelines, recommendations, opinions, questions and answers, draft regulatory standards and draft implementing standards, shall fully respect the applicable provisions of this Regulation and of the legislative acts referred to in paragraph 2. To the extent permitted and relevant under those provisions, the Authority’s actions and measures shall, in accordance with the principle of proportionality, take due account of the nature, scale and complexity of the risks inherent in the business of a financial institution, undertaking, other subject or financial activity, that is affected by the Authority’s actions and measures.\n6. The Authority shall establish, as an integral part thereof, a Committee advising it as to how, in full compliance with applicable rules, its actions and measures should take account of specific differences prevailing in the sector, pertaining to the nature, scale and complexity of risks, to business models and practice as well as to the size of financial institutions and of markets to the extent that such factors are relevant under the rules considered.",
+        "after": "Article 1\nEstablishment and scope of action\n1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).\n2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214)., Directive (EU) 2015/2366Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35)., Regulation (EU) 2023/1114Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40). of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..\nThe Authority shall also act within the powers conferred by this Regulation and within the scope of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73). and of Regulation (EU) 2015/847 of the European Parliament and of the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1). to the extent that that Directive and Regulation apply to financial sector operators and the competent authorities that supervise them. For that purpose only, the Authority shall carry out the tasks conferred by any legally binding Union act on the European Supervisory Authority (European Insurance and Occupational Pensions Authority), established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilRegulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48). or on the European Supervisory Authority (European Securities and Markets Authority), established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilRegulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).. When carrying out such tasks, the Authority shall consult those European Supervisory Authorities and keep them informed of its activities concerning any entity which is a financial institution as defined in point (1) of Article 4 of Regulation (EU) No 1094/2010 or a financial market participant as defined in point (1) of Article 4 of Regulation (EU) No 1095/2010.\n3. The Authority shall act in the field of activities of credit institutions, financial conglomerates, investment firms, payment institutions and e-money institutions in relation to issues not directly covered by the legislative acts referred to in paragraph 2, including matters of corporate governance, auditing and financial reporting, taking into account sustainable business models and the integration of environmental, social and governance related factors, provided that such actions are necessary to ensure the effective and consistent application of those acts.\n4. The provisions of this Regulation are without prejudice to the powers of the Commission, in particular pursuant to Article 258 TFEU, to ensure compliance with Union law.\n5. The objective of the Authority shall be to protect the public interest by contributing to the short-, medium- and long-term stability and effectiveness of the financial system, for the Union economy, its citizens and businesses. The Authority shall, within its respective competences, contribute to:\n(a) improving the functioning of the internal market, including, in particular, a sound, effective and consistent level of regulation and supervision;\n(b) ensuring the integrity, transparency, efficiency and orderly functioning of financial markets;\n(c) strengthening international supervisory coordination;\n(d) preventing regulatory arbitrage and promoting equal conditions of competition;\n(e) ensuring that the taking of credit and other risks are appropriately regulated and supervised;\n(f) enhancing customer and consumer protection; and\n(g) enhancing supervisory convergence across the internal market.\n(h) preventing the use of the financial system for the purposes of money laundering and terrorist financing.\nFor those purposes, the Authority shall contribute to ensuring the consistent, efficient and effective application of the acts referred to in paragraph 2 of this Article, foster supervisory convergence, and provide opinions in accordance with Article 16a to the European Parliament, to the Council, and to the Commission.\nIn the exercise of the tasks conferred upon it by this Regulation, the Authority shall pay particular attention to any systemic risk posed by financial institutions, the failure of which may impair the operation of the financial system or the real economy.\nWhen carrying out its tasks, the Authority shall act independently, objectively and in a non-discriminatory and transparent manner, in the interests of the Union as a whole and shall respect, where relevant, the principle of proportionality. The Authority shall be accountable and act with integrity and shall ensure that all stakeholders are treated fairly.\nThe content and form of the Authority’s actions and measures, in particular guidelines, recommendations, opinions, questions and answers, draft regulatory standards and draft implementing standards, shall fully respect the applicable provisions of this Regulation and of the legislative acts referred to in paragraph 2. To the extent permitted and relevant under those provisions, the Authority’s actions and measures shall, in accordance with the principle of proportionality, take due account of the nature, scale and complexity of the risks inherent in the business of a financial institution, undertaking, other subject or financial activity, that is affected by the Authority’s actions and measures.\n6. The Authority shall establish, as an integral part thereof, a Committee advising it as to how, in full compliance with applicable rules, its actions and measures should take account of specific differences prevailing in the sector, pertaining to the nature, scale and complexity of risks, to business models and practice as well as to the size of financial institutions and of markets to the extent that such factors are relevant under the rules considered.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 5 ALN 1 PTA (f)",
+          "AR 1 PA 5 ALN 1 PTA (g)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (1) (a); AR 103 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the list of contributions in Article 1(5), the punctuation was altered so that point (f) now ends with a semicolon followed by 'and', and point (g) now ends with a full stop rather than a semicolon followed by 'and'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251110",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_1",
+              "label": "Art. 1, 02010R1093-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_1",
+              "label": "Art. 1, 02010R1093-20251231"
+            }
+          ]
+        },
+        {
+          "text": "As a result, the 'and' that previously linked point (g) to point (h) no longer appears between those two points.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_1",
+              "label": "Art. 1, 02010R1093-20251231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 4"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (2) (a); AR 103 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 8"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 9a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (4)",
+            "change_types": [
+              "DELETED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DELETED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 9b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "DELETED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R1620, 0.944 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 17"
+        },
+        "heading": "Breach of Union law",
+        "before": "Article 17\nBreach of Union law\n1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.\n2. Upon request from one or more competent authorities, the European Parliament, the Council, the Commission, the Banking Stakeholder Group, or on its own initiative, including when this is based on well- substantiated information from natural or legal persons, and after having informed the competent authority concerned, the Authority shall outline how it intends to proceed with the case and, where appropriate, investigate the alleged breach or non-application of Union law.\nWithout prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.\nWithout prejudice to the powers laid down in Article 35, the Authority may, after having informed the competent authority concerned, address a duly justified and reasoned request for information directly to other competent authorities whenever requesting information from the competent authority concerned has proven, or is deemed to be, insufficient to obtain the information that is deemed necessary for the purpose of investigating an alleged breach or non-application of Union law.\nThe addressee of such a request shall provide the Authority with clear, accurate and complete information without undue delay.\n2a. Without prejudice to powers under this Regulation and before issuing a recommendation as set out in paragraph 3, the Authority shall engage with the competent authority concerned, where it considers such engagement appropriate in order to resolve a breach of Union law, in an attempt to reach agreement on actions necessary for the competent authority to comply with Union law.\n3. The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.\nThe competent authority shall, within 10 working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.\n4. Where the competent authority has not complied with Union law within 1 month from receipt of the Authority’s recommendation, the Commission may, after having been informed by the Authority, or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the Authority’s recommendation.\nThe Commission shall issue such a formal opinion no later than 3 months after the adoption of the recommendation. The Commission may extend this period by 1 month.\nThe Authority and the competent authorities shall provide the Commission with all necessary information.\n5. The competent authority shall, within 10 working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the Authority of the steps it has taken or intends to take to comply with that formal opinion.\n6. Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph 4 of this Article within the period specified therein, and where it is necessary to remedy, in a timely manner, such non-compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the Authority may, where the relevant requirements of the legislative acts referred to in Article 1(2) of this Regulation are directly applicable to financial institutions or, in the context of matters relating to the prevention and countering of money laundering and of terrorist financing, to financial sector operators, adopt an individual decision addressed to a financial institution or another financial sector operator requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.\nIn matters concerning the prevention of the use of the financial system for the purpose of money laundering or of terrorist financing, where the relevant requirements of the legislative acts referred to in Article 1(2) are not directly applicable to financial sector operators, the Authority may adopt a decision requiring the competent authority to comply with the formal opinion referred to in paragraph 4 of this Article within the period specified therein. If the authority does not comply with that decision, the Authority may also adopt a decision in accordance with the first subparagraph. To that effect, the Authority shall apply all relevant Union law, and, where that Union law is composed of Directives, national law to the extent that it transposes those Directives. Where the relevant Union law is composed of Regulations and where those Regulations explicitly grant options for Member States, the Authority shall apply also national law to the extent that such options have been exercised.\nThe decision of the Authority shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.\n7. Decisions adopted in accordance with paragraph 6 shall prevail over any previous decision adopted by the competent authorities on the same matter.\nWhen taking action in relation to issues which are subject to a formal opinion pursuant to paragraph 4 or to a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.\n8. In the report referred to in Article 43(5), the Authority shall set out which competent authorities and financial institutions have not complied with the formal opinions or decisions referred to in paragraphs 4 and 6 of this Article.",
+        "after": "Article 17\nBreach of Union law\n1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.\n2. Upon request from one or more competent authorities, the European Parliament, the Council, the Commission, the Banking Stakeholder Group, or on its own initiative, including when this is based on well- substantiated information from natural or legal persons, and after having informed the competent authority concerned, the Authority shall outline how it intends to proceed with the case and, where appropriate, investigate the alleged breach or non-application of Union law.\nWithout prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.\nWithout prejudice to the powers laid down in Article 35, the Authority may, after having informed the competent authority concerned, address a duly justified and reasoned request for information directly to other competent authorities whenever requesting information from the competent authority concerned has proven, or is deemed to be, insufficient to obtain the information that is deemed necessary for the purpose of investigating an alleged breach or non-application of Union law.\nThe addressee of such a request shall provide the Authority with clear, accurate and complete information without undue delay.\n2a. Without prejudice to powers under this Regulation and before issuing a recommendation as set out in paragraph 3, the Authority shall engage with the competent authority concerned, where it considers such engagement appropriate in order to resolve a breach of Union law, in an attempt to reach agreement on actions necessary for the competent authority to comply with Union law.\n3. The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.\nThe competent authority shall, within 10 working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.\n4. Where the competent authority has not complied with Union law within 1 month from receipt of the Authority’s recommendation, the Commission may, after having been informed by the Authority, or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the Authority’s recommendation.\nThe Commission shall issue such a formal opinion no later than 3 months after the adoption of the recommendation. The Commission may extend this period by 1 month.\nThe Authority and the competent authorities shall provide the Commission with all necessary information.\n5. The competent authority shall, within 10 working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the Authority of the steps it has taken or intends to take to comply with that formal opinion.\n6. Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph 4 of this Article within the period specified therein, and where it is necessary to remedy, in a timely manner, such non-compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the Authority may, where the relevant requirements of the legislative acts referred to in Article 1(2) of this Regulation are directly applicable to financial institutions, adopt an individual decision addressed to a financial institution requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.\nThe decision of the Authority shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.\n7. Decisions adopted in accordance with paragraph 6 shall prevail over any previous decision adopted by the competent authorities on the same matter.\nWhen taking action in relation to issues which are subject to a formal opinion pursuant to paragraph 4 or to a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.\n8. In the report referred to in Article 43(5), the Authority shall set out which competent authorities and financial institutions have not complied with the formal opinions or decisions referred to in paragraphs 4 and 6 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 17 PA 6 ALN 1",
+          "AR 17 PA 6 ALN 2",
+          "AR 17 PA 6 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 no longer refers to \"another financial sector operator\" alongside financial institutions, and the individual decision the Authority may adopt is now addressed only to a financial institution.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_17",
+              "label": "Art. 17, 02010R1093-20251231"
+            }
+          ]
+        },
+        {
+          "text": "The clause extending that power to matters concerning the prevention and countering of money laundering and terrorist financing has been removed, along with the reference to national law transposing Directives or exercised Member State options in that context.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251110",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_17",
+              "label": "Art. 17, 02010R1093-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_17",
+              "label": "Art. 17, 02010R1093-20251231"
+            }
+          ]
+        },
+        {
+          "text": "The former second subparagraph, which let the Authority adopt a decision requiring a competent authority to comply with the formal opinion in money-laundering matters where relevant requirements were not directly applicable to financial sector operators, has been deleted entirely.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251110",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_17",
+              "label": "Art. 17, 02010R1093-20251110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 19"
+        },
+        "heading": "Settlement of disagreements between competent authorities in cross-border situations",
+        "before": "Article 19\nSettlement of disagreements between competent authorities in cross-border situations\n1. In cases specified in the legislative acts referred to in Article 1(2) and without prejudice to the powers laid down in Article 17, the Authority may assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article in either of the following circumstances:\n(a) at the request of one or more of the competent authorities concerned where a competent authority disagrees with the procedure or content of an action, proposed action, or inactivity of another competent authority;\n(b) in cases where the legislative acts referred to in Article 1(2) provide that the Authority may assist, on its own initiative, where on the basis of objective reasons, disagreement can be determined between competent authorities.\nIn cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken by competent authorities and where, in accordance with those acts, the Authority may assist, on its own initiative, in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article, the competent authorities concerned, a disagreement shall be presumed in the absence of a joint decision being taken by those authorities within the time limits set out in those acts.\n1a. The competent authorities concerned shall, in the following cases, notify the Authority without undue delay that an agreement has not been reached:\n(a) where a time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:\n(i) the time limit has expired; or\n(ii) at least two competent authorities concerned conclude that a disagreement exists, on the basis of objective reasons;\n(b) where no time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:\n(i) at least two competent authorities concerned conclude that a disagreement exists on the basis of objective reasons; or\n(ii) two months have elapsed from the date of receipt by a competent authority of a request from another competent authority to take certain action in order to comply with those acts and the requested authority has not yet adopted a decision that satisfies the request.\n1b. The Chairperson shall assess whether the Authority should act in accordance with paragraph 1. Where the intervention is at the Authority’s own initiative, the Authority shall notify the competent authorities concerned of its decision regarding the intervention.\nPending the Authority’s decision in accordance with the procedure set out in Article 44(3a), in cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken, all competent authorities involved in the joint decision shall defer their individual decisions. Where the Authority decides to act, all the competent authorities involved in the joint decision shall defer their decisions until the procedure set out in paragraphs 2 and 3 of this Article is concluded.\n2. The Authority shall set a time limit for conciliation between the competent authorities taking into account any relevant time periods specified in the acts referred to in Article 1(2) and the complexity and urgency of the matter. At that stage the Authority shall act as a mediator.\n3. Where the competent authorities concerned fail to reach an agreement within the conciliation phase referred to in paragraph 2, the Authority may take a decision requiring those authorities to take specific action, or to refrain from certain action, in order to settle the matter, and to ensure compliance with Union law. The decision of the Authority shall be binding on the competent authorities concerned. The Authority’s decision may require competent authorities to revoke or amend a decision that they have adopted or to make use of the powers which they have under the relevant Union law.\n3a. The Authority shall notify the competent authorities concerned of the conclusion of the procedures under paragraphs 2 and 3 together with, where applicable, its decision taken under paragraph 3.\n4. Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the decision of the Authority, and thereby fails to ensure that a financial institution or, in the context of matters relating to the prevention and countering of money laundering or of terrorist financing, a financial sector operator complies with requirements directly applicable to it by virtue of the legislative acts referred to in Article 1(2) of this Regulation, the Authority may adopt an individual decision addressed to that financial institution or financial sector operator requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.\nIn matters concerning the prevention of the use of the financial system for the purpose of money laundering or of terrorist financing, the Authority may also adopt a decision in accordance with the first subparagraph of this paragraph where the relevant requirements of the legislative acts referred to in Article 1(2) are not directly applicable to financial sector operators. To that effect, the Authority shall apply all relevant Union law, and where such Union law is composed of Directives, national law to the extent that it transposes those Directives. Where the relevant Union law is composed of Regulations and where those Regulations explicitly grant options for Member States, the Authority shall apply also national law to the extent that such options have been exercised.\n5. Decisions adopted under paragraph 4 shall prevail over any previous decision adopted by the competent authorities on the same matter. Any action by the competent authorities in relation to facts which are subject to a decision pursuant to paragraph 3 or 4 shall be compatible with those decisions.\n6. In the report referred to in Article 50(2), the Chairperson of the Authority shall set out the nature and type of disagreements between competent authorities, the agreements reached and the decisions taken to settle such disagreements.",
+        "after": "Article 19\nSettlement of disagreements between competent authorities in cross-border situations\n1. In cases specified in the legislative acts referred to in Article 1(2) and without prejudice to the powers laid down in Article 17, the Authority may assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article in either of the following circumstances:\n(a) at the request of one or more of the competent authorities concerned where a competent authority disagrees with the procedure or content of an action, proposed action, or inactivity of another competent authority;\n(b) in cases where the legislative acts referred to in Article 1(2) provide that the Authority may assist, on its own initiative, where on the basis of objective reasons, disagreement can be determined between competent authorities.\nIn cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken by competent authorities and where, in accordance with those acts, the Authority may assist, on its own initiative, in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article, the competent authorities concerned, a disagreement shall be presumed in the absence of a joint decision being taken by those authorities within the time limits set out in those acts.\n1a. The competent authorities concerned shall, in the following cases, notify the Authority without undue delay that an agreement has not been reached:\n(a) where a time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:\n(i) the time limit has expired; or\n(ii) at least two competent authorities concerned conclude that a disagreement exists, on the basis of objective reasons;\n(b) where no time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:\n(i) at least two competent authorities concerned conclude that a disagreement exists on the basis of objective reasons; or\n(ii) two months have elapsed from the date of receipt by a competent authority of a request from another competent authority to take certain action in order to comply with those acts and the requested authority has not yet adopted a decision that satisfies the request.\n1b. The Chairperson shall assess whether the Authority should act in accordance with paragraph 1. Where the intervention is at the Authority’s own initiative, the Authority shall notify the competent authorities concerned of its decision regarding the intervention.\nPending the Authority’s decision in accordance with the procedure set out in Article 44(3a), in cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken, all competent authorities involved in the joint decision shall defer their individual decisions. Where the Authority decides to act, all the competent authorities involved in the joint decision shall defer their decisions until the procedure set out in paragraphs 2 and 3 of this Article is concluded.\n2. The Authority shall set a time limit for conciliation between the competent authorities taking into account any relevant time periods specified in the acts referred to in Article 1(2) and the complexity and urgency of the matter. At that stage the Authority shall act as a mediator.\n3. Where the competent authorities concerned fail to reach an agreement within the conciliation phase referred to in paragraph 2, the Authority may take a decision requiring those authorities to take specific action, or to refrain from certain action, in order to settle the matter, and to ensure compliance with Union law. The decision of the Authority shall be binding on the competent authorities concerned. The Authority’s decision may require competent authorities to revoke or amend a decision that they have adopted or to make use of the powers which they have under the relevant Union law.\n3a. The Authority shall notify the competent authorities concerned of the conclusion of the procedures under paragraphs 2 and 3 together with, where applicable, its decision taken under paragraph 3.\n4. Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the decision of the Authority, and thereby fails to ensure that a financial institution complies with requirements directly applicable to it by virtue of the legislative acts referred to in Article 1(2) of this Regulation, the Authority may adopt an individual decision addressed to that financial institution requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.\n5. Decisions adopted under paragraph 4 shall prevail over any previous decision adopted by the competent authorities on the same matter. Any action by the competent authorities in relation to facts which are subject to a decision pursuant to paragraph 3 or 4 shall be compatible with those decisions.\n6. In the report referred to in Article 50(2), the Chairperson of the Authority shall set out the nature and type of disagreements between competent authorities, the agreements reached and the decisions taken to settle such disagreements.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 19 PA 4 ALN 1",
+          "AR 19 PA 4 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (6)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4's first subparagraph no longer refers to a financial sector operator in the context of matters relating to the prevention and countering of money laundering or terrorist financing, referring only to a financial institution failing to meet directly applicable requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_19",
+              "label": "Art. 19, 02010R1093-20251231"
+            }
+          ]
+        },
+        {
+          "text": "The second subparagraph of paragraph 4, which had allowed the Authority to adopt a decision addressed to financial sector operators even where the relevant requirements were not directly applicable to them, and which described how the Authority would apply Union law, Directives, transposing national law, or national law implementing Member State options in that context, has been removed entirely.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251110",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_19",
+              "label": "Art. 19, 02010R1093-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 19"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_19",
+              "label": "Art. 19, 02010R1093-20251231"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 33"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 40"
+        },
+        "heading": "Composition",
+        "before": "Article 40\nComposition\n1. The Board of Supervisors shall be composed of:\n(a) the Chairperson;\n(b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;\n(c) one representative of the Commission, who shall be non-voting;\n(d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;\n(e) one representative of the ESRB, who shall be non-voting;\n(f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.\n2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.\n3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.\n4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tasks.\n5. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n6. For the purpose of acting within the scope of Directive 94/19/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer deposit-guarantee schemes in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Directive 2014/59/EU, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Directive 2014/59/EU, the Chair of the Single Resolution Board shall be an observer to the Board of Supervisors.\n7. The Board of Supervisors may decide to admit observers.\nThe Executive Director may participate in meetings of the Board of Supervisors, without the right to vote.\n8. Where the national public authority referred to in point (b) of paragraph 1 is not responsible for the enforcement of consumer protection rules, the member of the Board of Supervisors referred to in that point may decide to invite a representative from the Member State’s consumer protection authority, who shall be non-voting. In the case where the responsibility for consumer protection is shared by several authorities in a Member State, those authorities shall agree on a common representative.",
+        "after": "Article 40\nComposition\n1. The Board of Supervisors shall be composed of:\n(a) the Chairperson;\n(b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;\n(c) one representative of the Commission, who shall be non-voting;\n(d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;\n(e) one representative of the ESRB, who shall be non-voting;\n(f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.\n2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.\n3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.\n4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.\n4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tasks.\n5. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.\n6. For the purpose of acting within the scope of Directive 94/19/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where appropriate, be accompanied by a representative from the relevant bodies which administer deposit-guarantee schemes in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Directive 2014/59/EU, the member of the Board of Supervisors referred to in point (b) of paragraph 1 may, where appropriate, be accompanied by a representative from the resolution authority in each Member State, who shall be non-voting.\nFor the purpose of acting within the scope of Directive 2014/59/EU, the Chair of the Single Resolution Board shall be an observer to the Board of Supervisors.\n7. The Board of Supervisors may decide to admit observers. In particular, the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and Countering the Financing of Terrorism established by Regulation (EU) 2024/1620 of the European Parliament and of the CouncilRegulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (OJ L, 2024/1620, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1620/oj). where matters that fall under its mandate are discussed or decided upon.\nThe Executive Director may participate in meetings of the Board of Supervisors, without the right to vote.\n8. Where the national public authority referred to in point (b) of paragraph 1 is not responsible for the enforcement of consumer protection rules, the member of the Board of Supervisors referred to in that point may decide to invite a representative from the Member State’s consumer protection authority, who shall be non-voting. In the case where the responsibility for consumer protection is shared by several authorities in a Member State, those authorities shall agree on a common representative.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 40 PA 7 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-05-31"
+        ],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (8)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 7 now adds that the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, established by Regulation (EU) 2024/1620, whenever matters falling under that Authority's mandate are discussed or decided upon.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251231",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_40",
+              "label": "Art. 40, 02010R1093-20251231"
+            }
+          ]
+        },
+        {
+          "text": "The prior text only stated that the Board of Supervisors may decide to admit observers, without naming any specific authority to be admitted.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20251110",
+                "location": "AR 40"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_40",
+              "label": "Art. 40, 02010R1093-20251110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1093",
+            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+          },
+          "version": "02010R1093-20251231",
+          "location": "AR 81"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R1620",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R1620 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 103 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1093",
+      "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+    },
+    "from_version": "02010R1093-20251110",
+    "to_version": "02010R1093-20251231",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 17",
+          "AR 19",
+          "AR 40"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 4",
+          "AR 8",
+          "AR 9a",
+          "AR 9b",
+          "AR 17",
+          "AR 19",
+          "AR 33",
+          "AR 40",
+          "AR 81"
+        ],
+        "note": "12 annotations in (2025-11-10, 2025-12-31]",
+        "claims": [
+          {
+            "location": "AR 1 PA 5 PTA (h)",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 2 ALN 2",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 2 PTI (iii)",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 17 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 8 PA 1 PTA (l)",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 40 PA 7 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 9a",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 19 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 1a",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 9b",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 33 PA 1 ALN 2",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 81 PA 2b",
+            "change_type": "DELETED",
+            "in_force": "2025-12-31",
+            "source": "32024R1620 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 4",
+          "AR 8",
+          "AR 9a",
+          "AR 17",
+          "AR 19",
+          "AR 33",
+          "AR 40",
+          "AR 81"
+        ],
+        "note": "32024R1620, 0.944 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 2 ALN 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 1 PA 5 PTA (h)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 4 PTA (1a)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 4 PO 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 8 PA 1 PTA (l)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 9a",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 17 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 103 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 19 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 103 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 33 PA 1 ALN 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40 PA 7 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 103 (8)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 81 PA 2b",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 103 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R1620",
+              "display_name": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 4,
+        "right_units": 10,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 0.4,
+        "f1": 0.5714285714285715,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 9,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1": 0.6153846153846153,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 10,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 4",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 9a",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "DELETED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 9b",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 33",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 81",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 4",
+      "AR 8",
+      "AR 9a",
+      "AR 9b",
+      "AR 33",
+      "AR 81"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 10,
+    "explained": 4,
+    "unavailable": 6,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 25156,
+      "output_tokens": 1111,
+      "requests": 4,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 10,
+    "passed_first": 4,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 6,
+    "retries": 0,
+    "sentences": 9,
+    "citations": 12,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

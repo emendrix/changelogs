@@ -10,6 +10,197 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20251231 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20251110` → `02010R1093-20251231`
+
+- **Act** `eu:32010R1093` · **In force** 2025-12-31 · **Detected** 2026-08-13
+- **Touched** 10 provisions — 10 substantive · 0 date-only · **6 disputed**
+- **Diff** 0 inserted · 8 modified · 2 deleted · 0 renumbered · 0 deferred · 96 unchanged
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20251110` · `v2` = `02010R1093-20251231`
+
+---
+
+**MODIFIED · Art. 1 — Establishment and scope of action** · applies from: unchanged
+
+*within* `AR 1 PA 5 ALN 1 PTA (f)`, `AR 1 PA 5 ALN 1 PTA (g)` · *amended by* `32024R1620`
+
+In the list of contributions in Article 1(5), the punctuation was altered so that point (f) now ends with a semicolon followed by 'and', and point (g) now ends with a full stop rather than a semicolon followed by 'and'. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_1)
+
+As a result, the 'and' that previously linked point (g) to point (h) no longer appears between those two points. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_1)
+
+*before* (`02010R1093-20251110`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8. […truncated by emendrix: 7625 characters omitted…]
+
+*after* (`02010R1093-20251231`)
+
+> Article 1
+> Establishment and scope of action
+> 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8. […truncated by emendrix: 7625 characters omitted…]
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 8** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 9a** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 9b** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17 — Breach of Union law** · applies from: unchanged
+
+*within* `AR 17 PA 6 ALN 1`, `AR 17 PA 6 ALN 2`, `AR 17 PA 6 ALN 3` · *amended by* `32024R1620`
+
+Paragraph 6 no longer refers to "another financial sector operator" alongside financial institutions, and the individual decision the Authority may adopt is now addressed only to a financial institution. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_17)
+
+The clause extending that power to matters concerning the prevention and countering of money laundering and terrorist financing has been removed, along with the reference to national law transposing Directives or exercised Member State options in that context. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_17)
+
+The former second subparagraph, which let the Authority adopt a decision requiring a competent authority to comply with the formal opinion in money-laundering matters where relevant requirements were not directly applicable to financial sector operators, has been deleted entirely. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_17)
+
+*before* (`02010R1093-20251110`)
+
+> Article 17
+> Breach of Union law
+> 1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.
+> 2. Upon request from one or more competent authorities, the European Parliament, the Council, the Commission, the Banking Stakeholder Group, or on its own initiative, including when this is based on well- substantiated information from natural or legal persons, and after having informed the competent authority concerned, the Authority shall outline how it intends to proceed with the case and, where appropriate, investigate the alleged breach or non-application of Union law.
+> Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.
+> Without prejudice to the powers laid down in Article 35, the Authority may, after having informed the competent authority concerned, address a duly justified and reasoned req […truncated by emendrix: 4918 characters omitted…]
+
+*after* (`02010R1093-20251231`)
+
+> Article 17
+> Breach of Union law
+> 1. Where a competent authority has not applied the acts referred to in Article 1(2), or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.
+> 2. Upon request from one or more competent authorities, the European Parliament, the Council, the Commission, the Banking Stakeholder Group, or on its own initiative, including when this is based on well- substantiated information from natural or legal persons, and after having informed the competent authority concerned, the Authority shall outline how it intends to proceed with the case and, where appropriate, investigate the alleged breach or non-application of Union law.
+> Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation including as to how the acts referred to in Article 1(2) are applied in accordance with Union law.
+> Without prejudice to the powers laid down in Article 35, the Authority may, after having informed the competent authority concerned, address a duly justified and reasoned req […truncated by emendrix: 3726 characters omitted…]
+
+**MODIFIED · Art. 19 — Settlement of disagreements between competent authorities in cross-border situations** · applies from: unchanged
+
+*within* `AR 19 PA 4 ALN 1`, `AR 19 PA 4 ALN 2` · *amended by* `32024R1620`
+
+Paragraph 4's first subparagraph no longer refers to a financial sector operator in the context of matters relating to the prevention and countering of money laundering or terrorist financing, referring only to a financial institution failing to meet directly applicable requirements. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_19)
+
+The second subparagraph of paragraph 4, which had allowed the Authority to adopt a decision addressed to financial sector operators even where the relevant requirements were not directly applicable to them, and which described how the Authority would apply Union law, Directives, transposing national law, or national law implementing Member State options in that context, has been removed entirely. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_19)
+
+*before* (`02010R1093-20251110`)
+
+> Article 19
+> Settlement of disagreements between competent authorities in cross-border situations
+> 1. In cases specified in the legislative acts referred to in Article 1(2) and without prejudice to the powers laid down in Article 17, the Authority may assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article in either of the following circumstances:
+> (a) at the request of one or more of the competent authorities concerned where a competent authority disagrees with the procedure or content of an action, proposed action, or inactivity of another competent authority;
+> (b) in cases where the legislative acts referred to in Article 1(2) provide that the Authority may assist, on its own initiative, where on the basis of objective reasons, disagreement can be determined between competent authorities.
+> In cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken by competent authorities and where, in accordance with those acts, the Authority may assist, on its own initiative, in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article, the competent authorities concerned, a disagreement shall be presumed in the absence of a joint decision being taken by those authorities within the time limits set out in those acts.
+> 1a. The competent authorities concerned shall, in the following cases, notify the Authority without undue delay that […truncated by emendrix: 4885 characters omitted…]
+
+*after* (`02010R1093-20251231`)
+
+> Article 19
+> Settlement of disagreements between competent authorities in cross-border situations
+> 1. In cases specified in the legislative acts referred to in Article 1(2) and without prejudice to the powers laid down in Article 17, the Authority may assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article in either of the following circumstances:
+> (a) at the request of one or more of the competent authorities concerned where a competent authority disagrees with the procedure or content of an action, proposed action, or inactivity of another competent authority;
+> (b) in cases where the legislative acts referred to in Article 1(2) provide that the Authority may assist, on its own initiative, where on the basis of objective reasons, disagreement can be determined between competent authorities.
+> In cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken by competent authorities and where, in accordance with those acts, the Authority may assist, on its own initiative, in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article, the competent authorities concerned, a disagreement shall be presumed in the absence of a joint decision being taken by those authorities within the time limits set out in those acts.
+> 1a. The competent authorities concerned shall, in the following cases, notify the Authority without undue delay that […truncated by emendrix: 3924 characters omitted…]
+
+**MODIFIED · Art. 33** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40 — Composition** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 40 PA 7 ALN 1` · *dates* +2024-05-31 · *amended by* `32024R1620`
+
+Paragraph 7 now adds that the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, established by Regulation (EU) 2024/1620, whenever matters falling under that Authority's mandate are discussed or decided upon. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251231#art_40)
+
+The prior text only stated that the Board of Supervisors may decide to admit observers, without naming any specific authority to be admitted. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_40)
+
+*before* (`02010R1093-20251110`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+> (e) one representative of the ESRB, who shall be non-voting;
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+> 4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tas […truncated by emendrix: 1896 characters omitted…]
+
+*after* (`02010R1093-20251231`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+> (e) one representative of the ESRB, who shall be non-voting;
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+> 4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with expertise on central banking tas […truncated by emendrix: 2554 characters omitted…]
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20251231 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20251110 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20241230` → `02010R1093-20251110`
