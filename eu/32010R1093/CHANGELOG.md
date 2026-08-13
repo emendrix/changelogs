@@ -10,6 +10,52 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20190330 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20160112` → `02010R1093-20190330`
+
+- **Act** `eu:32010R1093` · **In force** 2019-03-30 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 85 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20160112` · `v2` = `02010R1093-20190330`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32018R1717`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 7 — Seat** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 7 ALN 1` · *dates* +2019-03-30 · *amended by* `32018R1717`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The seat of the Authority is changed from London to Paris, France. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_7)
+
+The revised text adds statements that the seat's location does not affect the Authority's execution of its tasks and powers, its governance structure, the operation of its main organisation, or the main financing of its activities, while allowing for sharing of certain administrative support and facility management services with Union agencies, and it adds a requirement for the Commission to report to the European Parliament and the Council on compliance of the European Supervisory Authorities with that point. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_7)
+
+*before* (`02010R1093-20160112`)
+
+> Article 7
+> Seat
+> The Authority shall have its seat in London.
+
+*after* (`02010R1093-20190330`)
+
+> Article 7
+> Seat
+> The Authority shall have its seat in Paris, France.
+> The location of the seat of the Authority shall not affect the Authority’s execution of its tasks and powers, the organisation of its governance structure, the operation of its main organisation, or the main financing of its activities, while allowing, where applicable, for the sharing with Union agencies of administrative support services and facility management services which are not related to the core activities of the Authority. By 30 March 2019 and every 12 months thereafter, the Commission shall report to the European Parliament and the Council on the compliance of the European Supervisory Authorities with that requirement.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20190330 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20160112 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20140819` → `02010R1093-20160112`
