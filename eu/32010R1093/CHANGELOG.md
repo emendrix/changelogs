@@ -10,6 +10,129 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140819 -->
+## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1093-20140702` → `02010R1093-20140819`
+
+- **Act** `eu:32010R1093` · **In force** 2014-08-19 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02010R1093-20140702` · `v2` = `02010R1093-20140819`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 2`, `AR 4 ALN 1 PO 2 PTI (i)`, `AR 4 ALN 1 PO 2 PTI (iii)`, `AR 4 ALN 1 PO 2 PTI (iv)` · *dates* +2014-07-15 · *amended by* `32014R0806`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The term defined in point (2) changes from the singular "competent authority" to the plural "competent authorities", with point (i) now also naming the European Central Bank with regard to matters relating to tasks conferred on it by Regulation (EU) No 1024/2013. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+
+Point (iii) changes from identifying a single designated authority under Directive 2014/49/EU to identifying bodies which administer deposit guarantee schemes under that Directive, or, where a private company administers the scheme, the public authority supervising it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+
+Point (iv) is expanded to add a reference to Regulation (EU) No 806/2014 and now names the resolution authorities defined in Article 3 of Directive 2014/59/EU, the Single Resolution Board, and the Council and the Commission when taking actions under Article 18 of Regulation (EU) No 806/2014, except where they exercise discretionary powers or make policy choices. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+
+*before* (`02010R1093-20140702`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;
+> (2) competent authority means:
+> (i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
+> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directi […truncated by emendrix: 334 characters omitted…]
+
+*after* (`02010R1093-20140819`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;
+> (2) competent authorities means:
+> (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
+> (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1364 characters omitted…]
+
+**MODIFIED · Art. 4.2** · applies from: unknown
+
+*amended by* `32014R0806`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25 — Recovery and resolution procedures** · applies from: unchanged
+
+*within* `AR 25 PA 1a` · *amended by* `32014R0806`
+
+A new paragraph 1a has been added, allowing the Authority to organise and conduct peer reviews of the exchange of information and joint activities between the Board referred to in Regulation (EU) No 806/2014 and national resolution authorities of non-participating Member States in resolving cross-border groups. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_25)
+
+The same new paragraph states that the Authority shall develop methods to allow for objective assessment and comparison of those peer reviews. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_25)
+
+Paragraphs 1, 2 and 3, present in the earlier version, remain unchanged in substance. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_25)
+
+*before* (`02010R1093-20140702`)
+
+> Article 25
+> Recovery and resolution procedures
+> 1. The Authority shall contribute to, and participate actively in, the development and coordination of effective, consistent and up-to-date recovery and resolution plans for financial institutions. The Authority shall also, where provided for in the Union acts referred to in Article 1(2), assist in developing procedures in emergency situations and preventive measures to minimise the systemic impact of any failure.
+> 2. The Authority may identify best practices aimed at facilitating the resolution of failing institutions and, in particular, cross-border groups, in ways which avoid contagion, ensuring that appropriate tools, including sufficient resources, are available and allow the institution or the group to be resolved in an orderly, cost-efficient and timely manner.
+> 3. The Authority may develop regulatory and implementing technical standards as specified in the legislative acts referred to in Article 1(2) in accordance with the procedure laid down in Articles 10 to 15.
+
+*after* (`02010R1093-20140819`)
+
+> Article 25
+> Recovery and resolution procedures
+> 1. The Authority shall contribute to, and participate actively in, the development and coordination of effective, consistent and up-to-date recovery and resolution plans for financial institutions. The Authority shall also, where provided for in the Union acts referred to in Article 1(2), assist in developing procedures in emergency situations and preventive measures to minimise the systemic impact of any failure.
+> 1a. The Authority may organise and conduct peer reviews of the exchange of information and of the joint activities of the Board referred to in Regulation (EU) No 806/2014 and national resolution authorities of Member States non-participating in the Single Resolution Mechanism in the resolution of cross-border groups to strengthen effectiveness and consistency in outcomes. To that end, the Authority shall develop methods to allow for objective assessment and comparison.
+> 2. The Authority may identify best practices aimed at facilitating the resolution of failing institutions and, in particular, cross-border groups, in ways which avoid contagion, ensuring that appropriate tools, including sufficient resources, are available and allow the institution or the group to be resolved in an orderly, cost-efficient and timely manner.
+> 3. The Authority may develop regulatory and implementing technical standards as specified in the legislative acts referred to in Article 1(2) in accordance with the procedure laid down in Articles 10 to […truncated by emendrix: 4 characters omitted…]
+
+**MODIFIED · Art. 40 — Composition** · applies from: unchanged
+
+*within* `AR 40 PA 6 ALN 3` · *amended by* `32014R0806`
+
+A new sentence is added to paragraph 6 stating that, for the purpose of acting within the scope of Directive 2014/59/EU, the Chair of the Single Resolution Board shall be an observer to the Board of Supervisors. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_40)
+
+*before* (`02010R1093-20140702`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson, who shall be non-voting;
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+> (e) one representative of the ESRB, who shall be non-voting;
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+> 4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with experti […truncated by emendrix: 1260 characters omitted…]
+
+*after* (`02010R1093-20140819`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson, who shall be non-voting;
+> (b) the head of the national public authority competent for the supervision of credit institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative nominated by the Supervisory Board of the European Central Bank, who shall be non-voting;
+> (e) one representative of the ESRB, who shall be non-voting;
+> (f) one representative of each of the other two European Supervisory Authorities, who shall be non-voting.
+> 2. The Board of Supervisors shall convene meetings with the Banking Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. Where the authority referred to in paragraph 1(b) is not a central bank, the member of the Board of Supervisors referred to in that point may decide to bring a representative from the Member State’s central bank, who shall be non-voting.
+> 4a. In discussions not relating to individual financial institutions, as provided in Article 44(4), the representative nominated by the Supervisory Board of the European Central Bank may be accompanied by a representative of the European Central Bank with experti […truncated by emendrix: 1419 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20140819 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140702 -->
 ## Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1093-20140320` → `02010R1093-20140702`
