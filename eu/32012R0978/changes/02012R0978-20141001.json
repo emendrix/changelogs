@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0978",
+    "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+  },
+  "from_version": "02012R0978-20140228",
+  "to_version": "02012R0978-20141001",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-09-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 43,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "02012R0978-20141001",
+          "location": "AN II"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R1016",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-09-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R1016 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32014R1016, 32014R1015",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0978",
+            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+          },
+          "version": "02012R0978-20141001",
+          "location": "AN III"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R1015",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-09-28",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R1015 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32014R1016, 32014R1015",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0978",
+      "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
+    },
+    "from_version": "02012R0978-20140228",
+    "to_version": "02012R0978-20141001",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN II",
+          "AN III"
+        ],
+        "note": "2 annotations in (2014-02-28, 2014-10-01]",
+        "claims": [
+          {
+            "location": "AN II",
+            "change_type": "MODIFIED",
+            "in_force": "2014-09-28",
+            "source": "32014R1016 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R1016",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III",
+            "change_type": "MODIFIED",
+            "in_force": "2014-09-28",
+            "source": "32014R1015 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R1015",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32014R1016, 32014R1015",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 0,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 1.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN II",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN III",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AN II",
+      "AN III"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 0,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
