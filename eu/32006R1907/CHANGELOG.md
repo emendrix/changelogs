@@ -10,6 +10,308 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20200101 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20191030` → `02006R1907-20200101`
+
+- **Act** `eu:32006R1907` · **In force** 2020-01-01 · **Detected** 2026-08-13
+- **Touched** 9 provisions — 9 substantive · 0 date-only · **9 disputed**
+- **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 149 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20191030` · `v2` = `02006R1907-20200101`
+
+---
+
+**MODIFIED · Annex I — GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS** · applies from: unchanged
+
+*within* `AN I SCT 0`, `AN I SCT 0 SCT 0.6`, `AN I SCT 1 SCT 1.0`, `AN I SCT 1 SCT 1.3`, `AN I SCT 2`, `AN I SCT 3 SCT 3.0`, `AN I SCT 3 SCT 3.2`, `AN I SCT 4 SCT 4.0`, `AN I SCT 4 SCT 4.2`, `AN I SCT 5 SCT 5.0`, `AN I SCT 5 SCT 5.2` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The after text adds requirements throughout Annex I sections 0, 1, 3, 4 and 5 to address nanoforms of a substance, including justification for how information on one nanoform is used to demonstrate safety of others, coverage of nanoforms in exposure scenarios, risk management measures, PBT/vPvB and classification assessments, and new points on metrics, dissolution rate, particle aggregation, agglomeration and surface chemistry changes. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_I)
+
+The before text contains no such nanoform-specific provisions in these sections and instead addresses only substances and their properties generally. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_I)
+
+The after text also changes the exposure assessment objective in section 5.0 from a quantitative or qualitative estimate to a quantitative and qualitative estimate, and the after text as provided is truncated before the end of section 7's format list, so any further differences beyond that point cannot be described. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_I)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX I
+> GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS
+> 0. INTRODUCTION
+> 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
+> 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36352 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX I
+> GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS
+> 0. INTRODUCTION
+> 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. The chemical safety report shall also describe whether and which different nanoforms of substances as characterised in Annex VI are manufactured and imported, including an adequate justification for each information requirement describing when and how information on one form is used to demonstrate safety of other forms. The requirements speof the following hazard classes or categories setcific to nanoforms of a substance in this Annex apply to all nanoforms covered by the registration and without prejudice to requirements applicable to other forms of that substance. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
+> 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessm […truncated by emendrix: 39554 characters omitted…]
+
+**MODIFIED · Annex III — CRITERIA FOR SUBSTANCES REGISTERED IN QUANTITIES BETWEEN 1 AND 10 TONNES** · applies from: unchanged
+
+*within* `AN III`, `AN III PTA (b) PTI (ii)` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory sentence now adds a reference to nanoforms of substances, where applicable, alongside the substances themselves, for the purposes of the 1-10 tonne registration criteria. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_III)
+
+Point (b)(ii) has been expanded so that, in addition to the existing criterion about predicted classification under Regulation (EC) No 1272/2008, it now also covers substances with nanoforms, unless those nanoforms are soluble in biological and environmental media. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_III)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX III
+> CRITERIA FOR SUBSTANCES REGISTERED IN QUANTITIES BETWEEN 1 AND 10 TONNES
+> Criteria for substances registered between 1 and 10 tonnes, with reference to Article 12(1)(a) and (b):
+> (a) substances for which it is predicted (i.e. by the application of (Q)SARs or other evidence) that they are likely to meet the criteria for category 1A or 1B classification in the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity or the criteria in Annex XIII;
+> (b) substances:
+> (i) with dispersive or diffuse use(s) particularly where such substances are used in consumer mixtures or incorporated into consumer articles; and
+> (ii) for which it is predicted (i.e. by application of (Q)SARs or other evidence) that they are likely to meet the classification criteria for any health or environmental hazard classes or differentiations under Regulation (EC) No 1272/2008.
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX III
+> CRITERIA FOR SUBSTANCES REGISTERED IN QUANTITIES BETWEEN 1 AND 10 TONNES
+> Criteria for substances and, when applicable, for nanoforms thereof, registered between 1 and 10 tonnes, with reference to Article 12(1)(a) and (b):
+> (a) substances for which it is predicted (i.e. by the application of (Q)SARs or other evidence) that they are likely to meet the criteria for category 1A or 1B classification in the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity or the criteria in Annex XIII;
+> (b) substances:
+> (i) with dispersive or diffuse use(s) particularly where such substances are used in consumer mixtures or incorporated into consumer articles; and
+> (ii) for which it is predicted (i.e. by application of (Q)SARs or other evidence) that they are likely to meet the classification criteria for any health or environmental hazard classes or differentiations under Regulation (EC) No 1272/2008 or for substances with nanoforms, unless those nanoforms are soluble in biological and environmental media.
+
+**MODIFIED · Annex VI — INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN VI`, `AN VI SCT 2`, `AN VI SCT 3`, `AN VI SCT 5`, `AN VI SCT 6` · *dates* +2011-10-18 · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory guidance note is expanded with new passages defining nanoforms and sets of similar nanoforms, describing how they are characterised, and referencing the Commission Recommendation of 18 October 2011 on the definition of nanomaterial, none of which appeared in the earlier text. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VI)
+
+Section 2 on identification of the substance adds a new subsection 2.4 covering characterisation of nanoforms, including identifiers, particle size distribution, surface treatment, morphology and surface area, and section 2.3 now refers to that characterisation for substances with nanoforms. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VI)
+
+Sections 3, 5 and 6 each add a statement that, where a registered substance is manufactured or imported in one or more nanoforms, the information under those sections must address the different nanoforms or sets of similar nanoforms as characterised under subsection 2.4, and Steps 1, 3 and 4 of the guidance note similarly add references to gathering, comparing and filling gaps in information covering nanoforms; the equivalent earlier text contained none of these nanoform references. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VI)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX VI
+> INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10
+> GUIDANCE NOTE ON FULFILLING THE REQUIREMENTS OF ANNEXES VI TO XI
+> Annexes VI to XI specify the information that shall be submitted for registration and evaluation purposes according to Articles 10, 12, 13, 40, 41 and 46. For the lowest tonnage level, the standard requirements are in Annex VII, and every time a new tonnage level is reached, the requirements of the corresponding Annex have to be added. For each registration the precise information requirements will differ, according to tonnage, use and exposure. The Annexes shall thus be considered as a whole, and in conjunction with the overall requirements of registration, evaluation and the duty of care.
+> STEP 1 — GATHER AND SHARE EXISTING INFORMATION
+> The registrant should gather all existing available test data on the substance to be registered, this would include a literature search for relevant information on the substance. Wherever practicable, registrations should be submitted jointly, in accordance with Articles 11 or 19. This will enable test data to be shared, thereby avoiding unnecessary testing and reducing costs. The registrant should also collect all other available and relevant information on the substance regardless whether testing for a given endpoint is required or not at the specific tonnage level. This should include information from alternative sources (e.g. from (Q)SARs, read-across from other substances, in vivo and in vitro testing, epidemiologic […truncated by emendrix: 9029 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX VI
+> INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10
+> NOTE ON FULFILLING THE REQUIREMENTS OF ANNEXES VI TO XI
+> Annexes VI to XI specify the information that shall be submitted for registration and evaluation purposes according to Articles 10, 12, 13, 40, 41 and 46. For the lowest tonnage level, the standard requirements are in Annex VII, and every time a new tonnage level is reached, the requirements of the corresponding Annex have to be added. For each registration the precise information requirements will differ, according to tonnage, use, and exposure. The Annexes shall thus be considered as a whole, and in conjunction with the overall requirements of registration, evaluation and the duty of care.
+> A substance is defined in accordance with Article 3(1) and identified in accordance with section 2 in this Annex. A substance is always manufactured or imported in at least one form. A substance can also occur in more than one form.
+> For all nanoforms covered by the registration certain specific information items shall be provided. Nanoforms shall be characterised as provided for in this Annex. The registrant shall justify why the information provided in the joint registration, covering the information requirements for the registered substances with nanoforms, is adequate for assessing the nanoforms. Information relevant to cover information requirements for such a substance can also be submitted separately by individual registrants, where justified in accordance with Article […truncated by emendrix: 15159 characters omitted…]
+
+**MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VII`, `AN VII SCT 7`, `AN VII SCT 8`, `AN VII SCT 9` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory text adds a paragraph requiring that any physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and its test conditions, along with a justification for QSAR use or non-testing evidence and a description of the range of nanoform characteristics/properties to which that evidence applies, replacing a differently worded sentence about providing other relevant available information. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VII) [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_VII)
+
+Section 7 gains new nanoform-specific text under water solubility, partition coefficient n-octanol/water and granulometry, and a new entry 7.14bis on dustiness for nanoforms with its own column 2 adaptation rule. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VII)
+
+Section 8 adds a column 2 adaptation for the in vitro gene mutation study in bacteria concerning nanoforms and adds nanoform-specific wording to the acute toxicity by oral route entry, while section 9 adds nanoform-specific qualifications to the aquatic invertebrate and algae growth inhibition study adaptation rules. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VII)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 13111 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 15135 characters omitted…]
+
+**MODIFIED · Annex VIII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VIII`, `AN VIII SCT 7`, `AN VIII SCT 8`, `AN VIII SCT 9` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The after text adds a new general requirement that physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and its test conditions, along with justification for QSARs or non-testing evidence and a description of the range of nanoform characteristics to which such evidence applies. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VIII)
+
+A new section 7.14ter on further physicochemical properties testing for nanoforms is inserted, and section 8 on toxicological information and section 9 on ecotoxicological information gain numerous nanoform-specific clauses covering acute toxicity route selection, repeated dose toxicokinetics, genotoxicity considerations, toxicokinetics studies for nanoforms with low dissolution rate, and restrictions on waiving aquatic, sludge, hydrolysis, and adsorption studies based on insolubility alone for nanoforms. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VIII)
+
+These nanoform-related additions and adjustments do not appear in the corresponding sections of the earlier text. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_VIII)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate he […truncated by emendrix: 12548 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any relevant physicochemical, toxicological and ecotoxicological information shall include characterisation of the nanoform tested and test conditions. A justification shall be provided where QSARs are used or evidence is obtained by means other than […truncated by emendrix: 15009 characters omitted…]
+
+**MODIFIED · Annex IX — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN IX`, `AN IX SCT 8`, `AN IX SCT 9` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory text now adds a paragraph requiring that any relevant physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and its test conditions, along with justification where QSARs or other non-testing evidence is used, replacing the prior paragraph that only addressed adaptation proposals under Annex XI. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_IX) [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_IX)
+
+Section 8 gains new nanoform-specific text on toxicokinetics, recovery period and lung clearance considerations for dermal/inhalation route selection, and adds indirect genotoxicity as an example of effects warranting specific toxicological studies. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_IX)
+
+Section 9 adds several nanoform-specific qualifications: a limit on waiving the surface-water simulation study based on insolubility alone, requirements to justify reliance on physicochemical properties when waiving bioaccumulation or adsorption/desorption studies, and a requirement to scientifically justify use of the equilibrium partitioning method for nanoforms. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_IX)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX IX
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(d).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 100 tonnes or more in accordance with Article 12(1)(d). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII and VIII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may propose to adapt the […truncated by emendrix: 15179 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX IX
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(d).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 100 tonnes or more in accordance with Article 12(1)(d). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII and VIII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any releva […truncated by emendrix: 16581 characters omitted…]
+
+**MODIFIED · Annex X — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN X`, `AN X SCT 8` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new paragraph was added in the general introductory text requiring that any relevant physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and test conditions, along with a justification where QSARs are used or evidence is obtained by means other than testing, and a description of the range of nanoform characteristics/properties to which the evidence applies. [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_X)
+
+In section 8.6.3, a new sentence was added stating that physicochemical characteristics of nanoforms, including particle size, shape, other morphological parameters, surface functionalisation and surface area, as well as molecular structure, shall be taken into consideration when determining whether the listed conditions for a long-term repeated toxicity study are met. [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_X)
+
+These two additions concerning nanoforms are absent from the earlier version of the text. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_X)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX X
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(e).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 1000 tonnes or more in accordance with Article 12(1)(e). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII, VIII and IX. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may propose to adap […truncated by emendrix: 11329 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX X
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> At the level of this Annex, the registrant must submit a proposal and a time schedule for fulfilling the information requirements of this Annex in accordance with Article 12(1)(e).
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 1000 tonnes or more in accordance with Article 12(1)(e). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annexes VII, VIII and IX. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the registrant may propose to omit the required standard information, replace it by other information, provide it at a later stage or adapt it in another way. If the conditions are met under which column 2 of this Annex allows an adaptation to be proposed, the registrant shall clearly state this fact and the reasons for proposing each adaptation under the appropriate headings in the registration dossier.
+> Without prejudice to the information submitted for other forms, any r […truncated by emendrix: 12096 characters omitted…]
+
+**MODIFIED · Annex XI — GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X** · applies from: unchanged
+
+*within* `AN XI`, `AN XI SCT 1 SCT 1.1 SCT 1.1.3`, `AN XI SCT 1 SCT 1.2`, `AN XI SCT 1 SCT 1.3`, `AN XI SCT 1 SCT 1.4`, `AN XI SCT 1 SCT 1.5` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory part of Annex XI now includes a statement that the requirements specific to nanoforms are without prejudice to requirements applicable to other forms of a substance. [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XI)
+
+Sections 1.1.3, 1.2, 1.3, 1.4 and 1.5 each add a sentence stating that when nanoforms are covered by the registration, the approach described in that section shall address the nanoforms separately. [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XI)
+
+Section 1.5 further adds that molecular structural similarities alone cannot justify grouping different nanoforms of the same substance, and that where nanoforms are grouped or placed in a category with other forms of the substance in the same registration, the obligations set out above apply in the same manner, none of which appear in the earlier text. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XI)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX XI
+> GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X
+> Annexes VII to X set out the information requirements for all substances manufactured or imported in quantities of:
+> one tonne or more in accordance with Article 12(1)(a),
+> 10 tonnes or more in accordance with Article 12(1)(c),
+> 100 tonnes or more in accordance with Article 12(1)(d), and
+> 1000 tonnes or more in accordance with Article 12(1)(e).
+> In addition to the specific rules set out in column 2 of Annexes VII to X, a registrant may adapt the standard testing regime in accordance with the general rules set out in Section 1 of this Annex. Under dossier evaluation the Agency may assess these adaptations to the standard testing regime.
+> 1. TESTING DOES NOT APPEAR SCIENTIFICALLY NECESSARY
+> 1.1. Use of existing data
+> 1.1.1. Data on physical-chemical properties from experiments not carried out according to GLP or the test methods referred to in Article 13(3)
+> Data shall be considered to be equivalent to data generated by the corresponding test methods referred to in Article 13(3) if the following conditions are met:
+> (1) adequacy for the purpose of classification and labelling and/or risk assessment;
+> (2) sufficient documentation is provided to assess the adequacy of the study; and
+> (3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
+> 1.1.2. Data on human health and environmental properties from experiments not carr […truncated by emendrix: 10429 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX XI
+> GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X
+> Annexes VII to X set out the information requirements for all substances manufactured or imported in quantities of:
+> one tonne or more in accordance with Article 12(1)(a),
+> 10 tonnes or more in accordance with Article 12(1)(c),
+> 100 tonnes or more in accordance with Article 12(1)(d), and
+> 1000 tonnes or more in accordance with Article 12(1)(e).
+> In addition to the specific rules set out in column 2 of Annexes VII to X, a registrant may adapt the standard testing regime in accordance with the general rules set out in Section 1 of this Annex. Under dossier evaluation the Agency may assess these adaptations to the standard testing regime.
+> The requirements specific to nanoforms in this Annex are without prejudice to requirements applicable to other forms of a substance.
+> 1. TESTING DOES NOT APPEAR SCIENTIFICALLY NECESSARY
+> 1.1. Use of existing data
+> 1.1.1. Data on physical-chemical properties from experiments not carried out according to GLP or the test methods referred to in Article 13(3)
+> Data shall be considered to be equivalent to data generated by the corresponding test methods referred to in Article 13(3) if the following conditions are met:
+> (1) adequacy for the purpose of classification and labelling and/or risk assessment;
+> (2) sufficient documentation is provided to assess the adequacy of the study; and
+> (3) the data are valid for the endpoint being investigated and the study is perform […truncated by emendrix: 11461 characters omitted…]
+
+**MODIFIED · Annex XII — GENERAL PROVISIONS FOR DOWNSTREAM USERS TO ASSESS SUBSTANCES AND PREPARE CHEMICAL SAFETY REPORTS** · applies from: unchanged
+
+*within* `AN XII` · *amended by* `32018R1881`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The after text adds statements requiring the assessment to address all nanoforms covered by the registration, with justifications and conclusions relevant to those nanoforms from receipt through the downstream user's own and identified uses. [Annex XII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XII)
+
+It also inserts a requirement that where nanoforms are covered by the downstream user's own or identified uses, an appropriate metric for presenting assessment results in steps 1 to 6 be considered and justified in the chemical safety report and summarised in the safety data sheet, with a preference for multiple metric presentation including mass metric information. [Annex XII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XII)
+
+Further additions state that the hazard, PBT and vPvB assessment under Step 2 shall cover nanoforms as used, and that record-keeping on risk management measures while awaiting test results shall address and be relevant to all nanoforms covered by the downstream user's own or identified uses; these nanoform-related passages are not present in the before text. [Annex XII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_XII) [Annex XII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XII)
+
+*before* (`02006R1907-20191030`)
+
+> ANNEX XII
+> GENERAL PROVISIONS FOR DOWNSTREAM USERS TO ASSESS SUBSTANCES AND PREPARE CHEMICAL SAFETY REPORTS
+> INTRODUCTION
+> The purpose of this Annex is to set out how downstream users are to assess and document that the risks arising from the substance(s) they use are adequately controlled during their use for a use not covered by the Safety Data Sheet supplied to them and that other users further down the supply chain can adequately control the risks. The assessment shall cover the life-cycle of the substance, from its receipt by the downstream user, for his own uses and for his identified uses further down the supply chain. The assessment shall consider the use of the substance on its own, in a mixture or in an article.
+> In carrying out the chemical safety assessment and producing the Chemical Safety Report, the downstream user shall take account of information received from the supplier of the chemical in accordance with Article 31 and 32 of this Regulation. Where available and appropriate, an assessment carried out under Community legislation, (e.g. risk assessments completed under Regulation (EEC) No 793/93) shall be taken into account in the chemical safety assessment and be reflected in the Chemical Safety Report. Deviations from such assessments shall be justified. Assessments carried out under other international and national programmes may also be taken into account.
+> The process which the downstream user goes through in carrying out the chemical safety assessment and in […truncated by emendrix: 3705 characters omitted…]
+
+*after* (`02006R1907-20200101`)
+
+> ANNEX XII
+> GENERAL PROVISIONS FOR DOWNSTREAM USERS TO ASSESS SUBSTANCES AND PREPARE CHEMICAL SAFETY REPORTS
+> INTRODUCTION
+> The purpose of this Annex is to set out how downstream users are to assess and document that the risks arising from the substance(s) they use are adequately controlled during their use for a use not covered by the Safety Data Sheet supplied to them and that other users further down the supply chain can adequately control the risks. The assessment shall cover the life-cycle of the substance, from its receipt by the downstream user, for his own uses and for his identified uses further down the supply chain. The assessment shall consider the use of the substance on its own, in a mixture or in an article.
+> The assessment shall address all nanoforms that are covered by the registration. Justifications and conclusions drawn from the assessment shall be relevant to the nanoforms, from their receipt by the downstream user, for his own uses and for his identified uses further down the supply chain.
+> In carrying out the chemical safety assessment and producing the Chemical Safety Report, the downstream user shall take account of information received from the supplier of the chemical in accordance with Article 31 and 32 of this Regulation.
+> When nanoforms of the substance are covered by his own use or his identified uses down the supply chain, an appropriate metric for the assessment and presentation of the results in steps 1- 6 of the chemical safety assessment under 0.6 […truncated by emendrix: 4846 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20200101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20191030 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20190702` → `02006R1907-20191030`
