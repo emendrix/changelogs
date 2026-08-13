@@ -10,6 +10,81 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20170302 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20170102` → `02006R1907-20170302`
+
+- **Act** `eu:32006R1907` · **In force** 2017-03-02 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20170102` · `v2` = `02006R1907-20170302`
+
+---
+
+**MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN VII SCT 8` · *dates* -2016-10-11 +2017-05-10
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In section 8.3.2, the reference date for in vivo skin sensitisation studies considered appropriate to address the standard information requirement changed from 11 October 2016 to 10 May 2017. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170102#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_VII)
+
+In section 8.3.1, a colon was added after the phrase introducing the conditions under which the in vitro/in chemico tests do not need to be conducted. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_VII)
+
+*before* (`02006R1907-20170102`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 13114 characters omitted…]
+
+*after* (`02006R1907-20170302`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 13111 characters omitted…]
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XVII` · *dates* +2006-05-17 +2008-02-20 +2013-02-05 +2019-03-02 +2027-03-02 · *amended by* `32017R0227`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory list of referenced Official Journal citations at the start of Annex XVII has been extended, with three additional legal instruments added after the reference to Directive 2010/75/EU: Regulation (EU) No 167/2013, Directive 2006/42/EC, and Regulation (EC) No 216/2008. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII)
+
+The body text of the Annex, including the numbered entries and their conditions of restriction, appears unchanged between the two versions as far as the visible text extends. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170102#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII)
+
+Both texts are truncated before reaching their end, so any further differences beyond the shown portion cannot be described. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII)
+
+*before* (`02006R1907-20170102`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column […truncated by emendrix: 555644 characters omitted…]
+
+*after* (`02006R1907-20170302`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 […truncated by emendrix: 558284 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20170302 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20170102 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20161011` → `02006R1907-20170102`
