@@ -10,6 +10,174 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20161011 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20160714` → `02006R1907-20161011`
+
+- **Act** `eu:32006R1907` · **In force** 2016-10-11 · **Detected** 2026-08-13
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 153 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20160714` · `v2` = `02006R1907-20161011`
+
+---
+
+**MODIFIED · Art. 6 — General obligation to register substances on their own or in mixtures** · applies from: unchanged
+
+*within* `AR 6 PA 1 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only change in Article 6(1) is a spacing adjustment, with the phrase "mixture(s)" rewritten as "mixture (s)". [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#art_6)
+
+*before* (`02006R1907-20160714`)
+
+> Article 6
+> General obligation to register substances on their own or in mixtures
+> 1. Save where this Regulation provides otherwise, any manufacturer or importer of a substance, either on its own or in one or more mixture(s), in quantities of one tonne or more per year shall submit a registration to the Agency.
+> 2. For monomers that are used as on-site isolated intermediates or transported isolated intermediates, Articles 17 and 18 shall not apply.
+> 3. Any manufacturer or importer of a polymer shall submit a registration to the Agency for the monomer substance(s) or any other substance(s), that have not already been registered by an actor up the supply chain, if both the following conditions are met:
+> (a) the polymer consists of 2 % weight by weight (w/w) or more of such monomer substance(s) or other substance(s) in the form of monomeric units and chemically bound substance(s);
+> (b) the total quantity of such monomer substance(s) or other substance(s) makes up one tonne or more per year.
+> 4. A submission for registration shall be accompanied by the fee required in accordance with Title IX.
+
+*after* (`02006R1907-20161011`)
+
+> Article 6
+> General obligation to register substances on their own or in mixtures
+> 1. Save where this Regulation provides otherwise, any manufacturer or importer of a substance, either on its own or in one or more mixture (s), in quantities of one tonne or more per year shall submit a registration to the Agency.
+> 2. For monomers that are used as on-site isolated intermediates or transported isolated intermediates, Articles 17 and 18 shall not apply.
+> 3. Any manufacturer or importer of a polymer shall submit a registration to the Agency for the monomer substance(s) or any other substance(s), that have not already been registered by an actor up the supply chain, if both the following conditions are met:
+> (a) the polymer consists of 2 % weight by weight (w/w) or more of such monomer substance(s) or other substance(s) in the form of monomeric units and chemically bound substance(s);
+> (b) the total quantity of such monomer substance(s) or other substance(s) makes up one tonne or more per year.
+> 4. A submission for registration shall be accompanied by the fee required in accordance with Title IX.
+
+**MODIFIED · Art. 14 — Chemical safety report and duty to apply and recommend risk reduction measures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 14 PA 2 ALN 1`, `AR 14 PA 2 ALN 1 PTA (a)`, `AR 14 PA 2 ALN 1 PTA (b)`, `AR 14 PA 2 ALN 1 PTA (ba)`, `AR 14 PA 2 ALN 1 PTA (c)`, `AR 14 PA 2 ALN 1 PTA (d)`, `AR 14 PA 2 ALN 1 PTA (e)`, `AR 14 PA 2 ALN 1 PTA (ea)`, `AR 14 PA 2 ALN 1 PTA (f)` · *dates* -2008-12-16
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+Paragraph 2 previously listed seven separate concentration-limit and cut-off references, drawn from Directive 1999/45/EC, Regulation (EC) No 1272/2008, and the classification and labelling inventory, plus a 0,1% weight-by-weight threshold under Annex XIII, as the lowest of which the substance's concentration in a mixture had to be below for the assessment exemption to apply. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_14)
+
+In the later text this list is replaced by only two items: a single cut-off value referencing Article 11, paragraph 3 of Regulation (EC) No 1272/2008, and the same 0,1% weight-by-weight threshold under Annex XIII. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#art_14)
+
+*before* (`02006R1907-20160714`)
+
+> Article 14
+> Chemical safety report and duty to apply and recommend risk reduction measures
+> 1. Without prejudice to Article 4 of Directive 98/24/EC, a chemical safety assessment shall be performed and a chemical safety report completed for all substances subject to registration in accordance with this Chapter in quantities of 10 tonnes or more per year per registrant.
+> The chemical safety report shall document the chemical safety assessment which shall be conducted in accordance with paragraphs 2 to 7 and with Annex I for either each substance on its own or in a mixture or in an article or a group of substances.
+> 2. A chemical safety assessment in accordance with paragraph 1 need not be performed for a substance which is present in a mixture if the concentration of the substance in the mixture is less than the lowest of any of the following:
+> (a) the applicable concentrations defined in the table of Article 3(3) of Directive 1999/45/EC;
+> (b) the specific concentration limits that have been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixturesOJ L 353, 31.12.2008, p. 1;;
+> (ba) for substances classified as hazardous to the aquatic environment, if a multiplying factor (hereinafter referred to as M-factor) has been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008, the cut-off value in Table 1.1 of Annex I to that Regulation adjusted using t […truncated by emendrix: 3074 characters omitted…]
+
+*after* (`02006R1907-20161011`)
+
+> Article 14
+> Chemical safety report and duty to apply and recommend risk reduction measures
+> 1. Without prejudice to Article 4 of Directive 98/24/EC, a chemical safety assessment shall be performed and a chemical safety report completed for all substances subject to registration in accordance with this Chapter in quantities of 10 tonnes or more per year per registrant.
+> The chemical safety report shall document the chemical safety assessment which shall be conducted in accordance with paragraphs 2 to 7 and with Annex I for either each substance on its own or in a mixture or in an article or a group of substances.
+> 2. A chemical safety assessment in accordance with paragraph 1 need not be performed for a substance which is present in a mixture if the concentration of the substance in the mixture is less than:
+> (a) the cut-off value referred to in Article 11, paragraph 3 of Regulation (EC) No 1272/2008;
+> (b) 0,1 % weight by weight (w/w), if the substance meets the criteria in Annex XIII to this Regulation.
+> 3. A chemical safety assessment of a substance shall include the following steps:
+> (a) human health hazard assessment;
+> (b) physicochemical hazard assessment;
+> (c) environmental hazard assessment;
+> (d) persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) assessment.
+> 4. If, as a result of carrying out steps (a) to (d) of paragraph 3, the registrant concludes that the substance fulfils the criteria for any of the following hazard classes or categ […truncated by emendrix: 1711 characters omitted…]
+
+**MODIFIED · Annex I — GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS** · applies from: unchanged
+
+*within* `AN I SCT 7 SCT 10`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only visible difference between the two texts is a formatting correction in the final section heading, where a slash rendered as 'emissionelease' in the earlier version appears correctly as 'emission/release' in the later version. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
+
+No other wording in the displayed sections 7 and 10 differs between the two versions. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
+
+*before* (`02006R1907-20160714`)
+
+> ANNEX I
+> GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS
+> 0. INTRODUCTION
+> 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
+> 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36350 characters omitted…]
+
+*after* (`02006R1907-20161011`)
+
+> ANNEX I
+> GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS
+> 0. INTRODUCTION
+> 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
+> 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36352 characters omitted…]
+
+**MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN VII SCT 8` · *dates* +2016-10-11 · *amended by* `32016R1688`, `32017R0706`
+
+Section 8.3 on skin sensitisation is rewritten to require information showing whether the substance is a skin sensitiser and whether it may be presumed to have the potential to produce significant sensitisation in humans, plus information for risk assessment where required, replacing the earlier two-step assessment of available data followed by in vivo testing. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
+
+The column 2 adaptation conditions are changed to apply to the studies now numbered 8.3.1 and 8.3.2, listing skin corrosion Category 1 classification, strong acid or base pH, or spontaneous flammability in air, water or moisture at room temperature as grounds not to conduct them, differing from the prior column 2 text tied to a single step 2. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII) [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_VII)
+
+New subpoints 8.3.1 (in vitro/in chemico skin sensitisation testing addressing molecular interaction with skin proteins, inflammatory response in keratinocytes, and dendritic cell activation) and 8.3.2 (in vivo skin sensitisation testing, including a rule on studies carried out or initiated before 11 October 2016) are added, where the prior text only referred to the Murine Local Lymph Node Assay as the first-choice in vivo method. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
+
+*before* (`02006R1907-20160714`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 11644 characters omitted…]
+
+*after* (`02006R1907-20161011`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 13114 characters omitted…]
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
+
+*within* `AN XVII APP 4`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02006R1907-20160714`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column […truncated by emendrix: 555177 characters omitted…]
+
+*after* (`02006R1907-20161011`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column […truncated by emendrix: 555463 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20161011 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20160714 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20160621` → `02006R1907-20160714`
