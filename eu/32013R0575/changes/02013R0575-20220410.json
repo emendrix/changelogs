@@ -1,0 +1,614 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20210930",
+  "to_version": "02013R0575-20220410",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-01-01",
+    "2022-04-10"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 4,
+    "unchanged_units": 724,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 4,
+    "substantive": 4,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220410",
+          "location": "AR 92"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R0876",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-01-01",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R0876 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R0876, 32021R0558",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220410",
+          "location": "AR 248"
+        },
+        "heading": "Exposure value",
+        "before": "Article 248\nExposure value\n1. The exposure value of a securitisation position shall be calculated as follows:\n(a) the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after any relevant specific credit risk adjustments on the securitisation position have been applied in accordance with Article 110;\n(b) the exposure value of an off-balance sheet securitisation position shall be its nominal value less any relevant specific credit risk adjustments on the securitisation position in accordance with Article 110, multiplied by the relevant conversion factor as set out in this point. The conversion factor shall be 100 %, except in the case of cash advance facilities. To determine the exposure value of the undrawn portion of the cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that repayment of draws on the facility are senior to any other claims on the cash flows arising from the underlying exposures and the institution has demonstrated to the satisfaction of the competent authority that it is applying an appropriately conservative method for measuring the amount of the undrawn portion;\n(c) the exposure value for the counterparty credit risk of a securitisation position that results from a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6;\n(d) an originator institution may deduct from the exposure value of a securitisation position which is assigned 1250 % risk weight in accordance with Subsection 3 or deducted from Common Equity Tier 1 in accordance with point (k) of Article 36(1), the amount of the specific credit risk adjustments on the underlying exposures in accordance with Article 110, and any non-refundable purchase price discounts connected with such underlying exposures to the extent that such discounts have caused the reduction of own funds.\nThe EBA shall develop draft regulatory technical standards to specify what constitutes an appropriately conservative method for measuring the amount of the undrawn portion referred to in point (b) of the first subparagraph.\nThe EBA shall submit those draft regulatory technical standards to the Commission by 18 January 2019.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the third subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.\n2. Where an institution has two or more overlapping positions in a securitisation, it shall include only one of the positions in its calculation of risk-weighted exposure amounts.\nWhere the positions partially overlap, the institution may split the position into two parts and recognise the overlap in relation to one part only in accordance with the first subparagraph. Alternatively, the institution may treat the positions as if they were fully overlapping by expanding for capital calculation purposes the position that produces the higher risk-weighted exposure amounts.\nThe institution may also recognise an overlap between the specific risk own funds requirements for positions in the trading book and the own funds requirements for securitisation positions in the non-trading book, provided that the institution is able to calculate and compare the own funds requirements for the relevant positions.\nFor the purposes of this paragraph, two positions shall be deemed to be overlapping where they are mutually offsetting in such a manner that the institution is able to preclude the losses arising from one position by performing the obligations required under the other position.\n3. Where point (d) of Article 270c applies to positions in an ABCP, the institution may use the risk weight assigned to a liquidity facility in order to calculate the risk-weighted exposure amount for the ABCP, provided that the liquidity facility covers 100 % of the ABCP issued by the ABCP programme and the liquidity facility ranks pari passu with the ABCP in a manner that they form an overlapping position. The institution shall notify the competent authorities where it has applied the provisions laid down in this paragraph. For the purposes of determining the 100 % coverage set out in this paragraph, the institution may take into account other liquidity facilities in the ABCP programme, provided that they form an overlapping position with the ABCP.",
+        "after": "Article 248\nExposure value\n1. The exposure value of a securitisation position shall be calculated as follows:\n(a) the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after any relevant specific credit risk adjustments on the securitisation position have been applied in accordance with Article 110;\n(b) the exposure value of an off-balance sheet securitisation position shall be its nominal value less any relevant specific credit risk adjustments on the securitisation position in accordance with Article 110, multiplied by the relevant conversion factor as set out in this point. The conversion factor shall be 100 %, except in the case of cash advance facilities. To determine the exposure value of the undrawn portion of the cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that repayment of draws on the facility are senior to any other claims on the cash flows arising from the underlying exposures and the institution has demonstrated to the satisfaction of the competent authority that it is applying an appropriately conservative method for measuring the amount of the undrawn portion;\n(c) the exposure value for the counterparty credit risk of a securitisation position that results from a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6;\n(d) an originator institution may deduct from the exposure value of a securitisation position which is assigned 1250 % risk weight in accordance with Subsection 3 or deducted from Common Equity Tier 1 in accordance with point (k) of Article 36(1), the amount of the specific credit risk adjustments on the underlying exposures in accordance with Article 110, and any non-refundable purchase price discounts connected with such underlying exposures to the extent that such discounts have caused the reduction of own funds;\n(e) the exposure value of a synthetic excess spread shall include, as applicable, the following:\n(i) any income from the securitised exposures already recognised by the originator institution in its income statement under the applicable accounting framework that the originator institution has contractually designated to the transaction as synthetic excess spread and that is still available to absorb losses;\n(ii) any synthetic excess spread that is contractually designated by the originator institution in any previous periods and that is still available to absorb losses;\n(iii) any synthetic excess spread that is contractually designated by the originator institution for the current period and that is still available to absorb losses;\n(iv) any synthetic excess spread contractually designated by the originator institution for future periods.\nFor the purposes of this point, any amount that is provided as collateral or credit enhancement in relation to the synthetic securitisation and that is already subject to an own funds requirement in accordance with this Chapter shall not be included in the exposure value.\nThe EBA shall develop draft regulatory technical standards to specify what constitutes an appropriately conservative method for measuring the amount of the undrawn portion referred to in point (b) of the first subparagraph.\nThe EBA shall submit those draft regulatory technical standards to the Commission by 18 January 2019.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the third subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.\n2. Where an institution has two or more overlapping positions in a securitisation, it shall include only one of the positions in its calculation of risk-weighted exposure amounts.\nWhere the positions partially overlap, the institution may split the position into two parts and recognise the overlap in relation to one part only in accordance with the first subparagraph. Alternatively, the institution may treat the positions as if they were fully overlapping by expanding for capital calculation purposes the position that produces the higher risk-weighted exposure amounts.\nThe institution may also recognise an overlap between the specific risk own funds requirements for positions in the trading book and the own funds requirements for securitisation positions in the non-trading book, provided that the institution is able to calculate and compare the own funds requirements for the relevant positions.\nFor the purposes of this paragraph, two positions shall be deemed to be overlapping where they are mutually offsetting in such a manner that the institution is able to preclude the losses arising from one position by performing the obligations required under the other position.\n3. Where point (d) of Article 270c applies to positions in an ABCP, the institution may use the risk weight assigned to a liquidity facility in order to calculate the risk-weighted exposure amount for the ABCP, provided that the liquidity facility covers 100 % of the ABCP issued by the ABCP programme and the liquidity facility ranks pari passu with the ABCP in a manner that they form an overlapping position. The institution shall notify the competent authorities where it has applied the provisions laid down in this paragraph. For the purposes of determining the 100 % coverage set out in this paragraph, the institution may take into account other liquidity facilities in the ABCP programme, provided that they form an overlapping position with the ABCP.\n4. EBA shall develop draft regulatory technical standards to specify how originator institutions are to determine the exposure value referred to in point (e) of paragraph 1, taking into account the relevant losses expected to be covered by the synthetic excess spread.\nEBA shall submit those draft regulatory technical standards to the Commission by 10 October 2021.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 248 PA 1 ALN 1 PTA (d)",
+          "AR 248 PA 1 ALN 1 PTA (e)",
+          "AR 248 PA 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0558",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2021-10-10"
+        ],
+        "in_force": "2022-04-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0558 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R0876, 32021R0558",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new point (e) is added to paragraph 1 describing what the exposure value of a synthetic excess spread must include, listing income already recognised and synthetic excess spread designated for previous, current, and future periods, and excluding amounts already provided as collateral or credit enhancement that are subject to an own funds requirement under the Chapter.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 248"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248",
+              "label": "Art. 248, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 4 is added directing EBA to develop draft regulatory technical standards on how originator institutions determine the exposure value referred to in point (e) of paragraph 1, with a submission deadline to the Commission of 10 October 2021 and a delegation of power to the Commission to adopt those standards.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 248"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248",
+              "label": "Art. 248, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "Point (d) of paragraph 1 is otherwise unchanged in wording between the two versions, apart from the punctuation change needed to connect it to the newly inserted point (e).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20210930",
+                "location": "AR 248"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_248",
+              "label": "Art. 248, 02013R0575-20210930"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 248"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248",
+              "label": "Art. 248, 02013R0575-20220410"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220410",
+          "location": "AR 256"
+        },
+        "heading": "Determination of attachment point (A) and detachment point (D)",
+        "before": "Article 256\nDetermination of attachment point (A) and detachment point (D)\n1. For the purposes of Subsection 3, institutions shall set the attachment point (A) at the threshold at which losses within the pool of underlying exposures would start to be allocated to the relevant securitisation position.\nThe attachment point (A) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior or pari passu to the tranche containing the relevant securitisation position including the exposure itself to the outstanding balance of all the underlying exposures in the securitisation.\n2. For the purposes of Subsection 3, institutions shall set the detachment point (D) at the threshold at which losses within the pool of underlying exposures would result in a complete loss of principal for the tranche containing the relevant securitisation position.\nThe detachment point (D) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior to the tranche containing the relevant securitisation position to the outstanding balance of all the underlying exposures in the securitisation.\n3. For the purposes of paragraphs 1 and 2, institutions shall treat overcollateralisation and funded reserve accounts as tranches and the assets comprising such reserve accounts as underlying exposures.\n4. For the purposes of paragraphs 1 and 2, institutions shall disregard unfunded reserve accounts and assets that do not provide credit enhancement, such as those that only provide liquidity support, currency or interest rate swaps and cash collateral accounts related to those positions in the securitisation. For funded reserve accounts and assets providing credit enhancement, the institution shall only treat as securitisation positions the parts of those accounts or assets that are loss-absorbing.\n5. Where two or more positions of the same transaction have different maturities but share pro rata loss allocation, the calculation of the attachment points (A) and the detachment points (D) shall be based on the aggregated outstanding balance of those positions and the resulting attachment points (A) and detachment points (D) shall be the same.",
+        "after": "Article 256\nDetermination of attachment point (A) and detachment point (D)\n1. For the purposes of Subsection 3, institutions shall set the attachment point (A) at the threshold at which losses within the pool of underlying exposures would start to be allocated to the relevant securitisation position.\nThe attachment point (A) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior or pari passu to the tranche containing the relevant securitisation position including the exposure itself to the outstanding balance of all the underlying exposures in the securitisation.\n2. For the purposes of Subsection 3, institutions shall set the detachment point (D) at the threshold at which losses within the pool of underlying exposures would result in a complete loss of principal for the tranche containing the relevant securitisation position.\nThe detachment point (D) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior to the tranche containing the relevant securitisation position to the outstanding balance of all the underlying exposures in the securitisation.\n3. For the purposes of paragraphs 1 and 2, institutions shall treat overcollateralisation and funded reserve accounts as tranches and the assets comprising such reserve accounts as underlying exposures.\n4. For the purposes of paragraphs 1 and 2, institutions shall disregard unfunded reserve accounts and assets that do not provide credit enhancement, such as those that only provide liquidity support, currency or interest rate swaps and cash collateral accounts related to those positions in the securitisation. For funded reserve accounts and assets providing credit enhancement, the institution shall only treat as securitisation positions the parts of those accounts or assets that are loss-absorbing.\n5. Where two or more positions of the same transaction have different maturities but share pro rata loss allocation, the calculation of the attachment points (A) and the detachment points (D) shall be based on the aggregated outstanding balance of those positions and the resulting attachment points (A) and detachment points (D) shall be the same.\n6. For the purposes of calculating the attachment points (A) and detachment points (D) of a synthetic securitisation, the originator institution of the securitisation shall treat the exposure value of the securitisation position corresponding to synthetic excess spread referred to in point (e) of Article 248(1) as a tranche, and adjust the attachment points (A) and detachment points (D) of the other tranches it retains by adding that exposure value to the outstanding balance of the pool of underlying exposures in the securitisation. Institutions other than the originator institution shall not make this adjustment.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 256 PA 6"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0558",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-04-10",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0558 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R0876, 32021R0558",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 6 has been added, requiring the originator institution of a synthetic securitisation to treat the exposure value of the securitisation position corresponding to synthetic excess spread as a tranche when calculating attachment and detachment points, and to adjust the attachment and detachment points of its other retained tranches by adding that exposure value to the outstanding balance of the pool of underlying exposures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 256"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256",
+              "label": "Art. 256, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "This same new paragraph specifies that institutions other than the originator institution do not make this adjustment.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 256"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256",
+              "label": "Art. 256, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 through 5, present in the earlier version, remain unchanged in wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20210930",
+                "location": "AR 256"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_256",
+              "label": "Art. 256, 02013R0575-20210930"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 256"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256",
+              "label": "Art. 256, 02013R0575-20220410"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220410",
+          "location": "AR 501"
+        },
+        "heading": "Adjustment of risk-weighted non-defaulted SME exposures",
+        "before": "Article 501\nAdjustment of risk-weighted non-defaulted SME exposures\n1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*\nwhere:\nRWEA*\nthe RWEA adjusted by an SME supporting factor; and\nE* is either of the following:\n(a) the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME;\n(b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.\n2. For the purposes of this Article:\n(a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).",
+        "after": "Article 501\nAdjustment of risk-weighted non-defaulted SME exposures\n1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*\nwhere:\nRWEA*\nthe RWEA adjusted by an SME supporting factor; and\nE* is either of the following:\n(a) the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME;\n(b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.\n2. For the purposes of this Article:\n(a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 501 PA 2 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2021-09-30, 2022-04-10]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R0876, 32021R0558",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only visible difference in Article 501(2)(1)(b) is the removal of a duplicated punctuation mark following the citation of Commission Recommendation 2003/361/EC, where the earlier text had a doubled period and semicolon sequence that is reduced to a single semicolon in the later text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20210930",
+                "location": "AR 501"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501",
+              "label": "Art. 501, 02013R0575-20210930"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 501"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_501",
+              "label": "Art. 501, 02013R0575-20220410"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20210930",
+    "to_version": "02013R0575-20220410",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 248",
+          "AR 256",
+          "AR 501"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 92",
+          "AR 248",
+          "AR 256"
+        ],
+        "note": "4 annotations in (2021-09-30, 2022-04-10]",
+        "claims": [
+          {
+            "location": "AR 92 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2022-01-01",
+            "source": "32019R0876 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R0876",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 248 PA 1 PTA (e)",
+            "change_type": "INSERTED",
+            "in_force": "2022-04-10",
+            "source": "32021R0558 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0558",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 248 PA 4",
+            "change_type": "INSERTED",
+            "in_force": "2022-04-10",
+            "source": "32021R0558 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0558",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 256 PA 6",
+            "change_type": "INSERTED",
+            "in_force": "2022-04-10",
+            "source": "32021R0558 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0558",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32019R0876, 32021R0558",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 92",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 501",
+        "reason": "seen by structural_diff, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 92"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 4,
+    "explained": 3,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 13420,
+      "output_tokens": 921,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 4,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 7,
+    "citations": 10,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

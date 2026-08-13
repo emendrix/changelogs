@@ -10,6 +10,127 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20220410 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20210930` → `02013R0575-20220410`
+
+- **Act** `eu:32013R0575` · **In force** 2022-01-01, 2022-04-10 · **Detected** 2026-08-13
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 724 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20210930` · `v2` = `02013R0575-20220410`
+
+---
+
+**MODIFIED · Art. 92** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 248 — Exposure value** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 248 PA 1 ALN 1 PTA (d)`, `AR 248 PA 1 ALN 1 PTA (e)`, `AR 248 PA 4` · *dates* +2021-10-10 · *amended by* `32021R0558`
+
+A new point (e) is added to paragraph 1 describing what the exposure value of a synthetic excess spread must include, listing income already recognised and synthetic excess spread designated for previous, current, and future periods, and excluding amounts already provided as collateral or credit enhancement that are subject to an own funds requirement under the Chapter. [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248)
+
+A new paragraph 4 is added directing EBA to develop draft regulatory technical standards on how originator institutions determine the exposure value referred to in point (e) of paragraph 1, with a submission deadline to the Commission of 10 October 2021 and a delegation of power to the Commission to adopt those standards. [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248)
+
+Point (d) of paragraph 1 is otherwise unchanged in wording between the two versions, apart from the punctuation change needed to connect it to the newly inserted point (e). [Art. 248, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_248) [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_248)
+
+*before* (`02013R0575-20210930`)
+
+> Article 248
+> Exposure value
+> 1. The exposure value of a securitisation position shall be calculated as follows:
+> (a) the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after any relevant specific credit risk adjustments on the securitisation position have been applied in accordance with Article 110;
+> (b) the exposure value of an off-balance sheet securitisation position shall be its nominal value less any relevant specific credit risk adjustments on the securitisation position in accordance with Article 110, multiplied by the relevant conversion factor as set out in this point. The conversion factor shall be 100 %, except in the case of cash advance facilities. To determine the exposure value of the undrawn portion of the cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that repayment of draws on the facility are senior to any other claims on the cash flows arising from the underlying exposures and the institution has demonstrated to the satisfaction of the competent authority that it is applying an appropriately conservative method for measuring the amount of the undrawn portion;
+> (c) the exposure value for the counterparty credit risk of a securitisation position that results from a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6;
+> (d) an originator institution may deduct from […truncated by emendrix: 2990 characters omitted…]
+
+*after* (`02013R0575-20220410`)
+
+> Article 248
+> Exposure value
+> 1. The exposure value of a securitisation position shall be calculated as follows:
+> (a) the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after any relevant specific credit risk adjustments on the securitisation position have been applied in accordance with Article 110;
+> (b) the exposure value of an off-balance sheet securitisation position shall be its nominal value less any relevant specific credit risk adjustments on the securitisation position in accordance with Article 110, multiplied by the relevant conversion factor as set out in this point. The conversion factor shall be 100 %, except in the case of cash advance facilities. To determine the exposure value of the undrawn portion of the cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that repayment of draws on the facility are senior to any other claims on the cash flows arising from the underlying exposures and the institution has demonstrated to the satisfaction of the competent authority that it is applying an appropriately conservative method for measuring the amount of the undrawn portion;
+> (c) the exposure value for the counterparty credit risk of a securitisation position that results from a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6;
+> (d) an originator institution may deduct from […truncated by emendrix: 4703 characters omitted…]
+
+**MODIFIED · Art. 256 — Determination of attachment point (A) and detachment point (D)** · applies from: unchanged
+
+*within* `AR 256 PA 6` · *amended by* `32021R0558`
+
+A new paragraph 6 has been added, requiring the originator institution of a synthetic securitisation to treat the exposure value of the securitisation position corresponding to synthetic excess spread as a tranche when calculating attachment and detachment points, and to adjust the attachment and detachment points of its other retained tranches by adding that exposure value to the outstanding balance of the pool of underlying exposures. [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256)
+
+This same new paragraph specifies that institutions other than the originator institution do not make this adjustment. [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256)
+
+Paragraphs 1 through 5, present in the earlier version, remain unchanged in wording. [Art. 256, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_256) [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_256)
+
+*before* (`02013R0575-20210930`)
+
+> Article 256
+> Determination of attachment point (A) and detachment point (D)
+> 1. For the purposes of Subsection 3, institutions shall set the attachment point (A) at the threshold at which losses within the pool of underlying exposures would start to be allocated to the relevant securitisation position.
+> The attachment point (A) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior or pari passu to the tranche containing the relevant securitisation position including the exposure itself to the outstanding balance of all the underlying exposures in the securitisation.
+> 2. For the purposes of Subsection 3, institutions shall set the detachment point (D) at the threshold at which losses within the pool of underlying exposures would result in a complete loss of principal for the tranche containing the relevant securitisation position.
+> The detachment point (D) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior to the tranche containing the relevant securitisation position to the outstanding balance of all the underlying exposures in the securitisation.
+> 3. For the purposes […truncated by emendrix: 1035 characters omitted…]
+
+*after* (`02013R0575-20220410`)
+
+> Article 256
+> Determination of attachment point (A) and detachment point (D)
+> 1. For the purposes of Subsection 3, institutions shall set the attachment point (A) at the threshold at which losses within the pool of underlying exposures would start to be allocated to the relevant securitisation position.
+> The attachment point (A) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior or pari passu to the tranche containing the relevant securitisation position including the exposure itself to the outstanding balance of all the underlying exposures in the securitisation.
+> 2. For the purposes of Subsection 3, institutions shall set the detachment point (D) at the threshold at which losses within the pool of underlying exposures would result in a complete loss of principal for the tranche containing the relevant securitisation position.
+> The detachment point (D) shall be expressed as a decimal value between zero and one and shall be equal to the greater of zero and the ratio of the outstanding balance of the pool of underlying exposures in the securitisation minus the outstanding balance of all tranches that rank senior to the tranche containing the relevant securitisation position to the outstanding balance of all the underlying exposures in the securitisation.
+> 3. For the purposes […truncated by emendrix: 1657 characters omitted…]
+
+**MODIFIED · Art. 501 — Adjustment of risk-weighted non-defaulted SME exposures** · applies from: unchanged
+
+*within* `AR 501 PA 2 ALN 1 PTA (b)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata
+
+The only visible difference in Article 501(2)(1)(b) is the removal of a duplicated punctuation mark following the citation of Commission Recommendation 2003/361/EC, where the earlier text had a doubled period and semicolon sequence that is reduced to a single semicolon in the later text. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_501)
+
+*before* (`02013R0575-20210930`)
+
+> Article 501
+> Adjustment of risk-weighted non-defaulted SME exposures
+> 1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*
+> where:
+> RWEA*
+> the RWEA adjusted by an SME supporting factor; and
+> E* is either of the following:
+> (a) the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME;
+> (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
+> 2. For the purposes of this Article:
+> (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 265 characters omitted…]
+
+*after* (`02013R0575-20220410`)
+
+> Article 501
+> Adjustment of risk-weighted non-defaulted SME exposures
+> 1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*
+> where:
+> RWEA*
+> the RWEA adjusted by an SME supporting factor; and
+> E* is either of the following:
+> (a) the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME;
+> (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
+> 2. For the purposes of this Article:
+> (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 264 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20220410 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20210930 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20210629` → `02013R0575-20210930`
