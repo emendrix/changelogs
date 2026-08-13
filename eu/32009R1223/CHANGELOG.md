@@ -10,6 +10,93 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20180801 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20180711` → `02009R1223-20180801`
+
+- **Act** `eu:32009R1223` · **In force** 2018-08-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20180711` · `v2` = `02009R1223-20180801`
+
+---
+
+**MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The footnote block at the top of the Annex gains two additional sentences repeating the same phrasing about substances not being placed or made available on the Union market, but with the dates changed to 1 May 2019 and 1 August 2019 instead of 23 August 2019 and 23 August 2021. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II)
+
+The numbered substance list itself, as far as visible before the text is cut off, is unchanged between the two versions. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
+
+Both texts are truncated before their end, so any further differences beyond the shown portion cannot be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
+
+*before* (`02009R1223-20180711`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> Reference number Substance identification
+> Chemical name/INN CAS number EC number
+> a b c d
+> 1 N-(5-Chlorobenzoxazol-2-yl)acetamide 35783-57-4 2 (2-Acetoxyethyl)trimethylammonium hydroxide (Acetylcholine) and its salts 51-84-3 200-128-9
+> 3 Deanol aceglumate (INN) 3342-61-8 222-085-5
+> 4 Spironolactone (INN) 52-01-7 200-133-6
+> 5 [4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid (Tiratricol (INN)) and its salts 51-24-1 200-086-1
+> 6 Methotrexate (INN) 59-05-2 200-413-8
+> 7 Aminocaproic acid (INN) and its salts 60-32-2 200-469-3
+> 8 Cinchophen (INN), its salts, derivatives and salts of these derivatives 132-60-5 205-067-1
+> 9 Thyropropic acid (INN) and its salts 51-26-3 10 Trichloroacetic acid 76-03-9 200-927-2
+> 11 Aconitum napellus L. (leaves, roots and galenical preparations) 84603-50-9 283-252-6
+> 12 Aconitine (principal alkaloid of Aconitum napellus L.) and its salts 302-27-2 206-121-7
+> 13 Adonis vernalis L. and its preparations 84649-73-0 283-458-6
+> 14 Epinephrine (INN) 51-43-4 200-098-7
+> 15 Rauwolfia serpentina L […truncated by emendrix: 125153 characters omitted…]
+
+*after* (`02009R1223-20180801`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> Reference number Substance identification
+> Chemical name/INN CAS number EC number
+> a b c d
+> 1 N-(5-Chlorobenzoxazol-2-yl)acetamide 35783-57-4 2 (2-Acetoxyethyl)trimethylammonium hydroxide (Acetylcholine) and its salts 51-84-3 200-128-9
+> 3 Deanol aceglumate (INN) 3342-61-8 222-085-5
+> 4 Spironolactone (INN) 52-01-7 200-133-6
+> 5 [4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid (Tiratricol (INN)) and its salts 51-24-1 200-086-1
+> 6 Methotrexate (INN) 59-05-2 200-413-8
+> 7 Aminocaproic acid (INN) and its salts 60-32-2 200-469-3
+> 8 Cinchophen (INN), its salts, derivatives and salts of these der […truncated by emendrix: 125682 characters omitted…]
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The AFTER text adds four additional footnote statements, each stating that from 1 May 2019 cosmetic products containing a given substance and not complying with the restrictions shall not be placed on the Union market, and that from 1 August 2019 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
+
+These four statements do not appear in the BEFORE text, which ends its introductory footnotes after the peanut oil and hydrolyzed wheat protein statements. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III)
+
+The remainder of the shown text, including the numbered entries, appears unchanged between the two versions, and both texts are truncated before their end. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
+
+*before* (`02009R1223-20180711`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 155612 characters omitted…]
+
+*after* (`02009R1223-20180801`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 158078 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20180801 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20180711 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20171225` → `02009R1223-20180711`
