@@ -10,6 +10,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20240109 -->
+## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
+### `02016R1011-20220101` → `02016R1011-20240109`
+
+- **Act** `eu:32016R1011` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02016R1011-20220101` · `v2` = `02016R1011-20240109`
+
+---
+
+**MODIFIED · Art. 12** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 28a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new Article 28a is added, requiring administrators to submit specified information to a collection body so it can be made accessible on the European single access point, and setting out formatting and metadata requirements for that submission. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
+
+The article also designates the competent authority or ESMA as the relevant collection body for different categories of information, and directs ESMA to develop implementing technical standards and, where necessary, guidelines on the metadata to be submitted. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
+
+*after* (`02016R1011-20240109`)
+
+> Article 28a
+> Accessibility of information on the European single access point
+> 1. From 10 January 2028, when making public any information referred to in Article 4(5), Article 11(1), point (c), Articles 12(3), 13(1), 25(7), 26(3), 27(1) and 28(1) of this Regulation, the administrator shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the administrator to which the information relates;
+> (ii) for legal persons, the legal entity identifier of the administrator, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) […truncated by emendrix: 3413 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20220101 -->
 ## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
 ### `02016R1011-20210213` → `02016R1011-20220101`
