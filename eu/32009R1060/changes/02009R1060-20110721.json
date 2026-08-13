@@ -1,0 +1,446 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1060",
+    "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+  },
+  "from_version": "02009R1060-20110601",
+  "to_version": "02009R1060-20110721",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2011-07-21"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 61,
+    "disputed": 3
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 3,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20110721",
+          "location": "AR 4"
+        },
+        "heading": "Use of credit ratings",
+        "before": "Article 4\nUse of credit ratings\n\n1.\nCredit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.\nWhere a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit ratings are issued by a credit rating agency established in the Community and registered under this Regulation.\n\n2.\nA credit rating agency established in the Community and registered in accordance with this Regulation shall be deemed to have issued a credit rating when the credit rating has been published on the credit rating agency’s website or by other means or distributed by subscription and presented and disclosed in accordance with the obligations of Article 10, clearly identifying that the credit rating is endorsed in accordance with paragraph 3 of this Article.\n3.\nA credit rating agency established in the Community and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting in the issuing of such a credit rating comply with the following conditions:\n\n(a) the credit rating activities resulting in the issuing of the credit rating to be endorsed are undertaken in whole or in part by the endorsing credit rating agency or by credit rating agencies belonging to the same group;\n\n\n(b) the credit rating agency has verified and is able to demonstrate on an ongoing basis to the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 84. (ESMA), that the conduct of credit rating activities by the third-country credit rating agency resulting in the issuing of the credit rating to be endorsed fulfils requirements which are at least as stringent as the requirements set out in Articles 6 to 12;\n\n(c) the ability of ESMA to assess and monitor the compliance of the credit rating agency established in the third country with the requirements referred to in point (b) is not limited;\n\n(d) the credit rating agency makes available on request to ESMA all the information necessary to enable ESMA to supervise on an ongoing basis the compliance with the requirements of this Regulation;\n\n\n(e) there is an objective reason for the credit rating to be elaborated in a third country;\n\n(f) the credit rating agency established in the third country is authorised or registered, and is subject to supervision, in that third country;\n\n\n(g) the regulatory regime in that third country prevents interference by the competent authorities and other public authorities of that third country with the content of credit ratings and methodologies; and\n\n\n(h) there is an appropriate cooperation arrangement between ESMA and the relevant supervisory authority of the credit rating agency established in a third country. ESMA shall ensure that such a cooperation arrangement shall specify at least:\n\n(i) the mechanism for the exchange of information between ESMA and the relevant supervisory authority of the credit rating agency established in a third country; and\n\n(ii) the procedures concerning the coordination of supervisory activities in order to enable ESMA to monitor credit rating activities resulting in the issuing of the endorsed credit rating on an ongoing basis.\n\n4.\nA credit rating endorsed in accordance with paragraph 3 shall be considered to be a credit rating issued by a credit rating agency established in the Community and registered in accordance with this Regulation.\nA credit rating agency established in the Community and registered in accordance with this Regulation shall not use such endorsement with the intention of avoiding the requirements of this Regulation.\n5.\nThe credit rating agency that has endorsed a credit rating issued in a third country in accordance with paragraph 3 shall remain fully responsible for such a credit rating and for the fulfilment of conditions set out therein.\n6.\nWhere the Commission has recognised, in accordance with Article 5(6), the legal and supervisory framework of a third country as equivalent to the requirements of this Regulation and the cooperation arrangements referred to in Article 5(7) are operational, the credit rating agency endorsing credit ratings issued in that third country shall no longer be required to verify or demonstrate that the condition laid down in paragraph 3(g) of this Article is fulfilled.",
+        "after": "Article 4\nUse of credit ratings\n\n1.\nCredit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the take-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund ManagersOJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.\nWhere a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit ratings are issued by a credit rating agency established in the Community and registered under this Regulation.\n\n2.\nA credit rating agency established in the Community and registered in accordance with this Regulation shall be deemed to have issued a credit rating when the credit rating has been published on the credit rating agency’s website or by other means or distributed by subscription and presented and disclosed in accordance with the obligations of Article 10, clearly identifying that the credit rating is endorsed in accordance with paragraph 3 of this Article.\n3.\nA credit rating agency established in the Community and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting in the issuing of such a credit rating comply with the following conditions:\n\n(a) the credit rating activities resulting in the issuing of the credit rating to be endorsed are undertaken in whole or in part by the endorsing credit rating agency or by credit rating agencies belonging to the same group;\n\n\n(b) the credit rating agency has verified and is able to demonstrate on an ongoing basis to the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 84. (ESMA), that the conduct of credit rating activities by the third-country credit rating agency resulting in the issuing of the credit rating to be endorsed fulfils requirements which are at least as stringent as the requirements set out in Articles 6 to 12;\n\n(c) the ability of ESMA to assess and monitor the compliance of the credit rating agency established in the third country with the requirements referred to in point (b) is not limited;\n\n(d) the credit rating agency makes available on request to ESMA all the information necessary to enable ESMA to supervise on an ongoing basis the compliance with the requirements of this Regulation;\n\n\n(e) there is an objective reason for the credit rating to be elaborated in a third country;\n\n(f) the credit rating agency established in the third country is authorised or registered, and is subject to supervision, in that third country;\n\n\n(g) the regulatory regime in that third country prevents interference by the competent authorities and other public authorities of that third country with the content of credit ratings and methodologies; and\n\n\n(h) there is an appropriate cooperation arrangement between ESMA and the relevant supervisory authority of the credit rating agency established in a third country. ESMA shall ensure that such a cooperation arrangement shall specify at least:\n\n(i) the mechanism for the exchange of information between ESMA and the relevant supervisory authority of the credit rating agency established in a third country; and\n\n(ii) the procedures concerning the coordination of supervisory activities in order to enable ESMA to monitor credit rating activities resulting in the issuing of the endorsed credit rating on an ongoing basis.\n\n4.\nA credit rating endorsed in accordance with paragraph 3 shall be considered to be a credit rating issued by a credit rating agency established in the Community and registered in accordance with this Regulation.\nA credit rating agency established in the Community and registered in accordance with this Regulation shall not use such endorsement with the intention of avoiding the requirements of this Regulation.\n5.\nThe credit rating agency that has endorsed a credit rating issued in a third country in accordance with paragraph 3 shall remain fully responsible for such a credit rating and for the fulfilment of conditions set out therein.\n6.\nWhere the Commission has recognised, in accordance with Article 5(6), the legal and supervisory framework of a third country as equivalent to the requirements of this Regulation and the cooperation arrangements referred to in Article 5(7) are operational, the credit rating agency endorsing credit ratings issued in that third country shall no longer be required to verify or demonstrate that the condition laid down in paragraph 3(g) of this Article is fulfilled.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [
+          "2011-06-08"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2011-06-01, 2011-07-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32011L0061, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of entities in paragraph 1 now specifies that alternative investment funds are those defined in Directive 2011/61/EU of 8 June 2011 on Alternative Investment Fund Managers, a definitional reference not present in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110721",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4",
+              "label": "Art. 4, 02009R1060-20110721"
+            }
+          ]
+        },
+        {
+          "text": "A minor wording change also appears earlier in the same paragraph, where the phrase describing the business covered by the 1973 insurance directive is rendered slightly differently between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110601",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4",
+              "label": "Art. 4, 02009R1060-20110601"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110721",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4",
+              "label": "Art. 4, 02009R1060-20110721"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20110721",
+          "location": "AR 4.1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32011L0061",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2011-07-21",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32011L0061 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32011L0061, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20110721",
+          "location": "AR 64"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32011L0061",
+            "display_name": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2011-06-01, 2011-07-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 064",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1060",
+      "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+    },
+    "from_version": "02009R1060-20110601",
+    "to_version": "02009R1060-20110721",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 4"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 4.1"
+        ],
+        "note": "1 annotations in (2011-06-01, 2011-07-21]",
+        "claims": [
+          {
+            "location": "AR 4.1 L1",
+            "change_type": "MODIFIED",
+            "in_force": "2011-07-21",
+            "source": "32011L0061 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32011L0061",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 64"
+        ],
+        "note": "32011L0061, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 64 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 064",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32011L0061",
+              "display_name": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010  Text with EEA relevance"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 4",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 4.1",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 64",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 4.1",
+      "AR 64"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 1,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 6276,
+      "output_tokens": 252,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

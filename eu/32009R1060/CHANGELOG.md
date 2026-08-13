@@ -10,6 +10,66 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20110721 -->
+## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
+### `02009R1060-20110601` → `02009R1060-20110721`
+
+- **Act** `eu:32009R1060` · **In force** 2011-07-21 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02009R1060-20110601` · `v2` = `02009R1060-20110721`
+
+---
+
+**MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 PA 1 ALN 1` · *dates* +2011-06-08
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The list of entities in paragraph 1 now specifies that alternative investment funds are those defined in Directive 2011/61/EU of 8 June 2011 on Alternative Investment Fund Managers, a definitional reference not present in the earlier text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4)
+
+A minor wording change also appears earlier in the same paragraph, where the phrase describing the business covered by the 1973 insurance directive is rendered slightly differently between the two versions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4)
+
+*before* (`02009R1060-20110601`)
+
+> Article 4
+> Use of credit ratings
+>
+> 1.
+> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
+> Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit rati […truncated by emendrix: 4405 characters omitted…]
+
+*after* (`02009R1060-20110721`)
+
+> Article 4
+> Use of credit ratings
+>
+> 1.
+> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the take-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund ManagersOJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with […truncated by emendrix: 4564 characters omitted…]
+
+**MODIFIED · Art. 4.1** · applies from: unknown
+
+*amended by* `32011L0061`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32011L0061`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20110721 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20110601 -->
 ## Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating […]
 ### `02009R1060-20091207` → `02009R1060-20110601`
