@@ -1,0 +1,1281 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0952",
+    "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+  },
+  "from_version": "32013R0952",
+  "to_version": "02013R0952-20131030",
+  "detected_on": "2026-08-13",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 13,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 1,
+    "touched_units": 14,
+    "unchanged_units": 274,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 14,
+    "substantive": 13,
+    "date_only": 1,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 106"
+        },
+        "heading": "Delegation of power",
+        "before": "Article 106\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine the cases referred to in point (d) of Article 102(1) where the customs authorities are exempted from notification of the customs debt.",
+        "after": "Article 106\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine the cases referred to in point (d) of the second subparagraph of Article 102(1) where the customs authorities are exempted from notification of the customs debt.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 106 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference has been narrowed from point (d) of Article 102(1) generally to point (d) of the second subparagraph of Article 102(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 106"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_106",
+              "label": "Art. 106, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 106"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_106",
+              "label": "Art. 106, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 116"
+        },
+        "heading": "General provisions",
+        "before": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural mattersOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 5 shall be reimbursed.",
+        "after": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural mattersOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 6 shall be reimbursed.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 116 PA 7 ALN 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 7, the cross-reference to the second subparagraph of paragraph 5 was changed to refer instead to the second subparagraph of paragraph 6.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 116"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_116",
+              "label": "Art. 116, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 117"
+        },
+        "heading": "Overcharged amounts of import or export duty",
+        "before": "Article 117\nOvercharged amounts of import or export duty\n1. An amount of import or export duty shall be repaid or remitted insofar as the amount corresponding to the customs debt initially notified exceeds the amount payable, or the customs debt was notified to the debtor contrary to points (c) or (d) of Article 102(1).\n2. Where the application for repayment or remission is based on the existence, at the time when the declaration for release for free circulation was accepted, of a reduced or zero rate of import duty on the goods under a tariff quota, a tariff ceiling or other favourable tariff measures, repayment or remission shall be granted provided that, at the time of lodging the application accompanied by the necessary documents, either of the following conditions are fulfilled:\n(a) in the case of a tariff quota, its volume has not been exhausted;\n(b) in other cases, the rate of duty normally due has not been re-established.",
+        "after": "Article 117\nOvercharged amounts of import or export duty\n1. An amount of import or export duty shall be repaid or remitted insofar as the amount corresponding to the customs debt initially notified exceeds the amount payable, or the customs debt was notified to the debtor contrary to point (c) or (d) of the second subparagraph of Article 102(1).\n2. Where the application for repayment or remission is based on the existence, at the time when the declaration for release for free circulation was accepted, of a reduced or zero rate of import duty on the goods under a tariff quota, a tariff ceiling or other favourable tariff measures, repayment or remission shall be granted provided that, at the time of lodging the application accompanied by the necessary documents, either of the following conditions are fulfilled:\n(a) in the case of a tariff quota, its volume has not been exhausted;\n(b) in other cases, the rate of duty normally due has not been re-established.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 117 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The internal cross-reference in paragraph 1 was revised to point to point (c) or (d) of the second subparagraph of Article 102(1), rather than simply points (c) or (d) of Article 102(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 117"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_117",
+              "label": "Art. 117, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 117"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_117",
+              "label": "Art. 117, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 131"
+        },
+        "heading": "Delegation of power",
+        "before": "Article 131\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 284, in order to determine:\n(a) the cases where the obligation to lodge an entry summary declaration is waived, in accordance with point (c) of Article 127(2);\n(b) the specific time-limit referred to in Article 127(3) and (7), within which the entry summary declaration is to be lodged before the goods are brought into the customs territory of the Union, taking into account the type of goods or traffic;\n(c) the cases referred to in Article 127(6) and the other persons who may be required to provide particulars of the entry summary declaration in those cases.",
+        "after": "Article 131\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts in accordance with Article 284, in order to determine:\n(a) the cases where the obligation to lodge an entry summary declaration is waived, in accordance with point (b) of Article 127(2);\n(b) the specific time-limit referred to in Article 127(3) and (7), within which the entry summary declaration is to be lodged before the goods are brought into the customs territory of the Union, taking into account the type of goods or traffic;\n(c) the cases referred to in Article 127(6) and the other persons who may be required to provide particulars of the entry summary declaration in those cases.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 131 ALN 1 PTA (a)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (a), the cross-reference to Article 127(2) was changed from point (c) to point (b).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 131"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_131",
+              "label": "Art. 131, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 131"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_131",
+              "label": "Art. 131, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 145"
+        },
+        "heading": "Temporary storage declaration",
+        "before": "Article 145\nTemporary storage declaration\n1. Non-Union goods presented to customs shall be covered by a temporary storage declaration containing all the particulars necessary for the application of the provisions governing temporary storage.\n2. Documents related to goods in temporary storage shall be provided to the customs authorities where Union legislation so requires or where necessary for customs controls.\n3. The temporary storage declaration shall be lodged by one of the persons referred to in Article 139(1) or (2) at the latest at the time of the presentation of the goods to customs.\n4. The temporary storage declaration shall, unless the obligation to lodge an entry summary declaration is waived, include a reference to any entry summary declaration lodged for the goods presented to customs, except where they have already been in temporary storage or have been placed under a customs procedure and have not left the customs territory of the Union.\n5. Customs authorities may accept that the temporary storage declaration also takes one of the following forms:\n(a) a reference to any entry summary declaration lodged for the goods concerned, supplemented by the particulars of a temporary storage declaration;\n(b) a manifest or another transport document, provided that it contains the particulars of a temporary storage declaration, including a reference to any entry summary declaration for the goods concerned.\n6. Customs authorities may accept that commercial, port or transport information systems are used to lodge a temporary storage declaration provided that they contain the necessary particulars for such declaration and these particulars are available in accordance with paragraph 3.\n7. Articles 188 to 193 shall apply to the temporary storage declaration.\n8. The temporary storage declaration may be used also for the purpose of:\n(a) the notification of arrival referred to in Article 133; or\n(b) the presentation of the goods to customs referred to in Article 139, insofar as it fulfils the conditions laid down in those provisions.\n9. A temporary storage declaration shall not be required where, at the latest at the time of the presentation of the goods to customs, their customs status as Union goods is determined in accordance with Articles 153 to 156.\n10. The temporary storage declaration shall be kept by, or be accessible to, the customs authorities for the purpose of verifying that the goods to which it relates are subsequently placed under a customs procedure or re-exported in accordance with Article 149.\n11. For the purpose of paragraphs 1 to 10, where non-Union goods moved under a transit procedure are presented to customs at an office of destination within the customs territory of the Union, the particulars for the transit operation concerned shall be deemed to be the temporary storage declaration, provided they meet the requirements for that purpose. However, the holder of the goods may lodge a temporary storage declaration after the end of the transit procedure.",
+        "after": "Article 145\nTemporary storage declaration\n1. Non-Union goods presented to customs shall be covered by a temporary storage declaration containing all the particulars necessary for the application of the provisions governing temporary storage.\n2. Documents related to goods in temporary storage shall be provided to the customs authorities where Union legislation so requires or where necessary for customs controls.\n3. The temporary storage declaration shall be lodged by one of the persons referred to in Article 139(1) or (3) at the latest at the time of the presentation of the goods to customs.\n4. The temporary storage declaration shall, unless the obligation to lodge an entry summary declaration is waived, include a reference to any entry summary declaration lodged for the goods presented to customs, except where they have already been in temporary storage or have been placed under a customs procedure and have not left the customs territory of the Union.\n5. Customs authorities may accept that the temporary storage declaration also takes one of the following forms:\n(a) a reference to any entry summary declaration lodged for the goods concerned, supplemented by the particulars of a temporary storage declaration;\n(b) a manifest or another transport document, provided that it contains the particulars of a temporary storage declaration, including a reference to any entry summary declaration for the goods concerned.\n6. Customs authorities may accept that commercial, port or transport information systems are used to lodge a temporary storage declaration provided that they contain the necessary particulars for such declaration and these particulars are available in accordance with paragraph 3.\n7. Articles 188 to 193 shall apply to the temporary storage declaration.\n8. The temporary storage declaration may be used also for the purpose of:\n(a) the notification of arrival referred to in Article 133; or\n(b) the presentation of the goods to customs referred to in Article 139, insofar as it fulfils the conditions laid down in those provisions.\n9. A temporary storage declaration shall not be required where, at the latest at the time of the presentation of the goods to customs, their customs status as Union goods is determined in accordance with Articles 153 to 156.\n10. The temporary storage declaration shall be kept by, or be accessible to, the customs authorities for the purpose of verifying that the goods to which it relates are subsequently placed under a customs procedure or re-exported in accordance with Article 149.\n11. For the purpose of paragraphs 1 to 10, where non-Union goods moved under a transit procedure are presented to customs at an office of destination within the customs territory of the Union, the particulars for the transit operation concerned shall be deemed to be the temporary storage declaration, provided they meet the requirements for that purpose. However, the holder of the goods may lodge a temporary storage declaration after the end of the transit procedure.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 145 PA 3 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 3, the cross-reference to Article 139 was changed from Article 139(1) or (2) to Article 139(1) or (3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 145"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_145",
+              "label": "Art. 145, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 145"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_145",
+              "label": "Art. 145, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 158"
+        },
+        "heading": "Customs declaration of goods and customs supervision of Union goods",
+        "before": "Article 158\nCustoms declaration of goods and customs supervision of Union goods\n1. All goods intended to be placed under a customs procedure, except for the free zone procedure, shall be covered by a customs declaration appropriate for the particular procedure.\n2. In specific cases, other than those referred to in Article 6(2), a customs declaration may be lodged using means other than electronic data-processing techniques.\n3. Union goods declared for export, internal Union transit or outward processing shall be subject to customs supervision from the time of acceptance of the declaration referred to in paragraph 1 until such time as they are taken out of the customs territory of the Union or are abandoned to the State or destroyed or the customs declaration is invalidated.",
+        "after": "Article 158\nCustoms declaration of goods and customs supervision of Union goods\n1. All goods intended to be placed under a customs procedure, except for the free zone procedure, shall be covered by a customs declaration appropriate for the particular procedure.\n2. In specific cases, other than those referred to in Article 6(3), a customs declaration may be lodged using means other than electronic data-processing techniques.\n3. Union goods declared for export, internal Union transit or outward processing shall be subject to customs supervision from the time of acceptance of the declaration referred to in paragraph 1 until such time as they are taken out of the customs territory of the Union or are abandoned to the State or destroyed or the customs declaration is invalidated.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 158 PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 changes its internal cross-reference from Article 6(2) to Article 6(3), while the rest of the text of the paragraph is unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 158"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_158",
+              "label": "Art. 158, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 158"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_158",
+              "label": "Art. 158, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 217"
+        },
+        "heading": "Conferral of implementing powers",
+        "before": "Article 217\nConferral of implementing powers\nThe Commission shall specify, by means of implementing acts, the procedural rules for the discharge of a special procedure, referred to in Article 216.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 285(4).",
+        "after": "Article 217\nConferral of implementing powers\nThe Commission shall specify, by means of implementing acts, the procedural rules for the discharge of a special procedure referred to in Article 215.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 285(4).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 217 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The internal cross-reference in the first paragraph was changed from Article 216 to Article 215, while the rest of the text remains the same.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 217"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_217",
+              "label": "Art. 217, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 217"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_217",
+              "label": "Art. 217, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 241"
+        },
+        "heading": "Processing",
+        "before": "Article 241\nProcessing\n1. The customs authorities may, where an economic need exists and customs supervision is not adversely affected, authorise the processing of goods under the inward processing or end-use procedure to take place in a customs warehouse, subject to the conditions provided for by those procedures.\n2 The goods referred to in paragraph 1 shall not be regarded as being under the customs warehousing procedure.",
+        "after": "Article 241\nProcessing\n1. The customs authorities may, where an economic need exists and customs supervision is not adversely affected, authorise the processing of goods under the inward processing or end-use procedure to take place in a customs warehouse, subject to the conditions provided for by those procedures.\n2. The goods referred to in paragraph 1 shall not be regarded as being under the customs warehousing procedure.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 241 PA 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change in Article 241(2) is the addition of a period after the paragraph number '2', which previously appeared without punctuation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 241"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_241",
+              "label": "Art. 241, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 241"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_241",
+              "label": "Art. 241, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 253"
+        },
+        "heading": "Delegation of power",
+        "before": "Article 253\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 243, in order to determine:\n(a) the specific use referred to in Article 250(1);\n(b) the requirements referred to in point (d) of Article 250(2).",
+        "after": "Article 253\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine:\n(a) the specific use referred to in Article 250(1);\n(b) the requirements referred to in point (d) of Article 250(2).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 253 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is the cross-reference to the article governing the delegated-acts procedure, which now points to Article 284 instead of Article 243.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 253"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_253",
+              "label": "Art. 253, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 253"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_253",
+              "label": "Art. 253, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 257"
+        },
+        "heading": "Period for discharge",
+        "before": "Article 257\nPeriod for discharge\n1. The customs authorities shall specify the period within which the inward processing procedure is to be discharged, in accordance with Article 216.\nThat period shall run from the date on which the non-Union goods are placed under the procedure and shall take account of the time required to carry out the processing operations and to discharge the procedure.\n2. The customs authorities may grant an extension, of reasonable duration, of the period specified pursuant to paragraph 1, upon justified application by the holder of the authorisation.\nThe authorisation may specify that a period which commences in the course of a month, quarter or semester shall end on the last day of a subsequent month, quarter or semester respectively.\n3. In the case of prior export in accordance with point (c) of Article 223(2), the authorisation shall specify the period within which the non-Union goods shall be declared for the inward processing procedure, taking account of the time required for procurement and transport to the customs territory of the Union.\nThe period referred to in the first subparagraph shall be set in months and shall not exceed six months. It shall run from the date of acceptance of the export declaration relating to the processed products obtained from the corresponding equivalent goods.\n4. At the request of the holder of the authorisation, the period of six months referred to in paragraph 3 may be extended, even after its expiry, provided that the total period does not exceed 12 months.",
+        "after": "Article 257\nPeriod for discharge\n1. The customs authorities shall specify the period within which the inward processing procedure is to be discharged, in accordance with Article 215.\nThat period shall run from the date on which the non-Union goods are placed under the procedure and shall take account of the time required to carry out the processing operations and to discharge the procedure.\n2. The customs authorities may grant an extension, of reasonable duration, of the period specified pursuant to paragraph 1, upon justified application by the holder of the authorisation.\nThe authorisation may specify that a period which commences in the course of a month, quarter or semester shall end on the last day of a subsequent month, quarter or semester respectively.\n3. In the case of prior export in accordance with point (c) of Article 223(2), the authorisation shall specify the period within which the non-Union goods shall be declared for the inward processing procedure, taking account of the time required for procurement and transport to the customs territory of the Union.\nThe period referred to in the first subparagraph shall be set in months and shall not exceed six months. It shall run from the date of acceptance of the export declaration relating to the processed products obtained from the corresponding equivalent goods.\n4. At the request of the holder of the authorisation, the period of six months referred to in paragraph 3 may be extended, even after its expiry, provided that the total period does not exceed 12 months.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 257 PA 1 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is that the cross-reference in paragraph 1 to the article governing discharge of a procedure was updated from Article 216 to Article 215.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 257"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_257",
+              "label": "Art. 257, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 257"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_257",
+              "label": "Art. 257, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 265"
+        },
+        "heading": "Delegation of power",
+        "before": "Article 265\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine:\n(a) the specific time-limit, referred to in Article 263(1), within which the pre-departure declaration is to be lodged before the goods are taken out of the customs territory of the Union taking into account the type of traffic;\n(b) the specific cases where the obligation to lodge a pre-departure declaration is waived in accordance with point (c) of Article 263(2).",
+        "after": "Article 265\nDelegation of power\nThe Commission shall be empowered to adopt delegated acts, in accordance with Article 284, in order to determine:\n(a) the specific time-limit, referred to in Article 263(1), within which the pre-departure declaration is to be lodged before the goods are taken out of the customs territory of the Union taking into account the type of traffic;\n(b) the specific cases where the obligation to lodge a pre-departure declaration is waived in accordance with point (b) of Article 263(2).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 265 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b), the internal cross-reference changed from point (c) of Article 263(2) to point (b) of Article 263(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 265"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_265",
+              "label": "Art. 265, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 265"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_265",
+              "label": "Art. 265, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 281"
+        },
+        "heading": "Conferral of implementing powers",
+        "before": "Article 281\nConferral of implementing powers\nThe Commission shall adopt, by means of implementing acts, the work programme referred to in Article 280.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 285(4).\nWhere the committee delivers no opinion, the Commission shall not adopt the implementing acts referred to in paragraph 1 and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.",
+        "after": "Article 281\nConferral of implementing powers\nThe Commission shall adopt, by means of implementing acts, the work programme referred to in Article 280.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 285(4).\nWhere the committee delivers no opinion, the Commission shall not adopt the implementing acts referred to in the first paragraph of this Article, and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 281 ALN 3"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The third paragraph's reference to where the implementing acts are described was changed from citing 'paragraph 1' to citing 'the first paragraph of this Article'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 281"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_281",
+              "label": "Art. 281, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 281"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_281",
+              "label": "Art. 281, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 284"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 284\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 213, 221, 224, 231, 235, 253, 265, and 279 shall be conferred on the Commission for a period of five years from 30 October 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 213, 221, 224, 231, 235, 253, 265, and 279 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 213, 221, 224, 231, 235, 253, 265, or 279 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 284\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 216, 221, 224, 231, 235, 253, 265, and 279 shall be conferred on the Commission for a period of five years from 30 October 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 216, 221, 224, 231, 235, 253, 265, and 279 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Articles 2, 7, 10, 20, 24, 31, 36, 40, 62, 65, 75, 88, 99, 106, 115, 122, 126, 131, 142, 151, 156, 160, 164, 168, 175, 180, 183, 186, 196, 206, 212, 216, 221, 224, 231, 235, 253, 265, or 279 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 284 PA 2 ALN 1",
+          "AR 284 PA 3 ALN 1",
+          "AR 284 PA 5 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraphs 2, 3, and 5, the list of article numbers to which the delegation provisions apply now reads 216 in place of 213, with all other article numbers in the lists unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 284"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_284",
+              "label": "Art. 284, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0952",
+            "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+          },
+          "version": "02013R0952-20131030",
+          "location": "AR 288"
+        },
+        "heading": "Application",
+        "before": "Article 288\nApplication\n1. Articles 2, 7, 8, 10, 11, 17, 20, 21, 24, 25, 31, 32, 36, 37, 40, 41, 50, 52, 54, 58, 62, 63, 65, 66, 68, 75, 76, 88, 99, 100, 106, 107, 115, 122, 123, 126, 131, 132, 138, 142, 143, 151, 152, 156, 157, 160, 161, 164, 165, 168, 169, 175, 176, 178, 180, 181, 183, 184, 186, 187, 193, 196, 200, 206, 207, 209, 212, 213, 216, 217, 221, 222, 224, 225, 231, 232, 235, 236, 239, 253, 265, 266, 268, 273, 276, 279, 280, 281, 283, 284, 285 and 286 shall apply as from 30 October 2013.\n2. Articles other than those referred to in paragraph 1 shall apply as from 1 June 2016.",
+        "after": "Article 288\nApplication\n1. Articles 2, 7, 8, 10, 11, 17, 20, 21, 24, 25, 31, 32, 36, 37, 40, 41, 50, 52, 54, 58, 62, 63, 65, 66, 68, 75, 76, 88, 99, 100, 106, 107, 115, 122, 123, 126, 131, 132, 138, 142, 143, 151, 152, 156, 157, 160, 161, 164, 165, 168, 169, 175, 176, 178, 180, 181, 183, 184, 186, 187, 193, 196, 200, 206, 207, 209, 212, 213, 216, 217, 221, 222, 224, 225, 231, 232, 235, 236, 239, 253, 265, 266, 268, 273, 276, 279, 280, 281, 283, 284, 285 and 286 shall apply as from 30 October 2013.\n2. Articles other than those referred to in paragraph 1 shall apply as from 1 May 2016.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 288 PA 2 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [
+          "2016-06-01"
+        ],
+        "dates_added": [
+          "2016-05-01"
+        ],
+        "in_force": null,
+        "applies_from": "2016-05-01",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2013-10-30]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date from which articles other than those listed in paragraph 1 apply was changed from 1 June 2016 to 1 May 2016, while the list of articles in paragraph 1 and their 30 October 2013 date remain unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "32013R0952",
+                "location": "AR 288"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0952#art_288",
+              "label": "Art. 288, 32013R0952"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0952",
+                  "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+                },
+                "version": "02013R0952-20131030",
+                "location": "AR 288"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_288",
+              "label": "Art. 288, 02013R0952-20131030"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0952",
+      "display_name": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)"
+    },
+    "from_version": "32013R0952",
+    "to_version": "02013R0952-20131030",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 106",
+          "AR 116",
+          "AR 117",
+          "AR 131",
+          "AR 145",
+          "AR 158",
+          "AR 217",
+          "AR 241",
+          "AR 253",
+          "AR 257",
+          "AR 265",
+          "AR 281",
+          "AR 284",
+          "AR 288"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2013-10-30]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 14,
+    "explained": 14,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 46566,
+      "output_tokens": 1944,
+      "requests": 15,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 14,
+    "passed_first": 14,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 14,
+    "citations": 26,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 1
+  }
+}
