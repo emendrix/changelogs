@@ -1,0 +1,3263 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1060",
+    "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+  },
+  "from_version": "02009R1060-20140523",
+  "to_version": "02009R1060-20150621",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2014-06-21",
+    "2015-06-21"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 12,
+    "modified": 19,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 31,
+    "unchanged_units": 73,
+    "disputed": 31
+  },
+  "counts": {
+    "touched": 31,
+    "substantive": 31,
+    "date_only": 0,
+    "disputed": 31,
+    "quoted": 0,
+    "unexplained": 30
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 3"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3) (a) (i); AR 001 (3) (a) (ii); AR 001 (3) (a) (iii); AR 001 (3) (a) (iv); AR 001 (3) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 4"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4) (a); AR 001 (4) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 5"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5) (a); AR 001 (5) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 5a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 5b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 5c"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 6"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-06-21",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0462 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7) (a); AR 001 (7) (b); AR 001 (7) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 6a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 6b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 7"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 8"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (10) (a); AR 001 (10) (b); AR 001 (10) (c); AR 001 (10) (d) (i); AR 001 (10) (d) (ii); AR 001 (10) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 8a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 8b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 8c"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 8d"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 10"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (12); AR 001 (13)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 11"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2015-06-21",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R0462 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (14)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 11a"
+        },
+        "heading": "European rating platform",
+        "before": null,
+        "after": "Article 11a\nEuropean rating platform\n1. A registered or certified credit rating agency shall, when issuing a credit rating or a rating outlook, submit to ESMA rating information, including the credit rating and rating outlook of the rated instrument, information on the type of credit rating, the type of rating action, and date and hour of publication.\n2. ESMA shall publish the individual credit ratings submitted to it pursuant to paragraph 1 on a website (European rating platform).\nThe central repository referred to in Article 11(2) shall be incorporated in the European rating platform.\n3. This Article shall not apply to credit ratings or rating outlooks which are exclusively produced for and disclosed to investors for a fee.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (15)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 11a is added, requiring a registered or certified credit rating agency to submit rating information, including the credit rating and rating outlook, type of credit rating, type of rating action, and the date and hour of publication, to ESMA when it issues a credit rating or rating outlook.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20150621",
+                "location": "AR 11a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#art_11a",
+              "label": "Art. 11a, 02009R1060-20150621"
+            }
+          ]
+        },
+        {
+          "text": "It also directs ESMA to publish the submitted individual credit ratings on a website called the European rating platform, into which the central repository referred to in Article 11(2) is to be incorporated, and it states that the Article does not apply to credit ratings or rating outlooks produced exclusively for and disclosed to investors for a fee.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20150621",
+                "location": "AR 11a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#art_11a",
+              "label": "Art. 11a, 02009R1060-20150621"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 14"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (16)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 18"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (17)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 19"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (18)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 21"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (19) (a) (i); AR 001 (19) (a) (ii); AR 001 (19) (a) (iii); AR 001 (19) (b); AR 001 (19) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 22a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (20)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 25a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (21)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 35a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (22)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 36a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (23) (a); AR 001 (23) (b); AR 001 (23) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 39"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (24) (a); AR 001 (24) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 39a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (25)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1060",
+            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+          },
+          "version": "02009R1060-20150621",
+          "location": "AR 39b"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-05-23, 2015-06-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (26)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1060",
+      "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+    },
+    "from_version": "02009R1060-20140523",
+    "to_version": "02009R1060-20150621",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 11a"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 6",
+          "AR 11"
+        ],
+        "note": "3 annotations in (2014-05-23, 2015-06-21]",
+        "claims": [
+          {
+            "location": "AR 11 BI",
+            "change_type": "INSERTED",
+            "in_force": "2015-06-21",
+            "source": "32013R0462 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 6 BI",
+            "change_type": "INSERTED",
+            "in_force": "2014-06-21",
+            "source": "32013R0462 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 6 TR",
+            "change_type": "INSERTED",
+            "in_force": "2014-06-21",
+            "source": "32013R0462 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2",
+          "AR 3",
+          "AR 4",
+          "AR 5",
+          "AR 5a",
+          "AR 5b",
+          "AR 5c",
+          "AR 6",
+          "AR 6a",
+          "AR 6b",
+          "AR 7",
+          "AR 8",
+          "AR 8a",
+          "AR 8b",
+          "AR 8c",
+          "AR 8d",
+          "AR 10",
+          "AR 11",
+          "AR 11a",
+          "AR 14",
+          "AR 18",
+          "AR 19",
+          "AR 21",
+          "AR 22a",
+          "AR 25a",
+          "AR 35a",
+          "AR 36a",
+          "AR 39",
+          "AR 39a",
+          "AR 39b"
+        ],
+        "note": "32013R0462, 0.965 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 2 PA 1 PO 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 3 PA 1 PTA (g)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 3 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 3 PA 1 PTA (q)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3) (a) (iii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 3 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3) (a) (iv)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 3 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 4 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 4 PA 3 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 5 PA 6 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 5 PA 8",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 5a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 5b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 5c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 6 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 6 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 6 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (7) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 6a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 6b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 7 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (10) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 5a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (10) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10) (d) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 6",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (10) (d) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8 PA 7",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (10) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (11)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (11)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (11)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 8d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (11)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 10 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (12)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 10 PA 5 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (13)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 11 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (14)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 11a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (15)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 14 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (16)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 18 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (17)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 19 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (18)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 4",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (19) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 4 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (19) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 4 PTA (e)",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (19) (a) (iii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 4a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (19) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 4b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (19) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 21 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (19) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 22a",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (20)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 25a",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (21)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 35a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (22)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 36a PA 2 ALN 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (23) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 36a PA 2 ALN 1 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (23) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 36a PA 2 ALN 1 PTA (h)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (23) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39 PA 1",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (24) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (24) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (24) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39 PA 6",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (24) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39a",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (25)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          },
+          {
+            "location": "AR 39b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (26)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R0462",
+              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 31,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.03225806451612903,
+        "f1": 0.0625,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 31,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.06451612903225806,
+        "f1": 0.12121212121212122,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 3",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 4",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 5",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 5a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 5b",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 5c",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 6",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 6a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 6b",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 7",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8b",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8c",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 8d",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 10",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 11",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 11a",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 14",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 18",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 19",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 21",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 22a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 25a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 35a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 36a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 39",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 39a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 39b",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1",
+      "AR 2",
+      "AR 3",
+      "AR 4",
+      "AR 5",
+      "AR 5a",
+      "AR 5b",
+      "AR 5c",
+      "AR 6",
+      "AR 6a",
+      "AR 6b",
+      "AR 7",
+      "AR 8",
+      "AR 8a",
+      "AR 8b",
+      "AR 8c",
+      "AR 8d",
+      "AR 10",
+      "AR 11",
+      "AR 14",
+      "AR 18",
+      "AR 19",
+      "AR 21",
+      "AR 22a",
+      "AR 25a",
+      "AR 35a",
+      "AR 36a",
+      "AR 39",
+      "AR 39a",
+      "AR 39b"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 31,
+    "explained": 1,
+    "unavailable": 30,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 2595,
+      "output_tokens": 292,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 31,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 30,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
