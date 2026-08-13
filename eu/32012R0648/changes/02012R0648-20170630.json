@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20170401",
+  "to_version": "02012R0648-20170630",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2017-06-30"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 97,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20170630",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter and scope",
+        "before": "Article 1\nSubject matter and scope\n1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.\n2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.\n3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.\n4. This Regulation shall not apply to:\n(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;\n(b) the Bank for International Settlements;\n(c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:\n(i) Japan;\n(ii) United States of America.\n5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:\n(a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;\n(b) public sector entities within the meaning of point (18) of Article 4 of Directive 2006/48/EC where they are owned by central governments and have explicit guarantee arrangements provided by central governments;\n(c) the European Financial Stability Facility and the European Stability Mechanism.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.\nTo that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.\nThe report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.",
+        "after": "Article 1\nSubject matter and scope\n1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.\n2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.\n3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.\n4. This Regulation shall not apply to:\n(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;\n(b) the Bank for International Settlements;\n(c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:\n(i) Japan;\n(ii) United States of America;\n(iii) Australia;\n(iv) Canada;\n(v) Hong Kong;\n(vi) Mexico;\n(vii) Singapore;\n(viii) Switzerland.\n5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:\n(a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;\n(b) public sector entities within the meaning of point (18) of Article 4 of Directive 2006/48/EC where they are owned by central governments and have explicit guarantee arrangements provided by central governments;\n(c) the European Financial Stability Facility and the European Stability Mechanism.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.\nTo that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.\nThe report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (ii)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (iii)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (iv)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (v)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (vi)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (vii)",
+          "AR 1 PA 4 ALN 1 PTA (c) PTI (viii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0979",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2017-06-30",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0979 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of countries in Article 1(4)(c) whose central banks and public debt management bodies are excluded from the Regulation is expanded from Japan and the United States of America to also include Australia, Canada, Hong Kong, Mexico, Singapore and Switzerland.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20170630",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_1",
+              "label": "Art. 1, 02012R0648-20170630"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20170401",
+    "to_version": "02012R0648-20170630",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "6 annotations in (2017-04-01, 2017-06-30]",
+        "claims": [
+          {
+            "location": "AR 1 PA 4 PO (c) PT (iii)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PO (c) PT (vii)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PO (c) PT (viii)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PO (c) PT (iv)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PO (c) PT (vi)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 4 PO (c) PT (v)",
+            "change_type": "INSERTED",
+            "in_force": "2017-06-30",
+            "source": "32017R0979 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32017R0979, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 4",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0979",
+              "display_name": "Commission Delegated Regulation (EU) 2017/979 of 2 March 2017 amending Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories with regard to the list of exempted entities (Text with EEA relevance. )"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 4302,
+      "output_tokens": 156,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 1,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

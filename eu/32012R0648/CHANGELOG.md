@@ -10,6 +10,64 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170630 -->
+## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
+### `02012R0648-20170401` → `02012R0648-20170630`
+
+- **Act** `eu:32012R0648` · **In force** 2017-06-30 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02012R0648-20170401` · `v2` = `02012R0648-20170630`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
+
+*within* `AR 1 PA 4 ALN 1 PTA (c) PTI (ii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (iii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (iv)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (v)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (vi)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (vii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (viii)` · *amended by* `32017R0979`
+
+The list of countries in Article 1(4)(c) whose central banks and public debt management bodies are excluded from the Regulation is expanded from Japan and the United States of America to also include Australia, Canada, Hong Kong, Mexico, Singapore and Switzerland. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_1)
+
+*before* (`02012R0648-20170401`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.
+> 2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+> 3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+> 4. This Regulation shall not apply to:
+> (a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+> (b) the Bank for International Settlements;
+> (c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+> (i) Japan;
+> (ii) United States of America.
+> 5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
+> (a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;
+> (b) public sector entities within the meaning of point (18) of Article 4 of Directive 20 […truncated by emendrix: 1323 characters omitted…]
+
+*after* (`02012R0648-20170630`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (OTC) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (CCPs) and trade repositories.
+> 2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+> 3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+> 4. This Regulation shall not apply to:
+> (a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+> (b) the Bank for International Settlements;
+> (c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+> (i) Japan;
+> (ii) United States of America;
+> (iii) Australia;
+> (iv) Canada;
+> (v) Hong Kong;
+> (vi) Mexico;
+> (vii) Singapore;
+> (viii) Switzerland.
+> 5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
+> (a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/ […truncated by emendrix: 1418 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20170630 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20170401 -->
 ## Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central […]
 ### `02012R0648-20170103` → `02012R0648-20170401`
