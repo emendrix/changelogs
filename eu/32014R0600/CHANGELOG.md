@@ -10,6 +10,244 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20210626 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20200704` → `02014R0600-20210626`
+
+- **Act** `eu:32014R0600` · **In force** 2021-06-26 · **Detected** 2026-08-13
+- **Touched** 8 provisions — 8 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20200704` · `v2` = `02014R0600-20210626`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
+
+*within* `AR 1 PA 4a` · *amended by* `32019R2033`
+
+A new paragraph 4a has been inserted, stating that Chapter 1 of Title VII of this Regulation also applies to third-country firms providing investment services or performing investment activities within the Union. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_1)
+
+This paragraph does not appear in the earlier version of Article 1. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_1)
+
+*before* (`02014R0600-20200704`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation establishes uniform requirements in relation to the following:
+> (a) disclosure of trade data to the public;
+> (b) reporting of transactions to the competent authorities;
+> (c) trading of derivatives on organised venues;
+> (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
+> (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
+> (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3251 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation establishes uniform requirements in relation to the following:
+> (a) disclosure of trade data to the public;
+> (b) reporting of transactions to the competent authorities;
+> (c) trading of derivatives on organised venues;
+> (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
+> (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
+> (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3417 characters omitted…]
+
+**INSERTED · Art. 17a** · applies from: unknown
+
+*amended by* `32019R2033`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 46 — General provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 46 PA 2 ALN 1 PTA (c)`, `AR 46 PA 2 ALN 1 PTA (d)`, `AR 46 PA 4 ALN 5`, `AR 46 PA 5 ALN 3`, `AR 46 PA 6a`, `AR 46 PA 6b`, `AR 46 PA 6c`, `AR 46 PA 7 ALN 1`, `AR 46 PA 7 ALN 2`, `AR 46 PA 7 ALN 3`, `AR 46 PA 8` · *dates* -2015-07-03 +2020-09-26 · *amended by* `32019R2033`
+
+A new registration condition is added requiring the firm to have arrangements to report the information set out in a new paragraph 6a, and paragraph 4's national-regime carve-out is expanded to also cover cases where a Commission decision does not cover the services or activities concerned. [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_46)
+
+New paragraphs 6a, 6b and 6c are added requiring annual reporting to ESMA on scale, exposures, turnover, investor protection, risk management and governance, record-keeping of order and transaction data for five years accessible by ESMA, and a basis for ESMA to withdraw registration or restrict activities for non-cooperation or non-compliance, while paragraph 5 also adds text on solicitation through related entities not counting as client-initiated. [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_46)
+
+Paragraph 7 now involves ESMA consulting EBA and covers information for both the registration application and the new paragraph 6a reporting, with the submission deadline changed from 3 July 2015 to 26 September 2020, and a new paragraph 8 adds implementing technical standards on the format of that information, also due by 26 September 2020. [Art. 46, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_46) [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_46)
+
+*before* (`02014R0600-20200704`)
+
+> Article 46
+> General provisions
+> 1. A third-country firm may provide investment services or perform investment activities with or without any ancillary services to eligible counterparties and to professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU established throughout the Union without the establishment of a branch where it is registered in the register of third-country firms kept by ESMA in accordance with Article 47.
+> 2. ESMA shall register a third-country firm that has applied for the provision of investment services or performance of activities throughout the Union in accordance with paragraph 1 only where the following conditions are met:
+> (a) the Commission has adopted a decision in accordance with Article 47(1);
+> (b) the firm is authorised in the jurisdiction where its head office is established to provide the investment services or activities to be provided in the Union and it is subject to effective supervision and enforcement ensuring a full compliance with the requirements applicable in that third country;
+> (c) cooperation arrangements have been established pursuant to Article 47(2).
+> 3. Where a third-country firm is registered in accordance with this Article, Member States shall not impose any additional requirements on the third-country firm in respect of matters covered by this Regulation or by Directive 2014/65/EU and shall not treat third-country firms more favourably than Union firms.
+> 4. The third-country firm referred to in para […truncated by emendrix: 3636 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 46
+> General provisions
+> 1. A third-country firm may provide investment services or perform investment activities with or without any ancillary services to eligible counterparties and to professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU established throughout the Union without the establishment of a branch where it is registered in the register of third-country firms kept by ESMA in accordance with Article 47.
+> 2. ESMA shall register a third-country firm that has applied for the provision of investment services or performance of activities throughout the Union in accordance with paragraph 1 only where the following conditions are met:
+> (a) the Commission has adopted a decision in accordance with Article 47(1);
+> (b) the firm is authorised in the jurisdiction where its head office is established to provide the investment services or activities to be provided in the Union and it is subject to effective supervision and enforcement ensuring a full compliance with the requirements applicable in that third country;
+> (c) cooperation arrangements have been established pursuant to Article 47(2);
+> (d) the firm has established the necessary arrangements and procedures to report the information set out in paragraph 6a.
+> 3. Where a third-country firm is registered in accordance with this Article, Member States shall not impose any additional requirements on the third-country firm in respect of matters covered by this Regulation or by Directive 2014/65/ […truncated by emendrix: 8075 characters omitted…]
+
+**MODIFIED · Art. 47 — Equivalence decision** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 47 PA 1 ALN 1`, `AR 47 PA 1 ALN 1 PTA (a)`, `AR 47 PA 1 ALN 1 PTA (b)`, `AR 47 PA 1 ALN 1 PTA (c)`, `AR 47 PA 1 ALN 2`, `AR 47 PA 1a`, `AR 47 PA 1b`, `AR 47 PA 2 ALN 1 PTA (a)`, `AR 47 PA 2 ALN 1 PTA (c)`, `AR 47 PA 2 ALN 1 PTA (d)`, `AR 47 PA 5`, `AR 47 PA 6` · *dates* +2019-11-27 +2019-12-05 · *amended by* `32019R2033`
+
+Article 47(1) now sets out three lettered conditions (a), (b) and (c) for the Commission's equivalence decision, replacing the earlier single-paragraph formulation, and adds references to Regulation (EU) No 575/2013, Regulation (EU) 2019/2033 and Directive (EU) 2019/2034 alongside the previously named acts, plus a new subparagraph on assessing systemic importance and supervisory convergence. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_47) [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_47)
+
+New paragraphs 1a and 1b are inserted, empowering the Commission to adopt delegated acts on systemic importance and to attach operational conditions to equivalence decisions, and restating the equivalence conditions (formerly in paragraph 1) with added or reworded points on capital, organisational and business conduct requirements. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_47)
+
+Paragraph 2 gains an additional point (d) on requests for information under Article 46(6a) and (6b) and expands point (c) on coordination of supervisory activities, while two entirely new paragraphs, 5 and 6, are added requiring ESMA monitoring and reporting and a Commission report to the European Parliament and Council, none of which appeared in the earlier text. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_47) [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_47)
+
+*before* (`02014R0600-20200704`)
+
+> Article 47
+> Equivalence decision
+> 1. The Commission may adopt a decision in accordance with the examination procedure referred to in Article 51(2) in relation to a third country stating that the legal and supervisory arrangements of that third country ensure that firms authorised in that third country comply with legally binding prudential and business conduct requirements which have equivalent effect to the requirements set out in this Regulation, in Directive 2013/36/EU and in Directive 2014/65/EU and in the implementing measures adopted under this Regulation and under those Directives and that the legal framework of that third country provides for an effective equivalent system for the recognition of investment firms authorised under third-country legal regimes.
+> The prudential and business conduct framework of a third country may be considered to have equivalent effect where that framework fulfils all the following conditions:
+> (a) firms providing investment services and activities in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+> (b) firms providing investment services and activities in that third country are subject to sufficient capital requirements and appropriate requirements applicable to shareholders and members of their management body;
+> (c) firms providing investment services and activities are subject to adequate organisational requirements in the area of internal control functions;
+> (d) firms providin […truncated by emendrix: 2740 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 47
+> Equivalence decision
+> 1. The Commission may adopt a decision in accordance with the examination procedure referred to in Article 51(2) in relation to a third country stating that the legal and supervisory arrangements of that third country ensure all of the following:
+> (a) that firms authorised in that third country comply with legally binding prudential, organisational and business conduct requirements which have equivalent effect to the requirements set out in this Regulation, in Regulation (EU) No 575/2013 and Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ 314, 5.12.2019, p. 1 )., in Directive 2013/36/EU, Directive 2014/65/EU and Directive (EU) 2019/2034 of the European Parliament and of the CouncilDirective (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ 314, 5.12.2019, p. 64)., and in the implementing measures adopted under those legislative acts;
+> (b) that firms authorised in that third country are subject to effective supervision and enforcement ensuring compliance with the applicable legally binding prudential, o […truncated by emendrix: 9602 characters omitted…]
+
+**MODIFIED · Art. 49 — Measures to be taken by ESMA** · applies from: unchanged
+
+*within* `AR 49`, `AR 49 PA 1 ALN 1`, `AR 49 PA 1 ALN 1 PTA (a)`, `AR 49 PA 1 ALN 1 PTA (b)`, `AR 49 PA 1 ALN 1 PTA (c)`, `AR 49 PA 1 ALN 1 PTA (d)`, `AR 49 PA 2 ALN 1`, `AR 49 PA 2 ALN 1 PTA (a)`, `AR 49 PA 2 ALN 1 PTA (b)`, `AR 49 PA 3 ALN 1`, `AR 49 PA 3 ALN 1 PTA (a)`, `AR 49 PA 3 ALN 1 PTA (b)`, `AR 49 PA 3 ALN 1 PTA (c)`, `AR 49 PA 3 ALN 1 PTA (d)` · *amended by* `32019R2033`
+
+The heading changes from Withdrawal of registration to Measures to be taken by ESMA, and the article gains a new first paragraph giving ESMA power to temporarily prohibit or restrict a third-country firm's provision of investment services or activities where the firm fails to comply with certain prohibitions, restrictions, requests or investigative/inspection obligations under Articles 40, 41, 42, 46 and 47(2). [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_49)
+
+The withdrawal-of-registration provision moves to paragraph 2, is now expressed as applying without prejudice to paragraph 1, and its conditions are reorganized so that the referral to the third-country competent authority and that authority's failure are stated as a standalone requirement combined with one of two listed grounds, which now also reference the annual information under Article 46(6a) and add reference to compliance with the conditions of the Article 47(1) decision. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_49)
+
+Paragraph 3 replaces the prior 30-day advance notice requirement with a duty to inform the third-country competent authority of intended action under paragraph 1 or 2 in due course, adds a list of criteria ESMA must take into account when deciding on action, and expands the duty to inform of adopted measures to include the third-country firm concerned alongside the Commission. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_49)
+
+*before* (`02014R0600-20200704`)
+
+> Article 49
+> Withdrawal of registration
+> 1. ESMA shall withdraw the registration of a third-country firm in the register established in accordance with Article 48 where:
+> (a) ESMA has well-founded reasons based on documented evidence to believe that, in the provision of investment services and activities in the Union, the third-country firm is acting in a manner which is clearly prejudicial to the interests of investors or the orderly functioning of markets; or
+> (b) ESMA has well-founded reasons based on documented evidence to believe that, in the provision of investment services and activities in the Union, the third-country firm has seriously infringed the provisions applicable to it in the third country and on the basis of which the Commission has adopted the Decision in accordance with Article 47(1);
+> (c) ESMA has referred the matter to the competent authority of the third country and that third-country competent authority has not taken the appropriate measures needed to protect investors and the proper functioning of the markets in the Union or has failed to demonstrate that the third-country firm concerned complies with the requirements applicable to it in the third country; and
+> (d) ESMA has informed the third-country competent authority of its intention to withdraw the registration of the third-country firm at least 30 days before the withdrawal.
+> 2. ESMA shall inform the Commission of any measure adopted in accordance with paragraph 1 without delay and shall publish its deci […truncated by emendrix: 211 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 49
+> Measures to be taken by ESMA
+> 1. ESMA may temporarily prohibit or restrict a third‐country firm from providing investment services or performing investment activities with or without any ancillary services in accordance with Article 46(1) where the third‐country firm has failed to comply with any prohibition or restriction imposed by ESMA or EBA in accordance with Articles 40 and 41 or by a competent authority in accordance with Article 42, has failed to comply with a request from ESMA in accordance with Article 46(6a) and (6b) in due time and a proper manner, or where the third‐country firm does not cooperate with an investigation or an on‐site inspection carried out in accordance with Article 47(2).
+> 2. Without prejudice to paragraph 1, ESMA shall withdraw the registration of a third‐country firm in the register established in accordance with Article 48 where ESMA has referred the matter to the competent authority of the third country, and that competent authority has not taken the appropriate measures needed to protect investors or the proper functioning of the markets in the Union, or has failed to demonstrate that the third‐country firm concerned complies with the requirements applicable to it in the third country or with the conditions under which a decision in accordance with Article 47(1) has been adopted, and one of the following applies:
+> (a) ESMA has well‐founded reasons, based on documented evidence, including but not limited to the annual information prov […truncated by emendrix: 1796 characters omitted…]
+
+**MODIFIED · Art. 50 — Exercise of the delegation** · applies from: unchanged
+
+*within* `AR 50 PA 2 ALN 1`, `AR 50 PA 3 ALN 1`, `AR 50 PA 5 ALN 1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Paragraphs 2, 3 and 5 add a reference to Article 47(1a) alongside the previously listed articles whose delegated-act powers are subject to this Article. [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_50)
+
+Paragraph 2 also adds the words "on the Commission" when stating that the power is conferred for an indeterminate period from 2 July 2014. [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_50)
+
+*before* (`02014R0600-20200704`)
+
+> Article 50
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10) and (12) shall be conferred for an indeterminate period of time from 2 July 2014.
+> 3. The delegation of power referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10) and (12) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10) and Article 52(10) or (12) sha […truncated by emendrix: 460 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 50
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 47(1a) and Article 52(10) and (12) shall be conferred on the Commission for an indeterminate period of time from 2 July 2014.
+> 3. The delegation of power referred to in Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 47(1a) and Article 52(10) and (12) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+> 4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 5. A delegated act adopted pursuant to Article 1(9), Article 2(2), Article 13(2), Article 15(5), Article 17(3), Article 19(2) and (3), Article 31(4), Article 40(8), Article 41(8), Article 42 […truncated by emendrix: 526 characters omitted…]
+
+**MODIFIED · Art. 52 — Reports and review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 52 PA 13` · *dates* +2020-12-31 · *amended by* `32019R2033`
+
+The revised text adds a new paragraph 13 requiring ESMA to assess the staffing and resource needs arising from taking on its powers and duties under Article 64 of Regulation (EU) 2019/2033 and to submit a report on that assessment to the European Parliament, the Council and the Commission by 31 December 2020. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_52)
+
+This paragraph 13 does not appear in the earlier version of the article, which ends at paragraph 12. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_52)
+
+*before* (`02014R0600-20200704`)
+
+> Article 52
+> Reports and review
+> 1. By 3 March 2020, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact in practice of the transparency obligations established pursuant to Articles 3 to 13, in particular on the impact of the volume cap mechanism described in Article 5, including on the cost of trading for eligible counterparties and professional clients and on trading of shares of small and mid-cap companies, and its effectiveness in ensuring that the use of the relevant waivers does not harm price formation and how any appropriate mechanism for imposing sanctions for infringements of the volume cap might operate, and on the application and continued appropriateness of the waivers to pre-trade transparency obligations established pursuant to Article 4(2) and (3) and Article 9(2) to (5).
+> 2. The report referred to in paragraph 1 shall include the impact on European equity markets of the use of the waiver under Article 4(1)(a) and (b)(i) and the volume cap mechanism under Article 5, with particular reference to:
+> (a) the level and trend of non-lit order book trading within the Union since the introduction of this Regulation;
+> (b) the impact on the pre-trade transparent quoted spreads;
+> (c) the impact on the depth of liquidity on lit order books;
+> (d) the impact on competition and on investors within the Union;
+> (e) the impact on trading of shares of small and mid-cap companies;
+> (f) developments at international level […truncated by emendrix: 5088 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 52
+> Reports and review
+> 1. By 3 March 2020, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the impact in practice of the transparency obligations established pursuant to Articles 3 to 13, in particular on the impact of the volume cap mechanism described in Article 5, including on the cost of trading for eligible counterparties and professional clients and on trading of shares of small and mid-cap companies, and its effectiveness in ensuring that the use of the relevant waivers does not harm price formation and how any appropriate mechanism for imposing sanctions for infringements of the volume cap might operate, and on the application and continued appropriateness of the waivers to pre-trade transparency obligations established pursuant to Article 4(2) and (3) and Article 9(2) to (5).
+> 2. The report referred to in paragraph 1 shall include the impact on European equity markets of the use of the waiver under Article 4(1)(a) and (b)(i) and the volume cap mechanism under Article 5, with particular reference to:
+> (a) the level and trend of non-lit order book trading within the Union since the introduction of this Regulation;
+> (b) the impact on the pre-trade transparent quoted spreads;
+> (c) the impact on the depth of liquidity on lit order books;
+> (d) the impact on competition and on investors within the Union;
+> (e) the impact on trading of shares of small and mid-cap companies;
+> (f) developments at international level […truncated by emendrix: 5381 characters omitted…]
+
+**MODIFIED · Art. 54 — Transitional provisions** · applies from: unchanged
+
+*within* `AR 54 PA 1 ALN 1` · *amended by* `32019R2033`
+
+The wording changed from stating that third-country firms shall be able to continue providing services and activities under national regimes to stating that they may continue to do so, with a comma added after 'national regimes'. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_54)
+
+A new sentence was added stating that services and activities not covered by a Commission decision under Article 47 may continue to be provided in accordance with national regime. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_54)
+
+*before* (`02014R0600-20200704`)
+
+> Article 54
+> Transitional provisions
+> 1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.
+> 2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transitional period is approved.
+> Where a CCP which has been approved for the transitional arrangements, is connecte […truncated by emendrix: 486 characters omitted…]
+
+*after* (`02014R0600-20210626`)
+
+> Article 54
+> Transitional provisions
+> 1. Third‐country firms may continue to provide services and activities in Member States, in accordance with national regimes, until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47. Services and activities not covered by such a decision may continue to be provided in accordance with national regime.
+> 2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transiti […truncated by emendrix: 593 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20210626 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20200704 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20200326` → `02014R0600-20200704`
