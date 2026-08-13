@@ -10,6 +10,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R2033-20240109 -->
+## Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential […]
+### `02019R2033-20191205` → `02019R2033-20240109`
+
+- **Act** `eu:32019R2033` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02019R2033-20191205` · `v2` = `02019R2033-20240109`
+
+---
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 46a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new Article 46a is added, requiring investment firms to submit information published under Part Six to a designated collection body so it can be made accessible on the European single access point, with specified formatting and metadata requirements. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
+
+The article also designates EBA as the collection body, mandates EBA to develop implementing technical standards on metadata, data structuring and machine-readable formats, and empowers EBA to issue guidelines ensuring the correctness of submitted metadata. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
+
+*after* (`02019R2033-20240109`)
+
+> Article 46a
+> Accessibility of information on the European single access point
+> 1. From 10 January 2030, when making public any information referred to in Part Six of this Regulation, investment firms shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the investment firm to which the information relates;
+> (ii) the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) the size of the investment firm by category, as specified pursuant to Article 7(4), point (d), of th […truncated by emendrix: 1544 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R2033-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R2033-20191205 -->
 ## Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential […]
 ### `32019R2033` → `02019R2033-20191205`
