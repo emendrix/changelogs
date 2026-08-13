@@ -1,0 +1,721 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32024R1781",
+    "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+  },
+  "from_version": "32024R1781",
+  "to_version": "02024R1781-20240628",
+  "detected_on": "2026-08-13",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 7,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 81,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 10"
+        },
+        "heading": "Requirements for the digital product passport",
+        "before": "Article 10\nRequirements for the digital product passport\n1. A digital product passport shall comply with the following essential requirements:\n(a) it shall be connected through a data carrier to a persistent unique product identifier;\n(b) the data carrier shall be physically present on the product, its packaging or on documentation accompanying the product, as specified in the applicable delegated act adopted pursuant to Article 4;\n(c) the data carrier and the unique product identifier shall comply with one or more of the standards referred to in Annex III, second paragraph, or equivalent European or international standards until the references of harmonised standards are published in the Official Journal of the European Union;\n(d) all data included in the digital product passport shall be based on open standards, developed with an interoperable format, and shall be, as appropriate, machine-readable, structured, searchable, and transferable through an open interoperable data exchange network without vender lock-in, in accordance with the essential requirements set out in this Article and Article 11;\n(e) personal data relating to customers shall not be stored in the digital product passport without their explicit consent in compliance with Article 6 of Regulation (EU) 2016/679;\n(f) the data included in the digital product passport shall refer to the product model, batch or item as specified in the delegated act adopted pursuant to Article 4;\n(g) the access to data included in the digital product passport shall be regulated in accordance with the essential requirements set out in this Article and Article 11 and with the specific access rights at product group level as specified in the applicable delegated act adopted pursuant to Article 4.\nThe Commission is empowered to adopt delegated acts in accordance with Article 72 to amend Annex III, first paragraph, point (c), and second paragraph in light of technical and scientific progress by replacing the standards or adding other European or international standards with which the data carriers, the unique operator identifiers and the unique facility identifiers are to comply for the purposes of meeting the conditions set out in this Article.\n2. Where other Union law requires or allows the inclusion of specific data in the digital product passport, those data may be included in the digital product passport pursuant to the applicable delegated act adopted pursuant to Article 4.\n3. The economic operator placing the product on the market shall:\n(a) provide dealers and providers of online marketplaces with a digital copy of the data carrier or the unique product identifier, as relevant, to allow them to make the data carrier or the unique product identifier accessible to potential customers where they cannot physically access the product;\n(b) provide the digital copy referred to in point (a) or a webpage link free of charge promptly and in any event within five working days of receiving a request to do so.\n4. The economic operator, when placing the product on the market, shall make available a back-up copy of the digital product passport through a digital product passport service provider.",
+        "after": "Article 10\nRequirements for the digital product passport\n1. A digital product passport shall comply with the following essential requirements:\n(a) it shall be connected through a data carrier to a persistent unique product identifier;\n(b) the data carrier shall be physically present on the product, its packaging or on documentation accompanying the product, as specified in the applicable delegated act adopted pursuant to Article 4;\n(c) the data carrier and the unique product identifier shall comply with one or more of the standards referred to in Annex III, second paragraph, or equivalent European or international standards until the references of harmonised standards are published in the Official Journal of the European Union;\n(d) all data included in the digital product passport shall be based on open standards, developed with an interoperable format, and shall be, as appropriate, machine-readable, structured, searchable, and transferable through an open interoperable data exchange network without vendor lock-in, in accordance with the essential requirements set out in this Article and Article 11;\n(e) personal data relating to customers shall not be stored in the digital product passport without their explicit consent in compliance with Article 6 of Regulation (EU) 2016/679;\n(f) the data included in the digital product passport shall refer to the product model, batch or item as specified in the delegated act adopted pursuant to Article 4;\n(g) the access to data included in the digital product passport shall be regulated in accordance with the essential requirements set out in this Article and Article 11 and with the specific access rights at product group level as specified in the applicable delegated act adopted pursuant to Article 4.\nThe Commission is empowered to adopt delegated acts in accordance with Article 72 to amend Annex III, first paragraph, point (c), and second paragraph in light of technical and scientific progress by replacing the standards or adding other European or international standards with which the data carriers, the unique operator identifiers and the unique facility identifiers are to comply for the purposes of meeting the conditions set out in this Article.\n2. Where other Union law requires or allows the inclusion of specific data in the digital product passport, those data may be included in the digital product passport pursuant to the applicable delegated act adopted pursuant to Article 4.\n3. The economic operator placing the product on the market shall:\n(a) provide dealers and providers of online marketplaces with a digital copy of the data carrier or the unique product identifier, as relevant, to allow them to make the data carrier or the unique product identifier accessible to potential customers where they cannot physically access the product;\n(b) provide the digital copy referred to in point (a) or a webpage link free of charge promptly and in any event within five working days of receiving a request to do so.\n4. The economic operator, when placing the product on the market, shall make available a back-up copy of the digital product passport through a digital product passport service provider.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 1 ALN 1 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change in Article 10(1)(1)(d) is a spelling correction of one word, from \"vender lock-in\" to \"vendor lock-in\", with no other wording altered.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_10",
+              "label": "Art. 10, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_10",
+              "label": "Art. 10, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 20"
+        },
+        "heading": "Member States Expert Group",
+        "before": "Article 20\nMember States Expert Group\nThe Commission shall establish a Member States Expert Group as a subgroup of the Ecodesign Forum, composed of experts designated by the Member States.\nThose experts shall contribute in particular to:\n(a) preparing ecodesign requirements;\n(b) assessing self-regulation measures;\n(c) exchanging information and best practices on measures to enhance compliance with this Regulation;\n(d) setting priorities under Article 26.",
+        "after": "Article 20\nMember States Expert Group\nThe Commission shall establish a Member States Expert Group as a subgroup of the Ecodesign Forum, composed of experts designated by the Member States.\nThose experts shall contribute in particular to:\n(a) preparing ecodesign requirements;\n(b) assessing self-regulation measures;\n(c) exchanging information and best practices on measures to enhance compliance with this Regulation;\n(d) setting priorities with regard to unsold consumer products in relation to which the introduction of a prohibition of destruction by economic operators is to be considered under Article 18(3), in particular electrical and electronic equipment when first identifying those unsold consumer products.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 20 ALN 2 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (d) of Article 20 no longer refers simply to setting priorities under Article 26, but instead describes setting priorities with regard to unsold consumer products in relation to which introducing a prohibition of destruction by economic operators is to be considered under Article 18(3), with particular mention of electrical and electronic equipment when first identifying those unsold consumer products.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 20"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_20",
+              "label": "Art. 20, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 20"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_20",
+              "label": "Art. 20, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 41"
+        },
+        "heading": "Presumption of conformity",
+        "before": "Article 41\nPresumption of conformity\n1. Tests, measurement or calculation methods referred to in Article 39 which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the requirements set out in that Article and with test, measurement and calculation requirements set out in delegated acts adopted pursuant to Article 4 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n2. Digital product passports which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the requirements set out in Articles 10 and 11 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n3. Products which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with ecodesign requirements set out in delegated acts adopted pursuant to Article 4 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n4. Products covered by a delegated act adopted pursuant to Article 4 which have been awarded the EU Ecolabel pursuant to Regulation (EC) No 66/2010 shall be presumed to comply with the ecodesign requirements set out in that delegated act to the extent that those requirements are covered by the EU Ecolabel criteria established pursuant to Article 16(2) of that Regulation.",
+        "after": "Article 41\nPresumption of conformity\n1. Tests, measurement or calculation methods referred to in Article 39 which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the requirements set out in that Article and with test, measurement and calculation requirements set out in delegated acts adopted pursuant to Article 4 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n2. Digital product passports which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the requirements set out in Articles 10 and 11 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n3. Products which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with ecodesign requirements set out in delegated acts adopted pursuant to Article 4 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n4. Products covered by a delegated act adopted pursuant to Article 4 which have been awarded the EU Ecolabel pursuant to Regulation (EC) No 66/2010 shall be presumed to comply with the ecodesign requirements set out in that delegated act to the extent that those requirements are covered by the EU Ecolabel criteria established pursuant to Article 8 of that Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 41 PA 4 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 4, the reference to the EU Ecolabel criteria establishment provision was changed from Article 16(2) of Regulation (EC) No 66/2010 to Article 8 of that Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_41",
+              "label": "Art. 41, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 41"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_41",
+              "label": "Art. 41, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 65"
+        },
+        "heading": "Green public procurement",
+        "before": "Article 65\nGreen public procurement\n1. Contracting authorities and contracting entities shall, in compliance with Directive 2014/24/EU or 2014/25/EU, award public contracts complying with the minimum requirements set out pursuant to paragraph 2 of this Article for the purchase of products covered by delegated acts adopted pursuant to Article 4, or for works or services where those products are used for activities constituting the subject matter of those contracts (minimum requirements).\n2. The minimum requirements shall be set where appropriate, in order to incentivise the supply of and demand for environmentally sustainable products covered by delegated acts adopted pursuant to Article 4, taking into account the value and volume of public contracts awarded for the relevant product groups and the economic feasibility for contracting authorities and contracting entities to buy more environmentally sustainable products without entailing disproportionate costs.\n3. The Commission is empowered to set, by means of implementing acts, the minimum requirements in the form of technical specifications, award criteria, contract performance conditions or targets.\nThe minimum requirements shall be set in relation to the product aspects addressed in the delegated act adopted pursuant to Article 4 applicable to the product groups in question, as relevant for those product groups.\nThe minimum requirements shall be based on the two highest performance classes, the highest scores or, when not available, on the best possible performance levels as set out in the delegated act adopted pursuant to Article 4 applicable to the product groups in question.\nAward criteria shall, where appropriate, have a minimum weighting of between 15 % and 30 % in the awarding process which enables them to have a significant impact on the outcome of the tendering procedure and which favours the selection of the most environmentally sustainable products.\nTargets shall require, on an annual or multiannual basis, a minimum percentage of 50 % of procurement conducted at the level of contracting authorities or contracting entities, or at an aggregated national level, of the most environmentally sustainable products as referred to in the fourth subparagraph.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(3).",
+        "after": "Article 65\nGreen public procurement\n1. Contracting authorities and contracting entities shall, in compliance with Directive 2014/24/EU or 2014/25/EU, award public contracts complying with the minimum requirements set out pursuant to paragraph 2 of this Article for the purchase of products covered by delegated acts adopted pursuant to Article 4, or for works or services where those products are used for activities constituting the subject matter of those contracts (minimum requirements).\n2. The minimum requirements shall be set where appropriate, in order to incentivise the supply of and demand for environmentally sustainable products covered by delegated acts adopted pursuant to Article 4, taking into account the value and volume of public contracts awarded for the relevant product groups and the economic feasibility for contracting authorities and contracting entities to buy more environmentally sustainable products without entailing disproportionate costs.\n3. The Commission is empowered to set, by means of implementing acts, the minimum requirements in the form of technical specifications, award criteria, contract performance conditions or targets.\nThe minimum requirements shall be set in relation to the product aspects addressed in the delegated act adopted pursuant to Article 4 applicable to the product groups in question, as relevant for those product groups.\nThe minimum requirements shall be based on the two highest performance classes, the highest scores or, when not available, on the best possible performance levels as set out in the delegated act adopted pursuant to Article 4 applicable to the product groups in question.\nAward criteria shall, where appropriate, have a minimum weighting of between 15 % and 30 % in the awarding process which enables them to have a significant impact on the outcome of the tendering procedure and which favours the selection of the most environmentally sustainable products.\nTargets shall require, on an annual or multiannual basis, a minimum percentage of 50 % of procurement conducted at the level of contracting authorities or contracting entities, or at an aggregated national level, of the most environmentally sustainable products.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(3).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 65 PA 3 ALN 5"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the fifth subparagraph describing targets, the reference to the most environmentally sustainable products \"as referred to in the fourth subparagraph\" has been removed, leaving only a general reference to the most environmentally sustainable products.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 65"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_65",
+              "label": "Art. 65, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 65"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_65",
+              "label": "Art. 65, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 69"
+        },
+        "heading": "Procedure for dealing with products presenting a risk at national level",
+        "before": "Article 69\nProcedure for dealing with products presenting a risk at national level\n1. Where the market surveillance authorities have sufficient reason to believe that a product covered by a delegated act adopted pursuant to Article 4 presents a risk, they shall carry out an evaluation covering all requirements relevant to the risk and laid down in this Regulation or in that delegated act.\nWhere, in the course of that evaluation, the market surveillance authorities find that the product does not comply with the requirements laid down in this Regulation or in the applicable delegated act adopted pursuant to Article 4, they shall without delay require the relevant economic operator to take appropriate and proportionate corrective action, within a reasonable period prescribed by the market surveillance authorities and commensurate with the nature and, where relevant, the degree of the non-compliance, to bring the non-compliance to an end. That corrective action may include, inter alia, the actions listed in Article 16(3) of Regulation (EU) 2019/1020.\nThe market surveillance authorities shall inform the relevant notified body accordingly.\n2. Where the market surveillance authorities consider that non-compliance is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the corrective action which they have required the economic operator to take.\n3. The relevant economic operator shall ensure that all appropriate corrective action is taken in respect of all the products concerned that it has made available on the market throughout the Union.\n4. Where the relevant economic operator does not take corrective action within the period referred to in paragraph 1, second subparagraph, or the non-compliance persists, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the making available of the product concerned on their national market, to withdraw it from that market or to recall it.\nThey shall inform the Commission and the other Member States, without delay, of those measures.\n5. The information to be provided to the Commission and the other Member States in accordance with paragraph 4 of this Article shall be communicated through the information and communication system referred to in Article 34 of Regulation (EU) 2019/1020 and shall include all available details, in particular the data necessary for the identification of the non-compliant product, the origin of the product, the nature of the non-compliance alleged and the non-compliance involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. The market surveillance authorities shall also indicate whether the non-compliance is due to either:\n(a) the failure of the product to meet requirements set out in the relevant delegated act adopted pursuant to Article 4 of this Regulation; or\n(b) shortcomings in the harmonised standards or common specifications referred to in Articles 41 and 42 of this Regulation conferring a presumption of conformity.\n6. Member States other than the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product concerned, and, in the event of disagreement with the notified national measure, of their objections.\n7. Where, within three months of receipt of the information referred to in paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified. That provisional measure may specify a period other than three months in order to take account of the specificities of the products or requirements concerned.\n8. Member States shall ensure that appropriate restrictive measures are taken in respect of the product concerned, such as withdrawal of the product from their market, without delay.",
+        "after": "Article 69\nProcedure for dealing with products presenting a risk at national level\n1. Where the market surveillance authorities have sufficient reason to believe that a product covered by a delegated act adopted pursuant to Article 4 presents a risk, they shall carry out an evaluation covering all requirements relevant to the risk and laid down in this Regulation or in that delegated act.\nWhere, in the course of that evaluation, the market surveillance authorities find that the product does not comply with the requirements laid down in this Regulation or in the applicable delegated act adopted pursuant to Article 4, they shall without delay require the relevant economic operator to take appropriate and proportionate corrective action, within a reasonable period prescribed by the market surveillance authorities and commensurate with the nature and, where relevant, the degree of the non-compliance, to bring the non-compliance to an end. That corrective action may include, inter alia, the actions listed in Article 16(3) of Regulation (EU) 2019/1020.\nThe market surveillance authorities shall inform the relevant notified body accordingly.\n2. Where the market surveillance authorities consider that non-compliance is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the corrective action which they have required the economic operator to take.\n3. The relevant economic operator shall ensure that all appropriate corrective action is taken in respect of all the products concerned that it has made available on the market throughout the Union.\n4. Where the relevant economic operator does not take corrective action within the period referred to in paragraph 1, second subparagraph, or the non-compliance persists, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the making available of the product concerned on their national market, to withdraw it from that market or to recall it.\nThey shall inform the Commission and the other Member States, without delay, of those measures.\n5. The information to be provided to the Commission and the other Member States in accordance with paragraph 4 of this Article shall be communicated through the information and communication system referred to in Article 34 of Regulation (EU) 2019/1020 and shall include all available details, in particular the data necessary for the identification of the non-compliant product, the origin of the product, the nature of the non-compliance alleged and the risk involved the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. The market surveillance authorities shall also indicate whether the non-compliance is due to either:\n(a) the failure of the product to meet requirements set out in the relevant delegated act adopted pursuant to Article 4 of this Regulation; or\n(b) shortcomings in the harmonised standards or common specifications referred to in Articles 41 and 42 of this Regulation conferring a presumption of conformity.\n6. Member States other than the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product concerned, and, in the event of disagreement with the notified national measure, of their objections.\n7. Where, within three months of receipt of the information referred to in paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified. That provisional measure may specify a period other than three months in order to take account of the specificities of the products or requirements concerned.\n8. Member States shall ensure that appropriate restrictive measures are taken in respect of the product concerned, such as withdrawal of the product from their market, without delay.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 69 PA 5 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 5, the phrase describing what must be included alongside the nature of the alleged non-compliance was changed from referring to \"the non-compliance involved\" to referring to \"the risk involved\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 69"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_69",
+              "label": "Art. 69, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 69"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_69",
+              "label": "Art. 69, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 77"
+        },
+        "heading": "Amendment of Directive (EU) 2020/1828",
+        "before": "Article 77\nAmendment of Directive (EU) 2020/1828\nPoint (27) of Annex I to Directive (EU) 2020/1828 is replaced by the following:\n(27) Regulation (EU) 2024/1726 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1726, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1726/oj).",
+        "after": "Article 77\nAmendment of Directive (EU) 2020/1828\nPoint (27) of Annex I to Directive (EU) 2020/1828 is replaced by the following:(27) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 77 ALN 1",
+          "AR 77 ALN 1 PO 27"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The regulation number referenced in point (27) of Annex I to Directive (EU) 2020/1828 changed from 2024/1726 to 2024/1781.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 77"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_77",
+              "label": "Art. 77, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 77"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77",
+              "label": "Art. 77, 02024R1781-20240628"
+            }
+          ]
+        },
+        {
+          "text": "The Official Journal reference and the ELI link in that same point were updated accordingly, replacing the 2024/1726 identifiers with 2024/1781 identifiers.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 77"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77",
+              "label": "Art. 77, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32024R1781",
+            "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+          },
+          "version": "02024R1781-20240628",
+          "location": "AR 78"
+        },
+        "heading": "Amendment of Regulation (EU) 2023/1542",
+        "before": "Article 78\nAmendment of Regulation (EU) 2023/1542\nIn Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1726 of the European Parliament and of the CouncilRegulation (EU) 2024/1726 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1726, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1726/oj)...",
+        "after": "Article 78\nAmendment of Regulation (EU) 2023/1542\nIn Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the CouncilRegulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 78 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2024-06-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The text changes the referenced regulation number from 2024/1726 to 2024/1781 in the citation of the registry provision, and correspondingly updates the OJ reference and ELI link to point to 2024/1781.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "32024R1781",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_78",
+              "label": "Art. 78, 32024R1781"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R1781",
+                  "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+                },
+                "version": "02024R1781-20240628",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_78",
+              "label": "Art. 78, 02024R1781-20240628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32024R1781",
+      "display_name": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)"
+    },
+    "from_version": "32024R1781",
+    "to_version": "02024R1781-20240628",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 10",
+          "AR 20",
+          "AR 41",
+          "AR 65",
+          "AR 69",
+          "AR 77",
+          "AR 78"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2024-06-28]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 7,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 27998,
+      "output_tokens": 1377,
+      "requests": 8,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 7,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 8,
+    "citations": 15,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
