@@ -10,6 +10,67 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20211110 -->
+## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
+### `02017R1129-20210318` → `02017R1129-20211110`
+
+- **Act** `eu:32017R1129` · **In force** 2021-11-10 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 56 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R1129-20210318` · `v2` = `02017R1129-20211110`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter, scope and exemptions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 1 PA 4 ALN 1 PTA (k)` · *dates* +2020-10-07 · *amended by* `32020R1503`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In Article 1(4)(1), point (k) has been replaced: the former text exempting certain non-equity securities issued by a credit institution up to an aggregated consideration threshold of EUR 150000000 between 18 March 2021 and 31 December 2022 is removed from that point and replaced by a new point (k) referring to an offer of securities to the public from a crowdfunding service provider authorised under Regulation (EU) 2020/1503, subject to the threshold in point (c) of Article 1(2) of that Regulation. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20211110#art_1)
+
+The credit-institution exemption previously located at point (k) with the same wording and dates now appears as point (l) in the amended text. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20211110#art_1)
+
+*before* (`02017R1129-20210318`)
+
+> Article 1
+> Subject matter, scope and exemptions
+> 1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.
+> 2. This Regulation shall not apply to the following types of securities:
+> (a) units issued by collective investment undertakings other than the closed-end type;
+> (b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;
+> (c) shares in the capital of central banks of the Member States;
+> (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
+> (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
+> (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14321 characters omitted…]
+
+*after* (`02017R1129-20211110`)
+
+> Article 1
+> Subject matter, scope and exemptions
+> 1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.
+> 2. This Regulation shall not apply to the following types of securities:
+> (a) units issued by collective investment undertakings other than the closed-end type;
+> (b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;
+> (c) shares in the capital of central banks of the Member States;
+> (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
+> (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
+> (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14838 characters omitted…]
+
+**MODIFIED · Art. 46** · applies from: unknown
+
+*amended by* `32020R1503`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20211110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20210318 -->
 ## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
 ### `02017R1129-20191231` → `02017R1129-20210318`
