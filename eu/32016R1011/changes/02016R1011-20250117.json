@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R1011",
+    "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+  },
+  "from_version": "02016R1011-20240109",
+  "to_version": "02016R1011-20250117",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2025-01-17"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 84,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20250117",
+          "location": "AR 6"
+        },
+        "heading": "Control framework requirements",
+        "before": "Article 6\nControl framework requirements\n1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.\n2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.\n3. The control framework shall include:\n(a) management of operational risk;\n(b) adequate and effective business continuity and disaster recovery plans;\n(c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.\n4. An administrator shall establish measures to:\n(a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;\n(b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.\n5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.",
+        "after": "Article 6\nControl framework requirements\n1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.\n2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.\n3. The control framework shall include:\n(a) management of operational risk;\n(b) adequate and effective business continuity and disaster recovery plans;\n(c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.\n4. An administrator shall establish measures to:\n(a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;\n(b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.\n5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.\n6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 6 PA 6"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2022-12-14"
+        ],
+        "in_force": "2025-01-17",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2554 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2554, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The after text adds a new paragraph 6 to Article 6, which was not present in the before version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6",
+              "label": "Art. 6, 02016R1011-20250117"
+            }
+          ]
+        },
+        {
+          "text": "This added paragraph requires an administrator of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6",
+              "label": "Art. 6, 02016R1011-20250117"
+            }
+          ]
+        },
+        {
+          "text": "No other paragraphs of Article 6 differ between the two texts.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20240109",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_6",
+              "label": "Art. 6, 02016R1011-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6",
+              "label": "Art. 6, 02016R1011-20250117"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R1011",
+            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+          },
+          "version": "02016R1011-20250117",
+          "location": "AR 63"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2554",
+            "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2024-01-09, 2025-01-17]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 063",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R1011",
+      "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+    },
+    "from_version": "02016R1011-20240109",
+    "to_version": "02016R1011-20250117",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 6"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 6"
+        ],
+        "note": "1 annotations in (2024-01-09, 2025-01-17]",
+        "claims": [
+          {
+            "location": "AR 6 PA 6",
+            "change_type": "INSERTED",
+            "in_force": "2025-01-17",
+            "source": "32022R2554 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 63"
+        ],
+        "note": "32022R2554, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 63",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 063",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2554",
+              "display_name": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 6",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 63",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 63"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3422,
+      "output_tokens": 291,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

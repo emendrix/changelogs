@@ -10,6 +10,72 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20250117 -->
+## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
+### `02016R1011-20240109` → `02016R1011-20250117`
+
+- **Act** `eu:32016R1011` · **In force** 2025-01-17 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02016R1011-20240109` · `v2` = `02016R1011-20250117`
+
+---
+
+**MODIFIED · Art. 6 — Control framework requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 6 PA 6` · *dates* +2022-12-14 · *amended by* `32022R2554`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The after text adds a new paragraph 6 to Article 6, which was not present in the before version. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
+
+This added paragraph requires an administrator of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
+
+No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
+
+*before* (`02016R1011-20240109`)
+
+> Article 6
+> Control framework requirements
+> 1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.
+> 2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.
+> 3. The control framework shall include:
+> (a) management of operational risk;
+> (b) adequate and effective business continuity and disaster recovery plans;
+> (c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.
+> 4. An administrator shall establish measures to:
+> (a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;
+> (b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.
+> 5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.
+
+*after* (`02016R1011-20250117`)
+
+> Article 6
+> Control framework requirements
+> 1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.
+> 2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.
+> 3. The control framework shall include:
+> (a) management of operational risk;
+> (b) adequate and effective business continuity and disaster recovery plans;
+> (c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.
+> 4. An administrator shall establish measures to:
+> (a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;
+> (b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.
+> 5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.
+> 6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance wi […truncated by emendrix: 371 characters omitted…]
+
+**MODIFIED · Art. 63** · applies from: unknown
+
+*amended by* `32022R2554`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20250117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20240109 -->
 ## Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in […]
 ### `02016R1011-20220101` → `02016R1011-20240109`
