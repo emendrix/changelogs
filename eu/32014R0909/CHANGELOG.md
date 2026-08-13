@@ -10,6 +10,67 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20220622 -->
+## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
+### `02014R0909-20160701` → `02014R0909-20220622`
+
+- **Act** `eu:32014R0909` · **In force** 2022-06-22 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 75 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0909-20160701` · `v2` = `02014R0909-20220622`
+
+---
+
+**MODIFIED · Art. 17** · applies from: unknown
+
+*amended by* `32022R0858`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 76 — Entry into force and application** · applies from: unchanged
+
+*within* `AR 76 PA 5 ALN 1` · *amended by* `32022R0858`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Paragraph 5's first sentence now refers to each of the settlement discipline measures in Article 7(1) to (13) applying from the date of application specified for that measure in the Commission's delegated act under Article 7(15), rather than all those measures and the amendment in Article 72 applying from the delegated act's entry into force. [Art. 76, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20160701#art_76) [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_76)
+
+The reference to the amendment laid down in Article 72 applying alongside these measures has been removed from this sentence. [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_76)
+
+*before* (`02014R0909-20160701`)
+
+> Article 76
+> Entry into force and application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. Article 3(1) shall apply from 1 January 2023 to transferable securities issued after that date and from 1 January 2025 to all transferable securities.
+> 3. Article 5(2) shall apply from 1 January 2015.
+> By way of derogation from the first subparagraph of this paragraph, in the case of a trading venue that has access to a CSD referred to in Article 30(5), Article 5(2) shall apply at least six months before such a CSD outsources its activities to the relevant public entity, and in any event from 1 January 2016.
+> 4. The settlement discipline measures referred to in Article 6(1) to (4) shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 6(5).
+> 5. The settlement discipline measures referred to in Article 7(1) to (13) and the amendment laid down in Article 72 shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 7(15).
+> An MTF that complies with the criteria laid down in Article 33(3) of Directive 2014/65/EU shall be subject to the second subparagraph of Article 7(3) of this Regulation:
+> (a) until the final determination of its application for registration under Article 33 of Directive 2014/65/EU; or
+> (b) where an MTF has not applied for registration under Article 33 of Directive 2014 […truncated by emendrix: 544 characters omitted…]
+
+*after* (`02014R0909-20220622`)
+
+> Article 76
+> Entry into force and application
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. Article 3(1) shall apply from 1 January 2023 to transferable securities issued after that date and from 1 January 2025 to all transferable securities.
+> 3. Article 5(2) shall apply from 1 January 2015.
+> By way of derogation from the first subparagraph of this paragraph, in the case of a trading venue that has access to a CSD referred to in Article 30(5), Article 5(2) shall apply at least six months before such a CSD outsources its activities to the relevant public entity, and in any event from 1 January 2016.
+> 4. The settlement discipline measures referred to in Article 6(1) to (4) shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 6(5).
+> 5. Each of the settlement discipline measures referred to in Article 7(1) to (13) shall apply from the date of application specified for each settlement discipline measure in the delegated act adopted by the Commission pursuant to Article 7(15).
+> An MTF that complies with the criteria laid down in Article 33(3) of Directive 2014/65/EU shall be subject to the second subparagraph of Article 7(3) of this Regulation:
+> (a) until the final determination of its application for registration under Article 33 of Directive 2014/65/EU; or
+> (b) where an MTF has not applied for registration under Article 33 of Dire […truncated by emendrix: 554 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0909-20220622 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20160701 -->
 ## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
 ### `32014R0909` → `02014R0909-20160701`

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0909",
+    "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+  },
+  "from_version": "02014R0909-20160701",
+  "to_version": "02014R0909-20220622",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-06-22"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 75,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20220622",
+          "location": "AR 17"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R0858",
+            "display_name": "Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2016-07-01, 2022-06-22]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 017",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0909",
+            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+          },
+          "version": "02014R0909-20220622",
+          "location": "AR 76"
+        },
+        "heading": "Entry into force and application",
+        "before": "Article 76\nEntry into force and application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. Article 3(1) shall apply from 1 January 2023 to transferable securities issued after that date and from 1 January 2025 to all transferable securities.\n3. Article 5(2) shall apply from 1 January 2015.\nBy way of derogation from the first subparagraph of this paragraph, in the case of a trading venue that has access to a CSD referred to in Article 30(5), Article 5(2) shall apply at least six months before such a CSD outsources its activities to the relevant public entity, and in any event from 1 January 2016.\n4. The settlement discipline measures referred to in Article 6(1) to (4) shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 6(5).\n5. The settlement discipline measures referred to in Article 7(1) to (13) and the amendment laid down in Article 72 shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 7(15).\nAn MTF that complies with the criteria laid down in Article 33(3) of Directive 2014/65/EU shall be subject to the second subparagraph of Article 7(3) of this Regulation:\n(a) until the final determination of its application for registration under Article 33 of Directive 2014/65/EU; or\n(b) where an MTF has not applied for registration under Article 33 of Directive 2014/65/EU, until 13 June 2018.\n6. The reporting measures referred to in Article 9(1) shall apply from the date of entry into force of the implementing act adopted by the Commission pursuant to Article 9(3).\n7. References in this Regulation to Directive 2014/65/EU and Regulation (EU) No 600/2014 shall, before 3 January 2018, be read as references to Directive 2004/39/EC in accordance with the correlation table set out in Annex IV to Directive 2014/65/EU in so far as that correlation table contains provisions referring to Directive 2004/39/EC.",
+        "after": "Article 76\nEntry into force and application\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n2. Article 3(1) shall apply from 1 January 2023 to transferable securities issued after that date and from 1 January 2025 to all transferable securities.\n3. Article 5(2) shall apply from 1 January 2015.\nBy way of derogation from the first subparagraph of this paragraph, in the case of a trading venue that has access to a CSD referred to in Article 30(5), Article 5(2) shall apply at least six months before such a CSD outsources its activities to the relevant public entity, and in any event from 1 January 2016.\n4. The settlement discipline measures referred to in Article 6(1) to (4) shall apply from the date of entry into force of the delegated act adopted by the Commission pursuant to Article 6(5).\n5. Each of the settlement discipline measures referred to in Article 7(1) to (13) shall apply from the date of application specified for each settlement discipline measure in the delegated act adopted by the Commission pursuant to Article 7(15).\nAn MTF that complies with the criteria laid down in Article 33(3) of Directive 2014/65/EU shall be subject to the second subparagraph of Article 7(3) of this Regulation:\n(a) until the final determination of its application for registration under Article 33 of Directive 2014/65/EU; or\n(b) where an MTF has not applied for registration under Article 33 of Directive 2014/65/EU, until 13 June 2018.\n6. The reporting measures referred to in Article 9(1) shall apply from the date of entry into force of the implementing act adopted by the Commission pursuant to Article 9(3).\n7. References in this Regulation to Directive 2014/65/EU and Regulation (EU) No 600/2014 shall, before 3 January 2018, be read as references to Directive 2004/39/EC in accordance with the correlation table set out in Annex IV to Directive 2014/65/EU in so far as that correlation table contains provisions referring to Directive 2004/39/EC.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 76 PA 5 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R0858",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-06-22",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R0858 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R0858, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 5's first sentence now refers to each of the settlement discipline measures in Article 7(1) to (13) applying from the date of application specified for that measure in the Commission's delegated act under Article 7(15), rather than all those measures and the amendment in Article 72 applying from the delegated act's entry into force.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20160701",
+                "location": "AR 76"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20160701#art_76",
+              "label": "Art. 76, 02014R0909-20160701"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20220622",
+                "location": "AR 76"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_76",
+              "label": "Art. 76, 02014R0909-20220622"
+            }
+          ]
+        },
+        {
+          "text": "The reference to the amendment laid down in Article 72 applying alongside these measures has been removed from this sentence.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20220622",
+                "location": "AR 76"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_76",
+              "label": "Art. 76, 02014R0909-20220622"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0909",
+      "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+    },
+    "from_version": "02014R0909-20160701",
+    "to_version": "02014R0909-20220622",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 76"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 76"
+        ],
+        "note": "1 annotations in (2016-07-01, 2022-06-22]",
+        "claims": [
+          {
+            "location": "AR 76 PA 5 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2022-06-22",
+            "source": "32022R0858 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0858",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 17"
+        ],
+        "note": "32022R0858, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 17 PA 5 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 017",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R0858",
+              "display_name": "Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 17",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 76",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 17"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3835,
+      "output_tokens": 252,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
