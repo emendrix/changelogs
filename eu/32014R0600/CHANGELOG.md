@@ -10,6 +10,19 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20251123 -->
+## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
+### `02014R0600-20250117` → `02014R0600-20251123`
+
+- **Act** `eu:32014R0600` · **In force** not stated · **Detected** 2026-08-13
+- **Touched** 0 provisions — 0 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02014R0600-20250117` · `v2` = `02014R0600-20251123`
+
+---
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20251123 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20250117 -->
 ## Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial […]
 ### `02014R0600-20241204` → `02014R0600-20250117`
