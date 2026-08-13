@@ -1,0 +1,385 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0648",
+    "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+  },
+  "from_version": "02012R0648-20140702",
+  "to_version": "02012R0648-20150625",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2015-06-25"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 96,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20150625",
+          "location": "AR 25"
+        },
+        "heading": "Recognition of a third-country CCP",
+        "before": "Article 25\nRecognition of a third-country CCP\n1. A CCP established in a third country may provide clearing services to clearing members or trading venues established in the Union only where that CCP is recognised by ESMA.\n2. ESMA, after consulting the authorities referred to in paragraph 3, may recognise a CCP established in a third country that has applied for recognition to provide certain clearing services or activities where:\n(a) the Commission has adopted an implementing act in accordance with paragraph 6;\n(b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;\n(c) cooperation arrangements have been established pursuant to paragraph 7;\n(d) the CCP is established or authorised in a third country that is considered as having equivalent systems for anti-money-laundering and combating the financing of terrorism to those of the Union in accordance with the criteria set out in the common understanding between Member States on third-country equivalence under Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financingOJ L 309, 25.11.2005, p. 15..\n3. When assessing whether the conditions referred to in paragraph 2 are met, ESMA shall consult:\n(a) the competent authority of a Member State in which the CCP provides or intends to provide clearing services and which has been selected by the CCP;\n(b) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States which make or are anticipated by the CCP to make the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;\n(c) the competent authorities responsible for the supervision of trading venues located in the Union, served or to be served by the CCP;\n(d) the competent authorities supervising CCPs established in the Union with which interoperability arrangements have been established;\n(e) the relevant members of the ESCB of the Member States in which the CCP provides or intends to provide clearing services and the relevant members of the ESCB responsible for the oversight of the CCPs with which interoperability arrangements have been established;\n(f) the central banks of issue of the most relevant Union currencies of the financial instruments cleared or to be cleared.\n4. The CCP referred to in paragraph 1 shall submit its application to ESMA.\nThe applicant CCP shall provide ESMA with all information necessary for its recognition. Within 30 working days of receipt, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant CCP has to provide additional information.\nThe recognition decision shall be based on the conditions set out in paragraph 2 and shall be independent of any assessment as the basis for the equivalence decision as referred to in Article 13(3).\nESMA shall consult the authorities and entities referred to in paragraph 3 prior to taking its decision.\nWithin 180 working days of the submission of a complete application, ESMA shall inform the applicant CCP in writing, with a fully reasoned explanation, whether the recognition has been granted or refused.\nESMA shall publish on its website a list of the CCPs recognised in accordance with this Regulation.\n5. ESMA shall, after consulting the authorities and entities referred to in paragraph 3, review the recognition of the CCP established in a third country where that CCP has extended the range of its activities and services in the Union. That review shall be conducted in accordance with paragraphs 2, 3 and 4. ESMA may withdraw the recognition of that CCP where the conditions set out in paragraph 2 are no longer met and in the same circumstances as those described in Article 20.\n6. The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011, determining that the legal and supervisory arrangements of a third country ensure that CCPs authorised in that third country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of this Regulation, that those CCPs are subject to effective supervision and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CCPs authorised under third-country legal regimes.\n7. ESMA shall establish cooperation arrangements with the relevant competent authorities of third countries whose legal and supervisory frameworks have been recognised as equivalent to this Regulation in accordance with paragraph 6. Such arrangements shall specify at least:\n(a) the mechanism for the exchange of information between ESMA and the competent authorities of the third countries concerned, including access to all information requested by ESMA regarding CCPs authorised in third countries;\n(b) the mechanism for prompt notification to ESMA where a third-country competent authority deems a CCP it is supervising to be in breach of the conditions of its authorisation or of other law to which it is subject;\n(c) the mechanism for prompt notification to ESMA by a third-country competent authority where a CCP it is supervising has been granted the right to provide clearing services to clearing members or clients established in the Union;\n(d) the procedures concerning the coordination of supervisory activities including, where appropriate, on-site inspections.\n8. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the information that the applicant CCP shall provide ESMA in its application for recognition.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 25\nRecognition of a third-country CCP\n1. A CCP established in a third country may provide clearing services to clearing members or trading venues established in the Union only where that CCP is recognised by ESMA.\n2. ESMA, after consulting the authorities referred to in paragraph 3, may recognise a CCP established in a third country that has applied for recognition to provide certain clearing services or activities where:\n(a) the Commission has adopted an implementing act in accordance with paragraph 6;\n(b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;\n(c) cooperation arrangements have been established pursuant to paragraph 7;\n(d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that poses significant threats to the financial system of the Union.\n3. When assessing whether the conditions referred to in paragraph 2 are met, ESMA shall consult:\n(a) the competent authority of a Member State in which the CCP provides or intends to provide clearing services and which has been selected by the CCP;\n(b) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States which make or are anticipated by the CCP to make the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;\n(c) the competent authorities responsible for the supervision of trading venues located in the Union, served or to be served by the CCP;\n(d) the competent authorities supervising CCPs established in the Union with which interoperability arrangements have been established;\n(e) the relevant members of the ESCB of the Member States in which the CCP provides or intends to provide clearing services and the relevant members of the ESCB responsible for the oversight of the CCPs with which interoperability arrangements have been established;\n(f) the central banks of issue of the most relevant Union currencies of the financial instruments cleared or to be cleared.\n4. The CCP referred to in paragraph 1 shall submit its application to ESMA.\nThe applicant CCP shall provide ESMA with all information necessary for its recognition. Within 30 working days of receipt, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant CCP has to provide additional information.\nThe recognition decision shall be based on the conditions set out in paragraph 2 and shall be independent of any assessment as the basis for the equivalence decision as referred to in Article 13(3).\nESMA shall consult the authorities and entities referred to in paragraph 3 prior to taking its decision.\nWithin 180 working days of the submission of a complete application, ESMA shall inform the applicant CCP in writing, with a fully reasoned explanation, whether the recognition has been granted or refused.\nESMA shall publish on its website a list of the CCPs recognised in accordance with this Regulation.\n5. ESMA shall, after consulting the authorities and entities referred to in paragraph 3, review the recognition of the CCP established in a third country where that CCP has extended the range of its activities and services in the Union. That review shall be conducted in accordance with paragraphs 2, 3 and 4. ESMA may withdraw the recognition of that CCP where the conditions set out in paragraph 2 are no longer met and in the same circumstances as those described in Article 20.\n6. The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011, determining that the legal and supervisory arrangements of a third country ensure that CCPs authorised in that third country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of this Regulation, that those CCPs are subject to effective supervision and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CCPs authorised under third-country legal regimes.\n7. ESMA shall establish cooperation arrangements with the relevant competent authorities of third countries whose legal and supervisory frameworks have been recognised as equivalent to this Regulation in accordance with paragraph 6. Such arrangements shall specify at least:\n(a) the mechanism for the exchange of information between ESMA and the competent authorities of the third countries concerned, including access to all information requested by ESMA regarding CCPs authorised in third countries;\n(b) the mechanism for prompt notification to ESMA where a third-country competent authority deems a CCP it is supervising to be in breach of the conditions of its authorisation or of other law to which it is subject;\n(c) the mechanism for prompt notification to ESMA by a third-country competent authority where a CCP it is supervising has been granted the right to provide clearing services to clearing members or clients established in the Union;\n(d) the procedures concerning the coordination of supervisory activities including, where appropriate, on-site inspections.\n8. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the information that the applicant CCP shall provide ESMA in its application for recognition.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 25 PA 2 ALN 1 PTA (d)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015L0849",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2005-10-26"
+        ],
+        "dates_added": [
+          "2015-05-20"
+        ],
+        "in_force": "2015-06-25",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015L0849 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32015L0849, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (d) of Article 25(2) changes the reference from Directive 2005/60/EC to Directive (EU) 2015/849, and reframes the condition from the third country being considered to have equivalent anti-money-laundering and counter-terrorist-financing systems to those of the Union, to the third country not being considered by the Commission to have strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that pose significant threats to the financial system of the Union.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_25",
+              "label": "Art. 25, 02012R0648-20140702"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20150625",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25",
+              "label": "Art. 25, 02012R0648-20150625"
+            }
+          ]
+        },
+        {
+          "text": "The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20150625",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25",
+              "label": "Art. 25, 02012R0648-20150625"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0648",
+            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+          },
+          "version": "02012R0648-20150625",
+          "location": "AR 63"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015L0849",
+            "display_name": "Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2014-07-02, 2015-06-25]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 063",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0648",
+      "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+    },
+    "from_version": "02012R0648-20140702",
+    "to_version": "02012R0648-20150625",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 25"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 25"
+        ],
+        "note": "1 annotations in (2014-07-02, 2015-06-25]",
+        "claims": [
+          {
+            "location": "AR 25 PA 2 PO (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2015-06-25",
+            "source": "32015L0849 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015L0849",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 63"
+        ],
+        "note": "32015L0849, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 63 PA 2 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 063",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015L0849",
+              "display_name": "Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 25",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 63",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 63"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 6444,
+      "output_tokens": 307,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
