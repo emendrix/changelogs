@@ -10,6 +10,63 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20251110 -->
+## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
+### `02014R0806-20241114` → `02014R0806-20251110`
+
+- **Act** `eu:32014R0806` · **In force** 2025-11-10 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02014R0806-20241114` · `v2` = `02014R0806-20251110`
+
+---
+
+**INSERTED · Art. 31a — Exchange of information between authorities and with other entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32025R2088`
+
+Article 31a is a new provision setting out rules for the Board to exchange information obtained from financial institutions or other authorities with those other authorities, and describing the conditions, safeguards and exceptions governing such exchanges. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
+
+It also covers memoranda of understanding to facilitate such exchanges, access to information for re-use by financial institutions, researchers and other entities for research and innovation purposes, a reporting obligation to the Commission on legal obstacles to information exchange, and definitions of the other authorities and financial institutions covered by the Article. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
+
+*after* (`02014R0806-20251110`)
+
+> Article 31a
+> Exchange of information between authorities and with other entities
+> 1. The Board shall share, on a regular or case-by-case basis, information that it obtained from financial institutions or the other authorities when carrying out its duties, and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.
+> 2. The Board shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from financial institutions, provided that the Board is entitled to obtain that information pursuant to Union law.
+> The first subparagraph shall be without prejudice to the powers of the Board to obtain the requested information from financial institutions where the other authority is unable to share the information, where urgent action is needed or where obtaining the information directly from financial institutions is necessary for the performance of the Board’s tasks pursuant to Union law.
+> 3. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.
+> The requesting authority and the Board shall be subject to the obligations of professional secrecy […truncated by emendrix: 7864 characters omitted…]
+
+**MODIFIED · Art. 88 — Professional secrecy and exchange of information** · applies from: unchanged
+
+*within* `AR 88 PA 7` · *amended by* `32025R2088`
+
+A new paragraph 7 has been added stating that the Article does not prevent the Board from exchanging information with other authorities as defined in Article 31a(12). [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_88)
+
+This paragraph does not appear in the earlier version of the Article, which ended at paragraph 6. [Art. 88, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_88)
+
+*before* (`02014R0806-20241114`)
+
+> Article 88
+> Professional secrecy and exchange of information
+> 1. Members of the Board, the Vice-Chair, the members of the Board referred to in Article 43(1)(b), the staff of the Board and staff exchanged with or seconded by participating Member States carrying out resolution duties shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased. They shall in particular be prohibited from disclosing confidential information received during the course of their professional activities or from a competent authority or resolution authority in connection with their functions under this Regulation, to any person or authority, unless it is in the exercise of their functions under this Regulation or in summary or collective form such that entities referred to in Article 2 cannot be identified or with the express and prior consent of the authority or the entity which provided the information.
+> Information subject to the requirements of professional secrecy shall not be disclosed to another public or private entity except where such disclosure is due for the purpose of legal proceedings.
+> Those requirements shall also apply to potential purchasers contacted in order to prepare for the resolution of an entity pursuant to Article 13(3).
+> 2. The Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the discharge […truncated by emendrix: 2107 characters omitted…]
+
+*after* (`02014R0806-20251110`)
+
+> Article 88
+> Professional secrecy and exchange of information
+> 1. Members of the Board, the Vice-Chair, the members of the Board referred to in Article 43(1)(b), the staff of the Board and staff exchanged with or seconded by participating Member States carrying out resolution duties shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased. They shall in particular be prohibited from disclosing confidential information received during the course of their professional activities or from a competent authority or resolution authority in connection with their functions under this Regulation, to any person or authority, unless it is in the exercise of their functions under this Regulation or in summary or collective form such that entities referred to in Article 2 cannot be identified or with the express and prior consent of the authority or the entity which provided the information.
+> Information subject to the requirements of professional secrecy shall not be disclosed to another public or private entity except where such disclosure is due for the purpose of legal proceedings.
+> Those requirements shall also apply to potential purchasers contacted in order to prepare for the resolution of an entity pursuant to Article 13(3).
+> 2. The Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the discharge […truncated by emendrix: 2233 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20251110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20241114 -->
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `02014R0806-20240513` → `02014R0806-20241114`
