@@ -10,6 +10,240 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20220708 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20220410` → `02013R0575-20220708`
+
+- **Act** `eu:32013R0575` · **In force** 2022-07-08 · **Detected** 2026-08-13
+- **Touched** 7 provisions — 7 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 721 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20220410` · `v2` = `02013R0575-20220708`
+
+---
+
+**MODIFIED · Art. 129 — Exposures in the form of covered bonds** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 129 PA 1 ALN 1`, `AR 129 PA 1 ALN 1 PTA (c)`, `AR 129 PA 1 ALN 1 PTA (c) PTI (i)`, `AR 129 PA 1 ALN 1 PTA (c) PTI (ii)`, `AR 129 PA 1 ALN 1 PTA (d)`, `AR 129 PA 1 ALN 1 PTA (d) PTI (i)`, `AR 129 PA 1 ALN 1 PTA (d) PTI (ii)`, `AR 129 PA 1 ALN 1 PTA (f)`, `AR 129 PA 1 ALN 1 PTA (f) PTI (i)`, `AR 129 PA 1 ALN 1 PTA (f) PTI (ii)`, `AR 129 PA 1 ALN 2`, `AR 129 PA 1a`, `AR 129 PA 1b`, `AR 129 PA 1c`, `AR 129 PA 1d`, `AR 129 PA 3 ALN 1`, `AR 129 PA 3a`, `AR 129 PA 3b`, `AR 129 PA 6 ALN 1`, `AR 129 PA 7 ALN 1`, `AR 129 PA 7 ALN 1 PTA (a)`, `AR 129 PA 7 ALN 1 PTA (b)` · *dates* +2019-11-27 +2019-12-18 +2022-07-08 · *amended by* `32019R2160`
+
+The definition of covered bonds now refers to point (1) of Article 3 of Directive (EU) 2019/2162 instead of Article 52(4) of Directive 2009/65/EC, and the collateralisation requirements are tied to paragraphs 3, 3a and 3b rather than paragraph 7. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129) [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129)
+
+Point (c) on exposures to institutions is restructured to cover credit institutions across credit quality steps 1 to 3, with specific conditions for short-term deposits and derivative contracts, and the numeric exposure limits previously in point (c) are moved into new paragraph 1a together with a new exclusion for eligible collateral in paragraph 1b; points (d) and (f) drop their former subpoints on senior units issued by French Fonds Communs de Titrisation, and new paragraphs 1c and 1d add loan-by-loan application rules for the 80% and 60%/70% limits. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129) [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129)
+
+Paragraph 3 now addresses immovable property and ships together with an added annual monitoring requirement, new paragraphs 3a and 3b introduce overcollateralisation and substitution-asset rules, and paragraphs 6 and 7 are rewritten so that the grandfathering for bonds issued before 31 December 2007 references the new paragraphs 1a, 3a and 3b while a new exemption is added for covered bonds issued before 8 July 2022. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129) [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129)
+
+*before* (`02013R0575-20220410`)
+
+> Article 129
+> Exposures in the form of covered bonds
+> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5, bonds as referred to in Article 52(4) of Directive 2009/65/EC (covered bonds) shall meet the requirements set out in paragraph 7 and shall be collateralised by any of the following eligible assets:
+> (a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;
+> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify as a minimum for the credit quality step 2 as set out in this Chapter, provided that they do not exceed 20 % of the nominal amount of outstanding covered bonds of the issuing institutions;
+> (c) exposures to institutions that qualify for the credit quality step 1 as set out in this Chapter. The total exposure of this kind shall […truncated by emendrix: 7813 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> Article 129
+> Exposures in the form of covered bonds
+> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the CouncilDirective (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:
+> (a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;
+> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify […truncated by emendrix: 10515 characters omitted…]
+
+**MODIFIED · Art. 416 — Reporting on liquid assets** · applies from: unchanged
+
+*within* `AR 416 PA 2 ALN 1 PTA (a) PTI (ii)` · *amended by* `32019R2160`
+
+In point (ii) of Article 416(2)(1)(a), the reference to bonds referred to in Article 52(4) of Directive 2009/65/EC has been replaced with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162. [Art. 416, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_416) [Art. 416, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_416)
+
+*before* (`02013R0575-20220410`)
+
+> Article 416
+> Reporting on liquid assets
+> 1. Institutions shall report the following as liquid assets unless excluded by paragraph 2 and only if the liquid assets fulfil the conditions in paragraph 3:
+> (a) cash and exposures to central banks to the extent that these exposures can be withdrawn at any time in times of stress. As regards deposits held with central banks, the competent authority and the central bank shall aim at reaching a common understanding regarding the extent to which minimum reserves can be withdrawn in times of stress;
+> (b) other transferable assets that are of extremely high liquidity and credit quality;
+> (c) transferable assets representing claims on or guaranteed by:
+> (i) the central government of a Member State, a region with fiscal autonomy to raise and collect taxes, or of a third country in the domestic currency of the central or regional government, if the institution incurs a liquidity risk in that Member State or third country that it covers by holding those liquid assets;
+> (ii) central banks and non-central government public sector entities in the domestic currency of the central bank and the public sector entity;
+> (iii) the Bank for International Settlements, the International Monetary Fund, the Commission and multilateral development banks;
+> (iv) the European Financial Stability Facility and the European Stability Mechanism;
+> (d) transferable assets that are of high liquidity and credit quality;
+> (e) standby credit facilities granted by central banks with […truncated by emendrix: 7192 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> Article 416
+> Reporting on liquid assets
+> 1. Institutions shall report the following as liquid assets unless excluded by paragraph 2 and only if the liquid assets fulfil the conditions in paragraph 3:
+> (a) cash and exposures to central banks to the extent that these exposures can be withdrawn at any time in times of stress. As regards deposits held with central banks, the competent authority and the central bank shall aim at reaching a common understanding regarding the extent to which minimum reserves can be withdrawn in times of stress;
+> (b) other transferable assets that are of extremely high liquidity and credit quality;
+> (c) transferable assets representing claims on or guaranteed by:
+> (i) the central government of a Member State, a region with fiscal autonomy to raise and collect taxes, or of a third country in the domestic currency of the central or regional government, if the institution incurs a liquidity risk in that Member State or third country that it covers by holding those liquid assets;
+> (ii) central banks and non-central government public sector entities in the domestic currency of the central bank and the public sector entity;
+> (iii) the Bank for International Settlements, the International Monetary Fund, the Commission and multilateral development banks;
+> (iv) the European Financial Stability Facility and the European Stability Mechanism;
+> (d) transferable assets that are of high liquidity and credit quality;
+> (e) standby credit facilities granted by central banks with […truncated by emendrix: 7206 characters omitted…]
+
+**MODIFIED · Art. 425 — Inflows** · applies from: unchanged
+
+*within* `AR 425 PA 1 ALN 1` · *amended by* `32019R2160`
+
+Paragraph 1 replaces the reference to bonds under Article 52(4) of Directive 2009/65/EC with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162. [Art. 425, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425)
+
+The exemption for inflows from a liquidity provider now also names a parent or subsidiary investment firm of the institution, and it replaces the reference to a relationship within the meaning of Article 12(1) of Directive 83/349/EEC with a reference to Article 22(7) of Directive 2013/34/EU. [Art. 425, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_425) [Art. 425, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425)
+
+Wording describing the 75% limit was also rephrased from describing capped liquidity inflows as limited to that percentage to stating that liquidity inflows shall be capped at that percentage. [Art. 425, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_425) [Art. 425, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425)
+
+*before* (`02013R0575-20220410`)
+
+> Article 425
+> Inflows
+> 1. Institutions shall report their liquidity inflows. Capped liquidity inflows shall be the liquidity inflows limited to 75 % of liquidity outflows. Institutions may exempt liquidity inflows from deposits placed with other institutions and qualifying for the treatments set out in Article 113(6) or (7) from this limit. Institutions may exempt liquidity inflows from monies due from borrowers and bond investors related to mortgage lending funded by bonds eligible for the treatment set out in Article 129(4), (5) or (6) or by bonds as referred to in Article 52(4) of Directive 2009/65/EC from this limit. Institutions may exempt inflows from promotional loans that the institutions have passed through. Subject to the prior approval of the competent authority responsible for supervision on an individual basis, the institution may fully or partially exempt inflows where the provider is a parent or a subsidiary institution of the institution or another subsidiary of the same parent institution or linked to the institution by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC.
+> 2. The liquidity inflows shall be measured over the next 30 days. They shall comprise only contractual inflows from exposures that are not past due and for which the institution has no reason to expect non-performance within the 30-day time horizon. Liquidity inflows shall be reported in full with the following inflows reported separately:
+> (a) monies due from customers th […truncated by emendrix: 4867 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> Article 425
+> Inflows
+> 1. Institutions shall report their liquidity inflows. Liquidity inflows shall be capped at 75 % of liquidity outflows. Institutions may exempt liquidity inflows from deposits placed with other institutions that qualify for the treatment set out in Article 113(6) or (7) of this Regulation from that cap.
+> Institutions may exempt liquidity inflows from monies due from borrowers and bond investors where those inflows are related to mortgage lending funded by bonds eligible for the treatment set out in Article 129(4), (5) or (6) of this Regulation or by covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 from that cap. Institutions may exempt inflows from promotional loans that the institutions have passed through. Subject to the prior approval of the competent authority responsible for supervision on an individual basis, the institution may fully or partially exempt inflows where the liquidity provider is a parent or subsidiary institution of the institution, a parent or subsidiary investment firm of the institution or another subsidiary of the same parent institution or parent investment firm or is related to the institution as set out in Article 22(7) of Directive 2013/34/EU.
+> 2. The liquidity inflows shall be measured over the next 30 days. They shall comprise only contractual inflows from exposures that are not past due and for which the institution has no reason to expect non-performance within the 30-day time horizon. Liquidity i […truncated by emendrix: 4980 characters omitted…]
+
+**MODIFIED · Art. 427 — Items providing stable funding** · applies from: unchanged
+
+*within* `AR 427 PA 1 ALN 1 PTA (b) PTI (x)` · *amended by* `32019R2160`
+
+Point (x) of Article 427(1)(1)(b) no longer refers to securities qualifying under Article 129(4) or (5) as read together with Article 52(4) of Directive 2009/65/EC, and instead refers to securities qualifying under Article 129(4) or (5) of the Regulation itself or to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162. [Art. 427, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_427)
+
+The prior cross-reference to Directive 2009/65/EC has been removed and replaced with a cross-reference to a different directive concerning covered bonds. [Art. 427, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_427) [Art. 427, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_427)
+
+*before* (`02013R0575-20220410`)
+
+> Article 427
+> Items providing stable funding
+> 1. Institutions shall report to the competent authorities, in accordance with the reporting requirements set out in Article 415(1) and the uniform reporting formats referred to in Article 415(3), the following items and their components in order to allow an assessment of the availability of stable funding:
+> (a) the following own funds, after deductions have been applied, where appropriate:
+> (i) tier 1 capital instruments;
+> (ii) tier 2 capital instruments;
+> (iii) other preferred shares and capital instruments in excess of Tier 2 allowable amount having an effective maturity of one year or greater;
+> (b) the following liabilities not included in point (a):
+> (i) retail deposits that qualify for the treatment set out in Article 421(1);
+> (ii) retail deposits that qualify for the treatment set out in Article 421(2);
+> (iii) deposits that qualify for the treatment set out in Article 422 (3) and (4);
+> (iv) of the deposits referred to in point (iii), those that are subject to a deposit guarantee scheme in accordance with Directive 94/19/EC or an equivalent deposit guarantee scheme in a third country deposit guarantees within the terms of Article 421(1);
+> (v) of the deposits referred to in point (iii), those that fall under point (b) of Article 422(3);
+> (vi) of the deposits referred to in point (iii), those that fall under point (d) of Article 422(3);
+> (vii) amounts deposited not falling under point (i), (ii) or (iii) if they are not deposited by financial […truncated by emendrix: 1214 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> Article 427
+> Items providing stable funding
+> 1. Institutions shall report to the competent authorities, in accordance with the reporting requirements set out in Article 415(1) and the uniform reporting formats referred to in Article 415(3), the following items and their components in order to allow an assessment of the availability of stable funding:
+> (a) the following own funds, after deductions have been applied, where appropriate:
+> (i) tier 1 capital instruments;
+> (ii) tier 2 capital instruments;
+> (iii) other preferred shares and capital instruments in excess of Tier 2 allowable amount having an effective maturity of one year or greater;
+> (b) the following liabilities not included in point (a):
+> (i) retail deposits that qualify for the treatment set out in Article 421(1);
+> (ii) retail deposits that qualify for the treatment set out in Article 421(2);
+> (iii) deposits that qualify for the treatment set out in Article 422 (3) and (4);
+> (iv) of the deposits referred to in point (iii), those that are subject to a deposit guarantee scheme in accordance with Directive 94/19/EC or an equivalent deposit guarantee scheme in a third country deposit guarantees within the terms of Article 421(1);
+> (v) of the deposits referred to in point (iii), those that fall under point (b) of Article 422(3);
+> (vi) of the deposits referred to in point (iii), those that fall under point (d) of Article 422(3);
+> (vii) amounts deposited not falling under point (i), (ii) or (iii) if they are not deposited by financial […truncated by emendrix: 1263 characters omitted…]
+
+**MODIFIED · Art. 428 — Items requiring stable funding** · applies from: unchanged
+
+*within* `AR 428 PA 1 ALN 1 PTA (h) PTI (iii)` · *amended by* `32019R2160`
+
+Point (h)(iii) now specifies that the eligible bonds under Article 129(4) or (5) belong to this Regulation, and it replaces the earlier reference to bonds under Article 52(4) of Directive 2009/65/EC with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162. [Art. 428, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_428) [Art. 428, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_428)
+
+*before* (`02013R0575-20220410`)
+
+> Article 428
+> Items requiring stable funding
+> 1. Unless deducted from own funds, the following items shall be reported to competent authorities separately in order to allow an assessment of the needs for stable funding:
+> (a) the assets that would qualify as liquid assets in accordance with Article 416, broken down by asset type;
+> (b) the following securities and money market instruments not included in point (a):
+> (i) assets qualifying for credit step 1 under Article 122;
+> (ii) assets qualifying for credit step 2 under Article 122;
+> (iii) other assets;
+> (c) equity securities of non-financial entities listed on a major index in a recognised exchange;
+> (d) other equity securities;
+> (e) gold;
+> (f) other precious metals;
+> (g) non-renewable loans and receivables, and separately those non-renewable loans and receivables for which borrowers are:
+> (i) natural persons other than commercial sole proprietors and partnerships;
+> (ii) SMEs that qualify for the retail exposure class under the Standardised or IRB approaches for credit risk or to a company which is eligible for the treatment set out in Article 153(4) and where the aggregate deposit placed by that client or group of connected clients is less than EUR 1 million;
+> (iii) sovereigns, central banks and public sector entities;
+> (iv) clients not referred to in points (i) and (ii) other than financial customers;
+> (v) clients not referred to in points (i), (ii) and (iii) that are financial customers, and thereof separately those that are credit institut […truncated by emendrix: 676 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> Article 428
+> Items requiring stable funding
+> 1. Unless deducted from own funds, the following items shall be reported to competent authorities separately in order to allow an assessment of the needs for stable funding:
+> (a) the assets that would qualify as liquid assets in accordance with Article 416, broken down by asset type;
+> (b) the following securities and money market instruments not included in point (a):
+> (i) assets qualifying for credit step 1 under Article 122;
+> (ii) assets qualifying for credit step 2 under Article 122;
+> (iii) other assets;
+> (c) equity securities of non-financial entities listed on a major index in a recognised exchange;
+> (d) other equity securities;
+> (e) gold;
+> (f) other precious metals;
+> (g) non-renewable loans and receivables, and separately those non-renewable loans and receivables for which borrowers are:
+> (i) natural persons other than commercial sole proprietors and partnerships;
+> (ii) SMEs that qualify for the retail exposure class under the Standardised or IRB approaches for credit risk or to a company which is eligible for the treatment set out in Article 153(4) and where the aggregate deposit placed by that client or group of connected clients is less than EUR 1 million;
+> (iii) sovereigns, central banks and public sector entities;
+> (iv) clients not referred to in points (i) and (ii) other than financial customers;
+> (v) clients not referred to in points (i), (ii) and (iii) that are financial customers, and thereof separately those that are credit institut […truncated by emendrix: 712 characters omitted…]
+
+**MODIFIED · Art. 496** · applies from: unknown
+
+*amended by* `32019R2160`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III PO 6 PTA (c)` · *amended by* `32019R2160`
+
+Point 6(c) of Annex III no longer refers to bonds as described in Article 52(4) of Directive 2009/65/EC, and instead refers to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#anx_III)
+
+*before* (`02013R0575-20220410`)
+
+> ANNEX III
+> Items subject to supplementary reporting of liquid assets
+> 1. Cash.
+> 2. Central bank exposures, to the extent that these exposures can be drawn down in times of stress.
+> 3. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, the Bank for International Settlements, the International Monetary Fund, the European Union, the European Financial Stability Facility, the European Stability Mechanism or multilateral development banks and satisfying all of the following conditions:
+> (a) they are assigned a 0 % risk-weight under Chapter 2, Title II of Part Three;
+> (b) they are not an obligation of an institution or investment firm or any of its affiliated entities.
+> 4. Transferable securities other than those referred to in point 3 representing claims on or claims guaranteed by sovereigns or central banks issued in domestic currencies by the sovereign or central bank in the currency and country in which the liquidity risk is being taken or issued in foreign currencies, to the extent that holding of such debt matches the liquidity needs of the bank's operations in that third country.
+> 5. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, or multil […truncated by emendrix: 2952 characters omitted…]
+
+*after* (`02013R0575-20220708`)
+
+> ANNEX III
+> Items subject to supplementary reporting of liquid assets
+> 1. Cash.
+> 2. Central bank exposures, to the extent that these exposures can be drawn down in times of stress.
+> 3. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, the Bank for International Settlements, the International Monetary Fund, the European Union, the European Financial Stability Facility, the European Stability Mechanism or multilateral development banks and satisfying all of the following conditions:
+> (a) they are assigned a 0 % risk-weight under Chapter 2, Title II of Part Three;
+> (b) they are not an obligation of an institution or investment firm or any of its affiliated entities.
+> 4. Transferable securities other than those referred to in point 3 representing claims on or claims guaranteed by sovereigns or central banks issued in domestic currencies by the sovereign or central bank in the currency and country in which the liquidity risk is being taken or issued in foreign currencies, to the extent that holding of such debt matches the liquidity needs of the bank's operations in that third country.
+> 5. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, or multil […truncated by emendrix: 2969 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20220708 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20220410 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20210930` → `02013R0575-20220410`

@@ -1,0 +1,1383 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20220410",
+  "to_version": "02013R0575-20220708",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-07-08"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 7,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 721,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 129"
+        },
+        "heading": "Exposures in the form of covered bonds",
+        "before": "Article 129\nExposures in the form of covered bonds\n1. To be eligible for the preferential treatment set out in paragraphs 4 and 5, bonds as referred to in Article 52(4) of Directive 2009/65/EC (covered bonds) shall meet the requirements set out in paragraph 7 and shall be collateralised by any of the following eligible assets:\n(a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;\n(b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify as a minimum for the credit quality step 2 as set out in this Chapter, provided that they do not exceed 20 % of the nominal amount of outstanding covered bonds of the issuing institutions;\n(c) exposures to institutions that qualify for the credit quality step 1 as set out in this Chapter. The total exposure of this kind shall not exceed 15 % of the nominal amount of outstanding covered bonds of the issuing institution. Exposures to institutions in the Union with a maturity not exceeding 100 days shall not be comprised by the step 1 requirement but those institutions shall as a minimum qualify for credit quality step 2 as set out in this Chapter;\n(d) loans secured by:\n(i) residential property up to the lesser of the principal amount of the liens that are combined with any prior liens and 80 % of the value of the pledged properties; or\n(ii) senior units issued by French Fonds Communs de Titrisation or equivalent securitisation entities governed by the laws of a Member State securitising residential property exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of residential mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 80 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Chapter and that such units do not exceed 10 % of the nominal amount of the outstanding issue.\n(e) residential loans fully guaranteed by an eligible protection provider referred to in Article 201 qualifying for the credit quality step 2 or above as set out in this Chapter, where the portion of each of the loans that is used to meet the requirement set out in this paragraph for collateralisation of the covered bond does not represent more than 80 % of the value of the corresponding residential property located in France, and where a loan-to-income ratio respects at most 33 % when the loan has been granted. There shall be no mortgage liens on the residential property when the loan is granted, and for the loans granted from 1 January 2014 the borrower shall be contractually committed not to grant such liens without the consent of the credit institution that granted the loan. The loan-to-income ratio represents the share of the gross income of the borrower that covers the reimbursement of the loan, including the interests. The protection provider shall be either a financial institution authorised and supervised by the competent authorities and subject to prudential requirements comparable to those applied to institutions in terms of robustness or an institution or an insurance undertaking. It shall establish a mutual guarantee fund or equivalent protection for insurance undertakings to absorb credit risk losses, whose calibration shall be periodically reviewed by the competent authorities. Both the credit institution and the protection provider shall carry out a creditworthiness assessment of the borrower;\n(f) loans secured by:\n(i) commercial immovable property up to the lesser of the principal amount of the liens that are combined with any prior liens and 60 % of the value of the pledged properties; or\n(ii) senior units issued by French Fonds Communs de Titrisation or equivalent securitisation entities governed by the laws of a Member State securitising commercial immovable property exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of commercial mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 60 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Chapter and that such units do not exceed 10 % of the nominal amount of the outstanding issue.\nLoans secured by commercial immovable property are eligible where the loan to value ratio of 60 % is exceeded up to a maximum level of 70 % if the value of the total assets pledged as collateral for the covered bonds exceed the nominal amount outstanding on the covered bond by at least 10 %, and the bondholders' claim meets the legal certainty requirements set out in Chapter 4. The bondholders' claim shall take priority over all other claims on the collateral;\n(g) loans secured by maritime liens on ships up to the difference between 60 % of the value of the pledged ship and the value of any prior maritime liens.\nFor the purposes of points (c), (d)(ii) and (f)(ii) of the first subparagraph, exposures caused by transmission and management of payments of the obligors of, or liquidation proceeds in respect of, loans secured by pledged properties of the senior units or debt securities shall not be comprised in calculating the limits referred to in those points.\nThe competent authorities may, after consulting EBA, partly waive the application of point (c) of the first subparagraph and allow credit quality step 2 for up to 10 % of the total exposure of the nominal amount of outstanding covered bonds of the issuing institution, provided that significant potential concentration problems in the Member States concerned can be documented due to the application of the credit quality step 1 requirement referred to in that point.\n2. The situations referred to in points (a) to (f) of paragraph 1 shall also include collateral that is exclusively restricted by legislation to the protection of the bond-holders against losses.\n3. Institutions shall for immovable property collateralising covered bonds meet the requirements set out in Article 208 and the valuation rules set out in Article 229(1).\n4. Covered bonds for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 6a which corresponds to the credit assessment of the ECAI in accordance with Article 136.\nTable 6a\nCredit quality step 1 2 3 4 5 6\nRisk weight 10 % 20 % 20 % 50 % 50 % 100 %\n5. Covered bonds for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight on the basis of the risk weight assigned to senior unsecured exposures to the institution which issues them. The following correspondence between risk weights shall apply:\n(a) if the exposures to the institution are assigned a risk weight of 20 %, the covered bond shall be assigned a risk weight of 10 %;\n(b) if the exposures to the institution are assigned a risk weight of 50 %, the covered bond shall be assigned a risk weight of 20 %;\n(c) if the exposures to the institution are assigned a risk weight of 100 %, the covered bond shall be assigned a risk weight of 50 %;\n(d) if the exposures to the institution are assigned a risk weight of 150 %, the covered bond shall be assigned a risk weight of 100 %.\n6. Covered bonds issued before 31 December 2007 are not subject to the requirements of paragraphs 1 and 3. They are eligible for the preferential treatment under paragraphs 4 and 5 until their maturity.\n7. Exposures in the form of covered bonds are eligible for preferential treatment, provided that the institution investing in the covered bonds can demonstrate to the competent authorities that:\n(a) it receives portfolio information at least on:\n(i) the value of the cover pool and outstanding covered bonds;\n(ii) the geographical distribution and type of cover assets, loan size, interest rate and currency risks;\n(iii) the maturity structure of cover assets and covered bonds; and\n(iv) the percentage of loans more than 90 days past due;\n(b) the issuer makes the information referred to in point (a) available to the institution at least semi-annually.",
+        "after": "Article 129\nExposures in the form of covered bonds\n1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the CouncilDirective (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:\n(a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;\n(b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify as a minimum for the credit quality step 2 as set out in this Chapter, provided that they do not exceed 20 % of the nominal amount of outstanding covered bonds of the issuing institutions;\n(c) exposures to credit institutions that qualify for credit quality step 1 or credit quality step 2, or exposures to credit institutions that qualify for credit quality step 3 where those exposures are in the form of:\n(i) short‐term deposits with an original maturity not exceeding 100 days, where used to meet the cover pool liquidity buffer requirement of Article 16 of Directive (EU) 2019/2162; or\n(ii) derivative contracts that meet the requirements of Article 11(1) of that Directive, where permitted by the competent authorities;\n(d) loans secured by residential property up to the lesser of the principal amount of the liens that are combined with any prior liens and 80 % of the value of the pledged properties;\n(e) residential loans fully guaranteed by an eligible protection provider referred to in Article 201 qualifying for the credit quality step 2 or above as set out in this Chapter, where the portion of each of the loans that is used to meet the requirement set out in this paragraph for collateralisation of the covered bond does not represent more than 80 % of the value of the corresponding residential property located in France, and where a loan-to-income ratio respects at most 33 % when the loan has been granted. There shall be no mortgage liens on the residential property when the loan is granted, and for the loans granted from 1 January 2014 the borrower shall be contractually committed not to grant such liens without the consent of the credit institution that granted the loan. The loan-to-income ratio represents the share of the gross income of the borrower that covers the reimbursement of the loan, including the interests. The protection provider shall be either a financial institution authorised and supervised by the competent authorities and subject to prudential requirements comparable to those applied to institutions in terms of robustness or an institution or an insurance undertaking. It shall establish a mutual guarantee fund or equivalent protection for insurance undertakings to absorb credit risk losses, whose calibration shall be periodically reviewed by the competent authorities. Both the credit institution and the protection provider shall carry out a creditworthiness assessment of the borrower;\n(f) loans secured by commercial immovable property up to the lesser of the principal amount of the liens that are combined with any prior liens and 60 % of the value of the pledged properties. Loans secured by commercial immovable property are eligible where the loan‐to‐value ratio of 60 % is exceeded up to a maximum level of 70 % if the value of the total assets pledged as collateral for the covered bonds exceed the nominal amount outstanding on the covered bond by at least 10 %, and the bondholders’ claim meets the legal certainty requirements set out in Chapter 4. The bondholders’ claim shall take priority over all other claims on the collateral;\n(g) loans secured by maritime liens on ships up to the difference between 60 % of the value of the pledged ship and the value of any prior maritime liens.\nFor the purposes of paragraph 1a, exposures caused by the transmission and management of the payments of the obligors of loans secured by pledged properties of debt securities or by the transmission and management of liquidation proceeds in respect of such loans shall not be comprised in calculating the limits referred to in that paragraph.\nThe competent authorities may, after consulting EBA, partly waive the application of point (c) of the first subparagraph and allow credit quality step 2 for up to 10 % of the total exposure of the nominal amount of outstanding covered bonds of the issuing institution, provided that significant potential concentration problems in the Member States concerned can be documented due to the application of the credit quality step 1 requirement referred to in that point.\n1a. For the purposes of point (c) of the first subparagraph of paragraph 1, the following shall apply:\n(a) for exposures to credit institutions that qualify for credit quality step 1, the exposure shall not exceed 15 % of the nominal amount of outstanding covered bonds of the issuing credit institution;\n(b) for exposures to credit institutions that qualify for credit quality step 2, the exposure shall not exceed 10 % of the nominal amount of outstanding covered bonds of the issuing credit institution;\n(c) for exposures to credit institutions that qualify for credit quality step 3 that take the form of short‐term deposits, as referred to in point (c)(i) of the first subparagraph of paragraph 1 of this Article, or the form of derivative contracts, as referred to in point (c)(ii) of the first subparagraph of paragraph 1 of this Article, the total exposure shall not exceed 8 % of the nominal amount of outstanding covered bonds of the issuing credit institution; the competent authorities designated pursuant to Article 18(2) of Directive (EU) 2019/2162 may, after consulting EBA, allow exposures to credit institutions that qualify for credit quality step 3 in the form of derivative contracts, provided that significant potential concentration problems in the Member States concerned due to the application of credit quality step 1 and 2 requirements referred to in this paragraph can be documented;\n(d) the total exposure to credit institutions that qualify for credit quality step 1, 2 or 3 shall not exceed 15 % of the nominal amount of outstanding covered bonds of the issuing credit institution and the total exposure to credit institutions that qualify for credit quality step 2 or 3 shall not exceed 10 % of the nominal amount of outstanding covered bonds of the issuing credit institution.\n1b. Paragraph 1a of this Article shall not apply to the use of covered bonds as eligible collateral as permitted pursuant to Article 8 of Directive (EU) 2019/2162.\n1c. For the purposes of point (d) of the first subparagraph of paragraph 1, the limit of 80 % shall apply on a loan‐by‐loan basis, shall determine the portion of the loan contributing to the coverage of liabilities attached to the covered bond, and shall apply throughout the entire maturity of the loan.\n1d. For the purposes of points (f) and (g) of the first subparagraph of paragraph 1, the limits of 60 % or 70 % shall apply on a loan‐by‐loan basis, shall determine the portion of the loan contributing to the coverage of liabilities attached to the covered bond, and shall apply throughout the entire maturity of the loan.\n2. The situations referred to in points (a) to (f) of paragraph 1 shall also include collateral that is exclusively restricted by legislation to the protection of the bond-holders against losses.\n3. For immovable property and ships collateralising covered bonds that comply with this Regulation, the requirements set out in Article 208 shall be met. The monitoring of property values in accordance with point (a) of Article 208(3) shall be carried out frequently and at least annually for all immovable property and ships.\n3a. In addition to being collateralised by the eligible assets listed in paragraph 1 of this Article, covered bonds shall be subject to a minimum level of 5 % of overcollateralisation as defined in point (14) of Article 3 of Directive (EU) 2019/2162.\nFor the purposes of the first subparagraph of this paragraph, the total nominal amount of all cover assets as defined in point (4) of Article 3 of that Directive shall be at least of the same value as the total nominal amount of outstanding covered bonds (nominal principle), and shall consist of eligible assets as set out in paragraph 1 of this Article.\nMember States may set a lower minimum level of overcollateralisation for covered bonds or authorise their competent authorities to set such a level, provided that:\n(a) either the calculation of overcollateralisation is based on a formal approach where the underlying risk of the assets is taken into account, or the valuation of the assets is subject to the mortgage lending value; and\n(b) the minimum level of overcollateralisation is not lower than 2 %, based on the nominal principle referred to in Article 15(6) and (7) of Directive (EU) 2019/2162.\nThe assets contributing to a minimum level of overcollateralisation shall not be subject to the limits on exposure size set out in paragraph 1a and shall not count towards those limits.\n3b. Eligible assets listed in paragraph 1 of this Article may be included in the cover pool as substitution assets as defined in point (13) of Article 3 of Directive (EU) 2019/2162, subject to the limits on credit quality and exposure size set out in paragraphs 1 and 1a of this Article.\n4. Covered bonds for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 6a which corresponds to the credit assessment of the ECAI in accordance with Article 136.\nTable 6a\nCredit quality step 1 2 3 4 5 6\nRisk weight 10 % 20 % 20 % 50 % 50 % 100 %\n5. Covered bonds for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight on the basis of the risk weight assigned to senior unsecured exposures to the institution which issues them. The following correspondence between risk weights shall apply:\n(a) if the exposures to the institution are assigned a risk weight of 20 %, the covered bond shall be assigned a risk weight of 10 %;\n(b) if the exposures to the institution are assigned a risk weight of 50 %, the covered bond shall be assigned a risk weight of 20 %;\n(c) if the exposures to the institution are assigned a risk weight of 100 %, the covered bond shall be assigned a risk weight of 50 %;\n(d) if the exposures to the institution are assigned a risk weight of 150 %, the covered bond shall be assigned a risk weight of 100 %.\n6. Covered bonds issued before 31 December 2007 shall not be subject to the requirements laid down in paragraphs 1, 1a, 3, 3a and 3b. They shall be eligible for preferential treatment under paragraphs 4 and 5 until their maturity.\n7. Covered bonds issued before 8 July 2022 that comply with the requirements laid down in this Regulation as applicable at the date of their issue shall not be subject to the requirements laid down in paragraphs 3a and 3b. They shall be eligible for preferential treatment under paragraphs 4 and 5 until their maturity.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 129 PA 1 ALN 1",
+          "AR 129 PA 1 ALN 1 PTA (c)",
+          "AR 129 PA 1 ALN 1 PTA (c) PTI (i)",
+          "AR 129 PA 1 ALN 1 PTA (c) PTI (ii)",
+          "AR 129 PA 1 ALN 1 PTA (d)",
+          "AR 129 PA 1 ALN 1 PTA (d) PTI (i)",
+          "AR 129 PA 1 ALN 1 PTA (d) PTI (ii)",
+          "AR 129 PA 1 ALN 1 PTA (f)",
+          "AR 129 PA 1 ALN 1 PTA (f) PTI (i)",
+          "AR 129 PA 1 ALN 1 PTA (f) PTI (ii)",
+          "AR 129 PA 1 ALN 2",
+          "AR 129 PA 1a",
+          "AR 129 PA 1b",
+          "AR 129 PA 1c",
+          "AR 129 PA 1d",
+          "AR 129 PA 3 ALN 1",
+          "AR 129 PA 3a",
+          "AR 129 PA 3b",
+          "AR 129 PA 6 ALN 1",
+          "AR 129 PA 7 ALN 1",
+          "AR 129 PA 7 ALN 1 PTA (a)",
+          "AR 129 PA 7 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2019-11-27",
+          "2019-12-18",
+          "2022-07-08"
+        ],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R; 32019R2160 J; 32019R2160 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1) (a) (ii); AR 001 (1) (a) (iii); AR 001 (1) (b); AR 001 (1) (c); AR 001 (1) (d); AR 001 (1) (e)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of covered bonds now refers to point (1) of Article 3 of Directive (EU) 2019/2162 instead of Article 52(4) of Directive 2009/65/EC, and the collateralisation requirements are tied to paragraphs 3, 3a and 3b rather than paragraph 7.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129",
+              "label": "Art. 129, 02013R0575-20220708"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129",
+              "label": "Art. 129, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "Point (c) on exposures to institutions is restructured to cover credit institutions across credit quality steps 1 to 3, with specific conditions for short-term deposits and derivative contracts, and the numeric exposure limits previously in point (c) are moved into new paragraph 1a together with a new exclusion for eligible collateral in paragraph 1b; points (d) and (f) drop their former subpoints on senior units issued by French Fonds Communs de Titrisation, and new paragraphs 1c and 1d add loan-by-loan application rules for the 80% and 60%/70% limits.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129",
+              "label": "Art. 129, 02013R0575-20220708"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129",
+              "label": "Art. 129, 02013R0575-20220410"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 now addresses immovable property and ships together with an added annual monitoring requirement, new paragraphs 3a and 3b introduce overcollateralisation and substitution-asset rules, and paragraphs 6 and 7 are rewritten so that the grandfathering for bonds issued before 31 December 2007 references the new paragraphs 1a, 3a and 3b while a new exemption is added for covered bonds issued before 8 July 2022.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_129",
+              "label": "Art. 129, 02013R0575-20220708"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_129",
+              "label": "Art. 129, 02013R0575-20220410"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 416"
+        },
+        "heading": "Reporting on liquid assets",
+        "before": "Article 416\nReporting on liquid assets\n1. Institutions shall report the following as liquid assets unless excluded by paragraph 2 and only if the liquid assets fulfil the conditions in paragraph 3:\n(a) cash and exposures to central banks to the extent that these exposures can be withdrawn at any time in times of stress. As regards deposits held with central banks, the competent authority and the central bank shall aim at reaching a common understanding regarding the extent to which minimum reserves can be withdrawn in times of stress;\n(b) other transferable assets that are of extremely high liquidity and credit quality;\n(c) transferable assets representing claims on or guaranteed by:\n(i) the central government of a Member State, a region with fiscal autonomy to raise and collect taxes, or of a third country in the domestic currency of the central or regional government, if the institution incurs a liquidity risk in that Member State or third country that it covers by holding those liquid assets;\n(ii) central banks and non-central government public sector entities in the domestic currency of the central bank and the public sector entity;\n(iii) the Bank for International Settlements, the International Monetary Fund, the Commission and multilateral development banks;\n(iv) the European Financial Stability Facility and the European Stability Mechanism;\n(d) transferable assets that are of high liquidity and credit quality;\n(e) standby credit facilities granted by central banks within the scope of monetary policy to the extent that these facilities are not collateralised by liquid assets and excluding emergency liquidity assistance;\n(f) if the credit institution belongs to a network in accordance with legal or statutory provisions, the legal or statutory minimum deposits with the central credit institution and other statutory or contractually available liquid funding from the central credit institution or institutions that are members of the network referred to in Article 113(7), or eligible for the waiver provided in Article 10, to the extent that this funding is not collateralised by liquid assets.\nPending specification of a uniform definition in accordance with Article 460 of high and extremely high liquidity and credit quality, institutions shall identify themselves in a given currency transferable assets that are respectively of high or extremely high liquidity and credit quality. Pending specification of a uniform definition, competent authorities may, taking into account the criteria listed in Article 509(3), (4) and (5) provide general guidance that institutions shall follow in identifying assets of high and extremely high liquidity and credit quality. In the absence of such guidance, institutions shall use transparent and objective criteria to this end, including some or all of the criteria listed in Article 509(3), (4) and (5).\n2. The following shall not be considered liquid assets:\n(a) assets that are issued by a credit institution unless they fulfil one of the following conditions:\n(i) they are bonds eligible for the treatment set out in Article 129(4) or (5) or asset backed instruments if demonstrated to be of the highest credit quality as established by EBA pursuant to the criteria in Article 509 (3), (4) and (5);\n(ii) they are bonds as referred to in Article 52(4) of Directive 2009/65/EC other than those referred to in point (i) of this point;\n(iii) the credit institution has been set up by a Member State central or regional government and that government has an obligation to protect the economic basis of the institution and maintain its viability throughout its lifetime; or the asset is explicitly guaranteed by that government; or at least 90 % of the loans granted by the institution are directly or indirectly guaranteed by that government and the asset is predominantly used to fund promotional loans granted on a non-competitive, not for profit basis in order to promote that government's public policy objectives;\n(b) assets that are provided as collateral to the institution under reverse repo and securities financing transactions and that are held by the institution only as a credit risk mitigant and that are not legally and contractually available for use by the institution;\n(c) assets issued by any of the following:\n(i) an investment firm;\n(ii) an insurance undertaking;\n(iii) a financial holding company;\n(iv) a mixed financial holding company;\n(v) any other entity that performs one or more of the activities listed in Annex I to Directive 2013/36/EU as its main business.\n3. In accordance with paragraph 1, institutions shall report assets that fulfil the following conditions as liquid assets:\n(a) the assets are unencumbered or stand available within collateral pools to be used for obtaining additional funding under committed or, where the pool is operated by a central bank, uncommitted but not yet funded credit lines available to the institution;\n(b) the assets are not issued by the institution itself, by its parent or subsidiary institutions, or by another subsidiary of its parent institution or parent financial holding company;\n(c) the price of the assets is generally agreed upon by market participants and can easily be observed in the market or the price can be determined by a formula that is easy to calculate on the basis of publicly available inputs and that does not depend on strong assumptions, as is typically the case for structured or exotic products;\n(d) the assets are listed on a recognised exchange or they are tradable by an outright sale or via a simple repurchase agreement on repurchase markets; those criteria shall be assessed separately for each market.\nThe conditions referred to in points (c) and (d) of the first subparagraph shall not apply to the assets referred to in points (a), (e) and (f) of paragraph 1.\n4. Notwithstanding the provisions of paragraphs 1, 2 and 3, pending the specification of a binding liquidity requirement in accordance with Article 460 and in accordance with the second subparagraph of paragraph 1 of this Article, institutions shall report on:\n(a) other non-central bank eligible but tradable assets such as equities and gold based on transparent and objective criteria, including some or all of the criteria listed in Article 509(3), (4) and (5);\n(b) other central bank eligible and tradable assets such as asset backed instruments of the highest credit quality as established by EBA pursuant to the criteria in Article 509(3), (4) and (5);\n(c) other central bank eligible but non-tradable assets such as credit claims as established by EBA pursuant to the criteria in Article 509(3), (4) and (5).\n5. Shares or units in CIUs may be treated as liquid assets, up to an absolute amount of EUR 500 million or the equivalent amount in domestic currency, in the portfolio of liquid assets of each institution, provided that the requirements laid down in Article 132(3) are met and that the CIU only invests in liquid assets as referred to in paragraph 1 of this Article, apart from derivatives to mitigate interest rate or credit or currency risk.\nThe use or potential use by a CIU of derivative instruments to hedge risks of permitted investments shall not prevent that CIU from being eligible for the treatment referred to in the first subparagraph of this paragraph. Where the value of the shares or units of the CIU is not regularly marked to market by the third parties referred to in points (a) and (b) of Article 418(4) and the competent authority is not satisfied that an institution has developed robust methodologies and processes for such valuation as referred to in Article 418(4), shares or units in that CIU shall not be treated as liquid assets.\n6. Where a liquid asset ceases to comply with the requirement for liquid assets as set out in this Article, an institution may nevertheless continue to consider it a liquid asset for an additional period of 30 days. Where a liquid asset in a CIU ceases to be eligible for the treatment set out in paragraph 5, the shares or units in the CIU may nevertheless be considered a liquid asset for an additional period of 30 days, provided that those assets do not exceed 10 % of the CIU's overall assets.\n7. Where a liquid asset ceases to be eligible in the stock of liquid assets, an institution may nevertheless continue to consider it a liquid asset for an additional period of 30 calendar days. Where a liquid asset in a CIU ceases to be eligible for the treatment set out in paragraph 6, the shares or units in the CIU may nevertheless be considered a liquid asset for an additional period of 30 days provided that those assets do not exceed 10 % of the CIU's overall assets.",
+        "after": "Article 416\nReporting on liquid assets\n1. Institutions shall report the following as liquid assets unless excluded by paragraph 2 and only if the liquid assets fulfil the conditions in paragraph 3:\n(a) cash and exposures to central banks to the extent that these exposures can be withdrawn at any time in times of stress. As regards deposits held with central banks, the competent authority and the central bank shall aim at reaching a common understanding regarding the extent to which minimum reserves can be withdrawn in times of stress;\n(b) other transferable assets that are of extremely high liquidity and credit quality;\n(c) transferable assets representing claims on or guaranteed by:\n(i) the central government of a Member State, a region with fiscal autonomy to raise and collect taxes, or of a third country in the domestic currency of the central or regional government, if the institution incurs a liquidity risk in that Member State or third country that it covers by holding those liquid assets;\n(ii) central banks and non-central government public sector entities in the domestic currency of the central bank and the public sector entity;\n(iii) the Bank for International Settlements, the International Monetary Fund, the Commission and multilateral development banks;\n(iv) the European Financial Stability Facility and the European Stability Mechanism;\n(d) transferable assets that are of high liquidity and credit quality;\n(e) standby credit facilities granted by central banks within the scope of monetary policy to the extent that these facilities are not collateralised by liquid assets and excluding emergency liquidity assistance;\n(f) if the credit institution belongs to a network in accordance with legal or statutory provisions, the legal or statutory minimum deposits with the central credit institution and other statutory or contractually available liquid funding from the central credit institution or institutions that are members of the network referred to in Article 113(7), or eligible for the waiver provided in Article 10, to the extent that this funding is not collateralised by liquid assets.\nPending specification of a uniform definition in accordance with Article 460 of high and extremely high liquidity and credit quality, institutions shall identify themselves in a given currency transferable assets that are respectively of high or extremely high liquidity and credit quality. Pending specification of a uniform definition, competent authorities may, taking into account the criteria listed in Article 509(3), (4) and (5) provide general guidance that institutions shall follow in identifying assets of high and extremely high liquidity and credit quality. In the absence of such guidance, institutions shall use transparent and objective criteria to this end, including some or all of the criteria listed in Article 509(3), (4) and (5).\n2. The following shall not be considered liquid assets:\n(a) assets that are issued by a credit institution unless they fulfil one of the following conditions:\n(i) they are bonds eligible for the treatment set out in Article 129(4) or (5) or asset backed instruments if demonstrated to be of the highest credit quality as established by EBA pursuant to the criteria in Article 509 (3), (4) and (5);\n(ii) they are covered bonds as defined in point (1) Article 3 of Directive (EU) 2019/2162 other than those referred to in point (i) of this point;\n(iii) the credit institution has been set up by a Member State central or regional government and that government has an obligation to protect the economic basis of the institution and maintain its viability throughout its lifetime; or the asset is explicitly guaranteed by that government; or at least 90 % of the loans granted by the institution are directly or indirectly guaranteed by that government and the asset is predominantly used to fund promotional loans granted on a non-competitive, not for profit basis in order to promote that government's public policy objectives;\n(b) assets that are provided as collateral to the institution under reverse repo and securities financing transactions and that are held by the institution only as a credit risk mitigant and that are not legally and contractually available for use by the institution;\n(c) assets issued by any of the following:\n(i) an investment firm;\n(ii) an insurance undertaking;\n(iii) a financial holding company;\n(iv) a mixed financial holding company;\n(v) any other entity that performs one or more of the activities listed in Annex I to Directive 2013/36/EU as its main business.\n3. In accordance with paragraph 1, institutions shall report assets that fulfil the following conditions as liquid assets:\n(a) the assets are unencumbered or stand available within collateral pools to be used for obtaining additional funding under committed or, where the pool is operated by a central bank, uncommitted but not yet funded credit lines available to the institution;\n(b) the assets are not issued by the institution itself, by its parent or subsidiary institutions, or by another subsidiary of its parent institution or parent financial holding company;\n(c) the price of the assets is generally agreed upon by market participants and can easily be observed in the market or the price can be determined by a formula that is easy to calculate on the basis of publicly available inputs and that does not depend on strong assumptions, as is typically the case for structured or exotic products;\n(d) the assets are listed on a recognised exchange or they are tradable by an outright sale or via a simple repurchase agreement on repurchase markets; those criteria shall be assessed separately for each market.\nThe conditions referred to in points (c) and (d) of the first subparagraph shall not apply to the assets referred to in points (a), (e) and (f) of paragraph 1.\n4. Notwithstanding the provisions of paragraphs 1, 2 and 3, pending the specification of a binding liquidity requirement in accordance with Article 460 and in accordance with the second subparagraph of paragraph 1 of this Article, institutions shall report on:\n(a) other non-central bank eligible but tradable assets such as equities and gold based on transparent and objective criteria, including some or all of the criteria listed in Article 509(3), (4) and (5);\n(b) other central bank eligible and tradable assets such as asset backed instruments of the highest credit quality as established by EBA pursuant to the criteria in Article 509(3), (4) and (5);\n(c) other central bank eligible but non-tradable assets such as credit claims as established by EBA pursuant to the criteria in Article 509(3), (4) and (5).\n5. Shares or units in CIUs may be treated as liquid assets, up to an absolute amount of EUR 500 million or the equivalent amount in domestic currency, in the portfolio of liquid assets of each institution, provided that the requirements laid down in Article 132(3) are met and that the CIU only invests in liquid assets as referred to in paragraph 1 of this Article, apart from derivatives to mitigate interest rate or credit or currency risk.\nThe use or potential use by a CIU of derivative instruments to hedge risks of permitted investments shall not prevent that CIU from being eligible for the treatment referred to in the first subparagraph of this paragraph. Where the value of the shares or units of the CIU is not regularly marked to market by the third parties referred to in points (a) and (b) of Article 418(4) and the competent authority is not satisfied that an institution has developed robust methodologies and processes for such valuation as referred to in Article 418(4), shares or units in that CIU shall not be treated as liquid assets.\n6. Where a liquid asset ceases to comply with the requirement for liquid assets as set out in this Article, an institution may nevertheless continue to consider it a liquid asset for an additional period of 30 days. Where a liquid asset in a CIU ceases to be eligible for the treatment set out in paragraph 5, the shares or units in the CIU may nevertheless be considered a liquid asset for an additional period of 30 days, provided that those assets do not exceed 10 % of the CIU's overall assets.\n7. Where a liquid asset ceases to be eligible in the stock of liquid assets, an institution may nevertheless continue to consider it a liquid asset for an additional period of 30 calendar days. Where a liquid asset in a CIU ceases to be eligible for the treatment set out in paragraph 6, the shares or units in the CIU may nevertheless be considered a liquid asset for an additional period of 30 days provided that those assets do not exceed 10 % of the CIU's overall assets.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 416 PA 2 ALN 1 PTA (a) PTI (ii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (ii) of Article 416(2)(1)(a), the reference to bonds referred to in Article 52(4) of Directive 2009/65/EC has been replaced with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 416"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_416",
+              "label": "Art. 416, 02013R0575-20220410"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 416"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_416",
+              "label": "Art. 416, 02013R0575-20220708"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 425"
+        },
+        "heading": "Inflows",
+        "before": "Article 425\nInflows\n1. Institutions shall report their liquidity inflows. Capped liquidity inflows shall be the liquidity inflows limited to 75 % of liquidity outflows. Institutions may exempt liquidity inflows from deposits placed with other institutions and qualifying for the treatments set out in Article 113(6) or (7) from this limit. Institutions may exempt liquidity inflows from monies due from borrowers and bond investors related to mortgage lending funded by bonds eligible for the treatment set out in Article 129(4), (5) or (6) or by bonds as referred to in Article 52(4) of Directive 2009/65/EC from this limit. Institutions may exempt inflows from promotional loans that the institutions have passed through. Subject to the prior approval of the competent authority responsible for supervision on an individual basis, the institution may fully or partially exempt inflows where the provider is a parent or a subsidiary institution of the institution or another subsidiary of the same parent institution or linked to the institution by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC.\n2. The liquidity inflows shall be measured over the next 30 days. They shall comprise only contractual inflows from exposures that are not past due and for which the institution has no reason to expect non-performance within the 30-day time horizon. Liquidity inflows shall be reported in full with the following inflows reported separately:\n(a) monies due from customers that are not financial customers for the purposes of principal payment shall be reduced by 50 % of their value or by the contractual commitments to those customers to extend funding, whichever is higher. This does not apply to monies due from secured lending and capital market-driven transactions as defined in point (3) of Article 192 that are collateralised by liquid assets in accordance with Article 416 as referred to in point (d) of this paragraph.\nBy way of derogation from the first subparagraph of this point, institutions that have received a commitment referred to in Article 424(6) in order for them to disburse a promotional loan to a final recipient may take an inflow into account up to the amount of the outflow they apply to the corresponding commitment to extend those promotional loans;\n(b) monies due from trade financing transactions referred to in point (b) of the second subparagraph of Article 162(3) with a residual maturity of up to 30 days, shall be taken into account in full as inflows;\n(c) loans with an undefined contractual end date shall be taken into account with a 20 % inflow, provided that the contract allows the institution to withdraw and request payment within 30 days;\n(d) monies due from secured lending and capital market-driven transactions as defined in point (3) of Article 192 if they are collateralised by liquid assets as referred to in Article 416(1), shall not be taken into account up to the value net of haircuts of the liquid assets and shall be taken into account in full for the remaining monies due;\n(e) monies due that the institution owing those monies treats in accordance with Article 422(3) and (4), shall be multiplied by a corresponding symmetrical inflow;\n(f) monies due from positions in major index equity instruments provided that there is no double counting with liquid assets;\n(g) any undrawn credit or liquidity facilities and any other commitments received shall not be taken into account.\n3. Outflows and inflows expected over the 30 day horizon from the contracts listed in Annex II shall be reflected on a net basis across counterparties and shall be multiplied by 100 % in the event of a net inflow. Net basis shall mean also net of collateral to be received that qualifies as liquid assets under Article 416.\n4. By way of derogation from point (g) of paragraph 2, competent authorities may grant the permission to apply a higher inflow on a case by case basis for credit and liquidity facilities when all of the following conditions are fulfilled:\n(a) there are reasons to expect a higher inflow even under a combined market and idiosyncratic stress of the provider;\n(b) the counterparty is a parent or subsidiary institution of the institution or another subsidiary of the same parent institution or linked to the institution by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC or a member of the same institutional protection scheme referred to in Article 113(7) of this Regulation or the central institution or a member of a network that is subject to the waiver referred to in Article 10 of this Regulation;\n(c) a corresponding symmetric or more conservative outflow is applied by the counterparty by way of derogation from Articles 422, 423 and 424;\n(d) the institution and the counterparty are established in the same Member State.\n5. Competent authorities may waive the condition set out in point (d) of paragraph 4 where Article 20(1)(b) is applied. In that case additional objective criteria as set out in the delegated act referred to in Article 460 have to be met. Where such higher inflow is permitted to be applied, the competent authorities shall inform EBA about the result of the process referred to in Article 20(1)(b). Fulfilment of the conditions for such higher inflows shall be regularly reviewed by the competent authorities.\n6. EBA shall develop draft regulatory technical standards to further specify the additional objective criteria referred to in paragraph 5.\nEBA shall submit those draft regulatory technical standards to the Commission by 1 January 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.\n7. Institutions shall not report inflows from any of the liquid assets reported in accordance with Article 416 other than payments due on the assets that are not reflected in the market value of the asset.\n8. Institutions shall not report inflows from any new obligations entered into.\n9. Institutions shall take liquidity inflows which are to be received in third countries where there are transfer restrictions or which are denominated in non-convertible currencies into account only to the extent that they correspond to outflows respectively in the third country or currency in question.",
+        "after": "Article 425\nInflows\n1. Institutions shall report their liquidity inflows. Liquidity inflows shall be capped at 75 % of liquidity outflows. Institutions may exempt liquidity inflows from deposits placed with other institutions that qualify for the treatment set out in Article 113(6) or (7) of this Regulation from that cap.\nInstitutions may exempt liquidity inflows from monies due from borrowers and bond investors where those inflows are related to mortgage lending funded by bonds eligible for the treatment set out in Article 129(4), (5) or (6) of this Regulation or by covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 from that cap. Institutions may exempt inflows from promotional loans that the institutions have passed through. Subject to the prior approval of the competent authority responsible for supervision on an individual basis, the institution may fully or partially exempt inflows where the liquidity provider is a parent or subsidiary institution of the institution, a parent or subsidiary investment firm of the institution or another subsidiary of the same parent institution or parent investment firm or is related to the institution as set out in Article 22(7) of Directive 2013/34/EU.\n2. The liquidity inflows shall be measured over the next 30 days. They shall comprise only contractual inflows from exposures that are not past due and for which the institution has no reason to expect non-performance within the 30-day time horizon. Liquidity inflows shall be reported in full with the following inflows reported separately:\n(a) monies due from customers that are not financial customers for the purposes of principal payment shall be reduced by 50 % of their value or by the contractual commitments to those customers to extend funding, whichever is higher. This does not apply to monies due from secured lending and capital market-driven transactions as defined in point (3) of Article 192 that are collateralised by liquid assets in accordance with Article 416 as referred to in point (d) of this paragraph.\nBy way of derogation from the first subparagraph of this point, institutions that have received a commitment referred to in Article 424(6) in order for them to disburse a promotional loan to a final recipient may take an inflow into account up to the amount of the outflow they apply to the corresponding commitment to extend those promotional loans;\n(b) monies due from trade financing transactions referred to in point (b) of the second subparagraph of Article 162(3) with a residual maturity of up to 30 days, shall be taken into account in full as inflows;\n(c) loans with an undefined contractual end date shall be taken into account with a 20 % inflow, provided that the contract allows the institution to withdraw and request payment within 30 days;\n(d) monies due from secured lending and capital market-driven transactions as defined in point (3) of Article 192 if they are collateralised by liquid assets as referred to in Article 416(1), shall not be taken into account up to the value net of haircuts of the liquid assets and shall be taken into account in full for the remaining monies due;\n(e) monies due that the institution owing those monies treats in accordance with Article 422(3) and (4), shall be multiplied by a corresponding symmetrical inflow;\n(f) monies due from positions in major index equity instruments provided that there is no double counting with liquid assets;\n(g) any undrawn credit or liquidity facilities and any other commitments received shall not be taken into account.\n3. Outflows and inflows expected over the 30 day horizon from the contracts listed in Annex II shall be reflected on a net basis across counterparties and shall be multiplied by 100 % in the event of a net inflow. Net basis shall mean also net of collateral to be received that qualifies as liquid assets under Article 416.\n4. By way of derogation from point (g) of paragraph 2, competent authorities may grant the permission to apply a higher inflow on a case by case basis for credit and liquidity facilities when all of the following conditions are fulfilled:\n(a) there are reasons to expect a higher inflow even under a combined market and idiosyncratic stress of the provider;\n(b) the counterparty is a parent or subsidiary institution of the institution or another subsidiary of the same parent institution or linked to the institution by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC or a member of the same institutional protection scheme referred to in Article 113(7) of this Regulation or the central institution or a member of a network that is subject to the waiver referred to in Article 10 of this Regulation;\n(c) a corresponding symmetric or more conservative outflow is applied by the counterparty by way of derogation from Articles 422, 423 and 424;\n(d) the institution and the counterparty are established in the same Member State.\n5. Competent authorities may waive the condition set out in point (d) of paragraph 4 where Article 20(1)(b) is applied. In that case additional objective criteria as set out in the delegated act referred to in Article 460 have to be met. Where such higher inflow is permitted to be applied, the competent authorities shall inform EBA about the result of the process referred to in Article 20(1)(b). Fulfilment of the conditions for such higher inflows shall be regularly reviewed by the competent authorities.\n6. EBA shall develop draft regulatory technical standards to further specify the additional objective criteria referred to in paragraph 5.\nEBA shall submit those draft regulatory technical standards to the Commission by 1 January 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.\n7. Institutions shall not report inflows from any of the liquid assets reported in accordance with Article 416 other than payments due on the assets that are not reflected in the market value of the asset.\n8. Institutions shall not report inflows from any new obligations entered into.\n9. Institutions shall take liquidity inflows which are to be received in third countries where there are transfer restrictions or which are denominated in non-convertible currencies into account only to the extent that they correspond to outflows respectively in the third country or currency in question.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 425 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 replaces the reference to bonds under Article 52(4) of Directive 2009/65/EC with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 425"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425",
+              "label": "Art. 425, 02013R0575-20220708"
+            }
+          ]
+        },
+        {
+          "text": "The exemption for inflows from a liquidity provider now also names a parent or subsidiary investment firm of the institution, and it replaces the reference to a relationship within the meaning of Article 12(1) of Directive 83/349/EEC with a reference to Article 22(7) of Directive 2013/34/EU.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 425"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_425",
+              "label": "Art. 425, 02013R0575-20220410"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 425"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425",
+              "label": "Art. 425, 02013R0575-20220708"
+            }
+          ]
+        },
+        {
+          "text": "Wording describing the 75% limit was also rephrased from describing capped liquidity inflows as limited to that percentage to stating that liquidity inflows shall be capped at that percentage.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 425"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_425",
+              "label": "Art. 425, 02013R0575-20220410"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 425"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_425",
+              "label": "Art. 425, 02013R0575-20220708"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 427"
+        },
+        "heading": "Items providing stable funding",
+        "before": "Article 427\nItems providing stable funding\n1. Institutions shall report to the competent authorities, in accordance with the reporting requirements set out in Article 415(1) and the uniform reporting formats referred to in Article 415(3), the following items and their components in order to allow an assessment of the availability of stable funding:\n(a) the following own funds, after deductions have been applied, where appropriate:\n(i) tier 1 capital instruments;\n(ii) tier 2 capital instruments;\n(iii) other preferred shares and capital instruments in excess of Tier 2 allowable amount having an effective maturity of one year or greater;\n(b) the following liabilities not included in point (a):\n(i) retail deposits that qualify for the treatment set out in Article 421(1);\n(ii) retail deposits that qualify for the treatment set out in Article 421(2);\n(iii) deposits that qualify for the treatment set out in Article 422 (3) and (4);\n(iv) of the deposits referred to in point (iii), those that are subject to a deposit guarantee scheme in accordance with Directive 94/19/EC or an equivalent deposit guarantee scheme in a third country deposit guarantees within the terms of Article 421(1);\n(v) of the deposits referred to in point (iii), those that fall under point (b) of Article 422(3);\n(vi) of the deposits referred to in point (iii), those that fall under point (d) of Article 422(3);\n(vii) amounts deposited not falling under point (i), (ii) or (iii) if they are not deposited by financial customers;\n(viii) all funding obtained from financial customers;\n(ix) separately for amounts falling under points (vii) and (viii) respectively, funding from secured lending and capital market-driven transactions as defined in point (3) of Article 192:\ncollateralised by assets that would qualify as liquid assets in accordance with Article 416;\ncollateralised by any other assets;\n(x) liabilities resulting from securities issued qualifying for the treatment set out in Article 129(4) or (5) or as referred to in Article 52(4) of Directive 2009/65/EC;\n(xi) the following other liabilities resulting from securities issued that do not fall under point (a):\nliabilities resulting from securities issued with an effective maturity of one year or greater;\nliabilities resulting from securities issued with an effective maturity of less than one year;\n(xii) any other liabilities.\n2. Where applicable, all items shall be presented in the following five buckets according to the closest of their maturity date and the earliest date at which they can contractually be called:\n(a) within three months;\n(b) between three and six months;\n(c) between six and nine months;\n(d) between nine and 12 months;\n(e) after 12 months.",
+        "after": "Article 427\nItems providing stable funding\n1. Institutions shall report to the competent authorities, in accordance with the reporting requirements set out in Article 415(1) and the uniform reporting formats referred to in Article 415(3), the following items and their components in order to allow an assessment of the availability of stable funding:\n(a) the following own funds, after deductions have been applied, where appropriate:\n(i) tier 1 capital instruments;\n(ii) tier 2 capital instruments;\n(iii) other preferred shares and capital instruments in excess of Tier 2 allowable amount having an effective maturity of one year or greater;\n(b) the following liabilities not included in point (a):\n(i) retail deposits that qualify for the treatment set out in Article 421(1);\n(ii) retail deposits that qualify for the treatment set out in Article 421(2);\n(iii) deposits that qualify for the treatment set out in Article 422 (3) and (4);\n(iv) of the deposits referred to in point (iii), those that are subject to a deposit guarantee scheme in accordance with Directive 94/19/EC or an equivalent deposit guarantee scheme in a third country deposit guarantees within the terms of Article 421(1);\n(v) of the deposits referred to in point (iii), those that fall under point (b) of Article 422(3);\n(vi) of the deposits referred to in point (iii), those that fall under point (d) of Article 422(3);\n(vii) amounts deposited not falling under point (i), (ii) or (iii) if they are not deposited by financial customers;\n(viii) all funding obtained from financial customers;\n(ix) separately for amounts falling under points (vii) and (viii) respectively, funding from secured lending and capital market-driven transactions as defined in point (3) of Article 192:\ncollateralised by assets that would qualify as liquid assets in accordance with Article 416;\ncollateralised by any other assets;\n(x) liabilities resulting from securities issued that qualify for the treatment set out in Article 129(4) or (5) of this Regulation or from covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162;\n(xi) the following other liabilities resulting from securities issued that do not fall under point (a):\nliabilities resulting from securities issued with an effective maturity of one year or greater;\nliabilities resulting from securities issued with an effective maturity of less than one year;\n(xii) any other liabilities.\n2. Where applicable, all items shall be presented in the following five buckets according to the closest of their maturity date and the earliest date at which they can contractually be called:\n(a) within three months;\n(b) between three and six months;\n(c) between six and nine months;\n(d) between nine and 12 months;\n(e) after 12 months.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 427 PA 1 ALN 1 PTA (b) PTI (x)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (x) of Article 427(1)(1)(b) no longer refers to securities qualifying under Article 129(4) or (5) as read together with Article 52(4) of Directive 2009/65/EC, and instead refers to securities qualifying under Article 129(4) or (5) of the Regulation itself or to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 427"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_427",
+              "label": "Art. 427, 02013R0575-20220708"
+            }
+          ]
+        },
+        {
+          "text": "The prior cross-reference to Directive 2009/65/EC has been removed and replaced with a cross-reference to a different directive concerning covered bonds.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 427"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_427",
+              "label": "Art. 427, 02013R0575-20220410"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 427"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_427",
+              "label": "Art. 427, 02013R0575-20220708"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 428"
+        },
+        "heading": "Items requiring stable funding",
+        "before": "Article 428\nItems requiring stable funding\n1. Unless deducted from own funds, the following items shall be reported to competent authorities separately in order to allow an assessment of the needs for stable funding:\n(a) the assets that would qualify as liquid assets in accordance with Article 416, broken down by asset type;\n(b) the following securities and money market instruments not included in point (a):\n(i) assets qualifying for credit step 1 under Article 122;\n(ii) assets qualifying for credit step 2 under Article 122;\n(iii) other assets;\n(c) equity securities of non-financial entities listed on a major index in a recognised exchange;\n(d) other equity securities;\n(e) gold;\n(f) other precious metals;\n(g) non-renewable loans and receivables, and separately those non-renewable loans and receivables for which borrowers are:\n(i) natural persons other than commercial sole proprietors and partnerships;\n(ii) SMEs that qualify for the retail exposure class under the Standardised or IRB approaches for credit risk or to a company which is eligible for the treatment set out in Article 153(4) and where the aggregate deposit placed by that client or group of connected clients is less than EUR 1 million;\n(iii) sovereigns, central banks and public sector entities;\n(iv) clients not referred to in points (i) and (ii) other than financial customers;\n(v) clients not referred to in points (i), (ii) and (iii) that are financial customers, and thereof separately those that are credit institutions and other financial customers;\n(h) non-renewable loans and receivables referred to in point (g), and thereof separately those that are:\n(i) collateralised by commercial immovable property (CRE);\n(ii) collateralised by residential property (RRE);\n(iii) match funded (pass-through) via bonds eligible for the treatment set out in Article 129(4) or (5) or via bonds as referred to in Article 52(4) of Directive 2009/65/EC;\n(i) derivatives receivables;\n(j) any other assets;\n(k) undrawn committed credit facilities that qualify as medium risk or medium/low risk under Annex I.\n2. Where applicable, all items shall be presented in the five buckets described in Article 427(2).",
+        "after": "Article 428\nItems requiring stable funding\n1. Unless deducted from own funds, the following items shall be reported to competent authorities separately in order to allow an assessment of the needs for stable funding:\n(a) the assets that would qualify as liquid assets in accordance with Article 416, broken down by asset type;\n(b) the following securities and money market instruments not included in point (a):\n(i) assets qualifying for credit step 1 under Article 122;\n(ii) assets qualifying for credit step 2 under Article 122;\n(iii) other assets;\n(c) equity securities of non-financial entities listed on a major index in a recognised exchange;\n(d) other equity securities;\n(e) gold;\n(f) other precious metals;\n(g) non-renewable loans and receivables, and separately those non-renewable loans and receivables for which borrowers are:\n(i) natural persons other than commercial sole proprietors and partnerships;\n(ii) SMEs that qualify for the retail exposure class under the Standardised or IRB approaches for credit risk or to a company which is eligible for the treatment set out in Article 153(4) and where the aggregate deposit placed by that client or group of connected clients is less than EUR 1 million;\n(iii) sovereigns, central banks and public sector entities;\n(iv) clients not referred to in points (i) and (ii) other than financial customers;\n(v) clients not referred to in points (i), (ii) and (iii) that are financial customers, and thereof separately those that are credit institutions and other financial customers;\n(h) non-renewable loans and receivables referred to in point (g), and thereof separately those that are:\n(i) collateralised by commercial immovable property (CRE);\n(ii) collateralised by residential property (RRE);\n(iii) match funded (pass‐through) via bonds eligible for the treatment set out in Article 129(4) or (5) of this Regulation or via covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162;\n(i) derivatives receivables;\n(j) any other assets;\n(k) undrawn committed credit facilities that qualify as medium risk or medium/low risk under Annex I.\n2. Where applicable, all items shall be presented in the five buckets described in Article 427(2).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 428 PA 1 ALN 1 PTA (h) PTI (iii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (h)(iii) now specifies that the eligible bonds under Article 129(4) or (5) belong to this Regulation, and it replaces the earlier reference to bonds under Article 52(4) of Directive 2009/65/EC with a reference to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AR 428"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_428",
+              "label": "Art. 428, 02013R0575-20220708"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AR 428"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_428",
+              "label": "Art. 428, 02013R0575-20220410"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AR 496"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 A",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6)",
+            "change_types": [
+              "DELETED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20220708",
+          "location": "AN III"
+        },
+        "heading": "ANNEX III",
+        "before": "ANNEX III\nItems subject to supplementary reporting of liquid assets\n1. Cash.\n2. Central bank exposures, to the extent that these exposures can be drawn down in times of stress.\n3. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, the Bank for International Settlements, the International Monetary Fund, the European Union, the European Financial Stability Facility, the European Stability Mechanism or multilateral development banks and satisfying all of the following conditions:\n(a) they are assigned a 0 % risk-weight under Chapter 2, Title II of Part Three;\n(b) they are not an obligation of an institution or investment firm or any of its affiliated entities.\n4. Transferable securities other than those referred to in point 3 representing claims on or claims guaranteed by sovereigns or central banks issued in domestic currencies by the sovereign or central bank in the currency and country in which the liquidity risk is being taken or issued in foreign currencies, to the extent that holding of such debt matches the liquidity needs of the bank's operations in that third country.\n5. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, or multilateral development banks and satisfying all of the following conditions:\n(a) they are assigned a 20 % risk-weight under Chapter 2, Title II of Part Three;\n(b) they are not an obligation of an institution or investment firm or any of its affiliated entities.\n6. Transferable securities other than those referred to in points 3, 4 and 5 that qualify for a 20 % or better risk weight under Chapter 2, Title II of Part Three or are internally rated as having an equivalent credit quality, and fulfil any of the following conditions:\n(a) they do not represent a claim on an SSPE, an institution or investment firm or any of its affiliated entities;\n(b) they are bonds eligible for the treatment set out in Article 129(4) or (5);\n(c) they are bonds as referred to in Article 52(4) of Directive 2009/65/EC other than those referred to in point (b) of this point.\n7. Transferable securities other than those referred to in points 3 to 6 that qualify for a 50 % or better risk weight under Chapter 2 of Title II of Part Three or are internally rated as having an equivalent credit quality, and do not represent a claim on an SSPE, an institution or investment firm or any of its affiliated entities.\n8. Transferable securities other than those referred to in points 3 to 7 that are collateralised by assets that qualify for a 35 % or better risk weight under Chapter 2, Title II of Part Three or are internally rated as having an equivalent credit quality, and are fully and completely secured by mortgages on residential property in accordance with Article 125.\n9. Standby credit facilities granted by central banks within the scope of monetary policy to the extent that these facilities are not collateralised by liquid assets and excluding emergency liquidity assistance.\n10. Legal or statutory minimum deposits with the central credit institution and other statutory or contractually available liquid funding from the central credit institution or institutions that are members of the network referred to in Article 113(7), or eligible for the waiver provided in Article 10, to the extent that this funding is not collateralised by liquid assets, if the credit institution belongs to a network in accordance with legal or statutory provisions.\n11. Exchange traded, centrally cleared common equity shares that are a constituent of a major stock index, denominated in the domestic currency of the Member State and not issued by an institution or investment firm or any of its affiliates.\n12. Gold listed on a recognised exchange, held on an allocated basis.\nAll items with the exception of those referred to in points 1, 2 and 9 must satisfy all of the following conditions:\n(a) they are traded in simple repurchase agreements or cash markets characterised by a low level of concentration;\n(b) they have a proven record as a reliable source of liquidity by either repurchase agreement or sale even during stressed market conditions;\n(c) they are unencumbered.",
+        "after": "ANNEX III\nItems subject to supplementary reporting of liquid assets\n1. Cash.\n2. Central bank exposures, to the extent that these exposures can be drawn down in times of stress.\n3. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, the Bank for International Settlements, the International Monetary Fund, the European Union, the European Financial Stability Facility, the European Stability Mechanism or multilateral development banks and satisfying all of the following conditions:\n(a) they are assigned a 0 % risk-weight under Chapter 2, Title II of Part Three;\n(b) they are not an obligation of an institution or investment firm or any of its affiliated entities.\n4. Transferable securities other than those referred to in point 3 representing claims on or claims guaranteed by sovereigns or central banks issued in domestic currencies by the sovereign or central bank in the currency and country in which the liquidity risk is being taken or issued in foreign currencies, to the extent that holding of such debt matches the liquidity needs of the bank's operations in that third country.\n5. Transferable securities representing claims on or claims guaranteed by sovereigns, central banks, non-central government public sector entities, regions with fiscal autonomy to raise and collect taxes and local authorities, or multilateral development banks and satisfying all of the following conditions:\n(a) they are assigned a 20 % risk-weight under Chapter 2, Title II of Part Three;\n(b) they are not an obligation of an institution or investment firm or any of its affiliated entities.\n6. Transferable securities other than those referred to in points 3, 4 and 5 that qualify for a 20 % or better risk weight under Chapter 2, Title II of Part Three or are internally rated as having an equivalent credit quality, and fulfil any of the following conditions:\n(a) they do not represent a claim on an SSPE, an institution or investment firm or any of its affiliated entities;\n(b) they are bonds eligible for the treatment set out in Article 129(4) or (5);\n(c) they are covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 other than those referred to in point (b) of this point.\n7. Transferable securities other than those referred to in points 3 to 6 that qualify for a 50 % or better risk weight under Chapter 2 of Title II of Part Three or are internally rated as having an equivalent credit quality, and do not represent a claim on an SSPE, an institution or investment firm or any of its affiliated entities.\n8. Transferable securities other than those referred to in points 3 to 7 that are collateralised by assets that qualify for a 35 % or better risk weight under Chapter 2, Title II of Part Three or are internally rated as having an equivalent credit quality, and are fully and completely secured by mortgages on residential property in accordance with Article 125.\n9. Standby credit facilities granted by central banks within the scope of monetary policy to the extent that these facilities are not collateralised by liquid assets and excluding emergency liquidity assistance.\n10. Legal or statutory minimum deposits with the central credit institution and other statutory or contractually available liquid funding from the central credit institution or institutions that are members of the network referred to in Article 113(7), or eligible for the waiver provided in Article 10, to the extent that this funding is not collateralised by liquid assets, if the credit institution belongs to a network in accordance with legal or statutory provisions.\n11. Exchange traded, centrally cleared common equity shares that are a constituent of a major stock index, denominated in the domestic currency of the Member State and not issued by an institution or investment firm or any of its affiliates.\n12. Gold listed on a recognised exchange, held on an allocated basis.\nAll items with the exception of those referred to in points 1, 2 and 9 must satisfy all of the following conditions:\n(a) they are traded in simple repurchase agreements or cash markets characterised by a low level of concentration;\n(b) they have a proven record as a reliable source of liquidity by either repurchase agreement or sale even during stressed market conditions;\n(c) they are unencumbered.",
+        "previous_location": null,
+        "changed_within": [
+          "AN III PO 6 PTA (c)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R2160",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-07-08",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R2160 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point 6(c) of Annex III no longer refers to bonds as described in Article 52(4) of Directive 2009/65/EC, and instead refers to covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220410",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#anx_III",
+              "label": "Annex III, 02013R0575-20220410"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20220708",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#anx_III",
+              "label": "Annex III, 02013R0575-20220708"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20220410",
+    "to_version": "02013R0575-20220708",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 129",
+          "AR 416",
+          "AR 425",
+          "AR 427",
+          "AR 428",
+          "AN III"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 129",
+          "AR 416",
+          "AR 425",
+          "AR 427",
+          "AR 428",
+          "AR 496",
+          "AN III"
+        ],
+        "note": "21 annotations in (2022-04-10, 2022-07-08]",
+        "claims": [
+          {
+            "location": "AR 129 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 1 PT (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 428 PA 1 PTA (h) PT (iii)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1b",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III PO 6 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 427 PA 1 PTA (b) PT (x)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 1 PT (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 1 PT (f)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1d",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 3b",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 3",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 7",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 1 TEXT",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 416 PA 2 PTA (a) PT (ii)",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 129 PA 1c",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 496",
+            "change_type": "INSERTED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 425 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2022-07-08",
+            "source": "32019R2160 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 129",
+          "AR 416",
+          "AR 425",
+          "AR 427",
+          "AR 428",
+          "AR 496",
+          "AN III"
+        ],
+        "note": "32019R2160, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 129 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 1 ALN 3",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (1) (a) (iii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 1a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 1b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 1c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 1d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 3a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 3b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (1) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 129 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1) (e)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 416 PA 2 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 425 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 427 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 428 PA 1 PTA (h)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 496",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (6)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN III PO 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R2160",
+              "display_name": "Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 7,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1": 0.923076923076923,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 7,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1": 0.923076923076923,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 7,
+        "right_units": 7,
+        "shared": 7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 1
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 496",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "DELETED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 496"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 6,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 36997,
+      "output_tokens": 1862,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 20,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
