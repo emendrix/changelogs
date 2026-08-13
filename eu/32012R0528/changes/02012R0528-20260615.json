@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0528",
+    "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+  },
+  "from_version": "02012R0528-20240611",
+  "to_version": "02012R0528-20260615",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2026-06-15"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 102,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0528",
+            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+          },
+          "version": "02012R0528-20260615",
+          "location": "AR 60"
+        },
+        "heading": "Data protection periods",
+        "before": "Article 60\nData protection periods\n1. Data submitted for the purposes of Directive 98/8/EC or of this Regulation shall benefit from data protection under the conditions laid down in this Article. The protection period for the data shall start when they are submitted for the first time.\nData protected under this Article or for which the protection period under this Article has expired shall not be protected again.\n2. The protection period for data submitted with a view to the approval of an existing active substance shall end 10 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.\nThe protection period for data submitted with a view to the approval of a new active substance shall end 15 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.\nThe protection period for new data submitted with a view to the renewal or review of the approval of an active substance shall end five years from the first day of the month following the date of the adoption of a decision in accordance with Article 14(4) concerning the renewal or the review.\n3. The protection period for data submitted with a view to the authorisation of a biocidal product containing only existing active substances shall end 10 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).\nThe protection period for data submitted with a view to the authorisation of a biocidal product containing a new active substance shall end 15 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).\nThe protection period for new data submitted with a view to the renewal or amendment of the authorisation of a biocidal product shall end five years from the first day of the month following the decision concerning the renewal or amendment of the authorisation.",
+        "after": "Article 60\nData protection periods\n1. Data submitted for the purposes of Directive 98/8/EC or of this Regulation shall benefit from data protection under the conditions laid down in this Article. The protection period for the data shall start when they are submitted for the first time.\nWithout prejudice to Article 95(5), second subparagraph, protection periods under this Article which have expired shall not start to run again.\n2. The protection period for data submitted with a view to the approval of an existing active substance shall end 10 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.\nThe protection period for data submitted with a view to the approval of a new active substance shall end 15 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.\nThe protection period for new data submitted with a view to the renewal or review of the approval of an active substance shall end five years from the first day of the month following the date of the adoption of a decision in accordance with Article 14(4) concerning the renewal or the review.\n3. The protection period for data submitted with a view to the authorisation of a biocidal product containing only existing active substances shall end 10 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).\nThe protection period for data submitted with a view to the authorisation of a biocidal product containing a new active substance shall end 15 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).\nThe protection period for new data submitted with a view to the renewal or amendment of the authorisation of a biocidal product shall end five years from the first day of the month following the decision concerning the renewal or amendment of the authorisation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 60 PA 1 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1165",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-06-15",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1165 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0528",
+            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+          },
+          "version": "02012R0528-20260615",
+          "location": "AR 95"
+        },
+        "heading": "Transitional measures concerning access to the active substance dossier",
+        "before": "Article 95\nTransitional measures concerning access to the active substance dossier\n1. As of 1 September 2013, the Agency shall make publicly available and shall regularly update a list of all active substances, and all substances generating an active substance, for which a dossier complying with Annex II to this Regulation or with Annex IIA or IVA to Directive 98/8/EC and, where relevant, Annex IIIA to that Directive (the complete substance dossier) has been submitted and accepted or validated by a Member State in a procedure provided for by this Regulation or that Directive (the relevant substances). For each relevant substance, the list shall also include all persons having made such a submission or a submission to the Agency in accordance with the second subparagraph of this paragraph, and indicate their role as specified in that subparagraph, and the product-type(s) for which they have made a submission, as well as the date of inclusion of the substance in the list.\nA person established within the Union who manufactures or imports a relevant substance, on its own or in biocidal products (the substance supplier) or who manufactures or makes available on the market a biocidal product consisting of, containing or generating that relevant substance (the product supplier), may at any time submit to the Agency either a complete substance dossier for that relevant substance, a letter of access to a complete substance dossier, or a reference to a complete substance dossier for which all data protection periods have expired. Following the renewal of the approval of an active substance, any substance supplier or product supplier may submit to the Agency a letter of access to all the data which was considered by the evaluating competent authority as relevant for the purpose of the renewal, and for which the protection period has not yet expired (the relevant data).\nThe Agency shall inform the submitting supplier of the fees payable under Article 80(1). It shall reject the application if the submitting supplier fails to pay those fees within 30 days and shall inform the submitting supplier accordingly.\nUpon receipt of the fees payable under Article 80(1), the Agency shall verify whether the submission complies with the second subparagraph of this paragraph and shall inform the submitting supplier accordingly.\n2. As of 1 September 2015, a biocidal product consisting of, containing or generating a relevant substance, included in the list referred to in paragraph 1, shall not be made available on the market unless either the substance supplier or the product supplier is included in the list referred to in paragraph 1 for the product-type(s) to which the product belongs.\n3. For the purposes of making a submission in accordance with the second subparagraph of paragraph 1 of this article, Article 63(3) of this Regulation shall apply to all toxicological, ecotoxicological and environmental fate and behaviour studies relating to substances listed in Annex II to Regulation (EC) No 1451/2007, including any such studies not involving tests on vertebrates.\n4. A substance supplier or a product supplier included in the list referred to in paragraph 1 to whom a letter of access has been issued for the purpose of this Article or a right to refer to a study has been granted in accordance with paragraph 3 shall be entitled to allow applicants for the authorisation of a biocidal product to make reference to that letter of access or that study for the purposes of Article 20(1).\n5. By way of derogation from Article 60, all data protection periods for active substance/product-type combinations listed in Annex II to Regulation (EC) No 1451/2007, but for which a decision on inclusion in Annex I to Directive 98/8/EC was not taken before 1 September 2013, shall end on 31 December 2025.\n6. Paragraphs 1 to 5 shall not apply to substances listed in Annex I in categories 1 to 5 and category 7 or to biocidal products containing only such substances.\n7. The Agency shall regularly update the list referred to in paragraph 1 of this Article. Following the renewal of the approval of an active substance, the Agency shall remove from the list any substance supplier or product supplier who has not, within 12 months of the renewal, submitted all the relevant data or a letter of access to all the relevant data, either in accordance with the second subparagraph of paragraph 1 of this Article or in an application in accordance with Article 13.",
+        "after": "Article 95\nTransitional measures concerning access to the active substance dossier\n1. As of 1 September 2013, the Agency shall make publicly available and shall regularly update a list of all active substances, and all substances generating an active substance, for which a dossier complying with Annex II to this Regulation or with Annex IIA or IVA to Directive 98/8/EC and, where relevant, Annex IIIA to that Directive (the complete substance dossier) has been submitted and accepted or validated by a Member State in a procedure provided for by this Regulation or that Directive (the relevant substances). For each relevant substance, the list shall also include all persons having made such a submission or a submission to the Agency in accordance with the second subparagraph of this paragraph, and indicate their role as specified in that subparagraph, and the product-type(s) for which they have made a submission, as well as the date of inclusion of the substance in the list.\nA person established within the Union who manufactures or imports a relevant substance, on its own or in biocidal products (the substance supplier) or who manufactures or makes available on the market a biocidal product consisting of, containing or generating that relevant substance (the product supplier), may at any time submit to the Agency either a complete substance dossier for that relevant substance, a letter of access to a complete substance dossier, or a reference to a complete substance dossier for which all data protection periods have expired. Following the renewal of the approval of an active substance, any substance supplier or product supplier may submit to the Agency a letter of access to all the data which was considered by the evaluating competent authority as relevant for the purpose of the renewal, and for which the protection period has not yet expired (the relevant data).\nThe Agency shall inform the submitting supplier of the fees payable under Article 80(1). It shall reject the application if the submitting supplier fails to pay those fees within 30 days and shall inform the submitting supplier accordingly.\nUpon receipt of the fees payable under Article 80(1), the Agency shall verify whether the submission complies with the second subparagraph of this paragraph and shall inform the submitting supplier accordingly.\n2. As of 1 September 2015, a biocidal product consisting of, containing or generating a relevant substance, included in the list referred to in paragraph 1, shall not be made available on the market unless either the substance supplier or the product supplier is included in the list referred to in paragraph 1 for the product-type(s) to which the product belongs.\n3. For the purposes of making a submission in accordance with the second subparagraph of paragraph 1 of this article, Article 63(3) of this Regulation shall apply to all toxicological, ecotoxicological and environmental fate and behaviour studies relating to substances listed in Annex II to Regulation (EC) No 1451/2007, including any such studies not involving tests on vertebrates.\n4. A substance supplier or a product supplier included in the list referred to in paragraph 1 to whom a letter of access has been issued for the purpose of this Article or a right to refer to a study has been granted in accordance with paragraph 3 shall be entitled to allow applicants for the authorisation of a biocidal product to make reference to that letter of access or that study for the purposes of Article 20(1).\n5. By way of derogation from Article 60, all data protection periods for active substance/product-type combinations listed in Annex II to Regulation (EC) No 1451/2007, but for which a decision on inclusion in Annex I to Directive 98/8/EC was not taken before 1 September 2013, shall end on 31 December 2025.\nBy way of derogation from the first subparagraph of this paragraph, all data protection periods for active substance/product-type combinations for which a decision on the approval has not been adopted in accordance with Article 89(1), third subparagraph, by 7 June 2018, shall end on 31 December 2030.\nData owners may claim compensation for access to their data for the period from 1 January 2026 to 15 June 2026 from a substance supplier or product supplier having benefitted from the absence of protection and having been included in the list referred to in paragraph 1 of this Article during that period.\n6. Paragraphs 1 to 5 shall not apply to substances listed in Annex I in categories 1 to 5 and category 7 or to biocidal products containing only such substances.\n7. The Agency shall regularly update the list referred to in paragraph 1 of this Article. Following the renewal of the approval of an active substance, the Agency shall remove from the list any substance supplier or product supplier who has not, within 12 months of the renewal, submitted all the relevant data or a letter of access to all the relevant data, either in accordance with the second subparagraph of paragraph 1 of this Article or in an application in accordance with Article 13.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 95 PA 5 ALN 2",
+          "AR 95 PA 5 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1165",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2018-06-07",
+          "2026-01-01",
+          "2026-06-15",
+          "2030-12-31"
+        ],
+        "in_force": "2026-06-15",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1165 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0528",
+      "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+    },
+    "from_version": "02012R0528-20240611",
+    "to_version": "02012R0528-20260615",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 60",
+          "AR 95"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 60",
+          "AR 95"
+        ],
+        "note": "2 annotations in (2024-06-11, 2026-06-15]",
+        "claims": [
+          {
+            "location": "AR 60 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2026-06-15",
+            "source": "32026R1165 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1165",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 95 PA 5 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2026-06-15",
+            "source": "32026R1165 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1165",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 60",
+          "AR 95"
+        ],
+        "note": "32026R1165, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 60 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1165",
+              "display_name": "Regulation (EU) 2026/1165 of the European Parliament and of the Council of 20 May 2026 amending Regulation (EU) No 528/2012 as regards the extension of certain data protection periods (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 95 PA 5",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1165",
+              "display_name": "Regulation (EU) 2026/1165 of the European Parliament and of the Council of 20 May 2026 amending Regulation (EU) No 528/2012 as regards the extension of certain data protection periods (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 0,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

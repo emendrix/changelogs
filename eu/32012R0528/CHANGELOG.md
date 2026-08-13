@@ -10,6 +10,67 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20260615 -->
+## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
+### `02012R0528-20240611` → `02012R0528-20260615`
+
+- **Act** `eu:32012R0528` · **In force** 2026-06-15 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02012R0528-20240611` · `v2` = `02012R0528-20260615`
+
+---
+
+**MODIFIED · Art. 60 — Data protection periods** · applies from: unchanged
+
+*within* `AR 60 PA 1 ALN 2` · *amended by* `32026R1165`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02012R0528-20240611`)
+
+> Article 60
+> Data protection periods
+> 1. Data submitted for the purposes of Directive 98/8/EC or of this Regulation shall benefit from data protection under the conditions laid down in this Article. The protection period for the data shall start when they are submitted for the first time.
+> Data protected under this Article or for which the protection period under this Article has expired shall not be protected again.
+> 2. The protection period for data submitted with a view to the approval of an existing active substance shall end 10 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+> The protection period for data submitted with a view to the approval of a new active substance shall end 15 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+> The protection period for new data submitted with a view to the renewal or review of the approval of an active substance shall end five years from the first day of the month following the date of the adoption of a decision in accordance with Article 14(4) concerning the renewal or the review.
+> 3. The protection period for data submitted with a view to the authorisation of a biocidal product containing only existing active substances shall end 10 years from the first […truncated by emendrix: 815 characters omitted…]
+
+*after* (`02012R0528-20260615`)
+
+> Article 60
+> Data protection periods
+> 1. Data submitted for the purposes of Directive 98/8/EC or of this Regulation shall benefit from data protection under the conditions laid down in this Article. The protection period for the data shall start when they are submitted for the first time.
+> Without prejudice to Article 95(5), second subparagraph, protection periods under this Article which have expired shall not start to run again.
+> 2. The protection period for data submitted with a view to the approval of an existing active substance shall end 10 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+> The protection period for data submitted with a view to the approval of a new active substance shall end 15 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+> The protection period for new data submitted with a view to the renewal or review of the approval of an active substance shall end five years from the first day of the month following the date of the adoption of a decision in accordance with Article 14(4) concerning the renewal or the review.
+> 3. The protection period for data submitted with a view to the authorisation of a biocidal product containing only existing active substances shall end 10 years f […truncated by emendrix: 829 characters omitted…]
+
+**MODIFIED · Art. 95 — Transitional measures concerning access to the active substance dossier** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 95 PA 5 ALN 2`, `AR 95 PA 5 ALN 3` · *dates* +2018-06-07 +2026-01-01 +2026-06-15 +2030-12-31 · *amended by* `32026R1165`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02012R0528-20240611`)
+
+> Article 95
+> Transitional measures concerning access to the active substance dossier
+> 1. As of 1 September 2013, the Agency shall make publicly available and shall regularly update a list of all active substances, and all substances generating an active substance, for which a dossier complying with Annex II to this Regulation or with Annex IIA or IVA to Directive 98/8/EC and, where relevant, Annex IIIA to that Directive (the complete substance dossier) has been submitted and accepted or validated by a Member State in a procedure provided for by this Regulation or that Directive (the relevant substances). For each relevant substance, the list shall also include all persons having made such a submission or a submission to the Agency in accordance with the second subparagraph of this paragraph, and indicate their role as specified in that subparagraph, and the product-type(s) for which they have made a submission, as well as the date of inclusion of the substance in the list.
+> A person established within the Union who manufactures or imports a relevant substance, on its own or in biocidal products (the substance supplier) or who manufactures or makes available on the market a biocidal product consisting of, containing or generating that relevant substance (the product supplier), may at any time submit to the Agency either a complete substance dossier for that relevant substance, a letter of access to a complete substance dossier, or a reference to a complete substance dossier for wh […truncated by emendrix: 2976 characters omitted…]
+
+*after* (`02012R0528-20260615`)
+
+> Article 95
+> Transitional measures concerning access to the active substance dossier
+> 1. As of 1 September 2013, the Agency shall make publicly available and shall regularly update a list of all active substances, and all substances generating an active substance, for which a dossier complying with Annex II to this Regulation or with Annex IIA or IVA to Directive 98/8/EC and, where relevant, Annex IIIA to that Directive (the complete substance dossier) has been submitted and accepted or validated by a Member State in a procedure provided for by this Regulation or that Directive (the relevant substances). For each relevant substance, the list shall also include all persons having made such a submission or a submission to the Agency in accordance with the second subparagraph of this paragraph, and indicate their role as specified in that subparagraph, and the product-type(s) for which they have made a submission, as well as the date of inclusion of the substance in the list.
+> A person established within the Union who manufactures or imports a relevant substance, on its own or in biocidal products (the substance supplier) or who manufactures or makes available on the market a biocidal product consisting of, containing or generating that relevant substance (the product supplier), may at any time submit to the Agency either a complete substance dossier for that relevant substance, a letter of access to a complete substance dossier, or a reference to a complete substance dossier for wh […truncated by emendrix: 3584 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20260615 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20240611 -->
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20240526` → `02012R0528-20240611`
