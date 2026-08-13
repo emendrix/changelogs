@@ -10,6 +10,77 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20250701 -->
+## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1095-20241230` → `02010R1095-20250701`
+
+- **Act** `eu:32010R1095` · **In force** 2025-07-01 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02010R1095-20241230` · `v2` = `02010R1095-20250701`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40 — Composition** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 40 PA 6 ALN 1` · *dates* +2024-05-31 · *amended by* `32024R1620`
+
+Paragraph 6 adds a sentence stating that the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, established by Regulation (EU) 2024/1620, when matters within its mandate are discussed or decided upon. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20250701#art_40)
+
+The earlier text only stated that the Board of Supervisors may decide to admit observers, without naming this specific authority. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_40)
+
+*before* (`02010R1095-20241230`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where […truncated by emendrix: 1120 characters omitted…]
+
+*after* (`02010R1095-20250701`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial market participants in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Securities and Markets Stakeholder Group regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. For the purpose of acting within the scope of Directive 97/9/EC, the member of the Board of Supervisors referred to in paragraph 1(b) may, where […truncated by emendrix: 1778 characters omitted…]
+
+**MODIFIED · Art. 54** · applies from: unknown
+
+*amended by* `32024R1620`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1095-20250701 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1095-20241230 -->
 ## Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1095-20220812` → `02010R1095-20241230`
