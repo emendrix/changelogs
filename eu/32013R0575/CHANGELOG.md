@@ -10,6 +10,5485 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190627 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20190426` → `02013R0575-20190627`
+
+- **Act** `eu:32013R0575` · **In force** 2019-06-27 · **Detected** 2026-08-13
+- **Touched** 292 provisions — 292 substantive · 0 date-only · **215 disputed**
+- **Diff** 164 inserted · 128 modified · 1 deleted · 0 renumbered · 0 deferred · 477 unchanged
+- **Gate** 0 sentences quoted verbatim · 134 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20190426` · `v2` = `02013R0575-20190627`
+
+---
+
+**MODIFIED · Art. 1 — Scope** · applies from: unchanged
+
+*within* `AR 1 ALN 1`, `AR 1 ALN 1 PTA (a)`, `AR 1 ALN 1 PTA (c)`, `AR 1 ALN 1 PTA (d)`, `AR 1 ALN 2`, `AR 1 ALN 3` · *amended by* `32019R0876`
+
+The scope now names financial holding companies and mixed financial holding companies, in addition to institutions, as subject to the general prudential requirements under Directive 2013/36/EU. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_1)
+
+Point (a) now includes leverage among the elements covered by own funds requirements, while point (c) no longer conditions liquidity requirements on the entry into force of the delegated act referred to in Article 460, and point (d) no longer refers to leverage as a separate reporting item. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_1)
+
+A new paragraph has been added stating that the Regulation also lays down uniform rules on own funds and eligible liabilities requirements for resolution entities that are global systemically important institutions or part of such institutions, and for material subsidiaries of non-EU global systemically important institutions. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_1)
+
+*before* (`02013R0575-20190426`)
+
+> Article 1
+> Scope
+> This Regulation lays down uniform rules concerning general prudential requirements that institutions supervised under Directive 2013/36/EU shall comply with in relation to the following items:
+> (a) own funds requirements relating to entirely quantifiable, uniform and standardised elements of credit risk, market risk, operational risk and settlement risk;
+> (b) requirements limiting large exposures;
+> (c) after the delegated act referred to in Article 460 has entered into force, liquidity requirements relating to entirely quantifiable, uniform and standardised elements of liquidity risk;
+> (d) reporting requirements related to points (a), (b) and (c) and to leverage;
+> (e) public disclosure requirements.
+> This Regulation does not govern publication requirements for competent authorities in the field of prudential regulation and supervision of institutions as set out in Directive 2013/36/EU.
+
+*after* (`02013R0575-20190627`)
+
+> Article 1
+> Scope
+> This Regulation lays down uniform rules concerning general prudential requirements that institutions, financial holding companies and mixed financial holding companies supervised under Directive 2013/36/EU shall comply with in relation to the following items:
+> (a) own funds requirements relating to entirely quantifiable, uniform and standardised elements of credit risk, market risk, operational risk, settlement risk and leverage;
+> (b) requirements limiting large exposures;
+> (c) liquidity requirements relating to entirely quantifiable, uniform and standardised elements of liquidity risk;
+> (d) reporting requirements related to points (a), (b) and (c);
+> (e) public disclosure requirements.
+> This Regulation lays down uniform rules concerning the own funds and eligible liabilities requirements that resolution entities that are global systemically important institutions (G-SIIs) or part of G-SIIs and material subsidiaries of non-EU G-SIIs shall comply with.
+> This Regulation does not govern publication requirements for competent authorities in the field of prudential regulation and supervision of institutions as set out in Directive 2013/36/EU.
+
+**MODIFIED · Art. 2 — Supervisory powers** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 2 PA 1`, `AR 2 PA 2`, `AR 2 PA 3`, `AR 2 PA 4`, `AR 2 ALN 1` · *dates* +2013-10-15 +2014-05-15 +2014-07-15 · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The single unnumbered paragraph on competent authorities' powers under Directive 2013/36/EU was restructured into four numbered paragraphs, with paragraph 1 adding a reference to this Regulation itself alongside the Directive. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
+
+New paragraph 2 adds resolution authorities and directs them to the powers and procedures of Directive 2014/59/EU and this Regulation, new paragraph 3 states that competent authorities and resolution authorities shall cooperate on own funds and eligible liabilities requirements, and new paragraph 4 states that the Single Resolution Board and the European Central Bank shall ensure regular and reliable exchange of relevant information within their respective competences. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
+
+*before* (`02013R0575-20190426`)
+
+> Article 2
+> Supervisory powers
+> For the purposes of ensuring compliance with this Regulation, competent authorities shall have the powers and shall follow the procedures set out in Directive 2013/36/EU.
+
+*after* (`02013R0575-20190627`)
+
+> Article 2
+> Supervisory powers
+> 1. For the purpose of ensuring compliance with this Regulation, competent authorities shall have the powers and shall follow the procedures set out in Directive 2013/36/EU and in this Regulation.
+> 2. For the purpose of ensuring compliance with this Regulation, resolution authorities shall have the powers and shall follow the procedures set out in Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190). and in this Regulation.
+> 3. For the purpose of ensuring compliance with the requirements concerning own funds and eligible liabilities, competent authorities and resolution authorities shall cooperate.
+> 4. For the purpose of ensuring compliance within their respective competences, the Single Resolution Board established by Article 42 of Regulation (EU) No 806/2014 of the European Parliament and of the CouncilRegulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit inst […truncated by emendrix: 615 characters omitted…]
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 PA 1 ALN 1 PO 7`, `AR 4 PA 1 ALN 1 PO 20`, `AR 4 PA 1 ALN 1 PO 26`, `AR 4 PA 1 ALN 1 PO 28`, `AR 4 PA 1 ALN 1 PO 29a`, `AR 4 PA 1 ALN 1 PO 29b`, `AR 4 PA 1 ALN 1 PO 29c`, `AR 4 PA 1 ALN 1 PO 29d`, `AR 4 PA 1 ALN 1 PO 39`, `AR 4 PA 1 ALN 1 PO 41`, `AR 4 PA 1 ALN 1 PO 71 PTA (b)`, `AR 4 PA 1 ALN 1 PO 72 PTA (a)`, `AR 4 PA 1 ALN 1 PO 86`, `AR 4 PA 1 ALN 1 PO 91`, `AR 4 PA 1 ALN 1 PO 96`, `AR 4 PA 1 ALN 1 PO 127 PTA (a)`, `AR 4 PA 1 ALN 1 PO 128`, `AR 4 PA 1 ALN 1 PO 129`, `AR 4 PA 1 ALN 1 PO 130`, `AR 4 PA 1 ALN 1 PO 131`, `AR 4 PA 1 ALN 1 PO 132`, `AR 4 PA 1 ALN 1 PO 133`, `AR 4 PA 1 ALN 1 PO 134`, `AR 4 PA 1 ALN 1 PO 135`, `AR 4 PA 1 ALN 1 PO 136`, `AR 4 PA 1 ALN 1 PO 137`, `AR 4 PA 1 ALN 1 PO 138`, `AR 4 PA 1 ALN 1 PO 139`, `AR 4 PA 1 ALN 1 PO 140`, `AR 4 PA 1 ALN 1 PO 141`, `AR 4 PA 1 ALN 1 PO 142`, `AR 4 PA 1 ALN 1 PO 143`, `AR 4 PA 1 ALN 1 PO 144`, `AR 4 PA 1 ALN 1 PO 145`, `AR 4 PA 1 ALN 1 PO 146`, `AR 4 PA 1 ALN 1 PO 147`, `AR 4 PA 1 ALN 1 PO 148`, `AR 4 PA 1 ALN 1 PO 149`, `AR 4 PA 4` · *dates* -2007-11-13 +2004-12-15 +2013-06-26 +2014-05-15 +2015-11-25 +2020-06-28 · *amended by* `32019R0876`
+
+Several existing definitions were reworded, including the tests for a financial holding company's subsidiaries, the scope of parent institution in a Member State, financial institution's exclusions and payment institution reference, recognised exchange's inclusion of certain third-country markets, trading book, internal hedge, trade exposure, and cross-guarantee scheme, distributable items and consolidating supervisor. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+
+New defined terms were added after the existing list, such as parent investment firm and parent credit institution variants, and after point 129 a long series of new points including resolution authority, resolution entity, resolution group, G-SII and non-EU G-SII, material subsidiary, G-SII entity, bail-in tool, group, securities financing transaction and initial margin, together with a new exclusion for persons linked only through direct exposure to the same CCP in the group of connected clients definition. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+
+The text provided is truncated partway through the added definitions, so further differences beyond that point cannot be described. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+
+*before* (`02013R0575-20190426`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (2) investment firm means a person as defined in point (1) of Article 4(1) of Directive 2004/39/EC, which is subject to the requirements imposed by that Directive, excluding the following:
+> (a) credit institutions;
+> (b) local firms;
+> (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
+> (3) institution means a credit institution or an investment firm;
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35179 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 4
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (1) credit institution means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+> (2) investment firm means a person as defined in point (1) of Article 4(1) of Directive 2004/39/EC, which is subject to the requirements imposed by that Directive, excluding the following:
+> (a) credit institutions;
+> (b) local firms;
+> (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
+> (3) institution means a credit institution or an investment firm;
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 44474 characters omitted…]
+
+**MODIFIED · Art. 6 — General principles** · applies from: unchanged
+
+*within* `AR 6 PA 1a` · *amended by* `32019R0876`
+
+A new paragraph 1a is inserted, stating that by way of derogation from paragraph 1, only institutions identified as resolution entities that are also G-SIIs or part of a G-SII and that do not have subsidiaries shall comply with the requirement in Article 92a on an individual basis. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_6)
+
+The new paragraph 1a also adds that material subsidiaries of a non-EU G-SII shall comply with Article 92b on an individual basis where they are not resolution entities, do not have subsidiaries, and are not subsidiaries of an EU parent institution. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_6)
+
+Paragraphs 2 through 5 remain textually unchanged between the two versions. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_6)
+
+*before* (`02013R0575-20190426`)
+
+> Article 6
+> General principles
+> 1. Institutions shall comply with the obligations laid down in Parts Two to Five and Eight on an individual basis.
+> 2. No institution which is either a subsidiary in the Member State where it is authorised and supervised, or a parent undertaking, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Articles 89, 90 and 91 on an individual basis.
+> 3. No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
+> 4. Credit institutions and investment firms that are authorised to provide the investment services and activities listed in points (3) and (6) of Section A of Annex I to Directive 2004/39/EC shall comply with the obligations laid down in Part Six on an individual basis. Pending the report from the Commission in accordance with Article 508(3), competent authorities may exempt investment firms from compliance with the obligations laid down in Part Six taking into account the nature, scale and complexity of the investment firms' activities.
+> 5. Institutions, except for investment firms referred to in Article 95(1) and Article 96(1) and institutions for which competent authorities have exercised the derogation specified in Article 7(1) or (3), shall comply with the obligations laid down in Part […truncated by emendrix: 29 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 6
+> General principles
+> 1. Institutions shall comply with the obligations laid down in Parts Two to Five and Eight on an individual basis.
+> 1a. By way of derogation from paragraph 1 of this Article, only institutions identified as resolution entities that are also G-SIIs or that are part of a G-SII, and that do not have subsidiaries shall comply with the requirement laid down in Article 92a on an individual basis.
+> Material subsidiaries of a non-EU G-SII shall comply with Article 92b on an individual basis, where they meet all the following conditions:
+> (a) they are not resolution entities;
+> (b) they do not have subsidiaries;
+> (c) they are not the subsidiaries of an EU parent institution.
+> 2. No institution which is either a subsidiary in the Member State where it is authorised and supervised, or a parent undertaking, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Articles 89, 90 and 91 on an individual basis.
+> 3. No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
+> 4. Credit institutions and investment firms that are authorised to provide the investment services and activities listed in points (3) and (6) of Section A of Annex I to Directive 2004/39/EC shall comply with the obligations laid down in Part Six […truncated by emendrix: 583 characters omitted…]
+
+**MODIFIED · Art. 8** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 10** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11 — General treatment** · applies from: unchanged
+
+*within* `AR 11 PA 3a` · *amended by* `32019R0876`
+
+A new paragraph 3a has been inserted, requiring that only parent institutions identified as resolution entities that are G-SIIs, part of a G-SII, or part of a non-EU G-SII comply with Article 92a on a consolidated basis, to the extent and manner set out in Article 18. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_11)
+
+This new paragraph also states that only EU parent undertakings that are a material subsidiary of a non-EU G-SII and are not resolution entities must comply with Article 92b on a consolidated basis, and that where Article 21b(2) of Directive 2013/36/EU applies, two intermediate EU parent undertakings jointly identified as a material subsidiary shall each comply with Article 92b on the basis of their own consolidated situation. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_11)
+
+This paragraph 3a did not appear in the earlier version of Article 11. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_11)
+
+*before* (`02013R0575-20190426`)
+
+> Article 11
+> General treatment
+> 1. Parent institutions in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of their consolidated situation. The parent undertakings and their subsidiaries subject to this Regulation shall set up a proper organisational structure and appropriate internal control mechanisms in order to ensure that the data required for consolidation are duly processed and forwarded. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure a proper consolidation.
+> 2. Institutions controlled by a parent financial holding company or a parent mixed financial holding company in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of the consolidated situation of that financial holding company or mixed financial holding company.
+> Where more than one institution is controlled by a parent financial holding company or by a parent mixed financial holding company in a Member State, the first subparagraph shall apply only to the institution to which supervision on a consolidated basis applies in accordance with Article 111 of Directive 2013/36/EU.
+> 3. EU parent institutions, institutions controlled by an EU parent financial holding company and institutions controlled by […truncated by emendrix: 2085 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 11
+> General treatment
+> 1. Parent institutions in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of their consolidated situation. The parent undertakings and their subsidiaries subject to this Regulation shall set up a proper organisational structure and appropriate internal control mechanisms in order to ensure that the data required for consolidation are duly processed and forwarded. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure a proper consolidation.
+> 2. Institutions controlled by a parent financial holding company or a parent mixed financial holding company in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of the consolidated situation of that financial holding company or mixed financial holding company.
+> Where more than one institution is controlled by a parent financial holding company or by a parent mixed financial holding company in a Member State, the first subparagraph shall apply only to the institution to which supervision on a consolidated basis applies in accordance with Article 111 of Directive 2013/36/EU.
+> 3. EU parent institutions, institutions controlled by an EU parent financial holding company and institutions controlled by […truncated by emendrix: 2908 characters omitted…]
+
+**DELETED · Art. 12** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 12a — Consolidated calculation for G-SIIs with multiple resolution entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 12a is added, setting out a consolidated calculation of own funds and eligible liabilities for a G-SII that has more than one resolution entity, to be performed by the EU parent institution as if it were the sole resolution entity of the group. [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_12a)
+
+The article also specifies that where this consolidated amount is lower than the sum of the corresponding amounts calculated for all resolution entities in the G-SII, resolution authorities shall act under Articles 45d(3) and 45h(2) of Directive 2014/59/EU, and where it is higher, they may act under those same provisions. [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_12a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 12a
+> Consolidated calculation for G-SIIs with multiple resolution entities
+> Where at least two G-SII entities belonging to the same G-SII are resolution entities, the EU parent institution of that G-SII shall calculate the amount of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation. That calculation shall be undertaken on the basis of the consolidated situation of the EU parent institution as if it were the only resolution entity of the G-SII.
+> Where the amount calculated in accordance with the first paragraph of this Article is lower than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities shall act in accordance with Articles 45d(3) and 45h(2) of Directive 2014/59/EU.
+> Where the amount calculated in accordance with the first paragraph of this Article is higher than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities may act in accordance with Articles 45d(3) and 45h(2) of Directive 2014/59/EU.
+
+**MODIFIED · Art. 13 — Application of disclosure requirements on a consolidated basis** · applies from: unchanged
+
+*within* `AR 13 PA 1 ALN 1`, `AR 13 PA 1 ALN 2`, `AR 13 PA 2 ALN 1`, `AR 13 PA 2 ALN 2`, `AR 13 PA 3 ALN 1`, `AR 13 PA 3 ALN 2`, `AR 13 PA 4 ALN 1` · *amended by* `32019R0876`
+
+Paragraph 1 now refers to "large subsidiaries" rather than "significant subsidiaries" and subsidiaries of material significance for their local market, adds Article 451a to the list of disclosures those subsidiaries must make, and describes disclosure as being on an individual basis or, where applicable under the Regulation and Directive 2013/36/EU, on a sub-consolidated basis, rather than on an individual or sub-consolidated basis. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_13)
+
+Paragraph 2, which previously addressed institutions controlled by an EU parent financial holding company or mixed financial holding company and their significant or locally material subsidiaries, has been replaced with a provision addressing institutions identified as resolution entities that are G-SIIs or part of a G-SII, requiring compliance with Article 437a and point (h) of Article 447 on the basis of the consolidated situation of their resolution group. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_13)
+
+Paragraph 3 now specifies that only the first subparagraph of paragraph 1 does not apply to the listed entities, expands that list to include EU parent financial holding companies, EU parent mixed financial holding companies and resolution entities, and adds a second subparagraph applying the second subparagraph of paragraph 1 to subsidiaries of third-country parent undertakings that qualify as large subsidiaries; paragraph 4 changes "is applied" to "applies" and "the subsidiaries" to "subsidiaries" but otherwise restates the same content. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_13)
+
+*before* (`02013R0575-20190426`)
+
+> Article 13
+> Application of disclosure requirements on a consolidated basis
+> 1. EU parent institutions shall comply with the obligations laid down in Part Eight on the basis of their consolidated situation.
+> Significant subsidiaries of EU parent institutions and those subsidiaries which are of material significance for their local market shall disclose the information specified in Articles 437, 438, 440, 442, 450, 451 and 453, on an individual or sub-consolidated basis.
+> 2. Institutions controlled by an EU parent financial holding company or EU parent mixed financial holding company shall comply with the obligations laid down in Part Eight on the basis of the consolidated situation of that financial holding company or mixed financial holding company.
+> Significant subsidiaries of EU parent financial holding companies or EU parent mixed holding companies and those subsidiaries which are of material significance for their local market shall disclose the information specified in Articles 437, 438, 440, 442, 450, 451 and 453 on an individual or sub-consolidated basis.
+> 3. Paragraphs 1 and 2 shall not apply in full or in part to EU parent institutions, institutions controlled by an EU parent financial holding company or EU parent mixed financial holding company, to the extent that they are included within equivalent disclosures provided on a consolidated basis by a parent undertaking established in a third country.
+> 4. Where Article 10 is applied, the central body referred to in that Artic […truncated by emendrix: 251 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 13
+> Application of disclosure requirements on a consolidated basis
+> 1. EU parent institutions shall comply with Part Eight on the basis of their consolidated situation.
+> Large subsidiaries of EU parent institutions shall disclose the information specified in Articles 437, 438, 440, 442, 450, 451, 451a and 453 on an individual basis or, where applicable in accordance with this Regulation and Directive 2013/36/EU, on a sub-consolidated basis.
+> 2. Institutions identified as resolution entities that are G-SIIs or that are part of a G-SII shall comply with Article 437a and point (h) of Article 447 on the basis of the consolidated situation of their resolution group.
+> 3. The first subparagraph of paragraph 1 shall not apply to EU parent institutions, EU parent financial holding companies, EU parent mixed financial holding companies or resolution entities where they are included in equivalent disclosures on a consolidated basis provided by a parent undertaking established in a third country.
+> The second subparagraph of paragraph 1 shall apply to subsidiaries of parent undertakings established in a third country where those subsidiaries qualify as large subsidiaries.
+> 4. Where Article 10 applies, the central body referred to in that Article shall comply with Part Eight on the basis of the consolidated situation of the central body. Article 18(1) shall apply to the central body and the affiliated institutions shall be treated as subsidiaries of the central body.
+
+**MODIFIED · Art. 14 — Application of requirements of Article 5 of Regulation (EU) 2017/2402 on a consolidated basis** · applies from: unchanged
+
+*within* `AR 14`, `AR 14 PA 1 ALN 1`, `AR 14 PA 2 ALN 1`, `AR 14 PA 3` · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The heading and paragraph 1 now refer to obligations under Article 5 of Regulation (EU) 2017/2402 on a consolidated or sub-consolidated basis, replacing the earlier reference to obligations laid down in Part Five of this Regulation. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_14)
+
+Paragraph 2 now points to Article 270a instead of Article 407 for the additional risk weight, and it identifies the breached requirements as those of Article 5 of Regulation (EU) 2017/2402 rather than of Articles 405 or 406, with cross-references to Article 92 and Article 18 now specified as being of this Regulation. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_14)
+
+The former paragraph 3, which addressed a third-country legality exemption from obligations under Part Five for subsidiaries not themselves subject to this Regulation, no longer appears in the text shown. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_14)
+
+*before* (`02013R0575-20190426`)
+
+> Article 14
+> Application of requirements of Part Five on a consolidated basis
+> 1. Parent undertakings and their subsidiaries subject to this Regulation shall meet the obligations laid down in Part Five on a consolidated or sub-consolidated basis, to ensure that their arrangements, processes and mechanisms required by those provisions are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure compliance with those provisions.
+> 2. Institutions shall apply an additional risk weight in accordance with Article 407 when applying Article 92 on a consolidated or sub-consolidated basis if the requirements of Article 405 or 406 are breached at the level of an entity established in a third country included in the consolidation in accordance with Article 18 if the breach is material in relation to the overall risk profile of the group.
+> 3. Obligations resulting from Part Five concerning subsidiaries, not themselves subject to this Regulation, shall not apply if the EU parent institution or institutions controlled by an EU parent financial holding company or EU parent mixed financial holding company, can demonstrate to the competent authorities that the application of Part Five is unlawful under the laws of the third country where the subsidiary is established.
+
+*after* (`02013R0575-20190627`)
+
+> Article 14
+> Application of requirements of Article 5 of Regulation (EU) 2017/2402 on a consolidated basis
+> 1. Parent undertakings and their subsidiaries that are subject to this Regulation shall be required to meet the obligations laid down in Article 5 of Regulation (EU) 2017/2402 on a consolidated or sub-consolidated basis, to ensure that their arrangements, processes and mechanisms required by those provisions are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced. In particular, they shall ensure that subsidiaries that are not subject to this Regulation implement arrangements, processes and mechanisms to ensure compliance with those provisions.
+> 2. Institutions shall apply an additional risk weight in accordance with Article 270a of this Regulation when applying Article 92 of this Regulation on a consolidated or sub-consolidated basis if the requirements laid down in Article 5 of Regulation (EU) 2017/2402 are breached at the level of an entity established in a third country included in the consolidation in accordance with Article 18 of this Regulation if the breach is material in relation to the overall risk profile of the group.
+
+**MODIFIED · Art. 15** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Methods of prudential consolidation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 18`, `AR 18 PA 1 ALN 2`, `AR 18 PA 9` · *dates* +2020-12-31 · *amended by* `32019R0876`
+
+The heading changed from "Methods for prudential consolidation" to "Methods of prudential consolidation", and paragraph 1 gained a new subparagraph requiring institutions subject to the requirements of Article 92a or 92b on a consolidated basis to fully consolidate all subsidiaries in the relevant resolution groups for the purposes of Article 11(3a). [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_18)
+
+A new paragraph 9 was added directing EBA to develop draft regulatory technical standards on consolidation conditions for the cases in paragraphs 3 to 6 and paragraph 8, to be submitted to the Commission by 31 December 2020, with the Commission empowered to adopt them by supplementing the Regulation under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_18)
+
+The remaining paragraphs, including paragraphs 2 through 8, are unchanged in wording between the two versions. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_18)
+
+*before* (`02013R0575-20190426`)
+
+> Article 18
+> Methods for prudential consolidation
+> 1. The institutions that are required to comply with the requirements referred to in Section 1 on the basis of their consolidated situation shall carry out a full consolidation of all institutions and financial institutions that are its subsidiaries or, where relevant, the subsidiaries of the same parent financial holding company or parent mixed financial holding company. Paragraphs 2 to 8 of this Article shall not apply where Part Six applies on the basis of an institution's consolidated situation.
+> 2. However, the competent authorities may on a case-by-case basis permit proportional consolidation according to the share of capital that the parent undertaking holds in the subsidiary. Proportional consolidation may only be permitted where all of the following conditions are fulfilled:
+> (a) the liability of the parent undertaking is limited to the share of capital that the parent undertaking holds in the subsidiary in view of the liability of the other shareholders or members;
+> (b) the solvency of those other shareholders or members is satisfactory;
+> (c) the liability of the other shareholders and members is clearly established in a legally binding way.
+> 3. Where undertakings are linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC, the competent authorities shall determine how consolidation is to be carried out.
+> 4. The consolidating supervisor shall require the proportional consolidation according to th […truncated by emendrix: 2311 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 18
+> Methods of prudential consolidation
+> 1. The institutions that are required to comply with the requirements referred to in Section 1 on the basis of their consolidated situation shall carry out a full consolidation of all institutions and financial institutions that are its subsidiaries or, where relevant, the subsidiaries of the same parent financial holding company or parent mixed financial holding company. Paragraphs 2 to 8 of this Article shall not apply where Part Six applies on the basis of an institution's consolidated situation.
+> For the purposes of Article 11(3a), institutions that are required to comply with the requirements referred to in Article 92a or 92b on a consolidated basis shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries in the relevant resolution groups.
+> 2. However, the competent authorities may on a case-by-case basis permit proportional consolidation according to the share of capital that the parent undertaking holds in the subsidiary. Proportional consolidation may only be permitted where all of the following conditions are fulfilled:
+> (a) the liability of the parent undertaking is limited to the share of capital that the parent undertaking holds in the subsidiary in view of the liability of the other shareholders or members;
+> (b) the solvency of those other shareholders or members is satisfactory;
+> (c) the liability of the other shareholders and members is clearly established in a lega […truncated by emendrix: 3138 characters omitted…]
+
+**MODIFIED · Art. 22** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 26 — Common Equity Tier 1 items** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 26 PA 3 ALN 1`, `AR 26 PA 3 ALN 2`, `AR 26 PA 3 ALN 2 PTA (a)`, `AR 26 PA 3 ALN 2 PTA (b)`, `AR 26 PA 3 ALN 3`, `AR 26 PA 3 ALN 4`, `AR 26 PA 3 ALN 5` · *dates* -2013-06-28 · *amended by* `32019R0876`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20190426`)
+
+> Article 26
+> Common Equity Tier 1 items
+> 1. Common Equity Tier 1 items of institutions consist of the following:
+> (a) capital instruments, provided that the conditions laid down in Article 28 or, where applicable, Article 29 are met;
+> (b) share premium accounts related to the instruments referred to in point (a);
+> (c) retained earnings;
+> (d) accumulated other comprehensive income;
+> (e) other reserves;
+> (f) funds for general banking risk.
+> The items referred to in points (c) to (f) shall be recognised as Common Equity Tier 1 only where they are available to the institution for unrestricted and immediate use to cover risks or losses as soon as these occur.
+> 2. For the purposes of point (c) of paragraph 1, institutions may include interim or year-end profits in Common Equity Tier 1 capital before the institution has taken a formal decision confirming the final profit or loss of the institution for the year only with the prior permission of the competent authority. The competent authority shall grant permission where the following conditions are met:
+> (a) those profits have been verified by persons independent of the institution that are responsible for the auditing of the accounts of that institution;
+> (b) the institution has demonstrated to the satisfaction of the competent authority that any foreseeable charge or dividend has been deducted from the amount of those profits.
+> A verification of the interim or year-end profits of the institution shall provide an adequate level of assurance that […truncated by emendrix: 1975 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 26
+> Common Equity Tier 1 items
+> 1. Common Equity Tier 1 items of institutions consist of the following:
+> (a) capital instruments, provided that the conditions laid down in Article 28 or, where applicable, Article 29 are met;
+> (b) share premium accounts related to the instruments referred to in point (a);
+> (c) retained earnings;
+> (d) accumulated other comprehensive income;
+> (e) other reserves;
+> (f) funds for general banking risk.
+> The items referred to in points (c) to (f) shall be recognised as Common Equity Tier 1 only where they are available to the institution for unrestricted and immediate use to cover risks or losses as soon as these occur.
+> 2. For the purposes of point (c) of paragraph 1, institutions may include interim or year-end profits in Common Equity Tier 1 capital before the institution has taken a formal decision confirming the final profit or loss of the institution for the year only with the prior permission of the competent authority. The competent authority shall grant permission where the following conditions are met:
+> (a) those profits have been verified by persons independent of the institution that are responsible for the auditing of the accounts of that institution;
+> (b) the institution has demonstrated to the satisfaction of the competent authority that any foreseeable charge or dividend has been deducted from the amount of those profits.
+> A verification of the interim or year-end profits of the institution shall provide an adequate level of assurance that […truncated by emendrix: 3235 characters omitted…]
+
+**MODIFIED · Art. 28 — Common Equity Tier 1 instruments** · applies from: unchanged
+
+*within* `AR 28 PA 1 ALN 1 PTA (b)`, `AR 28 PA 1 ALN 3`, `AR 28 PA 3 ALN 2`, `AR 28 PA 3 ALN 3` · *amended by* `32019R0876`
+
+Point (b) of Article 28(1) now requires that the instruments be fully paid up and refers to the acquisition of ownership of the instruments not being funded directly or indirectly by the institution, rather than simply requiring the instruments to be paid up and their purchase not so funded. [Art. 28, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_28) [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_28)
+
+A new subparagraph was added after point (m) of Article 28(1) stating that only the fully paid-up part of a capital instrument is eligible to qualify as a Common Equity Tier 1 instrument for the purposes of point (b). [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_28)
+
+A new set of subparagraphs was added to Article 28(3) setting out conditions under which the condition in point (h)(v) of paragraph 1 is considered met notwithstanding a subsidiary being subject to a profit and loss transfer agreement with its parent undertaking, including listed conditions (a) to (f) and a notification obligation to the competent authority. [Art. 28, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_28)
+
+*before* (`02013R0575-20190426`)
+
+> Article 28
+> Common Equity Tier 1 instruments
+> 1. Capital instruments shall qualify as Common Equity Tier 1 instruments only if all the following conditions are met:
+> (a) the instruments are issued directly by the institution with the prior approval of the owners of the institution or, where permitted under applicable national law, the management body of the institution;
+> (b) the instruments are paid up and their purchase is not funded directly or indirectly by the institution;
+> (c) the instruments meet all the following conditions as regards their classification:
+> (i) they qualify as capital within the meaning of Article 22 of Directive 86/635/EEC;
+> (ii) they are classified as equity within the meaning of the applicable accounting framework;
+> (iii) they are classified as equity capital for the purposes of determining balance sheet insolvency, where applicable under national insolvency law;
+> (d) the instruments are clearly and separately disclosed on the balance sheet in the financial statements of the institution;
+> (e) the instruments are perpetual;
+> (f) the principal amount of the instruments may not be reduced or repaid, except in either of the following cases:
+> (i) the liquidation of the institution;
+> (ii) discretionary repurchases of the instruments or other discretionary means of reducing capital, where the institution has received the prior permission of the competent authority in accordance with Article 77;
+> (g) the provisions governing the instruments do not indicate expressly or i […truncated by emendrix: 5311 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 28
+> Common Equity Tier 1 instruments
+> 1. Capital instruments shall qualify as Common Equity Tier 1 instruments only if all the following conditions are met:
+> (a) the instruments are issued directly by the institution with the prior approval of the owners of the institution or, where permitted under applicable national law, the management body of the institution;
+> (b) the instruments are fully paid up and the acquisition of ownership of those instruments is not funded directly or indirectly by the institution;
+> (c) the instruments meet all the following conditions as regards their classification:
+> (i) they qualify as capital within the meaning of Article 22 of Directive 86/635/EEC;
+> (ii) they are classified as equity within the meaning of the applicable accounting framework;
+> (iii) they are classified as equity capital for the purposes of determining balance sheet insolvency, where applicable under national insolvency law;
+> (d) the instruments are clearly and separately disclosed on the balance sheet in the financial statements of the institution;
+> (e) the instruments are perpetual;
+> (f) the principal amount of the instruments may not be reduced or repaid, except in either of the following cases:
+> (i) the liquidation of the institution;
+> (ii) discretionary repurchases of the instruments or other discretionary means of reducing capital, where the institution has received the prior permission of the competent authority in accordance with Article 77;
+> (g) the provisions governing the i […truncated by emendrix: 7436 characters omitted…]
+
+**MODIFIED · Art. 33 — Cash flow hedges and changes in the value of own liabilities** · applies from: unchanged
+
+*within* `AR 33 PA 1 ALN 1 PTA (c)` · *amended by* `32019R0876`
+
+In point (c) of Article 33(1), the phrase describing the source of fair value gains and losses on derivative liabilities was changed from referring to changes in the institution's own credit standing to referring to changes in the institution's own credit risk. [Art. 33, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_33) [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_33)
+
+*before* (`02013R0575-20190426`)
+
+> Article 33
+> Cash flow hedges and changes in the value of own liabilities
+> 1. Institutions shall not include the following items in any element of own funds:
+> (a) the fair value reserves related to gains or losses on cash flow hedges of financial instruments that are not valued at fair value, including projected cash flows;
+> (b) gains or losses on liabilities of the institution that are valued at fair value that result from changes in the own credit standing of the institution;
+> (c) fair value gains and losses on derivative liabilities of the institution that result from changes in the own credit standing of the institution.
+> 2. For the purposes of point (c) of paragraph 1, institutions shall not offset the fair value gains and losses arising from the institution's own credit risk with those arising from its counterparty credit risk.
+> 3. Without prejudice to point (b) of paragraph 1, institutions may include the amount of gains and losses on their liabilities in own funds where all the following conditions are met:
+> (a) the liabilities are in the form of bonds as referred to in Article 52(4) of Directive 2009/65/EC;
+> (b) the changes in the value of the institution's assets and liabilities are due to the same changes in the institution's own credit standing;
+> (c) there is a close correspondence between the value of the bonds referred to in point (a) and the value of the institution's assets;
+> (d) it is possible to redeem the mortgage loans by buying back the bonds financing the mortgage l […truncated by emendrix: 532 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 33
+> Cash flow hedges and changes in the value of own liabilities
+> 1. Institutions shall not include the following items in any element of own funds:
+> (a) the fair value reserves related to gains or losses on cash flow hedges of financial instruments that are not valued at fair value, including projected cash flows;
+> (b) gains or losses on liabilities of the institution that are valued at fair value that result from changes in the own credit standing of the institution;
+> (c) fair value gains and losses on derivative liabilities of the institution that result from changes in the own credit risk of the institution.
+> 2. For the purposes of point (c) of paragraph 1, institutions shall not offset the fair value gains and losses arising from the institution's own credit risk with those arising from its counterparty credit risk.
+> 3. Without prejudice to point (b) of paragraph 1, institutions may include the amount of gains and losses on their liabilities in own funds where all the following conditions are met:
+> (a) the liabilities are in the form of bonds as referred to in Article 52(4) of Directive 2009/65/EC;
+> (b) the changes in the value of the institution's assets and liabilities are due to the same changes in the institution's own credit standing;
+> (c) there is a close correspondence between the value of the bonds referred to in point (a) and the value of the institution's assets;
+> (d) it is possible to redeem the mortgage loans by buying back the bonds financing the mortgage loans […truncated by emendrix: 528 characters omitted…]
+
+**MODIFIED · Art. 36 — Deductions from Common Equity Tier 1 items** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 36 PA 4` · *dates* +2020-06-28 · *amended by* `32019R0876`
+
+A new paragraph 4 has been added requiring EBA to develop draft regulatory technical standards on the application of the deduction for intangible assets referred to in point (b) of paragraph 1, including the materiality of negative effects on value that do not cause prudential concerns. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+
+This new paragraph also sets a submission deadline of 28 June 2020 for EBA to deliver those draft standards to the Commission and delegates power to the Commission to supplement the Regulation by adopting them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+
+Paragraphs 1 to 3 remain unchanged between the two versions. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+
+*before* (`02013R0575-20190426`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2959 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 3519 characters omitted…]
+
+**MODIFIED · Art. 37 — Deduction of intangible assets** · applies from: unchanged
+
+*within* `AR 37 ALN 1 PTA (b)`, `AR 37 ALN 1 PTA (c)` · *amended by* `32019R0876`
+
+Point (b) is unchanged in substance but now ends with a semicolon instead of a full stop, and a new point (c) is added. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_37)
+
+The new point (c) states that the amount to be deducted is to be reduced by the amount of the accounting revaluation of subsidiaries' intangible assets derived from consolidation of subsidiaries that is attributable to persons other than the undertakings included in the consolidation under Chapter 2 of Title II of Part One. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_37)
+
+The earlier version contained only points (a) and (b) with no equivalent provision on accounting revaluation of subsidiaries' intangible assets. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_37)
+
+*before* (`02013R0575-20190426`)
+
+> Article 37
+> Deduction of intangible assets
+> Institutions shall determine the amount of intangible assets to be deducted in accordance with the following:
+> (a) the amount to be deducted shall be reduced by the amount of associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or were derecognised under the applicable accounting framework;
+> (b) the amount to be deducted shall include goodwill included in the valuation of significant investments of the institution.
+
+*after* (`02013R0575-20190627`)
+
+> Article 37
+> Deduction of intangible assets
+> Institutions shall determine the amount of intangible assets to be deducted in accordance with the following:
+> (a) the amount to be deducted shall be reduced by the amount of associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or were derecognised under the applicable accounting framework;
+> (b) the amount to be deducted shall include goodwill included in the valuation of significant investments of the institution;
+> (c) the amount to be deducted shall be reduced by the amount of the accounting revaluation of the subsidiaries' intangible assets derived from the consolidation of subsidiaries attributable to persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+
+**MODIFIED · Art. 39 — Tax overpayments, tax loss carry backs and deferred tax assets that do not rely on future profitability** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 39 PA 2 ALN 1` · *dates* +2016-11-23 · *amended by* `32019R0876`
+
+The introductory wording of paragraph 2 now limits the deferred tax assets covered to those which were created before 23 November 2016, a restriction that was absent from the earlier version. [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_39) [Art. 39, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_39)
+
+*before* (`02013R0575-20190426`)
+
+> Article 39
+> Tax overpayments, tax loss carry backs and deferred tax assets that do not rely on future profitability
+> 1. The following items shall not be deducted from own funds and shall be subject to a risk weight in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable:
+> (a) overpayments of tax by the institution for the current year;
+> (b) current year tax losses of the institution carried back to previous years that give rise to a claim on, or a receivable from, a central government, regional government or local tax authority.
+> 2. Deferred tax assets that do not rely on future profitability shall be limited to deferred tax assets arising from temporary differences, where all the following conditions are met:
+> (a) they are automatically and mandatorily replaced without delay with a tax credit in the event that the institution reports a loss when the annual financial statements of the institution are formally approved, or in the event of liquidation or insolvency of the institution;
+> (b) an institution is able under the applicable national tax law to offset a tax credit referred to in point (a) against any tax liability of the institution or any other undertaking included in the same consolidation as the institution for tax purposes under that law or any other undertaking subject to the supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One;
+> (c) where the amount of tax credits referred to in point (b) exceeds the tax liabilities r […truncated by emendrix: 313 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 39
+> Tax overpayments, tax loss carry backs and deferred tax assets that do not rely on future profitability
+> 1. The following items shall not be deducted from own funds and shall be subject to a risk weight in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable:
+> (a) overpayments of tax by the institution for the current year;
+> (b) current year tax losses of the institution carried back to previous years that give rise to a claim on, or a receivable from, a central government, regional government or local tax authority.
+> 2. Deferred tax assets that do not rely on future profitability shall be limited to deferred tax assets which were created before 23 November 2016 and which arise from temporary differences, where all the following conditions are met:
+> (a) they are automatically and mandatorily replaced without delay with a tax credit in the event that the institution reports a loss when the annual financial statements of the institution are formally approved, or in the event of liquidation or insolvency of the institution;
+> (b) an institution is able under the applicable national tax law to offset a tax credit referred to in point (a) against any tax liability of the institution or any other undertaking included in the same consolidation as the institution for tax purposes under that law or any other undertaking subject to the supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One;
+> (c) where the amount of tax credits ref […truncated by emendrix: 364 characters omitted…]
+
+**MODIFIED · Art. 45 — Deduction of holdings of Common Equity Tier 1 instruments of financial sector entities** · applies from: unchanged
+
+*within* `AR 45 ALN 1 PTA (a) PTI (i)` · *amended by* `32019R0876`
+
+The condition on maturity in point (a)(i) is reworded from comparing whether the short position's maturity matches the long position's maturity or has a residual maturity of at least one year, to comparing whether the short position's maturity date is the same as or later than the long position's maturity date, or its residual maturity is at least one year. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_45)
+
+*before* (`02013R0575-20190426`)
+
+> Article 45
+> Deduction of holdings of Common Equity Tier 1 instruments of financial sector entities
+> Institutions shall make the deductions required by points (h) and (i) of Article 36(1) in accordance with the following provisions:
+> (a) they may calculate direct, indirect and synthetic holdings of Common Equity Tier 1 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year;
+> (ii) either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+*after* (`02013R0575-20190627`)
+
+> Article 45
+> Deduction of holdings of Common Equity Tier 1 instruments of financial sector entities
+> Institutions shall make the deductions required by points (h) and (i) of Article 36(1) in accordance with the following provisions:
+> (a) they may calculate direct, indirect and synthetic holdings of Common Equity Tier 1 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity date of the short position is either the same as, or later than the maturity date of the long position or the residual maturity of the short position is at least one year;
+> (ii) either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+**MODIFIED · Art. 49 — Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied** · applies from: unchanged
+
+*within* `AR 49 PA 2 ALN 3`, `AR 49 PA 3 ALN 1 PTA (a) PTI (iv)`, `AR 49 PA 3 ALN 1 PTA (a) PTI (v)` · *amended by* `32019R0876`
+
+A new subparagraph has been added to paragraph 2 stating that this paragraph does not apply when calculating own funds for the purposes of the requirements in Articles 92a and 92b, which are instead to be calculated under the deduction framework in Article 72e(4). [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+
+In paragraph 3(1)(a)(iv), the reporting frequency for the consolidated balance sheet or extended aggregated calculation is now set by reference to the implementing technical standards mentioned in Article 430(7), replacing the earlier reference to the frequency in Article 99. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+
+In paragraph 3(1)(a)(v), the reference for reporting compliance with the requirements in Article 92 has been changed from Article 99 to Article 430. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+
+*before* (`02013R0575-20190426`)
+
+> Article 49
+> Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied
+> 1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:
+> (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
+> (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
+> (c) the institution has received the prior permission of the competent authorities;
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5327 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 49
+> Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied
+> 1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:
+> (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
+> (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
+> (c) the institution has received the prior permission of the competent authorities;
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5589 characters omitted…]
+
+**MODIFIED · Art. 52 — Additional Tier 1 instruments** · applies from: unchanged
+
+*within* `AR 52 PA 1 ALN 1 PTA (a)`, `AR 52 PA 1 ALN 1 PTA (b)`, `AR 52 PA 1 ALN 1 PTA (c)`, `AR 52 PA 1 ALN 1 PTA (h)`, `AR 52 PA 1 ALN 1 PTA (j)`, `AR 52 PA 1 ALN 1 PTA (j) PTI (i)`, `AR 52 PA 1 ALN 1 PTA (j) PTI (ii)`, `AR 52 PA 1 ALN 1 PTA (p)`, `AR 52 PA 1 ALN 1 PTA (p) PTI (i)`, `AR 52 PA 1 ALN 1 PTA (p) PTI (ii)`, `AR 52 PA 1 ALN 1 PTA (q)`, `AR 52 PA 1 ALN 1 PTA (r)`, `AR 52 PA 1 ALN 3` · *amended by* `32019R0876`
+
+The conditions in points (a) to (c) are reworded, requiring direct issuance and full paid-up status, referring to instruments not being owned rather than not purchased, and describing the acquisition of ownership rather than the purchase as not being funded by the institution. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_52)
+
+Point (h) now covers early redemption options generally rather than only call options, and point (j) is shortened to remove the separate carve-outs for liquidation and discretionary repurchases with competent authority permission, instead referring to indications of calling, redemption or repurchase other than in insolvency or liquidation. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_52)
+
+Point (p) is replaced with new write-down and conversion requirements tied to resolution authority or third-country authority decisions under Directive 2014/59/EU, a new point (q) sets conditions on third-country governing law for enforceability of write-down and conversion powers, a new point (r) addresses set-off or netting arrangements, and a new subparagraph is added after paragraph (1) stating that only the fully paid-up part of an instrument is eligible under point (a). [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_52)
+
+*before* (`02013R0575-20190426`)
+
+> Article 52
+> Additional Tier 1 instruments
+> 1. Capital instruments shall qualify as Additional Tier 1 instruments only if the following conditions are met:
+> (a) the instruments are issued and paid up;
+> (b) the instruments are not purchased by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) an undertaking in which the institution has a participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the purchase of the instruments is not funded directly or indirectly by the institution;
+> (d) the instruments rank below Tier 2 instruments in the event of the insolvency of the institution;
+> (e) the instruments are neither secured nor subject to a guarantee that enhances the seniority of the claims by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) the parent undertaking of the institution or its subsidiaries;
+> (iii) the parent financial holding company or its subsidiaries;
+> (iv) the mixed activity holding company or its subsidiaries;
+> (v) the mixed financial holding company or its subsidiaries;
+> (vi) any undertaking that has close links with entities referred to in points (i) to (v);
+> (f) the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of the claim under the instruments in insolvency or liquidation;
+> (g) the instruments are perpetual and the provisions governing them include no incentive for the institution to redeem the […truncated by emendrix: 4082 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 52
+> Additional Tier 1 instruments
+> 1. Capital instruments shall qualify as Additional Tier 1 instruments only if the following conditions are met:
+> (a) the instruments are directly issued by an institution and fully paid up;
+> (b) the instruments are not owned by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) an undertaking in which the institution has a participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the acquisition of ownership of the instruments is not funded directly or indirectly by the institution;
+> (d) the instruments rank below Tier 2 instruments in the event of the insolvency of the institution;
+> (e) the instruments are neither secured nor subject to a guarantee that enhances the seniority of the claims by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) the parent undertaking of the institution or its subsidiaries;
+> (iii) the parent financial holding company or its subsidiaries;
+> (iv) the mixed activity holding company or its subsidiaries;
+> (v) the mixed financial holding company or its subsidiaries;
+> (vi) any undertaking that has close links with entities referred to in points (i) to (v);
+> (f) the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of the claim under the instruments in insolvency or liquidation;
+> (g) the instruments are perpetual and the provisions governing them include n […truncated by emendrix: 5669 characters omitted…]
+
+**MODIFIED · Art. 54 — Write down or conversion of Additional Tier 1 instruments** · applies from: unchanged
+
+*within* `AR 54 PA 1 ALN 1 PTA (d) PTI (iii)`, `AR 54 PA 1 ALN 1 PTA (e)` · *amended by* `32019R0876`
+
+The point (d)(iii) text on distributions made on the instrument now ends with a semicolon rather than a full stop, connecting it to a new point that follows. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_54)
+
+A new point (e) has been added stating that where Additional Tier 1 instruments were issued by a subsidiary undertaking established in a third country, the 5,125 % or higher trigger referred to in point (a) is to be calculated according to that third country's national law or the contractual provisions governing the instruments, subject to the competent authority being satisfied, after consulting EBA, that those provisions are at least equivalent to the requirements set out in this Article. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_54)
+
+This point (e) and the corresponding punctuation change in point (d)(iii) are absent from the earlier version of the Article. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_54)
+
+*before* (`02013R0575-20190426`)
+
+> Article 54
+> Write down or conversion of Additional Tier 1 instruments
+> 1. For the purposes of point (n) of Article 52(1), the following provisions shall apply to Additional Tier 1 instruments:
+> (a) a trigger event occurs when the Common Equity Tier 1 capital ratio of the institution referred to in point (a) of Article 92(1) falls below either of the following:
+> (i) 5,125 %;
+> (ii) a level higher than 5,125 %, where determined by the institution and specified in the provisions governing the instrument;
+> (b) institutions may specify in the provisions governing the instrument one or more trigger events in addition to that referred to in point (a);
+> (c) where the provisions governing the instruments require them to be converted into Common Equity Tier 1 instruments upon the occurrence of a trigger event, those provisions shall specify either of the following:
+> (i) the rate of such conversion and a limit on the permitted amount of conversion;
+> (ii) a range within which the instruments will convert into Common Equity Tier 1 instruments;
+> (d) where the provisions governing the instruments require their principal amount to be written down upon the occurrence of a trigger event, the write down shall reduce all the following:
+> (i) the claim of the holder of the instrument in the insolvency or liquidation of the institution;
+> (ii) the amount required to be paid in the event of the call or redemption of the instrument;
+> (iii) the distributions made on the instrument.
+> 2. Write down or conversion of an […truncated by emendrix: 2133 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 54
+> Write down or conversion of Additional Tier 1 instruments
+> 1. For the purposes of point (n) of Article 52(1), the following provisions shall apply to Additional Tier 1 instruments:
+> (a) a trigger event occurs when the Common Equity Tier 1 capital ratio of the institution referred to in point (a) of Article 92(1) falls below either of the following:
+> (i) 5,125 %;
+> (ii) a level higher than 5,125 %, where determined by the institution and specified in the provisions governing the instrument;
+> (b) institutions may specify in the provisions governing the instrument one or more trigger events in addition to that referred to in point (a);
+> (c) where the provisions governing the instruments require them to be converted into Common Equity Tier 1 instruments upon the occurrence of a trigger event, those provisions shall specify either of the following:
+> (i) the rate of such conversion and a limit on the permitted amount of conversion;
+> (ii) a range within which the instruments will convert into Common Equity Tier 1 instruments;
+> (d) where the provisions governing the instruments require their principal amount to be written down upon the occurrence of a trigger event, the write down shall reduce all the following:
+> (i) the claim of the holder of the instrument in the insolvency or liquidation of the institution;
+> (ii) the amount required to be paid in the event of the call or redemption of the instrument;
+> (iii) the distributions made on the instrument;
+> (e) where the Additional Tier 1 in […truncated by emendrix: 2605 characters omitted…]
+
+**MODIFIED · Art. 59 — Deduction of holdings of Additional Tier 1 instruments of financial sector entities** · applies from: unchanged
+
+*within* `AR 59 ALN 1 PTA (a) PTI (i)` · *amended by* `32019R0876`
+
+The condition on matching maturities in point (a)(i) has been reworded from comparing whether the short position's maturity matches the long position's maturity or has a residual maturity of at least one year, to specifying that the short position's maturity date must be the same as or later than the long position's maturity date, or that the short position's residual maturity is at least one year. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_59)
+
+*before* (`02013R0575-20190426`)
+
+> Article 59
+> Deduction of holdings of Additional Tier 1 instruments of financial sector entities
+> Institutions shall make the deductions required by points (c) and (d) of Article 56 in accordance with the following:
+> (a) they may calculate direct, indirect and synthetic holdings of Additional Tier 1 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year;
+> (ii) either both the short position and the long position are held in the trading book or both are held in the non-trading book.
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+*after* (`02013R0575-20190627`)
+
+> Article 59
+> Deduction of holdings of Additional Tier 1 instruments of financial sector entities
+> Institutions shall make the deductions required by points (c) and (d) of Article 56 in accordance with the following:
+> (a) they may calculate direct, indirect and synthetic holdings of Additional Tier 1 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity date of the short position is either the same as, or later than the maturity date of the long position or the residual maturity of the short position is at least one year;
+> (ii) either both the short position and the long position are held in the trading book or both are held in the non-trading book.
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+**MODIFIED · Art. 62 — Tier 2 items** · applies from: unchanged
+
+*within* `AR 62 ALN 1 PTA (a)` · *amended by* `32019R0876`
+
+Point (a) no longer refers to 'subordinated loans' alongside capital instruments, mentioning only capital instruments. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_62)
+
+Point (a) now adds a reference to the conditions being met 'and to the extent specified in Article 64', a qualification not present in the earlier text. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_62)
+
+*before* (`02013R0575-20190426`)
+
+> Article 62
+> Tier 2 items
+> Tier 2 items shall consist of the following:
+> (a) capital instruments and subordinated loans where the conditions laid down in Article 63 are met;
+> (b) the share premium accounts related to instruments referred to in point (a);
+> (c) for institutions calculating risk-weighted exposure amounts in accordance with Chapter 2 of Title II of Part Three, general credit risk adjustments, gross of tax effects, of up to 1,25 % of risk-weighted exposure amounts calculated in accordance with Chapter 2 of Title II of Part Three;
+> (d) for institutions calculating risk-weighted exposure amounts under Chapter 3 of Title II of Part Three, positive amounts, gross of tax effects, resulting from the calculation laid down in Articles 158 and 159 up to 0,6 % of risk-weighted exposure amounts calculated under Chapter 3 of Title II of Part Three.
+> Items included under point (a) shall not qualify as Common Equity Tier 1 or Additional Tier 1 items.
+
+*after* (`02013R0575-20190627`)
+
+> Article 62
+> Tier 2 items
+> Tier 2 items shall consist of the following:
+> (a) capital instruments where the conditions set out in Article 63 are met, and to the extent specified in Article 64;
+> (b) the share premium accounts related to instruments referred to in point (a);
+> (c) for institutions calculating risk-weighted exposure amounts in accordance with Chapter 2 of Title II of Part Three, general credit risk adjustments, gross of tax effects, of up to 1,25 % of risk-weighted exposure amounts calculated in accordance with Chapter 2 of Title II of Part Three;
+> (d) for institutions calculating risk-weighted exposure amounts under Chapter 3 of Title II of Part Three, positive amounts, gross of tax effects, resulting from the calculation laid down in Articles 158 and 159 up to 0,6 % of risk-weighted exposure amounts calculated under Chapter 3 of Title II of Part Three.
+> Items included under point (a) shall not qualify as Common Equity Tier 1 or Additional Tier 1 items.
+
+**MODIFIED · Art. 63 — Tier 2 instruments** · applies from: unchanged
+
+*within* `AR 63 ALN 1`, `AR 63 ALN 1 PTA (a)`, `AR 63 ALN 1 PTA (b)`, `AR 63 ALN 1 PTA (c)`, `AR 63 ALN 1 PTA (d)`, `AR 63 ALN 1 PTA (e)`, `AR 63 ALN 1 PTA (f)`, `AR 63 ALN 1 PTA (g)`, `AR 63 ALN 1 PTA (h)`, `AR 63 ALN 1 PTA (i)`, `AR 63 ALN 1 PTA (j)`, `AR 63 ALN 1 PTA (k)`, `AR 63 ALN 1 PTA (l)`, `AR 63 ALN 1 PTA (m)`, `AR 63 ALN 1 PTA (n)`, `AR 63 ALN 1 PTA (n) PTI (i)`, `AR 63 ALN 1 PTA (n) PTI (ii)`, `AR 63 ALN 1 PTA (o)`, `AR 63 ALN 1 PTA (p)`, `AR 63 ALN 2` · *amended by* `32019R0876`
+
+The provision no longer refers to subordinated loans as an alternative to capital instruments, and instead speaks only of capital instruments throughout the conditions. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_63)
+
+The subordination condition in point (d) now describes the claim as ranking below claims from eligible liabilities instruments rather than being wholly subordinated to all non-subordinated creditors, and point (n) has been replaced with new text on write-down and conversion powers tied to resolution authorities and third-country issuers, followed by new points (o) and (p) on third-country legal enforceability and set-off or netting arrangements, in place of the former point (n) sub-points on issuance through a consolidated entity. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_63)
+
+A new closing paragraph has been added stating that only the fully paid-up part of a capital instrument is eligible to qualify as a Tier 2 instrument for purposes of point (a). [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_63)
+
+*before* (`02013R0575-20190426`)
+
+> Article 63
+> Tier 2 instruments
+> Capital instruments and subordinated loans shall qualify as Tier 2 instruments provided that the following conditions are met:
+> (a) the instruments are issued or the subordinated loans are raised, as applicable, and fully paid-up;
+> (b) the instruments are not purchased or the subordinated loans are not granted, as applicable, by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) an undertaking in which the institution has participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the purchase of the instruments or the granting of the subordinated loans, as applicable, is not funded directly or indirectly by the institution;
+> (d) the claim on the principal amount of the instruments under the provisions governing the instruments or the claim of the principal amount of the subordinated loans under the provisions governing the subordinated loans, as applicable, is wholly subordinated to claims of all non-subordinated creditors;
+> (e) the instruments or subordinated loans, as applicable, are neither secured, nor subject to a guarantee that enhances the seniority of the claim by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) the parent undertaking of the institution or its subsidiaries;
+> (iii) the parent financial holding company or its subsidiaries;
+> (iv) the mixed activity holding company or its subsidiaries;
+> (v) the mixed financial holdi […truncated by emendrix: 2620 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 63
+> Tier 2 instruments
+> Capital instruments shall qualify as Tier 2 instruments, provided that the following conditions are met:
+> (a) the instruments are directly issued by an institution and fully paid up;
+> (b) the instruments are not owned by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) an undertaking in which the institution has participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the acquisition of ownership of the instruments is not funded directly or indirectly by the institution;
+> (d) the claim on the principal amount of the instruments under the provisions governing the instruments ranks below any claim from eligible liabilities instruments;
+> (e) the instruments are not secured or are not subject to a guarantee that enhances the seniority of the claim by any of the following:
+> (i) the institution or its subsidiaries;
+> (ii) the parent undertaking of the institution or its subsidiaries;
+> (iii) the parent financial holding company or its subsidiaries;
+> (iv) the mixed activity holding company or its subsidiaries;
+> (v) the mixed financial holding company or its subsidiaries;
+> (vi) any undertaking that has close links with entities referred to in points (i) to (v);
+> (f) the instruments are not subject to any arrangement that otherwise enhances the seniority of the claim under the instruments;
+> (g) the instruments have an original maturity of at least five years;
+> (h) the […truncated by emendrix: 3469 characters omitted…]
+
+**MODIFIED · Art. 64 — Amortisation of Tier 2 instruments** · applies from: unchanged
+
+*within* `AR 64 PA 1`, `AR 64 PA 2`, `AR 64 ALN 1` · *amended by* `32019R0876`
+
+The revised article adds a new paragraph 1 stating that the full amount of Tier 2 instruments with a residual maturity of more than five years qualifies as Tier 2 items, a statement not present before. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_64)
+
+The former single paragraph is renumbered as paragraph 2, and its calculation basis changes from the nominal amount of the instruments or subordinated loans to the carrying amount of the instruments, with references to calendar days replaced by references to days and the reference to subordinated loans removed from point (b). [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_64)
+
+*before* (`02013R0575-20190426`)
+
+> Article 64
+> Amortisation of Tier 2 instruments
+> The extent to which Tier 2 instruments qualify as Tier 2 items during the final five years of maturity of the instruments is calculated by multiplying the result derived from the calculation in point (a) by the amount referred to in point (b) as follows:
+> (a) the nominal amount of the instruments or subordinated loans on the first day of the final five year period of their contractual maturity divided by the number of calendar days in that period;
+> (b) the number of remaining calendar days of contractual maturity of the instruments or subordinated loans.
+
+*after* (`02013R0575-20190627`)
+
+> Article 64
+> Amortisation of Tier 2 instruments
+> 1. The full amount of Tier 2 instruments with a residual maturity of more than five years shall qualify as Tier 2 items.
+> 2. The extent to which Tier 2 instruments qualify as Tier 2 items during the final five years of maturity of the instruments is calculated by multiplying the result derived from the calculation referred to in point (a) by the amount referred to in point (b) as follows:
+> (a) the carrying amount of the instruments on the first day of the final five-year period of their contractual maturity divided by the number of days in that period;
+> (b) the number of remaining days of contractual maturity of the instruments.
+
+**MODIFIED · Art. 66 — Deductions from Tier 2 items** · applies from: unchanged
+
+*within* `AR 66 ALN 1 PTA (d)`, `AR 66 ALN 1 PTA (e)` · *amended by* `32019R0876`
+
+Point (d) now ends with a semicolon instead of a full stop, and a new point (e) has been added requiring deduction of the amount by which items required to be deducted from eligible liabilities items under Article 72e exceed the institution's eligible liabilities items. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_66)
+
+*before* (`02013R0575-20190426`)
+
+> Article 66
+> Deductions from Tier 2 items
+> The following shall be deducted from Tier 2 items:
+> (a) direct, indirect and synthetic holdings by an institution of own Tier 2 instruments, including own Tier 2 instruments that an institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings of the Tier 2 instruments of financial sector entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (c) the applicable amount determined in accordance with Article 70 of direct, indirect and synthetic holdings of the Tier 2 instruments of financial sector entities, where an institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of the Tier 2 instruments of financial sector entities where the institution has a significant investment in those entities, excluding underwriting positions held for fewer than five working days.
+
+*after* (`02013R0575-20190627`)
+
+> Article 66
+> Deductions from Tier 2 items
+> The following shall be deducted from Tier 2 items:
+> (a) direct, indirect and synthetic holdings by an institution of own Tier 2 instruments, including own Tier 2 instruments that an institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings of the Tier 2 instruments of financial sector entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (c) the applicable amount determined in accordance with Article 70 of direct, indirect and synthetic holdings of the Tier 2 instruments of financial sector entities, where an institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of the Tier 2 instruments of financial sector entities where the institution has a significant investment in those entities, excluding underwriting positions held for fewer than five working days;
+> (e) the amount of items required to be deducted from eligible liabilities items pursuant to Article 72e that exceeds the eligible liabilities items of the institution.
+
+**MODIFIED · Art. 69 — Deduction of holdings of Tier 2 instruments of financial sector entities** · applies from: unchanged
+
+*within* `AR 69 ALN 1 PTA (a) PTI (i)` · *amended by* `32019R0876`
+
+The condition on maturity in point (a)(i) now describes the short position's maturity date as being the same as or later than the long position's maturity date, or its residual maturity as being at least one year, rather than stating that the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year. [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_69) [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_69)
+
+*before* (`02013R0575-20190426`)
+
+> Article 69
+> Deduction of holdings of Tier 2 instruments of financial sector entities
+> Institutions shall make the deductions required by points (c) and (d) of Article 66 in accordance with the following:
+> (a) they may calculate direct, indirect and synthetic holdings of Tier 2 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year;
+> (ii) either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by looking through to the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+*after* (`02013R0575-20190627`)
+
+> Article 69
+> Deduction of holdings of Tier 2 instruments of financial sector entities
+> Institutions shall make the deductions required by points (c) and (d) of Article 66 in accordance with the following:
+> (a) they may calculate direct, indirect and synthetic holdings of Tier 2 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+> (i) the maturity date of the short position is either the same as, or later than the maturity date of the long position or the residual maturity of the short position is at least one year;
+> (ii) either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by looking through to the underlying exposure to the capital instruments of the financial sector entities in those indices.
+
+**INSERTED · Art. 72a — Eligible liabilities items** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a newly inserted article defining what counts as eligible liabilities items, listing instruments and Tier 2 items that qualify subject to conditions in other articles, and setting out a list of liability categories that are excluded from that classification. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
+
+The excluded categories include covered deposits, certain short-term and sight deposits, secured liabilities such as covered bonds, client and fiduciary assets protected under insolvency law, short-term interbank and payment-system liabilities, certain employee, trade-creditor, tax, and deposit-guarantee-scheme liabilities, and liabilities arising from derivatives or from debt instruments with embedded derivatives. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72a
+> Eligible liabilities items
+> 1. Eligible liabilities items shall consist of the following, unless they fall into any of the categories of excluded liabilities laid down in paragraph 2 of this Article, and to the extent specified in Article 72c:
+> (a) eligible liabilities instruments where the conditions set out in Article 72b are met, to the extent that they do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 items;
+> (b) Tier 2 instruments with a residual maturity of at least one year, to the extent that they do not qualify as Tier 2 items in accordance with Article 64.
+> 2. The following liabilities shall be excluded from eligible liabilities items:
+> (a) covered deposits;
+> (b) sight deposits and short term deposits with an original maturity of less than one year;
+> (c) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises which exceeds the coverage level referred to in Article 6 of Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149).;
+> (d) deposits that would be eligible deposits from natural persons, micro, small and medium–sized enterprises if they were not made through branches located outside the Union of institutions established in the Union;
+> (e) secured liabilities, including covered bonds and liabilities in the form of financial instruments used for hedgin […truncated by emendrix: 3217 characters omitted…]
+
+**INSERTED · Art. 72b — Eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a newly inserted provision, Article 72b, setting out the conditions that liabilities must meet to qualify as eligible liabilities instruments, including issuance, ownership, subordination, absence of set-off rights, restrictions on early repayment, and contractual disclosure requirements. [Art. 72b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72b)
+
+It also establishes two discretionary allowances for a resolution authority to permit additional liabilities to count as eligible liabilities instruments up to specified thresholds, subject to conditions on ranking and legal-challenge risk, along with a requirement to consult the competent authority and a mandate for EBA to develop related regulatory technical standards. [Art. 72b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72b
+> Eligible liabilities instruments
+> 1. Liabilities shall qualify as eligible liabilities instruments, provided that they comply with the conditions set out in this Article and only to the extent specified in this Article.
+> 2. Liabilities shall qualify as eligible liabilities instruments, provided that all the following conditions are met:
+> (a) the liabilities are directly issued or raised, as applicable, by an institution and are fully paid up;
+> (b) the liabilities are not owned by any of the following:
+> (i) the institution or an entity included in the same resolution group;
+> (ii) an undertaking in which the institution has a direct or indirect participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+> (c) the acquisition of ownership of the liabilities is not funded directly or indirectly by the resolution entity;
+> (d) the claim on the principal amount of the liabilities under the provisions governing the instruments is wholly subordinated to claims arising from the excluded liabilities referred to in Article 72a(2); that subordination requirement shall be considered to be met in any of the following situations:
+> (i) the contractual provisions governing the liabilities specify that in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim on the principal amount of the instruments ranks below claims arising from any of the excluded […truncated by emendrix: 7261 characters omitted…]
+
+**INSERTED · Art. 72c — Amortisation of eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 72c has been added, setting out rules for amortisation of eligible liabilities instruments, including a one-year residual maturity threshold for qualification as eligible liabilities items and rules for defining maturity where holder redemption options, issuer call incentives, or issuer-only early redemption options exist. [Art. 72c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72c)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72c
+> Amortisation of eligible liabilities instruments
+> 1. Eligible liabilities instruments with a residual maturity of at least one year shall fully qualify as eligible liabilities items.
+> Eligible liabilities instruments with a residual maturity of less than one year shall not qualify as eligible liabilities items.
+> 2. For the purposes of paragraph 1, where a eligible liabilities instrument includes a holder redemption option exercisable prior to the original stated maturity of the instrument, the maturity of the instrument shall be defined as the earliest possible date on which the holder can exercise the redemption option and request redemption or repayment of the instrument.
+> 3. For the purposes of paragraph 1, where an eligible liabilities instrument includes an incentive for the issuer to call, redeem, repay or repurchase the instrument prior to the original stated maturity of the instrument, the maturity of the instrument shall be defined as the earliest possible date on which the issuer can exercise that option and request redemption or repayment of the instrument.
+> 4. For the purposes of paragraph 1, where an eligible liabilities instrument includes early redemption options that are exercisable at the sole discretion of the issuer prior to the original stated maturity of the instrument, but where the provisions governing the instrument do not include any incentive for the instrument to be called, redeemed, repaid or repurchased prior to its maturity and do not incl […truncated by emendrix: 157 characters omitted…]
+
+**INSERTED · Art. 72d — Consequences of the eligibility conditions ceasing to be met** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a new article stating that if an eligible liabilities instrument no longer meets the conditions set out in Article 72b, the liability immediately stops qualifying as an eligible liabilities instrument. [Art. 72d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72d)
+
+It also states that liabilities referred to in Article 72b(2) may continue to count as eligible liabilities instruments for as long as they still qualify under Article 72b(3) or (4). [Art. 72d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72d)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72d
+> Consequences of the eligibility conditions ceasing to be met
+> Where, in the case of an eligible liabilities instrument, the applicable conditions set out in Article 72b cease to be met, the liabilities shall immediately cease to qualify as eligible liabilities instruments.
+> Liabilities referred to in Article 72b(2) may continue to count as eligible liabilities instruments as long as they qualify as eligible liabilities instruments under Article 72b(3) or (4).
+
+**INSERTED · Art. 72e — Deductions from eligible liabilities items** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 72e has been added, setting out deductions institutions subject to Article 92a must make from eligible liabilities items, covering holdings of own eligible liabilities instruments, reciprocal cross holdings with G-SII entities, and holdings in G-SII entities where a significant investment does or does not exist. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72e)
+
+The new provision also sets out treatment of instruments ranking pari passu with eligible liabilities instruments, a formula for calculating holdings of certain eligible liabilities instruments, and a mechanism allowing a resolution authority to permit a parent institution to deduct a lower, specified amount for holdings in subsidiaries outside its resolution group, with the remaining difference deducted by the subsidiary. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72e)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72e
+> Deductions from eligible liabilities items
+> 1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+> (a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+> (c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+> 2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilitie […truncated by emendrix: 2937 characters omitted…]
+
+**INSERTED · Art. 72f — Deduction of holdings of own eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+Article 72f is a newly inserted provision setting out how institutions calculate holdings of their own eligible liabilities instruments for purposes of Article 72e(1)(a), including rules for using gross versus net long positions, treatment of index security holdings, and netting of long and short positions in own eligible liabilities instruments. [Art. 72f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72f)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72f
+> Deduction of holdings of own eligible liabilities instruments
+> For the purposes of point (a) of Article 72e(1), institutions shall calculate holdings on the basis of the gross long positions subject to the following exceptions:
+> (a) institutions may calculate the amount of holdings on the basis of the net long position, provided that both the following conditions are met:
+> (i) the long and short positions are in the same underlying exposure and the short positions involve no counterparty risk;
+> (ii) either both the long and the short positions are held in the trading book or both are held in the non-trading book;
+> (b) institutions shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to own eligible liabilities instruments in those indices;
+> (c) institutions may net gross long positions in own eligible liabilities instruments resulting from holdings of index securities against short positions in own eligible liabilities instruments resulting from short positions in underlying indices, including where those short positions involve counterparty risk, provided that both the following conditions are met:
+> (i) the long and short positions are in the same underlying indices;
+> (ii) either both the long and the short positions are held in the trading book or both are held in the non-trading book.
+
+**INSERTED · Art. 72g — Deduction base for eligible liabilities items** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a newly inserted provision setting out that, for purposes of certain points of Article 72e(1), institutions deduct gross long positions, subject to exceptions found in Articles 72h and 72i. [Art. 72g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72g)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72g
+> Deduction base for eligible liabilities items
+> For the purposes of points (b), (c) and (d) of Article 72e(1), institutions shall deduct the gross long positions subject to the exceptions laid down in Articles 72h and 72i.
+
+**INSERTED · Art. 72h — Deduction of holdings of eligible liabilities of other G-SII entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+Article 72h is an entirely new provision setting out how institutions that do not use the exception in Article 72j must carry out the deductions referred to in points (c) and (d) of Article 72e(1), covering holdings of eligible liabilities instruments of other G-SII entities. [Art. 72h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72h)
+
+It sets conditions under which net long positions in the same underlying exposure may be used for calculating direct, indirect and synthetic holdings, and a rule for determining the deductible amount for holdings of index securities by looking through to the underlying eligible liabilities instruments. [Art. 72h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72h)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72h
+> Deduction of holdings of eligible liabilities of other G-SII entities
+> Institutions not making use of the exception set out in Article 72j shall make the deductions referred to in points (c) and (d) of Article 72e(1) in accordance with the following:
+> (a) they may calculate direct, indirect and synthetic holdings of eligible liabilities instruments on the basis of the net long position in the same underlying exposure, provided that both the following conditions are met:
+> (i) the maturity date of the short position is either the same as, or later than the maturity date of the long position or the residual maturity of the short position is at least one year;
+> (ii) either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+> (b) they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by looking through to the underlying exposure to the eligible liabilities instruments in those indices.
+
+**INSERTED · Art. 72i — Deduction of eligible liabilities where the institution does not have a significant investment in G-SII entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 72i sets out how institutions must calculate the amount of eligible liabilities instruments of G-SII entities to be deducted under point (c) of Article 72e(1) when the institution does not hold a significant investment in those entities, including the multiplication of an aggregate holdings amount by a derived factor. [Art. 72i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72i)
+
+The new provision also specifies exclusion of short-term underwriting positions from that calculation, apportionment of the resulting deduction across individual eligible liabilities instruments, and treatment of holdings below the 10% threshold as risk-weighted rather than deducted, with the corresponding amount per instrument determined by a specified proportion. [Art. 72i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72i)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72i
+> Deduction of eligible liabilities where the institution does not have a significant investment in G-SII entities
+> 1. For the purposes of point (c) of Article 72e(1), institutions shall calculate the applicable amount to be deducted by multiplying the amount referred to in point (a) of this paragraph by the factor derived from the calculation referred to in point (b) of this paragraph:
+> (a) the aggregate amount by which the direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1, Tier 2 instruments of financial sector entities and eligible liabilities instruments of G-SII entities in none of which the institution has a significant investment exceeds 10 % of the Common Equity Tier 1 items of the institution after applying the following:
+> (i) Articles 32 to 35;
+> (ii) points (a) to (g), points (k)(ii) to (k)(v) and point (l) of Article 36(1), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;
+> (iii) Articles 44 and 45;
+> (b) the amount of direct, indirect and synthetic holdings by the institution of the eligible liabilities instruments of G-SII entities in which the institution does not have a significant investment divided by the aggregate amount of the direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1, Tier 2 instruments of financial sector entities and eligible liabilities instruments of […truncated by emendrix: 1885 characters omitted…]
+
+**INSERTED · Art. 72j — Trading book exception from deductions from eligible liabilities items** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+Article 72j is a newly inserted provision that allows institutions to decide not to deduct a designated portion of their trading book holdings of eligible liabilities instruments, up to 5% of Common Equity Tier 1 items after applying Articles 32 to 36, provided the holdings are in the trading book and held no longer than 30 business days. [Art. 72j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72j)
+
+It further states that amounts not deducted under this exception are subject to own funds requirements for trading book items, and that if the stated conditions cease to be met, the holdings must be deducted under Article 72g without applying the exceptions in Articles 72h and 72i. [Art. 72j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72j)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72j
+> Trading book exception from deductions from eligible liabilities items
+> 1. Institutions may decide not to deduct a designated part of their direct, indirect and synthetic holdings of eligible liabilities instruments, that in aggregate and measured on a gross long basis is equal to or less than 5 % of the Common Equity Tier 1 items of the institution after applying Articles 32 to 36, provided that all the following conditions are met:
+> (a) the holdings are in the trading book;
+> (b) the eligible liabilities instruments are held for no longer than 30 business days.
+> 2. The amounts of the items that are not deducted pursuant to paragraph 1 shall be subject to own funds requirements for items in the trading book.
+> 3. Where, in the case of holdings not deducted in accordance with paragraph 1, the conditions set out in that paragraph cease to be met, the holdings shall be deducted in accordance with Article 72g without applying the exceptions laid down in Articles 72h and 72i.
+
+**INSERTED · Art. 72k — Eligible liabilities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 72k has been added, defining the eligible liabilities of an institution as its eligible liabilities items after the deductions referred to in Article 72e. [Art. 72k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72k)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72k
+> Eligible liabilities
+> The eligible liabilities of an institution shall consist of the eligible liabilities items of the institution after the deductions referred to in Article 72e.
+
+**INSERTED · Art. 72l — Own funds and eligible liabilities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a new provision, Article 72l, which defines an institution's own funds and eligible liabilities as the sum of its own funds and its eligible liabilities. [Art. 72l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72l)
+
+*after* (`02013R0575-20190627`)
+
+> Article 72l
+> Own funds and eligible liabilities
+> The own funds and eligible liabilities of an institution shall consist of the sum of its own funds and its eligible liabilities.
+
+**MODIFIED · Art. 73 — Distributions on instruments** · applies from: unchanged
+
+*within* `AR 73`, `AR 73 PA 1 ALN 1`, `AR 73 PA 2 ALN 1`, `AR 73 PA 2 ALN 1 PTA (b)`, `AR 73 PA 2 ALN 1 PTA (c)`, `AR 73 PA 2 ALN 2`, `AR 73 PA 3 ALN 1`, `AR 73 PA 4 ALN 1`, `AR 73 PA 6 ALN 1` · *amended by* `32019R0876`
+
+The heading and provisions now cover liabilities alongside capital instruments, so paragraphs 1 through 3 and 6 refer to eligible liabilities instruments in addition to Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments. [Art. 73, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_73)
+
+Paragraph 2 adds a requirement that the competent authority consult the resolution authority on an institution's compliance with the listed conditions before granting the prior permission described in paragraph 1, a step absent from the earlier text. [Art. 73, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_73) [Art. 73, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_73)
+
+Paragraph 4 now allows the broad market index basis to apply to eligible liabilities instruments as well as Additional Tier 1 and Tier 2 instruments. [Art. 73, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_73)
+
+*before* (`02013R0575-20190426`)
+
+> Article 73
+> Distributions on own funds instruments
+> 1. Capital instruments for which an institution has the sole discretion to decide to pay distributions in a form other than cash or an own funds instrument shall not be capable of qualifying as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments unless the institution has received the prior permission of the competent authorities.
+> 2. Competent authorities shall grant the permission referred to in paragraph 1 only where they consider all the following conditions to be met:
+> (a) the ability of the institution to cancel payments under the instrument would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+> (b) the ability of the instrument to absorb losses would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+> (c) the quality of the capital instrument would not otherwise be reduced by the discretion referred to in paragraph 1, or by the form in which distributions could be made.
+> 3. Capital instruments for which a legal person other than the institution issuing them has the discretion to decide or require that the payment of distributions on the instrument shall be made in a form other than cash or an own funds instrument shall not be capable of qualifying as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments.
+> 4. Institutions may use a broad market index as one of […truncated by emendrix: 1226 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 73
+> Distributions on instruments
+> 1. Capital instruments and liabilities for which an institution has the sole discretion to decide to pay distributions in a form other than cash or own funds instruments shall not be eligible to qualify as Common Equity Tier 1, Additional Tier 1, Tier 2 or eligible liabilities instruments, unless the institution has received the prior permission of the competent authority.
+> 2. Competent authorities shall grant the prior permission referred to in paragraph 1 only where they consider all the following conditions to be met:
+> (a) the ability of the institution to cancel payments under the instrument would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+> (b) the ability of the capital instrument or of the liability to absorb losses would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+> (c) the quality of the capital instrument or liability would not otherwise be reduced by the discretion referred to in paragraph 1, or by the form in which distributions could be made.
+> The competent authority shall consult the resolution authority regarding an institution's compliance with those conditions before granting the prior permission referred to in paragraph 1.
+> 3. Capital instruments and liabilities for which a legal person other than the institution issuing them has the discretion to decide or require t […truncated by emendrix: 1595 characters omitted…]
+
+**MODIFIED · Art. 75 — Deduction and maturity requirements for short positions** · applies from: unchanged
+
+*within* `AR 75 ALN 1` · *amended by* `32019R0876`
+
+The introductory sentence of Article 75(1) now also references point (a) of Article 72h alongside the previously listed points of Articles 45, 59 and 69. [Art. 75, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_75) [Art. 75, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_75)
+
+The phrase describing when conditions are met changed from 'the following conditions are met' to 'all the following conditions are met', and the verb changed from 'shall be deemed to be met' to 'shall be considered to be met'. [Art. 75, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_75) [Art. 75, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_75)
+
+*before* (`02013R0575-20190426`)
+
+> Article 75
+> Deduction and maturity requirements for short positions
+> The maturity requirements for short positions referred to in point (a) of Article 45, point (a) of Article 59 and point (a) of Article 69 shall be deemed to be met in respect of positions held where the following conditions are met:
+> (a) the institution has the contractual right to sell on a specific future date to the counterparty providing the hedge the long position that is being hedged;
+> (b) the counterparty providing the hedge to the institution is contractually obliged to purchase from the institution on that specific future date the long position referred to in point (a).
+
+*after* (`02013R0575-20190627`)
+
+> Article 75
+> Deduction and maturity requirements for short positions
+> The maturity requirements for short positions referred to in point (a) of Article 45, point (a) of Article 59, point (a) of Article 69 and point (a) of Article 72h shall be considered to be met in respect of positions held where all the following conditions are met:
+> (a) the institution has the contractual right to sell on a specific future date to the counterparty providing the hedge the long position that is being hedged;
+> (b) the counterparty providing the hedge to the institution is contractually obliged to purchase from the institution on that specific future date the long position referred to in point (a).
+
+**MODIFIED · Art. 76 — Index holdings of capital instruments** · applies from: unchanged
+
+*within* `AR 76 PA 1 ALN 1`, `AR 76 PA 1 ALN 1 PTA (d)`, `AR 76 PA 2 ALN 1`, `AR 76 PA 2 ALN 1 PTA (a)`, `AR 76 PA 2 ALN 1 PTA (b)`, `AR 76 PA 2 ALN 1 PTA (c)`, `AR 76 PA 3 ALN 1` · *amended by* `32019R0876`
+
+Paragraph 1 now adds a reference to point (a) of Article 72h alongside the previously listed articles, and clarifies that all of the listed conditions must be met, with point (d) referring to "internal control processes" rather than just "control processes". [Art. 76, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_76) [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_76)
+
+Paragraph 2 changes the wording from "given" to "granted" permission, broadens the alternative estimate from capital instruments to instruments generally, adds eligible liabilities instruments to point (a), and inserts a new point (c) covering eligible liabilities instruments of institutions included in indices. [Art. 76, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_76) [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_76)
+
+Paragraph 3 now refers to the permission in paragraph 2 as "prior permission" and refers to monitoring exposure to items under "one or more of the points" of paragraph 2 rather than "one or both of point (a) or (b)". [Art. 76, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_76) [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_76)
+
+*before* (`02013R0575-20190426`)
+
+> Article 76
+> Index holdings of capital instruments
+> 1. For the purposes of point (a) of Article 42, point (a) of Article 45, point (a) of Article 57, point (a) of Article 59, point (a) of Article 67 and point (a) of Article 69, institutions may reduce the amount of a long position in a capital instrument by the portion of an index that is made up of the same underlying exposure that is being hedged, provided that the following conditions are met:
+> (a) either both the long position being hedged and the short position in an index used to hedge that long position are held in the trading book or both are held in the non-trading book;
+> (b) the positions referred to in point (a) are held at fair value on the balance sheet of the institution;
+> (c) the short position referred to in point (a) qualifies as an effective hedge under the internal control processes of the institution;
+> (d) the competent authorities assess the adequacy of the control processes referred to in point (c) on at least an annual basis and are satisfied with their continuing appropriateness.
+> 2. Where the competent authority has given its prior permission, an institution may use a conservative estimate of the underlying exposure of the institution to capital instruments included in indices as an alternative to an institution calculating its exposure to the items referred to in either or both of points (a) and (b):
+> (a) own Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments included in indices;
+> (b) Common Equity […truncated by emendrix: 1007 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 76
+> Index holdings of capital instruments
+> 1. For the purposes of point (a) of Article 42, point (a) of Article 45, point (a) of Article 57, point (a) of Article 59, point (a) of Article 67, point (a) of Article 69 and point (a) of Article 72h, institutions may reduce the amount of a long position in a capital instrument by the portion of an index that is made up of the same underlying exposure that is being hedged, provided that all the following conditions are met:
+> (a) either both the long position being hedged and the short position in an index used to hedge that long position are held in the trading book or both are held in the non-trading book;
+> (b) the positions referred to in point (a) are held at fair value on the balance sheet of the institution;
+> (c) the short position referred to in point (a) qualifies as an effective hedge under the internal control processes of the institution;
+> (d) the competent authorities assess the adequacy of the internal control processes referred to in point (c) on at least an annual basis and are satisfied with their continuing appropriateness.
+> 2. Where the competent authority has granted its prior permission, an institution may use a conservative estimate of the underlying exposure of the institution to instruments included in indices as an alternative to an institution calculating its exposure to the items referred to in one or more of the following points:
+> (a) own Common Equity Tier 1, Additional Tier 1, Tier 2 and eligible liabilit […truncated by emendrix: 1136 characters omitted…]
+
+**MODIFIED · Art. 77 — Conditions for reducing own funds and eligible liabilities** · applies from: unchanged
+
+*within* `AR 77`, `AR 77 PA 1`, `AR 77 PA 2`, `AR 77 ALN 1` · *amended by* `32019R0876`
+
+The heading and article text now cover eligible liabilities as well as own funds, and the introductory line is restructured into a numbered paragraph 1 listing the situations requiring prior permission of the competent authority. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_77)
+
+A new point is added allowing for the reduction, distribution or reclassification of share premium accounts related to own funds instruments, and the former point (b) on calls, redemptions, repayments or repurchases of Additional Tier 1 or Tier 2 instruments is renumbered as point (c). [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_77)
+
+A new paragraph 2 is added requiring an institution to obtain the prior permission of the resolution authority before calling, redeeming, repaying or repurchasing eligible liabilities instruments not covered by paragraph 1, prior to their contractual maturity date. [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_77)
+
+*before* (`02013R0575-20190426`)
+
+> Article 77
+> Conditions for reducing own funds
+> An institution shall require the prior permission of the competent authority to do either or both of the following:
+> (a) reduce, redeem or repurchase Common Equity Tier 1 instruments issued by the institution in a manner that is permitted under applicable national law;
+> (b) effect the call, redemption, repayment or repurchase of Additional Tier 1 instruments or Tier 2 instruments as applicable, prior to the date of their contractual maturity.
+
+*after* (`02013R0575-20190627`)
+
+> Article 77
+> Conditions for reducing own funds and eligible liabilities
+> 1. An institution shall obtain the prior permission of the competent authority to do any of the following:
+> (a) reduce, redeem or repurchase Common Equity Tier 1 instruments issued by the institution in a manner that is permitted under applicable national law;
+> (b) reduce, distribute or reclassify as another own funds item the share premium accounts related to own funds instruments;
+> (c) effect the call, redemption, repayment or repurchase of Additional Tier 1 or Tier 2 instruments prior to the date of their contractual maturity.
+> 2. An institution shall obtain the prior permission of the resolution authority to effect the call, redemption, repayment or repurchase of eligible liabilities instruments that are not covered by paragraph 1, prior to the date of their contractual maturity.
+
+**MODIFIED · Art. 78 — Supervisory permission to reduce own funds** · applies from: unchanged
+
+*within* `AR 78`, `AR 78 PA 1 ALN 1`, `AR 78 PA 1 ALN 1 PTA (a)`, `AR 78 PA 1 ALN 1 PTA (b)`, `AR 78 PA 1 ALN 2`, `AR 78 PA 1 ALN 3`, `AR 78 PA 2 ALN 1`, `AR 78 PA 3 ALN 1`, `AR 78 PA 4 ALN 1`, `AR 78 PA 4 ALN 1 PTA (a)`, `AR 78 PA 4 ALN 1 PTA (a) PTI (ii)`, `AR 78 PA 4 ALN 1 PTA (b)`, `AR 78 PA 4 ALN 1 PTA (c)`, `AR 78 PA 4 ALN 1 PTA (d)`, `AR 78 PA 4 ALN 1 PTA (e)`, `AR 78 PA 5 ALN 1 PTA (a)`, `AR 78 PA 5 ALN 1 PTA (c)` · *amended by* `32019R0876`
+
+The heading changes from "Supervisory permission for reducing own funds" to "Supervisory permission to reduce own funds", and paragraph 1 is expanded to cover reducing, calling, redeeming, repaying or repurchasing instruments, and now also to reducing, distributing or reclassifying related share premium accounts, with the margin test in point (b) referring to own funds and eligible liabilities exceeding requirements under this Regulation and Directives 2013/36/EU and 2014/59/EU rather than the prior wording tied to Article 92(1) and the combined buffer requirement. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_78)
+
+Paragraph 1 gains new subparagraphs allowing a general prior permission for future actions under Article 77(1), subject to time limits, predetermined percentage caps, and withdrawal by competent authorities if criteria are breached, none of which appeared before. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_78)
+
+Paragraph 4 broadens the range of covered actions and adds new grounds (c) grandfathering under Article 494b, (d) replacement of instruments justified by exceptional circumstances, and (e) repurchase for market making purposes, while paragraph 5(c) is reworded to also address limits and procedures for advance approval by competent authorities. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_78)
+
+*before* (`02013R0575-20190426`)
+
+> Article 78
+> Supervisory permission for reducing own funds
+> 1. The competent authority shall grant permission for an institution to reduce, repurchase, call or redeem Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments where either of the following conditions is met:
+> (a) earlier than or at the same time as the action referred to in Article 77, the institution replaces the instruments referred to in Article 77 with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+> (b) the institution has demonstrated to the satisfaction of the competent authority that the own funds of the institution would, following the action in question, exceed the requirements laid down in Article 92(1) of this Regulation and the combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU by a margin that the competent authority may consider necessary on the basis of Article 104(3) of Directive 2013/36/EU.
+> 2. When assessing under point (a) of paragraph 1 the sustainability of the replacement instruments for the income capacity of the institution, competent authorities shall consider the extent to which those replacement capital instruments would be more costly for the institution than those they would replace.
+> 3. Where an institution takes an action referred to in point (a) of Article 77 and the refusal of redemption of Common Equity Tier 1 instruments referred to in Article 27 is prohibited by ap […truncated by emendrix: 2110 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 78
+> Supervisory permission to reduce own funds
+> 1. The competent authority shall grant permission for an institution to reduce, call, redeem, repay or repurchase Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments, or to reduce, distribute or reclassify related share premium accounts, where either of the following conditions is met:
+> (a) before or at the same time as any of the actions referred to in Article 77(1), the institution replaces the instruments or the related share premium accounts referred to in Article 77(1) with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+> (b) the institution has demonstrated to the satisfaction of the competent authority that the own funds and eligible liabilities of the institution would, following the action referred to in Article 77(1) of this Regulation, exceed the requirements laid down in this Regulation and in Directives 2013/36/EU and 2014/59/EU by a margin that the competent authority considers necessary.
+> Where an institution provides sufficient safeguards as to its capacity to operate with own funds above the amounts required in this Regulation and in Directive 2013/36/EU, the competent authority may grant that institution a general prior permission to take any of the actions set out in Article 77(1) of this Regulation, subject to criteria that ensure that any such future action will be in accordance with the conditions set out in points (a) a […truncated by emendrix: 4620 characters omitted…]
+
+**INSERTED · Art. 78a — Permission to reduce eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+Article 78a is a newly inserted provision setting out when a resolution authority must grant permission for an institution to call, redeem, repay or repurchase eligible liabilities instruments, including conditions on replacement instruments, sufficient margins over requirements, and continuing authorisation, as well as a general prior permission mechanism subject to time limits and criteria. [Art. 78a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_78a)
+
+The provision also directs the EBA to develop draft regulatory technical standards on cooperation procedures, permission and general prior permission procedures, and the meaning of sustainability for income capacity, to be submitted to the Commission by 28 December 2019. [Art. 78a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_78a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 78a
+> Permission to reduce eligible liabilities instruments
+> 1. The resolution authority shall grant permission for an institution to call, redeem, repay or repurchase eligible liabilities instruments where one of the following conditions is met:
+> (a) before or at the same time as any of the actions referred to in Article 77(2), the institution replaces the eligible liabilities instruments with own funds or eligible liabilities instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+> (b) the institution has demonstrated to the satisfaction of the resolution authority that the own funds and eligible liabilities of the institution would, following the action referred to in Article 77(2) of this Regulation, exceed the requirements for own funds and eligible liabilities laid down in this Regulation and in Directives 2013/36/EU and 2014/59/EU by a margin that the resolution authority, in agreement with the competent authority, considers necessary;
+> (c) the institution has demonstrated to the satisfaction of the resolution authority that the partial or full replacement of the eligible liabilities with own funds instruments is necessary to ensure compliance with the own funds requirements laid down in this Regulation and in Directive 2013/36/EU for continuing authorisation.
+> Where an institution provides sufficient safeguards as to its capacity to operate with own funds and eligible liabilities above the amount of the require […truncated by emendrix: 2441 characters omitted…]
+
+**MODIFIED · Art. 79 — Temporary waiver from deduction from own funds and eligible liabilities** · applies from: unchanged
+
+*within* `AR 79`, `AR 79 PA 1 ALN 1` · *amended by* `32019R0876`
+
+The heading and paragraph 1 now refer to eligible liabilities in addition to own funds, extending the scope from capital instruments or subordinated loans qualifying as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments to liabilities qualifying as own funds instruments in a financial sector entity or as eligible liabilities instruments in an institution. [Art. 79, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_79) [Art. 79, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_79)
+
+The condition for the competent authority's assessment changed from deeming those holdings to be for a financial assistance operation designed to reorganise and save the entity, to considering those holdings to be for a financial assistance operation designed to reorganise and restore the viability of that entity or institution. [Art. 79, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_79) [Art. 79, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_79)
+
+*before* (`02013R0575-20190426`)
+
+> Article 79
+> Temporary waiver of deduction from own funds
+> 1. Where an institution holds capital instruments or has granted subordinated loans, as applicable, that qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments in a financial sector entity temporarily and the competent authority deems those holdings to be for the purposes of a financial assistance operation designed to reorganise and save that entity, the competent authority may waive on a temporary basis the provisions on deduction that would otherwise apply to those instruments.
+> 2. EBA shall develop draft regulatory technical standards to specify the concept of temporary for the purposes of paragraph 1 and the conditions according to which a competent authority may deem those temporary holdings to be for the purposes of a financial assistance operation designed to reorganise and save a relevant entity.
+> EBA shall submit those draft regulatory technical standards to the Commission by 28 July 2013.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+*after* (`02013R0575-20190627`)
+
+> Article 79
+> Temporary waiver from deduction from own funds and eligible liabilities
+> 1. Where an institution holds capital instruments or liabilities that qualify as own funds instruments in a financial sector entity or as eligible liabilities instruments in an institution and where the competent authority considers those holdings to be for the purposes of a financial assistance operation designed to reorganise and restore the viability of that entity or that institution, the competent authority may waive on a temporary basis the provisions on deduction that would otherwise apply to those instruments.
+> 2. EBA shall develop draft regulatory technical standards to specify the concept of temporary for the purposes of paragraph 1 and the conditions according to which a competent authority may deem those temporary holdings to be for the purposes of a financial assistance operation designed to reorganise and save a relevant entity.
+> EBA shall submit those draft regulatory technical standards to the Commission by 28 July 2013.
+> Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**INSERTED · Art. 79a — Assessment of compliance with the conditions for own funds and eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a new article requiring institutions to look at the substantial features of instruments, not just their legal form, when assessing compliance with the own funds and eligible liabilities requirements. [Art. 79a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_79a)
+
+It further states that this substantial-features assessment must take into account all related arrangements, including those not explicitly set out in the instrument's terms and conditions, to determine whether their combined economic effects are compliant with the objective of the relevant provisions. [Art. 79a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_79a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 79a
+> Assessment of compliance with the conditions for own funds and eligible liabilities instruments
+> Institutions shall have regard to the substantial features of instruments and not only their legal form when assessing compliance with the requirements laid down in Part Two. The assessment of the substantial features of an instrument shall take into account all arrangements related to the instruments, even where those are not explicitly set out in the terms and conditions of the instruments themselves, for the purpose of determining that the combined economic effects of such arrangements are compliant with the objective of the relevant provisions.
+
+**MODIFIED · Art. 80 — Continuing review of the quality of own funds and eligible liabilities instruments** · applies from: unchanged
+
+*within* `AR 80`, `AR 80 PA 1 ALN 1`, `AR 80 PA 1 ALN 2`, `AR 80 PA 3 ALN 1` · *amended by* `32019R0876`
+
+The title and paragraph 1 now refer to own funds and eligible liabilities instruments, rather than only own funds instruments, and EBA's monitoring and notification duty and the competent authorities' information-forwarding duty are extended accordingly to cover new types of liabilities in addition to new capital instruments. [Art. 80, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_80) [Art. 80, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_80)
+
+The criteria reference in paragraph 1 changed from citing Article 28 or Article 29 specifically to referring generally to the respective eligibility criteria set out in the Regulation. [Art. 80, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_80) [Art. 80, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_80)
+
+Paragraph 3's reference to the definition being reviewed was changed from own funds alone to own funds and eligible liabilities. [Art. 80, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_80)
+
+*before* (`02013R0575-20190426`)
+
+> Article 80
+> Continuing review of quality of own funds
+> 1. EBA shall monitor the quality of own funds instruments issued by institutions across the Union and shall notify the Commission immediately where there is significant evidence of those instruments not meeting the criteria set out in Article 28 or, where applicable, Article 29.
+> Competent authorities shall, without delay, upon request by EBA, forward all information that EBA deems relevant concerning new capital instruments issued in order to enable EBA to monitor the quality of own funds instruments issued by institutions across the Union.
+> 2. A notification shall include the following:
+> (a) a detailed explanation of the nature and extent of the shortfall identified;
+> (b) technical advice on the action by the Commission that EBA considers to be necessary;
+> (c) significant developments in the methodology of EBA for stress testing the solvency of institutions.
+> 3. EBA shall provide technical advice to the Commission on any significant changes it considers to be required to the definition of own funds as a result of any of the following:
+> (a) relevant developments in market standards or practice;
+> (b) changes in relevant legal or accounting standards;
+> (c) significant developments in the methodology of EBA for stress testing the solvency of institutions.
+> 4. EBA shall provide technical advice to the Commission by 1 January 2014 on possible treatments of unrealised gains measured at fair value other than including them in Common Equity […truncated by emendrix: 199 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 80
+> Continuing review of the quality of own funds and eligible liabilities instruments
+> 1. EBA shall monitor the quality of own funds and eligible liabilities instruments issued by institutions across the Union and shall notify the Commission immediately where there is significant evidence that those instruments do not meet the respective eligibility criteria set out in this Regulation.
+> Competent authorities shall, without delay and upon request by EBA, forward all information to EBA that EBA considers relevant concerning new capital instruments or new types of liabilities issued in order to enable EBA to monitor the quality of own funds and eligible liabilities instruments issued by institutions across the Union.
+> 2. A notification shall include the following:
+> (a) a detailed explanation of the nature and extent of the shortfall identified;
+> (b) technical advice on the action by the Commission that EBA considers to be necessary;
+> (c) significant developments in the methodology of EBA for stress testing the solvency of institutions.
+> 3. EBA shall provide technical advice to the Commission on any significant changes it considers to be required to the definition of own funds and eligible liabilities as a result of any of the following:
+> (a) relevant developments in market standards or practice;
+> (b) changes in relevant legal or accounting standards;
+> (c) significant developments in the methodology of EBA for stress testing the solvency of institutions.
+> 4. EBA shall provide techni […truncated by emendrix: 354 characters omitted…]
+
+**MODIFIED · Art. 81 — Minority interests that qualify for inclusion in consolidated Common Equity Tier 1 capital** · applies from: unchanged
+
+*within* `AR 81 PA 1 ALN 1`, `AR 81 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 81 PA 1 ALN 1 PTA (c)` · *amended by* `32019R0876`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20190426`)
+
+> Article 81
+> Minority interests that qualify for inclusion in consolidated Common Equity Tier 1 capital
+> 1. Minority interests shall comprise the sum of Common Equity Tier 1 instruments, the share premium accounts related to those instruments, retained earnings and other reserves of a subsidiary where the following conditions are met:
+> (a) the subsidiary is one of the following:
+> (i) an institution;
+> (ii) an undertaking that is subject by virtue of applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+> (b) the subsidiary is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) the Common Equity Tier 1 items, referred to in the introductory part of this paragraph are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+> 2. Minority interests that are funded directly or indirectly, through a special purpose entity or otherwise, by the parent undertaking of the institution, or its subsidiaries shall not qualify as consolidated Common Equity Tier 1 capital.
+
+*after* (`02013R0575-20190627`)
+
+> Article 81
+> Minority interests that qualify for inclusion in consolidated Common Equity Tier 1 capital
+> 1. Minority interests shall comprise the sum of Common Equity Tier 1 items of a subsidiary where the following conditions are met:
+> (a) the subsidiary is one of the following:
+> (i) an institution;
+> (ii) an undertaking that is subject by virtue of applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+> (iii) an intermediate financial holding company in a third country that is subject to prudential requirements as stringent as those applied to credit institutions of that third country and where the Commission has decided in accordance with Article 107(4) that those prudential requirements are at least equivalent to those of this Regulation;
+> (b) the subsidiary is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) the Common Equity Tier 1 items, referred to in the introductory part of this paragraph, are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+> 2. Minority interests that are funded directly or indirectly, through a special purpose entity or otherwise, by the parent undertaking of the institution, or its subsidiaries shall not qualify as consolidated Common Equity Tier 1 capital.
+
+**MODIFIED · Art. 82 — Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds** · applies from: unchanged
+
+*within* `AR 82 ALN 1 PTA (a) PTI (ii)`, `AR 82 ALN 1 PTA (a) PTI (iii)` · *amended by* `32019R0876`
+
+Point (a)(ii) now refers to "the applicable national law" instead of "applicable national law". [Art. 82, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_82)
+
+A new point (a)(iii) has been added, covering an intermediate financial holding company in a third country that is subject to prudential requirements as stringent as those applied to credit institutions of that third country, where the Commission has decided under Article 107(4) that those requirements are at least equivalent to those of this Regulation. [Art. 82, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_82)
+
+*before* (`02013R0575-20190426`)
+
+> Article 82
+> Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds
+> Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds shall comprise the minority interest, Additional Tier 1 or Tier 2 instruments, as applicable, plus the related retained earnings and share premium accounts, of a subsidiary where the following conditions are met:
+> (a) the subsidiary is either of the following:
+> (i) an institution;
+> (ii) an undertaking that is subject by virtue of applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+> (b) the subsidiary is included fully in the scope of consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) those instruments are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+
+*after* (`02013R0575-20190627`)
+
+> Article 82
+> Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds
+> Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds shall comprise the minority interest, Additional Tier 1 or Tier 2 instruments, as applicable, plus the related retained earnings and share premium accounts, of a subsidiary where the following conditions are met:
+> (a) the subsidiary is either of the following:
+> (i) an institution;
+> (ii) an undertaking that is subject by virtue of the applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+> (iii) an intermediate financial holding company in a third country that is subject to prudential requirements as stringent as those applied to credit institutions of that third country and where the Commission has decided in accordance with Article 107(4) that those prudential requirements are at least equivalent to those of this Regulation;
+> (b) the subsidiary is included fully in the scope of consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) those instruments are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.
+
+**MODIFIED · Art. 83 — Qualifying Additional Tier 1 and Tier 2 capital issued by a special purpose entity** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 83 PA 1 ALN 1` · *dates* +2021-12-31 · *amended by* `32019R0876`
+
+The introductory clause of paragraph 1 now inserts the phrase "until 31 December 2021" when describing the inclusion of Additional Tier 1 and Tier 2 instruments issued by a special purpose entity, and their related share premium accounts, in qualifying capital. [Art. 83, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_83)
+
+The remainder of the article, including the conditions in points (a) to (d) and paragraph 2, is unchanged between the two versions. [Art. 83, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_83) [Art. 83, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_83)
+
+*before* (`02013R0575-20190426`)
+
+> Article 83
+> Qualifying Additional Tier 1 and Tier 2 capital issued by a special purpose entity
+> 1. Additional Tier 1 and Tier 2 instruments issued by a special purpose entity, and the related share premium accounts, are included in qualifying Additional Tier 1, Tier 1 or Tier 2 capital or qualifying own funds, as applicable, only where the following conditions are met:
+> (a) the special purpose entity issuing those instruments is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (b) the instruments, and the related share premium accounts, are included in qualifying Additional Tier 1 capital only where the conditions laid down in Article 52(1) are satisfied;
+> (c) the instruments, and the related share premium accounts, are included in qualifying Tier 2 capital only where the conditions laid down in Article 63 are satisfied;
+> (d) the only asset of the special purpose entity is its investment in the own funds of the parent undertaking or a subsidiary thereof that is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One, the form of which satisfies the relevant conditions laid down in Articles 52(1) or 63, as applicable.
+> Where the competent authority considers the assets of a special purpose entity other than its investment in the own funds of the parent undertaking or a subsidiary thereof that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One, to be minimal and insignificant for such an […truncated by emendrix: 640 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 83
+> Qualifying Additional Tier 1 and Tier 2 capital issued by a special purpose entity
+> 1. Additional Tier 1 and Tier 2 instruments issued by a special purpose entity, and the related share premium accounts, are included until 31 December 2021 in qualifying Additional Tier 1, Tier 1 or Tier 2 capital or qualifying own funds, as applicable, only where the following conditions are met:
+> (a) the special purpose entity issuing those instruments is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (b) the instruments, and the related share premium accounts, are included in qualifying Additional Tier 1 capital only where the conditions laid down in Article 52(1) are satisfied;
+> (c) the instruments, and the related share premium accounts, are included in qualifying Tier 2 capital only where the conditions laid down in Article 63 are satisfied;
+> (d) the only asset of the special purpose entity is its investment in the own funds of the parent undertaking or a subsidiary thereof that is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One, the form of which satisfies the relevant conditions laid down in Articles 52(1) or 63, as applicable.
+> Where the competent authority considers the assets of a special purpose entity other than its investment in the own funds of the parent undertaking or a subsidiary thereof that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One, to be minimal and ins […truncated by emendrix: 663 characters omitted…]
+
+**INSERTED · Art. 88a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 92** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 92a — Requirements for own funds and eligible liabilities for G-SIIs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 92a is added, setting out requirements for own funds and eligible liabilities that apply to institutions identified as resolution entities that are a G-SII or part of a G-SII, requiring a risk-based ratio of 18% of total risk exposure and a non-risk-based ratio of 6.75% of the total exposure measure, subject to specified exceptions and to a provision on resolution authority action where aggregated requirements across a G-SII's resolution entities exceed the amount calculated under Article 12a. [Art. 92a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_92a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 92a
+> Requirements for own funds and eligible liabilities for G-SIIs
+> 1. Subject to Articles 93 and 94 and to the exceptions set out in paragraph 2 of this Article, institutions identified as resolution entities and that are a G-SII or part of a G-SII shall at all times satisfy the following requirements for own funds and eligible liabilities:
+> (a) a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) and (4);
+> (b) a non-risk-based ratio of 6,75 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total exposure measure referred to in Article 429(4).
+> 2. The requirements laid down in paragraph 1 shall not apply in the following cases:
+> (a) within the three years following the date on which the institution or the group of which the institution is part has been identified as a G-SII;
+> (b) within the two years following the date on which the resolution authority has applied the bail-in tool in accordance with Directive 2014/59/EU;
+> (c) within the two years following the date on which the resolution entity has put in place an alternative private sector measure referred to in point (b) of Article 32(1) of Directive 2014/59/EU by which capital instruments and other liabilities have been written down or converted into Common Equity Tier 1 items in order to recapitalise the resolution […truncated by emendrix: 545 characters omitted…]
+
+**INSERTED · Art. 92b — Requirement for own funds and eligible liabilities for non-EU G-SIIs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 92b has been added, setting an own funds and eligible liabilities requirement for institutions that are material subsidiaries of non-EU G-SIIs and are not resolution entities, fixed at 90% of the requirement laid down in Article 92a. [Art. 92b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_92b)
+
+It further specifies that Additional Tier 1, Tier 2 and eligible liabilities instruments only count toward that requirement if owned by the ultimate parent of the non-EU G-SII and issued through entities established in the same third country as that parent or in a Member State, and it sets additional ranking and write-down/conversion conditions that eligible liabilities instruments must meet. [Art. 92b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_92b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 92b
+> Requirement for own funds and eligible liabilities for non-EU G-SIIs
+> 1. Institutions that are material subsidiaries of non-EU G-SIIs and that are not resolution entities shall at all times satisfy requirements for own funds and eligible liabilities equal to 90 % of the requirements for own funds and eligible liabilities laid down in Article 92a.
+> 2. For the purpose of complying with paragraph 1, Additional Tier 1, Tier 2 and eligible liabilities instruments shall only be taken into account where those instruments are owned by the ultimate parent undertaking of the non-EU G-SII and have been issued directly or indirectly through other entities within the same group, provided that all such entities are established in the same third country as that ultimate parent undertaking or in a Member State.
+> 3. An eligible liabilities instrument shall only be taken into account for the purpose of complying with paragraph 1 where it fulfils all the following additional conditions:
+> (a) in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim resulting from the liability ranks below claims resulting from liabilities that do not fulfil the conditions set out in paragraph 2 of this Article and that do not qualify as own funds;
+> (b) it is subject to the write-down or conversion powers in accordance with Articles 59 to 62 of Directive 2014/59/EU.
+
+**MODIFIED · Art. 94** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 102** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 103** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 104** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 104a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 104b — Requirements for trading desk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+Article 104b is a newly added provision setting out requirements that institutions must apply when establishing trading desks and assigning trading book positions to them. [Art. 104b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_104b)
+
+It lists conditions each trading desk must meet, including a distinct business strategy, defined organisational and dealer assignment rules, position limits, and periodic reporting on activities, limit breaches and market liquidity, along with a derogation allowing a dealer to be assigned to more than one trading desk under specified conditions and a notification duty toward competent authorities. [Art. 104b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_104b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 104b
+> Requirements for trading desk
+> 1. For the purposes of the reporting requirements set out in Article 430b(3), institutions shall establish trading desks and shall assign each of their trading book positions to one of those trading desks. Trading book positions shall be attributed to the same trading desk only where they satisfy the agreed business strategy for the trading desk and are consistently managed and monitored in accordance with paragraph 2 of this Article.
+> 2. Institutions' trading desks shall at all times meet all the following requirements:
+> (a) each trading desk shall have a clear and distinctive business strategy and a risk management structure that is adequate for its business strategy;
+> (b) each trading desk shall have a clear organisational structure; positions in a given trading desk shall be managed by designated dealers within the institution; each dealer shall have dedicated functions in the trading desk; each dealer shall be assigned to one trading desk only;
+> (c) position limits shall be set within each trading desk according to the business strategy of that trading desk;
+> (d) reports on the activities, profitability, risk management and regulatory requirements at the trading desk level shall be produced at least on a weekly basis and communicated to the management body on a regular basis;
+> (e) each trading desk shall have a clear annual business plan including a well-defined remuneration policy on the basis of sound criteria used for performance m […truncated by emendrix: 989 characters omitted…]
+
+**MODIFIED · Art. 105** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 106** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 107** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 117 — Exposures to multilateral development banks** · applies from: unchanged
+
+*within* `AR 117 PA 2 ALN 1 PTA (n)`, `AR 117 PA 2 ALN 1 PTA (o)`, `AR 117 PA 2 ALN 1 PTA (p)`, `AR 117 PA 2 ALN 2` · *amended by* `32019R0876`
+
+Two new entities, the International Development Association and the Asian Infrastructure Investment Bank, have been added to the list of multilateral development banks assigned a 0% risk weight. [Art. 117, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_117)
+
+A new subparagraph has been added empowering the Commission to adopt delegated acts under Article 462 to amend the list of multilateral development banks in line with international standards. [Art. 117, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_117)
+
+*before* (`02013R0575-20190426`)
+
+> Article 117
+> Exposures to multilateral development banks
+> 1. Exposures to multilateral development banks that are not referred to in paragraph 2 shall be treated in the same manner as exposures to institutions. The preferential treatment for short-term exposures as specified in Articles 119(2), 120(2) and 121(3) shall not be applied.
+> The Inter-American Investment Corporation, the Black Sea Trade and Development Bank, the Central American Bank for Economic Integration and the CAF-Development Bank of Latin America shall be considered multilateral development banks.
+> 2. Exposures to the following multilateral development banks shall be assigned a 0 % risk weight:
+> (a) the International Bank for Reconstruction and Development;
+> (b) the International Finance Corporation;
+> (c) the Inter-American Development Bank;
+> (d) the Asian Development Bank;
+> (e) the African Development Bank;
+> (f) the Council of Europe Development Bank;
+> (g) the Nordic Investment Bank;
+> (h) the Caribbean Development Bank;
+> (i) the European Bank for Reconstruction and Development;
+> (j) the European Investment Bank;
+> (k) the European Investment Fund;
+> (l) the Multilateral Investment Guarantee Agency;
+> (m) the International Finance Facility for Immunisation;
+> (n) the Islamic Development Bank.
+> 3. A risk weight of 20 % shall be assigned to the portion of unpaid capital subscribed to the European Investment Fund.
+
+*after* (`02013R0575-20190627`)
+
+> Article 117
+> Exposures to multilateral development banks
+> 1. Exposures to multilateral development banks that are not referred to in paragraph 2 shall be treated in the same manner as exposures to institutions. The preferential treatment for short-term exposures as specified in Articles 119(2), 120(2) and 121(3) shall not be applied.
+> The Inter-American Investment Corporation, the Black Sea Trade and Development Bank, the Central American Bank for Economic Integration and the CAF-Development Bank of Latin America shall be considered multilateral development banks.
+> 2. Exposures to the following multilateral development banks shall be assigned a 0 % risk weight:
+> (a) the International Bank for Reconstruction and Development;
+> (b) the International Finance Corporation;
+> (c) the Inter-American Development Bank;
+> (d) the Asian Development Bank;
+> (e) the African Development Bank;
+> (f) the Council of Europe Development Bank;
+> (g) the Nordic Investment Bank;
+> (h) the Caribbean Development Bank;
+> (i) the European Bank for Reconstruction and Development;
+> (j) the European Investment Bank;
+> (k) the European Investment Fund;
+> (l) the Multilateral Investment Guarantee Agency;
+> (m) the International Finance Facility for Immunisation;
+> (n) the Islamic Development Bank;
+> (o) the International Development Association;
+> (p) the Asian Infrastructure Investment Bank.
+> The Commission is empowered to amend this Regulation by adopting delegated acts in accordance with Article 462 amending, in accordance with internati […truncated by emendrix: 217 characters omitted…]
+
+**MODIFIED · Art. 118 — Exposures to international organisations** · applies from: unchanged
+
+*within* `AR 118 ALN 1 PTA (a)` · *amended by* `32019R0876`
+
+Point (a) previously referred only to the Union, whereas it now names both the European Union and the European Atomic Energy Community as entities whose exposures receive a 0% risk weight. [Art. 118, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_118) [Art. 118, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_118)
+
+*before* (`02013R0575-20190426`)
+
+> Article 118
+> Exposures to international organisations
+> Exposures to the following international organisations shall be assigned a 0 % risk weight:
+> (a) the Union;
+> (b) the International Monetary Fund;
+> (c) the Bank for International Settlements;
+> (d) the European Financial Stability Facility;
+> (e) the European Stability Mechanism;
+> (f) an international financial institution established by two or more Member States, which has the purpose to mobilise funding and provide financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems.
+
+*after* (`02013R0575-20190627`)
+
+> Article 118
+> Exposures to international organisations
+> Exposures to the following international organisations shall be assigned a 0 % risk weight:
+> (a) the European Union and the European Atomic Energy Community;
+> (b) the International Monetary Fund;
+> (c) the Bank for International Settlements;
+> (d) the European Financial Stability Facility;
+> (e) the European Stability Mechanism;
+> (f) an international financial institution established by two or more Member States, which has the purpose to mobilise funding and provide financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems.
+
+**MODIFIED · Art. 123** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 124 — Exposures secured by mortgages on immovable property** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 1 PTA (a)`, `AR 124 PA 4 ALN 1 PTA (b)`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)` · *dates* -2014-12-31 +2019-12-31 · *amended by* `32019R0876`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20190426`)
+
+> Article 124
+> Exposures secured by mortgages on immovable property
+> 1. An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions under Article 125 or 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the immovable property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+> The part of an exposure treated as fully secured by immovable property shall not be higher than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the property in question.
+> 2. Based on the data collected under Article 101, and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the risk-weight of 35 % for exposures secured by mortgages on residential property referred to in Article 125 and the risk weight of 50 % for exposures secured on commercial immovable property referred to in Article 126 located in their territory are appropriately based on:
+> (a) the loss experience of exposures secured by immovable property;
+> (b) forward-looking immovable property markets developments;
+> Competent authorities may set a higher risk weight or stricter […truncated by emendrix: 2591 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 124
+> Exposures secured by mortgages on immovable property
+> 1. An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions under Article 125 or 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the immovable property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+> The part of an exposure treated as fully secured by immovable property shall not be higher than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the property in question.
+> 2. Based on the data collected under Article 101, and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the risk-weight of 35 % for exposures secured by mortgages on residential property referred to in Article 125 and the risk weight of 50 % for exposures secured on commercial immovable property referred to in Article 126 located in their territory are appropriately based on:
+> (a) the loss experience of exposures secured by immovable property;
+> (b) forward-looking immovable property markets developments;
+> Competent authorities may set a higher risk weight or stricter […truncated by emendrix: 2886 characters omitted…]
+
+**MODIFIED · Art. 128** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 132** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 132a — Approaches for calculating risk-weighted exposure amounts of CIUs** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
+
+This provision is entirely new, adding Article 132a on approaches for calculating risk-weighted exposure amounts of CIUs, and the visible excerpt covers only paragraph 4, which directs EBA to develop draft regulatory technical standards specifying how institutions are to calculate the risk-weighted exposure amount referred to in paragraph 2 when some required inputs are unavailable. [Art. 132a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_132a)
+
+The text sets a submission deadline of 28 March 2020 for EBA to send those draft standards to the Commission, and states that the Commission is empowered to adopt them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 132a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_132a)
+
+The provided text is truncated, showing only paragraph 4 of the new article, so earlier paragraphs of Article 132a are not shown. [Art. 132a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_132a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 132a
+> Approaches for calculating risk-weighted exposure amounts of CIUs
+> 4. EBA shall develop draft regulatory technical standards to specify how institutions shall calculate the risk-weighted exposure amount referred to in paragraph 2 where one or more of the inputs required for that calculation are not available.
+> EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**INSERTED · Art. 132b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 132c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 144** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 152** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 158** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 162 — Maturity** · applies from: unchanged
+
+*within* `AR 162 PA 2 ALN 1 PTA (a)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Comparing the two texts of Article 162 point (a) in paragraph 2, the wording and formula for calculating M for an instrument subject to a cash flow schedule are identical apart from a minor spacing difference in how the formula is rendered. [Art. 162, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_162) [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_162)
+
+No other wording in the provision differs between the two versions shown. [Art. 162, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_162) [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_162)
+
+*before* (`02013R0575-20190426`)
+
+> Article 162
+> Maturity
+> 1. Institutions that have not received permission to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures M of 2,5 years.
+> Alternatively, as part of the permission referred to in Article 143, the competent authorities shall decide on whether the institution shall use maturity (M) for each exposure as set out under paragraph 2.
+> 2. Institutions that have received the permission of the competent authority to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks pursuant to Article 143 shall calculate M for each of these exposures as set out in points (a) to (e) of this paragraph and subject to paragraphs 3 to 5 of this Article. M shall be no greater than five years except in the cases specified in Article 384(1) where M as specified there shall be used:
+> (a) for an instrument subject to a cash flow schedule, M shall be calculated in accordance with the following formula:
+> Mmax1, mintt  CFttCFt,5
+> where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+> (b) for derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exposure, […truncated by emendrix: 5649 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 162
+> Maturity
+> 1. Institutions that have not received permission to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures M of 2,5 years.
+> Alternatively, as part of the permission referred to in Article 143, the competent authorities shall decide on whether the institution shall use maturity (M) for each exposure as set out under paragraph 2.
+> 2. Institutions that have received the permission of the competent authority to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks pursuant to Article 143 shall calculate M for each of these exposures as set out in points (a) to (e) of this paragraph and subject to paragraphs 3 to 5 of this Article. M shall be no greater than five years except in the cases specified in Article 384(1) where M as specified there shall be used:
+> (a) for an instrument subject to a cash flow schedule, M shall be calculated in accordance with the following formula:
+> Mmax1,mintt  CFttCFt,5
+> where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+> (b) for derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exposure, w […truncated by emendrix: 5648 characters omitted…]
+
+**MODIFIED · Art. 164 — Loss Given Default (LGD)** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 164 PA 8`, `AR 164 PA 9` · *dates* +2019-12-31 · *amended by* `32019R0876`
+
+Two new paragraphs, 8 and 9, were added at the end of Article 164. [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_164)
+
+Paragraph 8 directs EBA, working closely with the ESRB, to develop draft regulatory technical standards on the conditions the authority designated under paragraph 5 must consider when assessing LGD value appropriateness under paragraph 6, with submission to the Commission by 31 December 2019 and a delegation of power to the Commission to supplement the Regulation by adopting those standards. [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_164)
+
+Paragraph 9 allows the ESRB, in close cooperation with EBA and by means of recommendations under Article 16 of Regulation (EU) No 1092/2010, to give guidance to the designated authorities on financial-stability factors referred to in paragraph 6 and on indicative benchmarks for setting higher minimum LGD values, neither of which appeared in the earlier text. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_164)
+
+*before* (`02013R0575-20190426`)
+
+> Article 164
+> Loss Given Default (LGD)
+> 1. Institutions shall provide own estimates of LGDs subject to requirements as specified in Section 6 and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+> 2. Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+> 3. For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+> 4. The exposur […truncated by emendrix: 1881 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 164
+> Loss Given Default (LGD)
+> 1. Institutions shall provide own estimates of LGDs subject to requirements as specified in Section 6 and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+> 2. Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+> 3. For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+> 4. The exposur […truncated by emendrix: 3025 characters omitted…]
+
+**MODIFIED · Art. 201** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 204a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 223** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 272** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 273** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 273a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 273b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 277 — Transactions with a linear risk profile** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 277 PA 5` · *dates* +2019-12-28
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new paragraph 5 is added requiring EBA to develop draft regulatory technical standards specifying the method for identifying transactions with only one material risk driver and the method for identifying transactions with more than one material risk driver and the most material of those drivers for purposes of paragraph 3. [Art. 277, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_277)
+
+The added paragraph also states that EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019 and that power is delegated to the Commission to adopt them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 277, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_277)
+
+Paragraphs 1 through 4 remain unchanged between the two versions. [Art. 277, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_277) [Art. 277, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_277)
+
+*before* (`02013R0575-20190426`)
+
+> Article 277
+> Transactions with a linear risk profile
+> 1. Institutions shall map transactions with a linear risk profile to risk positions in accordance with the following provisions:
+> (a) transactions with a linear risk profile with equities (including equity indices), gold, other precious metals or other commodities as the underlying shall be mapped to a risk position in the respective equity (or equity index) or commodity and an interest rate risk position for the payment leg;
+> (b) transactions with a linear risk profile with a debt instrument as the underlying instrument shall be mapped to an interest rate risk position for the debt instrument and another interest rate risk position for the payment leg;
+> (c) transactions with a linear risk profile that stipulate the exchange of payment against payment, including foreign exchange forwards, shall be mapped to an interest rate risk position for each of the payment legs.
+> Where, under a transaction mentioned in point (a), (b) or (c), a payment leg or the underlying debt instrument is denominated in foreign currency, that payment leg or underlying instrument shall also be mapped to a risk position in that currency.
+> 2. For the purposes of paragraph 1, the size of a risk position from a transaction with linear risk profile shall be the effective notional value (market price multiplied by quantity) of the underlying financial instruments or commodities converted to the institution's domestic currency by multiplication with the relevant […truncated by emendrix: 554 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 277
+> Transactions with a linear risk profile
+> 1. Institutions shall map transactions with a linear risk profile to risk positions in accordance with the following provisions:
+> (a) transactions with a linear risk profile with equities (including equity indices), gold, other precious metals or other commodities as the underlying shall be mapped to a risk position in the respective equity (or equity index) or commodity and an interest rate risk position for the payment leg;
+> (b) transactions with a linear risk profile with a debt instrument as the underlying instrument shall be mapped to an interest rate risk position for the debt instrument and another interest rate risk position for the payment leg;
+> (c) transactions with a linear risk profile that stipulate the exchange of payment against payment, including foreign exchange forwards, shall be mapped to an interest rate risk position for each of the payment legs.
+> Where, under a transaction mentioned in point (a), (b) or (c), a payment leg or the underlying debt instrument is denominated in foreign currency, that payment leg or underlying instrument shall also be mapped to a risk position in that currency.
+> 2. For the purposes of paragraph 1, the size of a risk position from a transaction with linear risk profile shall be the effective notional value (market price multiplied by quantity) of the underlying financial instruments or commodities converted to the institution's domestic currency by multiplication with the relevant […truncated by emendrix: 1202 characters omitted…]
+
+**INSERTED · Art. 279a — Supervisory delta** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a new provision, Article 279a, setting out a numbered paragraph 3 that directs EBA to draft regulatory technical standards covering the formula for the supervisory delta of call and put options mapped to the interest rate risk category and the method for determining whether a transaction is a long or short position in the primary or most material risk driver for transactions referred to in Article 277(3). [Art. 279a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_279a)
+
+The text also states that EBA is to submit those draft standards to the Commission by 28 December 2019 and that the Commission is empowered to adopt them by supplementing the Regulation in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 279a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_279a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 279a
+> Supervisory delta
+> 3. EBA shall develop draft regulatory technical standards to specify:
+> (a) in accordance with international regulatory developments, the formula that institutions shall use to calculate the supervisory delta of call and put options mapped to the interest rate risk category compatible with market conditions in which interest rates may be negative as well as the supervisory volatility that is suitable for that formula;
+> (b) the method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3).
+> EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**MODIFIED · Art. 283** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 298** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 299** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 300** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 301** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 302** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 303** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 304** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 305** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 306** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 307** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 308** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 309** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 316** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 325 — Approaches for calculating the own funds requirements for market risk** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 325`, `AR 325 PA 1 ALN 1`, `AR 325 PA 1 ALN 1 PTA (a)`, `AR 325 PA 1 ALN 1 PTA (b)`, `AR 325 PA 2 ALN 1`, `AR 325 PA 2 ALN 1 PTA (a)`, `AR 325 PA 2 ALN 1 PTA (b)`, `AR 325 PA 2 ALN 1 PTA (c)`, `AR 325 PA 3 ALN 1`, `AR 325 PA 3 ALN 1 PTA (a)`, `AR 325 PA 3 ALN 1 PTA (b)`, `AR 325 PA 3 ALN 1 PTA (c)`, `AR 325 PA 4`, `AR 325 PA 5`, `AR 325 PA 6`, `AR 325 PA 7`, `AR 325 PA 8`, `AR 325 PA 9` · *dates* +2020-09-28
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The article's heading and entire substance changed from allowances for offsetting positions between institutions or undertakings for consolidated own funds calculations to a description of approaches for calculating own funds requirements for market risk. [Art. 325, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_325) [Art. 325, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325)
+
+The earlier text addressed permission conditions for cross-institution position offsetting, including conditions relating to third-country undertakings, while the later text instead sets out standardised and internal model approaches, reporting obligations under Article 430b, rules on the alternative correlation trading portfolio, and a mandate for EBA to develop regulatory technical standards. [Art. 325, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_325) [Art. 325, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325)
+
+The later text states that EBA shall submit its draft regulatory technical standards to the Commission by 28 September 2020. [Art. 325, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325)
+
+*before* (`02013R0575-20190426`)
+
+> Article 325
+> Allowances for consolidated requirements
+> 1. Subject to paragraph 2 and only for the purpose of calculating net positions and own funds requirements in accordance with this Title on a consolidated basis, institutions may use positions in one institution or undertaking to offset positions in another institution or undertaking.
+> 2. Institutions may apply paragraph 1 only subject to the permission of the competent authorities, which shall be granted if all of the following conditions are met:
+> (a) there is a satisfactory allocation of own funds within the group;
+> (b) the regulatory, legal or contractual framework in which the institutions operate is such as to guarantee mutual financial support within the group.
+> 3. Where there are undertakings located in third countries all of the following conditions shall be met in addition to those in paragraph 2:
+> (a) such undertakings have been authorised in a third country and either satisfy the definition of a credit institution or are recognised third-country investment firms;
+> (b) such undertakings comply, on an individual basis, with own funds requirements equivalent to those laid down in this Regulation;
+> (c) no regulations exist in the third countries in question which might significantly affect the transfer of funds within the group.
+
+*after* (`02013R0575-20190627`)
+
+> Article 325
+> Approaches for calculating the own funds requirements for market risk
+> 1. An institution shall calculate the own funds requirements for market risk of all trading book positions and non-trading book positions that are subject to foreign exchange risk or commodity risk in accordance with the following approaches:
+> (a) the standardised approach referred to in paragraph 2;
+> (b) the internal model approach set out in Chapter 5 of this Title for those risk categories for which the institution has been granted permission in accordance with Article 363 to use that approach.
+> 2. The own funds requirements for market risk calculated in accordance with the standardised approach referred to in point (a) of paragraph 1 shall mean the sum of the following own funds requirements, as applicable:
+> (a) the own funds requirements for position risk referred to in Chapter 2;
+> (b) the own funds requirements for foreign exchange risk referred to in Chapter 3;
+> (c) the own funds requirements for commodity risk referred to in Chapter 4.
+> 3. An institution that is not exempted from the reporting requirements set out in Article 430b in accordance with Article 325a shall report the calculation in accordance with Article 430b for all trading book positions and non-trading book positions that are subject to foreign exchange risk or commodity risk in accordance with the following approaches:
+> (a) the alternative standardised approach set out in Chapter 1a;
+> (b) the alternative internal model approach se […truncated by emendrix: 2793 characters omitted…]
+
+**INSERTED · Art. 325a — Exemptions from specific reporting requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 325a has been added, setting out conditions under which an institution is exempted from the market risk reporting requirement in Article 430b, based on the size of its on- and off-balance-sheet business subject to market risk relative to total assets and a fixed euro threshold. [Art. 325a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+The provision describes how institutions calculate that business size, requires notification to competent authorities on starting or stopping such calculation, sets out when the exemption ceases to apply and how it may be regained, and prohibits entering into or trading positions solely to meet the exemption conditions during the monthly assessment. [Art. 325a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that an institution eligible for the treatment in Article 94 is exempted from the Article 430b reporting requirement. [Art. 325a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325a
+> Exemptions from specific reporting requirements for market risk
+> 1. An institution shall be exempted from the reporting requirement set out in Article 430b, provided that the size of the institution's on- and off-balance-sheet business that is subject to market risk is equal to or less than each of the following thresholds, on the basis of an assessment carried out on a monthly basis using data as of the last day of the month:
+> (a) 10 % of the institution's total assets;
+> (b) EUR 500 million.
+> 2. Institutions shall calculate the size of their on- and off-balance-sheet business that is subject to market risk using data as of the last day of each month in accordance with the following requirements:
+> (a) all the positions assigned to the trading book shall be included, except credit derivatives that are recognised as internal hedges against non-trading book credit risk exposures and the credit derivative transactions that perfectly offset the market risk of the internal hedges as referred to in Article 106(3);
+> (b) all non-trading book positions that are subject to foreign exchange risk or commodity risk shall be included;
+> (c) all positions shall be valued at their market values on that date, except for positions referred to in point (b); where the market value of a position is not available on a given date, institutions shall take a fair value for the position on that date; where the fair value and market value of a position are not available on a given date, institution […truncated by emendrix: 1935 characters omitted…]
+
+**INSERTED · Art. 325b — Permission for consolidated requirements** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This provision is new, introducing a permission allowing institutions to offset positions in one institution or undertaking against positions in another institution or undertaking solely for calculating net positions and own funds requirements on a consolidated basis. [Art. 325b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+The text sets out conditions competent authorities must find met before granting this permission, including satisfactory allocation of own funds within the group and a framework guaranteeing mutual financial support, with further additional conditions specified for undertakings located in third countries. [Art. 325b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325b
+> Permission for consolidated requirements
+> 1. Subject to paragraph 2, and only for the purpose of calculating net positions and own funds requirements in accordance with this Title on a consolidated basis, institutions may use positions in one institution or undertaking to offset positions in another institution or undertaking.
+> 2. Institutions may apply paragraph 1 only with the permission of the competent authorities which shall be granted if all the following conditions are met:
+> (a) there is a satisfactory allocation of own funds within the group;
+> (b) the regulatory, legal or contractual framework in which the institutions operate guarantees mutual financial support within the group.
+> 3. Where there are undertakings located in third countries, all the following conditions shall be met in addition to those set out in paragraph 2:
+> (a) such undertakings have been authorised in a third country and either satisfy the definition of a credit institution or are recognised third-country investment firms;
+> (b) on an individual basis, such undertakings comply with own funds requirements equivalent to those laid down in this Regulation;
+> (c) no regulations exist in the third countries in question which might significantly affect the transfer of funds within the group.
+
+**INSERTED · Art. 325c — Scope and structure of the alternative standardised approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325c is a new provision setting out that the alternative standardised approach described in this Chapter is to be used only for the reporting requirement laid down in Article 430b(1). [Art. 325c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325c)
+
+It further sets out that institutions calculate own funds requirements for market risk under this approach, for portfolios of trading book or non-trading book positions subject to foreign exchange or commodity risk, as the sum of three components: a sensitivities-based method requirement, a default risk requirement applicable only to certain trading book positions, and a residual risk requirement applicable only to certain trading book positions. [Art. 325c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325c)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325c
+> Scope and structure of the alternative standardised approach
+> 1. The alternative standardised approach as set out in this Chapter shall be used only for the purposes of the reporting requirement laid down in Article 430b(1).
+> 2. Institutions shall calculate the own funds requirements for market risk in accordance with the alternative standardised approach for a portfolio of trading book positions or non-trading book positions that are subject to foreign exchange or commodity risk as the sum of the following three components:
+> (a) the own funds requirement under the sensitivities-based method set out in Section 2;
+> (b) the own funds requirement for the default risk set out in Section 5 which is only applicable to the trading book positions referred to in that Section;
+> (c) the own funds requirement for residual risks set out in Section 4 which is only applicable to the trading book positions referred to in that Section.
+
+**INSERTED · Art. 325d — Definitions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 325d has been added, setting out definitions for the purposes of this Chapter, including risk class, sensitivity, and bucket. [Art. 325d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325d)
+
+The risk class definition lists seven categories covering general interest rate risk, credit spread risk for non-securitisation, credit spread risk for securitisation outside and inside the alternative correlation trading portfolio, equity risk, commodity risk, and foreign exchange risk. [Art. 325d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325d)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325d
+> Definitions
+> For the purposes of this Chapter, the following definitions apply:
+> (1) risk class means one of the following seven categories:
+> (i) general interest rate risk;
+> (ii) credit spread risk (CSR) for non-securitisation;
+> (iii) credit spread risk for securitisation not included in the alternative correlation trading portfolio (non-ACTP CSR);
+> (iv) credit spread risk for securitisation included in the alternative correlation trading portfolio (ACTP CSR);
+> (v) equity risk;
+> (vi) commodity risk;
+> (vii) foreign exchange risk;
+> (2) sensitivity means the relative change in the value of a position, as a result of a change in the value of one of the relevant risk factors of the position, calculated with the institution's pricing model in accordance with Subsection 2 of Section 3;
+> (3) bucket means a sub-category of positions within one risk class with a similar risk profile to which a risk weight as defined in Subsection 1 of Section 3 is assigned.
+
+**INSERTED · Art. 325e — Components of the sensitivities-based method** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new, setting out that institutions calculate the own funds requirement for market risk under the sensitivities-based method by aggregating own funds requirements for delta, vega and curvature risk. [Art. 325e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325e)
+
+It further specifies that positions in instruments with optionality are subject to all three of these requirements, while positions in instruments without optionality are subject only to the delta risk requirement, and it defines which instruments count as having optionality and which do not. [Art. 325e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325e)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325e
+> Components of the sensitivities-based method
+> 1. Institutions shall calculate the own funds requirement for market risk under the sensitivities-based method by aggregating the following three own funds requirements in accordance with Article 325h:
+> (a) own funds requirements for delta risk which capture the risk of changes in the value of an instrument due to movements in its non-volatility related risk factors;
+> (b) own funds requirements for vega risk which capture the risk of changes in the value of an instrument due to movements in its volatility-related risk factors;
+> (c) own funds requirements for curvature risk which capture the risk of changes in the value of an instrument due to movements in the main non-volatility related risk factors not captured by the own funds requirements for delta risk.
+> 2. For the purpose of the calculation referred to in paragraph 1,
+> (a) all the positions of instruments with optionality shall be subject to the own funds requirements referred to in points (a), (b) and (c) of paragraph 1;
+> (b) all the positions of instruments without optionality shall only be subject to the own funds requirements referred to in point (a) of paragraph 1.
+> For the purposes of this Chapter, instruments with optionality include, among others: calls, puts, caps, floors, swap options, barrier options and exotic options. Embedded options, such as prepayment or behavioural options, shall be considered to be stand-alone positions in options for the purpose of cal […truncated by emendrix: 246 characters omitted…]
+
+**INSERTED · Art. 325f — Own funds requirements for delta and vega risks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out a multi-step process for institutions to calculate own funds requirements for delta and vega risks, covering identification of risk factors, calculation of sensitivities, assignment to buckets, netting, weighting, and aggregation formulas. [Art. 325f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325f)
+
+The article defines the formulas and variables used at each stage, including weighted sensitivities, bucket-specific sensitivities, and the risk-class specific own funds requirement, along with an alternative calculation specification for cases producing a negative aggregate result. [Art. 325f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325f)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325f
+> Own funds requirements for delta and vega risks
+> 1. Institutions shall apply the delta and vega risk factors described in Subsection 1 of Section 3 to calculate the own funds requirements for delta and vega risks.
+> 2. Institutions shall apply the process set out in paragraphs 3 to 8 to calculate own funds requirements for delta and vega risks.
+> 3. For each risk class, the sensitivity of all instruments in scope of the own funds requirements for delta or vega risks to each of the applicable delta or vega risk factors included in that risk class shall be calculated by using the corresponding formulas in Subsection 2 of Section 3. If the value of an instrument depends on several risk factors, the sensitivity shall be determined separately for each risk factor.
+> 4. Sensitivities shall be assigned to one of the buckets b within each risk class.
+> 5. Within each bucket b, the positive and negative sensitivities to the same risk factor shall be netted, giving rise to net sensitivities (sk) to each risk factor k within a bucket.
+> 6. The net sensitivities to each risk factor within each bucket shall be multiplied by the corresponding risk weights set out in Section 6, giving rise to weighted sensitivities to each risk factor within that bucket in accordance with the following formula:
+> WSk = RWk · sk
+> where:
+> WSk
+> the weighted sensitivities;
+> RWk
+> the risk weights; and
+> sk
+> the risk factor.
+> 7. The weighted sensitivities to the different risk factors within each bucket shall be aggregate […truncated by emendrix: 1587 characters omitted…]
+
+**INSERTED · Art. 325g — Own funds requirements for curvature risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added and sets out that institutions calculate own funds requirements for curvature risk in accordance with a delegated act referred to in Article 461a. [Art. 325g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325g)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325g
+> Own funds requirements for curvature risk
+> Institutions shall calculate the own funds requirements for curvature risk in accordance with the delegated act referred to in Article 461a.
+
+**INSERTED · Art. 325h — Aggregation of risk-class specific own funds requirements for delta, vega and curvature risks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 325h has been added, setting out a process by which institutions aggregate risk-class specific own funds requirements for delta, vega and curvature risks across three correlation scenarios (medium, high, and low correlations), and taking the highest of the three resulting scenario-specific totals as the own funds requirement under the sensitivities-based method. [Art. 325h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325h)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325h
+> Aggregation of risk-class specific own funds requirements for delta, vega and curvature risks
+> 1. Institutions shall aggregate risk-class specific own funds requirements for delta, vega and curvature risks in accordance with the process set out in paragraphs 2, 3 and 4.
+> 2. The process to calculate the risk-class specific own funds requirements for delta, vega and curvature risks described in Articles 325f and 325g shall be performed three times per risk class, each time using a different set of correlation parameters ρkl (correlation between risk factors within a bucket) and γbc (correlation between buckets within a risk class). Each of those three sets shall correspond to a different scenario, as follows:
+> (a) the medium correlations scenario, whereby the correlation parameters ρkl and γbc remain unchanged from those specified in Section 6;
+> (b) the high correlations scenario, whereby the correlation parameters ρkl and γbc that are specified in Section 6 shall be uniformly multiplied by 1,25, with ρkl and γbc subject to a cap at 100 %;
+> (c) the low correlations scenario shall be specified in the delegated act referred to in Article 461a.
+> 3. Institutions shall calculate the sum of the delta, vega and curvature risk-class specific own funds requirements for each scenario to determine three scenario-specific, own funds requirements.
+> 4. The own funds requirement under the sensitivities-based method shall be the highest of the three scenario-specific own funds requiremen […truncated by emendrix: 30 characters omitted…]
+
+**INSERTED · Art. 325i — Treatment of index instruments and multi-underlying options** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added provision requiring institutions to treat index instruments and multi-underlying options according to the delegated act referred to in Article 461a. [Art. 325i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325i)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325i
+> Treatment of index instruments and multi-underlying options
+> Institutions shall treat the index instruments and multi-underlying options in accordance with the delegated act referred to in Article 461a.
+
+**INSERTED · Art. 325j — Treatment of collective investment undertakings** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is new, adding Article 325j on the treatment of collective investment undertakings, which states that institutions shall treat such undertakings in accordance with a delegated act referred to in Article 461a. [Art. 325j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325j)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325j
+> Treatment of collective investment undertakings
+> Institutions shall treat the collective investment undertakings in accordance with the delegated act referred to in Article 461a.
+
+**INSERTED · Art. 325k — Underwriting positions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out a process institutions may use to calculate own funds requirements for market risk on underwriting positions in debt or equity instruments. [Art. 325k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325k)
+
+It specifies a table of multiplying factors keyed to business days since an institution becomes unconditionally committed to a known quantity of securities at an agreed price, to be applied to net sensitivities of underwriting positions per issuer, excluding those subscribed or sub-underwritten by third parties under formal agreements, and it requires institutions to notify competent authorities when using this process. [Art. 325k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325k)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325k
+> Underwriting positions
+> 1. Institutions may use the process set out in this Article for calculating the own funds requirements for market risk of underwriting positions of debt or equity instruments.
+> 2. Institutions shall apply one of the appropriate multiplying factors listed in Table 1 to the net sensitivities of all the underwriting positions in each individual issuer, excluding the underwriting positions which are subscribed or sub-underwritten by third parties on the basis of formal agreements, and calculate the own funds requirements for market risk in accordance with the approach set out in this Chapter on the basis of the adjusted net sensitivities.
+> Table 1
+> Business day 0 0 %
+> Business day 1 10 %
+> Business days 2 and 3 25 %
+> Business day 4 50 %
+> Business day 5 75 %
+> After business day 5 100 %
+> For the purposes of this Article, business day 0 means the business day on which the institution becomes unconditionally committed to accepting a known quantity of securities at an agreed price.
+> 3. Institutions shall notify the competent authorities of the application of the process set out in this Article.
+
+**INSERTED · Art. 325l — General interest rate risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out how general interest rate risk factors, including inflation risk and cross-currency basis risk, are to be bucketed by currency and mapped to specified maturities for delta, vega and curvature calculations under the sensitivities-based method. [Art. 325l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325l)
+
+It also specifies how institutions are to derive risk-free rates, treat sovereign debt instruments, calculate sensitivities to inflation and cross-currency basis vectors, and apply curvature risk formulas, with no curvature own funds requirement for inflation or cross-currency basis risks. [Art. 325l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325l)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325l
+> General interest rate risk factors
+> 1. For all general interest rate risk factors, including inflation risk and cross-currency basis risk, there shall be one bucket per currency, each containing different types of risk factor.
+> The delta general interest rate risk factors applicable to interest rate-sensitive instruments shall be the relevant risk-free rates per currency and per each of the following maturities: 0,25 years, 0,5 years, 1 year, 2 years, 3 years, 5 years, 10 years, 15 years, 20 years, 30 years. Institutions shall assign risk factors to the specified vertices by linear interpolation or by using a method that is most consistent with the pricing functions used by the independent risk control function of the institution to report market risk or profits and losses to senior management.
+> 2. Institutions shall obtain the risk-free rates per currency from money market instruments held in the trading book of the institution that have the lowest credit risk, such as overnight index swaps.
+> 3. Where institutions cannot apply the approach referred to in paragraph 2, the risk-free rates shall be based on one or more market-implied swap curves used by the institution to mark positions to market, such as the interbank offered rate swap curves.
+> Where the data on market-implied swap curves described in paragraph 2 and the first subparagraph of this paragraph are insufficient, the risk-free rates may be derived from the most appropriate sovereign bond curve for a given c […truncated by emendrix: 5653 characters omitted…]
+
+**INSERTED · Art. 325m — Credit spread risk factors for non-securitisation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly inserted, setting out how institutions determine delta, vega and curvature credit spread risk factors for non-securitisation instruments. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
+
+It specifies the maturities and bucketing used for issuer credit spread rates and their implied volatilities, and describes how vectors with differing numbers of components for the same issuer are to be treated as a single risk factor for curvature risk purposes. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325m
+> Credit spread risk factors for non-securitisation
+> 1. The delta credit spread risk factors to be applied by institutions to non-securitisation instruments that are sensitive to credit spread shall be the issuer credit spread rates of those instruments, inferred from the relevant debt instruments and credit default swaps, and mapped to each of the following maturities: 0,5 years, 1 year, 3 years, 5 years, 10 years. Institutions shall apply one risk factor per issuer and maturity, regardless of whether those issuer credit spread rates are inferred from debt instruments or credit default swaps. The buckets shall be sector buckets, as referred to in Section 6, and each bucket shall include all the risk factors allocated to the relevant sector.
+> 2. The vega credit spread risk factors to be applied by institutions to options with non-securitisation underlyings that are sensitive to credit spread shall be the implied volatilities of the underlying's issuer credit spread rates inferred as laid down in paragraph 1, which shall be mapped to the following maturities in accordance with the maturity of the option subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years. The same buckets shall be used as the buckets that were used for the delta credit spread risk for non-securitisation.
+> 3. The curvature credit spread risk factors to be applied by institutions to non-securitisation instruments shall consist of one vector of credit spread rates, representin […truncated by emendrix: 788 characters omitted…]
+
+**INSERTED · Art. 325n — Credit spread risk factors for securitisation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out credit spread risk factors for securitisation positions, distinguishing between positions included in the ACTP and those that are not. [Art. 325n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325n)
+
+For positions in the ACTP it defines delta, vega and curvature risk factors tied to the credit spread rates of the issuers of the underlying exposures across specified maturities, while for positions not in the ACTP it defines corresponding risk factors based on the tranche's own credit spread rather than the underlying instruments' spread. [Art. 325n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325n)
+
+It also specifies that the applicable risk-weighting buckets for ACTP securitisations follow the non-securitisation buckets, whereas buckets for non-ACTP securitisations are specific to that risk-class category. [Art. 325n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325n)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325n
+> Credit spread risk factors for securitisation
+> 1. Institutions shall apply the credit spread risk factors referred to in paragraph 3 to securitisation positions that are included in the ACTP, as referred to in Article 325(6), (7) and (8),
+> Institutions shall apply the credit spread risk factors referred to in paragraph 5 to securitisation positions that are not included in the ACTP, as referred to in Article 325(6), (7) and (8).
+> 2. The buckets applicable to the credit spread risk for securitisations that are included in the ACTP shall be the same as the buckets applicable to the credit spread risk for non-securitisations, as referred to in Section 6.
+> The buckets applicable to the credit spread risk for securitisations that are not included in the ACTP shall be specific to that risk-class category, as referred to in Section 6.
+> 3. The credit spread risk factors to be applied by institutions to securitisation positions that are included in the ACTP are the following:
+> (a) the delta risk factors shall be all the relevant credit spread rates of the issuers of the underlying exposures of the securitisation position, inferred from the relevant debt instruments and credit default swaps, and for each of the following maturities: 0,5 years, 1 year, 3 years, 5 years, 10 years.
+> (b) the vega risk factors applicable to options with securitisation positions that are included in the ACTP as underlyings shall be the implied volatilities of the credit spreads of the issuers of the un […truncated by emendrix: 2245 characters omitted…]
+
+**INSERTED · Art. 325o — Equity risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325o is a new provision setting out equity risk factors, covering delta, vega and curvature risk for equity positions. [Art. 325o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325o)
+
+It defines buckets for equity risk factors, specifies equity spot prices and equity repo rates as delta risk factors with a method for calculating sensitivities, sets implied volatility maturities for vega risk, and states that equity spot prices are the curvature risk factors while repo rates carry no vega or curvature own funds requirements. [Art. 325o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325o)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325o
+> Equity risk factors
+> 1. The buckets for all equity risk factors shall be the sector buckets referred to in Section 6.
+> 2. The equity delta risk factors to be applied by institutions shall be all the equity spot prices and all equity repo rates.
+> For the purposes of equity risk, a specific equity repo curve shall constitute a single risk factor, which is expressed as a vector of repo rates for different maturities. For each instrument, the vector shall contain as many components as there are different maturities of repo rates that are used as variables by the institution's pricing model for that instrument.
+> Institutions shall calculate the sensitivity of an instrument to an equity risk factor as the change in the value of the instrument, according to its pricing model, as a result of a 1 basis point shift in each of the components of the vector. Institutions shall offset sensitivities to the repo rate risk factor of the same equity security, regardless of the number of components of each vector.
+> 3. The equity vega risk factors to be applied by institutions to options with underlyings that are sensitive to equity shall be the implied volatilities of equity spot prices which shall be mapped to the following maturities in accordance with the maturities of the corresponding options subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years. There shall be no own funds requirements for vega risk for equity repo rates.
+> 4. The equity curvature risk fac […truncated by emendrix: 259 characters omitted…]
+
+**INSERTED · Art. 325p — Commodity risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is newly added and sets out how commodity risk factors are defined for delta, vega and curvature purposes under the own funds framework. [Art. 325p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325p)
+
+It specifies the sector buckets, the commodity spot price maturities and conditions for treating two commodity prices as the same risk factor, the implied volatility maturities for vega risk, and the vector-based treatment of curvature risk by commodity type. [Art. 325p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325p)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325p
+> Commodity risk factors
+> 1. The buckets for all commodity risk factors shall be the sector buckets referred to in Section 6.
+> 2. The commodity delta risk factors to be applied by institutions to commodity sensitive instruments shall be all the commodity spot prices per commodity type and per each of the following maturities: 0,25 years, 0,5 years, 1 year, 2 years, 3 years, 5 years, 10 years, 15 years, 20 years, 30 years. Institutions shall only consider two commodity prices of the same type of commodity, and with the same maturity to constitute the same risk factor where the set of legal terms regarding the delivery location are identical.
+> 3. The commodity vega risk factors to be applied by institutions to options with underlyings that are sensitive to commodity shall be the implied volatilities of commodity prices per commodity type, which shall be mapped to the following maturities in accordance with the maturities of the corresponding options subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years. Institutions shall consider sensitivities to the same commodity type and allocated to the same maturity to be a single risk factor which institutions shall then offset.
+> 4. The commodity curvature risk factors to be applied by institutions to options with underlyings that are sensitive to commodity shall be one set of commodity prices with different maturities per commodity type, expressed as a vector. For each instrument, the vector shall conta […truncated by emendrix: 580 characters omitted…]
+
+**INSERTED · Art. 325q — Foreign exchange risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added provision setting out foreign exchange risk factors, defining foreign exchange delta risk factors as the spot exchange rates between an instrument's currency and the institution's reporting currency, with one bucket per currency pair holding a single risk factor and net sensitivity. [Art. 325q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325q)
+
+It further defines foreign exchange vega risk factors as implied volatilities of exchange rates for those currency pairs, mapped to five specified maturities, and defines foreign exchange curvature risk factors as the same factors used for delta risk. [Art. 325q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325q)
+
+It also states that institutions are not required to distinguish between onshore and offshore variants of a currency for these delta, vega and curvature risk factors. [Art. 325q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325q)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325q
+> Foreign exchange risk factors
+> 1. The foreign exchange delta risk factors to be applied by institutions to foreign exchange sensitive instruments shall be all the spot exchange rates between the currency in which an instrument is denominated and the institution's reporting currency. There shall be one bucket per currency pair, containing a single risk factor and a single net sensitivity.
+> 2. The foreign exchange vega risk factors to be applied by institutions to options with underlyings that are sensitive to foreign exchange shall be the implied volatilities of exchange rates between the currency pairs referred to in paragraph 1. Those implied volatilities of exchange rates shall be mapped to the following maturities in accordance with the maturities of the corresponding options subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years.
+> 3. The foreign exchange curvature risk factors to be applied by institutions to options with underlyings that are sensitive to foreign exchange shall be the same as those referred to in paragraph 1.
+> 4. Institutions shall not be required to distinguish between onshore and offshore variants of a currency for all foreign exchange delta, vega and curvature risk factors.
+
+**INSERTED · Art. 325r — Delta risk sensitivities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted provision setting out formulas by which institutions are to calculate delta risk sensitivities for general interest rate risk, credit spread risk, equity risk, commodity risk, and foreign exchange risk. [Art. 325r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325r)
+
+It defines the specific variables and pricing functions used in each calculation across the five risk categories addressed. [Art. 325r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325r)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325r
+> Delta risk sensitivities
+> 1. Institutions shall calculate delta general interest rate risk (GIRR) sensitivities as follows:
+> (a) the sensitivities to risk factors consisting of risk-free rates shall be calculated as follows:
+> SrktVirkt0,0001, x, y …Virkt, x, y …0,0001
+> where:
+> Srkt
+> the sensitivities to risk factors consisting of risk-free rates;
+> rkt
+> the rate of a risk-free curve k with maturity t;
+> Vi (.)
+> the pricing function of instrument i; and
+> x,y
+> risk factors other than rkt in the pricing function Vi;
+> (b) the sensitivities to risk factors consisting of inflation risk and cross-currency basis shall be calculated as follows:
+> SxjVixji0,0001 Im, y, z …Vixji, y, z …0,0001
+> where:
+> Sxj
+> the sensitivities to risk factors consisting of inflation risk and cross-currency basis;
+> xji
+> a vector of m components representing the implied inflation curve or the cross-currency basis curve for a given currency j with m being equal to the number of inflation or cross-currency related variables used in the pricing model of instrument i;
+> Im
+> the unity matrix of dimension (1 × m);
+> Vi (.)
+> the pricing function of the instrument i; and
+> y, z
+> other variables in the pricing model.
+> 2. Institutions shall calculate the delta credit spread risk sensitivities for all securitisation and non-securitisation positions as follows:SCSktViCSkt0,0001, x, y …ViCSkt, x, y …0,0001
+> where:
+> SCSkt
+> the delta credit spread risk sensitivities for all securitisation and non-securitisation positions;
+> cskt
+> the value of the […truncated by emendrix: 2142 characters omitted…]
+
+**INSERTED · Art. 325s — Vega risk sensitivities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added, setting out a formula and rules for institutions to calculate the vega risk sensitivity of an option to a given implied-volatility risk factor. [Art. 325s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325s)
+
+It also specifies mapping treatment for vega risk factors with a maturity dimension when the option lacks a maturity, and for options without a strike or barrier or with multiple strikes or barriers, in both cases subjecting the options to the residual risks add-on. [Art. 325s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325s)
+
+It further states that vega risk is not to be calculated for certain securitisation tranches included in the ACTP that lack an implied volatility, with own funds requirements for those tranches instead computed for delta and curvature risk. [Art. 325s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325s)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325s
+> Vega risk sensitivities
+> 1. Institutions shall calculate the vega risk sensitivity of an option to a given risk factor k as follows:SkVi1,01 volk, x, yVivolk, x, y0,01
+> where:
+> sk
+> the vega risk sensitivity of an option;
+> k
+> a specific vega risk factor, consisting of an implied volatility;
+> volk
+> the value of that risk factor, which should be expressed as a percentage; and
+> x,y
+> risk factors other than volk in the pricing function Vi.
+> 2. In the case of risk classes where vega risk factors have a maturity dimension, but where the rules to map the risk factors are not applicable because the options do not have a maturity, institutions shall map those risk factors to the longest prescribed maturity. Those options shall be subject to the residual risks add-on.
+> 3. In the case of options that do not have a strike or barrier and options that have multiple strikes or barriers, institutions shall apply the mapping to strikes and maturity used internally by the institution to price the option. Those options shall also be subject to the residual risks add-on.
+> 4. Institutions shall not calculate the vega risk for securitisation tranches included in the ACTP, as referred to in Article 325(6), (7) and (8), that do not have an implied volatility. Own funds requirements for delta and curvature risk shall be computed for those securitisation tranches.
+
+**INSERTED · Art. 325t — Requirements on sensitivity computations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is newly added and sets out requirements for how institutions must derive and calculate sensitivities used in market risk own funds calculations, including default assumptions for delta and vega risk sensitivities and conditions under which alternative sensitivity definitions may be used with competent authority permission. [Art. 325t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325t)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325t
+> Requirements on sensitivity computations
+> 1. Institutions shall derive sensitivities from the institution's pricing models that serve as a basis for reporting profit and loss to senior management, using the formulas set out in this Subsection.
+> By way of derogation from the first subparagraph, competent authorities may require an institution that has been granted permission to use the alternative internal model approach set out in Chapter 1b to use the pricing functions of the risk-measurement system of their internal model approach in the calculation of sensitivities under this Chapter for the calculation and reporting of the own funds requirements for market risk in accordance with Article 430b(3).
+> 2. When calculating delta risk sensitivities of instruments with optionality as referred to in point (a) of Article 325e(2), institutions may assume that the implied volatility risk factors remain constant.
+> 3. When calculating vega risk sensitivities of instruments with optionality as referred to in point (b) of Article 325e(2), the following requirements shall apply:
+> (a) for general interest rate risk and credit spread risk, institutions shall assume, for each currency, that the underlying of the volatility risk factors for which vega risk is calculated follows either a lognormal or normal distribution in the pricing models used for those instruments;
+> (b) for equity risk, commodity risk and foreign exchange risk, institutions shall assume that the underlying of the vo […truncated by emendrix: 1956 characters omitted…]
+
+**INSERTED · Art. 325u — Own funds requirements for residual risks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new article introducing an additional own funds requirement for institutions holding instruments considered exposed to residual risks, covering exotic underlyings and instruments bearing other residual risks, calculated as a percentage of gross notional amounts, with exemptions for exchange-listed instruments, centrally clearable instruments, and perfectly offsetting positions. [Art. 325u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325u)
+
+The article also directs EBA to develop regulatory technical standards defining exotic underlyings and residual-risk-bearing instruments, to examine specific risk types as potential exotic underlyings, and to submit those standards to the Commission by 28 June 2021. [Art. 325u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325u)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325u
+> Own funds requirements for residual risks
+> 1. In addition to the own funds requirements for market risk set out in Section 2, institutions shall apply additional own funds requirements to instruments exposed to residual risks in accordance with this Article.
+> 2. Instruments are considered to be exposed to residual risks where they meet any of the following conditions:
+> (a) the instrument references an exotic underlying, which, for the purposes of this Chapter, means a trading book instrument referencing an underlying exposure that is not in the scope of the delta, vega or curvature risk treatments under the sensitivities-based method laid down in Section 2 or the own funds requirements for the default risk set out in Section 5;
+> (b) the instrument is an instrument bearing other residual risks, which, for the purposes of this Chapter, means any of the following instruments:
+> (i) instruments that are subject to the own funds requirements for vega and curvature risk under the sensitivities-based method set out in Section 2 and that generate pay-offs that cannot be replicated as a finite linear combination of plain-vanilla options with a single underlying equity price, commodity price, exchange rate, bond price, credit default swap price or interest rate swap;
+> (ii) instruments that are positions that are included in the ACTP referred to in Article 325(6); hedges that are included in that ACTP, as referred to in Article 325(8), shall not be considered.
+> 3. Institutions shal […truncated by emendrix: 1629 characters omitted…]
+
+**INSERTED · Art. 325v — Definitions and general provisions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added, setting out definitions for terms such as short exposure, long exposure, gross and net jump-to-default amounts, loss given default, and default risk weight, all applicable to a Section on default risk. [Art. 325v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325v)
+
+It also states that own funds requirements for default risk apply to debt and equity instruments, related derivatives, and derivatives affected by third-party obligor default, with institutions calculating these requirements separately for non-securitisations, non-ACTP securitisations, and ACTP securitisations before summing the three components. [Art. 325v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325v)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325v
+> Definitions and general provisions
+> 1. For the purposes of this Section, the following definitions apply:
+> (a) short exposure means that the default of an issuer or group of issuers leads to a gain for the institution, regardless of the type of instrument or transaction creating the exposure;
+> (b) long exposure means that the default of an issuer or group of issuers leads to a loss for the institution, regardless of the type of instrument or transaction creating the exposure;
+> (c) gross jump-to-default (gross JTD) amount means the estimated size of the loss or gain that the default of the obligor would produce for a specific exposure;
+> (d) net jump-to-default (net JTD) amount means the estimated size of the loss or gain that an institution would incur due to the default of an obligor, after offsetting between gross JTD amounts has taken place,
+> (e) loss given default or LGD means the loss given default of the obligor on an instrument issued by that obligor expressed as a share of the notional amount of the instrument;
+> (f) default risk weight means the percentage representing the estimated probability of the default of each obligor, according to the creditworthiness of that obligor.
+> 2. Own funds requirements for the default risk shall apply to debt and equity instruments, to derivative instruments having those instruments as underlyings and to derivatives, the pay-offs or fair values of which are affected by the default of an obligor other than the counterparty to the d […truncated by emendrix: 393 characters omitted…]
+
+**INSERTED · Art. 325w — Gross jump-to-default amounts** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325w is a newly added provision setting out formulas and rules for institutions to calculate gross jump-to-default (JTD) amounts for long and short exposures to debt and equity instruments, including prescribed loss-given-default percentages and treatment of derivative instruments. [Art. 325w, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325w)
+
+It also directs the European Banking Authority to develop draft regulatory technical standards on JTD calculation methods, alternative methodologies for certain derivative exposures, and notional amount determination, to be submitted to the Commission by 28 June 2021. [Art. 325w, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325w)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325w
+> Gross jump-to-default amounts
+> 1. Institutions shall calculate the gross JTD amounts for each long exposure to debt instruments as follows:
+> JTDlong = max {LGD Vnotional + P&Llong + Adjustmentlong; 0}
+> where:
+> JTDlong
+> the gross JTD amount for the long exposure;
+> Vnotional
+> the notional amount of the instrument;
+> P&Llong
+> a term which adjusts for gains or losses already accounted for by the institution due to changes in the fair value of the instrument creating the long exposure; gains shall enter the formula with a positive sign and losses with a negative; and
+> Adjustmentlong
+> the amount by which, due to the structure of the derivative instrument, the institution's loss in the event of default would be increased or reduced relative to the full loss on the underlying instrument; increases shall enter the Adjustmentlong term with a positive sign and decreases with a negative sign.
+> 2. Institutions shall calculate the gross JTD amounts for each short exposure to debt instruments as follows:
+> JTDshort = min {LGD Vnotional + P&Lshort + Adjustmentshort; 0}
+> where:
+> JTDshort
+> the gross JTD amount for the short exposure;
+> Vnotional
+> the notional amount of the instrument that shall enter into the formula with a negative sign;
+> P&Lshort
+> a term which adjusts for gains or losses already accounted for by the institution due to changes in the fair value of the instrument creating the short exposure; gains shall enter into the formula with a positive sign and losses shall enter into the formula […truncated by emendrix: 2954 characters omitted…]
+
+**INSERTED · Art. 325x — Net jump-to-default amounts** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325x is new text setting out how institutions calculate net jump-to-default amounts by offsetting gross JTD amounts of short and long exposures to the same obligor, subject to seniority conditions. [Art. 325x, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325x)
+
+It further specifies rules distinguishing full and partial offsetting based on maturity, treatment of gross JTD amounts when no offsetting is possible, and how maturities of derivative contracts and cash equity exposures are to be treated for these calculations. [Art. 325x, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325x)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325x
+> Net jump-to-default amounts
+> 1. Institutions shall calculate net JTD amounts by offsetting the gross JTD amounts of short exposures and long exposures. Offsetting shall only be possible between exposures to the same obligor where the short exposures have the same seniority as, or lower seniority than, the long exposures.
+> 2. Offsetting shall be either full or partial, depending on the maturities of the offsetting exposures:
+> (a) offsetting shall be full where all offsetting exposures have maturities of one year or more;
+> (b) offsetting shall be partial where at least one of the offsetting exposures has a maturity of less than one year, in which case the size of the JTD amount of each exposure with a maturity of less than one year shall be multiplied by the ratio of the exposure's maturity relative to one year.
+> 3. Where no offsetting is possible gross JTD amounts shall equal net JTD amounts in the case of exposures with maturities of one year or more. Gross JTD amounts with maturities of less than one year shall be multiplied by the ratio of the exposure's maturity relative to one year, with a floor of three months, to calculate net JTD amounts.
+> 4. For the purposes of paragraphs 2 and 3, the maturities of the derivative contracts shall be considered, rather than those of their underlyings. Cash equity exposures shall be assigned a maturity of either one year or three months, at the institution's discretion.
+
+**INSERTED · Art. 325y — Calculation of the own funds requirements for the default risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out how the own funds requirement for default risk is calculated, including a table of default risk weights by credit quality step, treatment of exposures that would receive a 0% risk weight under the Standardised Approach, allocation of weighted net JTD amounts into corporate, sovereign, and local government/municipality buckets, a formula for aggregating weighted net JTD amounts within each bucket accounting for a hedging benefit ratio, and a rule that the final default risk requirement for non-securitisations is the simple sum of the bucket-level requirements. [Art. 325y, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325y)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325y
+> Calculation of the own funds requirements for the default risk
+> 1. Net JTD amounts, irrespective of the type of counterparty, shall be multiplied by the default risk weights that correspond to their credit quality, as specified in Table 2:
+> Table 2
+> Credit quality category Default risk weight
+> Credit quality step 1 0,5 %
+> Credit quality step 2 3 %
+> Credit quality step 3 6 %
+> Credit quality step 4 15 %
+> Credit quality step 5 30 %
+> Credit quality step 6 50 %
+> Unrated 15 %
+> Defaulted 100 %
+> 2. Exposures which would receive a 0 % risk-weight under the Standardised Approach for credit risk in accordance with Chapter 2 of Title II shall receive a 0 % default risk weight for the own funds requirements for the default risk.
+> 3. The weighted net JTD shall be allocated to the following buckets: corporates, sovereigns, and local governments/municipalities.
+> 4. Weighted net JTD amounts shall be aggregated within each bucket, in accordance with the following formula:
+> DRCb = max {(Σi ∈ long RWi · net JTDi) – WtS · (Σi ∈ short RWi · |net JTDi|); 0}
+> where:
+> DRCb
+> the own funds requirement for the default risk for bucket b;
+> i
+> the index that denotes an instrument belonging to bucket b;
+> RWi
+> the risk weight; and
+> WtS
+> a ratio recognising a benefit for hedging relationships within a bucket, which shall be calculated as follows:WtS netJTDlong netJTDlongnetJTDshort
+> For the purposes of calculating the DRCb and the WtS, the long positions and short positions shall be aggregated for all positions within a […truncated by emendrix: 323 characters omitted…]
+
+**INSERTED · Art. 325z — Jump-to-default amounts** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added and sets out how gross and net jump-to-default amounts for securitisation exposures are to be determined, including rules on offsetting between exposures sharing the same underlying asset pool and tranche, and on using decomposed or combined exposures for that offsetting. [Art. 325z, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325z)
+
+It also states that the maturity rules of Article 325x apply to both the existing securitisation exposures and to any exposures used through decomposition or combination, with the relevant maturities being those of the securitisation tranches. [Art. 325z, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325z)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325z
+> Jump-to-default amounts
+> 1. Gross jump-to-default amounts for securitisation exposures shall be their market value or, if their market value is not available, their fair value determined in accordance with the applicable accounting framework.
+> 2. Net jump-to-default amounts shall be determined by offsetting long gross jump-to-default amounts and short gross jump-to-default amounts. Offsetting shall only be possible between securitisation exposures with the same underlying asset pool and belonging to the same tranche. No offsetting shall be permitted between securitisation exposures with different underlying asset pools, even where the attachment and detachment points are the same.
+> 3. Where, by decomposing or combining existing securitisation exposures, other existing securitisation exposures can be perfectly replicated, except for the maturity dimension, the exposures resulting from that decomposition or combination may be used instead of the existing securitisation exposures for the purposes of offsetting.
+> 4. Where, by decomposing or combining existing exposures in underlying names, the entire tranche structure of an existing securitisation exposure can be perfectly replicated, the exposures resulting from that decomposition or combination may be used instead of the existing securitisation exposures for the purposes of offsetting. Where underlying names are used in that manner, they shall be removed from the non-securitisation default risk treatment.
+> 5. Article 32 […truncated by emendrix: 217 characters omitted…]
+
+**INSERTED · Art. 325aa — Calculation of the own funds requirement for the default risk for securitisations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out rules for calculating the own funds requirement for default risk on securitisation exposures, covering net JTD amount multipliers, maturity assumptions, fair value caps, bucket assignment across asset classes and regions, and the aggregation and summation methods used to reach the final requirement. [Art. 325aa, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325aa
+> Calculation of the own funds requirement for the default risk for securitisations
+> 1. Net JTD amounts of securitisation exposures shall be multiplied by 8 % of the risk weight that applies to the relevant securitisation exposure, including STS securitisations, in the non-trading book in accordance with the hierarchy of approaches set out in Section 3 of Chapter 5 of Title II and irrespective of the type of counterparty.
+> 2. A maturity of one year shall be applied to all tranches, where risk weights are calculated in accordance with the SEC-IRBA and SEC-ERBA.
+> 3. The risk-weighted JTD amounts for individual cash securitisation exposures shall be capped at the fair value of the position.
+> 4. Risk-weighted net JTD amounts shall be assigned to the following buckets:
+> (a) one common bucket for all corporates, regardless of the region;
+> (b) 44 different buckets corresponding to one bucket per region for each of the 11 asset classes defined in the second subparagraph.
+> For the purposes of the first subparagraph, the 11 asset classes are ABCP, auto loans/leases, residential mortgage-backed securities (RMBS), credit cards, commercial mortgage-backed securities (CMBS), collateralised loan obligations, collateralised debt obligations squared (CDO-squared), small and medium-sized enterprises (SMEs), student loans, other retail, other wholesale. The four regions are Asia, Europe, North America, and rest of the world.
+> 5. In order to assign a securitisation exposure to a bucket, inst […truncated by emendrix: 837 characters omitted…]
+
+**INSERTED · Art. 325ab — Scope** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325ab is new text setting out the scope of default risk own funds requirements for the ACTP, covering securitisation exposures, non-securitisation hedges, and the treatment of diversification between these categories. [Art. 325ab, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that for traded non-securitisation credit and equity derivatives, jump-to-default amounts for individual constituents are determined using a look-through approach. [Art. 325ab, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ab
+> Scope
+> 1. For the ACTP, the own funds requirements shall include the default risk for securitisation exposures and for non-securitisation hedges. Those hedges shall be removed from the default risk calculations for non-securitisation. There shall be no diversification benefit between the own funds requirements for the default risk for non-securitisations, the own funds requirements for the default risk for securitisations not included in the ACTP and own funds requirements for the default risk for securitisations included in the ACTP.
+> 2. For traded non-securitisation credit and equity derivatives, JTD amounts by individual constituents shall be determined by applying a look-through approach.
+
+**INSERTED · Art. 325ac — Jump-to-default amounts for the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out definitions and rules for calculating jump-to-default amounts for the Alternative Correlation Trading Portfolio, including terms such as decomposition, replication, and decomposition with a valuation model. [Art. 325ac, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies how gross JTD amounts for securitisation and non-securitisation exposures are to be valued, how nth-to-default products are treated as tranched products with defined attachment and detachment points, and the conditions under which long and short gross JTD amounts may be offset to determine net JTD amounts. [Art. 325ac, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ac
+> Jump-to-default amounts for the ACTP
+> 1. For the purposes of this Article, the following definitions apply:
+> (a) decomposition with a valuation model means that a single name constituent of a securitisation is valued as the difference between the unconditional value of the securitisation and the conditional value of the securitisation assuming that single name defaults with an LGD of 100 %;
+> (b) replication means that the combination of individual securitisation index tranches are combined to replicate another tranche of the same index series, or to replicate an untranched position in the index series;
+> (c) decomposition means replicating an index by a securitisation of which the underlying exposures in the pool are identical to the single name exposures that compose the index.
+> 2. The gross JTD amounts for securitisation exposures and non-securitisation exposures in the ACTP shall be their market value or, if their market value is not available, their fair value determined in accordance with the applicable accounting framework.
+> 3. Nth-to-default products shall be treated as tranched products with the following attachment and detachment points:
+> (a) attachment point = (N – 1) / Total Names;
+> (b) detachment point = N / Total Names;
+> where Total Names shall be the total number of names in the underlying basket or pool.
+> 4. Net JTD amounts shall be determined by offsetting long gross JTD amounts and short gross JTD amounts. Offsetting shall only be possible between exposure […truncated by emendrix: 1361 characters omitted…]
+
+**INSERTED · Art. 325ad — Calculation of the own funds requirements for the default risk for the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new text, setting out a method for calculating own funds requirements for default risk for the ACTP by multiplying net JTD amounts by specified default risk weights, assigning risk-weighted amounts to buckets, aggregating them with a formula that nets long and short positions using a hedging-benefit ratio, and then combining bucket-level results into an overall requirement. [Art. 325ad, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ad
+> Calculation of the own funds requirements for the default risk for the ACTP
+> 1. Net JTD amounts shall be multiplied by:
+> (a) for tranched products, the default risk weights corresponding to their credit quality as specified in Article 325y(1) and (2);
+> (b) for non-tranched products, the default risk weights referred to in Article 325aa(1).
+> 2. Risk-weighted net JTD amounts shall be assigned to buckets that correspond to an index.
+> 3. Weighted net JTD amounts shall be aggregated within each bucket in accordance with the following formula:
+> DRCb = max {(Σi ∈ long RWi · net JTDi) – WtSACTP · (Σi ∈ short RWi · |net JTDi|); 0}
+> where:
+> DRCb
+> the own funds requirement for the default risk for bucket b;
+> i
+> an instrument belonging to bucket b; and
+> WtSACTP
+> the ratio recognising a benefit for hedging relationships within a bucket, which shall be calculated in accordance with the WtS formula set out in Article 325y(4), but using long positions and short positions across the entire ACTP and not just the positions in the particular bucket.
+> 4. Institutions shall calculate the own funds requirements for the default risk for the ACTP by using the following formula:DRCACTPmaxbmaxDRCb, 00,5minDRCb, 00 ; 0
+> where:
+> DRCACTP
+> the own funds requirement for the default risk for the ACTP; and
+> DRCb
+> the own funds requirement for the default risk for bucket b.
+
+**INSERTED · Art. 325ae — Risk weights for general interest rate risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new Article 325ae sets out risk weights for general interest rate risk, listing maturities and corresponding buckets in Table 3 and stating that for currencies outside the most liquid currency sub-category the risk weights of risk-free rate sensitivities are to be specified in a delegated act referred to in Article 461a. [Art. 325ae, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that a common risk weight for inflation sensitivities and for cross currency basis risk factors is to be specified in that same delegated act, and that for the most liquid currency sub-category and the institution's domestic currency the risk weights are the Table 3 values divided by the square root of two. [Art. 325ae, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ae
+> Risk weights for general interest rate risk
+> 1. For currencies not included in the most liquid currency sub-category as referred to in point (b) of Article 325bd(7), the risk weights of the sensitivities to the risk-free rate risk factors for each bucket in Table 3 shall be specified pursuant to the delegated act referred to in Article 461a.
+> Table 3
+> Bucket Maturity
+> 1 0,25 years
+> 2 0,5 years
+> 3 1 year
+> 4 2 years
+> 5 3 years
+> 6 5 years
+> 7 10 years
+> 8 15 years
+> 9 20 years
+> 10 30 years
+> 2. A common risk weight both for all the sensitivities to inflation and for cross currency basis risk factors shall be specified in the delegated act referred to in Article 461a.
+> 3. For the currencies included in the most liquid currency sub-category as referred to in point (b) of 325bd(7) and the domestic currency of the institution, the risk weights of the risk-free rate risk factors shall be the risk weights referred to in Table 3 divided by √2.
+
+**INSERTED · Art. 325af — Intra bucket correlations for general interest rate risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new text, setting out five paragraphs of correlation parameters to apply within a bucket for general interest rate risk sensitivities, covering combinations of same or different curves, same or different maturities, inflation risk factors, and cross-currency basis risk factors. [Art. 325af, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies fixed correlation values such as 99,90%, 40% and 0% for particular pairings, and a formula involving maturities and a 3% parameter for sensitivities on the same curve with differing maturities. [Art. 325af, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325af
+> Intra bucket correlations for general interest rate risk
+> 1. Between two weighted sensitivities of general interest rate risk factors WSk and WSl within the same bucket, and with the same assigned maturity but corresponding to different curves, correlation ρkl shall be set at 99,90 %.
+> 2. Between two weighted sensitivities of general interest rate risk factors WSk and WSl within the same bucket, corresponding to the same curve, but having different maturities, correlation shall be set in accordance with the following formula:maxeθTkTlminTk; Tl ; 40 %
+> where:
+> Tk (respectivelyTl)
+> the maturity that relates to the risk free rate;
+> θ
+> 3 %
+> 3. Between two weighted sensitivities of general interest rate risk factors WSk and WSl within the same bucket, corresponding to different curves and having different maturities, the correlation ρkl shall be equal to the correlation parameter specified in paragraph 2, multiplied by 99,90 %.
+> 4. Between any given weighted sensitivity of general interest rate risk factors WSk and any given weighted sensitivity of inflation risk factors WSl, the correlation shall be set at 40 %.
+> 5. Between any given weighted sensitivity of cross-currency basis risk factors WSk and any given weighted sensitivity of general interest rate risk factors WSl, including another cross-currency basis risk factor, the correlation shall be set at 0 %.
+
+**INSERTED · Art. 325ag — Correlations across buckets for general interest rate risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly introduced and sets out two aggregation parameters for combining general interest rate risk factors across different buckets. [Art. 325ag, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies a gamma value of 50% for aggregating risk factors from different buckets generally, and a gamma value of 80% specifically for aggregating a currency-based interest rate risk factor referred to in Article 325av(3) with an interest rate risk factor based on the euro. [Art. 325ag, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ag
+> Correlations across buckets for general interest rate risk
+> 1. The parameter γbc = 50 % shall be used to aggregate risk factors belonging to different buckets.
+> 2. The parameter γbc = 80 % shall be used to aggregate an interest rate risk factor based on a currency as referred to in Article 325av(3) and an interest rate risk factor based on the euro.
+
+**INSERTED · Art. 325ah — Risk weights for credit spread risk for non-securitisations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted provision setting out risk weights for credit spread risk sensitivities for non-securitisations, applying the same risk weight across all listed maturities within each bucket of Table 4, with buckets differentiated by credit quality step and sector. [Art. 325ah, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also sets out how institutions are to assign a risk exposure to a sector, requiring use of a commonly used market classification, assignment of each issuer to only one bucket, and placement of unassignable issuers into bucket 18. [Art. 325ah, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ah
+> Risk weights for credit spread risk for non-securitisations
+> 1. Risk weights for the sensitivities to credit spread risk factors for non-securitisations shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket in Table 4:
+> Table 4
+> Bucket number Credit quality Sector Risk weight
+> (percentage points)
+> 1 All Central government, including central banks, of a Member State 0,50 %
+> 2 Credit quality step 1 to 3 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 0,5 %
+> 3 Regional or local authority and public sector entities 1,0 %
+> 4 Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders 5,0 %
+> 5 Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying 3,0 %
+> 6 Consumer goods and services, transportation and storage, administrative and support service activities 3,0 %
+> 7 Technology, telecommunications 2,0 %
+> 8 Health care, utilities, professional and technical activities 1,5 %
+> 9 Covered bonds issued by credit institutions in Member States 1,0 %
+> 11 Credit quality step 4 to 6 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118 12 Regional or local aut […truncated by emendrix: 942 characters omitted…]
+
+**INSERTED · Art. 325ai — Intra-bucket correlations for credit spread risk for non-securitisations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly inserted and sets out how the correlation parameter between two sensitivities within the same credit spread risk bucket for non-securitisations is calculated, combining separate name, tenor and basis factors with fixed percentages applied when the relevant elements are not identical. [Art. 325ai, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that these correlation parameters do not apply to bucket 18, for which the capital requirement under the delta risk aggregation formula is instead defined as the sum of the absolute values of the net weighted sensitivities allocated to that bucket. [Art. 325ai, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ai
+> Intra-bucket correlations for credit spread risk for non-securitisations
+> 1. The correlation parameter ρkl between two sensitivities WSk and WSl within the same bucket shall be set as follows:
+> ρkl = ρkl(name) · ρkl(tenor) · ρkl(basis)
+> where:
+> ρkl(name) shall be equal to 1 where the two names of sensitivities k and l are identical, otherwise it shall be equal to 35 %;
+> ρkl(tenor) shall be equal to 1 where the two vertices of the sensitivities k and l are identical, otherwise it shall be equal to 65 %; and
+> ρkl(basis) shall be equal to 1 where the two sensitivities are related to the same curves, otherwise it shall be equal to 99,90 %.
+> 2. The correlation parameters referred to in paragraph 1 of this Article shall not apply to bucket 18 in Table 4 of Article 325ah(1). The capital requirement for the delta risk aggregation formula within bucket 18 shall be equal to the sum of the absolute values of the net weighted sensitivities allocated to that bucket:Kbbucket 18kWSk
+
+**INSERTED · Art. 325aj — Correlations across buckets for credit spread risk for non-securitisations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new, setting out a formula for the correlation parameter γbc used when aggregating sensitivities across different buckets for credit spread risk on non-securitisations, combining a rating-based factor and a sector-based factor. [Art. 325aj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies that the rating factor equals 1 when both buckets share the same credit quality category and 50% otherwise, with bucket 1 treated as belonging to the same category as buckets covering credit quality steps 1 to 3, and it specifies that the sector factor equals 1 for buckets in the same sector or otherwise the percentage listed in the accompanying Table 5. [Art. 325aj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325aj
+> Correlations across buckets for credit spread risk for non-securitisations
+> The correlation parameter γbc that applies to the aggregation of sensitivities between different buckets shall be set as follows:
+> γbc = γbc(rating) · γbc(sector)
+> where:
+> γbc(rating) shall be equal to 1 where the two buckets have the same credit quality category (either credit quality step 1 to 3 or credit quality step 4 to 6), otherwise it shall be equal to 50 %; for the purposes of that calculation, bucket 1 shall be considered as belonging to the same credit quality category as buckets that have credit quality step 1 to 3; and
+> γbc(sector) shall be equal to 1 where the two buckets belong to the same sector, and otherwise shall be equal to the corresponding percentage set out in Table 5:
+> Table 5
+> Bucket 1, 2 and 11 3 and 12 4 and 13 5 and 14 6 and 15 7 and 16 8 and 17 9
+> 1, 2 and 11 75 % 10 % 20 % 25 % 20 % 15 % 10 %
+> 3 and 12 5 % 15 % 20 % 15 % 10 % 10 %
+> 4 and 13 5 % 15 % 20 % 5 % 20 %
+> 5 and 14 20 % 25 % 5 % 5 %
+> 6 and 15 25 % 5 % 15 %
+> 7 and 16 5 % 20 %
+> 8 and 17 5 %
+> 9 —
+
+**INSERTED · Art. 325ak — Risk weights for credit spread risk for securitisations included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article that sets out risk weights for credit spread risk sensitivities applicable to securitisations included in the ACTP, specifying that the weights are uniform across the listed maturities within each of the eighteen buckets defined in Table 6. [Art. 325ak, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+The buckets in Table 6 assign risk weights by combining credit quality step ranges with sector categories such as central governments, regional and local authorities, financial sector entities, various industry groupings, and covered bonds issued in Member States or third countries. [Art. 325ak, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ak
+> Risk weights for credit spread risk for securitisations included in the ACTP
+> Risk weights for the sensitivities to credit spread risk factors for securitisations included in the ACTP risk factors shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket and shall be specified for each bucket in Table 6 pursuant to the delegated act referred to in Article 461a:
+> Table 6
+> Bucket number Credit quality Sector
+> 1 All Central government, including central banks, of Member States
+> 2 Credit quality step 1 to 3 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
+> 3 Regional or local authority and public sector entities
+> 4 Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders
+> 5 Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
+> 6 Consumer goods and services, transportation and storage, administrative and support service activities
+> 7 Technology, telecommunications
+> 8 Health care, utilities, professional and technical activities
+> 9 Covered bonds issued by credit institutions in Member States
+> 10 Covered bonds issued by credit institutions in third countries
+> 11 Credit quality step 4 to 6 Central government, including central banks, of a third country, multilateral […truncated by emendrix: 642 characters omitted…]
+
+**INSERTED · Art. 325al — Correlations for credit spread risk for securitisations included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new provision sets out how the delta risk correlation ρkl for securitisations included in the ACTP is to be derived by reference to Article 325ai, with a fixed basis correlation of 1 when two sensitivities relate to the same curves and 99.00% otherwise. [Art. 325al, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that the correlation γbc for this purpose is to be derived in accordance with Article 325aj. [Art. 325al, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325al
+> Correlations for credit spread risk for securitisations included in the ACTP
+> 1. The delta risk correlation ρkl shall be derived in accordance with Article 325ai, except that, for the purposes of this paragraph, ρkl(basis) shall be equal to 1 where the two sensitivities are related to the same curves, otherwise it shall be equal to 99,00 %.
+> 2. The correlation γbc shall be derived in accordance with Article 325aj.
+
+**INSERTED · Art. 325m — Risk weights for credit spread risk for securitisations not included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision, setting out risk weights for credit spread risk for securitisations not included in the ACTP, appears as new text establishing a Table 7 of bucket numbers, credit quality steps and sectors with associated risk weights applicable across five specified maturities. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
+
+It also sets out, in a second paragraph, how institutions are to assign a risk exposure to a sector using a commonly used market classification, assign each tranche to one of the sector buckets in Table 7, and place any tranche that cannot be so assigned into bucket 25. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325am
+> Risk weights for credit spread risk for securitisations not included in the ACTP
+> 1. Risk weights for the sensitivities to credit spread risk factors for securitisation not included in the ACTP shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket in Table 7 and shall be specified for each bucket in Table 7 pursuant to the delegated act referred to in Article 461a:
+> Table 7
+> Bucket number Credit quality Sector
+> 1 Senior and Credit quality step 1 to 3 RMBS - Prime
+> 2 RMBS - Mid-Prime
+> 3 RMBS - Sub-Prime
+> 4 CMBS
+> 5 Asset backed securities (ABS) - Student loans
+> 6 ABS - Credit cards
+> 7 ABS - Auto
+> 8 Collateralised loan obligations (CLO) non-ACTP
+> 9 Non-senior and credit quality step 1 to 3 RMBS - Prime
+> 10 RMBS - Mid-Prime
+> 11 RMBS - Sub-Prime
+> 12 CMBS
+> 13 ABS - Student loans
+> 14 ABS - Credit cards
+> 15 ABS - Auto
+> 16 CLO non-ACTP
+> 17 Credit quality step 4 to 6 RMBS - Prime
+> 18 RMBS - Mid-Prime
+> 19 RMBS - Sub-Prime
+> 20 CMBS
+> 21 ABS - Student loans
+> 22 ABS - Credit cards
+> 23 ABS - Auto
+> 24 CLO non-ACTP
+> 25 Other sector
+> 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each tranche to one of the sector buckets in Table 7. Risk exposures from any tranche that an institution cannot assign to a sector in such a manner shall be assigned to bucket 25.
+
+**INSERTED · Art. 325an — Intra-bucket correlations for credit spread risk for securitisations not included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out how the correlation parameter between two sensitivities in the same bucket is calculated for credit spread risk on securitisations not included in the ACTP, combining a tranche factor, a tenor factor and a basis factor. [Art. 325an, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also states that these correlation parameters do not apply to bucket 25, for which the own funds requirement under the delta risk aggregation formula is instead the sum of the absolute values of the net weighted sensitivities allocated to that bucket. [Art. 325an, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325an
+> Intra-bucket correlations for credit spread risk for securitisations not included in the ACTP
+> 1. Between two sensitivities WSk and WSl within the same bucket, the correlation parameter ρkl shall be set as follows:
+> ρkl = ρkl(tranche) · ρkl(tenor) · ρkl(basis)
+> where:
+> ρkl(thranche) shall be equal to 1 where the two names of sensitivities k and l are within the same bucket and are related to the same securitisation tranche (more than 80 % overlap in notional terms), otherwise it shall be equal to 40 %;
+> ρkl(tenor) shall be equal to 1 where the two vertices of the sensitivities k and l are identical, otherwise it shall be equal to 80 %; and
+> ρkl(basis) shall be equal to 1 where the two sensitivities are related to the same curves, otherwise it shall be equal to 99,90 %.
+> 2. The correlation parameters referred to in paragraph 1 shall not apply to bucket 25 in Table 7 of Article 325am(1). The own funds requirement for the delta risk aggregation formula within bucket 25 shall be equal to the sum of the absolute values of the net weighted sensitivities allocated to that bucket:Kbbucket 25kWSk
+
+**INSERTED · Art. 325ao — Correlations across buckets for credit spread risk for securitisations not included in the ACTP** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new provision sets the cross-bucket correlation parameter for credit spread risk on securitisations not included in the ACTP at 0%. [Art. 325ao, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also specifies that the own funds requirement for bucket 25 is added directly to the overall risk class level capital, without recognising diversification or hedging effects with any other bucket. [Art. 325ao, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ao
+> Correlations across buckets for credit spread risk for securitisations not included in the ACTP
+> 1. The correlation parameter γbc shall apply to the aggregation of sensitivities between different buckets and shall be set at 0 %.
+> 2. The own funds requirement for bucket 25 shall be added to the overall risk class level capital, with no diversification or hedging effects recognised with any other bucket.
+
+**INSERTED · Art. 325ap — Risk weights for equity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new, introducing Article 325ap which sets out risk weights for equity and equity repo rate risk sensitivities, organized into eleven buckets in Table 8 based on market capitalisation, economy type, and sector. [Art. 325ap, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It further specifies that the definitions of small and large market capitalisation, emerging market economy, and advanced economy are to be set out through regulatory technical standards, with EBA required to submit draft standards on the latter two concepts to the Commission by 28 June 2021, and it describes how institutions are to assign issuers to sector buckets. [Art. 325ap, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ap
+> Risk weights for equity risk
+> 1. Risk weights for the sensitivities to equity and equity repo rate risk factors shall be specified for each bucket in Table 8 pursuant to the delegated act referred to in Article 461a:
+> Table 8
+> Bucket number Market capitalisation Economy Sector
+> 1 Large Emerging market economy Consumer goods and services, transportation and storage, administrative and support service activities, healthcare, utilities
+> 2 Telecommunications, industrials
+> 3 Basic materials, energy, agriculture, manufacturing, mining and quarrying
+> 4 Financials including government-backed financials, real estate activities, technology
+> 5 Advanced economy Consumer goods and services, transportation and storage, administrative and support service activities, healthcare, utilities
+> 6 Telecommunications, industrials
+> 7 Basic materials, energy, agriculture, manufacturing, mining and quarrying
+> 8 Financials including government-backed financials, real estate activities, technology
+> 9 Small Emerging market economy All sectors described under bucket numbers 1, 2, 3 and 4
+> 10 Advanced economy All sectors described under bucket numbers 5, 6, 7 and 8
+> 11 Other sector
+> 2. For the purposes of this Article, what constitutes a small and a large market capitalisation shall be specified in the regulatory technical standards referred to in Article 325bd(7).
+> 3. For the purposes of this Article, EBA shall develop draft regulatory technical standards to specify what constitutes an emerging market and t […truncated by emendrix: 985 characters omitted…]
+
+**INSERTED · Art. 325aq — Intra-bucket correlations for equity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new, setting out intra-bucket correlation parameters for equity risk that did not previously exist in the regulation. [Art. 325aq, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies fixed correlation values between sensitivities to equity spot prices and equity repo rates depending on whether they relate to the same or different equity issuer name and on the market capitalisation and economy category of the bucket, and it provides a separate summation-based capital requirement formula for bucket 11. [Art. 325aq, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325aq
+> Intra-bucket correlations for equity risk
+> 1. The delta risk correlation parameter ρkl between two sensitivities WSk and WSl within the same bucket shall be set at 99,90 % where one is a sensitivity to an equity spot price and the other a sensitivity to an equity repo rate, where both are related to the same equity issuer name.
+> 2. In other cases than the cases referred to in paragraph 1, the correlation parameter ρkl between two sensitivities WSk and WSl to equity spot price within the same bucket shall be set as follows:
+> (a) 15 % between two sensitivities within the same bucket that fall under the category large market capitalisation, emerging market economy (bucket number 1, 2, 3 or 4);
+> (b) 25 % between two sensitivities within the same bucket that fall under the category large market capitalisation, advanced economy (bucket number 5, 6, 7 or 8);
+> (c) 7,5 % between two sensitivities within the same bucket that fall under the category small market capitalisation, emerging market economy (bucket number 9);
+> (d) 12,5 % between two sensitivities within the same bucket that fall under the category small market capitalisation, advanced economy (bucket number 10).
+> 3. The correlation parameter ρkl between two sensitivities WSk and WSl to equity repo rate within the same bucket shall be set in accordance with paragraph 2.
+> 4. Between two sensitivities WSk and WSl within the same bucket where one is a sensitivity to an equity spot price and the other a sensitivity to an equ […truncated by emendrix: 495 characters omitted…]
+
+**INSERTED · Art. 325ar — Correlations across buckets for equity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325ar is a new provision setting out the correlation parameter γbc used to aggregate sensitivities between different buckets for equity risk. [Art. 325ar, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies that this parameter is set at 15% when the two buckets in question fall within buckets 1 to 10. [Art. 325ar, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ar
+> Correlations across buckets for equity risk
+> The correlation parameter γbc shall apply to the aggregation of sensitivities between different buckets. It shall be set at 15 % where the two buckets fall within buckets 1 to 10.
+
+**INSERTED · Art. 325as — Risk weights for commodity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 325as is added, setting out that risk weights for sensitivities to commodity risk factors are to be specified for each bucket in a Table 9, with the values to follow from a delegated act referred to in Article 461a. [Art. 325as, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+The article lists eleven numbered buckets with names covering categories such as solid and liquid combustible energy, electricity and carbon trading, freight, non-precious and precious metals, gaseous combustibles, grains and oilseed, livestock and dairy, softs and other agricultural commodities, and other commodity. [Art. 325as, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325as
+> Risk weights for commodity risk
+> Risk weights for sensitivities to commodity risk factors shall be specified for each bucket in Table 9 pursuant to the delegated act referred to in Article 461a:
+> Table 9
+> Bucket number Bucket name
+> 1 Energy - solid combustibles
+> 2 Energy - liquid combustibles
+> 3 Energy - electricity and carbon trading
+> 4 Freight
+> 5 Metals – non-precious
+> 6 Gaseous combustibles
+> 7 Precious metals (including gold)
+> 8 Grains and oilseed
+> 9 Livestock and dairy
+> 10 Softs and other agricultural commodities
+> 11 Other commodity
+
+**INSERTED · Art. 325at — Intra-bucket correlations for commodity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new provision sets out how correlation parameters between sensitivities within the same commodity risk bucket are to be calculated, combining separate factors for commodity identity, tenor, and delivery location basis. [Art. 325at, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also sets out a table of fixed intra-bucket correlation values for eleven named commodity buckets, and specifies particular treatment for electricity risk factors in bucket 3 and freight risk factors in bucket 4 depending on generation region, delivery period, route, or week of delivery. [Art. 325at, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325at
+> Intra-bucket correlations for commodity risk
+> 1. For the purposes of this Article, any two commodities shall be considered distinct commodities where there exist in the market two contracts that are differentiated only by the underlying commodity to be delivered against each contract.
+> 2. The correlation parameter ρkl between two sensitivities WSk and WSl within the same bucket shall be set as follows:
+> ρkl = ρkl(commodity) · ρkl(tenor) · ρkl(basis)
+> where:
+> ρkl(commodity) shall be equal to 1 where the two commodities of sensitivities k and l are identical, otherwise it shall be equal to the intra-bucket correlations in Table 10;
+> ρkl(tenor) shall be equal to 1 where the two vertices of the sensitivities k and l are identical, otherwise it shall be equal to 99 %; and
+> ρkl(basis) shall be equal to 1 where the two sensitivities are identical in the delivery location of a commodity, otherwise it shall be equal to 99,90 %.
+> 3. The intra-bucket correlations ρkl(commodity) are:
+> Table 10
+> Bucket number Bucket name Correlation
+> ρkl (commodity)
+> 1 Energy - solid combustibles 55 %
+> 2 Energy - liquid combustibles 95 %
+> 3 Energy - electricity and carbon trading 40 %
+> 4 Freight 80 %
+> 5 Metals – non-precious 60 %
+> 6 Gaseous combustibles 65 %
+> 7 Precious metals (including gold) 55 %
+> 8 Grains and oilseed 45 %
+> 9 Livestock and dairy 15 %
+> 10 Softs and other agricultural commodities 40 %
+> 11 Other commodity 15 %
+> 4. Notwithstanding paragraph 1, the following provisions apply:
+> (a) two risk factors tha […truncated by emendrix: 423 characters omitted…]
+
+**INSERTED · Art. 325au — Correlations across buckets for commodity risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new provision setting the cross-bucket correlation parameter γbc used when aggregating commodity risk sensitivities, fixing it at 20% when both buckets are among numbers 1 to 10 and at 0% when either bucket is bucket number 11. [Art. 325au, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325au
+> Correlations across buckets for commodity risk
+> The correlation parameter γbc applying to the aggregation of sensitivities between different buckets shall be set at:
+> (a) 20 % where the two buckets fall within bucket numbers 1 to 10;
+> (b) 0 % where either of the two buckets is bucket number 11.
+
+**INSERTED · Art. 325av — Risk weights for foreign exchange risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new, introducing Article 325av which sets out rules for risk weights applicable to foreign exchange risk sensitivities, including a general rule tied to a delegated act and special rules for currency pairs involving the euro and ERM II currencies. [Art. 325av, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It further specifies distinct risk-weight treatments for the most liquid currency pairs sub-category and for certain euro/non-euro currency pairs shown to be constant over the preceding three years, subject to competent authority permission. [Art. 325av, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325av
+> Risk weights for foreign exchange risk
+> 1. Risk weight for all sensitivities to foreign exchange risk factors shall be specified in the delegated act referred to in Article 461a.
+> 2. The risk weight of the foreign exchange risk factors concerning currency pairs which are composed of the euro and the currency of a Member State participating in the second stage of the economic and monetary union (ERM II) shall be one of the following:
+> (a) the risk weight referred to in paragraph 1, divided by 3;
+> (b) the maximum fluctuation within the fluctuation band formally agreed by the Member State and the European Central Bank, if that fluctuation band is narrower than the fluctuation band defined under ERM II.
+> 3. Notwithstanding paragraph 2, the risk weight of the foreign exchange risk factors concerning currencies referred to in paragraph 2 which participate in the ERM II with a formally agreed fluctuation band narrower than the standard band of plus or minus 15 % shall equal the maximum percentage fluctuation within that narrower band.
+> 4. The risk weight of the foreign exchange risk factors included in the most liquid currency pairs sub-category as referred to in point (c) of 325bd(7) shall be the risk weight referred to in paragraph 1 of this Article divided by √2.
+> 5. Where the daily exchange-rate data for the preceding three years show that a currency pair composed of euro and a non-euro currency of a Member State is constant and that the institution is always able to face […truncated by emendrix: 242 characters omitted…]
+
+**INSERTED · Art. 325aw — Correlations for foreign exchange risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added and sets a uniform correlation parameter of 60% to be applied when aggregating sensitivities to foreign exchange risk factors. [Art. 325aw, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325aw
+> Correlations for foreign exchange risk
+> A uniform correlation parameter γbc equal to 60 % shall apply to the aggregation of sensitivities to foreign exchange risk factors.
+
+**INSERTED · Art. 325ax — Vega and curvature risk weights** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is newly added and sets out rules for determining vega and curvature risk weights, including a formula linking a vega risk factor's weight to its presumed liquidity horizon and a fixed value of 55% for RWσ. [Art. 325ax, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It also specifies that delta buckets and delta risk weights are to be used as the basis for curvature risk treatment for certain risk classes, with a parallel-shift approach applied for general interest rate, credit spread and commodity curvature risk factors. [Art. 325ax, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ax
+> Vega and curvature risk weights
+> 1. Vega risk factors shall use the delta buckets referred to in Subsection 1.
+> 2. The risk weight for a given vega risk factor k shall be determined as a share of the current value of that risk factor k which represents the implied volatility of an underlying, as described in Section 3.
+> 3. The share referred to in paragraph 2 shall be made dependent on the presumed liquidity of each type of risk factor in accordance with the following formula:RWkValue of risk factor kminRWσLHrisk class10 ; 100%
+> where:
+> RWk = the risk weight for a given vega risk factor k;
+> RWσ shall be set at 55 %; and
+> LHrisk class is the regulatory liquidity horizon to be prescribed in the determination of each vega risk factor k. LHrisk class is determined in accordance with the following table:
+> Table 11
+> Risk class LHrisk class
+> GIRR 60
+> CSR non-securitisations 120
+> CSR securitisations (ACTP) 120
+> CSR securitisations (non-ACTP) 120
+> Equity (large cap) 20
+> Equity (small cap) 60
+> Commodity 120
+> Foreign exchange 40
+> 4. Buckets used in the context of delta risk in Subsection 1 shall be used in the curvature risk context unless specified otherwise in this Chapter.
+> 5. For foreign exchange and equity curvature risk factors, the curvature risk weights shall be relative shifts equal to the delta risk weights referred to in Subsection 1.
+> 6. For general interest rate, credit spread and commodity curvature risk factors, the curvature risk weight shall be the parallel shift of all the v […truncated by emendrix: 136 characters omitted…]
+
+**INSERTED · Art. 325ay — Vega and curvature risk correlations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out how correlation parameters for vega and curvature risk are to be determined within the standardised approach. [Art. 325ay, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It specifies formulas for vega correlations within a bucket for GIRR and for other risk classes, states that the same delta correlation parameters apply across buckets within a risk class, provides that no diversification or hedging benefit is recognised between vega and delta risk factors so their charges are summed, and defines curvature risk correlations as the square of the corresponding delta correlations. [Art. 325ay, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ay
+> Vega and curvature risk correlations
+> 1. Between vega risk sensitivities within the same bucket of the general interest rate risk (GIRR) class, the correlation parameter rkl shall be set as follows:ρklminρ kloption maturityρ klunderlying maturity;1
+> where:
+> ρkloption maturity shall be equal to eαTkTlminTk; Tl where α shall be set at 1 %, Tk and Tl shall be equal to the maturities of the options for which the vega sensitivities are derived, expressed as a number of years; and
+> ρklunderlying maturity is equal to eαTUkTUlminTUk; TUl, where α is set at 1 %, TUk and TUl shall be equal to the maturities of the underlyings of the options for which the vega sensitivities are derived, minus the maturities of the corresponding options, expressed in both cases as a number of years.
+> 2. Between vega risk sensitivities within a bucket of the other risk classes, the correlation parameter ρkl shall be set as follows:ρklminρ klDELTAρ kloption maturity;1
+> where:
+> ρklDELTA shall be equal to the delta intra-bucket correlation corresponding to the bucket to which vega risk factors k and l would be allocated; and
+> ρkloption maturity shall be set in accordance with paragraph 1.
+> 3. With regard to vega risk sensitivities between buckets within a risk class (GIRR and non-GIRR), the same correlation parameters for γbc, as specified for delta correlations for each risk class in Section 4, shall be used in the vega risk context.
+> 4. There shall be no diversification or hedging benefit recognised in […truncated by emendrix: 295 characters omitted…]
+
+**INSERTED · Art. 325az — Alternative internal model approach and permission to use alternative internal models** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new text, setting out rules for the alternative internal model approach and the conditions under which competent authorities grant or withdraw permission for institutions to use alternative internal models for market risk own funds requirements. [Art. 325az, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+It covers matters such as the criteria trading desks must meet, notification duties when a trading desk ceases to qualify, derogations for extraordinary circumstances, and mandates for EBA to develop regulatory technical standards on materiality assessments and extraordinary-circumstance conditions. [Art. 325az, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325az
+> Alternative internal model approach and permission to use alternative internal models
+> 1. The alternative internal model approach as set out in this Chapter shall be used only for the purposes of the reporting requirement laid down in Article 430b(3).
+> 2. After having verified institutions' compliance with the requirements set out in Articles 325bh, 325bi and 325bj, competent authorities shall grant permission to those institutions to calculate their own funds requirements for the portfolio of all positions assigned to trading desks by using their alternative internal models in accordance with Article 325ba, provided that all the following requirements are met:
+> (a) the trading desks were established in accordance with Article 104b;
+> (b) the institution has provided to the competent authority a rationale for the inclusion of the trading desks in the scope of the alternative internal model approach;
+> (c) the trading desks have met the back-testing requirements referred to in Article 325bf(3) for the preceding year;
+> (d) the institution has reported to its competent authorities the results of the profit and loss attribution (P&L attribution) requirement for the trading desks set out in Article 325bg;
+> (e) for trading desks that have been assigned at least one of those trading book positions referred to in Article 325bl, the trading desks fulfil the requirements set out in Article 325bm for the internal default risk model;
+> (f) no securitisation or re-securitisation positi […truncated by emendrix: 4460 characters omitted…]
+
+**INSERTED · Art. 325ba — Own funds requirements when using alternative internal models** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted provision setting out how an institution using an alternative internal model must calculate own funds requirements for the pool of positions assigned to trading desks with the relevant permission, based on the higher of two sets of expected shortfall and stress scenario risk measure calculations. [Art. 325ba, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also adds a separate own funds requirement for institutions holding traded debt and equity positions within the scope of the internal default risk model, set at the higher of the most recent default risk requirement or its 12-week average. [Art. 325ba, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325ba
+> Own funds requirements when using alternative internal models
+> 1. An institution using an alternative internal model shall calculate the own funds requirements for the portfolio of all positions assigned to the trading desks for which the institution has been granted permission as referred to in Article 325az(2) as the higher of the following:
+> (a) the sum of the following values:
+> (i) the institution's previous day's expected shortfall risk measure, calculated in accordance with Article 325bb (ESt-1), and
+> (ii) the institution's previous day's stress scenario risk measure, calculated in accordance with Section 5 (SSt-1); or
+> (b) the sum of the following values:
+> (i) the average of the institution's daily expected shortfall risk measure, calculated in accordance with Article 325bb for each of the preceding sixty business days (ESavg), multiplied by the multiplication factor (mc); and
+> (ii) the average of the institution's daily stress scenario risk measure, calculated in accordance with Section 5 for each of the preceding sixty business days (SSavg).
+> 2. Institutions holding positions in traded debt and equity instruments that are included in the scope of the internal default risk model and assigned to the trading desks referred to in paragraph 1 shall fulfil an additional own funds requirement, expressed as the higher of the following values:
+> (a) the most recent own funds requirement for default risk, calculated in accordance with Section 3;
+> (b) the average of the amou […truncated by emendrix: 56 characters omitted…]
+
+**INSERTED · Art. 325bb — Expected shortfall risk measure** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out a formula and method for institutions to calculate an expected shortfall risk measure across broad risk factor categories, using unconstrained and partial expected shortfall components combined with a supervisory correlation factor of 50%. [Art. 325bb, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It specifies that scenarios of future shocks apply only to the specific set of modellable risk factors relevant to each partial expected shortfall measure, that a category's unconstrained expected shortfall measure must be included when at least one modellable risk factor is mapped to it, and that the calculation frequency may be reduced from daily to weekly under two stated conditions relating to demonstrating no underestimation of market risk and the ability to revert to daily calculation if required by the competent authority. [Art. 325bb, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bb
+> Expected shortfall risk measure
+> 1. Institutions shall calculate the expected shortfall risk measure referred to in point (a) of Article 325ba(1) for any given date t and for any given portfolio of trading book positions as follows:EStρUESt1ρi UESit
+> where:
+> ESt
+> the expected shortfall risk measure;
+> i
+> the index that denotes the five broad categories of risk factors listed in the first column of Table 2 of Article 325bd;
+> UESt
+> the unconstrained expected shortfall measure calculated as follows:UEStPESRStmaxPESFCtPESRCt , 1
+> UESti
+> the unconstrained expected shortfall measure for broad risk factor category i and calculated as follows:UESitPESRS,itmaxPESFC,itPESRC,it , 1
+> ρ
+> the supervisory correlation factor across broad categories of risk; ρ = 50 %;
+> PEStRS
+> the partial expected shortfall measure that shall be calculated for all the positions in the portfolio in accordance with Article 325bc(2);
+> PEStRC
+> the partial expected shortfall measure that shall be calculated for all the positions in the portfolio in accordance with Article 325bc(3);
+> PEStFC
+> the partial expected shortfall measure that shall be calculated for all the positions in the portfolio in accordance with Article 325bc(4);
+> PEStRS,i
+> the partial expected shortfall measure for broad risk factor category i that shall be calculated for all the positions in the portfolio in accordance with Article 325bc(2);
+> PEStRC,i
+> the partial expected shortfall measure for broad risk factor category i that shall be calculated for all […truncated by emendrix: 1747 characters omitted…]
+
+**INSERTED · Art. 325bc — Partial expected shortfall calculations** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new provision setting out how institutions must calculate the partial expected shortfall measures referenced elsewhere, including the required frequency, confidence interval, formula, and liquidity-horizon table. [Art. 325bc, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It further specifies distinct calibration and risk-factor-subset requirements for each of the specific partial expected shortfall measures (stressed, reduced, and full sets), including conditions for reverting to another approach and rules on maintaining unshocked risk factor values. [Art. 325bc, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bc
+> Partial expected shortfall calculations
+> 1. Institutions shall calculate all the partial expected shortfall measures referred to in Article 325bb(1) as follows:
+> (a) daily calculations of the partial expected shortfall measures;
+> (b) at 97,5th percentile, one tailed confidence interval;
+> (c) for a given portfolio of trading book positions, institution shall calculate the partial expected shortfall measure at time t accordance with the following formula:
+> PEStPEStT2j2PEStT, jLHjLHj110
+> where:
+> PESt
+> the partial expected shortfall measure at time t;
+> j
+> the index that denotes the five liquidity horizons listed in the first column of Table 1;
+> LHj
+> the length of liquidity horizons j as expressed in days in Table 1;
+> T
+> the base time horizon, where T = 10 days;
+> PESt(T)
+> the partial expected shortfall measure that is determined by applying scenarios of future shocks with a 10-day time horizon only to the specific set of modellable risk factors of the positions in the portfolio set out in paragraphs 2, 3 and 4 for each partial expected shortfall measure referred to in Article 325bb(1); and
+> PESt(T, j)
+> the partial expected shortfall measure that is determined by applying scenarios of future shocks with a 10-day time horizon only to the specific set of modellable risk factors of the positions in the portfolio set out in paragraphs 2, 3 and 4 for each partial expected shortfall measure referred to in Article 325bb(1) and of which the effective liquidity horizon, as determined in accorda […truncated by emendrix: 5194 characters omitted…]
+
+**INSERTED · Art. 325bd — Liquidity horizons** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision, Article 325bd on Liquidity horizons, is entirely new text with no prior counterpart, setting out rules for mapping trading-desk risk factors to broad categories and sub-categories of risk factors and their associated liquidity horizons, including a Table 2 listing those categories and horizon lengths. [Art. 325bd, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also specifies a formula for calculating an effective liquidity horizon for modellable risk factors, a rule on mapping euro/ERM II currency pairs, a monthly verification requirement, and a mandate for EBA to develop draft regulatory technical standards on mapping methodology and definitions, to be submitted to the Commission by 28 March 2020. [Art. 325bd, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bd
+> Liquidity horizons
+> 1. Institutions shall map each risk factor of positions assigned to the trading desks for which they have been granted permission as referred to in Article 325az(2), or for which they are in the process of being granted such permission, to one of the broad categories of risk factors listed in Table 2 and to one of the broad sub-categories of risk factors listed in that Table.
+> 2. The liquidity horizon of a risk factor of the positions referred to in paragraph 1 shall be the liquidity horizon of the corresponding broad sub-category of risk factors to which it has been mapped.
+> 3. By way of derogation from paragraph 1 of this Article, for a given trading desk, an institution may decide to replace the liquidity horizon of a broad sub-category of risk factors listed in Table 2 of this Article with one of the longer liquidity horizons listed in Table 1 of Article 325bc. Where an institution takes such a decision, the longer liquidity horizon shall apply to all the modellable risk factors of the positions assigned to that trading desk that have been mapped to that broad sub-category of risk factors for the purpose of calculating the partial expected shortfall measures in accordance with point (c) of Article 325bc(1).
+> An institution shall notify the competent authorities of the trading desks and the broad sub-categories of risk factors to which it decides to apply the treatment referred to in the first subparagraph.
+> 4. For the purpose of calculating th […truncated by emendrix: 3675 characters omitted…]
+
+**INSERTED · Art. 325be — Assessment of the modellability of risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out how institutions assess whether risk factors of positions on their permitted or pending trading desks are modellable, requiring own funds calculations under Article 325bk for factors found not modellable, and directing EBA to draft regulatory technical standards on the assessment criteria and frequency, to be submitted to the Commission by 28 March 2020. [Art. 325be, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325be
+> Assessment of the modellability of risk factors
+> 1. Institutions shall assess the modellability of all the risk factors of the positions assigned to the trading desks for which they have been granted permission as referred to in Article 325az(2) or are in the process of being granted such permission.
+> 2. As part of the assessment referred to in paragraph 1 of this Article, institutions shall calculate the own funds requirements for market risk in accordance with Article 325bk for those risk factors that are not modellable.
+> 3. EBA shall develop draft regulatory technical standards to specify the criteria to assess the modellability of risk factors in accordance with paragraph 1 and to specify the frequency of that assessment.
+> EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+**INSERTED · Art. 325bf — Regulatory back-testing requirements and multiplication factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new provision setting out regulatory back-testing requirements and multiplication factors for trading desks using alternative internal models, defining overshootings, back-testing counting methods, the compliance thresholds over the most recent 250 business days, the calculation of the multiplication factor with its add-on table, competent authority monitoring and notification duties, a derogation for non-modellable risk factors, and a mandate for EBA to develop draft regulatory technical standards. [Art. 325bf, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+The text specifies that EBA must submit those draft regulatory technical standards to the Commission by 28 March 2020. [Art. 325bf, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bf
+> Regulatory back-testing requirements and multiplication factors
+> 1. For the purposes of this Article, an overshooting means a one-day change in the value of a portfolio composed of all the positions assigned to the trading desk that exceeds the related value-at-risk number calculated on the basis of the institution's alternative internal model in accordance with the following requirements:
+> (a) the calculation of the value at risk shall be subject to a one-day holding period;
+> (b) scenarios of future shocks shall apply to the risk factors of the trading desk's positions referred to in Article 325bg(3) and which are considered modellable in accordance with Article 325be;
+> (c) data inputs used to determine the scenarios of future shocks applied to the modellable risk factors shall be calibrated to historical data referred to in point (c) of Article 325bc(4);
+> (d) unless stated otherwise in this Article, the institution's alternative internal model shall be based on the same modelling assumptions as those used for the calculation of the expected shortfall risk measure referred to in point (a) of Article 325ba(1).
+> 2. Institutions shall count daily overshootings on the basis of back-testing of the hypothetical and actual changes in the value of the portfolio composed of all the positions assigned to the trading desk.
+> 3. An institution's trading desk shall be deemed to meet the back-testing requirements where the number of overshootings for that trading desk that occurred […truncated by emendrix: 5729 characters omitted…]
+
+**INSERTED · Art. 325bg — Profit and loss attribution requirement** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out a profit and loss (P&L) attribution requirement for an institution's trading desks, defining when such a desk meets that requirement and what the requirement is meant to ensure. [Art. 325bg, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also directs EBA to draft regulatory technical standards covering the closeness criteria, consequences of non-compliance, frequency of performance, technical elements, and aggregation methods, and states a submission deadline of 28 March 2020 along with a delegation of power to the Commission to adopt those standards. [Art. 325bg, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bg
+> Profit and loss attribution requirement
+> 1. An institution's trading desk meets the P&L attribution requirements where that trading desk complies with the requirements set out in this Article.
+> 2. The P&L attribution requirement shall ensure that the theoretical changes in the value of a trading desk's portfolio, based on the institution's risk-measurement model, are sufficiently close to the hypothetical changes in the value of the trading desk's portfolio, based on the institution's pricing model.
+> 3. For each position of a given trading desk, an institution's compliance with the P&L attribution requirement shall lead to the identification of a precise list of risk factors that are deemed appropriate for verifying the institution's compliance with the back-testing requirement set out in Article 325bf.
+> 4. EBA shall develop draft regulatory technical standards to specify:
+> (a) the criteria necessary to ensure that the theoretical changes in the value of a trading desk's portfolio is sufficiently close to the hypothetical changes in the value of a trading desk's portfolio for the purposes of paragraph 2, taking into account international regulatory developments;
+> (b) the consequences for an institution where the theoretical changes in the value of a trading desk's portfolio are not sufficiently close to the hypothetical changes in the value of a trading desk's portfolio for the purposes of paragraph 2;
+> (c) the frequency at which the P&L attribution is to be performed […truncated by emendrix: 821 characters omitted…]
+
+**INSERTED · Art. 325bh — Requirements on risk measurement** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325bh is new text, setting out requirements that an internal risk-measurement model used to calculate own funds requirements for market risk must meet, covering risk-factor capture, yield-curve modelling, foreign exchange and commodity treatment, proxy use, and volatility risk for optionality. [Art. 325bh, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also states conditions under which institutions may use empirical correlations across broad categories of risk factors, and directs the EBA to issue guidelines by 28 September 2020 on criteria for data inputs in the risk-measurement model referred to in Article 325bc. [Art. 325bh, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bh
+> Requirements on risk measurement
+> 1. Institutions using an internal risk-measurement model that is used to calculate the own funds requirements for market risk as referred to in Article 325ba shall ensure that that model meets all the following requirements:
+> (a) the internal risk-measurement model shall capture a sufficient number of risk factors, which shall include at least the risk factors referred to in Subsection 1 of Section 3 of Chapter 1a unless the institution demonstrates to the competent authorities that the omission of those risk factors does not have a material impact on the results of the P&L attribution requirement referred to in Article 325bg; an institution shall be able to explain to the competent authorities why it has incorporated a risk factor in its pricing model but not in its internal risk-measurement model;
+> (b) the internal risk-measurement model shall capture nonlinearities for options and other products as well as correlation risk and basis risk;
+> (c) the internal risk-measurement model shall incorporate a set of risk factors that correspond to the interest rates in each currency in which the institution has interest rate sensitive on- or off-balance-sheet positions; the institution shall model the yield curves using one of the generally accepted approaches; the yield curve shall be divided into various maturity segments to capture the variations of volatility of rates along the yield curve; for material exposures to interest-rate risk i […truncated by emendrix: 3318 characters omitted…]
+
+**INSERTED · Art. 325bi — Qualitative requirements** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article setting out qualitative requirements for internal risk-measurement models used to calculate market risk capital requirements, covering integration into daily risk management, an independent risk control unit, senior management involvement, staffing, internal policies, model accuracy, stress testing, and independent review. [Art. 325bi, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also adds a paragraph specifying the scope of the annual review of the overall risk management process, and a further provision requiring institutions to update the techniques and practices used for their internal risk-measurement models to reflect evolving techniques and best practices. [Art. 325bi, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bi
+> Qualitative requirements
+> 1. Any internal risk-measurement model used for the purposes of this Chapter shall be conceptually sound, shall be calculated and implemented with integrity, and shall comply with all the following qualitative requirements:
+> (a) any internal risk-measurement model used to calculate capital requirements for market risk shall be closely integrated into the daily risk management process of the institution and shall serve as the basis for reporting risk exposures to senior management;
+> (b) an institution shall have a risk control unit that is independent from business trading units and that reports directly to senior management; that unit shall be responsible for designing and implementing any internal risk-measurement model; that unit shall conduct the initial and on-going validation of any internal model used for the purposes of this Chapter and shall be responsible for the overall risk management system; that unit shall produce and analyse daily reports on the output of any internal model used to calculate capital requirements for market risk, as well as reports on the appropriateness of measures to be taken in terms of trading limits;
+> (c) the management body and senior management shall be actively involved in the risk-control process, and the daily reports produced by the risk control unit shall be reviewed at a level of management with sufficient authority to require the reduction of positions taken by individual traders and to require th […truncated by emendrix: 4122 characters omitted…]
+
+**INSERTED · Art. 325bj — Internal validation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325bj is a new provision requiring institutions to have processes ensuring that internal risk-measurement models used under this Chapter are validated by suitably qualified parties independent of the model's development process, so as to confirm the models are conceptually sound and capture all material risks. [Art. 325bj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It specifies that such validation must occur both when a model is first developed or significantly changed and periodically, including in response to significant structural market changes or portfolio composition changes, and it sets minimum content for the validation beyond back-testing and P&L attribution, including tests of model assumptions, additional internal back-testing, and use of hypothetical portfolios to check for structural features such as basis risk, concentration risk, or proxy-related risk. [Art. 325bj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bj
+> Internal validation
+> 1. Institutions shall have processes in place to ensure that any internal risk-measurement models used for the purposes of this Chapter have been adequately validated by suitably qualified parties that are independent of the development process, in order to ensure that any such models are conceptually sound and adequately capture all material risks.
+> 2. Institutions shall conduct the validation referred to in paragraph 1 in the following circumstances:
+> (a) when any internal risk-measurement model is initially developed and when any significant changes are made to that model;
+> (b) on a periodic basis, and where there have been significant structural changes in the market or changes to the composition of the portfolio which might lead to the internal risk-measurement model no longer being adequate.
+> 3. The validation of the internal risk-measurement models of an institution shall not be limited to back-testing and P&L attribution requirements, but shall, at a minimum, include the following:
+> (a) tests to verify whether the assumptions made in the internal model are appropriate and do not underestimate or overestimate the risk;
+> (b) own internal model validation tests, including back-testing in addition to the regulatory back-testing programmes, in relation to the risks and structures of their portfolios;
+> (c) the use of hypothetical portfolios to ensure that the internal risk-measurement model is able to account for particular structural features tha […truncated by emendrix: 119 characters omitted…]
+
+**INSERTED · Art. 325bk — Calculation of stress scenario risk measure** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 325bk is a newly added provision defining the stress scenario risk measure for a non-modellable risk factor as the loss incurred on positions subject to foreign exchange or commodity risk when an extreme future shock scenario is applied to that factor. [Art. 325bk, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It requires institutions to develop extreme shock scenarios for non-modellable risk factors to the satisfaction of competent authorities, and directs EBA to draft regulatory technical standards covering how such scenarios are developed and applied, a regulatory fallback scenario per broad sub-category from Article 325bd's Table 2, conditions for calculating the measure across more than one risk factor, and aggregation methods, with submission to the Commission by 28 September 2020. [Art. 325bk, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bk
+> Calculation of stress scenario risk measure
+> 1. The stress scenario risk measure of a given non-modellable risk factor means the loss that is incurred in all trading book positions or non-trading book positions that are subject to foreign exchange or commodity risk of the portfolio which includes that non-modellable risk factor when an extreme scenario of future shock is applied to that risk factor.
+> 2. Institutions shall develop appropriate extreme scenarios of future shock for all non-modellable risk factors, to the satisfaction of their competent authorities.
+> 3. EBA shall develop draft regulatory technical standards to specify:
+> (a) how institutions are to develop extreme scenarios of future shock applicable to non-modellable risk factors and how they are to apply those extreme scenarios of future shock to those risk factors;
+> (b) a regulatory extreme scenario of future shock for each broad sub-category of risk factors listed in Table 2 of Article 325bd, which institutions may use when they are unable to develop an extreme scenario of future shock in accordance with point (a) of this subparagraph, or which competent authorities may require that institution apply if those authorities are not satisfied with the extreme scenario of future shock developed by the institution;
+> (c) the circumstances under which institutions may calculate a stress scenario risk measure for more than one non-modellable risk factor;
+> (d) how institutions are to aggregate the stress scenario […truncated by emendrix: 888 characters omitted…]
+
+**INSERTED · Art. 325bl — Scope of the internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article that sets out which positions of an institution fall within the scope of the internal default risk model, requiring an own funds requirement for default risk for positions assigned to permitted trading desks that contain a risk factor mapped to equity or credit spread risk factor categories, calculated using that internal model. [Art. 325bl, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also requires that for each such position an institution identify one issuer of traded debt or equity instruments related to at least one risk factor. [Art. 325bl, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bl
+> Scope of the internal default risk model
+> 1. All the positions of an institution that have been assigned to the trading desks for which the institution has been granted permission as referred to in Article 325az(2) shall be subject to an own funds requirement for default risk where those positions contain at least one risk factor that has been mapped to the broad categories of equity or credit spread risk factors in accordance with Article 325bd(1). That own funds requirement, which is incremental to the risks captured by the own funds requirements referred to in Article 325ba(1), shall be calculated using the institution's internal default risk model. That model which shall comply with the requirements laid down in this Section.
+> 2. For each of the positions referred to in paragraph 1, an institution shall identify one issuer of traded debt or equity instruments related to at least one risk factor.
+
+**INSERTED · Art. 325bm — Permission to use an internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new, setting out that competent authorities shall grant an institution permission to use an internal default risk model to calculate own funds requirements for trading book positions assigned to a trading desk that meets specified requirements. [Art. 325bm, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also adds that where a trading desk holding at least one such position does not meet those requirements, the own funds requirements for market risk for all positions on that desk are to be calculated using the approach set out in Chapter 1a. [Art. 325bm, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bm
+> Permission to use an internal default risk model
+> 1. Competent authorities shall grant an institution permission to use an internal default risk model to calculate the own funds requirements referred to in Article 325ba(2) for all the trading book positions referred to in Article 325bl that are assigned to a trading desk for which the internal default risk model complies with the requirements set out in Articles 325bi, 325bj, 325bn, 325bo and 325bp.
+> 2. Where the trading desk of an institution, to which at least one of the trading book positions referred to in Article 325bl has been assigned, does not meet the requirements set out in paragraph 1 of this Article, the own funds requirements for market risk of all positions in that trading desk shall be calculated in accordance with the approach set out in Chapter 1a.
+
+**INSERTED · Art. 325bn — Own funds requirements for default risk using an internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new article setting out how institutions calculate own funds requirements for default risk using an internal default risk model, covering the value-at-risk measure, the definition of potential loss, the determination of default correlations, and the one-year constant position assumption. [Art. 325bn, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also specifies that this calculation must be performed at least weekly, and permits a sixty-day time horizon instead of a one-year horizon for default risk of some or all equity positions under stated conditions on correlation calibration. [Art. 325bn, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bn
+> Own funds requirements for default risk using an internal default risk model
+> 1. Institutions shall calculate the own funds requirements for default risk using an internal default risk model for the portfolio of all trading book positions as referred to in Article 325bl as follows:
+> (a) the own funds requirements shall be equal to a value-at-risk number measuring potential losses in the market value of the portfolio caused by the default of issuers related to those positions at the 99,9 % confidence interval over a one-year time horizon;
+> (b) the potential loss referred to in point (a) means a direct or indirect loss in the market value of a position which was caused by the default of the issuers and which is incremental to any losses already taken into account in the current valuation of the position; the default of the issuers of equity positions shall be represented by the value for the issuers' equity prices being set to zero;
+> (c) institutions shall determine default correlations between different issuers on the basis of a conceptually sound methodology, using objective historical data on market credit spreads or equity prices that cover at least a 10 year period that includes the stress period identified by the institution in accordance with Article 325bc(2); the calculation of default correlations between different issuers shall be calibrated to a one-year time horizon;
+> (d) the internal default risk model shall be based on a one-year constant position assumpt […truncated by emendrix: 720 characters omitted…]
+
+**INSERTED · Art. 325bo — Recognition of hedges in an internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out rules on how institutions may incorporate and recognise hedges within an internal default risk model, including netting of positions in the same financial instrument and limited recognition of hedging or diversification effects across different instruments, securities or issuers. [Art. 325bo, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also requires institutions to capture material risks arising between a hedging instrument and the hedged instrument over the period up to a one-year horizon and basis risks from differences such as product type, seniority, ratings, maturity and vintage, and to recognise a hedging instrument only to the extent it can be maintained as an obligor approaches a credit event or other event. [Art. 325bo, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bo
+> Recognition of hedges in an internal default risk model
+> 1. Institutions may incorporate hedges in their internal default risk model and may net positions where the long positions and short positions relate to the same financial instrument.
+> 2. In their internal default risk models, institutions may only recognise hedging or diversification effects associated with long and short positions involving different instruments or different securities of the same obligor, as well as long and short positions in different issuers by explicitly modelling the gross long and short positions in the different instruments, including modelling of basis risks between different issuers.
+> 3. In their internal default risk models, institutions shall capture material risks between a hedging instrument and the hedged instrument that could occur during the interval between the maturity of a hedging instrument and the one-year time horizon, as well as the potential for significant basis risks in hedging strategies that arise from differences in the type of product, seniority in the capital structure, internal or external ratings, maturity, vintage and other differences. Institutions shall recognise a hedging instrument only to the extent that it can be maintained even as the obligor approaches a credit event or other event.
+
+**INSERTED · Art. 325bp — Particular requirements for an internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out detailed requirements for an institution's internal default risk model, covering how issuer defaults and their correlations must be modelled, how default probabilities and losses given default are to be estimated and floored, how nonlinear positions and economic-cycle effects must be reflected, and what independent review, documentation and concentration analysis institutions must perform. [Art. 325bp, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+It also directs the EBA to draft regulatory technical standards on the methodology for estimating default probabilities and losses given default and sets a submission date for those standards to the Commission. [Art. 325bp, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 325bp
+> Particular requirements for an internal default risk model
+> 1. The internal default risk model referred to in Article 325bm(1) shall be capable of modelling the default of individual issuers as well as the simultaneous default of multiple issuers, and shall take into account the impact of those defaults in the market values of the positions that are included in the scope of that model. For that purpose, the default of each individual issuer shall be modelled using two types of systematic risk factors.
+> 2. The internal default risk model shall reflect the economic cycle, including the dependency between recovery rates and the systematic risk factors referred to in paragraph 1.
+> 3. The internal default risk model shall reflect the nonlinear impact of options and other positions with material nonlinear behaviour with respect to price changes. Institutions shall also have due regard to the amount of model risk inherent in the valuation and estimation of price risks associated with those products.
+> 4. The internal default risk model shall be based on data that are objective and up-to-date.
+> 5. To simulate the default of issuers in the internal default risk model, the institution's estimates of default probabilities shall meet the following requirements:
+> (a) the default probabilities shall be floored at 0,03 %;
+> (b) the default probabilities shall be based on a one-year time horizon, unless stated otherwise in this Section;
+> (c) the default probabilities shall be measured us […truncated by emendrix: 4126 characters omitted…]
+
+**MODIFIED · Art. 384** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 385** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 390 — Calculation of the exposure value** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 390 PA 9` · *dates* +2020-03-28 · *amended by* `32019R0876`
+
+A new paragraph 9 has been added requiring EBA to develop draft regulatory technical standards specifying how to determine exposures arising from derivative contracts listed in Annex II and credit derivative contracts, where the contract was not entered into directly with a client but the underlying debt or equity instrument was issued by that client, for inclusion into the exposures to that client. [Art. 390, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_390)
+
+This new paragraph also sets a submission deadline for those draft standards to the Commission and delegates power to the Commission to supplement the Regulation by adopting them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 390, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_390)
+
+Paragraphs 1 through 8 remain unchanged between the two versions. [Art. 390, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_390) [Art. 390, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_390)
+
+*Applicability:* EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020. [Art. 390, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_390)
+
+*before* (`02013R0575-20190426`)
+
+> Article 390
+> Calculation of the exposure value
+> 1. Exposures arising from the items referred to in Annex II shall be calculated in accordance with one of the methods set out in Part Three, Title II, Chapter 6.
+> 2. Institutions with a permission to use the Internal Model Method in accordance with Article 283 may use the Internal Model Method for calculating the exposure value for repurchase transactions, securities or commodities lending or borrowing transactions, margin lending transactions and long settlement transactions.
+> 3. The institutions that calculate the own funds requirements for their trading-book business in accordance with Part Three, Title IV, Chapter 2, Article 299 and Part Three, Title V and, as appropriate, with Part Three, Title IV, Chapter 5, shall calculate the exposures to individual clients which arise on the trading book by adding together the following items:
+> (a) the positive excess of an institution's long positions over its short positions in all the financial instruments issued by the client in question, the net position in each of the different instruments being calculated in accordance with the methods laid down in Part Three, Title IV, Chapter 2;
+> (b) the net exposure, in the case of the underwriting of a debt or an equity instrument;
+> (c) the exposures due to the transactions, agreements and contracts referred to in Articles 299 and 378 to 380 with the client in question, such exposures being calculated in the manner laid down in those Articles, for t […truncated by emendrix: 3358 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 390
+> Calculation of the exposure value
+> 1. Exposures arising from the items referred to in Annex II shall be calculated in accordance with one of the methods set out in Part Three, Title II, Chapter 6.
+> 2. Institutions with a permission to use the Internal Model Method in accordance with Article 283 may use the Internal Model Method for calculating the exposure value for repurchase transactions, securities or commodities lending or borrowing transactions, margin lending transactions and long settlement transactions.
+> 3. The institutions that calculate the own funds requirements for their trading-book business in accordance with Part Three, Title IV, Chapter 2, Article 299 and Part Three, Title V and, as appropriate, with Part Three, Title IV, Chapter 5, shall calculate the exposures to individual clients which arise on the trading book by adding together the following items:
+> (a) the positive excess of an institution's long positions over its short positions in all the financial instruments issued by the client in question, the net position in each of the different instruments being calculated in accordance with the methods laid down in Part Three, Title IV, Chapter 2;
+> (b) the net exposure, in the case of the underwriting of a debt or an equity instrument;
+> (c) the exposures due to the transactions, agreements and contracts referred to in Articles 299 and 378 to 380 with the client in question, such exposures being calculated in the manner laid down in those Articles, for t […truncated by emendrix: 4083 characters omitted…]
+
+**MODIFIED · Art. 391 — Definition of an institution for large exposures purposes** · applies from: unchanged
+
+*within* `AR 391 ALN 2` · *amended by* `32019R0876`
+
+A new paragraph has been added stating that the Commission may adopt implementing acts, subject to the examination procedure referred to in Article 464(2), setting out decisions on whether a third country applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union. [Art. 391, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_391)
+
+The original single-paragraph text defining an institution for large exposures purposes remains unchanged. [Art. 391, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_391) [Art. 391, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_391)
+
+*before* (`02013R0575-20190426`)
+
+> Article 391
+> Definition of an institution for large exposures purposes
+> For the purposes of calculating the value of exposures in accordance with this Part the term institution shall include a private or public undertaking, including its branches, which, were it established in the Union, would fulfil the definition of the term institution and has been authorised in a third country that applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
+
+*after* (`02013R0575-20190627`)
+
+> Article 391
+> Definition of an institution for large exposures purposes
+> For the purposes of calculating the value of exposures in accordance with this Part the term institution shall include a private or public undertaking, including its branches, which, were it established in the Union, would fulfil the definition of the term institution and has been authorised in a third country that applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
+> For the purposes of the first paragraph, the Commission may adopt, by means of implementing acts, and subject to the examination procedure referred to in Article 464(2), decisions as to whether a third country applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
+
+**MODIFIED · Art. 392** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 394 — Reporting requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 394 PA 4 ALN 1`, `AR 394 PA 4 ALN 1 PTA (a)`, `AR 394 PA 4 ALN 1 PTA (b)`, `AR 394 PA 4 ALN 1 PTA (c)`, `AR 394 PA 4 ALN 2`, `AR 394 PA 4 ALN 2 PTA (a)`, `AR 394 PA 4 ALN 2 PTA (b)`, `AR 394 PA 4 ALN 3`, `AR 394 PA 4 ALN 4` · *dates* -2014-01-01 +2020-06-28 · *amended by* `32019R0876`
+
+Paragraph 4 changed from a mandate for EBA to draft implementing technical standards on uniform reporting formats, frequencies, dates and IT solutions into a mandate for EBA to draft regulatory technical standards specifying criteria for identifying shadow banking entities referred to in paragraph 2, including consideration of international developments and standards on shadow banking and of the two listed considerations about solvency or liquidity risk and possible exclusion of certain entities from that reporting obligation. [Art. 394, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_394) [Art. 394, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_394)
+
+The submission deadline for EBA's draft standards to the Commission changed from 1 January 2014 to 28 June 2020, and the legal basis for the Commission's power changed from adopting implementing technical standards under Article 15 of Regulation (EU) No 1093/2010 to supplementing the Regulation by adopting regulatory technical standards under Articles 10 to 14 of that Regulation. [Art. 394, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_394) [Art. 394, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_394)
+
+*before* (`02013R0575-20190426`)
+
+> Article 394
+> Reporting requirements
+> 1. An institution shall report the following information about every large exposure to the competent authorities, including large exposures exempted from the application of Article 395(1):
+> (a) the identification of the client or the group of connected clients to which an institution has a large exposure;
+> (b) the exposure value before taking into account the effect of the credit risk mitigation, when applicable;
+> (c) where used, the type of funded or unfunded credit protection;
+> (d) the exposure value after taking into account the effect of the credit risk mitigation calculated for the purpose of Article 395(1).
+> Where an institution is subject to Part Three, Title II, Chapter 3 its 20 largest exposures on a consolidated basis, excluding those exempted from the application of Article 395(1) shall be made available to the competent authorities.
+> 2. An institution shall report the following information to the competent authorities, in addition to reporting the information referred to in paragraph 1, in relation to its 10 largest exposures on a consolidated basis to institutions as well as its 10 largest exposures on a consolidated basis to unregulated financial sector entities, including large exposures exempted from the application of Article 395(1):
+> (a) the identification of the client or the group of connected clients to which an institution has a large exposure;
+> (b) the exposure value before taking into account the effect of the credit risk mit […truncated by emendrix: 1209 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 394
+> Reporting requirements
+> 1. An institution shall report the following information about every large exposure to the competent authorities, including large exposures exempted from the application of Article 395(1):
+> (a) the identification of the client or the group of connected clients to which an institution has a large exposure;
+> (b) the exposure value before taking into account the effect of the credit risk mitigation, when applicable;
+> (c) where used, the type of funded or unfunded credit protection;
+> (d) the exposure value after taking into account the effect of the credit risk mitigation calculated for the purpose of Article 395(1).
+> Where an institution is subject to Part Three, Title II, Chapter 3 its 20 largest exposures on a consolidated basis, excluding those exempted from the application of Article 395(1) shall be made available to the competent authorities.
+> 2. An institution shall report the following information to the competent authorities, in addition to reporting the information referred to in paragraph 1, in relation to its 10 largest exposures on a consolidated basis to institutions as well as its 10 largest exposures on a consolidated basis to unregulated financial sector entities, including large exposures exempted from the application of Article 395(1):
+> (a) the identification of the client or the group of connected clients to which an institution has a large exposure;
+> (b) the exposure value before taking into account the effect of the credit risk mit […truncated by emendrix: 1552 characters omitted…]
+
+**MODIFIED · Art. 395** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 396 — Compliance with large exposures requirements** · applies from: unchanged
+
+*within* `AR 396 PA 3` · *amended by* `32019R0876`
+
+A new paragraph 3 has been added requiring EBA to issue guidelines under Article 16 of Regulation (EU) No 1093/2010 specifying how competent authorities may determine exceptional cases, the appropriate time for returning to compliance, and measures to ensure timely return to compliance. [Art. 396, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_396)
+
+Paragraphs 1 and 2 remain textually unchanged between the two versions. [Art. 396, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_396) [Art. 396, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_396)
+
+*before* (`02013R0575-20190426`)
+
+> Article 396
+> Compliance with large exposures requirements
+> 1. If, in an exceptional case, exposures exceed the limit set out in Article 395(1), the institution shall report the value of the exposure without delay to the competent authorities which may, where the circumstances warrant it, allow the institution a limited period of time in which to comply with the limit.
+> Where the amount of EUR 150 million referred to in Article 395(1) is applicable, the competent authorities may allow on a case-by-case basis the 100 % limit in terms of the institution's eligible capital to be exceeded.
+> 2. Where compliance by an institution on an individual or sub-consolidated basis with the obligations imposed in this Part is waived under Article 7(1), or the provisions of Article 9 are applied in the case of parent institutions in a Member State, measures shall be taken to ensure the satisfactory allocation of risks within the group.
+
+*after* (`02013R0575-20190627`)
+
+> Article 396
+> Compliance with large exposures requirements
+> 1. If, in an exceptional case, exposures exceed the limit set out in Article 395(1), the institution shall report the value of the exposure without delay to the competent authorities which may, where the circumstances warrant it, allow the institution a limited period of time in which to comply with the limit.
+> Where the amount of EUR 150 million referred to in Article 395(1) is applicable, the competent authorities may allow on a case-by-case basis the 100 % limit in terms of the institution's eligible capital to be exceeded.
+> 2. Where compliance by an institution on an individual or sub-consolidated basis with the obligations imposed in this Part is waived under Article 7(1), or the provisions of Article 9 are applied in the case of parent institutions in a Member State, measures shall be taken to ensure the satisfactory allocation of risks within the group.
+> 3. For the purposes of paragraph 1, EBA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify how the competent authorities may determine:
+> (a) the exceptional cases referred to in paragraph 1 of this Article;
+> (b) the time considered appropriate for returning to compliance;
+> (c) the measures to be taken to ensure the timely return to compliance of the institution.
+
+**MODIFIED · Art. 397** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 399** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 400** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 401** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 402** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 403 — Substitution approach** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 403 PA 4` · *dates* +2019-12-31 · *amended by* `32019R0876`
+
+The after text adds a new paragraph 4 requiring EBA to issue guidelines under Article 16 of Regulation (EU) No 1093/2010 specifying conditions for applying the treatment referred to in paragraph 3 of the Article, including conditions and frequency for determining, monitoring and revising the limits referred to in point (b) of that paragraph. [Art. 403, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_403)
+
+The added paragraph also states that EBA shall publish those guidelines by 31 December 2019, a statement absent from the earlier version of the Article. [Art. 403, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_403) [Art. 403, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_403)
+
+*before* (`02013R0575-20190426`)
+
+> Article 403
+> Substitution approach
+> 1. Where an exposure to a client is guaranteed by a third party, or secured by collateral issued by a third party, an institution may:
+> (a) treat the portion of the exposure which is guaranteed as having been incurred to the guarantor rather than to the client provided that the unsecured exposure to the guarantor would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Part Three, Title II, Chapter 2;
+> (b) treat the portion of the exposure collateralised by the market value of recognised collateral as having been incurred to the third party rather than to the client, if the exposure is secured by collateral and provided that the collateralised portion of the exposure would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Part Three, Title II, Chapter 2.
+> The approach referred to in point (b) of the first subparagraph shall not be used by an institution where there is a mismatch between the maturity of the exposure and the maturity of the protection.
+> For the purpose of this Part, an institution may use both the Financial Collateral Comprehensive Method and the treatment set out in point (b) of the first subparagraph only where it is permitted to use both the Financial Collateral Comprehensive Method and the Financial Collateral Simple Method for the purposes of Article 92.
+> 2. Where an institution applies point (a) of paragraph 1:
+> (a) […truncated by emendrix: 656 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 403
+> Substitution approach
+> 1. Where an exposure to a client is guaranteed by a third party, or secured by collateral issued by a third party, an institution may:
+> (a) treat the portion of the exposure which is guaranteed as having been incurred to the guarantor rather than to the client provided that the unsecured exposure to the guarantor would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Part Three, Title II, Chapter 2;
+> (b) treat the portion of the exposure collateralised by the market value of recognised collateral as having been incurred to the third party rather than to the client, if the exposure is secured by collateral and provided that the collateralised portion of the exposure would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Part Three, Title II, Chapter 2.
+> The approach referred to in point (b) of the first subparagraph shall not be used by an institution where there is a mismatch between the maturity of the exposure and the maturity of the protection.
+> For the purpose of this Part, an institution may use both the Financial Collateral Comprehensive Method and the treatment set out in point (b) of the first subparagraph only where it is permitted to use both the Financial Collateral Comprehensive Method and the Financial Collateral Simple Method for the purposes of Article 92.
+> 2. Where an institution applies point (a) of paragraph 1:
+> (a) […truncated by emendrix: 1048 characters omitted…]
+
+**MODIFIED · Art. 411** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 412** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 413** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 415 — Reporting obligation and reporting format** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 415 PA 3a` · *dates* +2020-06-28 · *amended by* `32019R0876`
+
+A new paragraph 3a is added, directing EBA to develop draft implementing technical standards specifying which additional liquidity monitoring metrics referred to in paragraph 3 apply to small and non-complex institutions. [Art. 415, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_415)
+
+The new paragraph also sets a deadline of 28 June 2020 for EBA to submit those draft standards to the Commission, and confers on the Commission the power to adopt them under Article 15 of Regulation (EU) No 1093/2010. [Art. 415, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_415)
+
+The remainder of the article, including paragraphs 1, 2, 3, 4, 5 and 6, is unchanged between the two versions. [Art. 415, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_415) [Art. 415, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_415)
+
+*before* (`02013R0575-20190426`)
+
+> Article 415
+> Reporting obligation and reporting format
+> 1. Institutions shall report in a single currency, regardless of their actual denomination, to the competent authorities the items referred to in Titles II and III and their components, including the composition of their liquid assets in accordance with Article 416. Until the liquidity coverage requirement in Part Six is fully specified and implemented as a minimum standard in accordance with Article 460, institutions shall report the items set in Title II and Annex III. Institutions shall report the items in Title III. The reporting frequency shall not be less than monthly for items referred to in Title II and Annex III and not less than quarterly for items referred to in Title III.
+> The reporting formats shall include all the necessary information and shall allow EBA to assess whether secured lending and collateral swap transactions where liquid assets referred to in points (a), (b) and (c) of Article 416(1) have been obtained against collateral that does not qualify under points (a), (b) and (c) of Article 416(1) have been properly unwound.
+> 2. An institution shall report separately to the competent authorities of the home Member State the items referred to in paragraph 1 in the currency below when it has:
+> (a) aggregate liabilities in a currency different from the reporting currency under paragraph 1 amounting to or exceeding 5 % of the institution's or the single liquidity sub-group's total liabilities; or
+> (b) a signific […truncated by emendrix: 3118 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 415
+> Reporting obligation and reporting format
+> 1. Institutions shall report in a single currency, regardless of their actual denomination, to the competent authorities the items referred to in Titles II and III and their components, including the composition of their liquid assets in accordance with Article 416. Until the liquidity coverage requirement in Part Six is fully specified and implemented as a minimum standard in accordance with Article 460, institutions shall report the items set in Title II and Annex III. Institutions shall report the items in Title III. The reporting frequency shall not be less than monthly for items referred to in Title II and Annex III and not less than quarterly for items referred to in Title III.
+> The reporting formats shall include all the necessary information and shall allow EBA to assess whether secured lending and collateral swap transactions where liquid assets referred to in points (a), (b) and (c) of Article 416(1) have been obtained against collateral that does not qualify under points (a), (b) and (c) of Article 416(1) have been properly unwound.
+> 2. An institution shall report separately to the competent authorities of the home Member State the items referred to in paragraph 1 in the currency below when it has:
+> (a) aggregate liabilities in a currency different from the reporting currency under paragraph 1 amounting to or exceeding 5 % of the institution's or the single liquidity sub-group's total liabilities; or
+> (b) a signific […truncated by emendrix: 3598 characters omitted…]
+
+**MODIFIED · Art. 416** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 419 — Currencies with constraints on the availability of liquid assets** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 419 PA 5 ALN 1`, `AR 419 PA 5 ALN 2`, `AR 419 PA 5 ALN 3` · *dates* +2019-12-28 · *amended by* `32019R0876`
+
+The submission deadline for EBA's draft regulatory technical standards under paragraph 5 was changed from 31 March 2014 to 28 December 2019. [Art. 419, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_419)
+
+The description of the Commission's delegated power in paragraph 5 was changed from adopting the regulatory technical standards to supplementing the Regulation by adopting them. [Art. 419, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_419)
+
+A comma was added after "application" in the first sentence of paragraph 5, compared to the earlier wording which lacked it. [Art. 419, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_419) [Art. 419, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_419)
+
+*before* (`02013R0575-20190426`)
+
+> Article 419
+> Currencies with constraints on the availability of liquid assets
+> 1. EBA shall assess the availability for institutions of the liquid assets referred to in point (b) of Article 416(1) in the currencies that are relevant for institutions established in the Union.
+> 2. Where the justified needs for liquid assets in light of the requirement in Article 412 are exceeding the availability of those liquid assets in a currency, one or more of the following derogations shall apply:
+> (a) by way of derogation from point (f) of Article 417, the denomination of the liquid assets may be inconsistent with the distribution by currency of liquidity outflows after the deduction of inflows;
+> (b) for currencies of a Member State or third countries, required liquid assets may be substituted by credit lines from the central bank of that Member State or third country, which are contractually irrevocably committed for the next 30 days and are fairly priced, independent of the amount currently drawn, provided that the competent authorities of that Member State or third country do the same and that Member State or third country has comparable reporting requirements in place.
+> 3. The derogations applied in accordance with paragraph 2 shall be inversely proportional to the availability of the relevant assets. The justified needs of institutions shall be assessed taking into account their ability to reduce, by sound liquidity management, the need for those liquid assets and the holdings of those as […truncated by emendrix: 894 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 419
+> Currencies with constraints on the availability of liquid assets
+> 1. EBA shall assess the availability for institutions of the liquid assets referred to in point (b) of Article 416(1) in the currencies that are relevant for institutions established in the Union.
+> 2. Where the justified needs for liquid assets in light of the requirement in Article 412 are exceeding the availability of those liquid assets in a currency, one or more of the following derogations shall apply:
+> (a) by way of derogation from point (f) of Article 417, the denomination of the liquid assets may be inconsistent with the distribution by currency of liquidity outflows after the deduction of inflows;
+> (b) for currencies of a Member State or third countries, required liquid assets may be substituted by credit lines from the central bank of that Member State or third country, which are contractually irrevocably committed for the next 30 days and are fairly priced, independent of the amount currently drawn, provided that the competent authorities of that Member State or third country do the same and that Member State or third country has comparable reporting requirements in place.
+> 3. The derogations applied in accordance with paragraph 2 shall be inversely proportional to the availability of the relevant assets. The justified needs of institutions shall be assessed taking into account their ability to reduce, by sound liquidity management, the need for those liquid assets and the holdings of those as […truncated by emendrix: 931 characters omitted…]
+
+**MODIFIED · Art. 422** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 423** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 424** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 425** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aa** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ab** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ac** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ad** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ae** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428af** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ag** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ah** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ai** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aj** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ak** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428al** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428am** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428an** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ao** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ap** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aq** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ar** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428as** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428at** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428au** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428av** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428aw** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ax** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428ay** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428az** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428b** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428c** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428d** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428e** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428f** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428g** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428h** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428i** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428j** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428k** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428l** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428m** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428n** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428o** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428p** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428q** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428r** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428s** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428t** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428u** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428v** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428w** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428x** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428y** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 428z** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 430 — Reporting on prudential requirements and financial information** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 430`, `AR 430 PA 7`, `AR 430 PA 8` · *dates* +2014-04-16 +2020-06-28 +2021-06-28 · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The article heading changed from "Reporting requirement" to "Reporting on prudential requirements and financial information", while paragraphs 1 and 2 remain unchanged. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_430) [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
+
+Two new paragraphs, 7 and 8, were added: paragraph 7 sets out EBA's mandate to develop implementing technical standards for reporting formats, templates, timing and day-end or month-end value specifications, with submission deadlines of 28 June 2020 for certain items and 28 June 2021 otherwise, and paragraph 8 sets out EBA's mandate to assess costs and benefits of reporting requirements under Implementing Regulation (EU) No 680/2014 and report to the Commission by 28 June 2020. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
+
+*before* (`02013R0575-20190426`)
+
+> Article 430
+> Reporting requirement
+> 1. Institutions shall submit to the competent authorities all necessary information on the leverage ratio and its components in accordance with Article 429. Competent authorities shall take into account this information when undertaking the supervisory review referred to in Article 97 of Directive 2013/36/EU.
+> Institutions shall also submit to the competent authorities the information required for the purposes of the preparation of the reports referred to in Article 511.
+> Competent authorities shall submit the information received from institutions to EBA upon its request to facilitate the review referred to in Article 511.
+> 2. EBA shall develop draft implementing technical standards to determine the uniform reporting template, the instructions on how to use such template, the frequencies and dates of reporting and the IT solutions, for the purposes of the reporting requirement laid down in paragraph 1.
+> EBA shall submit those draft implementing technical standards to the Commission by 28 July 2013.
+> Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+*after* (`02013R0575-20190627`)
+
+> Article 430
+> Reporting on prudential requirements and financial information
+> 1. Institutions shall submit to the competent authorities all necessary information on the leverage ratio and its components in accordance with Article 429. Competent authorities shall take into account this information when undertaking the supervisory review referred to in Article 97 of Directive 2013/36/EU.
+> Institutions shall also submit to the competent authorities the information required for the purposes of the preparation of the reports referred to in Article 511.
+> Competent authorities shall submit the information received from institutions to EBA upon its request to facilitate the review referred to in Article 511.
+> 2. EBA shall develop draft implementing technical standards to determine the uniform reporting template, the instructions on how to use such template, the frequencies and dates of reporting and the IT solutions, for the purposes of the reporting requirement laid down in paragraph 1.
+> EBA shall submit those draft implementing technical standards to the Commission by 28 July 2013.
+> Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+> 7. EBA shall develop draft implementing technical standards to specify the uniform reporting formats and templates, the instructions and methodology on how to use those templates, the frequency and dates of reporting, the definiti […truncated by emendrix: 4006 characters omitted…]
+
+**INSERTED · Art. 430a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 430b — Specific reporting requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out specific reporting requirements for market risk, covering institutions' calculations under the alternative standardised approach and, later, the alternative internal model approach, as well as rules on combining the two approaches and a mandate for EBA to develop implementing technical standards on reporting templates. [Art. 430b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 430b
+> Specific reporting requirements for market risk
+> 1. From the date of application of the delegated act referred to in Article 461a, institutions that do not meet the conditions set out in Article 94(1) nor the conditions set out in Article 325a(1) shall report, for all their trading book positions and all their non-trading book positions that are subject to foreign exchange or commodity risks, the results of the calculations based on using the alternative standardised approach set out in Chapter 1a of Title IV of Part Three on the same basis as such institutions report the obligations laid down in points (b)(i) and (c) of Article 92(3).
+> 2. Institutions referred to in paragraph 1 of this Article shall report separately the calculations set out in points (a), (b) and (c) of Article 325c(2) for the portfolio of all trading book positions or non-trading book positions that are subject to foreign exchange and commodity risks.
+> 3. In addition to the requirement set out in paragraph 1 of this Article, from the end of a three-year-period following the date of entry into force of the latest regulatory technical standards referred to in Articles 325bd(7), 325be(3), 325bf(9), 325bg(4), institutions shall report, for those positions assigned to trading desks for which they have been granted permission by the competent authorities to use the alternative internal model approach in accordance with Article 325az(2), the results of the calculations based on using that approach set o […truncated by emendrix: 1871 characters omitted…]
+
+**INSERTED · Art. 430c — Feasibility report on the integrated reporting system** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 430c is added, requiring EBA to prepare a feasibility report on developing a consistent and integrated system for collecting statistical, resolution and prudential data, and to report its findings to the Commission by 28 June 2020. [Art. 430c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430c)
+
+The provision sets out who EBA must involve in drafting the report and lists elements the cost-benefit analysis must cover at a minimum, including a data overview, a standard data dictionary, a joint committee with the ESCB, and the feasibility and design of a central data collection point with specified functions. [Art. 430c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430c)
+
+It further states that within one year of that report's presentation, the Commission shall, if appropriate and taking the feasibility report into account, submit a legislative proposal to the European Parliament and the Council for a standardised and integrated reporting system. [Art. 430c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430c)
+
+*after* (`02013R0575-20190627`)
+
+> Article 430c
+> Feasibility report on the integrated reporting system
+> 1. EBA shall prepare a report on feasibility regarding the development of a consistent and integrated system for collecting statistical data, resolution data and prudential data and report its findings to the Commission by 28 June 2020.
+> 2. When drafting the feasibility report, EBA shall involve competent authorities, as well as authorities that are responsible for deposit guarantee schemes, resolution and in particular the ESCB. The report shall take into account the previous work of the ESCB regarding integrated data collections and shall be based on an overall cost and benefit analysis including as a minimum:
+> (a) an overview of the quantity and scope of the current data collected by the competent authorities in their jurisdiction and of its origins and granularity;
+> (b) the establishment of a standard dictionary of the data to be collected, in order to increase the convergence of reporting requirements as regards regular reporting obligations, and to avoid unnecessary queries;
+> (c) the establishment of a joint committee, including as a minimum EBA and the ESCB, for the development and implementation of the integrated reporting system;
+> (d) the feasibility and possible design of a central data collection point for the integrated reporting system, including requirements to ensure strict confidentiality of the data collected, strong authentication and management of access rights to the system and cybersecurity, wh […truncated by emendrix: 1253 characters omitted…]
+
+**MODIFIED · Art. 432 — Non-material, proprietary or confidential information** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 432 PA 1 ALN 1`, `AR 432 PA 1 ALN 2`, `AR 432 PA 1 ALN 3`, `AR 432 PA 2 ALN 1`, `AR 432 PA 2 ALN 2`, `AR 432 PA 2 ALN 3`, `AR 432 PA 2 ALN 4` · *dates* -2014-12-31
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The paragraph 1 exemption now covers disclosures listed in both Titles II and III, rather than only Title II, and the EBA guideline deadline of 31 December 2014 has been removed from both paragraph 1 and paragraph 2. [Art. 432, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_432) [Art. 432, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_432)
+
+Paragraph 2's wording on proprietary and confidential information has been rephrased, including describing the confidentiality obligation as institutions being obliged by customers or other counterparty relationships to keep information confidential, and referencing 'this paragraph' rather than 'the second and third subparagraphs'. [Art. 432, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_432) [Art. 432, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_432)
+
+*before* (`02013R0575-20190426`)
+
+> Article 432
+> Non-material, proprietary or confidential information
+> 1. Institutions may omit one or more of the disclosures listed in Title II if the information provided by such disclosures is not regarded as material, except for the disclosures laid down in Article 435(2)(c), Article 437 and Article 450.
+> Information in disclosures shall be regarded as material if its omission or misstatement could change or influence the assessment or decision of a user relying on that information for the purpose of making economic decisions.
+> EBA shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines by 31 December 2014 on how institutions have to apply materiality in relation to the disclosure requirements of Title II.
+> 2. Institutions may also omit one or more items of information included in the disclosures listed in Titles II and III if those items include information which is regarded as proprietary or confidential in accordance with the second and third subparagraphs, except for the disclosures laid down in Articles 437 and 450.
+> Information shall be regarded as proprietary to an institution if disclosing it publicly would undermine its competitive position. It may include information on products or systems which, if shared with competitors, would render an institution's investments therein less valuable.
+> Information shall be regarded as confidential if there are obligations to customers or other counterparty relationships binding an institution to confiden […truncated by emendrix: 745 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 432
+> Non-material, proprietary or confidential information
+> 1. With the exception of the disclosures laid down in point (c) of Article 435(2) and in Articles 437 and 450, institutions may omit one or more of the disclosures listed in Titles II and III where the information provided by those disclosures is not regarded as material.
+> Information in disclosures shall be regarded as material where its omission or misstatement could change or influence the assessment or decision of a user of that information relying on it for the purpose of making economic decisions.
+> EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, on how institutions have to apply materiality in relation to the disclosure requirements of Titles II and III.
+> 2. Institutions may also omit one or more items of information referred to in Titles II and III where those items include information that is regarded as proprietary or confidential in accordance with this paragraph, except for the disclosures laid down in Articles 437 and 450.
+> Information shall be regarded as proprietary to institutions where disclosing it publicly would undermine their competitive position. Proprietary information may include information on products or systems that would render the investments of institutions therein less valuable, if shared with competitors.
+> Information shall be regarded as confidential where the institutions are obliged by customers or other counterparty relationships to keep t […truncated by emendrix: 746 characters omitted…]
+
+**INSERTED · Art. 434a — Uniform disclosure formats** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This new article requires EBA to develop draft implementing technical standards setting out uniform disclosure formats and instructions for the disclosures required under Titles II and III, and it directs EBA to submit those drafts to the Commission by 28 June 2020. [Art. 434a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_434a)
+
+The text specifies that these formats must convey sufficiently comprehensive and comparable information for assessing institutions' risk profiles and compliance, should seek consistency with international disclosure standards, and should be tabular where appropriate, with the Commission empowered to adopt the standards under Article 15 of Regulation (EU) No 1093/2010. [Art. 434a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_434a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 434a
+> Uniform disclosure formats
+> EBA shall develop draft implementing technical standards specifying uniform disclosure formats, and associated instructions in accordance with which the disclosures required under Titles II and III shall be made.
+> Those uniform disclosure formats shall convey sufficiently comprehensive and comparable information for users of that information to assess the risk profiles of institutions and their degree of compliance with the requirements laid down in Parts One to Seven. To facilitate the comparability of information, the implementing technical standards shall seek to maintain consistency of disclosure formats with international standards on disclosures.
+> Uniform disclosure formats shall be tabular where appropriate.
+> EBA shall submit those draft implementing technical standards to the Commission by 28 June 2020.
+> Power is conferred on the Commission to adopt those implementing technical standards in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+**MODIFIED · Art. 456** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 457** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 458** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 460 — Liquidity** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 460 PA 1 ALN 1`, `AR 460 PA 1 ALN 2`, `AR 460 PA 3` · *dates* +2024-06-28 · *amended by* `32019R0876`
+
+Paragraph 1 now describes the Commission's power as one to supplement the Regulation via delegated acts rather than simply to adopt a delegated act, refers to institutions generally rather than credit institutions, updates a cross-reference to Title II of Part Six, and adds a new subparagraph listing specific articles (including Article 8(3) and a range of Articles 411 to 451a) for which detailed liquidity requirements may be specified. [Art. 460, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_460) [Art. 460, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_460)
+
+A new paragraph 3 has been added, empowering the Commission to adopt delegated acts amending the list of products or services in Article 428f(2) where assets and liabilities linked to other products or services meet the conditions of Article 428f(1), with that delegated act to be adopted by 28 June 2024. [Art. 460, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_460)
+
+Paragraph 2, containing the phasing-in schedule for the liquidity coverage requirement, remains unchanged between the two texts. [Art. 460, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_460) [Art. 460, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_460)
+
+*before* (`02013R0575-20190426`)
+
+> Article 460
+> Liquidity
+> 1. The Commission shall be empowered to adopt a delegated act in accordance with Article 462 to specify in detail the general requirement set out in Article 412(1). The delegated act adopted in accordance with this paragraph shall be based on the items to be reported in accordance with Part Six, Title II and Annex III, shall specify under which circumstances competent authorities have to impose specific in- and outflow levels on credit institutions in order to capture specific risks to which they are exposed and shall respect the thresholds set out in paragraph 2.
+> 2. The liquidity coverage requirement referred to in Article 412 shall be introduced in accordance with the following phasing-in:
+> (a) 60 % of the liquidity coverage requirement in 2015;
+> (b) 70 % as from 1 January 2016;
+> (c) 80 % as from 1 January 2017;
+> (d) 100 % as from 1 January 2018.
+> For this purpose the Commission shall take into account the reports referred to in Article 509(1), (2) and (3) and international standards developed by international fora as well as Union specificities.
+> The Commission shall adopt the delegated act referred to in paragraph 1 by 30 June 2014. It shall enter into force by 31 December 2014, but shall not apply before 1 January 2015.
+
+*after* (`02013R0575-20190627`)
+
+> Article 460
+> Liquidity
+> 1. The Commission is empowered to supplement this Regulation by adopting delegated acts in accordance with Article 462 to specify in detail the general requirement set out in Article 412(1). Delegated acts adopted in accordance with this paragraph shall be based on the items to be reported in accordance with Title II of Part Six and Annex III and shall specify under which circumstances competent authorities have to impose specific in- and outflow levels on institutions in order to capture specific risks to which they are exposed and shall respect the thresholds set out in paragraph 2 of this Article.
+> In particular, the Commission is empowered to supplement this Regulation by adopting delegated acts specifying the detailed liquidity requirements for the purposes of the application of Article 8(3), Articles 411 to 416, 419, 422, 425, 428a, 428f, 428g, 428j to 428n, 428p, 428r, 428s, 428w, 428ae, 428ag, 428ah, 428ak and 451a.
+> 2. The liquidity coverage requirement referred to in Article 412 shall be introduced in accordance with the following phasing-in:
+> (a) 60 % of the liquidity coverage requirement in 2015;
+> (b) 70 % as from 1 January 2016;
+> (c) 80 % as from 1 January 2017;
+> (d) 100 % as from 1 January 2018.
+> For this purpose the Commission shall take into account the reports referred to in Article 509(1), (2) and (3) and international standards developed by international fora as well as Union specificities.
+> The Commission shall adopt the delegated act referre […truncated by emendrix: 547 characters omitted…]
+
+**INSERTED · Art. 461a — Alternative standardised approach for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 461a is added, empowering the Commission to adopt delegated acts under Article 462 to make technical adjustments to a list of provisions within the alternative standardised approach for market risk set out in Chapter 1a of Title IV of Part Three, including specifying certain risk weights and correlations, for the purposes of the reporting requirements in Article 430b(1). [Art. 461a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_461a)
+
+The provision also states that the Commission shall adopt the delegated act referred to in paragraph 1 by 31 December 2019. [Art. 461a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_461a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 461a
+> Alternative standardised approach for market risk
+> For the purposes of the reporting requirements set out in Article 430b(1), the Commission is empowered to adopt delegated acts in accordance with Article 462, to amend this Regulation by making technical adjustments to Articles 325e, 325g to 325j, 325p, 325q, 325ae, 325ak, 325am, 325ap to 325at, 325av, 325ax, and specify the risk weight of bucket 11 of Table 4 in Article 325ah and the risk weights of covered bonds issued by credit institutions in third countries in accordance with Article 325ah, and the correlation of covered bonds issued by credit institutions in third countries in accordance with Article 325aj of the alternative standardised approach set out in Chapter 1a of Title IV of Part Three, taking into account developments in international regulatory standards.
+> The Commission shall adopt the delegated act referred to in paragraph 1 by 31 December 2019.
+
+**MODIFIED · Art. 462 — Exercise of the delegation** · applies from: unchanged
+
+*within* `AR 462 PA 2 ALN 1`, `AR 462 PA 3 ALN 1`, `AR 462 PA 6 ALN 1` · *amended by* `32019R0876`
+
+The references in paragraphs 2, 3 and 6 to the articles covered by the delegated-power provisions now also include Article 461a alongside the previously listed Articles 244(6), 245(6) and 456 to 460. [Art. 462, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_462) [Art. 462, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_462)
+
+Paragraph 6 also spells out the time periods as 'three months' rather than using the numeral '3 months', with no other change to the substance of that paragraph. [Art. 462, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_462) [Art. 462, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_462)
+
+*before* (`02013R0575-20190426`)
+
+> Article 462
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 244(6) and 245(6) and in Articles 456 to 460 shall be conferred on the Commission for an indeterminate period of time from 28 June 2013.
+> 3. The delegation of power referred to in Articles 244(6) and 245(6) and in Articles 456 to 460 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 6. A delegated act adopted pursuant to Articles 244(6) and 245(6) and Articles 456 to 460 shall enter into force only if no objection has been expressed by the European Parliament or the Council within a period of 3 months of notification of that act to the European Parliament and the Coun […truncated by emendrix: 251 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 462
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Articles 244(6) and 245(6), in Articles 456 to 460 and in Article 461a shall be conferred on the Commission for an indeterminate period of time from 28 June 2013.
+> 3. The delegation of power referred to in Articles 244(6) and 245(6), in Articles 456 to 460 and in Article 461a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+> 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+> 6. A delegated act adopted pursuant to Articles 244(6) and 245(6), Articles 456 to 460 and in Article 461a shall enter into force only if no objection has been expressed by the European Parliament or the Council within a period of three months of notificat […truncated by emendrix: 310 characters omitted…]
+
+**MODIFIED · Art. 471 — Exemption from Deduction of Equity Holdings in Insurance Companies from Common Equity Tier 1 Items** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 471 PA 1 ALN 1`, `AR 471 PA 1 ALN 1 PTA (a)`, `AR 471 PA 1 ALN 1 PTA (c)` · *dates* -2014-01-01 -2022-12-31 +2018-12-31 +2024-12-31 · *amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The derogation period in paragraph 1 changed from running from 1 January 2014 to 31 December 2022 to running from 31 December 2018 to 31 December 2024, and the reference date in point (c) for the 15% threshold was likewise extended from 31 December 2022 to 31 December 2024. [Art. 471, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_471) [Art. 471, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_471)
+
+The opening clause changed from stating that competent authorities may permit institutions not to deduct such holdings to stating that institutions themselves may choose not to deduct them. [Art. 471, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_471) [Art. 471, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_471)
+
+Point (a) was altered so that it now references the conditions in points (a) and (e) of Article 49(1), removing the earlier reference to point (c) of that Article. [Art. 471, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_471) [Art. 471, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_471)
+
+*before* (`02013R0575-20190426`)
+
+> Article 471
+> Exemption from Deduction of Equity Holdings in Insurance Companies from Common Equity Tier 1 Items
+> 1. By way of derogation from Article 49(1), during the period from 1 January 2014 to 31 December 2022, competent authorities may permit institutions to not deduct equity holdings in insurance undertakings, reinsurance undertakings and insurance holding companies where the following conditions are met:
+> (a) the conditions laid down in points (a), (c) and (e) of Article 49(1);
+> (b) the competent authorities are satisfied with the level of risk control and financial analysis procedures specifically adopted by the institution in order to supervise the investment in the undertaking or holding company;
+> (c) the equity holdings of the institution in the insurance undertaking, reinsurance undertaking or insurance holding company do not exceed 15 % of the Common Equity Tier 1 instruments issued by that insurance entity as at 31 December 2012 and during the period from 1 January 2013 to 31 December 2022;
+> (d) the amount of the equity holding which is not deducted does not exceed the amount held in the Common Equity Tier 1 instruments in the insurance undertaking, reinsurance undertaking or insurance holding company as at 31 December 2012.
+> 2. The equity holdings which are not deducted pursuant to paragraph 1 shall qualify as exposures and be risk weighted at 370 %.
+
+*after* (`02013R0575-20190627`)
+
+> Article 471
+> Exemption from Deduction of Equity Holdings in Insurance Companies from Common Equity Tier 1 Items
+> 1. By way of derogation from Article 49(1), during the period from 31 December 2018 to 31 December 2024, institutions may choose not to deduct equity holdings in insurance undertakings, reinsurance undertakings and insurance holding companies where the following conditions are met:
+> (a) the conditions set out in points (a), and (e) of Article 49(1);
+> (b) the competent authorities are satisfied with the level of risk control and financial analysis procedures specifically adopted by the institution in order to supervise the investment in the undertaking or holding company;
+> (c) the equity holdings of the institution in the insurance undertaking, reinsurance undertaking or insurance holding company do not exceed 15 % of the Common Equity Tier 1 instruments issued by that insurance entity as at 31 December 2012 and during the period from 1 January 2013 to 31 December 2024;
+> (d) the amount of the equity holding which is not deducted does not exceed the amount held in the Common Equity Tier 1 instruments in the insurance undertaking, reinsurance undertaking or insurance holding company as at 31 December 2012.
+> 2. The equity holdings which are not deducted pursuant to paragraph 1 shall qualify as exposures and be risk weighted at 370 %.
+
+**MODIFIED · Art. 493** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 494 — Transitional provisions concerning the requirement for own funds and eligible liabilities** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 494`, `AR 494 PA 1`, `AR 494 PA 2`, `AR 494 PA 3`, `AR 494 ALN 1` · *dates* -2014-01-01 -2014-12-31 -2015-01-01 -2015-12-31 -2016-01-01 -2016-12-31 +2019-06-27 +2021-12-31 · *amended by* `32019R0876`
+
+The article's heading and subject matter changed from transitional rules on including Tier 2 capital within eligible capital to transitional rules on own funds and eligible liabilities requirements for resolution entities that are G-SIIs or part of a G-SII. [Art. 494, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_494) [Art. 494, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494)
+
+The prior tiered percentages of Tier 1 capital tied to the 2014-2016 calendar years were removed and replaced with three new numbered paragraphs setting risk-based and non-risk-based ratios and caps on eligible liabilities instruments running from 27 June 2019 to 31 December 2021, with a further threshold applying after that date. [Art. 494, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494)
+
+The derogations now reference Articles 92a, 72b(3), 92(3) and (4), and 429(4), whereas the earlier text referenced points (71)(a)(ii) and (b)(ii) of Article 4(1). [Art. 494, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_494) [Art. 494, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494)
+
+*before* (`02013R0575-20190426`)
+
+> Article 494
+> Transitional provisions for eligible capital
+> By way of derogation from points (71)(a)(ii) and (b)(ii) of Article 4(1), eligible capital may include Tier 2 capital up to the following amounts:
+> (a) 100 % of Tier 1 capital during the period from 1 January 2014 to 31 December 2014;
+> (b) 75 % of Tier 1 capital during the period from 1 January 2015 to 31 December 2015;
+> (c) 50 % of Tier 1 capital during the period from 1 January 2016 to 31 December 2016.
+
+*after* (`02013R0575-20190627`)
+
+> Article 494
+> Transitional provisions concerning the requirement for own funds and eligible liabilities
+> 1. By way of derogation from Article 92a, as from 27 June 2019 until 31 December 2021, institutions identified as resolution entities that are G-SIIs or part of a G-SII shall at all times satisfy the following requirements for own funds and eligible liabilities:
+> (a) a risk-based ratio of 16 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) and (4);
+> (b) a non-risk-based ratio of 6 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total exposure measure referred to in Article 429(4).
+> 2. By way of derogation from Article 72b(3), as from 27 June 2019 until 31 December 2021, the extent to which eligible liabilities instruments referred to in Article 72b(3) may be included in eligible liabilities items shall be 2,5 % of the total risk exposure amount calculated in accordance with Article 92(3) and (4).
+> 3. By way of derogation from Article 72b(3), until the resolution authority assesses for the first time the compliance with the condition set out in point (c) of that paragraph, liabilities shall qualify as eligible liabilities instruments up to an aggregate amount that does not exceed, until 31 December 2021, 2,5 % and, after that date, 3,5 % of the total risk exposure amount calculated in accordance […truncated by emendrix: 115 characters omitted…]
+
+**INSERTED · Art. 494a — Grandfathering of issuances through special purpose entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 494a is added, setting out conditions under which capital instruments not directly issued by an institution can still qualify as Additional Tier 1 or Tier 2 instruments until 31 December 2021, by way of derogation from Articles 52 and 63 respectively. [Art. 494a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494a)
+
+For both Additional Tier 1 and Tier 2 treatment, the article requires that the relevant conditions of Article 52(1) or Article 63(1) are met except for the direct-issuance requirement, that the instruments are issued through an entity within the consolidation under Chapter 2 of Title II of Part One, and that the proceeds are immediately available to the institution without limitation in a form satisfying those conditions. [Art. 494a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 494a
+> Grandfathering of issuances through special purpose entities
+> 1. By way of derogation from Article 52, capital instruments not issued directly by an institution shall qualify as Additional Tier 1 instruments until 31 December 2021 only where all the following conditions are met:
+> (a) the conditions set out in Article 52(1), except for the condition requiring that the instruments are directly issued by the institution;
+> (b) the instruments are issued through an entity within the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) the proceeds are immediately available to the institution without limitation and in a form that satisfies the conditions set out in this paragraph.
+> 2. By way of derogation from Article 63, capital instruments not issued directly by an institution shall qualify as Tier 2 instruments until 31 December 2021 only where all the following conditions are met:
+> (a) the conditions set out in Article 63(1), except for the condition requiring that the instruments are directly issued by the institution;
+> (b) the instruments are issued through an entity within the consolidation pursuant to Chapter 2 of Title II of Part One;
+> (c) the proceeds are immediately available to the institution without limitation and in a form that satisfies the conditions set out in this paragraph.
+
+**INSERTED · Art. 494b — Grandfathering of own funds instruments and eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 494b is added, allowing instruments issued before 27 June 2019 to continue qualifying as Additional Tier 1 or Tier 2 instruments at the latest until 28 June 2025, provided they meet the conditions of Articles 51 and 52, or 62 and 63, respectively, excluding certain specified conditions. [Art. 494b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494b)
+
+It also provides that liabilities issued before 27 June 2019 can qualify as eligible liabilities items if they meet the conditions of Article 72b, excluding certain specified conditions referenced in that article. [Art. 494b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_494b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 494b
+> Grandfathering of own funds instruments and eligible liabilities instruments
+> 1. By way of derogation from Articles 51 and 52, instruments issued prior to 27 June 2019 shall qualify as Additional Tier 1 instruments at the latest until 28 June 2025, where they meet the conditions set out in Articles 51 and 52, except for the conditions referred to in points (p), (q) and (r) of Article 52(1).
+> 2. By way of derogation from Articles 62 and 63, instruments issued prior to 27 June 2019 shall qualify as Tier 2 instruments at the latest until 28 June 2025, where they meet the conditions set out in Articles 62 and 63, except for the conditions referred to in points (n), (o) and (p) of Article 63.
+> 3. By way of derogation from point (a) of Article 72a(1), liabilities issued prior to 27 June 2019 shall qualify as eligible liabilities items where they meet the conditions set out in Article 72b, except for the conditions referred to in point (b)(ii) and points (f) to (m) of Article 72b(2).
+
+**MODIFIED · Art. 497 — Own funds requirements for exposures to CCPs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 497 PA 1 ALN 1`, `AR 497 PA 1 ALN 1 PTA (a)`, `AR 497 PA 1 ALN 1 PTA (b)`, `AR 497 PA 2 ALN 1`, `AR 497 PA 3 ALN 1`, `AR 497 PA 4` · *dates* +2019-06-27 +2021-06-28 · *amended by* `32019R0876`
+
+The provision replaces the earlier rule, which let an institution treat both EU-authorised and third-country CCPs as QCCPs during transitional periods tied to the adoption of regulatory technical standards under Regulation (EU) No 648/2012, with a rule limited to third-country CCPs applying for recognition under Article 25 of that Regulation, defining the QCCP treatment window by reference to the submission date of the application and to specified fixed dates including 27 June 2019 and 28 June 2021. [Art. 497, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_497) [Art. 497, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_497)
+
+The formula for calculating the own funds requirement in Article 308(2) for CCPs lacking a default fund or a binding margin-use arrangement is changed from the earlier expression based on IMi, IM and KCM to a new expression involving KCMi, KCCP, DFCCP, IMi and IM, with KCCP and DFCCP now defined by reference to Article 50c of Regulation (EU) No 648/2012 and IM by reference to Article 89(5a) of that Regulation. [Art. 497, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_497) [Art. 497, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_497)
+
+The power for the Commission to extend the transitional provisions is changed from a six-month extension under Article 5 of Regulation (EU) No 182/2011 covering paragraphs 1 and 2 to a single twelve-month extension under the examination procedure referred to in Article 464(2), applying only to paragraph 1, and the former paragraph 4 on the same topic is no longer present in the same form. [Art. 497, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_497) [Art. 497, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_497)
+
+*before* (`02013R0575-20190426`)
+
+> Article 497
+> Own funds requirements for exposures to CCPs
+> 1. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 14 of that Regulation on the authorisation of the CCP, whichever is earlier, an institution may consider that CCP to be a QCCP, provided that the CCP was authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards in Articles 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 of that Regulation have been adopted.
+> 2. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 of Regulation (EU) No 648/2012, or until a decision is made under Article 25 of that Regulation on the recognition of the CCP established in a third country, whichever is earlier, an institution may consider that CCP to be a QCCP,
+> 3. The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011 extending the transitional provisions in paragraphs 1 and 2 of this Article by a further six months, in exceptional circumstances where it is necessary and proportionate to avoid disruption to international financial markets.
+> 4. Until th […truncated by emendrix: 638 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 497
+> Own funds requirements for exposures to CCPs
+> 1. Where a third-country CCP applies for recognition in accordance with Article 25 of Regulation (EU) No 648/2012, institutions may consider that CCP as a QCCP from the date on which it submitted its application for recognition to ESMA and until one of the following dates:
+> (a) where the Commission has already adopted an implementing act referred to in Article 25(6) of Regulation (EU) No 648/2012 in relation to the third country in which the CCP is established and that implementing act has entered into force, two years after the date of submission of the application;
+> (b) where the Commission has not yet adopted an implementing act referred to in Article 25(6) of Regulation (EU) No 648/2012 in relation to the third country in which the CCP is established or where that implementing act has not yet entered into force, the earlier of the following dates:
+> (i) two years after the date of entry into force of the implementing act;
+> (ii) for CCPs that submitted the application after 27 June 2019, two years after the date of submission of the application;
+> (iii) for those CCPs that submitted the application before 27 June 2019, 28 June 2021.
+> 2. Until the expiration of the deadline referred to in paragraph 1 of this Article, where a CCP referred to in that paragraph does not have a default fund and does not have in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received f […truncated by emendrix: 1206 characters omitted…]
+
+**MODIFIED · Art. 498** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 499** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 500 — Adjustment for massive disposals** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 500`, `AR 500 PA 1 ALN 1`, `AR 500 PA 1 ALN 1 PTA (a)`, `AR 500 PA 1 ALN 1 PTA (b)`, `AR 500 PA 1 ALN 1 PTA (c)`, `AR 500 PA 1 ALN 2`, `AR 500 PA 2 ALN 1`, `AR 500 PA 3`, `AR 500 PA 4`, `AR 500 PA 5`, `AR 500 PA 6` · *dates* -2000-03-20 -2007-01-01 -2010-01-01 -2017-01-01 -2017-12-31 +2016-11-23 +2022-06-28 · *amended by* `32019R0876`
+
+The article's heading and substance have both changed: the earlier version set out Basel I floor transitional own-funds requirements tied to dates of 20 March 2000, 1 January 2007, 1 January 2010 and 31 December 2017, while the later version instead addresses adjustment of LGD estimates for massive disposals of defaulted exposures, referencing dates of 23 November 2016 and 28 June 2022. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
+
+The prior paragraphs (1)-(6) concerning Basel I floor compliance, waivers by competent authorities, and a Commission reporting obligation have been replaced by new paragraphs (1) and (2) concerning conditions for LGD adjustment and a notification duty to the competent authority once a disposal threshold is met. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
+
+*before* (`02013R0575-20190426`)
+
+> Article 500
+> Transitional provisions — Basel I floor
+> 1. Until 31 December 2017, institutions calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 3 and institutions using the Advanced Measurement Approaches as specified in Part Three, Title III, Chapter 4 for the calculation of their own funds requirements for operational risk shall meet both of the following requirements:
+> (a) they shall hold own funds as required by Article 92;
+> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutionsOJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
+> 2. Subject to the approval of the competent authorities, the amount referred to in point (b) of paragraph 1 may be replaced by a requirement to hold own funds which are at all times more than or equal to 80 % of the own funds that the institution would be required to hold under Article 92 calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 2, and Part Three, Title III, Chapter 2 or 3, as applicable, instead of in accordance with Part Three, Title II, Chapter 3, or Part Three, Title III, Chapter 4, as applicable.
+> 3. A credit institution m […truncated by emendrix: 1442 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 500
+> Adjustment for massive disposals
+> 1. By way of derogation from point (a) of Article 181(1), an institution may adjust its LGD estimates by partly or fully offsetting the effect of massive disposals of defaulted exposures on realised LGDs up to the difference between the average estimated LGDs for comparable exposures in default that have not been finally liquidated and the average realised LGDs including on the basis of the losses realised due to massive disposals, as soon as all the following conditions are met:
+> (a) the institution has notified the competent authority of a plan providing the scale, composition and the dates of the disposals of defaulted exposures;
+> (b) the dates of the disposals of defaulted exposures are after 23 November 2016 but not later than 28 June 2022;
+> (c) the cumulative amount of defaulted exposures disposed of since the date of the first disposal in accordance with the plan referred to in point (a) has surpassed 20 % of the cumulative amount of all observed defaults as of the date of the first disposal referred to in points (a) and (b).
+> The adjustment referred to in the first subparagraph may only be carried out until 28 June 2022 and its effects may last for as long as the corresponding exposures are included in the institution's own LGD estimates.
+> 2. Institutions shall notify the competent authority without delay when the condition set out in point (c) of paragraph 1 has been met.
+
+**INSERTED · Art. 501a — Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
+
+Article 501a is added as a new provision, containing only paragraphs 4 and 5, which set out a Commission reporting obligation on the impact of own funds requirements on infrastructure lending and an EBA reporting obligation feeding into that Commission report. [Art. 501a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501a)
+
+The text shown is truncated and does not include any paragraphs 1 through 3 that the cross-references within it refer to. [Art. 501a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 501a
+> Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services
+> 4. The Commission shall, by 28 June 2022 report on the impact of the own funds requirements laid down in this Regulation on lending to infrastructure project entities and shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.
+> 5. For the purposes of paragraph 4, EBA shall report on the following to the Commission:
+> (a) an analysis of the evolution of the trends and conditions in markets for infrastructure lending and project finance over the period referred to in paragraph 4;
+> (b) an analysis of the effective riskiness of entities referred to in point (b) of paragraph 1 over a full economic cycle;
+> (c) the consistency of own funds requirements laid down in this Regulation with the outcomes of the analysis under points (a) and (b) of this paragraph.
+
+**INSERTED · Art. 501b — Derogation from reporting requirements** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This is a new provision allowing a competent authority to waive the requirement to report information in the format specified in the templates contained in the implementing act referred to in Article 430(7), where those templates have not been updated to reflect the Regulation's provisions. [Art. 501b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501b)
+
+The waiver applies as a derogation from Article 430 and is described as covering the period between the date of application of the relevant provisions of the Regulation and the date of the first remittance of reports specified in the implementing technical standards referred to in Article 430. [Art. 501b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 501b
+> Derogation from reporting requirements
+> By way of derogation from Article 430, during the period between the date of application of the relevant provisions of this Regulation and the date of the first remittance of reports specified in the implementing technical standards referred to in that Article, a competent authority may waive the requirement to report information in the format specified in the templates contained in the implementing act referred to in Article 430(7) where those templates have not been updated to reflect the provisions of this Regulation.
+
+**INSERTED · Art. 501c — Prudential treatment of exposures related to environmental and/or social objectives** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new article added to the regulation, setting out that EBA, after consulting the ESRB, is to assess whether a dedicated prudential treatment of exposures linked to environmental and/or social objectives is warranted, covering risk-comparison methodologies, criteria for physical and transition risks, and potential effects on financial stability and bank lending. [Art. 501c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501c)
+
+It further states that EBA is to submit a report on its findings to the European Parliament, the Council and the Commission, and that the Commission may then submit a legislative proposal to the European Parliament and the Council based on that report. [Art. 501c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501c)
+
+*after* (`02013R0575-20190627`)
+
+> Article 501c
+> Prudential treatment of exposures related to environmental and/or social objectives
+> EBA, after consulting the ESRB, shall assess, on the basis of available data and the findings of the Commission High-Level Expert Group on Sustainable Finance, whether a dedicated prudential treatment of exposures related to assets or activities associated substantially with environmental and/or social objectives would be justified. In particular, EBA shall assess:
+> (a) methodologies for the assessment of the effective riskiness of exposures related to assets and activities associated substantially with environmental and/or social objectives compared to the riskiness of other exposure;
+> (b) the development of appropriate criteria for the assessment of physical risks and transition risks, including the risks related to the depreciation of assets due to regulatory changes;
+> (c) the potential effects of a dedicated prudential treatment of exposures related to assets and activities which are associated substantially with environmental and/or social objectives on financial stability and bank lending in the Union.
+> EBA shall submit a report on its findings to the European Parliament, to the Council and to the Commission by 28 June 2025.
+> On the basis of that report, the Commission shall, if appropriate, submit to the European Parliament and to the Council a legislative proposal.
+
+**INSERTED · Art. 504a — Holdings of eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+This new provision requires EBA to report to the Commission by 28 June 2022 on the amounts and distribution of holdings of eligible liabilities instruments among institutions identified as G-SIIs or O-SIIs, and on potential impediments to resolution and the risk of contagion related to those holdings. [Art. 504a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_504a)
+
+It further provides that, based on that report, the Commission shall by 28 June 2023 report to the European Parliament and to the Council on the appropriate treatment of such holdings, accompanied by a legislative proposal where appropriate. [Art. 504a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_504a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 504a
+> Holdings of eligible liabilities instruments
+> By 28 June 2022, EBA shall report to the Commission on the amounts and distribution of holdings of eligible liabilities instruments among institutions identified as G-SIIs or O-SIIs and on potential impediments to resolution and the risk of contagion in relation to those holdings.
+> Based on the report by EBA the Commission shall, by 28 June 2023, report to the European Parliament and to the Council on the appropriate treatment of such holdings, accompanied by a legislative proposal, where appropriate.
+
+**MODIFIED · Art. 507 — Large exposures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 507 PA 1`, `AR 507 PA 2`, `AR 507 ALN 1`, `AR 507 ALN 2` · *dates* -2015-12-31 +2021-06-28 +2023-12-31 · *amended by* `32019R0876`
+
+Paragraph 1 now assigns EBA, rather than the Commission, the task of monitoring use of specified exemptions under Articles 390(6), 400(1) and 400(2) and requires it to submit a report to the Commission by 28 June 2021 assessing the quantitative impact of removing those exemptions or limiting their use, with a breakdown by Member State of exempted exposures, institutions using the exemption, and aggregate exempted amounts. [Art. 507, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_507)
+
+Paragraph 2 replaces the prior 31 December 2015 review of Article 400(1)(j) and Article 400(2) with a Commission report due by 31 December 2023 to the European Parliament and Council concerning derogations under Articles 390(4) and 401(2) on exposure value calculation methods for securities financing transactions and the relevance of international standards. [Art. 507, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_507) [Art. 507, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_507)
+
+The earlier text's separate paragraph on the national discretion under Article 400(2)(c) and its potential Union-level application no longer appears. [Art. 507, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_507)
+
+*before* (`02013R0575-20190426`)
+
+> Article 507
+> Large exposures
+> By 31 December 2015, the Commission shall review and report on the application of Article 400(1)(j) and Article 400(2), including whether the exemptions set out in Article 400(2) is to be discretionary, and shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.
+> With respect to the potential elimination of the national discretion under Article 400(2)(c) and its potential application at the Union level, the review shall in particular take into account the efficiency of group risk management while ensuring that sufficient safeguards are in place to ensure financial stability in all Member States in which an entity belonging to a group is incorporated.
+
+*after* (`02013R0575-20190627`)
+
+> Article 507
+> Large exposures
+> 1. EBA shall monitor the use of exemptions set out in point (b) of Article 390(6), points (f) to (m) of Article 400(1), point (a) and points (c) to (g), (i), (j) and (k) of Article 400(2) and by 28 June 2021 submit a report to the Commission assessing the quantitative impact that the removal of those exemptions or the setting of a limit on their use would have. That report shall assess, in particular, for each exemption provided for in those Articles:
+> (a) the number of large exposures exempted in each Member State;
+> (b) the number of institutions that make use of the exemption in each Member State;
+> (c) the aggregate amount of exposures exempted in each Member State.
+> 2. By 31 December 2023, the Commission shall submit a report to the European Parliament and to the Council on the application of the derogations referred to in Articles 390(4) and 401(2) concerning the methods for the calculation of exposure value of securities financing transactions, and in particular the need to take account of amendments in international standards determining the methods for such calculation.
+
+**MODIFIED · Art. 510 — Net Stable Funding Requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 510 PA 4`, `AR 510 PA 5`, `AR 510 PA 6`, `AR 510 PA 7`, `AR 510 PA 8`, `AR 510 PA 9`, `AR 510 PA 10`, `AR 510 PA 11` · *dates* +2021-06-28 +2023-06-28 +2024-06-28 +2025-06-28 · *amended by* `32019R0876`
+
+The later version adds eight new paragraphs, numbered 4 through 11, to a provision that previously ended at paragraph 3. [Art. 510, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_510)
+
+These added paragraphs set out further monitoring and reporting tasks for EBA and corresponding legislative-proposal obligations for the Commission concerning derivative contracts, securities financing transactions, unsecured transactions with financial customers, securities held to hedge derivatives, and precious-metals-related assets, with deadlines of 28 June 2021, 28 June 2023, 28 June 2024 and 28 June 2025 attached to the various reports and proposals. [Art. 510, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_510)
+
+None of this additional text, including the specific factor changes described in the new paragraph 8, appears in the earlier version, which contained only paragraphs 1 to 3. [Art. 510, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_510)
+
+*before* (`02013R0575-20190426`)
+
+> Article 510
+> Net Stable Funding Requirements
+> 1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.
+> 2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:
+> (a) the categories and weightings applied to sources of stable funding in Article 427(1);
+> (b) the categories and weightings applied to determine the requirement for stable funding in […truncated by emendrix: 641 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 510
+> Net Stable Funding Requirements
+> 1. By 31 December 2015, EBA shall report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III, on whether and how it would be appropriate to ensure that institutions use stable sources of funding, including an assessment of the impact on the business and risk profile of institutions established in the Union or on financial markets or the economy and bank lending, with a particular focus on lending to SMEs and on trade financing, including lending under official export credit insurance schemes and pass through financing models, including match funded mortgage lending. In particular EBA shall analyse the impact of stable sources of funding on the refinancing structures of different banking models in the Union.
+> 2. By 31 December 2015, EBA shall also report to the Commission, on the basis of the items to be reported in accordance with Part Six, Title III and, in accordance with the uniform reporting formats referred to in point (a) of Article 415(3) and after consulting the ESRB, on methodologies for determining the amount of stable funding available to and required by institutions and on appropriate uniform definitions for calculating such a net stable funding requirement, examining in particular the following:
+> (a) the categories and weightings applied to sources of stable funding in Article 427(1);
+> (b) the categories and weightings applied to determine the requirement for stable funding in […truncated by emendrix: 8362 characters omitted…]
+
+**MODIFIED · Art. 511 — Leverage** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 511 PA 1 ALN 1`, `AR 511 PA 1 ALN 1 PTA (a)`, `AR 511 PA 1 ALN 1 PTA (b)`, `AR 511 PA 2 ALN 1`, `AR 511 PA 3`, `AR 511 PA 4` · *dates* -2014-01-01 -2016-06-30 -2016-10-31 -2016-12-31 +2020-12-31 · *amended by* `32019R0876`
+
+The provision is reduced from four paragraphs covering EBA reporting deadlines, calculation methodology, and a wide list of leverage-ratio review criteria to two paragraphs, and the Commission's reporting deadline changes from 31 December 2016 to 31 December 2020. [Art. 511, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_511) [Art. 511, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_511)
+
+The new text confines the Commission's report to whether a leverage ratio surcharge for O-SIIs should be introduced and whether the definition and calculation of the total exposure measure, including treatment of central bank reserves, is appropriate, removing the earlier detailed lists of business-model, disclosure, and calibration factors and the EBA reporting obligation entirely. [Art. 511, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_511) [Art. 511, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_511)
+
+The remaining paragraph now requires the Commission to take into account international developments and internationally agreed standards, and, where appropriate, to accompany the report with a legislative proposal, replacing the prior provisions on levels of the leverage ratio, calibration, and connected flexibility measures. [Art. 511, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_511)
+
+*before* (`02013R0575-20190426`)
+
+> Article 511
+> Leverage
+> 1. Based on the results of the report referred to in paragraph 3, the Commission shall submit by 31 December 2016 a report on the impact and effectiveness of the leverage ratio to the European Parliament and the Council.
+> 2. Where appropriate, the report shall be accompanied by a legislative proposal on the introduction of an appropriate number of levels of the leverage ratio that institutions following different business models would be required to meet, suggesting an adequate calibration for those levels and any appropriate adjustments to the capital measure and the total exposure measure as referred to in Article 429, together with any connected flexibility measures if necessary, including appropriate amendments to Article 458 to introduce the leverage ratio within the scope of measures included in that Article.
+> 3. For the purposes of paragraph 1, EBA shall report to the Commission by 31 October 2016 on at least the following:
+> (a) whether the leverage ratio framework provided by this Regulation and by Articles 87 and 98 of Directive 2013/36/EU is the appropriate tool to eliminate the risk of excessive leverage on the part of the institutions in a satisfactory manner and degree;
+> (b) on identifying business models that reflect the overall risk profiles of the institutions and on introducing differentiated levels of the leverage ratio for those business models;
+> (c) whether the requirements laid out in Articles 76 and 87 of Directive 2013/36/EU in accordanc […truncated by emendrix: 4165 characters omitted…]
+
+*after* (`02013R0575-20190627`)
+
+> Article 511
+> Leverage
+> 1. The Commission shall by 31 December 2020 submit a report to the European Parliament and to the Council on whether:
+> (a) it is appropriate to introduce a leverage ratio surcharge for O-SIIs; and
+> (b) the definition and calculation of the total exposure measure referred to in Article 429(4), including the treatment of central bank reserves, is appropriate.
+> 2. For the purposes of the report referred to in paragraph 1, the Commission shall take into account international developments and internationally agreed standards. Where appropriate, that report shall be accompanied by a legislative proposal.
+
+**MODIFIED · Art. 513 — Macroprudential rules** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 513 PA 1 ALN 1`, `AR 513 PA 1 ALN 1 PTA (a)`, `AR 513 PA 1 ALN 1 PTA (b)`, `AR 513 PA 1 ALN 1 PTA (c)`, `AR 513 PA 1 ALN 1 PTA (d)`, `AR 513 PA 1 ALN 1 PTA (e)`, `AR 513 PA 1 ALN 1 PTA (f)`, `AR 513 PA 1 ALN 1 PTA (g)`, `AR 513 PA 2 ALN 1` · *dates* -2014-06-30 -2014-12-31 +2022-06-30 +2022-12-31 · *amended by* `32019R0876`
+
+The review dates in paragraphs 1 and 2 are moved from 30 June 2014 and 31 December 2014 to 30 June 2022 and 31 December 2022, with each review now recurring every five years thereafter rather than being a one-off exercise. [Art. 513, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_513) [Art. 513, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_513)
+
+Paragraph 1's list of matters the Commission must assess is expanded, adding new points on borrower-based instruments, extension and calibration of the leverage ratio buffer requirement, mandatory versus voluntary reciprocity of macroprudential measures, and tools to address systemic risks arising from exposures to the non-banking sector, while the wording of the original points (a) to (c) is only slightly rephrased. [Art. 513, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_513)
+
+Paragraph 2 also changes the phrasing describing consultation with the ESRB and EBA and reporting to the European Parliament and the Council, without altering their substance beyond the date change already noted. [Art. 513, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_513) [Art. 513, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_513)
+
+*before* (`02013R0575-20190426`)
+
+> Article 513
+> Macroprudential rules
+> 1. By 30 June 2014, the Commission shall, after consulting the ESRB and EBA, review whether the macroprudential rules contained in this Regulation and Directive 2013/36/EU are sufficient to mitigate systemic risks in sectors, regions and Member States including assessing:
+> (a) whether the current macroprudential tools in this Regulation and Directive 2013/36/EU are effective, efficient and transparent;
+> (b) whether the coverage and the possible degrees of overlap between different macroprudential tools for targeting similar risks in this Regulation and Directive 2013/36/EU are adequate and, if appropriate, propose new macroprudential rules;
+> (c) how internationally agreed standards for systemic institutions interacts with the provisions in this Regulation and Directive 2013/36/EU and, if appropriate, propose new rules taking into account those internationally agreed standards.
+> 2. By 31 December 2014, the Commission shall, on the basis of the consultation of the ESRB and EBA, report to the European Parliament and the Council on the assessment referred to in paragraph 1 and, where appropriate, submit a legislative proposal to the European Parliament and the Council.
+
+*after* (`02013R0575-20190627`)
+
+> Article 513
+> Macroprudential rules
+> 1. By 30 June 2022, and every five years thereafter, the Commission shall, after consulting the ESRB and EBA, review whether the macroprudential rules contained in this Regulation and in Directive 2013/36/EU are sufficient to mitigate systemic risks in sectors, regions and Member States including assessing:
+> (a) whether the current macroprudential tools in this Regulation and in Directive 2013/36/EU are effective, efficient and transparent;
+> (b) whether the coverage and the possible degrees of overlap between different macroprudential tools for targeting similar risks in this Regulation and in Directive 2013/36/EU are adequate and, if appropriate, propose new macroprudential rules;
+> (c) how internationally agreed standards for systemic institutions interact with the provisions in this Regulation and in Directive 2013/36/EU and, if appropriate, propose new rules taking into account those internationally agreed standards;
+> (d) whether other types of instruments, such as borrower-based instruments, should be added to the macroprudential tools provided for in this Regulation and in Directive 2013/36/EU to complement capital-based instruments and to allow for the harmonised use of the instruments in the internal market; taking into account whether harmonised definitions of those instruments and the reporting of respective data at Union level are a prerequisite for the introduction of such instruments;
+> (e) whether the leverage ratio buffer requirement […truncated by emendrix: 1167 characters omitted…]
+
+**MODIFIED · Art. 514 — Method for the calculation of the exposure value of derivative transactions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 514`, `AR 514 PA 1`, `AR 514 ALN 1` · *dates* -2016-12-31 +2023-06-28 · *amended by* `32019R0876`
+
+The article's heading changed from referring to counterparty credit risk and the Original Exposure Method to referring to the method for calculating the exposure value of derivative transactions. [Art. 514, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_514) [Art. 514, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_514)
+
+The obligation was reassigned from the Commission reviewing and reporting on the application of Article 275 by 31 December 2016 to EBA reporting to the Commission by 28 June 2023 on the impact and relative calibration of the approaches in Sections 3, 4 and 5 of Chapter 6 of Title II of Part Three for calculating exposure values of derivative transactions. [Art. 514, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_514) [Art. 514, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_514)
+
+The later text also introduces a numbered subparagraph (1) where the earlier text had none. [Art. 514, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_514)
+
+*before* (`02013R0575-20190426`)
+
+> Article 514
+> Counterparty credit risk and the Original Exposure Method
+> By 31 December 2016, the Commission shall review and report on the application of Article 275 and shall submit that report to the European Parliament and the Council, and, if appropriate, a legislative proposal.
+
+*after* (`02013R0575-20190627`)
+
+> Article 514
+> Method for the calculation of the exposure value of derivative transactions
+> 1. EBA shall, by 28 June 2023, report to the Commission on the impact and the relative calibration of the approaches set out in Sections 3, 4 and 5 of Chapter 6 of Title II of Part Three to calculate the exposure values of derivative transactions.
+
+**INSERTED · Art. 518a — Review of cross-default provisions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 518a has been added, requiring the Commission to review and assess by 28 June 2022 whether eligible liabilities should be able to be bailed-in without triggering cross-default clauses in other contracts, and whether a no-cross-default provision referring to eligible liabilities should be included in the terms governing other liabilities. [Art. 518a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_518a)
+
+The new article also states that, where appropriate, this review and assessment shall be accompanied by a legislative proposal. [Art. 518a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_518a)
+
+*after* (`02013R0575-20190627`)
+
+> Article 518a
+> Review of cross-default provisions
+> By 28 June 2022, the Commission shall review and assess whether it is appropriate to require that eligible liabilities may be bailed-in without triggering cross-default clauses in other contracts, with a view to reinforcing as much as possible the effectiveness of the bail-in tool and to assessing whether a no-cross-default provision referring to eligible liabilities should be included in the terms or contracts governing other liabilities. Where appropriate, that review and assessment shall be accompanied by a legislative proposal.
+
+**INSERTED · Art. 519b — Own funds requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+A new Article 519b has been added, setting out two reporting obligations: EBA is to report by 30 September 2019 on the impact on Union institutions of international standards for calculating own funds requirements for market risk. [Art. 519b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_519b)
+
+It further provides that, by 30 June 2020, the Commission is to submit a report, together with a legislative proposal where appropriate, to the European Parliament and the Council on implementing international standards on own funds requirements for market risk, taking into account the EBA report and the approaches in Chapters 1a and 1b of Title IV of Part Three. [Art. 519b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_519b)
+
+*after* (`02013R0575-20190627`)
+
+> Article 519b
+> Own funds requirements for market risk
+> 1. By 30 September 2019, EBA shall report on the impact, on institutions in the Union, of international standards to calculate the own funds requirements for market risk.
+> 2. By 30 June 2020, the Commission shall, taking into account the results of the report referred to in paragraph 1 and the international standards and the approaches set out in Chapters 1a and 1b of Title IV of Part Three, submit a report together with a legislative proposal, where appropriate, to the European Parliament and to the Council on how to implement international standards on adequate own funds requirements for market risk.
+
+**INSERTED · Art. 519c — Compliance tool** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly added article establishing a Compliance tool, requiring EBA to develop an electronic tool intended to help institutions comply with the Regulation, Directive 2013/36/EU, and related regulatory technical standards, implementing technical standards, guidelines and templates. [Art. 519c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_519c)
+
+The article further specifies that the tool must at least allow each institution to quickly identify provisions relevant to its size and business model, and to track changes in legislative acts and related implementing provisions, guidelines and templates. [Art. 519c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_519c)
+
+*after* (`02013R0575-20190627`)
+
+> Article 519c
+> Compliance tool
+> 1. EBA shall develop an electronic tool aimed at facilitating institutions' compliance with this Regulation and Directive 2013/36/EU, as well as with regulatory technical standards, implementing technical standards, guidelines and templates adopted to implement this Regulation and that Directive.
+> 2. The tool referred to in paragraph 1 shall at least enable each institution to:
+> (a) rapidly identify the relevant provisions to comply with in relation to the institution's size and business model;
+> (b) follow the changes made in legislative acts and in the related implementing provisions, guidelines and templates.
+
+**MODIFIED · TIT** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · PRT 2** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · PRT 3** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · PRT 7** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · PRT 8** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · PRT 10** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · SCT 1** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · SCT 2** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · SCT 3** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · CHA 5a** · applies from: unknown
+
+*amended by* `32019R0876`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190627 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190426 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20190101` → `02013R0575-20190426`
