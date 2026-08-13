@@ -10,6 +10,85 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20201114 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20201028` → `02008R1272-20201114`
+
+- **Act** `eu:32008R1272` · **In force** 2020-11-14 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20201028` · `v2` = `02008R1272-20201114`
+
+---
+
+**MODIFIED · Art. 25 — Supplemental information on the label** · applies from: unchanged
+
+*within* `AR 25 PA 8` · *amended by* `32020R1676`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20201028`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1 and 2, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1) (a) to (g) and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any other statements that […truncated by emendrix: 1065 characters omitted…]
+
+*after* (`02008R1272-20201114`)
+
+> Article 25
+> Supplemental information on the label
+> 1. Statements shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous has the physical properties or health properties referred to in sections 1.1 and 1.2 of Annex II.
+> The statements shall be worded in accordance with sections 1.1 and 1.2 of Annex II and Part 2 of Annex III.
+> Where a substance is included in Part 3 of Annex VI, any supplemental hazard statements given therein for the substance shall be included in the supplemental information on the label.
+> 2. A statement shall be included in the section for supplemental information on the label where a substance or mixture classified as hazardous falls within the scope of Directive 91/414/EEC.
+> The statement shall be worded in accordance with Part 4 of Annex II and Part 3 of Annex III to this Regulation.
+> 3. The supplier may include supplemental information in the section for supplemental information on the label other than that referred to in paragraphs 1 and 2, provided that that information does not make it more difficult to identify the label elements referred to in Article 17(1) (a) to (g) and that it provides further details and does not contradict or cast doubt on the validity of the information specified by those elements.
+> 4. Statements such as non-toxic, non-harmful, non-polluting, ecological or any other statements indicating that the substance or mixture is not hazardous or any other statements that […truncated by emendrix: 2263 characters omitted…]
+
+**MODIFIED · Annex VIII — HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES** · applies from: unchanged
+
+*within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 1 SCT 1.1`, `AN VIII SCT 1 SCT 1.2`, `AN VIII SCT 1 SCT 1.3`, `AN VIII SCT 1 SCT 1.4`, `AN VIII SCT 1 SCT 1.5`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 1`, `AN VIII SCT 2 PO 2`, `AN VIII SCT 2 PO 3`, `AN VIII SCT 2 PO 4`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 SCT 2.1`, `AN VIII SCT 2 SCT 2.2`, `AN VIII SCT 2 SCT 2.3`, `AN VIII SCT 2 SCT 2.4`, `AN VIII SCT 3`, `AN VIII SCT 3 SCT 3.1`, `AN VIII SCT 3 SCT 3.2`, `AN VIII SCT 3 SCT 3.3`, `AN VIII SCT 3 SCT 3.4`, `AN VIII SCT 3 SCT 3.5`, `AN VIII SCT 4`, `AN VIII SCT 4 SCT 4.1`, `AN VIII SCT 4 SCT 4.2`, `AN VIII SCT 4 SCT 4.3`, `AN VIII SCT 4 SCT 4.4`, `AN VIII SCT 5`, `AN VIII SCT 5 SCT 5.1`, `AN VIII SCT 5 SCT 5.2`, `AN VIII SCT 5 SCT 5.3`, `AN VIII SCT 6`, `AN VIII SCT 6 SCT 6.1`, `AN VIII SCT 6 SCT 6.2`, `AN VIII SCT 1.2`, `AN VIII SCT 2.1`, `AN VIII SCT 2.2`, `AN VIII SCT 2.4`, `AN VIII SCT 3.1`, `AN VIII SCT 3.1 SCT 3.1.1`, `AN VIII SCT 3.2 SCT 3.2.1`, `AN VIII SCT 3.2 SCT 3.2.2`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (a)`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (b)`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (c)`, `AN VIII SCT 3.2 SCT 3.2.3`, `AN VIII SCT 3.4 SCT 3.4.1`, `AN VIII SCT 3.4 SCT 3.4.2`, `AN VIII SCT 3.5`, `AN VIII SCT 3.5 PTA (a)`, `AN VIII SCT 3.5 PTA (b)`, `AN VIII SCT 3.5 PTA (c)`, `AN VIII SCT 3.5 PTA (d)`, `AN VIII SCT 3.5 SCT 3.5.1`, `AN VIII SCT 3.5 SCT 3.5.2`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 3.8`, `AN VIII SCT 4.1`, `AN VIII SCT 4.1 PTA (c)`, `AN VIII SCT 1.4` · *amended by* `32020R1677`
+
+*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+
+*before* (`02008R1272-20201028`)
+
+> ANNEX VIII
+> Harmonised information relating to emergency health response and preventative measures
+> PART A
+> GENERAL REQUIREMENTS
+> 1. Application
+> 1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers and downstream users placing on the market mixtures for industrial use within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.
+> 2. Purpose, definitions and scope
+> 2.1. This Annex sets out the requirements that importers and downstream users placing mixtures on the market, hereina […truncated by emendrix: 20229 characters omitted…]
+
+*after* (`02008R1272-20201114`)
+
+> ANNEX VIII
+> HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES
+> PART A
+> GENERAL REQUIREMENTS
+> 1. APPLICATION
+> 1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers and downstream users placing on the market mixtures for industrial use or mixtures with an end use not subject to notification within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.
+> 2. PURPOSE, SCOPE AND DEFINITIONS
+> 2.1. This Annex sets out the requirements that importers and […truncated by emendrix: 41268 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20201114 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20201028 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20201017` → `02008R1272-20201028`
