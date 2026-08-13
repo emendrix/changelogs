@@ -10,6 +10,484 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20260117 -->
+## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
+### `02014R0909-20250117` → `02014R0909-20260117`
+
+- **Act** `eu:32014R0909` · **In force** 2026-01-17 · **Detected** 2026-08-13
+- **Touched** 36 provisions — 36 substantive · 0 date-only · **32 disputed**
+- **Diff** 5 inserted · 30 modified · 1 deleted · 0 renumbered · 0 deferred · 78 unchanged
+- **Gate** 0 sentences quoted verbatim · 31 changes shipped without an explanation
+- **Citations** `v1` = `02014R0909-20250117` · `v2` = `02014R0909-20260117`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 7 — Measures to address settlement fails** · applies from: unchanged
+
+*within* `AR 7 PA 3 ALN 1 PTA (a)`, `AR 7 PA 3 ALN 1 PTA (b)` · *amended by* `32023R2845`
+
+Paragraph 3 now includes two additional exemptions from the penalty mechanism, covering settlement fails whose underlying cause is not attributable to the participants in the transaction, and operations that are not considered as trading. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_7)
+
+In the earlier version, paragraph 3 listed only the exemptions for transactions where the failing participant is a CCP and for transactions where insolvency proceedings are opened against the failing participant. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_7)
+
+*before* (`02014R0909-20250117`)
+
+> Article 7
+> Measures to address settlement fails
+> 1. For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
+> 2. For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
+> Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
+> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5278 characters omitted…]
+
+*after* (`02014R0909-20260117`)
+
+> Article 7
+> Measures to address settlement fails
+> 1. For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
+> 2. For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
+> Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
+> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5440 characters omitted…]
+
+**MODIFIED · Art. 12** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 20** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 22** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 22a** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 24** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 24a** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25 — Third countries** · applies from: unchanged
+
+*within* `AR 25 PA 2a` · *amended by* `32023R2845`
+
+A new paragraph 2a has been added, requiring a third-country CSD that intends to provide the core service referred to in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State to notify ESMA of this, with ESMA in turn informing the competent authority of that Member State of the notification received. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
+
+The prior version of the article, which already referenced paragraph 2a in paragraph 13 without defining it in the operative text, did not contain this paragraph 2a. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_25)
+
+*before* (`02014R0909-20250117`)
+
+> Article 25
+> Third countries
+> 1. Third-country CSDs may provide services referred to in the Annex within the territory of the Union, including through setting up a branch.
+> 2. Notwithstanding paragraph 1, a third-country CSD that intends to provide the core services referred to in points (1) and (2) of Section A of the Annex in relation to financial instruments constituted under the law of a Member State referred to in the second subparagraph of Article 49(1) or to set up a branch in a Member State shall be subject to the procedure referred to in paragraphs 4 to 11 of this Article.
+> 3. A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with Article 48.
+> 4. After consulting the authorities referred to in paragraph 5, ESMA may recognise a third-country CSD that has applied for recognition to provide the services referred to in paragraph 2, where the following conditions are met:
+> (a) the Commission has adopted a decision in accordance with paragraph 9;
+> (b) the third-country CSD is subject to effective authorisation, supervision and oversight or, if the securities settlement system is operated by a central bank, oversight, ensuring full compliance with the prudential requirements applicable in that third country;
+> (c) cooperation arrangements between ESMA and the responsible authorities in that third country (responsible third-country authorities) have been established pursuant to paragraph 10;
+> (d) where relevant, the th […truncated by emendrix: 8018 characters omitted…]
+
+*after* (`02014R0909-20260117`)
+
+> Article 25
+> Third countries
+> 1. Third-country CSDs may provide services referred to in the Annex within the territory of the Union, including through setting up a branch.
+> 2. Notwithstanding paragraph 1, a third-country CSD that intends to provide the core services referred to in points (1) and (2) of Section A of the Annex in relation to financial instruments constituted under the law of a Member State referred to in the second subparagraph of Article 49(1) or to set up a branch in a Member State shall be subject to the procedure referred to in paragraphs 4 to 11 of this Article.
+> 2a. A third-country CSD that intends to provide the core service referred to in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State referred to in Article 49(1), second subparagraph, shall notify ESMA thereof. ESMA shall inform the competent authority of the Member State under whose law the financial instruments are constituted of the notification received.
+> 3. A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with Article 48.
+> 4. After consulting the authorities referred to in paragraph 5, ESMA may recognise a third-country CSD that has applied for recognition to provide the services referred to in paragraph 2, where the following conditions are met:
+> (a) the Commission has adopted a decision in accordance with paragraph 9;
+> (b) the third-country CSD is subject to effective aut […truncated by emendrix: 8440 characters omitted…]
+
+**MODIFIED · Art. 26** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 27** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 27a** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 27b** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 27c** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 28** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 36** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47a — Deferred net settlement** · applies from: unchanged
+
+*within* `AR 47a PA 1`, `AR 47a PA 2` · *amended by* `32023R2845`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says MODIFIED, the instruction parse says INSERTED
+
+The after text adds two new paragraphs, numbered 1 and 2, ahead of the existing paragraph 3. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
+
+Paragraph 1 requires CSDs applying deferred net settlement to define rules and procedures for that mechanism and for settling participants' net claims and obligations, and paragraph 2 requires such CSDs to measure, monitor, manage and report credit and liquidity risks arising from that mechanism to the competent authorities. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
+
+The prior version of the article, which contained only the paragraph on ESMA's development of draft regulatory technical standards, did not include these two paragraphs. [Art. 47a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_47a)
+
+*before* (`02014R0909-20250117`)
+
+> Article 47a
+> Deferred net settlement
+> 3. ESMA shall, in close cooperation with EBA and the members of the ESCB, develop draft regulatory technical standards to specify the details of the measuring, monitoring, management and reporting of the credit and liquidity risks by CSDs in relation to deferred net settlement.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+*after* (`02014R0909-20260117`)
+
+> Article 47a
+> Deferred net settlement
+> 1. CSDs that apply deferred net settlement shall define the rules and procedures applicable to that mechanism and to the settlement of participants’ net claims and obligations.
+> 2. CSDs that apply deferred net settlement shall measure, monitor, manage and report to the competent authorities the credit and liquidity risks arising from that mechanism.
+> 3. ESMA shall, in close cooperation with EBA and the members of the ESCB, develop draft regulatory technical standards to specify the details of the measuring, monitoring, management and reporting of the credit and liquidity risks by CSDs in relation to deferred net settlement.
+> ESMA shall submit those draft regulatory technical standards to the Commission by 17 January 2025.
+> Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+**MODIFIED · Art. 49** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 52** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 54 — Authorisation and designation to provide banking-type ancillary services** · applies from: unchanged
+
+*within* `AR 54 PA 5 ALN 1`, `AR 54 PA 5 ALN 2`, `AR 54 PA 6 ALN 1`, `AR 54 PA 7 ALN 1` · *amended by* `32023R2845`
+
+Paragraph 5 now exempts credit institutions under paragraph 2a, point (a), from paragraph 4 and also exempts credit institutions and CSDs under paragraph 2a from paragraph 4a, replacing the earlier fixed one per cent and EUR 2.5 billion cap with a threshold to be determined under paragraph 9, and it changes the exceeded-threshold referral from paragraph 4 to paragraph 2 while adding that the competent authority must transmit findings, together with underlying data, to both ESMA and EBA and also to the members of the ESCB. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+
+Paragraph 6 is restated to let the competent authority require designation of more than one credit institution or of a CSD referred to in paragraph 2a, or designation of a credit institution or CSD alongside self-provision under paragraph 2, rather than referring only to credit institutions and to point (a) of paragraph 2 as before, and it drops the closing sentence that designated credit institutions are considered settlement agents. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+
+Paragraph 7 now refers to a credit institution designated in accordance with paragraph 2a, point (a), instead of point (b) of paragraph 2. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+
+*before* (`02014R0909-20250117`)
+
+> Article 54
+> Authorisation and designation to provide banking-type ancillary services
+> 1. A CSD shall not itself provide any banking-type ancillary services set out in Section C of the Annex unless it has obtained an additional authorisation to provide such services in accordance with this Article.
+> 2. A CSD that intends to settle the cash payments for all or part of its securities settlement systems through its own accounts in accordance with Article 40(2) or that otherwise intends to provide any banking-type ancillary services referred to in paragraph 1 shall be authorised under the conditions specified in paragraphs 3, 6, 7, 8 and 9a of this Article.
+> 2a. A CSD that intends to settle the cash payments for all or part of its securities settlement systems through accounts opened with a credit institution or with a CSD in accordance with Article 40(2) shall be authorised, under the conditions specified in paragraphs 3 to 9a of this Article, to designate for that purpose one or more:
+> (a) credit institutions authorised in accordance with Article 8 of Directive 2013/36/EU; or
+> (b) CSDs authorised to provide banking-type ancillary services pursuant to paragraph 3 of this Article.
+> An authorisation to designate credit institutions or CSDs in accordance with the first subparagraph shall only be used with regard to the banking-type ancillary services referred to in Section C of the Annex for the settlement of the cash payments for all or part of the securities settlement systems of the CSD […truncated by emendrix: 8228 characters omitted…]
+
+*after* (`02014R0909-20260117`)
+
+> Article 54
+> Authorisation and designation to provide banking-type ancillary services
+> 1. A CSD shall not itself provide any banking-type ancillary services set out in Section C of the Annex unless it has obtained an additional authorisation to provide such services in accordance with this Article.
+> 2. A CSD that intends to settle the cash payments for all or part of its securities settlement systems through its own accounts in accordance with Article 40(2) or that otherwise intends to provide any banking-type ancillary services referred to in paragraph 1 shall be authorised under the conditions specified in paragraphs 3, 6, 7, 8 and 9a of this Article.
+> 2a. A CSD that intends to settle the cash payments for all or part of its securities settlement systems through accounts opened with a credit institution or with a CSD in accordance with Article 40(2) shall be authorised, under the conditions specified in paragraphs 3 to 9a of this Article, to designate for that purpose one or more:
+> (a) credit institutions authorised in accordance with Article 8 of Directive 2013/36/EU; or
+> (b) CSDs authorised to provide banking-type ancillary services pursuant to paragraph 3 of this Article.
+> An authorisation to designate credit institutions or CSDs in accordance with the first subparagraph shall only be used with regard to the banking-type ancillary services referred to in Section C of the Annex for the settlement of the cash payments for all or part of the securities settlement systems of the CSD […truncated by emendrix: 8466 characters omitted…]
+
+**MODIFIED · Art. 55** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 59 — Prudential requirements applicable to credit institutions or CSDs authorised to provide banking-type ancillary services** · applies from: unchanged
+
+*within* `AR 59 PA 4 ALN 1 PTA (c)`, `AR 59 PA 4 ALN 1 PTA (d)`, `AR 59 PA 4 ALN 1 PTA (e)`, `AR 59 PA 4 ALN 1 PTA (i)` · *amended by* `32023R2845`
+
+Point (c) now refers to maintaining sufficient qualifying liquid resources rather than merely having sufficient liquid resources, and it changes the reference stress scenario from the default of at least one participant to the default of at least two participants, while also dropping the phrase 'but not limited to' before the listed scenario. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+
+Point (d) now specifies 'each relevant currency' instead of 'each currency', and point (e) now conditions the selection of creditworthy financial institutions on the use of prearranged and highly reliable funding arrangements, committed lines of credit or similar arrangements, rather than simply on the use of prearranged funding arrangements. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+
+Point (i) now describes the arrangements as ensuring the ability to convert collateral from a defaulting client into cash in a timely fashion, rather than to liquidate that collateral, and adds a requirement that, where non-committed arrangements are used, any associated potential risks have been identified and mitigated. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+
+*before* (`02014R0909-20250117`)
+
+> Article 59
+> Prudential requirements applicable to credit institutions or CSDs authorised to provide banking-type ancillary services
+> 1. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall provide only the services set out in Section C of the Annex that are covered by the authorisation.
+> 2. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with any present or future legislation applicable to credit institutions.
+> 3. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with the following specific prudential requirements for the credit risks related to those services in respect of each securities settlement system:
+> (a) it shall establish a robust framework to manage the corresponding credit risks;
+> (b) it shall identify the sources of such credit risks, frequently and regularly, measure and monitor corresponding credit exposures and use appropriate risk-management tools to control those risks;
+> (c) it shall fully cover corresponding credit exposures to individual borrowing participants using collateral and other equivalent financial resources;
+> (d) if collateral is used to manage its corresponding credit risk, it shall accept highly […truncated by emendrix: 5288 characters omitted…]
+
+*after* (`02014R0909-20260117`)
+
+> Article 59
+> Prudential requirements applicable to credit institutions or CSDs authorised to provide banking-type ancillary services
+> 1. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall provide only the services set out in Section C of the Annex that are covered by the authorisation.
+> 2. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with any present or future legislation applicable to credit institutions.
+> 3. A credit institution designated under point (b) of Article 54(2) or a CSD authorised under point (a) of Article 54(2) to provide banking-type ancillary services shall comply with the following specific prudential requirements for the credit risks related to those services in respect of each securities settlement system:
+> (a) it shall establish a robust framework to manage the corresponding credit risks;
+> (b) it shall identify the sources of such credit risks, frequently and regularly, measure and monitor corresponding credit exposures and use appropriate risk-management tools to control those risks;
+> (c) it shall fully cover corresponding credit exposures to individual borrowing participants using collateral and other equivalent financial resources;
+> (d) if collateral is used to manage its corresponding credit risk, it shall accept highly […truncated by emendrix: 5503 characters omitted…]
+
+**MODIFIED · Art. 60** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 67** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 68** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 69** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 72** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 74** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 75** · applies from: unknown
+
+*amended by* `32023R2845`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0909-20260117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0909-20250117 -->
 ## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
 ### `02014R0909-20240501` → `02014R0909-20250117`
