@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20231128 -->
+## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
+### `02012R0978-20230101` → `02012R0978-20231128`
+
+- **Act** `eu:32012R0978` · **In force** 2023-11-28 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 42 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0978-20230101` · `v2` = `02012R0978-20231128`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32023R2663`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DEFERRED · Art. 43 — Article 43** · applies from: 2027-12-31
+
+*within* `AR 43 PA 3 ALN 1` · *dates* -2023-12-31 +2027-12-31 · *amended by* `32023R2663`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The date until which the scheme applies in paragraph 3 changes from 31 December 2023 to 31 December 2027, with the rest of the article's wording unchanged. [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0978-20231128#art_43)
+
+*before* (`02012R0978-20230101`)
+
+> Article 43
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 20 November 2012.
+> However, the tariff preferences provided under the preferential arrangements referred to in Article 1(2) shall apply from 1 January 2014.
+> 3. The scheme shall apply until 31 December 2023. However, the expiry date shall neither apply to the special arrangement for the least-developed countries, nor, to the extent that they are applied in conjunction with that arrangement, to any other provisions of this Regulation.
+
+*after* (`02012R0978-20231128`)
+
+> Article 43
+> 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+> 2. It shall apply from 20 November 2012.
+> However, the tariff preferences provided under the preferential arrangements referred to in Article 1(2) shall apply from 1 January 2014.
+> 3. The scheme shall apply until 31 December 2027. However, the expiry date shall neither apply to the special arrangement for the least-developed countries, nor, to the extent that they are applied in conjunction with that arrangement, to any other provisions of this Regulation.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0978-20231128 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0978-20230101 -->
 ## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
 ### `02012R0978-20220101` → `02012R0978-20230101`
