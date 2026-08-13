@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20180711 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20171225` → `02009R1223-20180711`
+
+- **Act** `eu:32009R1223` · **In force** 2018-07-11 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20171225` · `v2` = `02009R1223-20180711`
+
+---
+
+**MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN VI` · *amended by* `32018R0885`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory notes now include an additional sentence stating that where Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and its nano form are used together, the combined amount must not exceed the maximum concentration listed in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI)
+
+A new entry numbered 23a for Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano) has been added alongside the existing entry 23, with its own restriction against use in applications that may expose the end user's lungs by inhalation and a set of purity, solubility, partition coefficient, coating and particle size conditions for the nanomaterial. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI)
+
+*before* (`02009R1223-20171225`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 […truncated by emendrix: 4866 characters omitted…]
+
+*after* (`02009R1223-20180711`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Reference number Substance identification Conditions Wording of conditions of use and warnings
+> Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
+> a b c d e f g h i
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
+> 5 Moved or deleted
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 5770 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20180711 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20171225 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20170903` → `02009R1223-20171225`

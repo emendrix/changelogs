@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1223",
+    "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+  },
+  "from_version": "02009R1223-20171225",
+  "to_version": "02009R1223-20180711",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2018-07-11"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 49,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1223",
+            "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+          },
+          "version": "02009R1223-20180711",
+          "location": "AN VI"
+        },
+        "heading": "LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS",
+        "before": "ANNEX VI\nLIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS\nNot required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.\nReference number Substance identification Conditions Wording of conditions of use and warnings\nChemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other\na b c d e f g h i\n1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3\n5 Moved or deleted\n6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as acid) 10 2-Cyano-3,3-diphenyl acrylic acid, 2-ethylhexyl ester/Octocrilene Octocrylene 6197-30-4 228-250-8 10 % (as acid) 11 Polymer of N-{(2 and 4)-[(2-oxoborn-3-ylidene)methyl]benzyl} acrylamide Polyacrylamidomethyl Benzylidene Camphor 113783-61-2 6 % 12 2-Ethylhexyl 4-methoxycinnamate/Octinoxate Ethylhexyl Methoxycinnamate 5466-77-3 226-775-7 10 % 13 Ethoxylated ethyl-4-aminobenzoate PEG-25 PABA 116242-27-4 10 % 14 Isopentyl-4-methoxycinnamate/Amiloxate Isoamyl p-Methoxycinnamate 71617-10-2 275-702-5 10 % 15 2,4,6-Trianilino-(p-carbo-2'-ethylhexyl-1'-oxy)-1,3,5-triazine Ethylhexyl Triazone 88122-99-0 402-070-1 5 % 16 Phenol,2-(2H-benzotriazol-2-yl)-4-methyl-6-(2-methyl-3-(1,3,3,3-tetramethyl-1-(trimethylsilyl)oxy)-disiloxanyl)propyl) Drometrizole Trisiloxane 155633-54-8 15 % 17 Benzoic acid, 4,4-((6-((4-(((1,1-dimethylethyl)amino)carbonyl)phenyl)amino)-1,3,5-triazine-2,4-diyl)diimino)bis-, bis (2-ethylhexyl) ester/Iscotrizinol (USAN) Diethylhexyl Butamido Triazone 154702-15-5 10 % 18 3-(4-Methylbenzylidene)-d1 camphor/Enzacamene 4-Methylbenzylidene Camphor 38102-62-4/36861-47-9 - / 253-242-6 4 % 19 3-Benzylidene camphor 3-Benzylidene Camphor 15087-24-8 239-139-9 2 % 20 2-Ethylhexyl salicylate/Octisalate Ethylhexyl Salicylate 118-60-5 204-263-4 5 % 21 2-Ethylhexyl 4-(dimethylamino)benzoate/Padimate O (USAN:BAN) Ethylhexyl Dimethyl PABA 21245-02-3 244-289-3 8 % 22 2-Hydroxy-4-methoxybenzophenone-5-sulfonic acid and its sodium salt/Sulisobenzone Benzophenone-4, Benzophenone-5 4065-45-6/6628-37-1 223-772-2 / - 5 % (as acid) 23 2,2'-Methylene-bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethyl-butyl)phenol) / Bisoctrizole Methylene Bis-Benzotriazolyl Tetramethylbutylphenol 103597-45-1 403-800-1 10 % 24 Sodium salt of 2,2'-bis(1,4-phenylene)-1H-benzimidazole-4,6-disulfonic acid) / Bisdisulizole disodium (USAN) Disodium Phenyl Dibenzimidazole Tetrasulfonate 180898-37-7 429-750-0 10 % (as acid) 25 2,2'-(6-(4-Methoxyphenyl)-1,3,5-triazine-2,4-diyl)bis(5-((2-ethylhexyl)oxy)phenol) / Bemotrizinol Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine 187393-00-6 10 % 26 Dimethicodiethylbenzalmalonate Polysilicone-15 207574-74-1 426-000-4 10 % 27 Titanium dioxide Titanium Dioxide 13463-67-7/\n1317-70-0/\n1317-80-2 236-675-5/\n215-280-1/\n215-282-2 25 % 27a Titanium dioxide Titanium Dioxide (nano) 13463-67-7/\n1317-70-0/\n1317-80-2 236-675-5/\n215-280-1/\n215-282-2 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 99 %,\nrutile form, or rutile with up to 5 % anatase, with crystalline structure and physical appearance as clusters of spherical, needle, or lanceolate shapes,\nmedian particle size based on number size distribution ≥ 30 nm,\naspect ratio from 1 to 4,5, and volume specific surface area ≤ 460 m2/cm3,\ncoated with Silica, Hydrated Silica, Alumina, Aluminium Hydroxide, Aluminium Stearate, Stearic Acid, Trimethoxycaprylylsilane, Glycerin, Dimethicone, Hydrogen Dimethicone, Simethicone;\nphotocatalytic activity ≤ 10 % compared to corresponding non-coated or non-doped reference,\nnanoparticles are photostable in the final formulation. 28 Benzoic acid, 2-[-4-(diethylamino)-2-hydroxybenzoyl]-. Hexylester Diethylamino Hydroxy benzoyl Hexyl Benzoate 302776-68-7 443-860-6 10 % 29 1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, including as nanomaterial Tris-biphenyl triazine\nTris-biphenyl triazine (nano) 31274-51-8 — 10 % Not to be used in sprays.\nOnly nanomaterials having the following characteristics are allowed:\nmedian primary particle size > 80 nm;\nPurity ≥ 98 %;\nUncoated 30 Zinc oxide Zinc Oxide 1314-13-2 215-222-5 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation. 30a Zinc oxide Zinc Oxide (nano) 1314-13-2 215-222-5 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 96 %, with wurtzite crystalline structure and physical appearance as clusters that are rod-like, star-like and/or isometric shapes, with impurities consisting only of carbon dioxide and water, whilst any other impurities are less than 1 % in total,\nmedian diameter of the particle number size distribution D50 (50 % of the number below this diameter) > 30 nm and D1 (1 % below this size) > 20 nm,\nwater solubility < 50 mg/L\nuncoated, or coated with triethoxycaprylylsilane, dimethicone, dimethoxydiphenylsilanetriethoxycaprylylsilane cross-polymer, or octyl triethoxy silane. ",
+        "after": "ANNEX VI\nLIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS\nNot required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.\nReference number Substance identification Conditions Wording of conditions of use and warnings\nChemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other\na b c d e f g h i\n1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3\n5 Moved or deleted\n6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as acid) 10 2-Cyano-3,3-diphenyl acrylic acid, 2-ethylhexyl ester/Octocrilene Octocrylene 6197-30-4 228-250-8 10 % (as acid) 11 Polymer of N-{(2 and 4)-[(2-oxoborn-3-ylidene)methyl]benzyl} acrylamide Polyacrylamidomethyl Benzylidene Camphor 113783-61-2 6 % 12 2-Ethylhexyl 4-methoxycinnamate/Octinoxate Ethylhexyl Methoxycinnamate 5466-77-3 226-775-7 10 % 13 Ethoxylated ethyl-4-aminobenzoate PEG-25 PABA 116242-27-4 10 % 14 Isopentyl-4-methoxycinnamate/Amiloxate Isoamyl p-Methoxycinnamate 71617-10-2 275-702-5 10 % 15 2,4,6-Trianilino-(p-carbo-2'-ethylhexyl-1'-oxy)-1,3,5-triazine Ethylhexyl Triazone 88122-99-0 402-070-1 5 % 16 Phenol,2-(2H-benzotriazol-2-yl)-4-methyl-6-(2-methyl-3-(1,3,3,3-tetramethyl-1-(trimethylsilyl)oxy)-disiloxanyl)propyl) Drometrizole Trisiloxane 155633-54-8 15 % 17 Benzoic acid, 4,4-((6-((4-(((1,1-dimethylethyl)amino)carbonyl)phenyl)amino)-1,3,5-triazine-2,4-diyl)diimino)bis-, bis (2-ethylhexyl) ester/Iscotrizinol (USAN) Diethylhexyl Butamido Triazone 154702-15-5 10 % 18 3-(4-Methylbenzylidene)-d1 camphor/Enzacamene 4-Methylbenzylidene Camphor 38102-62-4/36861-47-9 - / 253-242-6 4 % 19 3-Benzylidene camphor 3-Benzylidene Camphor 15087-24-8 239-139-9 2 % 20 2-Ethylhexyl salicylate/Octisalate Ethylhexyl Salicylate 118-60-5 204-263-4 5 % 21 2-Ethylhexyl 4-(dimethylamino)benzoate/Padimate O (USAN:BAN) Ethylhexyl Dimethyl PABA 21245-02-3 244-289-3 8 % 22 2-Hydroxy-4-methoxybenzophenone-5-sulfonic acid and its sodium salt/Sulisobenzone Benzophenone-4, Benzophenone-5 4065-45-6/6628-37-1 223-772-2 / - 5 % (as acid) 23 2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole Methylene Bis-Benzotriazolyl Tetramethylbutylphenol 103597-45-1 403-800-1 10 % 23a 2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano) 103597-45-1 403-800-1 10 % Not to be used in applications that may lead to exposure of the end user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\nPurity ≥ 98,5 %, with 2,2′-methylene-bis-(6(2H-benzotriazol-2-yl)-4-(isooctyl)phenol) isomer fraction not exceeding 1,5 %;\nSolubility < 5 ng/L in water at 25 °C;\nPartition coefficient (Log Pow): 12,7 at 25 °C;\nUncoated;\nMedian particle size D50 (50 % of the number below this diameter): ≥ 120 nm of mass distribution and/or ≥ 60 nm of number size distribution. 24 Sodium salt of 2,2'-bis(1,4-phenylene)-1H-benzimidazole-4,6-disulfonic acid) / Bisdisulizole disodium (USAN) Disodium Phenyl Dibenzimidazole Tetrasulfonate 180898-37-7 429-750-0 10 % (as acid) 25 2,2'-(6-(4-Methoxyphenyl)-1,3,5-triazine-2,4-diyl)bis(5-((2-ethylhexyl)oxy)phenol) / Bemotrizinol Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine 187393-00-6 10 % 26 Dimethicodiethylbenzalmalonate Polysilicone-15 207574-74-1 426-000-4 10 % 27 Titanium dioxide Titanium Dioxide 13463-67-7/\n1317-70-0/\n1317-80-2 236-675-5/\n215-280-1/\n215-282-2 25 % 27a Titanium dioxide Titanium Dioxide (nano) 13463-67-7/\n1317-70-0/\n1317-80-2 236-675-5/\n215-280-1/\n215-282-2 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 99 %,\nrutile form, or rutile with up to 5 % anatase, with crystalline structure and physical appearance as clusters of spherical, needle, or lanceolate shapes,\nmedian particle size based on number size distribution ≥ 30 nm,\naspect ratio from 1 to 4,5, and volume specific surface area ≤ 460 m2/cm3,\ncoated with Silica, Hydrated Silica, Alumina, Aluminium Hydroxide, Aluminium Stearate, Stearic Acid, Trimethoxycaprylylsilane, Glycerin, Dimethicone, Hydrogen Dimethicone, Simethicone;\nphotocatalytic activity ≤ 10 % compared to corresponding non-coated or non-doped reference,\nnanoparticles are photostable in the final formulation. 28 Benzoic acid, 2-[-4-(diethylamino)-2-hydroxybenzoyl]-. Hexylester Diethylamino Hydroxy benzoyl Hexyl Benzoate 302776-68-7 443-860-6 10 % 29 1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, including as nanomaterial Tris-biphenyl triazine\nTris-biphenyl triazine (nano) 31274-51-8 — 10 % Not to be used in sprays.\nOnly nanomaterials having the following characteristics are allowed:\nmedian primary particle size > 80 nm;\nPurity ≥ 98 %;\nUncoated 30 Zinc oxide Zinc Oxide 1314-13-2 215-222-5 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation. 30a Zinc oxide Zinc Oxide (nano) 1314-13-2 215-222-5 25 % Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 96 %, with wurtzite crystalline structure and physical appearance as clusters that are rod-like, star-like and/or isometric shapes, with impurities consisting only of carbon dioxide and water, whilst any other impurities are less than 1 % in total,\nmedian diameter of the particle number size distribution D50 (50 % of the number below this diameter) > 30 nm and D1 (1 % below this size) > 20 nm,\nwater solubility < 50 mg/L\nuncoated, or coated with triethoxycaprylylsilane, dimethicone, dimethoxydiphenylsilanetriethoxycaprylylsilane cross-polymer, or octyl triethoxy silane. ",
+        "previous_location": null,
+        "changed_within": [
+          "AN VI"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32018R0885",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2018-07-11",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32018R0885 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32018R0885, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The introductory notes now include an additional sentence stating that where Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and its nano form are used together, the combined amount must not exceed the maximum concentration listed in column g.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20180711",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI",
+              "label": "Annex VI, 02009R1223-20180711"
+            }
+          ]
+        },
+        {
+          "text": "A new entry numbered 23a for Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano) has been added alongside the existing entry 23, with its own restriction against use in applications that may expose the end user's lungs by inhalation and a set of purity, solubility, partition coefficient, coating and particle size conditions for the nanomaterial.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20171225",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_VI",
+              "label": "Annex VI, 02009R1223-20171225"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1223",
+                  "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+                },
+                "version": "02009R1223-20180711",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI",
+              "label": "Annex VI, 02009R1223-20180711"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1223",
+      "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
+    },
+    "from_version": "02009R1223-20171225",
+    "to_version": "02009R1223-20180711",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN VI"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN VI"
+        ],
+        "note": "1 annotations in (2017-12-25, 2018-07-11]",
+        "claims": [
+          {
+            "location": "AN VI",
+            "change_type": "MODIFIED",
+            "in_force": "2018-07-11",
+            "source": "32018R0885 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32018R0885",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32018R0885, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 9730,
+      "output_tokens": 315,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
