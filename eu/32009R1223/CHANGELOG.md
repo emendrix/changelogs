@@ -10,6 +10,43 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20171225 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20170903` → `02009R1223-20171225`
+
+- **Act** `eu:32009R1223` · **In force** 2017-12-25 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20170903` · `v2` = `02009R1223-20171225`
+
+---
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +2018-09-25 +2018-12-25 · *amended by* `32017R2228`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The introductory notes section gains two new footnote-style statements, one concerning cosmetic products containing peanut oil, extracts and derivatives, and another concerning cosmetic products containing hydrolyzed wheat proteins, each stating separate dates on which non-complying products are addressed for placing on the Union market and for being made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_III)
+
+These two added statements do not appear in the earlier version of the introductory notes at all. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_III)
+
+The remainder of the visible tabular entries in Annex III appear unchanged between the two texts, though both texts are truncated before their end, so any further differences beyond the shown portion cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_III)
+
+*before* (`02009R1223-20170903`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 154078 characters omitted…]
+
+*after* (`02009R1223-20171225`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 155612 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20171225 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20170903 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20170727` → `02009R1223-20170903`
