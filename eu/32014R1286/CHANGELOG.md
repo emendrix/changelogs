@@ -10,6 +10,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20240109 -->
+## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
+### `02014R1286-20211221` → `02014R1286-20240109`
+
+- **Act** `eu:32014R1286` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 34 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R1286-20211221` · `v2` = `02014R1286-20240109`
+
+---
+
+**MODIFIED · Art. 9** · applies from: unknown
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 29a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+This is a new article requiring PRIIPs manufacturers to submit the key information document to a designated collection body so it can be made accessible on the European single access point (ESAP), alongside specified metadata and format requirements. [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a)
+
+It also directs Member States to designate collection bodies, requires legal-person manufacturers to obtain a legal entity identifier, extends accessibility obligations to information referred to in Articles 27(1) and 29(1), and tasks the ESAs with developing implementing technical standards and guidelines on metadata and formats. [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a)
+
+*after* (`02014R1286-20240109`)
+
+> Article 29a
+> Accessibility of information on the European single access point
+> 1. From 10 January 2028, when making public the key information document referred to in Article 5(1) of this Regulation, the PRIIPs manufacturer shall submit that key information document at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> That key information document shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the PRIIP manufacturer to which the information relates;
+> (ii) for legal persons, the legal entity identifier of the PRIIP manufacturer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) for legal persons, the si […truncated by emendrix: 2872 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R1286-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R1286-20211221 -->
 ## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
 ### `02014R1286-20190801` → `02014R1286-20211221`
