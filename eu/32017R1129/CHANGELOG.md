@@ -10,6 +10,380 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20260305 -->
+## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
+### `02017R1129-20241204` → `02017R1129-20260305`
+
+- **Act** `eu:32017R1129` · **In force** 2026-03-05 · **Detected** 2026-08-13
+- **Touched** 30 provisions — 30 substantive · 0 date-only · **27 disputed**
+- **Diff** 2 inserted · 25 modified · 3 deleted · 0 renumbered · 0 deferred · 60 unchanged
+- **Gate** 0 sentences quoted verbatim · 27 changes shipped without an explanation
+- **Citations** `v1` = `02017R1129-20241204` · `v2` = `02017R1129-20260305`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 4** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 7 — The prospectus summary** · applies from: unchanged
+
+*within* `AR 7 PA 12a ALN 1`, `AR 7 PA 12a ALN 2`, `AR 7 PA 12a ALN 3`, `AR 7 PA 12a ALN 3 PTA (a)`, `AR 7 PA 12a ALN 3 PTA (b)`, `AR 7 PA 12a ALN 3 PTA (c)`, `AR 7 PA 12a ALN 3 PTA (c) PTI (i)`, `AR 7 PA 12a ALN 3 PTA (c) PTI (ii)`, `AR 7 PA 12a ALN 3 PTA (c) PTI (iii)`, `AR 7 PA 12a ALN 3 PTA (c) PTI (iv)`, `AR 7 PA 12a ALN 3 PTA (c) PTI (v)`, `AR 7 PA 12a ALN 4`, `AR 7 PA 12a ALN 5` · *amended by* `32024R2809`
+
+Paragraph 12a now refers to a summary for an EU Follow-on prospectus or an EU Growth issuance prospectus, drawn up under Articles 14a or 15a respectively, replacing the earlier reference to a summary for an EU Recovery prospectus drawn up under Article 14a alone. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7)
+
+The maximum length of that summary is changed from two sides of A4-sized paper to seven sides of A4-sized paper, and the required sections are now listed as five items in a specified order, including a new item on key information on any guarantor and the guarantee, whereas the earlier text listed four sections without a guarantee item and without a stated COVID-19 reference. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7)
+
+The revised text also adds that such a summary may present or summarise information using charts, graphs or tables, and that an additional side of A4-sized paper per guarantor is permitted when guarantor information is included, features that were not present before. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7)
+
+*before* (`02017R1129-20241204`)
+
+> Article 7
+> The prospectus summary
+> 1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.
+> By way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:
+> (a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or
+> (b) such securities have a denomination per unit of at least EUR 100000.
+> 2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.
+> 3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:
+> (a) be presented and laid out in a way that is easy to read, using characters of readable size;
+> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 14134 characters omitted…]
+
+*after* (`02017R1129-20260305`)
+
+> Article 7
+> The prospectus summary
+> 1. The prospectus shall include a summary that provides the key information that investors need in order to understand the nature and the risks of the issuer, the guarantor and the securities that are being offered or admitted to trading on a regulated market, and that is to be read together with the other parts of the prospectus to aid investors when considering whether to invest in such securities.
+> By way of derogation from the first subparagraph, no summary shall be required where the prospectus relates to the admission to trading on a regulated market of non-equity securities provided that:
+> (a) such securities are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities; or
+> (b) such securities have a denomination per unit of at least EUR 100000.
+> 2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.
+> 3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:
+> (a) be presented and laid out in a way that is easy to read, using characters of readable size;
+> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 15024 characters omitted…]
+
+**MODIFIED · Art. 9** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 14** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 14a — EU Follow-on prospectus** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 14a`, `AR 14a PA 1 ALN 1`, `AR 14a PA 1 ALN 1 PTA (a)`, `AR 14a PA 1 ALN 1 PTA (b)`, `AR 14a PA 1 ALN 1 PTA (c)`, `AR 14a PA 1 ALN 1 PTA (d)`, `AR 14a PA 1 ALN 2`, `AR 14a PA 1 ALN 3`, `AR 14a PA 2 ALN 1`, `AR 14a PA 2 ALN 1 PTA (a)`, `AR 14a PA 2 ALN 1 PTA (b)`, `AR 14a PA 2 ALN 1 PTA (c)`, `AR 14a PA 3 ALN 1`, `AR 14a PA 4 ALN 1`, `AR 14a PA 4 ALN 2`, `AR 14a PA 4 ALN 3`, `AR 14a PA 5 ALN 1`, `AR 14a PA 6 ALN 1`, `AR 14a PA 7`, `AR 14a PA 8` · *dates* +2026-03-05 · *amended by* `32024R2809`
+
+The provision is renamed from the EU Recovery prospectus to the EU Follow-on prospectus, and its scope is broadened from shares only to securities generally, adding a new category for issuers seeking admission to trading on a regulated market of securities fungible with those already admitted to trading on an SME growth market, and adding a carve-out barring issuers with only non-equity securities admitted to trading from drawing up this prospectus for admission of equity securities. [Art. 14a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_14a) [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_14a)
+
+The cap on shares offered relative to prior EU Recovery prospectus offerings and the 12-month period tied to that cap, previously found in paragraph 1, are removed, and the required content in paragraph 2 is reorganised into three lettered points without the prior 400-word COVID-19 impact disclosure and without the prior requirement to disclose capitalisation, indebtedness and a working capital statement. [Art. 14a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_14a) [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_14a)
+
+The maximum page length is increased from 30 to 50 sides of A4 paper for a prospectus relating to shares, the minimum information is now tied to Annex IV or V depending on the type of securities rather than a single Annex Va, and new paragraphs are added on standardised format and sequence and on the Commission's obligation to adopt delegated acts by 5 March 2026 to specify reduced content, format and sequence. [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_14a)
+
+*before* (`02017R1129-20241204`)
+
+> Article 14a
+> EU Recovery prospectus
+> 1. The following persons may choose to draw up an EU Recovery prospectus under the simplified disclosure regime set out in this Article in the case of an offer of shares to the public or of an admission to trading of shares on a regulated market:
+> (a) issuers whose shares have been admitted to trading on a regulated market continuously for at least the last 18 months and who issue shares fungible with existing shares which have been previously issued;
+> (b) issuers whose shares have already been traded on an SME growth market continuously for at least the last 18 months, provided that a prospectus has been published for the offer of those shares, and who issue shares fungible with existing shares which have been previously issued;
+> (c) offerors of shares admitted to trading on a regulated market or an SME growth market continuously for at least the last 18 months.
+> Issuers may only draw up an EU Recovery prospectus provided that the number of shares intended to be offered represents, together with the number of shares already offered via an EU Recovery prospectus over a period of 12 months, if any, no more than 150 % of the number of shares already admitted to trading on a regulated market or an SME growth market, as the case may be, on the date of approval of the EU Recovery prospectus.
+> The period of 12 months referred to in the second subparagraph shall begin on the date of approval of the EU Recovery prospectus.
+> 2. By way of derogation from Ar […truncated by emendrix: 2476 characters omitted…]
+
+*after* (`02017R1129-20260305`)
+
+> Article 14a
+> EU Follow-on prospectus
+> 1. The following persons may draw up an EU Follow-on prospectus in the case of an offer of securities to the public or of an admission to trading of securities on a regulated market:
+> (a) issuers whose securities have been admitted to trading on a regulated market continuously for at least the 18 months preceding the offer to the public or the admission to trading on a regulated market of the new securities;
+> (b) issuers whose securities have been admitted to trading on an SME growth market continuously for at least the 18 months preceding the offer to the public of the new securities;
+> (c) issuers who seek admission to trading on a regulated market of securities fungible with securities that have been admitted to trading on an SME growth market continuously for at least the last 18 months preceding the admission to trading of the securities;
+> (d) offerors of securities admitted to trading on a regulated market or an SME growth market continuously for at least the 18 months preceding the offer of securities to the public.
+> By way of derogation from the first subparagraph, an issuer who has only non-equity securities admitted to trading on a regulated market or an SME growth market shall not be allowed to draw up an EU Follow-on prospectus for the admission to trading of equity securities on a regulated market.
+> 2. By way of derogation from Article 6(1), and without prejudice to Article 18(1), the EU Follow-on prospectus shall contain all informat […truncated by emendrix: 3110 characters omitted…]
+
+**DELETED · Art. 15** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 15a — EU Growth issuance prospectus** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2809`
+
+A new Article 15a is inserted, establishing an EU Growth issuance prospectus that certain SMEs, issuers on SME growth markets, small issuers below a specified aggregated consideration threshold, and offerors of securities issued by such persons may draw up for public offers where they have no securities admitted to trading on a regulated market. [Art. 15a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_15a)
+
+The article sets out reduced and proportionate content requirements, a standardised single-document format based on Annexes VII or VIII, a maximum length of 75 sides of A4 paper for share prospectuses with certain exclusions, and a standardised sequence of disclosure. [Art. 15a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_15a)
+
+It also directs the Commission to adopt delegated acts specifying the reduced content and standardised format and sequence by 5 March 2026, based on Annexes VII and VIII. [Art. 15a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_15a)
+
+*after* (`02017R1129-20260305`)
+
+> Article 15a
+> EU Growth issuance prospectus
+> 1. Without prejudice to Article 1(4), Article 3(2) and (2a), the following persons may draw up an EU Growth issuance prospectus in the case of an offer of securities to the public, provided that they have no securities admitted to trading on a regulated market:
+> (a) SMEs;
+> (b) issuers, other than SMEs, whose securities are, or are to be, admitted to trading on an SME growth market;
+> (c) issuers, other than those referred to in points (a) and (b), where the total aggregated consideration in the Union for the securities offered to the public is less than EUR 50000000 calculated over a period of 12 months, and provided that such issuers have no securities traded on an MTF and have an average number of employees during the previous financial year of up to 499;
+> (d) offerors of securities that have been issued by issuers as referred to in points (a) and (b).
+> The total aggregated consideration for the securities offered to the public, as referred to in the first subparagraph, point (c), shall take into account the total aggregated consideration of all ongoing offers of securities to the public and offers of securities to the public made within the 12 months preceding the start date of a new offer of securities to the public, except for those offers of securities to the public for which a prospectus was published or that were subject to any exemption from the obligation to publish a prospectus pursuant to Article 1(4), first subparagraph, or pur […truncated by emendrix: 2723 characters omitted…]
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 20** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 21** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 27** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 30** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 44** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 47a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 48** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 48a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20260305 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20241204 -->
 ## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
 ### `02017R1129-20240109` → `02017R1129-20241204`
