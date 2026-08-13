@@ -10,6 +10,271 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0596-20260605 -->
+## Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market […]
+### `02014R0596-20241204` → `02014R0596-20260605`
+
+- **Act** `eu:32014R0596` · **In force** 2026-06-05 · **Detected** 2026-08-13
+- **Touched** 18 provisions — 18 substantive · 0 date-only · **17 disputed**
+- **Diff** 2 inserted · 15 modified · 1 deleted · 0 renumbered · 0 deferred · 41 unchanged
+- **Gate** 1 sentences quoted verbatim · 15 changes shipped without an explanation
+- **Citations** `v1` = `02014R0596-20241204` · `v2` = `02014R0596-20260605`
+
+---
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 7** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 11** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17 — Public disclosure of inside information** · applies from: unchanged
+
+*within* `AR 17 PA 1 ALN 1`, `AR 17 PA 1a`, `AR 17 PA 4 ALN 1`, `AR 17 PA 4 ALN 1 PTA (b)`, `AR 17 PA 4 ALN 2`, `AR 17 PA 4 ALN 3`, `AR 17 PA 4 ALN 4`, `AR 17 PA 4a`, `AR 17 PA 7 ALN 1`, `AR 17 PA 7 ALN 2` · *amended by* `32024R2809`
+
+Paragraph 1 now excludes intermediate steps in a protracted process from the immediate public disclosure duty, requiring only that the final circumstances or final event be disclosed as soon as possible after they occur, and a new paragraph 1a requires the issuer to keep such information confidential until it is disclosed under paragraph 1. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+
+*Quoted verbatim by the citation gate — the model's own sentence did not resolve:* The new text of Art. 17: "Article 17 Public disclosure of inside information 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer. That requirement shall not apply to inside information related to intermediate steps in a protracted process as referred to in Article 7(2) and (3) where those steps are connected with bringing about or resulting in particular circumstances or a particular event. In a protracted process, only the final circumstances or final event shall be required to be disclosed, as soon as possible after they have occurred. The issuer shall en […truncated by emendrix: 11510 characters omitted…]" [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+
+Paragraph 7 was expanded so that the obligation to disclose when confidentiality is no longer ensured, and the related rumour provision, now also cover inside information on intermediate steps in a protracted process that was not disclosed under paragraph 1, in addition to information delayed under paragraphs 4 or 5. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+
+*before* (`02014R0596-20241204`)
+
+> Article 17
+> Public disclosure of inside information
+> 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
+> 2. An emission […truncated by emendrix: 9631 characters omitted…]
+
+*after* (`02014R0596-20260605`)
+
+> Article 17
+> Public disclosure of inside information
+> 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer. That requirement shall not apply to inside information related to intermediate steps in a protracted process as referred to in Article 7(2) and (3) where those steps are connected with bringing about or resulting in particular circumstances or a particular event. In a protracted process, only the final circumstances or final event shall be required to be disclosed, as soon as possible after they have occurred.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> This Artic […truncated by emendrix: 10610 characters omitted…]
+
+**MODIFIED · Art. 18** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 25a** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 25b** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 28** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 30 — Administrative sanctions and other administrative measures** · applies from: unchanged
+
+*within* `AR 30 PA 2 ALN 1 PTA (e)`, `AR 30 PA 2 ALN 1 PTA (f)`, `AR 30 PA 2 ALN 1 PTA (g)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (i)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (ii)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (iii)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (iv)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (v)`, `AR 30 PA 2 ALN 3` · *amended by* `32024R2809`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Points (e) to (g) now extend the temporary or permanent management-function and dealing-on-own-account bans so that they also cover managerial persons in benchmark administrators or supervised contributors, and the previously permanent ban for repeated infringements of Article 14 or 15 is now specified as a ban of at least 10 years. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
+
+Point (j) reorders the turnover-versus-fixed-amount wording for infringements of Articles 14 and 15, replaces the single combined percentage/amount rule for Articles 16 and 17 with separate sub-points for Article 16 and Article 17, the latter adding a disproportionality test with minimum floors of EUR 2500000 or, for SMEs, EUR 1000000, and similarly splits the Articles 18 to 20 rule into a new sub-point for Articles 18 and 19 with a 0,8% turnover figure and disproportionality floors of EUR 1000000 or, for SMEs, EUR 400000, and a separate sub-point for Article 20 with a 0,8% turnover or EUR 1000000 figure. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
+
+The cross-reference for the parent/subsidiary turnover calculation rule is changed from referring to points (j)(i) and (ii) of the first subparagraph to referring to the first subparagraph, point (j), as a whole. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30) [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
+
+*before* (`02014R0596-20241204`)
+
+> Article 30
+> Administrative sanctions and other administrative measures
+> 1. Without prejudice to any criminal sanctions and without prejudice to the supervisory powers of competent authorities under Article 23, Member States shall, in accordance with national law, provide for competent authorities to have the power to take appropriate administrative sanctions and other administrative measures in relation to at least the following infringements:
+> (a) infringements of Articles 14 and 15, Article 16(1) and (2), Article 17(1), (2), (4) and (5), and (8), Article 18(1) to (6), Article 19(1), (2), (3), (5), (6), (7) and (11) and Article 20(1); and
+> (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
+> Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
+> By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 5190 characters omitted…]
+
+*after* (`02014R0596-20260605`)
+
+> Article 30
+> Administrative sanctions and other administrative measures
+> 1. Without prejudice to any criminal sanctions and without prejudice to the supervisory powers of competent authorities under Article 23, Member States shall, in accordance with national law, provide for competent authorities to have the power to take appropriate administrative sanctions and other administrative measures in relation to at least the following infringements:
+> (a) infringements of Articles 14 and 15, Article 16(1) and (2), Article 17(1), (2), (4) and (5), and (8), Article 18(1) to (6), Article 19(1), (2), (3), (5), (6), (7) and (11) and Article 20(1); and
+> (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
+> Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
+> By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 7138 characters omitted…]
+
+**MODIFIED · Art. 31 — Exercise of supervisory powers and imposition of sanctions** · applies from: unchanged
+
+*within* `AR 31 PA 1 ALN 1`, `AR 31 PA 1 ALN 1 PTA (c)`, `AR 31 PA 1 ALN 1 PTA (f)`, `AR 31 PA 1 ALN 1 PTA (g)`, `AR 31 PA 1 ALN 1 PTA (h)` · *amended by* `32024R2809`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The introductory clause of paragraph 1 now adds that the relevant circumstances are to be taken into account in order to apply proportionate sanctions, a phrase absent from the earlier text. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_31)
+
+Point (c) now refers to the annual personal income of a natural person, where the earlier version referred simply to the annual income of a natural person. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_31)
+
+A new point (h) has been added, addressing the disadvantage for the person responsible for the infringement resulting from the duplication of criminal and administrative proceedings and penalties for the same conduct, with the connecting words between points (f), (g) and (h) adjusted accordingly. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_31)
+
+*before* (`02014R0596-20241204`)
+
+> Article 31
+> Exercise of supervisory powers and imposition of sanctions
+> 1. Member States shall ensure that when determining the type and level of administrative sanctions, competent authorities take into account all relevant circumstances, including, where appropriate:
+> (a) the gravity and duration of the infringement;
+> (b) the degree of responsibility of the person responsible for the infringement;
+> (c) the financial strength of the person responsible for the infringement, as indicated, for example, by the total turnover of a legal person or the annual income of a natural person;
+> (d) the importance of the profits gained or losses avoided by the person responsible for the infringement, insofar as they can be determined;
+> (e) the level of cooperation of the person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+> (f) previous infringements by the person responsible for the infringement; and
+> (g) measures taken by the person responsible for the infringement to prevent its repetition.
+> 2. In the exercise of their powers to impose administrative sanctions and other administrative measures under Article 30, competent authorities shall cooperate closely to ensure that the exercise of their supervisory and investigative powers, and the administrative sanctions that they impose, and the other administrative measures that they take, are effective and appropriate under this Reg […truncated by emendrix: 253 characters omitted…]
+
+*after* (`02014R0596-20260605`)
+
+> Article 31
+> Exercise of supervisory powers and imposition of sanctions
+> 1. Member States shall ensure that when determining the type and level of administrative sanctions, competent authorities take into account all relevant circumstances in order to apply proportionate sanctions, including, where appropriate:
+> (a) the gravity and duration of the infringement;
+> (b) the degree of responsibility of the person responsible for the infringement;
+> (c) the financial strength of the person responsible for the infringement, as indicated, for example, by the total turnover of a legal person or the annual personal income of a natural person;
+> (d) the importance of the profits gained or losses avoided by the person responsible for the infringement, insofar as they can be determined;
+> (e) the level of cooperation of the person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+> (f) previous infringements by the person responsible for the infringement;
+> (g) measures taken by the person responsible for the infringement to prevent its repetition; and
+> (h) the disadvantage for the person responsible for the infringement resulting from the duplication of criminal and administrative proceedings and penalties for the same conduct.
+> 2. In the exercise of their powers to impose administrative sanctions and other administrative measures under Article 30, competent authorities shall cooperate cl […truncated by emendrix: 483 characters omitted…]
+
+**MODIFIED · Art. 35** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32024R2809`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0596-20260605 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0596-20241204 -->
 ## Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market […]
 ### `02014R0596-20240109` → `02014R0596-20241204`
