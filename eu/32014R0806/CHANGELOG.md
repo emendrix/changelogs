@@ -10,6 +10,72 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20240513 -->
+## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
+### `02014R0806-20220812` → `02014R0806-20240513`
+
+- **Act** `eu:32014R0806` · **In force** 2024-05-13 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02014R0806-20220812` · `v2` = `02014R0806-20240513`
+
+---
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32024L1174`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 12d** · applies from: unknown
+
+*amended by* `32024L1174`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 12g — Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities** · applies from: unchanged
+
+*within* `AR 12g PA 1 ALN 4`, `AR 12g PA 1 ALN 4 PTA (a)`, `AR 12g PA 1 ALN 4 PTA (b)`, `AR 12g PA 1 ALN 5`, `AR 12g PA 1 ALN 6`, `AR 12g PA 2a`, `AR 12g PA 2b` · *amended by* `32024L1174`
+
+A new subparagraph is inserted into paragraph 1 allowing the Board to decide to determine the Article 12d requirement on a consolidated basis for certain subsidiaries, setting out conditions relating to the subsidiary's holding structure or its supervision under Article 104a of Directive 2013/36/EU, and conditions on preserving the group resolution strategy, the subsidiary's own funds capacity and the internal loss transfer and recapitalisation mechanism. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
+
+Two new paragraphs, 2a and 2b, are added specifying which liabilities issued by a subsidiary consolidated under paragraph 1 are to be included in that entity's own funds and eligible liabilities amount, and capping those liabilities by reference to the requirement under Article 12(1) minus certain amounts already counted. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
+
+The earlier version of Article 12g contained none of these consolidated-basis provisions or the new paragraphs 2a and 2b. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_12g)
+
+*before* (`02014R0806-20220812`)
+
+> Article 12g
+> Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities
+> 1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 12d on an individual basis.
+> The Board, after consulting the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity referred to in point (b) of Article 2 that is a subsidiary of a resolution entity but is not itself a resolution entity.
+> By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
+> For resolution groups identified in accordance with point (b) of point (24b) of Article 3(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 12f(3), shall comply with Article 12d(6) on an individual basis.
+> The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d […truncated by emendrix: 4942 characters omitted…]
+
+*after* (`02014R0806-20240513`)
+
+> Article 12g
+> Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities
+> 1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 12d on an individual basis.
+> The Board, after consulting the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity referred to in point (b) of Article 2 that is a subsidiary of a resolution entity but is not itself a resolution entity.
+> By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
+> By way of derogation from the first and second subparagraphs, the Board may decide to determine the requirement laid down in Article 12d on a consolidated basis for a subsidiary as referred to in this paragraph where the Board concludes that all of the following conditions are met:
+> (a) the subsidiary meets one of the following conditions:
+> (i) the subsidiary is held directly by the resolution entity and:
+> the resolution entity is a Union parent financial holding company or a Union parent mixed financial holding company;
+> both the subsidiary and the resolution entity are establishe […truncated by emendrix: 8886 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20240513 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20220812 -->
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `02014R0806-20210626` → `02014R0806-20220812`
