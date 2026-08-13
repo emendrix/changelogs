@@ -10,6 +10,72 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090627 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20090220` → `02006R1907-20090627`
+
+- **Act** `eu:32006R1907` · **In force** 2009-06-27 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20090220` · `v2` = `02006R1907-20090627`
+
+---
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 8`, `AN XVII APP 9`, `AN XVII APP 10` · *dates* -1975-05-20 -1985-10-01 -1986-06-30 -1987-07-23 -1991-12-12 -2007-06-15 -2008-01-01 -2008-12-31 +2002-03-18 +2003-05-26 +2003-07-17 +2004-08-15 +2006-12-27 +2007-09-05 +2007-09-30 +2007-10-03 +2008-06-27 +2009-04-03 +2009-10-03 +2010-06-27 +2010-12-27 +2011-06-01 +2011-06-27 +2014-07-01
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The annex's entries have been rewritten throughout, replacing earlier wording such as 'shall not be used' or 'shall not be sold' with more uniform 'shall not be placed on the market, or used' formulations, and adding explicit provisions stating that articles not complying with a restriction shall not be placed on the market. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+
+Several entries gained new or renumbered sub-points, updated EC/CAS numbers, and additional derogations or transitional dates, for example new entry 18a on mercury measuring devices and expanded provisions on arsenic-treated wood, asbestos diaphragms, and cadmium. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+
+The earlier version's introductory footnotes and directive-reference list differ from the later version's, and numeric concentration or amount limits in several entries are now also expressed in additional units such as mg/kg alongside the percentage figures used before. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+
+*before* (`02006R1907-20090220`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).Chrysotile has two CAS Nos, confirmed by ECB.Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+> Designation of the substance, of the groups of substances or of the mixture Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs)
+> Mixtures, including waste oils, with a PCT content higher than 0,005 % by weight. 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
+> (a) closed-system electrical equipment transformers, resistors and inductors;
+> (b) large condensers (≥ 1 kg total weight);
+> (c) small condensers;
+> (d) heat-transmitting fluids in closed-circuit h […truncated by emendrix: 406216 characters omitted…]
+
+*after* (`02006R1907-20090627`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column 2
+> Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
+> as substances,
+> in mixtures, including waste oils, or in equipment, in concentrations greater than 50 mg/kg (0,005 % by weight).
+> 2. Chloroethene (vinyl chloride)
+> CAS No 75-01-4
+> EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
+> Aerosols dispensers containing the substance as propellant shall not be placed on the market.
+> 3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Dire […truncated by emendrix: 416559 characters omitted…]
+
+**MODIFIED · Annex 17** · applies from: unknown
+
+*amended by* `32009R0552`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20090627 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090220 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20090120` → `02006R1907-20090220`
