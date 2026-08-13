@@ -1,0 +1,582 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0806",
+    "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+  },
+  "from_version": "02014R0806-20240513",
+  "to_version": "02014R0806-20241114",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-11-14"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 109,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0806",
+            "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+          },
+          "version": "02014R0806-20241114",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\n1. For the purposes of this Regulation the following definitions apply:\n(1) national competent authority means any national competent authority as defined in Article 2(2) of Regulation (EU) No 1024/2013;\n(2) competent authority means a competent authority as defined in Article 4(2)(i) of Regulation (EU) No 1093/2010;\n(3) national resolution authority means an authority designated by a participating Member State in accordance with Article 3 of Directive 2014/59/EU;\n(4) relevant national resolution authority means the national resolution authority of a participating Member State in which an entity or a group's entity is established;\n(5) conditions for resolution means the conditions referred to in Article 18(1);\n(6) resolution plan means a plan drawn up in accordance with Article 8 or 9;\n(7) group resolution plan means a plan for group resolution drawn up in accordance with Articles 8 and 9;\n(8) resolution objectives means the objectives referred to in Article 14;\n(9) resolution tool means a resolution tool referred to in Article 22(2);\n(10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;\n(11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;\n(12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;\n(13) institution means a credit institution, or an investment firm covered by consolidated supervision in accordance with Article 2(c);\n(14) institution under resolution means an entity referred to in Article 2 in respect of which a resolution action is taken;\n(15) financial institution means a financial institution as defined in Article 4(1)(26) of Regulation (EU) No 575/2013;\n(16) financial holding company means a financial holding company as defined in Article 4(1)(20) of Regulation (EU) No 575/2013;\n(17) mixed financial holding company means a mixed financial holding company as defined in point (21) of Article 4(1) of Regulation (EU) No 575/2013;\n(18) Union parent financial holding company means an EU parent financial holding company as defined in point (31) of Article 4(1) of Regulation (EU) No 575/2013;\n(19) Union parent institution means an EU parent institution as defined in point (29) of Article 4(1) of Regulation (EU) No 575/2013;\n(20) parent undertaking means a parent undertaking as defined in Article 4(1)(15)(a) of Regulation (EU) No 575/2013;\n(21) subsidiary means a subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013, and for the purpose of applying Article 8, Article 10(10), Articles 12 to 12k, 21 and 53 of this Regulation to resolution groups referred to in point (b) of point (24b) of this paragraph, include, where and as appropriate, credit institutions that are permanently affiliated to a central body, the central body itself, and their respective subsidiaries, taking into account the way in which such resolution groups comply with Article 12f(3) of this Regulation;\n(21a) material subsidiary means a material subsidiary as defined in point (135) of Article 4(1) of Regulation (EU) No 575/2013;\n(22) branch means a branch as defined in Article 4(1)(17) of Regulation (EU) No 575/2013;\n(23) group means a parent undertaking and its subsidiaries that are entities as referred to in Article 2;\n(24) cross-border group means a group that has entities as referred to in Article 2 established in more than one participating Member State;\n(24a) resolution entity means a legal person established in a participating Member State, which, in accordance with Article 8, is identified by the Board as an entity in respect of which the resolution plan provides for resolution action;\n(24b) resolution group means:\n(a) a resolution entity, together with its subsidiaries that are not:\n(i) resolution entities themselves;\n(ii) subsidiaries of other resolution entities; or\n(iii) entities established in a third country that are not included in the resolution group under the resolution plan, and their subsidiaries; or\n(b) credit institutions that are permanently affiliated to a central body, and the central body itself when at least one of those credit institutions or the central body is a resolution entity, and their respective subsidiaries;\n(24c) global systemically important institution or G-SII means a G-SII as defined in point (133) of Article 4(1) of Regulation (EU) No 575/2013;\n(25) consolidated basis means the basis of the consolidated situation as defined in Article 4(1)(47) of Regulation (EU) No 575/2013;\n(26) consolidating supervisor means consolidating supervisor as defined in Article 4(1)(41) of Regulation (EU) No 575/2013;\n(27) group-level resolution authority means the resolution authority in the participating Member State in which the institution or parent undertaking subject to consolidated supervision at the highest level of consolidation within participating Member States in accordance with Article 111 of Directive 2013/36/EU is established;\n(28) institutional protection scheme or IPS means an arrangement that meets the requirements laid down in Article 113(7) of Regulation (EU) No 575/2013;\n(29) extraordinary public financial support means State aid within the meaning of Article 107(1) TFEU or any other public financial support at supra-national level, which, if provided at national level, would constitute State aid, that is provided in order to preserve or restore the viability, liquidity or solvency of an entity referred to in Article 2 of this Regulation or of a group of which such an entity forms part;\n(30) sale of business tool means the mechanism for effecting a transfer by a resolution authority of instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a purchaser that is not a bridge institution, in accordance with Article 24;\n(31) bridge institution tool means the mechanism for transferring instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a bridge institution, in accordance with Article 25;\n(32) asset separation tool means the mechanism for effecting a transfer of assets, rights or liabilities of an institution under resolution to an asset management vehicle in accordance with Article 26;\n(33) bail-in tool means the mechanism for effecting the exercise of the write-down and conversion powers in relation to liabilities of an institution under resolution in accordance with Article 27;\n(34) available financial means means the cash, deposits, assets and irrevocable payment commitments available to the Fund for the purposes listed under Article 76(1);\n(35) target level means the amount of available financial means to be reached under Article 69(1);\n(36) Agreement means the agreement on the transfer and mutualisation of contributions to the Fund;\n(37) transitional period means the period from the date of application of this Regulation as determined under Article 99(2) and (6) until the Fund reaches the target level or 1 January 2024, whichever is earlier;\n(38) financial instrument means financial instrument as defined in point (50) of Article 4(1) of Regulation (EU) No 575/2013;\n(39) debt instruments means bonds and other forms of transferable debt, instruments creating or acknowledging a debt, and instruments giving rights to acquire debt instruments;\n(40) own funds means own funds as defined in Article 4(1)(118) of Regulation (EU) No 575/2013;\n(41) own funds requirements means the requirements laid down in Articles 92 to 98 of Regulation (EU) No 575/2013;\n(42) winding up means the realisation of assets of an entity referred to in Article 2;\n(43) derivative means a derivative as defined in Article 2(5) of Regulation (EU) No 648/2012;\n(44) write-down and conversion powers means the powers referred to in Article 21;\n(45) Common Equity Tier 1 instruments means capital instruments that meet the conditions laid down in Article 28(1) to (4), Article 29(1) to (5) or Article 31(1) of Regulation (EU) No 575/2013;\n(45a) Common Equity Tier 1 capital means Common Equity Tier 1 capital as calculated in accordance with Article 50 of Regulation (EU) No 575/2013;\n(46) Additional Tier 1 instruments means capital instruments that meet the conditions laid down in Article 52(1) of Regulation (EU) No 575/2013;\n(47) Tier 2 instruments means capital instruments or subordinated loans that meet the conditions laid down in Article 63 of Regulation (EU) No 575/2013;\n(48) aggregate amount means the aggregate amount by which the resolution authority has assessed that bail-inable liabilities are to be written down or converted, in accordance with Article 27(13);\n(49) bail-inable liabilities means the liabilities and capital instruments that do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments of an entity referred to in Article 2 and that are not excluded from the scope of the bail-in tool pursuant to Article 27(3);\n(49a) eligible liabilities means bail-inable liabilities that fulfil, as applicable, the conditions of Article 12c or point (a) of Article 12g(2) of this Regulation, and Tier 2 instruments that meet the conditions of point (b) of Article 72a(1) of Regulation (EU) No 575/2013;\n(49b) subordinated eligible instruments means instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than paragraphs (3) to (5) of Article 72b of that Regulation;\n(50) deposit guarantee scheme means a deposit guarantee scheme introduced and officially recognised by a Member State pursuant to Article 4 of Directive 2014/49/EU;\n(51) relevant capital instruments means Additional Tier 1 instruments and Tier 2 instruments;\n(52) covered bond means an instrument as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the CouncilDirective 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).;\n(53) depositor means a depositor as defined in Article 2(1)(6) of Directive 2014/49/EU;\n(54) investor means an investor within the meaning of Article 1(4) of Directive 97/9/EC of the European Parliament and of the CouncilDirective 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22).;\n(55) combined buffer requirement means combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU.\n2. In the absence of a relevant definition in paragraph 1 of this Article, the definitions referred to in Article 2 of Directive 2014/59/EU apply. In the absence of a relevant definition in paragraph 1 of this Article or in Article 2 of Directive 2014/59/EU, the definitions referred to in Article 3 of Directive 2013/36/EU apply.",
+        "after": "Article 3\nDefinitions\n1. For the purposes of this Regulation the following definitions apply:\n(1) national competent authority means any national competent authority as defined in Article 2(2) of Regulation (EU) No 1024/2013;\n(2) competent authority means a competent authority as defined in Article 4(2)(i) of Regulation (EU) No 1093/2010;\n(3) national resolution authority means an authority designated by a participating Member State in accordance with Article 3 of Directive 2014/59/EU;\n(4) relevant national resolution authority means the national resolution authority of a participating Member State in which an entity or a group's entity is established;\n(5) conditions for resolution means the conditions referred to in Article 18(1);\n(6) resolution plan means a plan drawn up in accordance with Article 8 or 9;\n(7) group resolution plan means a plan for group resolution drawn up in accordance with Articles 8 and 9;\n(8) resolution objectives means the objectives referred to in Article 14;\n(9) resolution tool means a resolution tool referred to in Article 22(2);\n(10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;\n(11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;\n(12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;\n(13) institution means a credit institution, or an investment firm covered by consolidated supervision in accordance with Article 2(c);\n(14) institution under resolution means an entity referred to in Article 2 in respect of which a resolution action is taken;\n(15) financial institution means a financial institution as defined in Article 4(1)(26) of Regulation (EU) No 575/2013;\n(16) financial holding company means a financial holding company as defined in Article 4(1)(20) of Regulation (EU) No 575/2013;\n(17) mixed financial holding company means a mixed financial holding company as defined in point (21) of Article 4(1) of Regulation (EU) No 575/2013;\n(18) Union parent financial holding company means an EU parent financial holding company as defined in point (31) of Article 4(1) of Regulation (EU) No 575/2013;\n(19) Union parent institution means an EU parent institution as defined in point (29) of Article 4(1) of Regulation (EU) No 575/2013;\n(20) parent undertaking means a parent undertaking as defined in Article 4(1)(15)(a) of Regulation (EU) No 575/2013;\n(21) subsidiary means a subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013, and for the purpose of applying Article 8, Article 10(10), Articles 12 to 12k, 21 and 53 of this Regulation to resolution groups referred to in point (b) of point (24b) of this paragraph, include, where and as appropriate, credit institutions that are permanently affiliated to a central body, the central body itself, and their respective subsidiaries, taking into account the way in which such resolution groups comply with Article 12f(3) of this Regulation;\n(21a) material subsidiary means a material subsidiary as defined in point (135) of Article 4(1) of Regulation (EU) No 575/2013;\n(22) branch means a branch as defined in Article 4(1)(17) of Regulation (EU) No 575/2013;\n(23) group means a parent undertaking and its subsidiaries that are entities as referred to in Article 2;\n(24) cross-border group means a group that has entities as referred to in Article 2 established in more than one participating Member State;\n(24a) resolution entity means a legal person established in a participating Member State, which, in accordance with Article 8, is identified by the Board as an entity in respect of which the resolution plan provides for resolution action;\n(24aa) liquidation entity means a legal person established in a participating Member State in respect of which the group resolution plan or, for entities that are not part of a group, the resolution plan, provides that the entity is to be wound up under normal insolvency proceedings, or an entity, within a resolution group other than a resolution entity, in respect of which the group resolution plan does not provide for the exercise of write-down and conversion powers;\n(24b) resolution group means:\n(a) a resolution entity, together with its subsidiaries that are not:\n(i) resolution entities themselves;\n(ii) subsidiaries of other resolution entities; or\n(iii) entities established in a third country that are not included in the resolution group under the resolution plan, and their subsidiaries; or\n(b) credit institutions that are permanently affiliated to a central body, and the central body itself when at least one of those credit institutions or the central body is a resolution entity, and their respective subsidiaries;\n(24c) global systemically important institution or G-SII means a G-SII as defined in point (133) of Article 4(1) of Regulation (EU) No 575/2013;\n(25) consolidated basis means the basis of the consolidated situation as defined in Article 4(1)(47) of Regulation (EU) No 575/2013;\n(26) consolidating supervisor means consolidating supervisor as defined in Article 4(1)(41) of Regulation (EU) No 575/2013;\n(27) group-level resolution authority means the resolution authority in the participating Member State in which the institution or parent undertaking subject to consolidated supervision at the highest level of consolidation within participating Member States in accordance with Article 111 of Directive 2013/36/EU is established;\n(28) institutional protection scheme or IPS means an arrangement that meets the requirements laid down in Article 113(7) of Regulation (EU) No 575/2013;\n(29) extraordinary public financial support means State aid within the meaning of Article 107(1) TFEU or any other public financial support at supra-national level, which, if provided at national level, would constitute State aid, that is provided in order to preserve or restore the viability, liquidity or solvency of an entity referred to in Article 2 of this Regulation or of a group of which such an entity forms part;\n(30) sale of business tool means the mechanism for effecting a transfer by a resolution authority of instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a purchaser that is not a bridge institution, in accordance with Article 24;\n(31) bridge institution tool means the mechanism for transferring instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a bridge institution, in accordance with Article 25;\n(32) asset separation tool means the mechanism for effecting a transfer of assets, rights or liabilities of an institution under resolution to an asset management vehicle in accordance with Article 26;\n(33) bail-in tool means the mechanism for effecting the exercise of the write-down and conversion powers in relation to liabilities of an institution under resolution in accordance with Article 27;\n(34) available financial means means the cash, deposits, assets and irrevocable payment commitments available to the Fund for the purposes listed under Article 76(1);\n(35) target level means the amount of available financial means to be reached under Article 69(1);\n(36) Agreement means the agreement on the transfer and mutualisation of contributions to the Fund;\n(37) transitional period means the period from the date of application of this Regulation as determined under Article 99(2) and (6) until the Fund reaches the target level or 1 January 2024, whichever is earlier;\n(38) financial instrument means financial instrument as defined in point (50) of Article 4(1) of Regulation (EU) No 575/2013;\n(39) debt instruments means bonds and other forms of transferable debt, instruments creating or acknowledging a debt, and instruments giving rights to acquire debt instruments;\n(40) own funds means own funds as defined in Article 4(1)(118) of Regulation (EU) No 575/2013;\n(41) own funds requirements means the requirements laid down in Articles 92 to 98 of Regulation (EU) No 575/2013;\n(42) winding up means the realisation of assets of an entity referred to in Article 2;\n(43) derivative means a derivative as defined in Article 2(5) of Regulation (EU) No 648/2012;\n(44) write-down and conversion powers means the powers referred to in Article 21;\n(45) Common Equity Tier 1 instruments means capital instruments that meet the conditions laid down in Article 28(1) to (4), Article 29(1) to (5) or Article 31(1) of Regulation (EU) No 575/2013;\n(45a) Common Equity Tier 1 capital means Common Equity Tier 1 capital as calculated in accordance with Article 50 of Regulation (EU) No 575/2013;\n(46) Additional Tier 1 instruments means capital instruments that meet the conditions laid down in Article 52(1) of Regulation (EU) No 575/2013;\n(47) Tier 2 instruments means capital instruments or subordinated loans that meet the conditions laid down in Article 63 of Regulation (EU) No 575/2013;\n(48) aggregate amount means the aggregate amount by which the resolution authority has assessed that bail-inable liabilities are to be written down or converted, in accordance with Article 27(13);\n(49) bail-inable liabilities means the liabilities and capital instruments that do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments of an entity referred to in Article 2 and that are not excluded from the scope of the bail-in tool pursuant to Article 27(3);\n(49a) eligible liabilities means bail-inable liabilities that fulfil, as applicable, the conditions of Article 12c or point (a) of Article 12g(2) of this Regulation, and Tier 2 instruments that meet the conditions of point (b) of Article 72a(1) of Regulation (EU) No 575/2013;\n(49b) subordinated eligible instruments means instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than paragraphs (3) to (5) of Article 72b of that Regulation;\n(50) deposit guarantee scheme means a deposit guarantee scheme introduced and officially recognised by a Member State pursuant to Article 4 of Directive 2014/49/EU;\n(51) relevant capital instruments means Additional Tier 1 instruments and Tier 2 instruments;\n(52) covered bond means an instrument as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the CouncilDirective 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).;\n(53) depositor means a depositor as defined in Article 2(1)(6) of Directive 2014/49/EU;\n(54) investor means an investor within the meaning of Article 1(4) of Directive 97/9/EC of the European Parliament and of the CouncilDirective 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22).;\n(55) combined buffer requirement means combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU.\n2. In the absence of a relevant definition in paragraph 1 of this Article, the definitions referred to in Article 2 of Directive 2014/59/EU apply. In the absence of a relevant definition in paragraph 1 of this Article or in Article 2 of Directive 2014/59/EU, the definitions referred to in Article 3 of Directive 2013/36/EU apply.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 PA 1 ALN 1 PO 24aa"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024L1174",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-11-14",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024L1174 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new definition, point (24aa), has been inserted between existing points (24a) and (24b), introducing the term 'liquidation entity' and describing it as a legal person established in a participating Member State for which the group resolution plan, or in the case of entities not part of a group the resolution plan, provides for winding up under normal insolvency proceedings, or as an entity within a resolution group other than a resolution entity for which the group resolution plan does not provide for exercise of write-down and conversion powers.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20241114",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3",
+              "label": "Art. 3, 02014R0806-20241114"
+            }
+          ]
+        },
+        {
+          "text": "No other definitions in Article 3 were altered between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20240513",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_3",
+              "label": "Art. 3, 02014R0806-20240513"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20241114",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3",
+              "label": "Art. 3, 02014R0806-20241114"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0806",
+            "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+          },
+          "version": "02014R0806-20241114",
+          "location": "AR 12d"
+        },
+        "heading": "Determination of the minimum requirement for own funds and eligible liabilities",
+        "before": "Article 12d\nDetermination of the minimum requirement for own funds and eligible liabilities\n1. The requirement referred to in Article 12a(1) shall be determined by the Board, after consulting the competent authorities, including the ECB, on the basis of the following criteria:\n(a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;\n(b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;\n(c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity has sufficient own funds and other eligible liabilities to absorb losses and to restore its total capital ratio and, as applicable, its leverage ratio, to the level necessary to enable it to continue to comply with the conditions for authorisation and to carry on the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU;\n(d) the size, the business model, the funding model and the risk profile of the entity;\n(e) the extent to which the failure of the entity would have an adverse effect on financial stability, including through contagion to other institutions or entities, due to the interconnectedness of the entity with those other institutions or entities or with the rest of the financial system.\n2. Where the resolution plan provides that resolution action is to be taken or that the power to write down and convert relevant capital instruments and eligible liabilities in accordance with Article 21 is to be exercised in accordance with the relevant scenario referred to in Article 8(6), the requirement referred to in Article 12a(1) shall equal an amount sufficient to ensure that:\n(a) the losses that are expected to be incurred by the entity are fully absorbed (loss absorption);\n(b) the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) or (3) but are not resolution entities are recapitalised to a level necessary to enable them to continue to comply with the conditions for authorisation, and to carry on the activities for which they are authorised under Directive 2013/36/EU, Directive 2014/65/EU or an equivalent legislative act for an appropriate period not longer than one year (recapitalisation).\nWhere the resolution plan provides that the entity is to be wound up under normal insolvency proceedings or other equivalent national procedures, the Board shall assess whether it is justified to limit the requirement referred to in Article 12a(1) for that entity, so that it does not exceed an amount sufficient to absorb losses in accordance with point (a) of the first subparagraph.\nThe assessment by the Board shall evaluate, in particular, the limit referred to in the second subparagraph as regards any possible impact on financial stability and on the risk of contagion to the financial system.\n3. For resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:\n(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed in resolution that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the resolution entity at the consolidated resolution group level; and\n(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with its total capital ratio requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU at the consolidated resolution group level after the implementation of the preferred resolution strategy; and\n(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed in resolution that corresponds to the resolution entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level; and\n(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with the leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level after the implementation of the preferred resolution strategy.\nFor the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.\nFor the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.\nWhen setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).\nWhen setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:\n(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from resolution actions set out in the resolution plan; and\n(b) after consulting the competent authorities, including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the resolution entity after the implementation of the preferred resolution strategy.\nThe Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph by an appropriate amount necessary to ensure that, following resolution, the entity is able to sustain sufficient market confidence for an appropriate period, which shall not exceed one year.\nWhere the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the application of the resolution tools, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.\nThe amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to sustain market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after implementation of the resolution strategy. That amount shall be adjusted upwards if, after consulting the competent authorities, including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), for an appropriate period which shall not exceed one year.\n4. For resolution entities that are not subject to Article 92a of Regulation (EU) No 575/2013 and that are part of a resolution group the total assets of which exceed EUR 100 billion, the level of the requirement referred to in paragraph 3 of this Article shall be at least equal to:\n(a) 13,5 % when calculated in accordance with point (a) of Article 12a(2); and\n(b) 5 % when calculated in accordance with point (b) of Article 12a(2).\nBy way of derogation from Article 12c, the resolution entities referred to in the first subparagraph of this paragraph shall meet a level of the requirement referred to in the first subparagraph of this paragraph that is equal to 13,5 % when calculated in accordance with point (a) of Article 12a(2) and to 5 % when calculated in accordance with point (b) of Article 12a(2) using own funds, subordinated eligible instruments, or liabilities as referred to in Article 12c(3) of this Regulation.\n5. At the request of the national resolution authority of a resolution entity, the Board shall apply the requirements laid down in paragraph 4 of this Article to a resolution entity which is not subject to Article 92a of Regulation (EU) No 575/2013 and which is part of a resolution group the total assets of which are lower than EUR 100 billion and which the national resolution authority has assessed as reasonably likely to pose a systemic risk in the event of its failure.\nWhen taking a decision to make a request as referred to in the first subparagraph of this paragraph, the national resolution authority shall take into account:\n(a) the prevalence of deposits, and the absence of debt instruments, in the funding model;\n(b) the extent to which access to the capital markets for eligible liabilities is limited;\n(c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 12f.\nThe absence of a request by the national resolution authority pursuant to the first subparagraph of this paragraph is without prejudice to any decision of the Board under Article 12c(5).\n6. For entities that are not themselves resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:\n(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the entity; and\n(ii) a recapitalisation amount that allows the entity to restore compliance with its total capital ratio requirement referred in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group; and\n(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed that corresponds to the entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013; and\n(ii) a recapitalisation amount that allows the entity to restore compliance with its leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.\nFor the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.\nFor the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.\nWhen setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).\nWhen setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:\n(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from actions set out in the resolution plan; and\n(b) after consulting the competent authorities including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the relevant entity after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.\nThe Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph of this paragraph by an appropriate amount necessary to ensure that, following the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21, the entity is able to sustain sufficient market confidence for an appropriate period which shall not exceed one year.\nWhere the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the exercise of the power referred to in Article 21 of this Regulation or after the resolution of the resolution group, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.\nThe amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to ensure market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after the exercise of the power referred to in Article 21 or after the resolution of the resolution group. That amount shall be adjusted upwards if, after consulting the competent authorities including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3) for an appropriate period which shall not exceed one year.\n7. Where the Board expects that certain classes of eligible liabilities are reasonably likely to be fully or partially excluded from bail-in pursuant to Article 27(5) or might be transferred in full to a recipient under a partial transfer, the requirement referred to in Article 12a(1) shall be met using own funds or other eligible liabilities that are sufficient to:\n(a) cover the amount of excluded liabilities identified in accordance with Article 27(5);\n(b) ensure that the conditions referred to in paragraph 2 are fulfilled.\n8. Any decision by the Board to impose a minimum requirement of own funds and eligible liabilities under this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraphs 2 to 7 of this Article, and shall be reviewed by the Board without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU.\n9. For the purposes of paragraphs 3 and 6 of this Article, capital requirements shall be interpreted in accordance with the competent authority's application of the transitional provisions laid down in Chapters 1, 2 and 4 of Title I of Part Ten of Regulation (EU) No 575/2013 and in the provisions of national legislation exercising the options granted to the competent authorities by that Regulation.",
+        "after": "Article 12d\nDetermination of the minimum requirement for own funds and eligible liabilities\n1. The requirement referred to in Article 12a(1) shall be determined by the Board, after consulting the competent authorities, including the ECB, on the basis of the following criteria:\n(a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;\n(b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;\n(c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity has sufficient own funds and other eligible liabilities to absorb losses and to restore its total capital ratio and, as applicable, its leverage ratio, to the level necessary to enable it to continue to comply with the conditions for authorisation and to carry on the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU;\n(d) the size, the business model, the funding model and the risk profile of the entity;\n(e) the extent to which the failure of the entity would have an adverse effect on financial stability, including through contagion to other institutions or entities, due to the interconnectedness of the entity with those other institutions or entities or with the rest of the financial system.\n2. Where the resolution plan provides that resolution action is to be taken or that the power to write down and convert relevant capital instruments and eligible liabilities in accordance with Article 21 is to be exercised in accordance with the relevant scenario referred to in Article 8(6), the requirement referred to in Article 12a(1) shall equal an amount sufficient to ensure that:\n(a) the losses that are expected to be incurred by the entity are fully absorbed (loss absorption);\n(b) the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) or (3) but are not resolution entities are recapitalised to a level necessary to enable them to continue to comply with the conditions for authorisation, and to carry on the activities for which they are authorised under Directive 2013/36/EU, Directive 2014/65/EU or an equivalent legislative act for an appropriate period not longer than one year (recapitalisation).\nWhere the resolution plan provides that the entity is to be wound up under normal insolvency proceedings or other equivalent national procedures, the Board shall assess whether it is justified to limit the requirement referred to in Article 12a(1) for that entity, so that it does not exceed an amount sufficient to absorb losses in accordance with point (a) of the first subparagraph.\nThe assessment by the Board shall evaluate, in particular, the limit referred to in the second subparagraph as regards any possible impact on financial stability and on the risk of contagion to the financial system.\n2a. The Board shall not determine the requirement referred to in Article 12a(1) for liquidation entities.\nBy way of derogation from the first subparagraph, the Board may assess whether it is justified to determine the requirement referred to in Article 12a(1) for a liquidation entity on an individual basis in an amount exceeding the amount sufficient to absorb losses in accordance with paragraph 2, point (a), of this Article. The Board shall take into account in its assessment, in particular, any possible impact on financial stability and on the risk of contagion to the financial system, including with regard to the financing capacity of deposit guarantee schemes. Where the Board determines the requirement referred to in Article 12a(1), the liquidation entity shall meet that requirement by using one or more of the following:\n(a) own funds;\n(b) liabilities that fulfil the eligibility criteria referred to in Article 72a of Regulation (EU) No 575/2013, with the exception of Article 72b(2), points (b) and (d), of that Regulation;\n(c) the liabilities referred to in Article 12c(2).\nArticle 77(2) and Article 78a of Regulation (EU) No 575/2013 shall not apply to liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) of this Regulation.\nHoldings of own funds instruments and eligible liabilities instruments issued by subsidiary institutions which are liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) shall not be deducted under Article 72e(5) of Regulation (EU) No 575/2013.\nBy way of derogation from the fourth subparagraph, an institution or entity referred to in Article 2 that is not itself a resolution entity but is a subsidiary of a resolution entity or of a third-country entity that would be a resolution entity if it were established in the Union shall deduct its holdings of own funds instruments in subsidiary institutions that belong to the same resolution group and that are liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) where the aggregate amount of those holdings is equal to or exceeds 7 % of the total amount of its own funds and liabilities that comply with the eligibility criteria specified in Article 12g(2), calculated annually as of 31 December as an average over the previous 12 months.\n3. For resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:\n(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed in resolution that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the resolution entity at the consolidated resolution group level; and\n(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with its total capital ratio requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU at the consolidated resolution group level after the implementation of the preferred resolution strategy; and\n(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed in resolution that corresponds to the resolution entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level; and\n(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with the leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level after the implementation of the preferred resolution strategy.\nFor the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.\nFor the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.\nWhen setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).\nWhen setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:\n(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from resolution actions set out in the resolution plan; and\n(b) after consulting the competent authorities, including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the resolution entity after the implementation of the preferred resolution strategy.\nThe Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph by an appropriate amount necessary to ensure that, following resolution, the entity is able to sustain sufficient market confidence for an appropriate period, which shall not exceed one year.\nWhere the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the application of the resolution tools, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.\nThe amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to sustain market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after implementation of the resolution strategy. That amount shall be adjusted upwards if, after consulting the competent authorities, including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), for an appropriate period which shall not exceed one year.\n4. For resolution entities that are not subject to Article 92a of Regulation (EU) No 575/2013 and that are part of a resolution group the total assets of which exceed EUR 100 billion, the level of the requirement referred to in paragraph 3 of this Article shall be at least equal to:\n(a) 13,5 % when calculated in accordance with point (a) of Article 12a(2); and\n(b) 5 % when calculated in accordance with point (b) of Article 12a(2).\nBy way of derogation from Article 12c, the resolution entities referred to in the first subparagraph of this paragraph shall meet a level of the requirement referred to in the first subparagraph of this paragraph that is equal to 13,5 % when calculated in accordance with point (a) of Article 12a(2) and to 5 % when calculated in accordance with point (b) of Article 12a(2) using own funds, subordinated eligible instruments, or liabilities as referred to in Article 12c(3) of this Regulation.\n5. At the request of the national resolution authority of a resolution entity, the Board shall apply the requirements laid down in paragraph 4 of this Article to a resolution entity which is not subject to Article 92a of Regulation (EU) No 575/2013 and which is part of a resolution group the total assets of which are lower than EUR 100 billion and which the national resolution authority has assessed as reasonably likely to pose a systemic risk in the event of its failure.\nWhen taking a decision to make a request as referred to in the first subparagraph of this paragraph, the national resolution authority shall take into account:\n(a) the prevalence of deposits, and the absence of debt instruments, in the funding model;\n(b) the extent to which access to the capital markets for eligible liabilities is limited;\n(c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 12f.\nThe absence of a request by the national resolution authority pursuant to the first subparagraph of this paragraph is without prejudice to any decision of the Board under Article 12c(5).\n6. For entities that are not themselves resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:\n(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the entity; and\n(ii) a recapitalisation amount that allows the entity to restore compliance with its total capital ratio requirement referred in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group; and\n(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:\n(i) the amount of the losses to be absorbed that corresponds to the entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013; and\n(ii) a recapitalisation amount that allows the entity to restore compliance with its leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.\nFor the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.\nFor the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.\nWhen setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).\nWhen setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:\n(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from actions set out in the resolution plan; and\n(b) after consulting the competent authorities including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the relevant entity after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.\nThe Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph of this paragraph by an appropriate amount necessary to ensure that, following the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21, the entity is able to sustain sufficient market confidence for an appropriate period which shall not exceed one year.\nWhere the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the exercise of the power referred to in Article 21 of this Regulation or after the resolution of the resolution group, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.\nThe amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to ensure market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after the exercise of the power referred to in Article 21 or after the resolution of the resolution group. That amount shall be adjusted upwards if, after consulting the competent authorities including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3) for an appropriate period which shall not exceed one year.\n7. Where the Board expects that certain classes of eligible liabilities are reasonably likely to be fully or partially excluded from bail-in pursuant to Article 27(5) or might be transferred in full to a recipient under a partial transfer, the requirement referred to in Article 12a(1) shall be met using own funds or other eligible liabilities that are sufficient to:\n(a) cover the amount of excluded liabilities identified in accordance with Article 27(5);\n(b) ensure that the conditions referred to in paragraph 2 are fulfilled.\n8. Any decision by the Board to impose a minimum requirement of own funds and eligible liabilities under this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraphs 2 to 7 of this Article, and shall be reviewed by the Board without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU.\n9. For the purposes of paragraphs 3 and 6 of this Article, capital requirements shall be interpreted in accordance with the competent authority's application of the transitional provisions laid down in Chapters 1, 2 and 4 of Title I of Part Ten of Regulation (EU) No 575/2013 and in the provisions of national legislation exercising the options granted to the competent authorities by that Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 12d PA 2a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024L1174",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-11-14",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024L1174 DEL; 32024L1174 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (2) (a); AR 002 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 2a is added, stating that the Board shall not determine the requirement referred to in Article 12a(1) for liquidation entities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20241114",
+                "location": "AR 12d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d",
+              "label": "Art. 12d, 02014R0806-20241114"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph 2a also allows the Board to assess whether determining that requirement for a liquidation entity on an individual basis, in an amount exceeding the loss-absorption amount under paragraph 2(a), is justified, listing own funds, eligible liabilities meeting Article 72a criteria (with named exceptions), and liabilities referred to in Article 12c(2) as the means of meeting such a requirement.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20241114",
+                "location": "AR 12d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d",
+              "label": "Art. 12d, 02014R0806-20241114"
+            }
+          ]
+        },
+        {
+          "text": "It further states that Article 77(2) and Article 78a of Regulation (EU) No 575/2013 do not apply to liquidation entities for which the Board has not set the requirement, that holdings of own funds and eligible liabilities instruments issued by such subsidiary liquidation entities are not deducted under Article 72e(5) of that Regulation, and that an institution or entity that is a subsidiary of a resolution entity or of a would-be resolution entity third-country entity must deduct such holdings in same-group liquidation entities once the aggregate reaches or exceeds 7% of the relevant own funds and liabilities total, calculated annually as of 31 December as a 12-month average; no such provisions exist in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20240513",
+                "location": "AR 12d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12d",
+              "label": "Art. 12d, 02014R0806-20240513"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20241114",
+                "location": "AR 12d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d",
+              "label": "Art. 12d, 02014R0806-20241114"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0806",
+            "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+          },
+          "version": "02014R0806-20241114",
+          "location": "AR 12g"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024L1174",
+            "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2024-05-13, 2024-11-14]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002 (3) (a); AR 002 (3) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0806",
+      "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+    },
+    "from_version": "02014R0806-20240513",
+    "to_version": "02014R0806-20241114",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 12d"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 12d"
+        ],
+        "note": "4 annotations in (2024-05-13, 2024-11-14]",
+        "claims": [
+          {
+            "location": "AR 12d PA 2 ALN 3",
+            "change_type": "DELETED",
+            "in_force": "2024-11-14",
+            "source": "32024L1174 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PA 1 PO 24aa",
+            "change_type": "INSERTED",
+            "in_force": "2024-11-14",
+            "source": "32024L1174 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 12d PA 2 ALN 2",
+            "change_type": "DELETED",
+            "in_force": "2024-11-14",
+            "source": "32024L1174 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 12d PA 2a",
+            "change_type": "INSERTED",
+            "in_force": "2024-11-14",
+            "source": "32024L1174 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 12d",
+          "AR 12g"
+        ],
+        "note": "32024L1174, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 3 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12d PA 2",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 002 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12d PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12g PA 1 ALN 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12g PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 12g PA 2b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 002 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024L1174",
+              "display_name": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 12g",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 12g"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 2,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 24475,
+      "output_tokens": 853,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 5,
+    "citations": 7,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

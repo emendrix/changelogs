@@ -10,6 +10,103 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20241114 -->
+## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
+### `02014R0806-20240513` → `02014R0806-20241114`
+
+- **Act** `eu:32014R0806` · **In force** 2024-11-14 · **Detected** 2026-08-13
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 109 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02014R0806-20240513` · `v2` = `02014R0806-20241114`
+
+---
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 PA 1 ALN 1 PO 24aa` · *amended by* `32024L1174`
+
+A new definition, point (24aa), has been inserted between existing points (24a) and (24b), introducing the term 'liquidation entity' and describing it as a legal person established in a participating Member State for which the group resolution plan, or in the case of entities not part of a group the resolution plan, provides for winding up under normal insolvency proceedings, or as an entity within a resolution group other than a resolution entity for which the group resolution plan does not provide for exercise of write-down and conversion powers. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
+
+No other definitions in Article 3 were altered between the two versions. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
+
+*before* (`02014R0806-20240513`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation the following definitions apply:
+> (1) national competent authority means any national competent authority as defined in Article 2(2) of Regulation (EU) No 1024/2013;
+> (2) competent authority means a competent authority as defined in Article 4(2)(i) of Regulation (EU) No 1093/2010;
+> (3) national resolution authority means an authority designated by a participating Member State in accordance with Article 3 of Directive 2014/59/EU;
+> (4) relevant national resolution authority means the national resolution authority of a participating Member State in which an entity or a group's entity is established;
+> (5) conditions for resolution means the conditions referred to in Article 18(1);
+> (6) resolution plan means a plan drawn up in accordance with Article 8 or 9;
+> (7) group resolution plan means a plan for group resolution drawn up in accordance with Articles 8 and 9;
+> (8) resolution objectives means the objectives referred to in Article 14;
+> (9) resolution tool means a resolution tool referred to in Article 22(2);
+> (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
+> (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
+> (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
+> (13) institution me […truncated by emendrix: 9636 characters omitted…]
+
+*after* (`02014R0806-20241114`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation the following definitions apply:
+> (1) national competent authority means any national competent authority as defined in Article 2(2) of Regulation (EU) No 1024/2013;
+> (2) competent authority means a competent authority as defined in Article 4(2)(i) of Regulation (EU) No 1093/2010;
+> (3) national resolution authority means an authority designated by a participating Member State in accordance with Article 3 of Directive 2014/59/EU;
+> (4) relevant national resolution authority means the national resolution authority of a participating Member State in which an entity or a group's entity is established;
+> (5) conditions for resolution means the conditions referred to in Article 18(1);
+> (6) resolution plan means a plan drawn up in accordance with Article 8 or 9;
+> (7) group resolution plan means a plan for group resolution drawn up in accordance with Articles 8 and 9;
+> (8) resolution objectives means the objectives referred to in Article 14;
+> (9) resolution tool means a resolution tool referred to in Article 22(2);
+> (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
+> (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
+> (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
+> (13) institution me […truncated by emendrix: 10110 characters omitted…]
+
+**MODIFIED · Art. 12d — Determination of the minimum requirement for own funds and eligible liabilities** · applies from: unchanged
+
+*within* `AR 12d PA 2a` · *amended by* `32024L1174`
+
+A new paragraph 2a is added, stating that the Board shall not determine the requirement referred to in Article 12a(1) for liquidation entities. [Art. 12d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d)
+
+The new paragraph 2a also allows the Board to assess whether determining that requirement for a liquidation entity on an individual basis, in an amount exceeding the loss-absorption amount under paragraph 2(a), is justified, listing own funds, eligible liabilities meeting Article 72a criteria (with named exceptions), and liabilities referred to in Article 12c(2) as the means of meeting such a requirement. [Art. 12d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d)
+
+It further states that Article 77(2) and Article 78a of Regulation (EU) No 575/2013 do not apply to liquidation entities for which the Board has not set the requirement, that holdings of own funds and eligible liabilities instruments issued by such subsidiary liquidation entities are not deducted under Article 72e(5) of that Regulation, and that an institution or entity that is a subsidiary of a resolution entity or of a would-be resolution entity third-country entity must deduct such holdings in same-group liquidation entities once the aggregate reaches or exceeds 7% of the relevant own funds and liabilities total, calculated annually as of 31 December as a 12-month average; no such provisions exist in the earlier text. [Art. 12d, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12d) [Art. 12d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_12d)
+
+*before* (`02014R0806-20240513`)
+
+> Article 12d
+> Determination of the minimum requirement for own funds and eligible liabilities
+> 1. The requirement referred to in Article 12a(1) shall be determined by the Board, after consulting the competent authorities, including the ECB, on the basis of the following criteria:
+> (a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
+> (b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+> (c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity h […truncated by emendrix: 15893 characters omitted…]
+
+*after* (`02014R0806-20241114`)
+
+> Article 12d
+> Determination of the minimum requirement for own funds and eligible liabilities
+> 1. The requirement referred to in Article 12a(1) shall be determined by the Board, after consulting the competent authorities, including the ECB, on the basis of the following criteria:
+> (a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
+> (b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+> (c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity h […truncated by emendrix: 18285 characters omitted…]
+
+**MODIFIED · Art. 12g** · applies from: unknown
+
+*amended by* `32024L1174`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20241114 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20240513 -->
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `02014R0806-20220812` → `02014R0806-20240513`
