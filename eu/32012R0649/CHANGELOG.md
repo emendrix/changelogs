@@ -10,6 +10,167 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20250301 -->
+## Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and […]
+### `02012R0649-20231101` → `02012R0649-20250301`
+
+- **Act** `eu:32012R0649` · **In force** 2025-03-01 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02012R0649-20231101` · `v2` = `02012R0649-20250301`
+
+---
+
+**MODIFIED · Annex I — LIST OF CHEMICALS (referred to in Article 7)** · applies from: unchanged
+
+*within* `AN I` · *amended by* `32024R3199`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Parts 1 and 2 of Annex I add numerous new chemical entries, such as Abamectin, Acrolein, Asulam-sodium, Bendiocarb, Benfluralin, Chloridazon, Chlorsulfuron, Dihexyl phthalate, Fenpropimorph, Molinate, Oxadiazon, Oxamyl, Profenofos, Silver copper zeolite, Silver zeolite, S-metolachlor, Sodium perborate, Sodium peroxometaborate, Spirotetramat, Tralkoxydim, Triadimenol, Triflusulfuron-methyl and Warfarin, each with its CAS/EC numbers, CN codes, category and use limitation. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_I)
+
+Several entries present in the earlier text, such as Azinphos-methyl's separate listing details, Rotenone's use limitation, Terbufos's use limitation, Warfarin's placement, and Simazine's use-limitation coding, have been altered or moved between the two versions. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_I)
+
+The truncated portion of Part 3 in the AFTER text cuts off mid-entry, so no further comparison can be made beyond what is shown. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_I)
+
+*before* (`02012R0649-20231101`)
+
+> ANNEX I
+> LIST OF CHEMICALS
+> (referred to in Article 7)
+> PART 1
+> List of chemicals subject to export notification procedure
+> (referred to in Article 8)
+> It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in Article 8(6), first subparagraph, points (b) and (c), have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
+> It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
+> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).Except motor fuels subject to Directive 98/7 […truncated by emendrix: 37730 characters omitted…]
+
+*after* (`02012R0649-20250301`)
+
+> ANNEX I
+> LIST OF CHEMICALS
+> (referred to in Article 7)
+> PART 1
+> List of chemicals subject to export notification procedure
+> (referred to in Article 8)
+> It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in Article 8(6), first subparagraph, points (b) and (c), have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
+> It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
+> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).Except motor fuels subject to Directive 98/7 […truncated by emendrix: 42500 characters omitted…]
+
+**MODIFIED · Annex V — ANNEX V** · applies from: unchanged
+
+*within* `AN V` · *amended by* `32024R3199`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02012R0649-20231101`)
+
+> ANNEX V
+> Chemicals and articles subject to export ban
+> (referred to in Article 15)
+> PART 1
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
+> Aldrin EC No 206-215-8
+> CAS No 309-00-2
+> CN code ex29038200
+> Chlordane EC No 200-349-0
+> CAS No 57-74-9
+> CN code ex29038200
+> Chlordecone EC No 205-601-3
+> CAS No 143-50-0
+> CN code ex29147100
+> Dicofol EC No 204-082-0
+> CAS No 115-32-2
+> CN code ex29062900
+> Dieldrin EC No 200-484-5
+> CAS No 60-57-1
+> CN code ex29104000
+> DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane) EC No 200-024-3
+> CAS No 50-29-3
+> CN code ex29039200
+> Endosulfan EC No 204-079-4
+> CAS No 115-29-7
+> CN code 29203000
+> Endrin EC No 200-775-7
+> CAS No 72-20-8
+> CN code ex29105000
+> Heptabromodiphenyl ether C12H3Br7O EC No 273-031-2
+> CAS No 68928-80-3 and others
+> CN code ex29093038
+> Heptachlor EC No 200-962-3
+> CAS No 76-44-8
+> CN code ex29038200
+> Hexabromobiphenyl EC No 252-994-2
+> CAS No 36355-01-8
+> CN code ex29039400
+> Hexabromocyclododecane EC No 247-148-4, 221-695-9
+> CAS No 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 and others
+> CN code ex29038980
+> Hexabromodiphenyl ether C12H4Br6O EC No 253-058-6
+> CAS No 36483-60-0 and others
+> CN code ex29093038
+> Hexachlorobenzene EC No 204-273-9
+> CAS No 118-74-1
+> CN code ex29039200
+> Hexachlorobutadiene EC No […truncated by emendrix: 7708 characters omitted…]
+
+*after* (`02012R0649-20250301`)
+
+> ANNEX V
+> Chemicals and articles subject to export ban
+> (referred to in Article 15)
+> PART 1
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
+> Aldrin EC No 206-215-8
+> CAS No 309-00-2
+> CN code ex29038200
+> Chlordane EC No 200-349-0
+> CAS No 57-74-9
+> CN code ex29038200
+> Chlordecone EC No 205-601-3
+> CAS No 143-50-0
+> CN code ex29147100
+> Dicofol EC No 204-082-0
+> CAS No 115-32-2
+> CN code ex29062900
+> Dieldrin EC No 200-484-5
+> CAS No 60-57-1
+> CN code ex29104000
+> DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane) EC No 200-024-3
+> CAS No 50-29-3
+> CN code ex29039200
+> Endosulfan EC No 204-079-4
+> CAS No 115-29-7, 959-98-8, 33213-65-9
+> CN code ex29203000
+> Endrin EC No 200-775-7
+> CAS No 72-20-8
+> CN code ex29105000
+> Heptabromodiphenyl ether C12H3Br7O EC No 273-031-2
+> CAS No 68928-80-3 and others
+> CN code ex29093038
+> Heptachlor EC No 200-962-3
+> CAS No 76-44-8
+> CN code ex29038200
+> Hexabromobiphenyl EC No 252-994-2
+> CAS No 36355-01-8
+> CN code ex29039400
+> Hexabromocyclododecane EC No 247-148-4, 221-695-9
+> CAS No 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 and others
+> CN code ex29038980
+> Hexabromodiphenyl ether C12H4Br6O EC No 253-058-6
+> CAS No 36483-60-0 and others
+> CN code ex29093038
+> Hexachlorobenzene EC No 204-273-9
+> CAS No 118-74-1
+> CN code ex29039200
+> H […truncated by emendrix: 7891 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0649-20250301 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20231101 -->
 ## Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and […]
 ### `02012R0649-20220701` → `02012R0649-20231101`
