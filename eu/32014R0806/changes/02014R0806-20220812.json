@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0806",
+    "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+  },
+  "from_version": "02014R0806-20210626",
+  "to_version": "02014R0806-20220812",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2022-08-12"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 110,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0806",
+            "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+          },
+          "version": "02014R0806-20220812",
+          "location": "AR 2"
+        },
+        "heading": "Scope",
+        "before": "Article 2\nScope\nThis Regulation shall apply to the following entities:\n(a) credit institutions established in a participating Member State;\n(b) parent undertakings, including financial holding companies and mixed financial holding companies, established in a participating Member State, where they are subject to consolidated supervision carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013;\n(c) investment firms and financial institutions established in a participating Member State, where they are covered by the consolidated supervision of the parent undertaking carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013.",
+        "after": "Article 2\nScope\n1. This Regulation shall apply to the following entities:\n(a) credit institutions established in a participating Member State;\n(b) parent undertakings, including financial holding companies and mixed financial holding companies, established in a participating Member State, where they are subject to consolidated supervision carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013;\n(c) investment firms and financial institutions established in a participating Member State, where they are covered by the consolidated supervision of the parent undertaking carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013.\n2. This Regulation shall not apply to entities that are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 PA 1",
+          "AR 2 PA 2",
+          "AR 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2022-08-12",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0023 M; 32021R0023 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 094 (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of entities the Regulation applies to is now numbered as paragraph 1, whereas before it stood as unnumbered introductory text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20220812",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_2",
+              "label": "Art. 2, 02014R0806-20220812"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20210626",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_2",
+              "label": "Art. 2, 02014R0806-20210626"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 2 has been added stating that the Regulation does not apply to entities that are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20220812",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_2",
+              "label": "Art. 2, 02014R0806-20220812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0806",
+      "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+    },
+    "from_version": "02014R0806-20210626",
+    "to_version": "02014R0806-20220812",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "2 annotations in (2021-06-26, 2022-08-12]",
+        "claims": [
+          {
+            "location": "AR 2 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PA 2",
+            "change_type": "INSERTED",
+            "in_force": "2022-08-12",
+            "source": "32021R0023 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "32021R0023, 0.938 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 094 (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0023",
+              "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 2880,
+      "output_tokens": 218,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

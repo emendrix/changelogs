@@ -10,6 +10,46 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20220812 -->
+## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
+### `02014R0806-20210626` → `02014R0806-20220812`
+
+- **Act** `eu:32014R0806` · **In force** 2022-08-12 · **Detected** 2026-08-13
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02014R0806-20210626` · `v2` = `02014R0806-20220812`
+
+---
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 1`, `AR 2 PA 2`, `AR 2 ALN 1` · *amended by* `32021R0023`
+
+The list of entities the Regulation applies to is now numbered as paragraph 1, whereas before it stood as unnumbered introductory text. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_2)
+
+A new paragraph 2 has been added stating that the Regulation does not apply to entities that are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_2)
+
+*before* (`02014R0806-20210626`)
+
+> Article 2
+> Scope
+> This Regulation shall apply to the following entities:
+> (a) credit institutions established in a participating Member State;
+> (b) parent undertakings, including financial holding companies and mixed financial holding companies, established in a participating Member State, where they are subject to consolidated supervision carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013;
+> (c) investment firms and financial institutions established in a participating Member State, where they are covered by the consolidated supervision of the parent undertaking carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013.
+
+*after* (`02014R0806-20220812`)
+
+> Article 2
+> Scope
+> 1. This Regulation shall apply to the following entities:
+> (a) credit institutions established in a participating Member State;
+> (b) parent undertakings, including financial holding companies and mixed financial holding companies, established in a participating Member State, where they are subject to consolidated supervision carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013;
+> (c) investment firms and financial institutions established in a participating Member State, where they are covered by the consolidated supervision of the parent undertaking carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013.
+> 2. This Regulation shall not apply to entities that are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20220812 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20210626 -->
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `02014R0806-20201228` → `02014R0806-20210626`
