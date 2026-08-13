@@ -10,6 +10,193 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20240109 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20230628` → `02013R0575-20240109`
+
+- **Act** `eu:32013R0575` · **In force** 2024-01-01, 2024-01-09 · **Detected** 2026-08-13
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 725 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20230628` · `v2` = `02013R0575-20240109`
+
+---
+
+**MODIFIED · Art. 49 — Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied** · applies from: unchanged
+
+*within* `AR 49 PA 2 ALN 4` · *amended by* `32022R2036`
+
+Paragraph 2 now adds a new sentence stating that the paragraph does not apply with regard to the deductions set out in Article 72e(5). [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_49)
+
+The prior version of paragraph 2 contained only the earlier exclusion referring to Articles 92a, 92b and the deduction framework in Article 72e(4), without any reference to Article 72e(5). [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_49)
+
+*before* (`02013R0575-20230628`)
+
+> Article 49
+> Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied
+> 1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:
+> (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
+> (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
+> (c) the institution has received the prior permission of the competent authorities;
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5589 characters omitted…]
+
+*after* (`02013R0575-20240109`)
+
+> Article 49
+> Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied
+> 1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:
+> (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
+> (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
+> (c) the institution has received the prior permission of the competent authorities;
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5677 characters omitted…]
+
+**MODIFIED · Art. 72e — Deductions from eligible liabilities items** · applies from: unchanged
+
+*within* `AR 72e PA 5` · *amended by* `32022R2036`
+
+The after text adds a new paragraph 5 requiring institutions and entities referred to in Article 1(1), points (b), (c) and (d), of Directive 2014/59/EU to deduct from eligible liabilities items their holdings of own funds instruments and eligible liabilities instruments when specified conditions concerning subsidiary and resolution-entity status are met. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e)
+
+This new paragraph also sets out a derogation from that deduction requirement where the holding entity complies with the relevant requirement on a consolidated basis and the issuing entity is included in that consolidation, and it clarifies how the terms eligible liabilities items and own funds instruments and eligible liabilities instruments are to be understood for purposes of the paragraph. [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e)
+
+Paragraphs 1 through 4 remain unchanged between the two versions. [Art. 72e, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_72e) [Art. 72e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e)
+
+*before* (`02013R0575-20230628`)
+
+> Article 72e
+> Deductions from eligible liabilities items
+> 1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+> (a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+> (c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+> 2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilitie […truncated by emendrix: 4245 characters omitted…]
+
+*after* (`02013R0575-20240109`)
+
+> Article 72e
+> Deductions from eligible liabilities items
+> 1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+> (a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+> (b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+> (c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+> (d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+> 2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilitie […truncated by emendrix: 6758 characters omitted…]
+
+**MODIFIED · Art. 113 — Calculation of risk-weighted exposure amounts** · applies from: unchanged
+
+*within* `AR 113 PA 1 ALN 1` · *amended by* `32022R2036`
+
+Paragraph 1 now excludes from the risk-weighting requirement not only exposures deducted from own funds but also exposures subject to the treatment set out in Article 72e(5), first subparagraph. [Art. 113, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_113)
+
+The rest of the article, including paragraphs 2 through 7, remains textually unchanged between the two versions. [Art. 113, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_113) [Art. 113, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_113)
+
+*before* (`02013R0575-20230628`)
+
+> Article 113
+> Calculation of risk-weighted exposure amounts
+> 1. To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless deducted from own funds, in accordance with the provisions of Section 2. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of export credit agencies in accordance with Section 3.
+> 2. For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with Section 2.
+> 3. Where an exposure is subject to credit protection the risk weight applicable to that item may be amended in accordance with Chapter 4.
+> 4. Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Chapter 5.
+> 5. Exposures for which no calculation is provided in Section 2 shall be assigned a risk-weight of 100 %.
+> 6. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertak […truncated by emendrix: 3724 characters omitted…]
+
+*after* (`02013R0575-20240109`)
+
+> Article 113
+> Calculation of risk-weighted exposure amounts
+> 1. To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless those exposures are deducted from own funds or are subject to the treatment set out in Article 72e(5), first subparagraph, in accordance with the provisions of Section 2. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of export credit agencies in accordance with Section 3.
+> 2. For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with Section 2.
+> 3. Where an exposure is subject to credit protection the risk weight applicable to that item may be amended in accordance with Chapter 4.
+> 4. Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Chapter 5.
+> 5. Exposures for which no calculation is provided in Section 2 shall be assigned a risk-weight of 100 %.
+> 6. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a […truncated by emendrix: 3822 characters omitted…]
+
+**MODIFIED · Art. 151 — Treatment by exposure class** · applies from: unchanged
+
+*within* `AR 151 PA 1 ALN 1` · *amended by* `32022R2036`
+
+Paragraph 1 now excludes from the Sub-section 2 calculation not only exposures deducted from own funds but also those subject to the treatment set out in the first subparagraph of Article 72e(5), whereas the earlier text referred only to deduction from own funds and separately excepted exposures deducted from Common Equity Tier 1, Additional Tier 1 or Tier 2 items. [Art. 151, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_151) [Art. 151, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_151)
+
+The cross-reference to the exposure classes was also reformatted from citing points (a) to (e) and (g) of Article 147(2) collectively to citing Article 147(2), points (a) to (e) and point (g), separately. [Art. 151, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_151)
+
+*before* (`02013R0575-20230628`)
+
+> Article 151
+> Treatment by exposure class
+> 1. The risk-weighted exposure amounts for credit risk for exposures belonging to one of the exposure classes referred to in points (a) to (e) and (g) of 147(2) shall, unless deducted from own funds, be calculated in accordance with Sub-section 2 except where those exposures are deducted from Common Equity Tier 1 items, Additional Tier 1 items or Tier 2 items.
+> 2. The risk-weighted exposure amounts for dilution risk for purchased receivables shall be calculated in accordance with Article 157. Where an institution has full recourse to the seller of purchased receivables for default risk and for dilution risk, the provisions of this Article and Article 152 and Article 158(1) to (4) in relation to purchased receivables shall not apply and the exposure shall be treated as a collateralised exposure.
+> 3. The calculation of risk-weighted exposure amounts for credit risk and dilution risk shall be based on the relevant parameters associated with the exposure in question. These shall include PD, LGD, maturity (hereinafter referred to as M) and exposure value of the exposure. PD and LGD may be considered separately or jointly, in accordance with Section 4.
+> 4. Institutions shall calculate risk-weighted exposure amounts for credit risk for all exposures belonging to the exposure class equity referred to in point (e) of Article 147(2) in accordance with Article 155. Institutions may use the approaches set out in Article 155(3) and (4) where they have r […truncated by emendrix: 1687 characters omitted…]
+
+*after* (`02013R0575-20240109`)
+
+> Article 151
+> Treatment by exposure class
+> 1. The risk-weighted exposure amounts for credit risk for exposures belonging to one of the exposure classes referred to in Article 147(2), points (a) to (e) and point (g), shall, unless those exposures are deducted from own funds or are subject to the treatment set out in Article 72e(5), first subparagraph, be calculated in accordance with Sub-section 2.
+> 2. The risk-weighted exposure amounts for dilution risk for purchased receivables shall be calculated in accordance with Article 157. Where an institution has full recourse to the seller of purchased receivables for default risk and for dilution risk, the provisions of this Article and Article 152 and Article 158(1) to (4) in relation to purchased receivables shall not apply and the exposure shall be treated as a collateralised exposure.
+> 3. The calculation of risk-weighted exposure amounts for credit risk and dilution risk shall be based on the relevant parameters associated with the exposure in question. These shall include PD, LGD, maturity (hereinafter referred to as M) and exposure value of the exposure. PD and LGD may be considered separately or jointly, in accordance with Section 4.
+> 4. Institutions shall calculate risk-weighted exposure amounts for credit risk for all exposures belonging to the exposure class equity referred to in point (e) of Article 147(2) in accordance with Article 155. Institutions may use the approaches set out in Article 155(3) and (4) where they have recei […truncated by emendrix: 1683 characters omitted…]
+
+**MODIFIED · Art. 429a — Exposures excluded from the total exposure measure** · applies from: unchanged
+
+*within* `AR 429a PA 1 ALN 1 PTA (p)`, `AR 429a PA 1 ALN 1 PTA (q)` · *amended by* `32022R2036`
+
+The point (p) list item now ends with a semicolon instead of a full stop, reflecting that an additional item follows it. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a)
+
+A new point (q) has been added to the list of exposures that an institution may exclude from its total exposure measure, covering exposures subject to the treatment set out in the first subparagraph of Article 72e(5). [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a)
+
+*before* (`02013R0575-20230628`)
+
+> Article 429a
+> Exposures excluded from the total exposure measure
+> 1. By way of derogation from Article 429(4), an institution may exclude any of the following exposures from its total exposure measure:
+> (a) the amounts deducted from Common Equity Tier 1 items in accordance with point (d) of Article 36(1);
+> (b) the assets deducted in the calculation of the capital measure referred to in Article 429(3);
+> (c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);
+> (d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;
+> (e) where the institution is not a public development credit institution, the parts of exposures arising from passing-through promotional loans to other credit institutions;
+> (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
+> (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
+> (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8309 characters omitted…]
+
+*after* (`02013R0575-20240109`)
+
+> Article 429a
+> Exposures excluded from the total exposure measure
+> 1. By way of derogation from Article 429(4), an institution may exclude any of the following exposures from its total exposure measure:
+> (a) the amounts deducted from Common Equity Tier 1 items in accordance with point (d) of Article 36(1);
+> (b) the assets deducted in the calculation of the capital measure referred to in Article 429(3);
+> (c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);
+> (d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;
+> (e) where the institution is not a public development credit institution, the parts of exposures arising from passing-through promotional loans to other credit institutions;
+> (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
+> (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
+> (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8408 characters omitted…]
+
+**INSERTED · Art. 434b — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32023R2869`
+
+This is a newly inserted article requiring institutions to submit information disclosed under Part Eight of the Regulation to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified metadata and format requirements. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
+
+It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure correctness of submitted metadata. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
+
+*after* (`02013R0575-20240109`)
+
+> Article 434b
+> Accessibility of information on the European single access point
+> 1. From 10 January 2030, when making public any information referred to in Part Eight of this Regulation, the institutions shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> That information shall comply with the following requirements:
+> (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+> (b) be accompanied by the following metadata:
+> (i) all the names of the institution to which the information relates;
+> (ii) the legal entity identifier of the institution, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+> (iii) the size of the institution by category, as specified pursuant to Article 7(4), point (d), of that Regula […truncated by emendrix: 1513 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20240109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20230628 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20230101` → `02013R0575-20230628`

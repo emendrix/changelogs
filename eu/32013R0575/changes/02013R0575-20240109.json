@@ -1,0 +1,846 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R0575",
+    "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "02013R0575-20230628",
+  "to_version": "02013R0575-20240109",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2024-01-01",
+    "2024-01-09"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 725,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 49"
+        },
+        "heading": "Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied",
+        "before": "Article 49\nRequirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied\n1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:\n(a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;\n(b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;\n(c) the institution has received the prior permission of the competent authorities;\n(d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be included in the scope of consolidation under method 1, 2 or 3 is adequate;\n(e) the holdings in the entity belong to one of the following:\n(i) the parent credit institution;\n(ii) the parent financial holding company;\n(iii) the parent mixed financial holding company;\n(iv) the institution;\n(v) a subsidiary of one of the entities referred to in points (i) to (iv) that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One.\nThe method chosen shall be applied in a consistent manner over time.\n2. For the purposes of calculating own funds on an individual basis and a sub-consolidated basis, institutions subject to supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One shall not deduct holdings of own funds instruments issued by financial sector entities included in the scope of consolidated supervision, unless the competent authorities determine those deductions to be required for specific purposes, in particular structural separation of banking activities and resolution planning.\nApplying the approach referred to in the first subparagraph shall not entail disproportionate adverse effects on the whole or parts of the financial system in other Member States or in the Union as a whole forming or creating an obstacle to the functioning of the internal market.\nThis paragraph shall not apply when calculating own funds for the purposes of the requirements laid down in Articles 92a and 92b, which shall be calculated in accordance with the deduction framework set out in Article 72e(4).\n3. Competent authorities may, for the purposes of calculating own funds on an individual or sub-consolidated basis permit institutions not to deduct holdings of own funds instruments in the following cases:\n(a) where an institution has a holding in another institution and the conditions referred to in points (i) to (v) are met:\n(i) the institutions fall within the same institutional protection scheme referred to in Article 113(7);\n(ii) the competent authorities have granted the permission referred to in Article 113(7);\n(iii) the conditions laid down in Article 113(7) are satisfied;\n(iv) the institutional protection scheme draws up a consolidated balance sheet referred to in point (e) of Article 113(7) or, where it is not required to draw up consolidated accounts, an extended aggregated calculation that is, to the satisfaction of the competent authorities, equivalent to the provisions of Directive 86/635/EEC, which incorporates certain adaptations of the provisions of Directive 83/349/EEC or of Regulation (EC) No 1606/2002, governing the consolidated accounts of groups of credit institutions. The equivalence of that extended aggregated calculation shall be verified by an external auditor and in particular that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme is eliminated in the calculation. The consolidated balance sheet or the extended aggregated calculation shall be reported to the competent authorities with the frequency set out in the implementing technical standards referred to in Article 430(7);\n(v) the institutions included in an institutional protection scheme meet together on a consolidated or extended aggregated basis the requirements laid down in Article 92 and carry out reporting of compliance with those requirements in accordance with Article 430. Within an institutional protection scheme the deduction of the interest owned by co-operative members or legal entities, which are not members of the institutional protection scheme, is not required, provided that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme and the minority shareholder, when it is an institution, is eliminated.\n(b) where a regional credit institution has a holding in its central or another regional credit institution and the conditions laid down in points (a)(i) to (v) are met.\n4. The holdings in respect of which deduction is not made in accordance with paragraph 1, 2 or 3 shall qualify as exposures and shall be risk weighted in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable.\n5. Where an institution applies method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the institution shall disclose the supplementary own funds requirement and capital adequacy ratio of the financial conglomerate as calculated in accordance with Article 6 of and Annex I to that Directive.\n6. EBA, EIOPA and the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010OJ L 331, 15.12.2010, p. 84. shall, through the Joint Committee, develop draft regulatory technical standards to specify for the purposes of this Article the conditions of application of the calculation methods listed in Annex I, Part II of Directive 2002/87/EC for the purposes of the alternatives to deduction referred to in paragraph 1 of this Article.\nEBA, EIOPA and ESMA shall submit those draft regulatory technical standards to the Commission by 28 July 2013.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.",
+        "after": "Article 49\nRequirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied\n1. For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:\n(a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;\n(b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;\n(c) the institution has received the prior permission of the competent authorities;\n(d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be included in the scope of consolidation under method 1, 2 or 3 is adequate;\n(e) the holdings in the entity belong to one of the following:\n(i) the parent credit institution;\n(ii) the parent financial holding company;\n(iii) the parent mixed financial holding company;\n(iv) the institution;\n(v) a subsidiary of one of the entities referred to in points (i) to (iv) that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One.\nThe method chosen shall be applied in a consistent manner over time.\n2. For the purposes of calculating own funds on an individual basis and a sub-consolidated basis, institutions subject to supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One shall not deduct holdings of own funds instruments issued by financial sector entities included in the scope of consolidated supervision, unless the competent authorities determine those deductions to be required for specific purposes, in particular structural separation of banking activities and resolution planning.\nApplying the approach referred to in the first subparagraph shall not entail disproportionate adverse effects on the whole or parts of the financial system in other Member States or in the Union as a whole forming or creating an obstacle to the functioning of the internal market.\nThis paragraph shall not apply when calculating own funds for the purposes of the requirements laid down in Articles 92a and 92b, which shall be calculated in accordance with the deduction framework set out in Article 72e(4).\nThis paragraph shall not apply with regard to the deductions set out in Article 72e(5).\n3. Competent authorities may, for the purposes of calculating own funds on an individual or sub-consolidated basis permit institutions not to deduct holdings of own funds instruments in the following cases:\n(a) where an institution has a holding in another institution and the conditions referred to in points (i) to (v) are met:\n(i) the institutions fall within the same institutional protection scheme referred to in Article 113(7);\n(ii) the competent authorities have granted the permission referred to in Article 113(7);\n(iii) the conditions laid down in Article 113(7) are satisfied;\n(iv) the institutional protection scheme draws up a consolidated balance sheet referred to in point (e) of Article 113(7) or, where it is not required to draw up consolidated accounts, an extended aggregated calculation that is, to the satisfaction of the competent authorities, equivalent to the provisions of Directive 86/635/EEC, which incorporates certain adaptations of the provisions of Directive 83/349/EEC or of Regulation (EC) No 1606/2002, governing the consolidated accounts of groups of credit institutions. The equivalence of that extended aggregated calculation shall be verified by an external auditor and in particular that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme is eliminated in the calculation. The consolidated balance sheet or the extended aggregated calculation shall be reported to the competent authorities with the frequency set out in the implementing technical standards referred to in Article 430(7);\n(v) the institutions included in an institutional protection scheme meet together on a consolidated or extended aggregated basis the requirements laid down in Article 92 and carry out reporting of compliance with those requirements in accordance with Article 430. Within an institutional protection scheme the deduction of the interest owned by co-operative members or legal entities, which are not members of the institutional protection scheme, is not required, provided that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme and the minority shareholder, when it is an institution, is eliminated.\n(b) where a regional credit institution has a holding in its central or another regional credit institution and the conditions laid down in points (a)(i) to (v) are met.\n4. The holdings in respect of which deduction is not made in accordance with paragraph 1, 2 or 3 shall qualify as exposures and shall be risk weighted in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable.\n5. Where an institution applies method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the institution shall disclose the supplementary own funds requirement and capital adequacy ratio of the financial conglomerate as calculated in accordance with Article 6 of and Annex I to that Directive.\n6. EBA, EIOPA and the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010OJ L 331, 15.12.2010, p. 84. shall, through the Joint Committee, develop draft regulatory technical standards to specify for the purposes of this Article the conditions of application of the calculation methods listed in Annex I, Part II of Directive 2002/87/EC for the purposes of the alternatives to deduction referred to in paragraph 1 of this Article.\nEBA, EIOPA and ESMA shall submit those draft regulatory technical standards to the Commission by 28 July 2013.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 49 PA 2 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2036",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2036 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now adds a new sentence stating that the paragraph does not apply with regard to the deductions set out in Article 72e(5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_49",
+              "label": "Art. 49, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The prior version of paragraph 2 contained only the earlier exclusion referring to Articles 92a, 92b and the deduction framework in Article 72e(4), without any reference to Article 72e(5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20230628",
+                "location": "AR 49"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_49",
+              "label": "Art. 49, 02013R0575-20230628"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 72e"
+        },
+        "heading": "Deductions from eligible liabilities items",
+        "before": "Article 72e\nDeductions from eligible liabilities items\n1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:\n(a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;\n(b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;\n(c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;\n(d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.\n2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilities pursuant to Article 72b(3) and (4).\n3. For the purposes of this Section, institutions may calculate the amount of holdings of the eligible liabilities instruments referred to in Article 72b(3) as follows:hiHiliLi\nwhere:\nh\nthe amount of holdings of the eligible liabilities instruments referred to in Article 72b(3);\ni\nthe index denoting the issuing institution;\nHi\nthe total amount of holdings of eligible liabilities of the issuing institution i referred to in Article 72b(3);\nli\nthe amount of liabilities included in eligible liabilities items by the issuing institution i within the limits specified in Article 72b(3) according to the latest disclosures by the issuing institution; and\nLi\nthe total amount of the outstanding liabilities of the issuing institution i referred to in Article 72b(3) according to the latest disclosures by the issuer.\n4. Where an EU parent institution or a parent institution in a Member State that is subject to Article 92a has direct, indirect or synthetic holdings of own funds instruments or eligible liabilities instruments of one or more subsidiaries which do not belong to the same resolution group as that parent institution, the resolution authority of that parent institution, after duly considering the opinion of the resolution authorities or relevant third-country authorities of any subsidiaries concerned, may permit the parent institution to deduct such holdings by deducting a lower amount specified by the resolution authority of that parent institution. That adjusted amount shall be at least equal to the amount (m) calculated as follows:\nmi = max{0; OPi + LPi – max{0; β · [Oi + Li – max{ri · aRWAi; wi · aLREi}]}}\nwhere:\ni\nthe index denoting the subsidiary;\nOPi\nthe amount of own funds instruments issued by subsidiary i and held by the parent institution;\nLPi\nthe amount of eligible liabilities instruments issued by subsidiary i and held by the parent institution;\nβ\npercentage of own funds instruments and eligible liabilities instruments issued by subsidiary i and held by the parent undertaking, calculated as follows:\nβOPiLPithe amount of all own funds instruments and eligible liabilities instruments issued by subsidiary i;\nOi\nthe amount of own funds of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;\nLi\nthe amount of eligible liabilities of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;\nri\nthe ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (a), of this Regulation and Article 45c(3), first subparagraph, point (a), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;\naRWAi\nthe total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3), taking into account the adjustments set out in Article 12a or, for third-country subsidiaries, calculated in accordance with the applicable local regulations;\nwi\nthe ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (b), of this Regulation and of Article 45c(3), first subparagraph, point (b), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;\naLREi\nthe total exposure measure of the G-SII entity i calculated in accordance with Article 429(4) or, for third-country subsidiaries, calculated in accordance with the applicable local regulations.\nWhere the parent institution is allowed to deduct the adjusted amount in accordance with the first subparagraph, the difference between the amount of holdings of own funds instruments and eligible liabilities instruments referred to in the first subparagraph and that adjusted amount shall be deducted by the subsidiary.",
+        "after": "Article 72e\nDeductions from eligible liabilities items\n1. Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:\n(a) direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;\n(b) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;\n(c) the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;\n(d) direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.\n2. For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilities pursuant to Article 72b(3) and (4).\n3. For the purposes of this Section, institutions may calculate the amount of holdings of the eligible liabilities instruments referred to in Article 72b(3) as follows:hiHiliLi\nwhere:\nh\nthe amount of holdings of the eligible liabilities instruments referred to in Article 72b(3);\ni\nthe index denoting the issuing institution;\nHi\nthe total amount of holdings of eligible liabilities of the issuing institution i referred to in Article 72b(3);\nli\nthe amount of liabilities included in eligible liabilities items by the issuing institution i within the limits specified in Article 72b(3) according to the latest disclosures by the issuing institution; and\nLi\nthe total amount of the outstanding liabilities of the issuing institution i referred to in Article 72b(3) according to the latest disclosures by the issuer.\n4. Where an EU parent institution or a parent institution in a Member State that is subject to Article 92a has direct, indirect or synthetic holdings of own funds instruments or eligible liabilities instruments of one or more subsidiaries which do not belong to the same resolution group as that parent institution, the resolution authority of that parent institution, after duly considering the opinion of the resolution authorities or relevant third-country authorities of any subsidiaries concerned, may permit the parent institution to deduct such holdings by deducting a lower amount specified by the resolution authority of that parent institution. That adjusted amount shall be at least equal to the amount (m) calculated as follows:\nmi = max{0; OPi + LPi – max{0; β · [Oi + Li – max{ri · aRWAi; wi · aLREi}]}}\nwhere:\ni\nthe index denoting the subsidiary;\nOPi\nthe amount of own funds instruments issued by subsidiary i and held by the parent institution;\nLPi\nthe amount of eligible liabilities instruments issued by subsidiary i and held by the parent institution;\nβ\npercentage of own funds instruments and eligible liabilities instruments issued by subsidiary i and held by the parent undertaking, calculated as follows:\nβOPiLPithe amount of all own funds instruments and eligible liabilities instruments issued by subsidiary i;\nOi\nthe amount of own funds of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;\nLi\nthe amount of eligible liabilities of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;\nri\nthe ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (a), of this Regulation and Article 45c(3), first subparagraph, point (a), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;\naRWAi\nthe total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3), taking into account the adjustments set out in Article 12a or, for third-country subsidiaries, calculated in accordance with the applicable local regulations;\nwi\nthe ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (b), of this Regulation and of Article 45c(3), first subparagraph, point (b), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;\naLREi\nthe total exposure measure of the G-SII entity i calculated in accordance with Article 429(4) or, for third-country subsidiaries, calculated in accordance with the applicable local regulations.\nWhere the parent institution is allowed to deduct the adjusted amount in accordance with the first subparagraph, the difference between the amount of holdings of own funds instruments and eligible liabilities instruments referred to in the first subparagraph and that adjusted amount shall be deducted by the subsidiary.\n5. Institutions and entities referred to in Article 1(1), points (b), (c) and (d), of Directive 2014/59/EU shall deduct from eligible liabilities items their holdings of own funds instruments and eligible liabilities instruments where all of the following conditions are met:\n(a) the own funds instruments and eligible liabilities instruments are held by an institution or entity that is not itself a resolution entity but that is a subsidiary of a resolution entity or of a third-country entity that would be a resolution entity if it were established in the Union;\n(b) the institution or entity referred to in point (a) is required to comply with the requirements laid down in Article 92b of this Regulation or in Article 45f of Directive 2014/59/EU;\n(c) the own funds instruments and eligible liabilities instruments held by the institution or entity referred to in point (a) were issued by an institution or entity referred to in Article 92b(1) of this Regulation or in Article 45f(1) of Directive 2014/59/EU that is not itself a resolution entity and that belongs to the same resolution group as the institution or entity referred to in point (a).\nBy way of derogation from the first subparagraph, holdings of own funds instruments and eligible liabilities instruments shall not be deducted where the institution or entity referred to in point (a) of the first subparagraph is required to comply with the requirement referred to in point (b) of the first subparagraph on a consolidated basis and the institution or entity referred to in point (c) of the first subparagraph is included in the consolidation of the institution or entity referred to in point (a) of the first subparagraph in accordance with Part One, Title II, Chapter 2.\nFor the purposes of this paragraph, the reference to eligible liabilities items shall be understood as a reference to any of the following:\n(a) eligible liabilities items taken into account for the purposes of complying with the requirement laid down in Article 92b;\n(b) liabilities that meet the conditions set out in Article 45f(2), point (a), of Directive 2014/59/EU.\nFor the purposes of this paragraph, the reference to own funds instruments and eligible liabilities instruments shall be understood as a reference to any of the following:\n(a) own funds instruments and eligible liabilities instruments that meet the conditions set out in Article 92b(2) and (3);\n(b) own funds and liabilities that meet the conditions set out in Article 45f(2) of Directive 2014/59/EU.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 72e PA 5"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2036",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2036 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The after text adds a new paragraph 5 requiring institutions and entities referred to in Article 1(1), points (b), (c) and (d), of Directive 2014/59/EU to deduct from eligible liabilities items their holdings of own funds instruments and eligible liabilities instruments when specified conditions concerning subsidiary and resolution-entity status are met.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 72e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e",
+              "label": "Art. 72e, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "This new paragraph also sets out a derogation from that deduction requirement where the holding entity complies with the relevant requirement on a consolidated basis and the issuing entity is included in that consolidation, and it clarifies how the terms eligible liabilities items and own funds instruments and eligible liabilities instruments are to be understood for purposes of the paragraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 72e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e",
+              "label": "Art. 72e, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 through 4 remain unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20230628",
+                "location": "AR 72e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_72e",
+              "label": "Art. 72e, 02013R0575-20230628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 72e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_72e",
+              "label": "Art. 72e, 02013R0575-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 113"
+        },
+        "heading": "Calculation of risk-weighted exposure amounts",
+        "before": "Article 113\nCalculation of risk-weighted exposure amounts\n1. To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless deducted from own funds, in accordance with the provisions of Section 2. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of export credit agencies in accordance with Section 3.\n2. For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with Section 2.\n3. Where an exposure is subject to credit protection the risk weight applicable to that item may be amended in accordance with Chapter 4.\n4. Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Chapter 5.\n5. Exposures for which no calculation is provided in Section 2 shall be assigned a risk-weight of 100 %.\n6. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC. Competent authorities are empowered to grant approval if the following conditions are fulfilled:\n(a) the counterparty is an institution, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;\n(b) the counterparty is included in the same consolidation as the institution on a full basis;\n(c) the counterparty is subject to the same risk evaluation, measurement and control procedures as the institution;\n(d) the counterparty is established in the same Member State as the institution;\n(e) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the institution.\nWhere the institution, in accordance with this paragraph, is authorised not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.\n7. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 and Tier 2 items, institutions may, subject to the prior permission of the competent authorities, not apply the requirements of paragraph 1 of this Article to exposures to counterparties with which the institution has entered into an institutional protection scheme that is a contractual or statutory liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to avoid bankruptcy where necessary. Competent authorities are empowered to grant permission if the following conditions are fulfilled:\n(a) the requirements set out in points (a), (d) and (e) of paragraph 6 are met;\n(b) the arrangements ensure that the institutional protection scheme is able to grant support necessary under its commitment from funds readily available to it;\n(c) the institutional protection scheme disposes of suitable and uniformly stipulated systems for the monitoring and classification of risk, which gives a complete overview of the risk situations of all the individual members and the institutional protection scheme as a whole, with corresponding possibilities to take influence; those systems shall suitably monitor defaulted exposures in accordance with Article 178(1);\n(d) the institutional protection scheme conducts its own risk review which is communicated to the individual members;\n(e) the institutional protection scheme draws up and publishes on an annual basis, a consolidated report comprising the balance sheet, the profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole, or a report comprising the aggregated balance sheet, the aggregated profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole;\n(f) members of the institutional protection scheme are obliged to give advance notice of at least 24 months if they wish to end the institutional protection scheme;\n(g) the multiple use of elements eligible for the calculation of own funds (hereinafter referred to as multiple gearing) as well as any inappropriate creation of own funds between the members of the institutional protection scheme shall be eliminated;\n(h) the institutional protection scheme shall be based on a broad membership of credit institutions of a predominantly homogeneous business profile;\n(i) the adequacy of the systems referred to in points (c) and (d) is approved and monitored at regular intervals by the relevant competent authorities.\nWhere the institution, in accordance with this paragraph, decides not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.",
+        "after": "Article 113\nCalculation of risk-weighted exposure amounts\n1. To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless those exposures are deducted from own funds or are subject to the treatment set out in Article 72e(5), first subparagraph, in accordance with the provisions of Section 2. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of export credit agencies in accordance with Section 3.\n2. For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with Section 2.\n3. Where an exposure is subject to credit protection the risk weight applicable to that item may be amended in accordance with Chapter 4.\n4. Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Chapter 5.\n5. Exposures for which no calculation is provided in Section 2 shall be assigned a risk-weight of 100 %.\n6. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC. Competent authorities are empowered to grant approval if the following conditions are fulfilled:\n(a) the counterparty is an institution, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;\n(b) the counterparty is included in the same consolidation as the institution on a full basis;\n(c) the counterparty is subject to the same risk evaluation, measurement and control procedures as the institution;\n(d) the counterparty is established in the same Member State as the institution;\n(e) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the institution.\nWhere the institution, in accordance with this paragraph, is authorised not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.\n7. With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 and Tier 2 items, institutions may, subject to the prior permission of the competent authorities, not apply the requirements of paragraph 1 of this Article to exposures to counterparties with which the institution has entered into an institutional protection scheme that is a contractual or statutory liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to avoid bankruptcy where necessary. Competent authorities are empowered to grant permission if the following conditions are fulfilled:\n(a) the requirements set out in points (a), (d) and (e) of paragraph 6 are met;\n(b) the arrangements ensure that the institutional protection scheme is able to grant support necessary under its commitment from funds readily available to it;\n(c) the institutional protection scheme disposes of suitable and uniformly stipulated systems for the monitoring and classification of risk, which gives a complete overview of the risk situations of all the individual members and the institutional protection scheme as a whole, with corresponding possibilities to take influence; those systems shall suitably monitor defaulted exposures in accordance with Article 178(1);\n(d) the institutional protection scheme conducts its own risk review which is communicated to the individual members;\n(e) the institutional protection scheme draws up and publishes on an annual basis, a consolidated report comprising the balance sheet, the profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole, or a report comprising the aggregated balance sheet, the aggregated profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole;\n(f) members of the institutional protection scheme are obliged to give advance notice of at least 24 months if they wish to end the institutional protection scheme;\n(g) the multiple use of elements eligible for the calculation of own funds (hereinafter referred to as multiple gearing) as well as any inappropriate creation of own funds between the members of the institutional protection scheme shall be eliminated;\n(h) the institutional protection scheme shall be based on a broad membership of credit institutions of a predominantly homogeneous business profile;\n(i) the adequacy of the systems referred to in points (c) and (d) is approved and monitored at regular intervals by the relevant competent authorities.\nWhere the institution, in accordance with this paragraph, decides not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 113 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2036",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2036 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now excludes from the risk-weighting requirement not only exposures deducted from own funds but also exposures subject to the treatment set out in Article 72e(5), first subparagraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_113",
+              "label": "Art. 113, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The rest of the article, including paragraphs 2 through 7, remains textually unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20230628",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_113",
+              "label": "Art. 113, 02013R0575-20230628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 113"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_113",
+              "label": "Art. 113, 02013R0575-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 151"
+        },
+        "heading": "Treatment by exposure class",
+        "before": "Article 151\nTreatment by exposure class\n1. The risk-weighted exposure amounts for credit risk for exposures belonging to one of the exposure classes referred to in points (a) to (e) and (g) of 147(2) shall, unless deducted from own funds, be calculated in accordance with Sub-section 2 except where those exposures are deducted from Common Equity Tier 1 items, Additional Tier 1 items or Tier 2 items.\n2. The risk-weighted exposure amounts for dilution risk for purchased receivables shall be calculated in accordance with Article 157. Where an institution has full recourse to the seller of purchased receivables for default risk and for dilution risk, the provisions of this Article and Article 152 and Article 158(1) to (4) in relation to purchased receivables shall not apply and the exposure shall be treated as a collateralised exposure.\n3. The calculation of risk-weighted exposure amounts for credit risk and dilution risk shall be based on the relevant parameters associated with the exposure in question. These shall include PD, LGD, maturity (hereinafter referred to as M) and exposure value of the exposure. PD and LGD may be considered separately or jointly, in accordance with Section 4.\n4. Institutions shall calculate risk-weighted exposure amounts for credit risk for all exposures belonging to the exposure class equity referred to in point (e) of Article 147(2) in accordance with Article 155. Institutions may use the approaches set out in Article 155(3) and (4) where they have received the prior permission of the competent authorities. Competent authorities shall grant permission for an institution to use the internal models approach set out in Article 155(4) provided that the institution meets the requirements set out in Sub-section 4 of Section 6.\n5. The calculation of risk weighted exposure amounts for credit risk for specialised lending exposures may be calculated in accordance with Article 153(5).\n6. For exposures belonging to the exposure classes referred to in points (a) to (d) of Article 147(2), institutions shall provide their own estimates of PDs in accordance with Article 143 and Section 6.\n7. For exposures belonging to the exposure class referred to in point (d) of Article 147(2), institutions shall provide own estimates of LGDs and conversion factors in accordance with Article 143 and Section 6.\n8. For exposures belonging to the exposure classes referred to in points (a) to (c) of Article 147(2), institutions shall apply the LGD values set out in Article 161(1), and the conversion factors set out in Article 166(8)(a) to (d), unless it has been permitted to use its own estimates of LGDs and conversion factors for those exposure classes in accordance with paragraph 9.\n9. For all exposures belonging to the exposure classes referred to in points (a) to (c) of Article 147(2), the competent authority shall permit institutions to use own estimates of LGDs and conversion factors in accordance with Article 143 and Section 6.\n10. The risk-weighted exposure amounts for securitised exposures and for exposures belonging to the exposure class referred to in point (f) of Article 147(2) shall be calculated in accordance with Chapter 5.",
+        "after": "Article 151\nTreatment by exposure class\n1. The risk-weighted exposure amounts for credit risk for exposures belonging to one of the exposure classes referred to in Article 147(2), points (a) to (e) and point (g), shall, unless those exposures are deducted from own funds or are subject to the treatment set out in Article 72e(5), first subparagraph, be calculated in accordance with Sub-section 2.\n2. The risk-weighted exposure amounts for dilution risk for purchased receivables shall be calculated in accordance with Article 157. Where an institution has full recourse to the seller of purchased receivables for default risk and for dilution risk, the provisions of this Article and Article 152 and Article 158(1) to (4) in relation to purchased receivables shall not apply and the exposure shall be treated as a collateralised exposure.\n3. The calculation of risk-weighted exposure amounts for credit risk and dilution risk shall be based on the relevant parameters associated with the exposure in question. These shall include PD, LGD, maturity (hereinafter referred to as M) and exposure value of the exposure. PD and LGD may be considered separately or jointly, in accordance with Section 4.\n4. Institutions shall calculate risk-weighted exposure amounts for credit risk for all exposures belonging to the exposure class equity referred to in point (e) of Article 147(2) in accordance with Article 155. Institutions may use the approaches set out in Article 155(3) and (4) where they have received the prior permission of the competent authorities. Competent authorities shall grant permission for an institution to use the internal models approach set out in Article 155(4) provided that the institution meets the requirements set out in Sub-section 4 of Section 6.\n5. The calculation of risk weighted exposure amounts for credit risk for specialised lending exposures may be calculated in accordance with Article 153(5).\n6. For exposures belonging to the exposure classes referred to in points (a) to (d) of Article 147(2), institutions shall provide their own estimates of PDs in accordance with Article 143 and Section 6.\n7. For exposures belonging to the exposure class referred to in point (d) of Article 147(2), institutions shall provide own estimates of LGDs and conversion factors in accordance with Article 143 and Section 6.\n8. For exposures belonging to the exposure classes referred to in points (a) to (c) of Article 147(2), institutions shall apply the LGD values set out in Article 161(1), and the conversion factors set out in Article 166(8)(a) to (d), unless it has been permitted to use its own estimates of LGDs and conversion factors for those exposure classes in accordance with paragraph 9.\n9. For all exposures belonging to the exposure classes referred to in points (a) to (c) of Article 147(2), the competent authority shall permit institutions to use own estimates of LGDs and conversion factors in accordance with Article 143 and Section 6.\n10. The risk-weighted exposure amounts for securitised exposures and for exposures belonging to the exposure class referred to in point (f) of Article 147(2) shall be calculated in accordance with Chapter 5.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 151 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2036",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2036 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now excludes from the Sub-section 2 calculation not only exposures deducted from own funds but also those subject to the treatment set out in the first subparagraph of Article 72e(5), whereas the earlier text referred only to deduction from own funds and separately excepted exposures deducted from Common Equity Tier 1, Additional Tier 1 or Tier 2 items.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20230628",
+                "location": "AR 151"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_151",
+              "label": "Art. 151, 02013R0575-20230628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 151"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_151",
+              "label": "Art. 151, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The cross-reference to the exposure classes was also reformatted from citing points (a) to (e) and (g) of Article 147(2) collectively to citing Article 147(2), points (a) to (e) and point (g), separately.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 151"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_151",
+              "label": "Art. 151, 02013R0575-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 429a"
+        },
+        "heading": "Exposures excluded from the total exposure measure",
+        "before": "Article 429a\nExposures excluded from the total exposure measure\n1. By way of derogation from Article 429(4), an institution may exclude any of the following exposures from its total exposure measure:\n(a) the amounts deducted from Common Equity Tier 1 items in accordance with point (d) of Article 36(1);\n(b) the assets deducted in the calculation of the capital measure referred to in Article 429(3);\n(c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);\n(d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;\n(e) where the institution is not a public development credit institution, the parts of exposures arising from passing-through promotional loans to other credit institutions;\n(f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:\n(i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;\n(ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);\n(g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they are cleared with that QCCP and meet the conditions set out in point (c) of Article 306(1);\n(h) where the institution is a higher-level client within a multi-level client structure, the trade exposures to the clearing member or to an entity that serves as a higher-level client to that institution, provided that the conditions set out in Article 305(2) are met and provided that the institution is not obligated to reimburse its client for any losses suffered in the event of default of either the clearing member or the QCCP;\n(i) fiduciary assets which meet all the following conditions:\n(i) they are recognised on the institution's balance sheet by national generally accepted accounting principles, in accordance with Article 10 of Directive 86/635/EEC;\n(ii) they meet the criteria for non-recognition set out in International Financial Reporting Standard (IFRS) 9, as applied in accordance with Regulation (EC) No 1606/2002;\n(iii) they meet the criteria for non-consolidation set out in IFRS 10, as applied in accordance with Regulation (EC) No 1606/2002, where applicable;\n(j) exposures that meet all the following conditions:\n(i) they are exposures to a public sector entity;\n(ii) they are treated in accordance with Article 116(4);\n(iii) they arise from deposits that the institution is legally obliged to transfer to the public sector entity referred to in point (i) for the purpose of funding general interest investments;\n(k) the excess collateral deposited at tri-party agents that has not been lent out;\n(l) where under the applicable accounting framework an institution recognises the variation margin paid in cash to its counterparty as a receivable asset, the receivable asset, provided that the conditions set out in points (a) to (e) of Article 429c(3) are met;\n(m) the securitised exposures from traditional securitisations that meet the conditions for significant risk transfer set out in Article 244(2);\n(n) the following exposures to the institution’s central bank, subject to the conditions set out in paragraphs 5 and 6:\n(i) coins and banknotes constituting legal currency in the jurisdiction of the central bank;\n(ii) assets representing claims on the central bank, including reserves held at the central bank;\n(o) where the institution is authorised in accordance with Article 16 and point (a) of Article 54(2) of Regulation (EU) No 909/2014, the institution's exposures due to banking-type ancillary services listed in point (a) of Section C of the Annex to that Regulation which are directly related to the core or ancillary services listed in Sections A and B of that Annex;\n(p) where the institution is designated in accordance with point (b) of Article 54(2) of Regulation (EU) No 909/2014, the institution's exposures due to banking-type ancillary services listed in point (a) of Section C of the Annex to that Regulation which are directly related to the core or ancillary services of a central securities depository, authorised in accordance with Article 16 of that Regulation, listed in Sections A and B of that Annex.\nFor the purposes of point (m) of the first subparagraph, institutions shall include any retained exposure in the total exposure measure.\n2. For the purposes of points (d) and (e) of paragraph 1, public development credit institution means a credit institution that meets all the following conditions:\n(a) it has been established by a Member State's central government, regional government or local authority;\n(b) its activity is limited to advancing specified objectives of financial, social or economic public policy in accordance with the laws and provisions governing that institution, including articles of association, on a non-competitive basis;\n(c) its goal is not to maximise profit or market share;\n(d) subject to Union State aid rules, the central government, regional government or local authority has an obligation to protect the credit institution's viability or directly or indirectly guarantees at least 90 % of the credit institution's own funds requirements, funding requirements or promotional loans granted;\n(e) it does not take covered deposits as defined in point (5) of Article 2(1) of Directive 2014/49/EU or in national law implementing that Directive that may be classified as fixed term or savings deposits from consumers as defined in point (a) of Article 3 of Directive 2008/48/EC of the European Parliament and of the CouncilDirective 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)..\nFor the purposes of point (b) of the first subparagraph, public policy objectives may include the provision of financing for promotional or development purposes to specified economic sectors or geographical areas of the relevant Member State.\nFor the purposes of points (d) and (e) of paragraph 1, and without prejudice to the Union State aid rules and the obligations of the Member States thereunder, competent authorities may, upon request of an institution, treat an organisationally, structurally and financially independent and autonomous unit of that institution as a public development credit institution, provided that the unit fulfils all the conditions listed in the first subparagraph and that such treatment does not affect the effectiveness of the supervision of that institution. Competent authorities shall without delay notify the Commission and EBA of any decision to treat, for the purposes of this subparagraph, a unit of an institution as a public development credit institution. The competent authority shall annually review such decision.\n3. For the purposes of points (d) and (e) of paragraph 1 and point (d) of paragraph 2, promotional loan means a loan granted by a public development credit institution or an entity set up by the central government, regional government or local authority of a Member State, directly or through an intermediate credit institution on a non-competitive, not-for-profit basis, in order to promote the public policy objectives of the central government, regional government or local authority in a Member State.\n4. Institutions shall not exclude the trade exposures referred to in points (g) and (h) of paragraph 1 of this Article, where the condition set out in the third subparagraph of Article 429(5) is not met.\n5. Institutions may exclude the exposures listed in point (n) of paragraph 1 where all of the following conditions are met:\n(a) the institution's competent authority has determined, after consultation with the relevant central bank, and publicly declared that exceptional circumstances exist that warrant the exclusion in order to facilitate the implementation of monetary policies;\n(b) the exemption is granted for a limited period of time not exceeding one year;\n(c) the institution’s competent authority has determined, after consultation with the relevant central bank, the date when the exceptional circumstances are deemed to have started and publicly announced that date; that date shall be set at the end of a quarter.\n6. The exposures to be excluded under point (n) of paragraph 1 shall meet both of the following conditions:\n(a) they are denominated in the same currency as the deposits taken by the institution;\n(b) their average maturity does not significantly exceed the average maturity of the deposits taken by the institution.\n7. By way of derogation from point (d) of Article 92(1), where an institution excludes the exposures referred to in point (n) of paragraph 1 of this Article, it shall at all times satisfy the following adjusted leverage ratio requirement for the duration of the exclusion:aLR3 %EMLREMLRCB\nwhere:\naLR\nthe adjusted leverage ratio;\nEMLR\nthe institution’s total exposure measure as calculated in accordance with Article 429(4), including the exposures excluded in accordance with point (n) of paragraph 1 of this Article, on the date referred to in point (c) of paragraph 5 of this Article; and\nCB\nthe daily average total value of the institution’s exposures to its central bank, calculated over the full reserve maintenance period of the central bank immediately preceding the date referred to in point (c) of paragraph 5, that are eligible to be excluded in accordance with point (n) of paragraph 1.",
+        "after": "Article 429a\nExposures excluded from the total exposure measure\n1. By way of derogation from Article 429(4), an institution may exclude any of the following exposures from its total exposure measure:\n(a) the amounts deducted from Common Equity Tier 1 items in accordance with point (d) of Article 36(1);\n(b) the assets deducted in the calculation of the capital measure referred to in Article 429(3);\n(c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);\n(d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;\n(e) where the institution is not a public development credit institution, the parts of exposures arising from passing-through promotional loans to other credit institutions;\n(f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:\n(i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;\n(ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);\n(g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they are cleared with that QCCP and meet the conditions set out in point (c) of Article 306(1);\n(h) where the institution is a higher-level client within a multi-level client structure, the trade exposures to the clearing member or to an entity that serves as a higher-level client to that institution, provided that the conditions set out in Article 305(2) are met and provided that the institution is not obligated to reimburse its client for any losses suffered in the event of default of either the clearing member or the QCCP;\n(i) fiduciary assets which meet all the following conditions:\n(i) they are recognised on the institution's balance sheet by national generally accepted accounting principles, in accordance with Article 10 of Directive 86/635/EEC;\n(ii) they meet the criteria for non-recognition set out in International Financial Reporting Standard (IFRS) 9, as applied in accordance with Regulation (EC) No 1606/2002;\n(iii) they meet the criteria for non-consolidation set out in IFRS 10, as applied in accordance with Regulation (EC) No 1606/2002, where applicable;\n(j) exposures that meet all the following conditions:\n(i) they are exposures to a public sector entity;\n(ii) they are treated in accordance with Article 116(4);\n(iii) they arise from deposits that the institution is legally obliged to transfer to the public sector entity referred to in point (i) for the purpose of funding general interest investments;\n(k) the excess collateral deposited at tri-party agents that has not been lent out;\n(l) where under the applicable accounting framework an institution recognises the variation margin paid in cash to its counterparty as a receivable asset, the receivable asset, provided that the conditions set out in points (a) to (e) of Article 429c(3) are met;\n(m) the securitised exposures from traditional securitisations that meet the conditions for significant risk transfer set out in Article 244(2);\n(n) the following exposures to the institution’s central bank, subject to the conditions set out in paragraphs 5 and 6:\n(i) coins and banknotes constituting legal currency in the jurisdiction of the central bank;\n(ii) assets representing claims on the central bank, including reserves held at the central bank;\n(o) where the institution is authorised in accordance with Article 16 and point (a) of Article 54(2) of Regulation (EU) No 909/2014, the institution's exposures due to banking-type ancillary services listed in point (a) of Section C of the Annex to that Regulation which are directly related to the core or ancillary services listed in Sections A and B of that Annex;\n(p) where the institution is designated in accordance with point (b) of Article 54(2) of Regulation (EU) No 909/2014, the institution's exposures due to banking-type ancillary services listed in point (a) of Section C of the Annex to that Regulation which are directly related to the core or ancillary services of a central securities depository, authorised in accordance with Article 16 of that Regulation, listed in Sections A and B of that Annex;\n(q) the exposures that are subject to the treatment set out in Article 72e(5), first subparagraph.\nFor the purposes of point (m) of the first subparagraph, institutions shall include any retained exposure in the total exposure measure.\n2. For the purposes of points (d) and (e) of paragraph 1, public development credit institution means a credit institution that meets all the following conditions:\n(a) it has been established by a Member State's central government, regional government or local authority;\n(b) its activity is limited to advancing specified objectives of financial, social or economic public policy in accordance with the laws and provisions governing that institution, including articles of association, on a non-competitive basis;\n(c) its goal is not to maximise profit or market share;\n(d) subject to Union State aid rules, the central government, regional government or local authority has an obligation to protect the credit institution's viability or directly or indirectly guarantees at least 90 % of the credit institution's own funds requirements, funding requirements or promotional loans granted;\n(e) it does not take covered deposits as defined in point (5) of Article 2(1) of Directive 2014/49/EU or in national law implementing that Directive that may be classified as fixed term or savings deposits from consumers as defined in point (a) of Article 3 of Directive 2008/48/EC of the European Parliament and of the CouncilDirective 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)..\nFor the purposes of point (b) of the first subparagraph, public policy objectives may include the provision of financing for promotional or development purposes to specified economic sectors or geographical areas of the relevant Member State.\nFor the purposes of points (d) and (e) of paragraph 1, and without prejudice to the Union State aid rules and the obligations of the Member States thereunder, competent authorities may, upon request of an institution, treat an organisationally, structurally and financially independent and autonomous unit of that institution as a public development credit institution, provided that the unit fulfils all the conditions listed in the first subparagraph and that such treatment does not affect the effectiveness of the supervision of that institution. Competent authorities shall without delay notify the Commission and EBA of any decision to treat, for the purposes of this subparagraph, a unit of an institution as a public development credit institution. The competent authority shall annually review such decision.\n3. For the purposes of points (d) and (e) of paragraph 1 and point (d) of paragraph 2, promotional loan means a loan granted by a public development credit institution or an entity set up by the central government, regional government or local authority of a Member State, directly or through an intermediate credit institution on a non-competitive, not-for-profit basis, in order to promote the public policy objectives of the central government, regional government or local authority in a Member State.\n4. Institutions shall not exclude the trade exposures referred to in points (g) and (h) of paragraph 1 of this Article, where the condition set out in the third subparagraph of Article 429(5) is not met.\n5. Institutions may exclude the exposures listed in point (n) of paragraph 1 where all of the following conditions are met:\n(a) the institution's competent authority has determined, after consultation with the relevant central bank, and publicly declared that exceptional circumstances exist that warrant the exclusion in order to facilitate the implementation of monetary policies;\n(b) the exemption is granted for a limited period of time not exceeding one year;\n(c) the institution’s competent authority has determined, after consultation with the relevant central bank, the date when the exceptional circumstances are deemed to have started and publicly announced that date; that date shall be set at the end of a quarter.\n6. The exposures to be excluded under point (n) of paragraph 1 shall meet both of the following conditions:\n(a) they are denominated in the same currency as the deposits taken by the institution;\n(b) their average maturity does not significantly exceed the average maturity of the deposits taken by the institution.\n7. By way of derogation from point (d) of Article 92(1), where an institution excludes the exposures referred to in point (n) of paragraph 1 of this Article, it shall at all times satisfy the following adjusted leverage ratio requirement for the duration of the exclusion:aLR3 %EMLREMLRCB\nwhere:\naLR\nthe adjusted leverage ratio;\nEMLR\nthe institution’s total exposure measure as calculated in accordance with Article 429(4), including the exposures excluded in accordance with point (n) of paragraph 1 of this Article, on the date referred to in point (c) of paragraph 5 of this Article; and\nCB\nthe daily average total value of the institution’s exposures to its central bank, calculated over the full reserve maintenance period of the central bank immediately preceding the date referred to in point (c) of paragraph 5, that are eligible to be excluded in accordance with point (n) of paragraph 1.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 429a PA 1 ALN 1 PTA (p)",
+          "AR 429a PA 1 ALN 1 PTA (q)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2036",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2036 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The point (p) list item now ends with a semicolon instead of a full stop, reflecting that an additional item follows it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 429a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a",
+              "label": "Art. 429a, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "A new point (q) has been added to the list of exposures that an institution may exclude from its total exposure measure, covering exposures subject to the treatment set out in the first subparagraph of Article 72e(5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 429a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a",
+              "label": "Art. 429a, 02013R0575-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R0575",
+            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02013R0575-20240109",
+          "location": "AR 434b"
+        },
+        "heading": "Accessibility of information on the European single access point",
+        "before": null,
+        "after": "Article 434b\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Part Eight of this Regulation, the institutions shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the institution to which the information relates;\n(ii) the legal entity identifier of the institution, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the institution by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), institutions shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EBA.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EBA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EBA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.\nEBA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.\n5. Where necessary, EBA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2869",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-01-09",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2869 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article requiring institutions to submit information disclosed under Part Eight of the Regulation to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified metadata and format requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 434b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b",
+              "label": "Art. 434b, 02013R0575-20240109"
+            }
+          ]
+        },
+        {
+          "text": "It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure correctness of submitted metadata.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240109",
+                "location": "AR 434b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b",
+              "label": "Art. 434b, 02013R0575-20240109"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R0575",
+      "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "02013R0575-20230628",
+    "to_version": "02013R0575-20240109",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 49",
+          "AR 72e",
+          "AR 113",
+          "AR 151",
+          "AR 429a",
+          "AR 434b"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 49",
+          "AR 72e",
+          "AR 113",
+          "AR 151",
+          "AR 429a",
+          "AR 434b"
+        ],
+        "note": "6 annotations in (2023-06-28, 2024-01-09]",
+        "claims": [
+          {
+            "location": "AR 113 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2024-01-01",
+            "source": "32022R2036 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2036",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 72e PA 5",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-01",
+            "source": "32022R2036 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2036",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 151 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2024-01-01",
+            "source": "32022R2036 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2036",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 49 PA 2 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-01",
+            "source": "32022R2036 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2036",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 429a PA 1 PTA (q)",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-01",
+            "source": "32022R2036 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2036",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 434b",
+            "change_type": "INSERTED",
+            "in_force": "2024-01-09",
+            "source": "32023R2869 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2869",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32022R2036, 32023R2869",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 6,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 35881,
+      "output_tokens": 1682,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 14,
+    "citations": 17,
+    "citations_rejected": 0,
+    "notes_dropped": 1,
+    "coordinates_unsupported": 0
+  }
+}
