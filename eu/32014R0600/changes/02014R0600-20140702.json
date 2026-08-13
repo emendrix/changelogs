@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32014R0600",
+    "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+  },
+  "from_version": "32014R0600",
+  "to_version": "02014R0600-20140702",
+  "detected_on": "2026-08-13",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 54,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32014R0600",
+            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+          },
+          "version": "02014R0600-20140702",
+          "location": "AR 55"
+        },
+        "heading": "Entry into force and application",
+        "before": "Article 55\nEntry into force and application\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nThis Regulation shall apply from 3 January 2017.\nNotwithstanding the second paragraph, Article 1(8) and (9), Article 2(2), Article 5(6) and(9), Article 7(2), Article 9(5), Article 11(4), Article 12(2), Article 13(2), Article 14(7), Article 15(5), Article 17(3), Article 19(2) and (3), Article 20(3), Article 21(5), Article 22(4), Article 23(3), Article 25(3), Article 26(9), Article 27(3), Article 28(4), Article 28(5), Article 29(3), Article 30(2), Article 31(4), Article 32(1), (5) and(6), Article 33(2), Article 35(6), Article 36(6), Article 37(4), Article 38(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 46(7), Article 47(1) and (4), Article 52(10) and (12) and Article 54(1) shall apply immediately following the entry into force of this Regulation.\nNotwithstanding the second paragraph, Article 37(1), (2) and (3) shall apply from 3 January 2019.",
+        "after": "Article 55\nEntry into force and application\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nThis Regulation shall apply from 3 January 2017.\nNotwithstanding the second paragraph, Article 1(8) and (9), Article 2(2), Article 4(6), Article 5(6) and (9), Article 7(2), Article 9(5), Article 11(4), Article 12(2), Article 13(2), Article 14(7), Article 15(5), Article 17(3), Article 19(2) and (3), Article 20(3), Article 21(5), Article 22(4), Article 23(3), Article 25(3), Article 26(9), Article 27(3), Article 28(4), Article 28(5), Article 29(3), Article 30(2), Article 31(4), Article 32(1), (5) and(6), Article 33(2), Article 35(6), Article 36(6), Article 37(4), Article 38(3), Article 40(8), Article 41(8), Article 42(7), Article 45(10), Article 46(7), Article 47(1) and (4), Article 52(10) and (12) and Article 54(1) shall apply immediately following the entry into force of this Regulation.\nNotwithstanding the second paragraph, Article 37(1), (2) and (3) shall apply from 3 January 2019.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 55 ALN 3"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2014-07-02]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of provisions that apply immediately following entry into force now also includes Article 4(6), which was not present in that list before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20140702",
+                "location": "AR 55"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20140702#art_55",
+              "label": "Art. 55, 02014R0600-20140702"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32014R0600",
+      "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+    },
+    "from_version": "32014R0600",
+    "to_version": "02014R0600-20140702",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 55"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2014-07-02]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 3253,
+      "output_tokens": 106,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 1,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
