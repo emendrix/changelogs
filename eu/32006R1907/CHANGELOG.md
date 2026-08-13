@@ -10,6 +10,177 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20140822 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20140410` → `02006R1907-20140822`
+
+- **Act** `eu:32006R1907` · **In force** 2014-08-22 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20140410` · `v2` = `02006R1907-20140822`
+
+---
+
+**MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN XIV` · *dates* +2016-02-22 +2016-05-22 +2017-07-22 +2017-08-22 +2017-11-22 +2019-01-22 · *amended by* `32014R0895`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The list of substances subject to authorisation now includes nine additional entries, numbered 23 through 31, covering substances such as technical MDA, arsenic acid, diglyme, 1,2-dichloroethane, MOCA, dichromium tris(chromate), strontium chromate, potassium hydroxyoctaoxodizincatedichromate and pentazinc chromate octahydroxide, each with its own EC and CAS numbers, intrinsic properties, latest application dates and sunset dates. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
+
+The entries numbered 1 through 22 remain otherwise the same in substance and identifying details between the two versions. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
+
+*before* (`02006R1907-20140410`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
+> Latest application date Sunset date
+> 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
+> (Musk xylene)
+> EC No
+> 201-329-4
+> CAS No
+> 81-15-2 vPvB 21 February 2013 21 August 2014 — —
+> 2. 4,4’-Diaminodiphenylmethane
+> (MDA)
+> EC No
+> 202-974-4
+> CAS No
+> 101-77-9 Carcinogenic
+> (category 1B) 21 February 2013 21 August 2014 — —
+> 3. Hexabromocyclododecane
+> (HBCDD)
+> EC No
+> 221-695-9,
+> 247-148-4,
+> CAS No
+> 3194-55-6
+> 25637-99-4
+> alpha-hexabromocyclododecane
+> CAS No
+> 134237-50-6,
+> beta-hexabromocyclododecane
+> CAS No
+> 134237-51-7
+> gamma-hexabromocyclododecane
+> CAS No
+> 134237-52-8 PBT 21 February 2014 21 August 2015 — —
+> 4. Bis(2-ethylhexyl) phthalate
+> (DEHP)
+> EC No
+> 204-211-0
+> CAS No
+> 117-81-7 Toxic for reproduction
+> (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 5. Benzyl butyl phthalate
+> (BBP)
+> EC No
+> 201-622-7
+> CAS No
+> 85-68-7 Toxic for reproduction
+> (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
+> (DBP […truncated by emendrix: 2892 characters omitted…]
+
+*after* (`02006R1907-20140822`)
+
+> ANNEX XIV
+> LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
+> Latest application date Sunset date
+> 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
+> (Musk xylene)
+> EC No
+> 201-329-4
+> CAS No
+> 81-15-2 vPvB 21 February 2013 21 August 2014 — —
+> 2. 4,4’-Diaminodiphenylmethane
+> (MDA)
+> EC No
+> 202-974-4
+> CAS No
+> 101-77-9 Carcinogenic
+> (category 1B) 21 February 2013 21 August 2014 — —
+> 3. Hexabromocyclododecane
+> (HBCDD)
+> EC No
+> 221-695-9,
+> 247-148-4,
+> CAS No
+> 3194-55-6
+> 25637-99-4
+> alpha-hexabromocyclododecane
+> CAS No
+> 134237-50-6,
+> beta-hexabromocyclododecane
+> CAS No
+> 134237-51-7
+> gamma-hexabromocyclododecane
+> CAS No
+> 134237-52-8 PBT 21 February 2014 21 August 2015 — —
+> 4. Bis(2-ethylhexyl) phthalate
+> (DEHP)
+> EC No
+> 204-211-0
+> CAS No
+> 117-81-7 Toxic for reproduction
+> (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 5. Benzyl butyl phthalate
+> (BBP)
+> EC No
+> 201-622-7
+> CAS No
+> 85-68-7 Toxic for reproduction
+> (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
+> (DBP […truncated by emendrix: 4115 characters omitted…]
+
+**MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
+
+*within* `AN XVII APP 2`, `AN XVII APP 6`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02006R1907-20140410`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column 2
+> Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
+> as substances,
+> in mixtures, including waste oils, or in equipment, in concentrations greater than 50 mg/kg (0,005 % by weight).
+> 2. Chloroethene (vinyl chloride)
+> CAS No 75-01-4
+> EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
+> Aerosols dispensers containing the substance as propellant shall not be placed on the market.
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 544003 characters omitted…]
+
+*after* (`02006R1907-20140822`)
+
+> ANNEX XVII
+> RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
+> For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
+> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> Column 1
+> Designation of the substance, of the group of substances or of the mixture Column 2
+> Conditions of restriction
+> 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
+> as substances,
+> in mixtures, including waste oils, or in equipment, in concentrations greater than 50 mg/kg (0,005 % by weight).
+> 2. Chloroethene (vinyl chloride)
+> CAS No 75-01-4
+> EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
+> Aerosols dispensers containing the substance as propellant shall not be placed on the market.
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 544163 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20140822 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20140410 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20130701` → `02006R1907-20140410`
