@@ -10,6 +10,248 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190426 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20190101` → `02013R0575-20190426`
+
+- **Act** `eu:32013R0575` · **In force** 2019-04-26 · **Detected** 2026-08-13
+- **Touched** 9 provisions — 9 substantive · 0 date-only · **0 disputed**
+- **Diff** 4 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 529 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20190101` · `v2` = `02013R0575-20190426`
+
+---
+
+**MODIFIED · Art. 36 — Deductions from Common Equity Tier 1 items** · applies from: unchanged
+
+*within* `AR 36 PA 1 ALN 1 PTA (l)`, `AR 36 PA 1 ALN 1 PTA (m)` · *amended by* `32019R0630`
+
+The list of deductions from Common Equity Tier 1 items in paragraph 1 now ends point (l) with a semicolon instead of a full stop and adds a new point (m) covering the applicable amount of insufficient coverage for non-performing exposures. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
+
+No other text within Article 36, including paragraphs 2 and 3, was altered between the two versions. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
+
+*before* (`02013R0575-20190101`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2878 characters omitted…]
+
+*after* (`02013R0575-20190426`)
+
+> Article 36
+> Deductions from Common Equity Tier 1 items
+> 1. Institutions shall deduct the following from Common Equity Tier 1 items:
+> (a) losses for the current financial year;
+> (b) intangible assets;
+> (c) deferred tax assets that rely on future profitability;
+> (d) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+> (e) defined benefit pension fund assets on the balance sheet of the institution;
+> (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+> (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2959 characters omitted…]
+
+**INSERTED · Art. 47a — Non-performing exposures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0630`
+
+A new Article 47a is added, setting out definitions and criteria for non-performing exposures for the purposes of point (m) of Article 36(1), including what counts as an exposure, how exposure value is measured, when an exposure is classified as non-performing, and the conditions under which such classification ceases or a probation period applies. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_47a)
+
+*after* (`02013R0575-20190426`)
+
+> Article 47a
+> Non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), exposure shall include any of the following items, provided they are not included in the trading book of the institution:
+> (a) a debt instrument, including a debt security, a loan, an advance and a demand deposit;
+> (b) a loan commitment given, a financial guarantee given or any other commitment given, irrespective of whether it is revocable or irrevocable, with the exception of undrawn credit facilities that may be cancelled unconditionally at any time and without notice, or that effectively provide for automatic cancellation due to deterioration in the borrower's creditworthiness.
+> 2. For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument shall be its accounting value measured without taking into account any specific credit risk adjustments, additional value adjustments in accordance with Articles 34 and 105, amounts deducted in accordance with point (m) of Article 36(1), other own funds reductions related to the exposure or partial write-offs made by the institution since the last time the exposure was classified as non-performing.
+> For the purposes of point (m) of Article 36(1), the exposure value of a debt instrument that was purchased at a price lower than the amount owed by the debtor shall include the difference between the purchase price and the amount owed by the debtor.
+> For the purposes of point (m) of Article 36(1), the exposure value of a loan commi […truncated by emendrix: 4745 characters omitted…]
+
+**INSERTED · Art. 47b — Forbearance measures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0630`
+
+A new Article 47b has been inserted, defining a forbearance measure as a concession by an institution towards an obligor facing or likely to face difficulty meeting financial commitments, covering either a modification of a debt obligation's terms or a total or partial refinancing that would not have been granted absent such difficulties. [Art. 47b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_47b)
+
+It further sets out a list of situations that count as forbearance measures, a separate list of circumstances indicating forbearance measures may have been adopted, and a rule that an obligor's difficulties are to be assessed at obligor level including group entities under accounting consolidation and controlling natural persons. [Art. 47b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_47b)
+
+*after* (`02013R0575-20190426`)
+
+> Article 47b
+> Forbearance measures
+> 1. Forbearance measure is a concession by an institution towards an obligor that is experiencing or is likely to experience difficulties in meeting its financial commitments. A concession may entail a loss for the lender and shall refer to either of the following actions:
+> (a) a modification of the terms and conditions of a debt obligation, where such modification would not have been granted had the obligor not experienced difficulties in meeting its financial commitments;
+> (b) a total or partial refinancing of a debt obligation, where such refinancing would not have been granted had the obligor not experienced difficulties in meeting its financial commitments.
+> 2. At least the following situations shall be considered forbearance measures:
+> (a) new contract terms are more favourable to the obligor than the previous contract terms, where the obligor is experiencing or is likely to experience difficulties in meeting its financial commitments;
+> (b) new contract terms are more favourable to the obligor than contract terms offered by the same institution to obligors with a similar risk profile at that time, where the obligor is experiencing or is likely to experience difficulties in meeting its financial commitments;
+> (c) the exposure under the initial contract terms was classified as non-performing before the modification to the contract terms or would have been classified as non-performing in the absence of modification to the contract terms;
+> (d) the m […truncated by emendrix: 1884 characters omitted…]
+
+**INSERTED · Art. 47c — Deduction for non-performing exposures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0630`
+
+This is a newly inserted article setting out a method for institutions to calculate, for the purposes of Article 36(1)(m), the applicable amount of insufficient coverage for each non-performing exposure to be deducted from Common Equity Tier 1 items, by comparing a sum based on unsecured and secured portions of the exposure against a sum of specific credit risk adjustments, value adjustments, own funds reductions and related amounts. [Art. 47c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_47c)
+
+It further lays out graduated percentage factors applied over successive years following classification of an exposure as non-performing, distinguishing secured and unsecured portions, exposures secured by immovable property or guaranteed by eligible protection providers, and exposures guaranteed or insured by official export credit agencies, along with provisions on EBA guidelines for valuation methodology and on the effect of forbearance measures granted within specified periods. [Art. 47c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_47c)
+
+*after* (`02013R0575-20190426`)
+
+> Article 47c
+> Deduction for non-performing exposures
+> 1. For the purposes of point (m) of Article 36(1), institutions shall determine the applicable amount of insufficient coverage separately for each non-performing exposure to be deducted from Common Equity Tier 1 items by subtracting the amount determined in point (b) of this paragraph from the amount determined in point (a) of this paragraph, where the amount referred to in point (a) exceeds the amount referred to in point (b):
+> (a) the sum of:
+> (i) the unsecured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 2;
+> (ii) the secured part of each non-performing exposure, if any, multiplied by the applicable factor referred to in paragraph 3;
+> (b) the sum of the following items provided they relate to the same non-performing exposure:
+> (i) specific credit risk adjustments;
+> (ii) additional value adjustments in accordance with Articles 34 and 105;
+> (iii) other own funds reductions;
+> (iv) for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach, the absolute value of the amounts deducted pursuant to point (d) of Article 36(1) which relate to non-performing exposures, where the absolute value attributable to each non-performing exposure is determined by multiplying the amounts deducted pursuant to point (d) of Article 36(1) by the contribution of the expected loss amount for the non-performing exposure to total expected loss amounts for d […truncated by emendrix: 5894 characters omitted…]
+
+**MODIFIED · Art. 111 — Exposure value** · applies from: unchanged
+
+*within* `AR 111 PA 1 ALN 1` · *amended by* `32019R0630`
+
+*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+
+*before* (`02013R0575-20190101`)
+
+> Article 111
+> Exposure value
+> 1. The exposure value of an asset item shall be its accounting value remaining after specific credit risk adjustments, additional value adjustments in accordance with Articles 34 and 110 and other own funds reductions related to the asset item have been applied. The exposure value of an off-balance sheet item listed in Annex I shall be the following percentage of its nominal value after reduction of specific credit risk adjustments:
+> (a) 100 % if it is a full-risk item;
+> (b) 50 % if it is a medium-risk item;
+> (c) 20 % if it is a medium/low-risk item;
+> (d) 0 % if it is a low-risk item.
+> The off-balance sheet items referred to in the second sentence of the first subparagraph shall be assigned to risk categories as indicated in Annex I.
+> When an institution is using the Financial Collateral Comprehensive Method under Article 223, the exposure value of securities or commodities sold, posted or lent under a repurchase transaction or under a securities or commodities lending or borrowing transaction, and margin lending transactions shall be increased by the volatility adjustment appropriate to such securities or commodities as prescribed in Articles 223 to 225.
+> 2. The exposure value of a derivative instrument listed in Annex II shall be determined in accordance with Chapter 6 with the effects of contracts of novation and other netting agreements taken into account for the purposes of those methods in accordance with Chapter 6. The exposure value of repurchase t […truncated by emendrix: 350 characters omitted…]
+
+*after* (`02013R0575-20190426`)
+
+> Article 111
+> Exposure value
+> 1. The exposure value of an asset item shall be its accounting value remaining after specific credit risk adjustments in accordance with Article 110, additional value adjustments in accordance with Articles 34 and 105, amounts deducted in accordance with point (m) Article 36(1) and other own funds reductions related to the asset item have been applied. The exposure value of an off-balance sheet item listed in Annex I shall be the following percentage of its nominal value after reduction of specific credit risk adjustments and amounts deducted in accordance with point (m) Article 36(1):
+> (a) 100 % if it is a full-risk item;
+> (b) 50 % if it is a medium-risk item;
+> (c) 20 % if it is a medium/low-risk item;
+> (d) 0 % if it is a low-risk item.
+> The off-balance sheet items referred to in the second sentence of the first subparagraph shall be assigned to risk categories as indicated in Annex I.
+> When an institution is using the Financial Collateral Comprehensive Method under Article 223, the exposure value of securities or commodities sold, posted or lent under a repurchase transaction or under a securities or commodities lending or borrowing transaction, and margin lending transactions shall be increased by the volatility adjustment appropriate to such securities or commodities as prescribed in Articles 223 to 225.
+> 2. The exposure value of a derivative instrument listed in Annex II shall be determined in accordance with Chapter 6 with the effects of contracts of […truncated by emendrix: 506 characters omitted…]
+
+**MODIFIED · Art. 127 — Exposures in default** · applies from: unchanged
+
+*within* `AR 127 PA 1 ALN 1 PTA (a)`, `AR 127 PA 1 ALN 1 PTA (b)` · *amended by* `32019R0630`
+
+Points (a) and (b) now base the 150% and 100% risk-weight thresholds on the sum of specific credit risk adjustments and the amounts deducted under point (m) of Article 36(1), rather than on specific credit risk adjustments alone. [Art. 127, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_127)
+
+The comparison test in both points was correspondingly reworded to refer to "those specific credit risk adjustments and deductions" instead of only "these specific credit risk adjustments". [Art. 127, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_127) [Art. 127, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_127)
+
+*before* (`02013R0575-20190101`)
+
+> Article 127
+> Exposures in default
+> 1. The unsecured part of any item where the obligor has defaulted in accordance with Article 178, or in the case of retail exposures, the unsecured part of any credit facility which has defaulted in accordance with Article 178 shall be assigned a risk weight of:
+> (a) 150 %, where specific credit risk adjustments are less than 20 % of the unsecured part of the exposure value if these specific credit risk adjustments were not applied;
+> (b) 100 %, where specific credit risk adjustments are no less than 20 % of the unsecured part of the exposure value if these specific credit risk adjustments were not applied.
+> 2. For the purpose of determining the secured part of the past due item, eligible collateral and guarantees shall be those eligible for credit risk mitigation purposes under Chapter 4.
+> 3. The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured by mortgages on residential property in accordance with Article 125 shall be assigned a risk weight of 100 % if a default has occurred in accordance with Article 178.
+> 4. The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured by mortgages on commercial immovable property in accordance with Article 126 shall be assigned a risk weight of 100 % if a default has occurred in accordance with Article 178.
+
+*after* (`02013R0575-20190426`)
+
+> Article 127
+> Exposures in default
+> 1. The unsecured part of any item where the obligor has defaulted in accordance with Article 178, or in the case of retail exposures, the unsecured part of any credit facility which has defaulted in accordance with Article 178 shall be assigned a risk weight of:
+> (a) 150 %, where the sum of specific credit risk adjustments and of the amounts deducted in accordance with point (m) Article 36(1) is less than 20 % of the unsecured part of the exposure value if those specific credit risk adjustments and deductions were not applied;
+> (b) 100 %, where the sum of the specific credit risk adjustments and of the amounts deducted in accordance with point (m) Article 36(1) is no less than 20 % of the unsecured part of the exposure value if those specific credit risk adjustments and deductions were not applied.
+> 2. For the purpose of determining the secured part of the past due item, eligible collateral and guarantees shall be those eligible for credit risk mitigation purposes under Chapter 4.
+> 3. The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured by mortgages on residential property in accordance with Article 125 shall be assigned a risk weight of 100 % if a default has occurred in accordance with Article 178.
+> 4. The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured by mortgages on commercial immovable property in accordance with Article 126 shal […truncated by emendrix: 94 characters omitted…]
+
+**MODIFIED · Art. 159 — Treatment of expected loss amounts** · applies from: unchanged
+
+*within* `AR 159 ALN 1` · *amended by* `32019R0630`
+
+The provision now separates the cross-references so that general and specific credit risk adjustments are tied to Article 110, while additional value adjustments are tied to Articles 34 and 105, replacing the earlier combined reference to Articles 34 and 110. [Art. 159, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_159) [Art. 159, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_159)
+
+A new exception excludes deductions made in accordance with point (m) of Article 36(1) from the amounts to be subtracted. [Art. 159, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_159)
+
+The remaining wording is otherwise the same, with only minor phrasing substitutions such as "those exposures" and "that calculation" replacing "these exposures" and "this calculation". [Art. 159, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_159) [Art. 159, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_159)
+
+*before* (`02013R0575-20190101`)
+
+> Article 159
+> Treatment of expected loss amounts
+> Institutions shall subtract the expected loss amounts calculated in accordance with Article 158 (5), (6) and (10) from the general and specific credit risk adjustments and additional value adjustments in accordance with Articles 34 and 110 and other own funds reductions related to these exposures. Discounts on balance sheet exposures purchased when in default in accordance with Article 166(1) shall be treated in the same manner as specific credit risk adjustments. Specific credit risk adjustments on exposures in default shall not be used to cover expected loss amounts on other exposures. Expected loss amounts for securitised exposures and general and specific credit risk adjustments related to these exposures shall not be included in this calculation.
+
+*after* (`02013R0575-20190426`)
+
+> Article 159
+> Treatment of expected loss amounts
+> Institutions shall subtract the expected loss amounts calculated in accordance with Article 158(5), (6) and (10) from the general and specific credit risk adjustments in accordance with Article 110, additional value adjustments in accordance with Articles 34 and 105 and other own funds reductions related to those exposures except for the deductions made in accordance with point (m) Article 36(1). Discounts on balance sheet exposures purchased when in default in accordance with Article 166(1) shall be treated in the same manner as specific credit risk adjustments. Specific credit risk adjustments on exposures in default shall not be used to cover expected loss amounts on other exposures. Expected loss amounts for securitised exposures and general and specific credit risk adjustments related to those exposures shall not be included in that calculation.
+
+**MODIFIED · Art. 178 — Default of an obligor** · applies from: unchanged
+
+*within* `AR 178 PA 1 ALN 1 PTA (b)` · *amended by* `32019R0630`
+
+In point (b) of paragraph 1, the phrasing describing the obligor's arrears was reordered from 'past due more than 90 days' to 'more than 90 days past due', with no change in the threshold itself. [Art. 178, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_178) [Art. 178, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_178)
+
+The same point also now adds a reference to point (m) of Article 36(1) alongside Article 127 as a provision for which the 180-day replacement period does not apply. [Art. 178, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_178)
+
+*before* (`02013R0575-20190101`)
+
+> Article 178
+> Default of an obligor
+> 1. A default shall be considered to have occurred with regard to a particular obligor when either or both of the following have taken place:
+> (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions such as realising security;
+> (b) the obligor is past due more than 90 days on any material credit obligation to the institution, the parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days for exposures secured by residential property or SME commercial immovable property in the retail exposure class, as well as exposures to public sector entities. The 180 days shall not apply for the purposes of Article 127.
+> In the case of retail exposures, institutions may apply the definition of default laid down in points (a) and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to the total obligations of a borrower.
+> 2. The following shall apply for the purposes of point (b) of paragraph 1:
+> (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying amount is material;
+> (b) for the purposes of point (a), an advised limit comprises any credit limit determined by […truncated by emendrix: 3245 characters omitted…]
+
+*after* (`02013R0575-20190426`)
+
+> Article 178
+> Default of an obligor
+> 1. A default shall be considered to have occurred with regard to a particular obligor when either or both of the following have taken place:
+> (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions such as realising security;
+> (b) the obligor is more than 90 days past due on any material credit obligation to the institution, the parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days for exposures secured by residential property or SME commercial immovable property in the retail exposure class, as well as exposures to public sector entities. The 180 days shall not apply for the purposes of point (m) Article 36(1) or Article 127.
+> In the case of retail exposures, institutions may apply the definition of default laid down in points (a) and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to the total obligations of a borrower.
+> 2. The following shall apply for the purposes of point (b) of paragraph 1:
+> (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying amount is material;
+> (b) for the purposes of point (a), an advised limit comprises any […truncated by emendrix: 3272 characters omitted…]
+
+**INSERTED · Art. 469a — Derogation from deductions from Common Equity Tier 1 items for non-performing exposures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32019R0630`
+
+A new Article 469a is inserted, setting out that institutions shall not deduct from Common Equity Tier 1 items the applicable amount of insufficient coverage for non-performing exposures where the exposure originated before 26 April 2019, as a derogation from the deduction rule in point (m) of Article 36(1). [Art. 469a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_469a)
+
+The new article also states that if an institution modifies the terms of such a pre-26 April 2019 exposure in a way that increases its exposure to the obligor, that exposure is treated as originated on the date the modification applies and no longer benefits from this derogation. [Art. 469a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_469a)
+
+*after* (`02013R0575-20190426`)
+
+> Article 469a
+> Derogation from deductions from Common Equity Tier 1 items for non-performing exposures
+> By way of derogation from point (m) Article 36(1), institutions shall not deduct from Common Equity Tier 1 items the applicable amount of insufficient coverage for non-performing exposures where the exposure was originated prior to 26 April 2019.
+> Where the terms and conditions of an exposure which was originated prior to 26 April 2019 are modified by the institution in a way that increases the institution's exposure to the obligor, the exposure shall be considered as having been originated on the date when the modification applies and shall cease to be subject to the derogation provided for in the first subparagraph.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190426 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190101 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20180101` → `02013R0575-20190101`
