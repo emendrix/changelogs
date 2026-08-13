@@ -1,0 +1,515 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32006R1907",
+    "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+  },
+  "from_version": "02006R1907-20160401",
+  "to_version": "02006R1907-20160621",
+  "detected_on": "2026-08-13",
+  "in_force": [
+    "2016-06-21"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 156,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20160621",
+          "location": "AN VII"
+        },
+        "heading": "STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.",
+        "before": "ANNEX VII\nSTANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.\nColumn 1 of this Annex establishes the standard information required for:\n(a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;\n(b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and\n(c) substances manufactured or imported in quantities of 10 tonnes or more.\nAny other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.\nColumn 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.\nIn addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI with the exception of Section 3 on substance-tailored exposure waiving. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate headings in the registration dossier referring to the appropriate specific rule(s) in column 2 or in Annex XINote: conditions for not requiring a specific test that are set out in the appropriate test methods in the Commission Regulation on test methods as specified in Article 13(3) that are not repeated in column 2, also apply..\nBefore new tests are carried out to determine the properties listed in this Annex, all available in vitro data, in vivo data, historical human data, data from valid (Q)SARs and data from structurally related substances (read-across approach) shall be assessed first. In vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall be avoided. Prior to testing, further guidance on testing strategies should be consulted in addition to this Annex.\nWhen, for certain endpoints, information is not provided for other reasons than those mentioned in column 2 of this Annex or in Annex XI, this fact and the reasons shall also be clearly stated.\n7. INFORMATION ON THE PHYSICOCHEMICAL PROPERTIES OF THE SUBSTANCE\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n7.1. State of the substance at 20 °C and 101,3 kPa 7.2. Melting/freezing point 7.2. The study does not need to be conducted below a lower limit of - 20 °C.\n7.3. Boiling point 7.3. The study does not need to be conducted:\nfor gases, or\nfor solids which either melt above 300 °C or decompose before boiling. In such cases the boiling point under reduced pressure may be estimated or measured, or\nfor substances which decompose before boiling (e.g. auto-oxidation, rearrangement, degradation, decomposition, etc.).\n7.4. Relative density 7.4. The study does not need to be conducted if:\nthe substance is only stable in solution in a particular solvent and the solution density is similar to that of the solvent. In such cases, an indication of whether the solution density is higher or lower than the solvent density is sufficient, or\nthe substance is a gas. In this case, an estimation based on calculation shall be made from its molecular weight and the Ideal Gas Laws.\n7.5. Vapour pressure 7.5. The study does not need to be conducted if the melting point is above 300 °C.\nIf the melting point is between 200 °C and 300 °C, a limit value based on measurement or a recognised calculation method is sufficient.\n7.6. Surface tension 7.6. The study need only be conducted if:\nbased on structure, surface activity is expected or can be predicted, or\nsurface activity is a desired property of the material.\nIf the water solubility is below 1 mg/l at 20 °C the test does not need to be conducted.\n7.7. Water solubility 7.7. The study does not need to be conducted if:\nthe substance is hydrolytically unstable at pH 4, 7 and 9 (half-life less than 12 hours), or\nthe substance is readily oxidisable in water.\nIf the substance appears insoluble in water, a limit test up to the detection limit of the analytical method shall be performed.\n7.8. Partition coefficient n-octanol/water 7.8. The study does not need to be conducted if the substance is inorganic. If the test cannot be performed (e.g. the substance decomposes, has a high surface activity, reacts violently during the performance of the test or does not dissolve in water or in octanol, or it is not possible to obtain a sufficiently pure substance), a calculated value for log P as well as details of the calculation method shall be provided.\n7.9. Flash-point 7.9. The study does not need to be conducted if:\nthe substance is inorganic, or\nthe substance only contains volatile organic components with flash-points above 100 °C for aqueous solutions, or\nthe estimated flash-point is above 200 °C, or\nthe flash-point can be accurately predicted by interpolation from existing characterised materials.\n7.10. Flammability 7.10. The study does not need to be conducted:\nif the substance is a solid which possesses explosive or pyrophoric properties. These properties should always be considered before considering flammability, or\nfor gases, if the concentration of the flammable gas in a mixture with inert gases is so low that, when mixed with air, the concentration is all time below the lower limit, or\nfor substances which spontaneously ignite when in contact with air.\n7.11. Explosive properties 7.11. The study does not need to be conducted if:\nthere are no chemical groups associated with explosive properties present in the molecule, or\nthe substance contains chemical groups associated with explosive properties which include oxygen and the calculated oxygen balance is less than -200, or\nthe organic substance or a homogenous mixture of organic substances contains chemical groups associated with explosive properties, but the exothermic decomposition energy is less than 500 J/g and the onset of exothermic decomposition is below 500 °C, or\nfor mixtures of inorganic oxidising substances (UN Division 5.1) with organic materials, the concentration of the inorganic oxidising substance is:\nless than 15 %, by mass, if assigned to UN Packaging Group I (high hazard) or II (medium hazard),\nless than 30 %, by mass, if assigned to UN Packaging Group III (low hazard).\nNote: Neither a test for propagation of detonation nor a test for sensitivity to detonative shock is required if the exothermic decomposition energy of organic materials is less than 800 J/g.\n7.12. Self-ignition temperature 7.12. The study does not need to be conducted:\nif the substance is explosive or ignites spontaneously with air at room temperature, or\nfor liquids non flammable in air, e.g. no flash point up to 200 °C, or\nfor gases having no flammable range, or\nfor solids, if the substance has a melting point ≤ 160 °C, or if preliminary results exclude self-heating of the substance up to 400 °C.\n7.13. Oxidising properties 7.13. The study does not need to be conducted if:\nthe substance is explosive, or\nthe substance is highly flammable, or\nthe substance is an organic peroxide, or\nthe substance is incapable of reacting exothermically with combustible materials, for example on the basis of the chemical structure (e.g. organic substances not containing oxygen or halogen atoms and these elements are not chemically bonded to nitrogen or oxygen, or inorganic substances not containing oxygen or halogen atoms).\nThe full test does not need to be conducted for solids if the preliminary test clearly indicates that the test substance has oxidising properties.\nNote that as there is no test method to determine the oxidising properties of gaseous mixtures, the evaluation of these properties must be realised by an estimation method based on the comparison of the oxidising potential of gases in a mixture with that of the oxidising potential of oxygen in air.\n7.14. Granulometry 7.14. The study does not need to be conducted if the substance is marketed or used in a non solid or granular form.\n8. TOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n8.1. Skin irritation or skin corrosion\nThe assessment of this endpoint shall comprise the following consecutive steps:\n(1) an assessment of the available human and animal data,\n(2) an assessment of the acid or alkaline reserve,\n(3) in vitro study for skin corrosion,\n(4) in vitro study for skin irritation. 8.1. Steps 3 and 4 do not need to be conducted if:\nthe available information indicates that the criteria are met for classification as corrosive to the skin or irritating to eyes, or\nthe substance is flammable in air at room temperature, or\nthe substance is classified as very toxic in contact with skin, or\nan acute toxicity study by the dermal route does not indicate skin irritation up to the limit dose level (2000 mg/kg body weight).\n8.2. Eye irritation\nThe assessment of this endpoint shall comprise the following consecutive steps:\n(1) an assessment of the available human and animal data,\n(2) an assessment of the acid or alkaline reserve,\n(3) in vitro study for eye irritation. 8.2. Step 3 does not need to be conducted if:\nthe available information indicates that the criteria are met for classification as corrosive to the skin or irritating to eyes, or\nthe substance is flammable in air at room temperature;\n8.3. Skin sensitisation\nThe assessment of this endpoint shall comprise the following consecutive steps:\n(1) an assessment of the available human, animal and alternative data,\n(2) In vivo testing. 8.3. Step 2 does not need to be conducted if:\nthe available information indicates that the substance should be classified for skin sensitisation or corrosivity, or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is flammable in air at room temperature.\nThe Murine Local Lymph Node Assay (LLNA) is the first-choice method for in vivo testing. Only in exceptional circumstances should another test be used. Justification for the use of another test shall be provided.\n8.4. Mutagenicity 8.4. Further mutagenicity studies shall be considered in case of a positive result.\n8.4.1. In vitro gene mutation study in bacteria 8.5. Acute toxicity 8.5. The study/ies do(es) not generally need to be conducted if:\nthe substance is classified as corrosive to the skin.\n8.5.1. By oral route The study need not be conducted if a study on acute toxicity by the inhalation route (8.5.2) is available.\n9. ECOTOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n9.1. Aquatic toxicity 9.1.1. Short-term toxicity testing on invertebrates (preferred species Daphnia)\nThe registrant may consider long-term toxicity testing instead of short-term. 9.1.1. The study does not need to be conducted if:\nthere are mitigating factors indicating that aquatic toxicity is unlikely to occur, for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes, or\na long-term aquatic toxicity study on invertebrates is available, or\nadequate information for environmental classification and labelling is available.\nThe long-term aquatic toxicity study on Daphnia (Annex IX, section 9.1.5) shall be considered if the substance is poorly water soluble.\n9.1.2. Growth inhibition study aquatic plants (algae preferred) 9.1.2. The study does not need to be conducted if there are mitigating factors indicating that aquatic toxicity is unlikely to occur for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes.\n9.2. Degradation 9.2.1. Biotic 9.2.1.1. Ready biodegradability 9.2.1.1. The study does not need to be conducted if the substance is inorganic.\nAny other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided.",
+        "after": "ANNEX VII\nSTANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.\nColumn 1 of this Annex establishes the standard information required for:\n(a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;\n(b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and\n(c) substances manufactured or imported in quantities of 10 tonnes or more.\nAny other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.\nColumn 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.\nIn addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI with the exception of Section 3 on substance-tailored exposure waiving. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate headings in the registration dossier referring to the appropriate specific rule(s) in column 2 or in Annex XINote: conditions for not requiring a specific test that are set out in the appropriate test methods in the Commission Regulation on test methods as specified in Article 13(3) that are not repeated in column 2, also apply..\nBefore new tests are carried out to determine the properties listed in this Annex, all available in vitro data, in vivo data, historical human data, data from valid (Q)SARs and data from structurally related substances (read-across approach) shall be assessed first. In vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall be avoided. Prior to testing, further guidance on testing strategies should be consulted in addition to this Annex.\nWhen, for certain endpoints, information is not provided for other reasons than those mentioned in column 2 of this Annex or in Annex XI, this fact and the reasons shall also be clearly stated.\n7. INFORMATION ON THE PHYSICOCHEMICAL PROPERTIES OF THE SUBSTANCE\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n7.1. State of the substance at 20 °C and 101,3 kPa 7.2. Melting/freezing point 7.2. The study does not need to be conducted below a lower limit of - 20 °C.\n7.3. Boiling point 7.3. The study does not need to be conducted:\nfor gases, or\nfor solids which either melt above 300 °C or decompose before boiling. In such cases the boiling point under reduced pressure may be estimated or measured, or\nfor substances which decompose before boiling (e.g. auto-oxidation, rearrangement, degradation, decomposition, etc.).\n7.4. Relative density 7.4. The study does not need to be conducted if:\nthe substance is only stable in solution in a particular solvent and the solution density is similar to that of the solvent. In such cases, an indication of whether the solution density is higher or lower than the solvent density is sufficient, or\nthe substance is a gas. In this case, an estimation based on calculation shall be made from its molecular weight and the Ideal Gas Laws.\n7.5. Vapour pressure 7.5. The study does not need to be conducted if the melting point is above 300 °C.\nIf the melting point is between 200 °C and 300 °C, a limit value based on measurement or a recognised calculation method is sufficient.\n7.6. Surface tension 7.6. The study need only be conducted if:\nbased on structure, surface activity is expected or can be predicted, or\nsurface activity is a desired property of the material.\nIf the water solubility is below 1 mg/l at 20 °C the test does not need to be conducted.\n7.7. Water solubility 7.7. The study does not need to be conducted if:\nthe substance is hydrolytically unstable at pH 4, 7 and 9 (half-life less than 12 hours), or\nthe substance is readily oxidisable in water.\nIf the substance appears insoluble in water, a limit test up to the detection limit of the analytical method shall be performed.\n7.8. Partition coefficient n-octanol/water 7.8. The study does not need to be conducted if the substance is inorganic. If the test cannot be performed (e.g. the substance decomposes, has a high surface activity, reacts violently during the performance of the test or does not dissolve in water or in octanol, or it is not possible to obtain a sufficiently pure substance), a calculated value for log P as well as details of the calculation method shall be provided.\n7.9. Flash-point 7.9. The study does not need to be conducted if:\nthe substance is inorganic, or\nthe substance only contains volatile organic components with flash-points above 100 °C for aqueous solutions, or\nthe estimated flash-point is above 200 °C, or\nthe flash-point can be accurately predicted by interpolation from existing characterised materials.\n7.10. Flammability 7.10. The study does not need to be conducted:\nif the substance is a solid which possesses explosive or pyrophoric properties. These properties should always be considered before considering flammability, or\nfor gases, if the concentration of the flammable gas in a mixture with inert gases is so low that, when mixed with air, the concentration is all time below the lower limit, or\nfor substances which spontaneously ignite when in contact with air.\n7.11. Explosive properties 7.11. The study does not need to be conducted if:\nthere are no chemical groups associated with explosive properties present in the molecule, or\nthe substance contains chemical groups associated with explosive properties which include oxygen and the calculated oxygen balance is less than -200, or\nthe organic substance or a homogenous mixture of organic substances contains chemical groups associated with explosive properties, but the exothermic decomposition energy is less than 500 J/g and the onset of exothermic decomposition is below 500 °C, or\nfor mixtures of inorganic oxidising substances (UN Division 5.1) with organic materials, the concentration of the inorganic oxidising substance is:\nless than 15 %, by mass, if assigned to UN Packaging Group I (high hazard) or II (medium hazard),\nless than 30 %, by mass, if assigned to UN Packaging Group III (low hazard).\nNote: Neither a test for propagation of detonation nor a test for sensitivity to detonative shock is required if the exothermic decomposition energy of organic materials is less than 800 J/g.\n7.12. Self-ignition temperature 7.12. The study does not need to be conducted:\nif the substance is explosive or ignites spontaneously with air at room temperature, or\nfor liquids non flammable in air, e.g. no flash point up to 200 °C, or\nfor gases having no flammable range, or\nfor solids, if the substance has a melting point ≤ 160 °C, or if preliminary results exclude self-heating of the substance up to 400 °C.\n7.13. Oxidising properties 7.13. The study does not need to be conducted if:\nthe substance is explosive, or\nthe substance is highly flammable, or\nthe substance is an organic peroxide, or\nthe substance is incapable of reacting exothermically with combustible materials, for example on the basis of the chemical structure (e.g. organic substances not containing oxygen or halogen atoms and these elements are not chemically bonded to nitrogen or oxygen, or inorganic substances not containing oxygen or halogen atoms).\nThe full test does not need to be conducted for solids if the preliminary test clearly indicates that the test substance has oxidising properties.\nNote that as there is no test method to determine the oxidising properties of gaseous mixtures, the evaluation of these properties must be realised by an estimation method based on the comparison of the oxidising potential of gases in a mixture with that of the oxidising potential of oxygen in air.\n7.14. Granulometry 7.14. The study does not need to be conducted if the substance is marketed or used in a non solid or granular form.\n8. TOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1 8.1. Skin corrosion/irritation 8.1. The study/ies do(es) not need to be conducted if:\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5) and the available information indicates that it should be classified as skin corrosion (Category 1), or\nthe substance is spontaneously flammable in air or in contact with water or moisture at room temperature, or\nthe substance is classified as acute toxicity by the dermal route (Category 1), or\nan acute toxicity study by the dermal route does not indicate skin irritation up to the limit dose level (2000 mg/kg body weight).\nIf results from one of the two studies under point 8.1.1 or 8.1.2 already allow a conclusive decision on the classification of a substance or on the absence of skin irritation potential, the second study need not be conducted.\n8.1.1. Skin corrosion, in vitro 8.1.2. Skin irritation, in vitro 8.2. Serious eye damage/eye irritation 8.2. The study/ies do(es) not need to be conducted if:\nthe substance is classified as skin corrosion, leading to classification as serious eye damage (Category 1), or\nthe substance is classified as skin irritation and the available information indicates that it should be classified as eye irritation (Category 2), or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5) and the available information indicates that it should be classified as serious eye damage (Category 1), or\nthe substance is spontaneously flammable in air or in contact with water or moisture at room temperature.\n8.2.1. Serious eye damage/eye irritation, in vitro 8.2.1. If results from a first in vitro study do not allow a conclusive decision on the classification of a substance or on the absence of eye irritation potential, (an)other in vitro study/ies) for this endpoint shall be considered.\n8.3. Skin sensitisation\nThe assessment of this endpoint shall comprise the following consecutive steps:\n(1) an assessment of the available human, animal and alternative data,\n(2) In vivo testing. 8.3. Step 2 does not need to be conducted if:\nthe available information indicates that the substance should be classified for skin sensitisation or corrosivity, or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is flammable in air at room temperature.\nThe Murine Local Lymph Node Assay (LLNA) is the first-choice method for in vivo testing. Only in exceptional circumstances should another test be used. Justification for the use of another test shall be provided.\n8.4. Mutagenicity 8.4. Further mutagenicity studies shall be considered in case of a positive result.\n8.4.1. In vitro gene mutation study in bacteria 8.5. Acute toxicity 8.5. The study/ies do(es) not generally need to be conducted if:\nthe substance is classified as corrosive to the skin.\n8.5.1. By oral route The study need not be conducted if a study on acute toxicity by the inhalation route (8.5.2) is available.\n9. ECOTOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n9.1. Aquatic toxicity 9.1.1. Short-term toxicity testing on invertebrates (preferred species Daphnia)\nThe registrant may consider long-term toxicity testing instead of short-term. 9.1.1. The study does not need to be conducted if:\nthere are mitigating factors indicating that aquatic toxicity is unlikely to occur, for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes, or\na long-term aquatic toxicity study on invertebrates is available, or\nadequate information for environmental classification and labelling is available.\nThe long-term aquatic toxicity study on Daphnia (Annex IX, section 9.1.5) shall be considered if the substance is poorly water soluble.\n9.1.2. Growth inhibition study aquatic plants (algae preferred) 9.1.2. The study does not need to be conducted if there are mitigating factors indicating that aquatic toxicity is unlikely to occur for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes.\n9.2. Degradation 9.2.1. Biotic 9.2.1.1. Ready biodegradability 9.2.1.1. The study does not need to be conducted if the substance is inorganic.\nAny other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided.",
+        "previous_location": null,
+        "changed_within": [
+          "AN VII SCT 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0863",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-21",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0863 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32016R0863, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 8.1 was rewritten from a stepwise skin irritation or skin corrosion assessment with human/animal data review, acid-alkaline reserve assessment, and in vitro corrosion and irritation studies into a heading called skin corrosion/irritation with new conditions for not conducting the study or studies, referencing strong acid or base pH thresholds, spontaneous flammability, and classification as acute dermal toxicity Category 1, and adding new sub-items 8.1.1 (skin corrosion, in vitro) and 8.1.2 (skin irritation, in vitro) along with a note that a second study need not be conducted if the first is conclusive.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160401",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VII",
+              "label": "Annex VII, 02006R1907-20160401"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII",
+              "label": "Annex VII, 02006R1907-20160621"
+            }
+          ]
+        },
+        {
+          "text": "Section 8.2 was changed from an eye irritation assessment built on human/animal data, acid-alkaline reserve, and an in vitro eye irritation study into a heading called serious eye damage/eye irritation with revised column 2 conditions tied to skin corrosion or irritation classification, strong acid or base pH, and spontaneous flammability, and a new sub-item 8.2.1 for in vitro testing with a note that further in vitro studies shall be considered if the first is inconclusive.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160401",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VII",
+              "label": "Annex VII, 02006R1907-20160401"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII",
+              "label": "Annex VII, 02006R1907-20160621"
+            }
+          ]
+        },
+        {
+          "text": "The remaining subsections of section 8, from 8.3 skin sensitisation through 8.5.1, and all other parts of Annex VII, remain textually the same in both versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII",
+              "label": "Annex VII, 02006R1907-20160621"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32006R1907",
+            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+          },
+          "version": "02006R1907-20160621",
+          "location": "AN VIII"
+        },
+        "heading": "STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.",
+        "before": "ANNEX VIII\nSTANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.\nColumn 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.\nIn addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate headings in the registration dossier referring to the appropriate specific rule(s) in column 2 or in Annex XINote: conditions for not requiring a specific test that are set out in the appropriate test methods in the Commission Regulation on test methods as specified in Article 13(3) that are not repeated in column 2, also apply..\nBefore new tests are carried out to determine the properties listed in this Annex, all available in vitro data, in vivo data, historical human data, data from valid (Q)SARs and data from structurally related substances (read-across approach) shall be assessed first. In vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall be avoided. Prior to testing, further guidance on testing strategies should be consulted in addition to this Annex.\nWhen, for certain endpoints, information is not provided for other reasons than those mentioned in column 2 of this Annex or in Annex XI, this fact and the reasons shall also be clearly stated.\n8. TOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n8.1. Skin irritation\n8.1.1. In vivo skin irritation 8.1.1. The study does not need to be conducted if:\nthe substance is classified as corrosive to the skin or as a skin irritant, or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is flammable in air at room temperature, or\nthe substance is classified as very toxic in contact with skin, or\nan acute toxicity study by the dermal route does not indicate skin irritation up to the limit dose level (2000 mg/kg body weight).\n8.2. Eye irritation\n8.2.1. In vivo eye irritation 8.2.1. The study does not need to be conducted if:\nthe substance is classified as irritating to eyes with risk of serious damage to eyes, or\nthe substance is classified as corrosive to the skin and provided that the registrant classified the substance as eye irritant, or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is flammable in air at room temperature.\n8.4. Mutagenicity\n8.4.2. In vitro cytogenicity study in mammalian cells or in vitro micronucleus study 8.4.2. The study does not usually need to be conducted\nif adequate data from an in vivo cytogenicity test are available, or\nthe substance is known to be carcinogenic category 1A or 1B or germ cell mutagenic category 1A, 1B or 2.\n8.4.3. In vitro gene mutation study in mammalian cells, if a negative result in Annex VII, Section 8.4.1. and Annex VIII, Section 8.4.2. 8.4.3. The study does not usually need to be conducted if adequate data from a reliable in vivo mammalian gene mutation test are available.\n8.4. Appropriate in vivo mutagenicity studies shall be considered in case of a positive result in any of the genotoxicity studies in Annex VII or VIII.\n8.5. Acute toxicity 8.5. The study/ies do(es) not generally need to be conducted if:\nthe substance is classified as corrosive to the skin.\nIn addition to the oral route (8.5.1), for substances other than gases, the information mentioned under 8.5.2 to 8.5.3 shall be provided for at least one other route. The choice for the second route will depend on the nature of the substance and the likely route of human exposure. If there is only one route of exposure, information for only that route need be provided.\n8.5.2. By inhalation 8.5.2. Testing by the inhalation route is appropriate if exposure of humans via inhalation is likely taking into account the vapour pressure of the substance and/or the possibility of exposure to aerosols, particles or droplets of an inhalable size.\n8.5.3. By dermal route 8.5.3. Testing by the dermal route is appropriate if:\n(1) inhalation of the substance is unlikely; and\n(2) skin contact in production and/or use is likely; and\n(3) the physicochemical and toxicological properties suggest potential for a significant rate of absorption through the skin.\n8.6. Repeated dose toxicity\n8.6.1. Short-term repeated dose toxicity study (28 days), one species, male and female, most appropriate route of administration, having regard to the likely route of human exposure. 8.6.1. The short-term toxicity study (28 days) does not need to be conducted if:\na reliable sub-chronic (90 days) or chronic toxicity study is available, provided that an appropriate species, dosage, solvent and route of administration were used, or\nwhere a substance undergoes immediate disintegration and there are sufficient data on the cleavage products, or\nrelevant human exposure can be excluded in accordance with Annex XI Section 3.\nThe appropriate route shall be chosen on the following basis:\nTesting by the dermal route is appropriate if:\n(1) inhalation of the substance is unlikely; and\n(2) skin contact in production and/or use is likely; and\n(3) the physicochemical and toxicological properties suggest potential for a significant rate of absorption through the skin.\nTesting by the inhalation route is appropriate if exposure of humans via inhalation is likely taking into account the vapour pressure of the substance and/or the possibility of exposure to aerosols, particles or droplets of an inhalable size.\nThe sub-chronic toxicity study (90 days) (Annex IX, Section 8.6.2) shall be proposed by the registrant if: the frequency and duration of human exposure indicates that a longer term study is appropriate;\nand one of the following conditions is met:\nother available data indicate that the substance may have a dangerous property that cannot be detected in a short-term toxicity study, or\nappropriately designed toxicokinetic studies reveal accumulation of the substance or its metabolites in certain tissues or organs which would possibly remain undetected in a short-term toxicity study but which are liable to result in adverse effects after prolonged exposure.\nFurther studies shall be proposed by the registrant or may be required by the Agency in accordance with Article 40 or 41 in case of:\nfailure to identify a NOAEL in the 28 or the 90 days study, unless the reason for the failure to identify a NOAEL is absence of adverse toxic effects, or\ntoxicity of particular concern (e.g. serious/severe effects), or\nindications of an effect for which the available evidence is inadequate for toxicological and/or risk characterisation. In such cases it may also be more appropriate to perform specific toxicological studies that are designed to investigate these effects (e.g. immunotoxicity, neurotoxicity), or\nthe route of exposure used in the initial repeated dose study was inappropriate in relation to the expected route of human exposure and route-to-route extrapolation cannot be made, or\nparticular concern regarding exposure (e.g. use in consumer products leading to exposure levels which are close to the dose levels at which toxicity to humans may be expected), or\neffects shown in substances with a clear relationship in molecular structure with the substance being studied, were not detected in the 28 or the 90 days study.\n8.7. Reproductive toxicity\n8.7.1. Screening for reproductive/developmental toxicity, one species (OECD 421 or 422), if there is no evidence from available information on structurally related substances, from (Q)SAR estimates or from in vitro methods that the substance may be a developmental toxicant 8.7.1. This study does not need to be conducted if:\nthe substance is known to be a genotoxic carcinogen and appropriate risk management measures are implemented, or\nthe substance is known to be a germ cell mutagen and appropriate risk management measures are implemented, or\nrelevant human exposure can be excluded in accordance with Annex XI section 3, or\na pre-natal developmental toxicity study (Annex IX, 8.7.2) or, either an Extended One-Generation Reproductive Toxicity Study (B.56, OECD TG 443) (Annex IX, section 8.7.3) or a two-generation study (B.35, OECD TG 416), is available.\nIf a substance is known to have an adverse effect on fertility, meeting the criteria for classification as toxic for reproduction category 1A or 1B: May damage fertility (H360F), and the available data are adequate to support a robust risk assessment, then no further testing for fertility will be necessary. However, testing for developmental toxicity must be considered.\nIf a substance is known to cause developmental toxicity, meeting the criteria for classification as toxic for reproduction category 1A or 1B: May damage the unborn child (H360D), and the available data are adequate to support a robust risk assessment, then no further testing for developmental toxicity will be necessary. However, testing for effects on fertility must be considered.\nIn cases where there are serious concerns about the potential for adverse effects on fertility or development, either an Extended One-Generation Reproductive Toxicity Study (Annex IX, section 8.7.3) or a pre-natal developmental toxicity study (Annex IX, section 8.7.2) may, as appropriate, be proposed by the registrant instead of the screening study.\n8.8. Toxicokinetics\n8.8.1. Assessment of the toxicokinetic behaviour of the substance to the extent that can be derived from the relevant available information 9. ECOTOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n9.1.3. Short-term toxicity testing on fish: the registrant may consider long-term toxicity testing instead of short-term. 9.1.3. The study does not need to be conducted if:\nthere are mitigating factors indicating that aquatic toxicity is unlikely to occur, for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes, or\na long-term aquatic toxicity study on fish is available.\nLong-term aquatic toxicity testing as described in Annex IX shall be considered if the chemical safety assessment according to Annex I indicates the need to investigate further effects on aquatic organisms. The choice of the appropriate test(s) will depend on the results of the chemical safety assessment.\nThe long-term aquatic toxicity study on fish (Annex IX, Section 9.1.6) shall be considered if the substance is poorly water soluble.\n9.1.4. Activated sludge respiration inhibition testing 9.1.4. The study does not need to be conducted if:\nthere is no emission to a sewage treatment plant, or\nthere are mitigating factors indicating that microbial toxicity is unlikely to occur, for instance the substance is highly insoluble in water, or\nthe substance is found to be readily biodegradable and the applied test concentrations are in the range of concentrations that can be expected in the influent of a sewage treatment plant.\nThe study may be replaced by a nitrification inhibition test if available data show that the substance is likely to be an inhibitor of microbial growth or function, in particular nitrifying bacteria.\n9.2. Degradation 9.2. Further degradation testing shall be considered if the chemical safety assessment according to Annex I indicates the need to investigate further the degradation of the substance. The choice of the appropriate test(s) will depend on the results of the chemical safety assessment.\n9.2.2. Abiotic\n9.2.2.1. Hydrolysis as a function of pH. 9.2.2.1. The study does not need to be conducted if:\nthe substance is readily biodegradable, or\nthe substance is highly insoluble in water.\n9.3. Fate and behaviour in the environment\n9.3.1. Adsorption/desorption screening 9.3.1. The study does not need to be conducted if:\nbased on the physicochemical properties the substance can be expected to have a low potential for adsorption (e.g. the substance has a low octanol water partition coefficient), or\nthe substance and its relevant degradation products decompose rapidly.",
+        "after": "ANNEX VIII\nSTANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.\nColumn 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.\nIn addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate headings in the registration dossier referring to the appropriate specific rule(s) in column 2 or in Annex XINote: conditions for not requiring a specific test that are set out in the appropriate test methods in the Commission Regulation on test methods as specified in Article 13(3) that are not repeated in column 2, also apply..\nBefore new tests are carried out to determine the properties listed in this Annex, all available in vitro data, in vivo data, historical human data, data from valid (Q)SARs and data from structurally related substances (read-across approach) shall be assessed first. In vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall be avoided. Prior to testing, further guidance on testing strategies should be consulted in addition to this Annex.\nWhen, for certain endpoints, information is not provided for other reasons than those mentioned in column 2 of this Annex or in Annex XI, this fact and the reasons shall also be clearly stated.\n8. TOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n8.1. Skin corrosion/irritation 8.1. An in vivo study for skin corrosion/irritation shall be considered only if the in vitro studies under points 8.1.1 and 8.1.2 in Annex VII are not applicable, or the results of these studies are not adequate for classification and risk assessment.\nThe study does not need to be conducted if:\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is spontaneously flammable in air or in contact with water or moisture at room temperature, or\nthe substance is classified as acute toxicity by the dermal route (Category 1), or\nan acute toxicity study by the dermal route does not indicate skin irritation up to the limit dose level (2000 mg/kg body weight).\n8.2. Serious eye damage/eye irritation 8.2. An in vivo study for eye corrosion/irritation shall be considered only if the in vitro study(ies) under point 8.2.1 in Annex VII are not applicable, or the results obtained from these study(ies) are not adequate for classification and risk assessment.\nThe study does not need to be conducted if:\nthe substance is classified as skin corrosion, or\nthe substance is a strong acid (pH ≤ 2,0) or base (pH ≥ 11,5), or\nthe substance is spontaneously flammable in air or in contact with water or moisture at room temperature.\n8.4. Mutagenicity\n8.4.2. In vitro cytogenicity study in mammalian cells or in vitro micronucleus study 8.4.2. The study does not usually need to be conducted\nif adequate data from an in vivo cytogenicity test are available, or\nthe substance is known to be carcinogenic category 1A or 1B or germ cell mutagenic category 1A, 1B or 2.\n8.4.3. In vitro gene mutation study in mammalian cells, if a negative result in Annex VII, Section 8.4.1. and Annex VIII, Section 8.4.2. 8.4.3. The study does not usually need to be conducted if adequate data from a reliable in vivo mammalian gene mutation test are available.\n8.4. Appropriate in vivo mutagenicity studies shall be considered in case of a positive result in any of the genotoxicity studies in Annex VII or VIII.\n8.5. Acute toxicity 8.5. The study/ies do(es) not generally need to be conducted if:\nthe substance is classified as skin corrosion.\nIn addition to the oral route (Annex VII, 8.5.1.), for substances other than gases, the information mentioned under 8.5.2 to 8.5.3 shall be provided for at least one other route. The choice for the second route will depend on the nature of the substance and the likely route of human exposure. If there is only one route of exposure, information for only that route needs to be provided.\n8.5.2. By inhalation 8.5.2. Testing by the inhalation route is appropriate if exposure of humans via inhalation is likely taking into account the vapour pressure of the substance and/or the possibility of exposure to aerosols, particles or droplets of an inhalable size.\n8.5.3. By dermal route 8.5.3. Testing by the dermal route is appropriate if:\n(1) inhalation of the substance is unlikely; and\n(2) skin contact in production and/or use is likely; and\n(3) the physicochemical and toxicological properties suggest potential for a significant rate of absorption through the skin.\nTesting by the dermal route does not need to be conducted if:\nthe substance does not meet the criteria for classification as acute toxicity or STOT SE by the oral route and\nno systemic effects have been observed in in vivo studies with dermal exposure (e.g. skin irritation, skin sensitisation) or, in the absence of an in vivo study by the oral route, no systemic effects after dermal exposure are predicted on the basis of non-testing approaches (e.g. read across, QSAR studies).\n8.6. Repeated dose toxicity\n8.6.1. Short-term repeated dose toxicity study (28 days), one species, male and female, most appropriate route of administration, having regard to the likely route of human exposure. 8.6.1. The short-term toxicity study (28 days) does not need to be conducted if:\na reliable sub-chronic (90 days) or chronic toxicity study is available, provided that an appropriate species, dosage, solvent and route of administration were used, or\nwhere a substance undergoes immediate disintegration and there are sufficient data on the cleavage products, or\nrelevant human exposure can be excluded in accordance with Annex XI Section 3.\nThe appropriate route shall be chosen on the following basis:\nTesting by the dermal route is appropriate if:\n(1) inhalation of the substance is unlikely; and\n(2) skin contact in production and/or use is likely; and\n(3) the physicochemical and toxicological properties suggest potential for a significant rate of absorption through the skin.\nTesting by the inhalation route is appropriate if exposure of humans via inhalation is likely taking into account the vapour pressure of the substance and/or the possibility of exposure to aerosols, particles or droplets of an inhalable size.\nThe sub-chronic toxicity study (90 days) (Annex IX, Section 8.6.2) shall be proposed by the registrant if: the frequency and duration of human exposure indicates that a longer term study is appropriate;\nand one of the following conditions is met:\nother available data indicate that the substance may have a dangerous property that cannot be detected in a short-term toxicity study, or\nappropriately designed toxicokinetic studies reveal accumulation of the substance or its metabolites in certain tissues or organs which would possibly remain undetected in a short-term toxicity study but which are liable to result in adverse effects after prolonged exposure.\nFurther studies shall be proposed by the registrant or may be required by the Agency in accordance with Article 40 or 41 in case of:\nfailure to identify a NOAEL in the 28 or the 90 days study, unless the reason for the failure to identify a NOAEL is absence of adverse toxic effects, or\ntoxicity of particular concern (e.g. serious/severe effects), or\nindications of an effect for which the available evidence is inadequate for toxicological and/or risk characterisation. In such cases it may also be more appropriate to perform specific toxicological studies that are designed to investigate these effects (e.g. immunotoxicity, neurotoxicity), or\nthe route of exposure used in the initial repeated dose study was inappropriate in relation to the expected route of human exposure and route-to-route extrapolation cannot be made, or\nparticular concern regarding exposure (e.g. use in consumer products leading to exposure levels which are close to the dose levels at which toxicity to humans may be expected), or\neffects shown in substances with a clear relationship in molecular structure with the substance being studied, were not detected in the 28 or the 90 days study.\n8.7. Reproductive toxicity\n8.7.1. Screening for reproductive/developmental toxicity, one species (OECD 421 or 422), if there is no evidence from available information on structurally related substances, from (Q)SAR estimates or from in vitro methods that the substance may be a developmental toxicant 8.7.1. This study does not need to be conducted if:\nthe substance is known to be a genotoxic carcinogen and appropriate risk management measures are implemented, or\nthe substance is known to be a germ cell mutagen and appropriate risk management measures are implemented, or\nrelevant human exposure can be excluded in accordance with Annex XI section 3, or\na pre-natal developmental toxicity study (Annex IX, 8.7.2) or, either an Extended One-Generation Reproductive Toxicity Study (B.56, OECD TG 443) (Annex IX, section 8.7.3) or a two-generation study (B.35, OECD TG 416), is available.\nIf a substance is known to have an adverse effect on fertility, meeting the criteria for classification as toxic for reproduction category 1A or 1B: May damage fertility (H360F), and the available data are adequate to support a robust risk assessment, then no further testing for fertility will be necessary. However, testing for developmental toxicity must be considered.\nIf a substance is known to cause developmental toxicity, meeting the criteria for classification as toxic for reproduction category 1A or 1B: May damage the unborn child (H360D), and the available data are adequate to support a robust risk assessment, then no further testing for developmental toxicity will be necessary. However, testing for effects on fertility must be considered.\nIn cases where there are serious concerns about the potential for adverse effects on fertility or development, either an Extended One-Generation Reproductive Toxicity Study (Annex IX, section 8.7.3) or a pre-natal developmental toxicity study (Annex IX, section 8.7.2) may, as appropriate, be proposed by the registrant instead of the screening study.\n8.8. Toxicokinetics\n8.8.1. Assessment of the toxicokinetic behaviour of the substance to the extent that can be derived from the relevant available information 9. ECOTOXICOLOGICAL INFORMATION\nCOLUMN 1\nSTANDARD INFORMATION REQUIRED COLUMN 2\nSPECIFIC RULES FOR ADAPTATION FROM COLUMN 1\n9.1.3. Short-term toxicity testing on fish: the registrant may consider long-term toxicity testing instead of short-term. 9.1.3. The study does not need to be conducted if:\nthere are mitigating factors indicating that aquatic toxicity is unlikely to occur, for instance if the substance is highly insoluble in water or the substance is unlikely to cross biological membranes, or\na long-term aquatic toxicity study on fish is available.\nLong-term aquatic toxicity testing as described in Annex IX shall be considered if the chemical safety assessment according to Annex I indicates the need to investigate further effects on aquatic organisms. The choice of the appropriate test(s) will depend on the results of the chemical safety assessment.\nThe long-term aquatic toxicity study on fish (Annex IX, Section 9.1.6) shall be considered if the substance is poorly water soluble.\n9.1.4. Activated sludge respiration inhibition testing 9.1.4. The study does not need to be conducted if:\nthere is no emission to a sewage treatment plant, or\nthere are mitigating factors indicating that microbial toxicity is unlikely to occur, for instance the substance is highly insoluble in water, or\nthe substance is found to be readily biodegradable and the applied test concentrations are in the range of concentrations that can be expected in the influent of a sewage treatment plant.\nThe study may be replaced by a nitrification inhibition test if available data show that the substance is likely to be an inhibitor of microbial growth or function, in particular nitrifying bacteria.\n9.2. Degradation 9.2. Further degradation testing shall be considered if the chemical safety assessment according to Annex I indicates the need to investigate further the degradation of the substance. The choice of the appropriate test(s) will depend on the results of the chemical safety assessment.\n9.2.2. Abiotic\n9.2.2.1. Hydrolysis as a function of pH. 9.2.2.1. The study does not need to be conducted if:\nthe substance is readily biodegradable, or\nthe substance is highly insoluble in water.\n9.3. Fate and behaviour in the environment\n9.3.1. Adsorption/desorption screening 9.3.1. The study does not need to be conducted if:\nbased on the physicochemical properties the substance can be expected to have a low potential for adsorption (e.g. the substance has a low octanol water partition coefficient), or\nthe substance and its relevant degradation products decompose rapidly.",
+        "previous_location": null,
+        "changed_within": [
+          "AN VIII SCT 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0863",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-21",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0863 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32016R0863, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 8.1 is renamed from 'Skin irritation' to 'Skin corrosion/irritation' and now states that an in vivo study is considered only if the in vitro studies referenced in Annex VII points 8.1.1 and 8.1.2 are not applicable or their results are inadequate for classification and risk assessment, replacing the prior conditions naming classification as corrosive or a skin irritant, flammability in air at room temperature, and classification as very toxic in contact with skin with conditions naming strong acid or base pH, spontaneous flammability in air or in contact with water or moisture, and classification as acute toxicity by the dermal route (Category 1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160401",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160401"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160621"
+            }
+          ]
+        },
+        {
+          "text": "Section 8.2 is renamed from 'Eye irritation' to 'Serious eye damage/eye irritation' and now states that an in vivo study is considered only if the in vitro study or studies referenced in Annex VII point 8.2.1 are not applicable or their results are inadequate, with the flammability condition changed from flammable in air at room temperature to spontaneously flammable in air or in contact with water or moisture at room temperature, and the corrosive-substance condition changed from referencing skin corrosive classification with registrant eye-irritant classification to referencing classification as skin corrosion alone.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160401",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160401"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160621"
+            }
+          ]
+        },
+        {
+          "text": "In section 8.5 the exemption condition changes from the substance being classified as corrosive to the skin to the substance being classified as skin corrosion, the oral-route cross-reference is changed to point to Annex VII 8.5.1, and section 8.5.3 adds new text stating that dermal-route testing does not need to be conducted where the substance does not meet criteria for classification as acute toxicity or STOT SE by the oral route and no systemic effects have been observed or predicted from dermal exposure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160401",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160401"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20160621",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII",
+              "label": "Annex VIII, 02006R1907-20160621"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32006R1907",
+      "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+    },
+    "from_version": "02006R1907-20160401",
+    "to_version": "02006R1907-20160621",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN VII",
+          "AN VIII"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN VII",
+          "AN VIII"
+        ],
+        "note": "2 annotations in (2016-04-01, 2016-06-21]",
+        "claims": [
+          {
+            "location": "AN VIII TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-21",
+            "source": "32016R0863 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0863",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN VII TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-21",
+            "source": "32016R0863 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0863",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32016R0863, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN VII",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VIII",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "usage": {
+      "input_tokens": 36721,
+      "output_tokens": 2080,
+      "requests": 3,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

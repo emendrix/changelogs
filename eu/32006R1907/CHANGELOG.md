@@ -10,6 +10,81 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20160621 -->
+## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
+### `02006R1907-20160401` → `02006R1907-20160621`
+
+- **Act** `eu:32006R1907` · **In force** 2016-06-21 · **Detected** 2026-08-13
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02006R1907-20160401` · `v2` = `02006R1907-20160621`
+
+---
+
+**MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VII SCT 8` · *amended by* `32016R0863`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.1 was rewritten from a stepwise skin irritation or skin corrosion assessment with human/animal data review, acid-alkaline reserve assessment, and in vitro corrosion and irritation studies into a heading called skin corrosion/irritation with new conditions for not conducting the study or studies, referencing strong acid or base pH thresholds, spontaneous flammability, and classification as acute dermal toxicity Category 1, and adding new sub-items 8.1.1 (skin corrosion, in vitro) and 8.1.2 (skin irritation, in vitro) along with a note that a second study need not be conducted if the first is conclusive. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII)
+
+Section 8.2 was changed from an eye irritation assessment built on human/animal data, acid-alkaline reserve, and an in vitro eye irritation study into a heading called serious eye damage/eye irritation with revised column 2 conditions tied to skin corrosion or irritation classification, strong acid or base pH, and spontaneous flammability, and a new sub-item 8.2.1 for in vitro testing with a note that further in vitro studies shall be considered if the first is inconclusive. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII)
+
+The remaining subsections of section 8, from 8.3 skin sensitisation through 8.5.1, and all other parts of Annex VII, remain textually the same in both versions. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII)
+
+*before* (`02006R1907-20160401`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 11086 characters omitted…]
+
+*after* (`02006R1907-20160621`)
+
+> ANNEX VII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for:
+> (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
+> (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
+> (c) substances manufactured or imported in quantities of 10 tonnes or more.
+> Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
+> Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 11644 characters omitted…]
+
+**MODIFIED · Annex VIII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
+
+*within* `AN VIII SCT 8` · *amended by* `32016R0863`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 8.1 is renamed from 'Skin irritation' to 'Skin corrosion/irritation' and now states that an in vivo study is considered only if the in vitro studies referenced in Annex VII points 8.1.1 and 8.1.2 are not applicable or their results are inadequate for classification and risk assessment, replacing the prior conditions naming classification as corrosive or a skin irritant, flammability in air at room temperature, and classification as very toxic in contact with skin with conditions naming strong acid or base pH, spontaneous flammability in air or in contact with water or moisture, and classification as acute toxicity by the dermal route (Category 1). [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII)
+
+Section 8.2 is renamed from 'Eye irritation' to 'Serious eye damage/eye irritation' and now states that an in vivo study is considered only if the in vitro study or studies referenced in Annex VII point 8.2.1 are not applicable or their results are inadequate, with the flammability condition changed from flammable in air at room temperature to spontaneously flammable in air or in contact with water or moisture at room temperature, and the corrosive-substance condition changed from referencing skin corrosive classification with registrant eye-irritant classification to referencing classification as skin corrosion alone. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII)
+
+In section 8.5 the exemption condition changes from the substance being classified as corrosive to the skin to the substance being classified as skin corrosion, the oral-route cross-reference is changed to point to Annex VII 8.5.1, and section 8.5.3 adds new text stating that dermal-route testing does not need to be conducted where the substance does not meet criteria for classification as acute toxicity or STOT SE by the oral route and no systemic effects have been observed or predicted from dermal exposure. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII)
+
+*before* (`02006R1907-20160401`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate he […truncated by emendrix: 11726 characters omitted…]
+
+*after* (`02006R1907-20160621`)
+
+> ANNEX VIII
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> Column 1 of this Annex establishes the standard information required for all substances manufactured or imported in quantities of 10 tonnes or more in accordance with Article 12(1)(c). Accordingly, the information required in column 1 of this Annex is additional to that required in column 1 of Annex VII. Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
+> In addition to these specific rules, a registrant may adapt the required standard information set out in column 1 of this Annex according to the general rules contained in Annex XI. In this case as well, he shall clearly state the reasons for any decision to adapt the standard information under the appropriate he […truncated by emendrix: 12548 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20160621 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20160401 -->
 ## Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the […]
 ### `02006R1907-20160308` → `02006R1907-20160401`
