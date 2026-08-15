@@ -290,7 +290,7 @@ Paragraph 2 no longer lists the five specific aspects on services (points (a) to
 ## Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the […]
 ### `02014R0654-20140627` → `02014R0654-20151105`
 
-- **Act** `eu:32014R0654` · **In force** 2015-11-05 · **Detected** 2026-08-13
+- **Act** `eu:32014R0654` · **In force** 2015-11-05 · **Detected** 2026-08-15
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 12 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
