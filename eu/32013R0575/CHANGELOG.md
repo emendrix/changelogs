@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20260101` → `02013R0575-20260626`
 
-- **Act** `eu:32013R0575` · **In force** 2026-06-26 · **Detected** 2026-08-13
+- **Act** `eu:32013R0575` · **In force** 2026-06-26 · **Detected** 2026-08-26
 - **Touched** 36 provisions — 36 substantive · 0 date-only · **36 disputed**
 - **Diff** 1 inserted · 33 modified · 2 deleted · 0 renumbered · 0 deferred · 790 unchanged
 - **Gate** 0 sentences quoted verbatim · 36 changes shipped without an explanation
