@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity […]
 ### `32024R2847` → `02024R2847-20241120`
 
-- **Act** `eu:32024R2847` · **In force** not stated · **Detected** 2026-08-12
+- **Act** `eu:32024R2847` · **In force** not stated · **Detected** 2026-08-29
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 77 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 64 PA 10 ALN 1`
 
-The introductory clause of paragraph 10 was changed so that the derogation now refers to paragraphs 2 to 9, instead of paragraphs 3 to 9. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R2847-20241120#art_64)
+The range of paragraphs from which the derogation in paragraph 10 departs was changed from paragraphs 3 to 9 to paragraphs 2 to 9, so paragraph 2 is now included in that range. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R2847-20241120#art_64)
 
 *before* (`32024R2847`)
 
@@ -50,7 +50,7 @@ The introductory clause of paragraph 10 was changed so that the derogation now r
 
 *within* `AR 67 ALN 1`
 
-The point number assigned to the added entry in Annex I to Directive (EU) 2020/1828 changed from 69 to 72, while the rest of the entry's text remains the same. [Art. 67, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#art_67) [Art. 67, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R2847-20241120#art_67)
+The only visible change is the point number assigned to the added entry in Annex I to Directive (EU) 2020/1828, which changes from 69 to 72. [Art. 67, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#art_67) [Art. 67, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R2847-20241120#art_67)
 
 *before* (`32024R2847`)
 

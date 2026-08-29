@@ -8,7 +8,7 @@
   },
   "from_version": "32024R2847",
   "to_version": "02024R2847-20241120",
-  "detected_on": "2026-08-12",
+  "detected_on": "2026-08-29",
   "in_force": [],
   "diff_only": false,
   "summary": {
@@ -80,7 +80,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The introductory clause of paragraph 10 was changed so that the derogation now refers to paragraphs 2 to 9, instead of paragraphs 3 to 9.",
+          "text": "The range of paragraphs from which the derogation in paragraph 10 departs was changed from paragraphs 3 to 9 to paragraphs 2 to 9, so paragraph 2 is now included in that range.",
           "fallback": false,
           "citations": [
             {
@@ -165,7 +165,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The point number assigned to the added entry in Annex I to Directive (EU) 2020/1828 changed from 69 to 72, while the rest of the entry's text remains the same.",
+          "text": "The only visible change is the point number assigned to the added entry in Annex I to Directive (EU) 2020/1828, which changes from 69 to 72.",
           "fallback": false,
           "citations": [
             {
@@ -250,7 +250,7 @@
     "no_evidence": 0,
     "usage": {
       "input_tokens": 7520,
-      "output_tokens": 272,
+      "output_tokens": 275,
       "requests": 2,
       "schema_repairs": 0
     }
