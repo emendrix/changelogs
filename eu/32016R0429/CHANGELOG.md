@@ -201,6 +201,16 @@ The definition of official veterinarian in point (53) changed from a veterinaria
 > (iii) other products;
 > (b) restocki […truncated by emendrix: 11288 characters omitted…]
 
+**MODIFIED · Art. 14** · applies from: unknown
+
+*amended by* `32017R0625`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
 **MODIFIED · Art. 81 — Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals** · applies from: unchanged
 
 *within* `AR 81 ALN 1 PTA (a)`
@@ -224,16 +234,6 @@ In point (a), the cross-reference to the compulsory eradication programme was ch
 > In the event that the competent authority of an affected Member State suspects or officially confirms the outbreak of a listed disease as referred to in point (b) of Article 9(1) in wild animals, it shall throughout its territory, or in the area or zone concerned, as relevant for that outbreak:
 > (a) apply the disease control measures laid down in the compulsory eradication programme provided for  in Article 31(1) for that listed disease; or
 > (b) initiate a compulsory eradication programme, where the eradication programme provided for in Article 31(1) for that listed disease has not yet been applied due to the previous absence of that disease or freedom from it, and if measures for wild animals are necessary in order to control and prevent the spread of that disease.
-
-**MODIFIED · Art. 164** · applies from: unknown
-
-*amended by* `32017R0625`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 227 — Animal health requirements concerning other animals, and germinal products and products of animal origin of such other animals** · applies from: unchanged
 
