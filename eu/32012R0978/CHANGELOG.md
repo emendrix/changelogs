@@ -48,28 +48,16 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02012R0978-20230101` → `02012R0978-20231128`
 
 - **Act** `eu:32012R0978` · **In force** 2023-11-28 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 42 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 42 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0978-20230101` · `v2` = `02012R0978-20231128`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R2663`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **DEFERRED · Art. 43 — Article 43** · applies from: 2027-12-31
 
 *within* `AR 43 PA 3 ALN 1` · *dates* -2023-12-31 +2027-12-31 · *amended by* `32023R2663`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The date until which the scheme applies in paragraph 3 changes from 31 December 2023 to 31 December 2027, with the rest of the article's wording unchanged. [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0978-20231128#art_43)
 
