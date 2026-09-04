@@ -10,6 +10,444 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20240513 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20231208` → `02013R1308-20240513`
+
+- **Act** `eu:32013R1308` · **In force** 2024-05-13 · **Detected** 2026-09-04
+- **Touched** 21 provisions — 21 substantive · 0 date-only · **13 disputed**
+- **Diff** 1 inserted · 12 modified · 8 deleted · 0 renumbered · 0 deferred · 248 unchanged
+- **Gate** 0 sentences quoted verbatim · 13 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20231208` · `v2` = `02013R1308-20240513`
+
+---
+
+**MODIFIED · Art. 93 — Definitions** · applies from: unchanged
+
+*within* `AR 93 PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (iii)` · *amended by* `32024R1143`
+
+In the geographical indication definition, point (b)(ii) no longer includes the phrase referring to "in exceptional cases" before the word country, now simply listing place, region or country. [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_93) [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_93)
+
+Point (b)(iii) changes wording from grapes coming exclusively from that geographical area to grapes originating exclusively from that geographical area. [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_93) [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_93)
+
+*before* (`02013R1308-20231208`)
+
+> Article 93
+> Definitions
+> 1. For the purposes of this Section, the following definitions shall apply:
+> (a) designation of origin means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose quality or characteristics are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors;
+> (ii) as originating in a specific place, region or, in exceptional cases, country;
+> (iii) produced from grapes which originate exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> (b) geographical indication means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose specific quality, reputation or other characteristics are attributable to its geographical origin;
+> (ii) as originating in a specific place, region or, in exceptional cases, country;
+> (iii) as having at least 85 % of the grapes used for its production come exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> 2. Certain traditionally used names shall consti […truncated by emendrix: 1190 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 93
+> Definitions
+> 1. For the purposes of this Section, the following definitions shall apply:
+> (a) designation of origin means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose quality or characteristics are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors;
+> (ii) as originating in a specific place, region or, in exceptional cases, country;
+> (iii) produced from grapes which originate exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> (b) geographical indication means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose specific quality, reputation or other characteristics are attributable to its geographical origin;
+> (ii) as originating in a specific place, region or country;
+> (iii) as having at least 85 % of the grapes used for its production originating exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> 2. Certain traditionally used names shall constitute a designati […truncated by emendrix: 1174 characters omitted…]
+
+**MODIFIED · Art. 94 — Product specification** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 94`, `AR 94 PA 1 ALN 1`, `AR 94 PA 1 ALN 1 PTA (b)`, `AR 94 PA 1 ALN 1 PTA (c)`, `AR 94 PA 1 ALN 1 PTA (d)`, `AR 94 PA 1 ALN 1 PTA (d) PTI (i)`, `AR 94 PA 1 ALN 1 PTA (d) PTI (ii)`, `AR 94 PA 1 ALN 1 PTA (e)`, `AR 94 PA 1 ALN 1 PTA (f)`, `AR 94 PA 1 ALN 1 PTA (g)`, `AR 94 PA 1 ALN 1 PTA (h)`, `AR 94 PA 1 ALN 1 PTA (i)`, `AR 94 PA 1 ALN 1 PTA (j)`, `AR 94 PA 2 ALN 1`, `AR 94 PA 2 ALN 2`, `AR 94 PA 2 ALN 3`, `AR 94 PA 3 ALN 1` · *dates* +2024-04-11 · *amended by* `32024R1143`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02013R1308-20231208`)
+
+> Article 94
+> Applications for protection
+> 1. Applications for protection of names as designations of origin or geographical indications shall include:
+> (a) the name to be protected;
+> (b) the name and address of the applicant;
+> (c) a product specification, as referred to in paragraph 2; and
+> (d) a single document summarising the product specification referred to in paragraph 2.
+> 2. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication.
+> The product specification shall at least consist of:
+> (a) the name to be protected;
+> (b) a description of the wine or wines:
+> (i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+> (ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+> (c) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+> (d) the demarcation of the geographical area concerned;
+> (e) the maximum yields per hectare;
+> (f) an indication of the wine grape variety or varieties that the wine or wines are obtained from;
+> (g) the details bearing out the link referred to in Article 93(1), point (a)(i), or, as the case may be, point (b)(i):
+> (i) as regards a protected designation of origin, the link between the quality or characteristics of the product […truncated by emendrix: 1926 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 94
+> Product specification
+> 1. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication. The product specification shall comprise:
+> (a) the name to be protected;
+> (b) the categories of grapevine products;
+> (c) the type of geographical indication, being a protected designation of origin or a protected geographical indication;
+> (d) a description of the wine or wines:
+> (i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+> (ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+> (e) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+> (f) the definition of the geographical area delimited with regard to the link referred to in point (i) of this paragraph;
+> (g) the maximum yields per hectare;
+> (h) an indication of the wine grape variety or varieties the wine or wines are obtained from;
+> (i) the details on the link referred to in Article 93(1), point (a)(i), or, as the case may be, point (b)(i):
+> (i) as regards a protected designation of origin, the link between the quality or characteristics of the product and the geographical environment referred to in Article 93(1), point (a)(i); the details concerning the human factors of that geographi […truncated by emendrix: 1754 characters omitted…]
+
+**MODIFIED · Art. 95 — Single document** · applies from: unchanged
+
+*within* `AR 95`, `AR 95 PA 1 ALN 1`, `AR 95 PA 1 ALN 1 PTA (a)`, `AR 95 PA 1 ALN 1 PTA (b)`, `AR 95 PA 1 ALN 1 PTA (c)`, `AR 95 PA 1 ALN 1 PTA (d)`, `AR 95 PA 1 ALN 1 PTA (e)`, `AR 95 PA 1 ALN 1 PTA (f)`, `AR 95 PA 1 ALN 1 PTA (g)`, `AR 95 PA 1 ALN 1 PTA (h)`, `AR 95 PA 1 ALN 1 PTA (i)`, `AR 95 PA 1 ALN 1 PTA (j)`, `AR 95 PA 1 ALN 1 PTA (k)`, `AR 95 PA 2 ALN 1`, `AR 95 PA 3` · *amended by* `32024R1143`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The heading and content of Article 95 have been replaced entirely: the earlier version concerned who may apply for protection of a designation of origin or geographical indication, while the later version concerns the required content of a single document. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_95)
+
+The earlier text set out three short paragraphs on applicants, joint applications, and producer eligibility, whereas the later text lists eleven lettered elements that the single document must include and adds a further paragraph on demonstrating the link for each grapevine product category when an application covers multiple categories. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_95)
+
+*before* (`02013R1308-20231208`)
+
+> Article 95
+> Applicants
+> 1. Any interested group of producers, or in exceptional and duly justifiable cases a single producer, may apply for the protection of a designation of origin or geographical indication. Other interested parties may participate in the application.
+> 2. Producers may apply for protection only for wines which they produce.
+> 3. In the case of a name designating a trans-border geographical area or a traditional name connected to a trans-border geographical area, a joint application may be submitted.
+
+*after* (`02013R1308-20240513`)
+
+> Article 95
+> Single document
+> 1. The single document shall include the following:
+> (a) the name to be protected as a designation of origin or a geographical indication;
+> (b) the Member State or third country to which the demarcated area belongs;
+> (c) the type of geographical indication;
+> (d) a description of the wine or wines;
+> (e) the categories of grapevine products;
+> (f) the maximum yields per hectare;
+> (g) the indication of the wine grape variety or varieties from which the wine or wines are obtained;
+> (h) a concise definition of the demarcated geographical area;
+> (i) a description of the link referred to in Article 94(1), point (i);
+> (j) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+> (k) where applicable, the specific rules concerning packaging and labelling as well as any other essential relevant requirements.
+> 2. Where an application covers different categories of grapevine products, the details bearing out the link referred to in Article 94(1), point (i) shall be demonstrated for each category of grapevine products concerned.
+
+**DELETED · Art. 96** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 97** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 98** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 99** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 100** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 101** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 103 — Protection** · applies from: unchanged
+
+*within* `AR 103 ALN 1`, `AR 103 PA 1`, `AR 103 PA 2`, `AR 103 PA 3`, `AR 103 PA 4` · *amended by* `32024R1143`
+
+The earlier text set out detailed rules across four paragraphs covering who may use a protected designation of origin or protected geographical indication, the specific forms of misuse, imitation, evocation and misleading practices they are protected against, the rule against becoming generic, and the extension of protection to goods in transit and goods sold by distance selling, including a right for producer groups or entitled operators to prevent entry of unauthorised goods. [Art. 103, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_103)
+
+The later text replaces all of that detail with a single sentence stating that protected designations of origin and protected geographical indications referred to in the Regulation are protected in accordance with Articles 26 to 31, 35 and 36 of Regulation (EU) 2024/1143. [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_103)
+
+*before* (`02013R1308-20231208`)
+
+> Article 103
+> Protection
+> 1. A protected designation of origin and a protected geographical indication may be used by any operator marketing a wine which has been produced in conformity with the corresponding product specification.
+> 2. A protected designation of origin and a protected geographical indication, as well as the wine using that protected name in conformity with the product specifications, shall be protected against:
+> (a) any direct or indirect commercial use of that protected name, including the use for products used as ingredients:
+> (i) by comparable products not complying with the product specification of the protected name; or
+> (ii) in so far as such use exploits, weakens or dilutes the reputation of a designation of origin or a geographical indication;
+> (b) any misuse, imitation or evocation, even if the true origin of the product or service is indicated or if the protected name is translated, transcripted or transliterated or accompanied by an expression such as style, type, method, as produced in, imitation, flavour, like or similar, including where those products are used as ingredients;
+> (c) any other false or misleading indication as to the provenance, origin, nature or essential qualities of the product, on the inner or outer packaging, advertising material or documents relating to the wine product concerned, as well as the packing of the product in a container liable to convey a false impression as to its origin;
+> (d) any other practice liable to mislead the cons […truncated by emendrix: 1071 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 103
+> Protection
+> Protected designations of origin and protected geographical indications referred to in this Regulation shall be protected in accordance with Articles 26 to 31, 35 and 36 of Regulation (EU) 2024/1143.
+
+**DELETED · Art. 104** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 105** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 106** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 107** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 110 — Implementing powers** · applies from: unchanged
+
+*within* `AR 110`, `AR 110 PA 1 ALN 1`, `AR 110 PA 1 ALN 1 PTA (a)`, `AR 110 PA 1 ALN 1 PTA (b)`, `AR 110 PA 1 ALN 1 PTA (c)`, `AR 110 PA 1 ALN 1 PTA (d)`, `AR 110 PA 1 ALN 1 PTA (e)`, `AR 110 PA 1 ALN 2`, `AR 110 PA 2 ALN 1`, `AR 110 PA 2 ALN 1 PTA (a)`, `AR 110 PA 2 ALN 1 PTA (b)`, `AR 110 PA 2 ALN 1 PTA (c)`, `AR 110 PA 2 ALN 2` · *amended by* `32024R1143`
+
+The heading is shortened by dropping the reference to the examination procedure, and the list of matters the Commission may address by implementing act is replaced: the former five items on product specification links, decisions on protection or rejection, the register under Article 104, conversion between designations, and trans-border applications are replaced with three new items covering the form of the product specification, the format and online presentation of the single document referred to in Article 95, and the exclusion or anonymisation of personal data. [Art. 110, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_110) [Art. 110, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_110)
+
+The separate paragraph 1(2) and the entirety of former paragraph 2, which covered procedures for examining applications, objections, cancellations, conversions and submission of information on existing protected wine names, are removed, and the examination-procedure cross-reference is moved into a new paragraph 2 that now points to Article 88(2) of Regulation (EU) 2024/1143 instead of Article 229(2). [Art. 110, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_110) [Art. 110, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_110)
+
+*before* (`02013R1308-20231208`)
+
+> Article 110
+> Implementing powers in accordance with the examination procedure
+> 1. The Commission may adopt implementing acts laying down necessary measures concerning:
+> (a) the information to be provided in the product specification with regard to the link between the geographical area and the final product;
+> (b) the making of decisions on protection or rejection available to the public;
+> (c) the establishment and the maintenance of the register referred to in Article 104;
+> (d) the conversion from protected designation of origin to protected geographical indication;
+> (e) the submission of trans-border applications.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. The Commission may adopt implementing acts laying down necessary measures concerning the procedure for the examination of applications for protection or for the approval of an amendment of a designation of origin or a geographical indication, as well as the procedure for requests for objection, cancellation, or conversion, and the submission of information related to existing protected wine names, in particular with respect to:
+> (a) models for documents and the transmission format;
+> (b) time limits;
+> (c) the details of the facts, evidence and supporting documents to be submitted in support of an application or a request.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20240513`)
+
+> Article 110
+> Implementing powers
+> 1. The Commission may adopt implementing acts laying down rules concerning:
+> (a) the form of the product specification;
+> (b) the definition of the format and the online presentation of the single document referred to in Article 95;
+> (c) the exclusion or anonymisation of personal data.
+> 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2) of Regulation (EU) 2024/1143.
+
+**INSERTED · Art. 113a — Relationship with designations of origin and geographical indications** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R1143`
+
+A new Article 113a is added, setting out rules on how traditional terms relate to designations of origin and geographical indications, including a rejection rule for traditional term registrations submitted after a designation of origin or geographical indication application, a procedure for the Commission to invalidate and remove traditional terms registered in breach of that rule, and a reference to the examination procedure for adopting the related implementing acts. [Art. 113a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_113a)
+
+*after* (`02013R1308-20240513`)
+
+> Article 113a
+> Relationship with designations of origin and geographical indications
+> 1. The registration of a traditional term the use of which would contravene Article 26 of Regulation (EU) 2024/1143 shall be rejected if the application for registration of the traditional term is submitted after the date of submission to the Commission of the application for the registration of the designation of origin or of the geographical indication.
+> 2. The Commission shall, by means of implementing acts, declare invalid and remove from the register referred to in Article 25 of Commission Implementing Regulation (EU) 2019/34
+> Commission Implementing Regulation (EU) 2019/34 of 17 October 2018laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks (OJ L 9, 11.1.2019, p. 46). any traditional terms registered in breach of paragraph 1 of this Article.
+> 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**MODIFIED · Art. 116a — Checks** · applies from: unchanged
+
+*within* `AR 116a PA 1 ALN 1`, `AR 116a PA 2 ALN 1`, `AR 116a PA 3 ALN 1`, `AR 116a PA 3 ALN 2`, `AR 116a PA 4 ALN 1`, `AR 116a PA 4 ALN 1 PTA (b)`, `AR 116a PA 4 ALN 1 PTA (c)`, `AR 116a PA 4 ALN 1 PTA (d)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Paragraph 1 now refers only to the unlawful use of protected traditional terms, removing the earlier reference to protected designations of origin and protected geographical indications. [Art. 116a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_116a) [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_116a)
+
+Paragraph 2 changes the competent authority's role from carrying out checks on obligations under this Section to verifying compliance with product specifications for designations of origin and geographical indications and verifying conformity with, and enforcing, the definition and conditions of use of traditional terms. [Art. 116a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_116a) [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_116a)
+
+Paragraph 3 adds a duty to verify conformity with the definition in Article 112 and, where relevant, the conditions of use of traditional terms under Article 115(3), and adds new text on operator notification and on Member States keeping an up-to-date list of operators, while paragraph 4's points (b) through (d) are reworded to refer to protected designations of origin, protected geographical indications, traditional terms and verification of compliance with the product specification rather than the earlier broader wording. [Art. 116a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_116a) [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_116a)
+
+*before* (`02013R1308-20231208`)
+
+> Article 116a
+> Checks
+> 1. Member States shall take the necessary steps to stop the unlawful use of protected designations of origin, protected geographical indications and protected traditional terms referred to in this Regulation.
+> 2. Member States shall designate the competent authority responsible for carrying out checks in respect of the obligations laid down in this Section. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council
+> Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1). shall apply.
+> 3. Within the Union, the competent aut […truncated by emendrix: 1115 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 116a
+> Checks
+> 1. Member States shall take the necessary steps to stop the unlawful use of protected traditional terms referred to in this Regulation.
+> 2. Member States shall designate the competent authority responsible for verifying compliance with product specifications related to designations of origin and geographical indications and to verify conformity with the definition and conditions of use of traditional terms, as well as for the enforcement of the conditions for use of traditional terms. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council
+> Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council […truncated by emendrix: 2216 characters omitted…]
+
+**MODIFIED · Art. 120 — Optional particulars** · applies from: unchanged
+
+*within* `AR 120 PA 1 ALN 1 PTA (g)`, `AR 120 PA 1 ALN 1 PTA (h)` · *amended by* `32024R1143`
+
+The list of optional particulars in paragraph 1 now includes a new point (h) allowing the abbreviations PDO or PGI corresponding to protected designation of origin or protected geographical indication, alongside the existing point (g) on naming another geographical unit. [Art. 120, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_120)
+
+The earlier version ended the list at point (g) and did not contain this additional point on PDO or PGI abbreviations. [Art. 120, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_120)
+
+*before* (`02013R1308-20231208`)
+
+> Article 120
+> Optional particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII may, in particular, contain the following optional particulars:
+> (a) the vintage year;
+> (b) the name of one or more wine grape varieties;
+> (c) in the case of wines other than those referred to in point (g) of Article 119(1), terms indicating the sugar content;
+> (d) for wines with a protected designation of origin or a protected geographical indication, traditional terms in accordance with point (b) of Article 112;
+> (e) the Union symbol indicating the protected designation of origin or the protected geographical indication;
+> (f) terms referring to certain production methods;
+> (g) for wines bearing a protected designation of origin or a protected geographical indication, the name of another geographical unit that is smaller or larger than the area underlying the designation of origin or geographical indication.
+> 2. Without prejudice to Article 100(3), as regards the use of particulars referred to in points (a) and (b) of paragraph 1 of this Article for wines without a protected designation of origin or a protected geographical indication:
+> (a) Member States shall introduce laws, regulations or administrative provisions to ensure certification, approval and verification procedures so as to guarantee the veracity of the information concerned;
+> (b) Member States may, on the basis of non-discriminatory and objective criteria and with due regard t […truncated by emendrix: 790 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 120
+> Optional particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII may, in particular, contain the following optional particulars:
+> (a) the vintage year;
+> (b) the name of one or more wine grape varieties;
+> (c) in the case of wines other than those referred to in point (g) of Article 119(1), terms indicating the sugar content;
+> (d) for wines with a protected designation of origin or a protected geographical indication, traditional terms in accordance with point (b) of Article 112;
+> (e) the Union symbol indicating the protected designation of origin or the protected geographical indication;
+> (f) terms referring to certain production methods;
+> (g) for wines bearing a protected designation of origin or a protected geographical indication, the name of another geographical unit that is smaller or larger than the area underlying the designation of origin or geographical indication;
+> (h) the abbreviations PDO or PGI, corresponding to the indications protected designation of origin or protected geographical indication.
+> 2. Without prejudice to Article 100(3), as regards the use of particulars referred to in points (a) and (b) of paragraph 1 of this Article for wines without a protected designation of origin or a protected geographical indication:
+> (a) Member States shall introduce laws, regulations or administrative provisions to ensure certification, approval and verification procedures so as to guarantee the vera […truncated by emendrix: 927 characters omitted…]
+
+**MODIFIED · Art. 166a — Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication** · applies from: unchanged
+
+*within* `AR 166a PA 1 ALN 1`, `AR 166a PA 4 ALN 1 PTA (c)` · *amended by* `32024R1143`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02013R1308-20231208`)
+
+> Article 166a
+> Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication
+> 1. Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a group of operators as referred to in Article 3(2) of Regulation (EU) No 1151/2012 or a group of producers as referred to in Article 95(1) of this Regulation, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 5(1) and (2) of Regulation (EU) No 1151/2012 or under Article 93(1), points (a) and (b), of this Regulation.
+> 2. The rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement that is to be concluded between at least two-thirds of the producers of the product as referred to in paragraph 1 of this Article or their representatives, accounting for at least two-thirds of the production of that product in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 or Article 93(1), points (a)(iii) and (b)(iv), of this Regulation for wine. Where the p […truncated by emendrix: 4315 characters omitted…]
+
+*after* (`02013R1308-20240513`)
+
+> Article 166a
+> Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication
+> 1. Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a producer group as referred to in Article 32 of Regulation (EU) 2024/1143 or a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 46(1) and (2) of Regulation (EU) 2024/1143 or under Article 93(1), points (a) and (b), of this Regulation. Where a recognised producer group referred to in Article 33 of Regulation (EU) 2024/1143 exists, the producer group referred to in Article 32 of that Regulation shall not have that right.
+> 2. The rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement that is to be concluded between at least two-thirds of the producers of the product as referred to in paragraph 1 of this Article or their representatives, accounting for at least two-thirds of the production of that p […truncated by emendrix: 4675 characters omitted…]
+
+**MODIFIED · Art. 231 — Transitional rules** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 231 PA 3` · *dates* +2024-05-13 · *amended by* `32024R1143`
+
+A new paragraph 3 has been added stating that Article 113a does not apply to applications for protection of a traditional term submitted to the Commission before 13 May 2024. [Art. 231, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_231)
+
+*before* (`02013R1308-20231208`)
+
+> Article 231
+> Transitional rules
+> 1. In order to ensure the smooth transition from the arrangements provided for in Regulation (EC) No 1234/2007 to those laid down in this Regulation, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning measures necessary to protect the acquired rights and legitimate expectations of undertakings.
+> 2. All multiannual programmes adopted before 1 January 2014 shall continue to be governed by the concerned provisions of Regulation (EC) No 1234/2007 following the entry into force of this Regulation until those programmes come to an end.
+
+*after* (`02013R1308-20240513`)
+
+> Article 231
+> Transitional rules
+> 1. In order to ensure the smooth transition from the arrangements provided for in Regulation (EC) No 1234/2007 to those laid down in this Regulation, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning measures necessary to protect the acquired rights and legitimate expectations of undertakings.
+> 2. All multiannual programmes adopted before 1 January 2014 shall continue to be governed by the concerned provisions of Regulation (EC) No 1234/2007 following the entry into force of this Regulation until those programmes come to an end.
+> 3. Article 113a shall not apply with regard to applications for protection of a traditional term submitted to the Commission before 13 May 2024.
+
+**MODIFIED · Part II** · applies from: unknown
+
+*amended by* `32024R1143`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20240513 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20231208 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20230101` → `02013R1308-20231208`
