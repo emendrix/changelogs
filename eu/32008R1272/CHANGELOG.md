@@ -4160,7 +4160,7 @@ The text shown is truncated before the rest of the entries in Table 3, so any fu
 - **Act** `eu:32008R1272` · **In force** 2020-05-01 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20200101` · `v2` = `02008R1272-20200501`
 
 ---
@@ -4171,7 +4171,11 @@ The text shown is truncated before the rest of the entries in Table 3, so any fu
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the explainer could not be reached when this entry was written, so no explanation is shipped yet; the verbatim before and after texts are unaffected.*
+The explanatory note above the Table 3 column headers was changed from a statement about a converted acute toxicity point estimate referencing Annex I Table 3.1.2 to a statement explaining that ATEs for oral and dermal exposure routes are expressed in mg/kg bodyweight. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
+
+The table column heading was also altered, splitting the earlier single heading covering specific concentration limits, M-factors and Acute Toxicity Estimates into a heading for specific concentration limits, M-factors and ATEs together with a separate Notes heading. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
+
+The remainder of the visible text, including the substance entries themselves, is unchanged between the two versions, and both texts are truncated before any further differences could be observed. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
 
 *before* (`02008R1272-20200101`)
 

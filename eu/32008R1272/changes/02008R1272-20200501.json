@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 1,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -87,11 +87,108 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The explanatory note above the Table 3 column headers was changed from a statement about a converted acute toxicity point estimate referencing Annex I Table 3.1.2 to a statement explaining that ATEs for oral and dermal exposure routes are expressed in mg/kg bodyweight.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI",
+              "label": "Annex VI, 02008R1272-20200101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200501",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI",
+              "label": "Annex VI, 02008R1272-20200501"
+            }
+          ]
+        },
+        {
+          "text": "The table column heading was also altered, splitting the earlier single heading covering specific concentration limits, M-factors and Acute Toxicity Estimates into a heading for specific concentration limits, M-factors and ATEs together with a separate Notes heading.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI",
+              "label": "Annex VI, 02008R1272-20200101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200501",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI",
+              "label": "Annex VI, 02008R1272-20200501"
+            }
+          ]
+        },
+        {
+          "text": "The remainder of the visible text, including the substance entries themselves, is unchanged between the two versions, and both texts are truncated before any further differences could be observed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI",
+              "label": "Annex VI, 02008R1272-20200101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20200501",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI",
+              "label": "Annex VI, 02008R1272-20200501"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the explainer could not be reached when this entry was written, so no explanation is shipped yet; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -208,31 +305,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 1,
-    "explained": 0,
-    "unavailable": 1,
+    "explained": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 1,
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 0,
-    "provider_unavailable": 1,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
+      "input_tokens": 35457,
+      "output_tokens": 399,
+      "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
     "changes": 1,
-    "passed_first": 0,
+    "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 3,
+    "citations": 6,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
