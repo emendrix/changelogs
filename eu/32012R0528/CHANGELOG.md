@@ -220,10 +220,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20210329` → `02012R0528-20210610`
 
-- **Act** `eu:32012R0528` · **In force** 2021-06-10 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2021-06-10 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20210329` · `v2` = `02012R0528-20210610`
 
 ---
@@ -232,22 +232,42 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *dates* +2022-07-01 +2023-02-01 · *amended by* `32021R0807`, `32021R0806`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The later version adds two new approval-date statements for product-type 19 and product-type 6, naming carbon dioxide generated from propane, butane or a mixture of both by combustion, and potassium sorbate respectively. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_I)
+
+The table itself is expanded to list these two substances, with their EC numbers, CAS numbers and purity restrictions, under Category 6, alongside the existing entries for carbon dioxide and nitrogen. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210329#anx_I)
 
 *before* (`02012R0528-20210329`)
 
 > ANNEX I
 > LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
-> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.
+> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).
+> The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.
 > EC number Name/group Restriction Comment
 > Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008
-> 200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require classificatio […truncated by emendrix: 2886 characters omitted…]
+> 200-018-0 Lactic acid Concentration to be limited so that each biocidal product does not require class […truncated by emendrix: 2896 characters omitted…]
 
 *after* (`02012R0528-20210610`)
 
 > ANNEX I
 > LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
-> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.The date of approval of potassium sorbate for product-type 6 for the purp […truncated by emendrix: 3704 characters omitted…]
+> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).
+> The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.
+> The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.
+> The date of approval of potassium sorbate for product-type 6 fo […truncated by emendrix: 3718 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20210610 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20210329 -->
