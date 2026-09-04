@@ -5443,7 +5443,7 @@ The rest of Article 81, including the list of entities in paragraph 3 and paragr
 - **Act** `eu:32012R0648` · **In force** 2016-01-12 · **Detected** 2026-08-13
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
 - **Diff** 1 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20150916` · `v2` = `02012R0648-20160112`
 
 ---
@@ -5503,7 +5503,11 @@ It also directs the Commission and ESMA to publish and periodically update a lis
 
 *within* `AR 81 PA 3 ALN 1 PTA (b)`, `AR 81 PA 3 ALN 1 PTA (c)`, `AR 81 PA 3 ALN 1 PTA (d)`, `AR 81 PA 3 ALN 1 PTA (e)`, `AR 81 PA 3 ALN 1 PTA (f)`, `AR 81 PA 3 ALN 1 PTA (g)`, `AR 81 PA 3 ALN 1 PTA (h)`, `AR 81 PA 3 ALN 1 PTA (i)`, `AR 81 PA 3 ALN 1 PTA (j)`, `AR 81 PA 3 ALN 1 PTA (k)`, `AR 81 PA 3 ALN 1 PTA (l)`, `AR 81 PA 3 ALN 1 PTA (m)`, `AR 81 PA 3 ALN 1 PTA (n)`, `AR 81 PA 3 ALN 1 PTA (o)`, `AR 81 PA 3 ALN 1 PTA (p)` · *dates* +2009-07-13 +2013-10-15 · *amended by* `32015R2365`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been expanded, adding EBA and EIOPA and inserting several new bodies such as the Single Resolution Board, additional competent and national competent authorities under specified regulations and directives, and the competent authorities designated under Article 10(5). [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
+
+Several existing entries were also reworded, including the reference to the relevant members of the ESCB now naming the ECB's role under the single supervisory mechanism, the reference to the Agency for the Cooperation of Energy Regulators now naming its establishing regulation, and the reference to Union securities and market authorities now qualified by the scope of their supervisory responsibilities and mandates. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
+
+As a result of these insertions the lettering of the sub-points in paragraph 3 differs between the two texts, with the earlier version running from (a) to (k) and the later version running from (a) to (p). [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
 
 *before* (`02012R0648-20150916`)
 
