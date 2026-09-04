@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32012R0649` · **In force** 2025-03-01 · **Detected** 2026-08-13
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20231101` · `v2` = `02012R0649-20250301`
 
 ---
@@ -64,7 +64,9 @@ The truncated portion of Part 3 in the AFTER text cuts off mid-entry, so no furt
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+A new entry for Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds, with associated EC, CAS and CN code identifiers, has been added to Part 1 of the list. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_V)
+
+The entry for Endosulfan has been updated to add two further CAS numbers and to change its CN code from ex29203000 to ex29203000 rendered without the 'ex' prefix, now listed simply as 29203000. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_V)
 
 *before* (`02012R0649-20231101`)
 

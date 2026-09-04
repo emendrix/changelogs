@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 2,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -219,11 +219,63 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new entry for Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds, with associated EC, CAS and CN code identifiers, has been added to Part 1 of the list.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20250301",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_V",
+              "label": "Annex V, 02012R0649-20250301"
+            }
+          ]
+        },
+        {
+          "text": "The entry for Endosulfan has been updated to add two further CAS numbers and to change its CN code from ex29203000 to ex29203000 rendered without the 'ex' prefix, now listed simply as 29203000.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20231101",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_V",
+              "label": "Annex V, 02012R0649-20231101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20250301",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_V",
+              "label": "Annex V, 02012R0649-20250301"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -484,6 +536,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 10679,
+        "output_tokens": 255,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false
