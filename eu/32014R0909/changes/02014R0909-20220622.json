@@ -15,80 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 2,
+    "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 75,
-    "disputed": 2
+    "disputed": 0
   },
   "counts": {
-    "touched": 2,
-    "substantive": 2,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 2,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32014R0909",
-            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-          },
-          "version": "02014R0909-20220622",
-          "location": "AR 17"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R0858",
-            "display_name": "Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2016-07-01, 2022-06-22]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 017",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -137,12 +80,14 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32022R0858, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 017",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
-        "disputed": true
+        "disputed": false
       },
       "outcome": "passed",
       "sentences": [
@@ -199,7 +144,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -245,12 +191,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 17"
+          "AR 76"
         ],
         "note": "32022R0858, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 17 PA 5 ALN 1",
+            "location": "AR 76 PA 5 ALN 1",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 017",
@@ -280,10 +226,10 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
@@ -291,62 +237,15 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 17",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 76",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 17"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -357,6 +256,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 3835,
       "output_tokens": 252,
@@ -376,5 +278,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
