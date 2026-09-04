@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 269,
     "quoted": 0,
-    "unexplained": 269
+    "unexplained": 267
   },
   "changes": [
     {
@@ -14852,11 +14852,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The notification procedure in paragraph 2 changes so that the designated authority now notifies the Commission and the ESRB, with the ESRB forwarding the notification to the European Parliament, the Council and EBA, rather than the authority notifying all those bodies directly, and the standard for using stricter national measures is reworded from measures that 'would better be addressed' to risks that cannot be addressed as effectively by other macroprudential tools.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458",
+              "label": "Art. 458, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458",
+              "label": "Art. 458, 02013R0575-20201228"
+            }
+          ]
+        },
+        {
+          "text": "The list of required justifications and draft measures in points (a) to (f) is reordered and reworded, dropping the reference to Articles 101, 103, 104 and 105 of Directive 2013/36/EU from the adequacy justification and adding real economy impact and reordering the disclosure and buffer sub-points under point (d).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458",
+              "label": "Art. 458, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458",
+              "label": "Art. 458, 02013R0575-20201228"
+            }
+          ]
+        },
+        {
+          "text": "The Council's rejection conditions in paragraph 4 are reduced from five to four criteria, dropping the separate criterion on risks already addressed by other measures, and paragraphs 5, 9 and 10 are adjusted so that recognition extends to institutions with exposures (not just branches), extensions can run up to two additional years with review at least every two years, and paragraph 10's cross-references are updated to points (d)(iv) and (d)(vii).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458",
+              "label": "Art. 458, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 458"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458",
+              "label": "Art. 458, 02013R0575-20201228"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -15550,11 +15647,108 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision now sets a single exemption end date of 26 June 2021, replacing the earlier structure that ran until 31 December 2020 or an earlier amendment date and that included separate reporting deadlines and Commission review obligations under paragraphs 2 and 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498",
+              "label": "Art. 498, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498",
+              "label": "Art. 498, 02013R0575-20201228"
+            }
+          ]
+        },
+        {
+          "text": "The list of exempted financial instruments now references points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU, adding point (11) and switching the referenced directive from Directive 2004/39/EC, while the cross-reference to the pre-2007 non-application of a directive now points to Directive 2004/39/EC instead of Directive 93/22/EEC.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498",
+              "label": "Art. 498, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498",
+              "label": "Art. 498, 02013R0575-20201228"
+            }
+          ]
+        },
+        {
+          "text": "The paragraphs describing the Commission's reporting duty by 31 December 2015 and its ability to submit amendment proposals have been removed entirely.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20200627",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498",
+              "label": "Art. 498, 02013R0575-20200627"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20201228",
+                "location": "AR 498"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498",
+              "label": "Art. 498, 02013R0575-20201228"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -26820,6 +27014,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 27168,
+        "output_tokens": 1948,
+        "requests": 5,
+        "schema_repairs": 3
       },
       "coordinates_checked": false
     }

@@ -25933,7 +25933,7 @@ In point 7, the reference to the risk-weight chapter was reworded from "Chapter 
 - **Act** `eu:32013R0575` · **In force** 2020-12-28 · **Detected** 2026-08-13
 - **Touched** 274 provisions — 274 substantive · 0 date-only · **269 disputed**
 - **Diff** 157 inserted · 117 modified · 0 deleted · 0 renumbered · 0 deferred · 637 unchanged
-- **Gate** 0 sentences quoted verbatim · 269 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 267 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20200627` · `v2` = `02013R0575-20201228`
 
 ---
@@ -28489,7 +28489,11 @@ A new paragraph 7 introduces a six-month transitional period for institutions to
 
 *within* `AR 458 PA 2 ALN 1`, `AR 458 PA 2 ALN 1 PTA (a)`, `AR 458 PA 2 ALN 1 PTA (b)`, `AR 458 PA 2 ALN 1 PTA (c)`, `AR 458 PA 2 ALN 1 PTA (d)`, `AR 458 PA 2 ALN 1 PTA (e)`, `AR 458 PA 2 ALN 1 PTA (f)`, `AR 458 PA 2 ALN 2`, `AR 458 PA 4 ALN 2`, `AR 458 PA 4 ALN 6`, `AR 458 PA 4 ALN 6 PTA (b)`, `AR 458 PA 4 ALN 6 PTA (c)`, `AR 458 PA 4 ALN 6 PTA (d)`, `AR 458 PA 4 ALN 6 PTA (e)`, `AR 458 PA 4 ALN 7`, `AR 458 PA 4 ALN 8`, `AR 458 PA 5 ALN 1`, `AR 458 PA 9 ALN 1`, `AR 458 PA 10 ALN 1` · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The notification procedure in paragraph 2 changes so that the designated authority now notifies the Commission and the ESRB, with the ESRB forwarding the notification to the European Parliament, the Council and EBA, rather than the authority notifying all those bodies directly, and the standard for using stricter national measures is reworded from measures that 'would better be addressed' to risks that cannot be addressed as effectively by other macroprudential tools. [Art. 458, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458) [Art. 458, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458)
+
+The list of required justifications and draft measures in points (a) to (f) is reordered and reworded, dropping the reference to Articles 101, 103, 104 and 105 of Directive 2013/36/EU from the adequacy justification and adding real economy impact and reordering the disclosure and buffer sub-points under point (d). [Art. 458, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458) [Art. 458, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458)
+
+The Council's rejection conditions in paragraph 4 are reduced from five to four criteria, dropping the separate criterion on risks already addressed by other measures, and paragraphs 5, 9 and 10 are adjusted so that recognition extends to institutions with exposures (not just branches), extensions can run up to two additional years with review at least every two years, and paragraph 10's cross-references are updated to points (d)(iv) and (d)(vii). [Art. 458, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_458) [Art. 458, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_458)
 
 *before* (`02013R0575-20200627`)
 
@@ -28630,7 +28634,11 @@ The reference to the prior directive not applying on 31 December 2006 now names 
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision now sets a single exemption end date of 26 June 2021, replacing the earlier structure that ran until 31 December 2020 or an earlier amendment date and that included separate reporting deadlines and Commission review obligations under paragraphs 2 and 3. [Art. 498, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498) [Art. 498, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498)
+
+The list of exempted financial instruments now references points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU, adding point (11) and switching the referenced directive from Directive 2004/39/EC, while the cross-reference to the pre-2007 non-application of a directive now points to Directive 2004/39/EC instead of Directive 93/22/EEC. [Art. 498, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498) [Art. 498, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498)
+
+The paragraphs describing the Commission's reporting duty by 31 December 2015 and its ability to submit amendment proposals have been removed entirely. [Art. 498, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_498) [Art. 498, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_498)
 
 *before* (`02013R0575-20200627`)
 
