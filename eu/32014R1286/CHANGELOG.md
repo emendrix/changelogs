@@ -158,28 +158,16 @@ No other wording in these paragraphs was altered between the two versions. [Art.
 ### `02014R1286-20141229` → `02014R1286-20161224`
 
 - **Act** `eu:32014R1286` · **In force** 2016-12-24 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 33 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 33 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R1286-20141229` · `v2` = `02014R1286-20161224`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32016R2340`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **DEFERRED · Art. 34 — Article 34** · applies from: 2018-01-01
 
 *within* `AR 34 ALN 2` · *dates* -2016-12-31 +2018-01-01 · *amended by* `32016R2340`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The date from which the Regulation applies changes from 31 December 2016 to 1 January 2018, while the entry-into-force sentence remains unchanged. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20141229#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20161224#art_34)
 
