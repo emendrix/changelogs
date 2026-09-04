@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32014R0806` · **In force** 2026-06-11 · **Detected** 2026-08-13
 - **Touched** 54 provisions — 54 substantive · 0 date-only · **23 disputed**
 - **Diff** 9 inserted · 45 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
-- **Gate** 0 sentences quoted verbatim · 24 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 23 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20251110` · `v2` = `02014R0806-20260611`
 
 ---
@@ -582,7 +582,11 @@ Paragraph 9 now specifies that the conditions in paragraph 1 and in Article 18(1
 
 *within* `AR 30`, `AR 30 PA 2 ALN 1`, `AR 30 PA 2a`, `AR 30 PA 2b`, `AR 30 PA 2c`, `AR 30 PA 6 ALN 1`, `AR 30 PA 6 ALN 1 PTA (a)`, `AR 30 PA 6 ALN 1 PTA (b)`, `AR 30 PA 7 ALN 1` · *amended by* `32026R0808`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading drops the words "within the SRM", and paragraph 2 now specifies that the information exchanged includes what is referred to in new paragraphs 2a, 2b and 2c. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
+
+Three new paragraphs are added requiring cooperation and information exchange between the Board and the ESRB, EBA, ESMA and EIOPA, between the Board and the ECB and other ESCB members (subject to Article 88(6)), and between the Board and designated authorities and deposit guarantee schemes, the latter being made subject to the professional secrecy requirements of Article 88. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
+
+Paragraph 6 is restructured into points (a) and (b), adding a new situation where the Board has contracted a financial arrangement for the Fund under Article 74, and paragraph 7 now also names other ESCB members and the designated authorities and deposit guarantee schemes as parties to the memorandum of understanding, extending its scope to paragraphs 2 to 2c and to Article 74, second paragraph. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
 
 *before* (`02014R0806-20251110`)
 

@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 23,
     "quoted": 0,
-    "unexplained": 24
+    "unexplained": 23
   },
   "changes": [
     {
@@ -2608,11 +2608,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading drops the words \"within the SRM\", and paragraph 2 now specifies that the information exchanged includes what is referred to in new paragraphs 2a, 2b and 2c.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20251110",
+                "location": "AR 30"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30",
+              "label": "Art. 30, 02014R0806-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20260611",
+                "location": "AR 30"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30",
+              "label": "Art. 30, 02014R0806-20260611"
+            }
+          ]
+        },
+        {
+          "text": "Three new paragraphs are added requiring cooperation and information exchange between the Board and the ESRB, EBA, ESMA and EIOPA, between the Board and the ECB and other ESCB members (subject to Article 88(6)), and between the Board and designated authorities and deposit guarantee schemes, the latter being made subject to the professional secrecy requirements of Article 88.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20260611",
+                "location": "AR 30"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30",
+              "label": "Art. 30, 02014R0806-20260611"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 6 is restructured into points (a) and (b), adding a new situation where the Board has contracted a financial arrangement for the Fund under Article 74, and paragraph 7 now also names other ESCB members and the designated authorities and deposit guarantee schemes as parties to the memorandum of understanding, extending its scope to paragraphs 2 to 2c and to Article 74, second paragraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20251110",
+                "location": "AR 30"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30",
+              "label": "Art. 30, 02014R0806-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20260611",
+                "location": "AR 30"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30",
+              "label": "Art. 30, 02014R0806-20260611"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7765,6 +7849,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 9831,
+        "output_tokens": 953,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }
