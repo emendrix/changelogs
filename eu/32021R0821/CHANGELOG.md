@@ -173,28 +173,16 @@ The Definitions section adds new defined terms not present before, including 'Ch
 ### `02021R0821-20230526` → `02021R0821-20231216`
 
 - **Act** `eu:32021R0821` · **In force** 2023-12-16 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02021R0821-20230526` · `v2` = `02021R0821-20231216`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R2616`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I`, `AN I PO 1`, `AN I PO 2`, `AN I PO 4`, `AN I PTA (a)`, `AN I PTA (c)`, `AN I PTA (h)`, `AN I PTA (i)`, `AN I PTA (k)`, `AN I PO 11`, `AN I PTA (p)`, `AN I PTA (r)` · *dates* -2008-07-06 · *amended by* `32023R2616`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 General Note 1 now adds a reference to the Common Military List of the European Union, alongside the existing reference to Member States' military goods control lists. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20231216#anx_I)
 
