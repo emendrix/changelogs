@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32015R2283` · **In force** 2021-03-27 · **Detected** 2026-09-04
 - **Touched** 4 provisions — 4 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 32 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32015R2283` · `v2` = `02015R2283-20210327`
 
 ---
@@ -118,7 +118,11 @@ The second paragraph now adds that the Authority shall make the application, rel
 
 *within* `AR 23`, `AR 23 PA 1 ALN 1`, `AR 23 PA 2 ALN 1`, `AR 23 PA 3 ALN 1`, `AR 23 PA 4 ALN 1`, `AR 23 PA 4 ALN 1 PTA (a)`, `AR 23 PA 4 ALN 1 PTA (b)`, `AR 23 PA 4 ALN 2`, `AR 23 PA 5 ALN 1`, `AR 23 PA 6 ALN 1`, `AR 23 PA 7`, `AR 23 PA 8` · *amended by* `32019R1381`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The article's heading changed from confidentiality of applications for updates of the Union list to transparency and confidentiality, and the whole provision was rewritten to link the process to the Authority's role under Article 10(3) and Article 16 and to Articles 38 to 39e of Regulation (EC) No 178/2002, rather than setting out a self-contained withdrawal, decision and non-disclosure regime. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2283#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23)
+
+The prior list of categories that could never be treated as confidential, the three-week withdrawal window, and the separate implementing-act rulemaking power have been removed, replaced by confidentiality criteria tied to Article 39 of Regulation (EC) No 178/2002 plus two specific items on starting substances/preparations and batch variability/stability. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2283#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23)
+
+A new provision addresses confidentiality assessment by the Commission itself when the Authority's opinion is not requested, and the article now states it is without prejudice to Article 41 of Regulation (EC) No 178/2002, elements not present before. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23)
 
 *before* (`32015R2283`)
 

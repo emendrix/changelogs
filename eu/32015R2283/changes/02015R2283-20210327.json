@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -132,7 +132,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -233,7 +234,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -335,7 +337,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -405,10 +408,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The article's heading changed from confidentiality of applications for updates of the Union list to transparency and confidentiality, and the whole provision was rewritten to link the process to the Authority's role under Article 10(3) and Article 16 and to Articles 38 to 39e of Regulation (EC) No 178/2002, rather than setting out a self-contained withdrawal, decision and non-disclosure regime.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "32015R2283",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2283#art_23",
+              "label": "Art. 23, 32015R2283"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23",
+              "label": "Art. 23, 02015R2283-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The prior list of categories that could never be treated as confidential, the three-week withdrawal window, and the separate implementing-act rulemaking power have been removed, replaced by confidentiality criteria tied to Article 39 of Regulation (EC) No 178/2002 plus two specific items on starting substances/preparations and batch variability/stability.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "32015R2283",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2283#art_23",
+              "label": "Art. 23, 32015R2283"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23",
+              "label": "Art. 23, 02015R2283-20210327"
+            }
+          ]
+        },
+        {
+          "text": "A new provision addresses confidentiality assessment by the Commission itself when the Authority's opinion is not requested, and the article now states it is without prejudice to Article 41 of Regulation (EC) No 178/2002, elements not present before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 23"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_23",
+              "label": "Art. 23, 02015R2283-20210327"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -640,6 +728,7 @@
     "no_evidence": 0,
     "model_failed": 1,
     "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 15130,
       "output_tokens": 984,
@@ -659,5 +748,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 15054,
+        "output_tokens": 1402,
+        "requests": 3,
+        "schema_repairs": 2
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
