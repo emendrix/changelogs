@@ -1550,7 +1550,7 @@ The same new article states that this record must not reflect discussions on ind
 
 *within* `AR 44 PA 1 ALN 1`, `AR 44 PA 1 ALN 2`, `AR 44 PA 1 ALN 3`, `AR 44 PA 1 ALN 4`, `AR 44 PA 1 ALN 5`, `AR 44 PA 1 ALN 6`, `AR 44 PA 1 ALN 7`, `AR 44 PA 3a`, `AR 44 PA 3b`, `AR 44 PA 4 ALN 1`, `AR 44 PA 4 ALN 2`, `AR 44 PA 4a ALN 1` · *amended by* `32019R2175`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1093-20190330`)
 
@@ -2024,7 +2024,7 @@ A new Article 60a is added, allowing any natural or legal person to send reasone
 
 *within* `AR 62 PA 1 ALN 1`, `AR 62 PA 1 ALN 1 PTA (c)`, `AR 62 PA 1 ALN 1 PTA (d)`, `AR 62 PA 1 ALN 1 PTA (e)`, `AR 62 PA 1 ALN 2` · *dates* -2002-06-25 +2018-07-18 · *amended by* `32019R2175`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1093-20190330`)
 
