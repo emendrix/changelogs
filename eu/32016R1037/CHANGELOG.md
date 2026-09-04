@@ -224,7 +224,7 @@ Paragraph 3 now specifies that general policy reasons for rejecting an undertaki
 
 *within* `AR 14 PA 5 ALN 1` · *amended by* `32018R0825`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02016R1037-20171220`)
 
