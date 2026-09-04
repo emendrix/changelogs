@@ -6696,7 +6696,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 - **Act** `eu:32008R1272` · **In force** 2012-07-31, 2013-06-21 · **Detected** 2026-08-13
 - **Touched** 9 provisions — 9 substantive · 0 date-only · **5 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
-- **Gate** 0 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20110419` · `v2` = `02008R1272-20131201`
 
 ---
@@ -6811,7 +6811,9 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 *within* `AN III SCT 1`, `AN III SCT 2`, `AN III SCT 3` · *amended by* `32013R0487`, `32013R0517`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The after text adds a Croatian-language (HR) translation line for each hazard statement entry in Annex III sections 1 through 3, inserted alongside the existing language versions such as BG, ES, CS and the others. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
+
+Aside from the addition of these Croatian translations, the wording of the hazard statements themselves, including the English-language text, remains the same between the two versions shown. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
 
 *before* (`02008R1272-20110419`)
 

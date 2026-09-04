@@ -30,7 +30,7 @@
     "date_only": 0,
     "disputed": 5,
     "quoted": 0,
-    "unexplained": 7
+    "unexplained": 6
   },
   "changes": [
     {
@@ -335,11 +335,63 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The after text adds a Croatian-language (HR) translation line for each hazard statement entry in Annex III sections 1 through 3, inserted alongside the existing language versions such as BG, ES, CS and the others.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20131201",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III",
+              "label": "Annex III, 02008R1272-20131201"
+            }
+          ]
+        },
+        {
+          "text": "Aside from the addition of these Croatian translations, the wording of the hazard statements themselves, including the English-language text, remains the same between the two versions shown.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20110419",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III",
+              "label": "Annex III, 02008R1272-20110419"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20131201",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III",
+              "label": "Annex III, 02008R1272-20131201"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1135,6 +1187,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 45691,
+        "output_tokens": 229,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false
