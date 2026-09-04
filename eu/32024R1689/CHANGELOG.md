@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32024R1689` · **In force** 2026-07-27 · **Detected** 2026-08-12
 - **Touched** 45 provisions — 45 substantive · 0 date-only · **0 disputed**
 - **Diff** 7 inserted · 38 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32024R1689` · `v2` = `02024R1689-20260727`
 
 ---
@@ -331,7 +331,11 @@ Paragraph 2 now adds language specifying that proportionality to the size of the
 
 *within* `AR 25 PA 2 ALN 1`, `AR 25 PA 2 ALN 2`, `AR 25 PA 2 ALN 3`, `AR 25 PA 2 ALN 4`, `AR 25 PA 4 ALN 1` · *amended by* `32026R1744`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 2 now sets out a list of specific items that the obligation to cooperate with new providers includes, namely making available sufficient technical documentation, informing new providers of known limitations and failure modes, and providing targeted technical access including for testing and validation, whereas the earlier text described only the general obligation without this list. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_25)
+
+The exemption clause in paragraph 2 was also expanded to state that it excuses the initial provider from the obligation to cooperate with the new providers, in addition to the obligation to hand over documentation, and the wording on compliance with conformity assessment was slightly rephrased. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_25)
+
+Paragraph 4 was changed by adding a reference to an AI model alongside the AI system, tools, services, components, or processes covered by the written agreement between the provider and the third party. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_25)
 
 *before* (`32024R1689`)
 
@@ -626,7 +630,11 @@ The sentence in the earlier text authorizing the Commission to approve a code of
 
 *within* `AR 57 PA 1 ALN 1`, `AR 57 PA 3 ALN 1`, `AR 57 PA 3a`, `AR 57 PA 5 ALN 1`, `AR 57 PA 9 ALN 1 PTA (e)`, `AR 57 PA 10 ALN 1`, `AR 57 PA 14 ALN 1` · *dates* -2026-08-02 +2027-08-02 · *amended by* `32026R1744`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The deadline for Member States to have a national AI regulatory sandbox operational has been moved from 2 August 2026 to 2 August 2027. [Art. 57, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_57) [Art. 57, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_57)
+
+A new paragraph 3a allows the AI Office to establish an AI regulatory sandbox at Union level for AI systems covered by Article 75(1), operated in cooperation with relevant competent authorities and giving priority access to SMEs, start-ups and SMCs, alongside a revised paragraph 3 on the European Data Protection Supervisor's role and how references to national competent authorities are to be construed. [Art. 57, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_57)
+
+Paragraph 5 now also refers to appropriate safeguards and to incorporating the real-world testing plan referred to in Articles 60 and 60a, paragraph 9(e) and paragraph 10 add references to SMCs and to competent data protection authorities respectively, and paragraph 14 now names the European Data Protection Supervisor and the AI Office alongside national competent authorities as coordinating and cooperating within the Board, including support for joint sandbox establishment and exchange of best practices. [Art. 57, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#art_57) [Art. 57, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727#art_57)
 
 *before* (`32024R1689`)
 
