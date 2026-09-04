@@ -420,7 +420,7 @@ In paragraph 2, the requirement that supervised entities reflect their contingen
 
 *within* `AR 29`, `AR 29 PA 1 ALN 1`, `AR 29 PA 1 ALN 2`, `AR 29 PA 1 ALN 3`, `AR 29 PA 1 ALN 4`, `AR 29 PA 1b`, `AR 29 PA 2 ALN 1`, `AR 29 PA 2 ALN 2` · *dates* +2017-06-14 · *amended by* `32025R0914`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02016R1011-20250117`)
 
@@ -473,7 +473,7 @@ Paragraph 5 adds a new procedural step requiring ESMA to assess completeness of 
 
 *within* `AR 33 PA 1 ALN 1`, `AR 33 PA 2 ALN 1`, `AR 33 PA 3 ALN 1`, `AR 33 PA 4 ALN 1`, `AR 33 PA 5 ALN 1`, `AR 33 PA 6 ALN 1`, `AR 33 PA 7 ALN 1` · *amended by* `32025R0914`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02016R1011-20250117`)
 
@@ -499,7 +499,7 @@ Paragraph 5 adds a new procedural step requiring ESMA to assess completeness of 
 
 *within* `AR 34 PA 1 ALN 1`, `AR 34 PA 1 ALN 1 PTA (a)`, `AR 34 PA 1 ALN 1 PTA (b)`, `AR 34 PA 1 ALN 1 PTA (c)`, `AR 34 PA 1a ALN 1`, `AR 34 PA 3 ALN 1` · *amended by* `32025R0914`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02016R1011-20250117`)
 
