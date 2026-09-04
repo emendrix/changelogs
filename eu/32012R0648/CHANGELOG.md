@@ -5082,7 +5082,7 @@ None of these entries, labelled (i), (j) and (k) under section I and (d) under s
 - **Act** `eu:32012R0648` · **In force** 2019-01-01 · **Detected** 2026-08-13
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20170630` · `v2` = `02012R0648-20190101`
 
 ---
@@ -5163,7 +5163,11 @@ The BEFORE text contains only paragraphs 1 through 4 and does not include these 
 
 *within* `AR 11 PA 15 ALN 1 PTA (b)`, `AR 11 PA 15 ALN 1 PTA (c)`, `AR 11 PA 15 ALN 1 PTA (d)`, `AR 11 PA 15 ALN 2`, `AR 11 PA 15 ALN 3`, `AR 11 PA 15 ALN 4` · *dates* +2018-07-18 · *amended by* `32017R2402`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 15 no longer includes a separate technical-standard item on the level of capital required for compliance with paragraph 4, and the remaining items are consolidated so that what was point (d) on impediments to fund transfers becomes point (c), with its wording changed from what should be considered to what is to be considered a practical or legal impediment. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_11)
+
+A new paragraph is added after the list of specifications addressing how the level and type of collateral is to be determined for OTC derivative contracts concluded by covered bond entities or securitisation special purpose entities, referencing conditions in Article 4(5) and requirements in Articles 18 to 26 of Regulation (EU) 2017/2402. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_11)
+
+The deadline for the ESAs to submit the common draft regulatory technical standards to the Commission is changed from 30 September 2012 to 18 July 2018, and the delegation of power to adopt those standards is now expressed as applying to this paragraph rather than to the first subparagraph. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_11)
 
 *before* (`02012R0648-20170630`)
 
