@@ -5721,7 +5721,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 - **Act** `eu:32013R1308` · **In force** 2020-01-01, 2020-12-29 · **Detected** 2026-09-04
 - **Touched** 11 provisions — 11 substantive · 0 date-only · **2 disputed**
 - **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 237 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20190101` · `v2` = `02013R1308-20201229`
 
 ---
@@ -6007,7 +6007,9 @@ A new sentence has been added allowing Finland to continue granting the national
 
 *within* `AN VI` · *amended by* `32020R2220`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The table's column heading previously reading '2017 onwards' is split into a '2017-2020' column and a new '2021 onwards' column, with a distinct figure supplied for each member state under the new column. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_VI)
+
+Czech Republic's label is changed to Czechia, and the countries previously left with a dash for 2017 onwards (Luxembourg, Malta, United Kingdom) continue to show a dash under the new 2021 onwards column. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_VI)
 
 *before* (`02013R1308-20190101`)
 
