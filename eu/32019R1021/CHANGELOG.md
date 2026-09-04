@@ -191,10 +191,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20251015` → `02019R1021-20251203`
 
-- **Act** `eu:32019R1021` · **In force** 2025-11-17 · **Detected** 2026-08-13
+- **Act** `eu:32019R1021` · **In force** 2025-11-17 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20251015` · `v2` = `02019R1021-20251203`
 
 ---
@@ -203,21 +203,37 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *dates* -2021-07-16 +2004-10-27 +2009-06-18 +2025-12-30 +2027-05-17 +2027-12-30 · *amended by* `32025R0718`, `32025R1482`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The list of referenced legal instruments now also includes Regulation (EC) No 1935/2004 on food contact materials and Directive 2009/48/EC on the safety of toys, and the earlier reference to a review by 16 July 2021 of the combined tetra-, penta-, hexa-, hepta- and decaBDE limit has been removed. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_I)
+
+For each of the tetra-, penta-, hexa-, hepta- and decaBDE entries, the single combined concentration limit of up to 500 mg/kg for mixtures or articles has been replaced by a tiered structure of limits that distinguishes ordinary mixtures or articles, mixtures or articles containing recovered material, and toys or child-care products containing recovered material, with different mg/kg thresholds applying upon entry into force of the Regulation and then as of 30 December 2025, 17 May 2027 and 30 December 2027, and with food contact materials under Regulation (EC) No 1935/2004 excluded from these limits. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251015#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_I)
+
+The PFOS entry's points 1 and 2 have been rewritten so that the limit for PFOS and its salts is now set at 0,025 mg/kg in substances, mixtures or articles, and a separate limit of 1 mg/kg is set for the sum of concentrations of all PFOS-related compounds, replacing the earlier separate thresholds for substances or mixtures and for semi-finished products, articles, textiles or coated materials. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251015#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_I)
 
 *before* (`02019R1021-20251015`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 31180 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 31196 characters omitted…]
 
 *after* (`02019R1021-20251203`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 36006 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 36026 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20251203 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20251015 -->
