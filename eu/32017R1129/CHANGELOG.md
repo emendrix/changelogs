@@ -1365,7 +1365,7 @@ A new paragraph 4a restricts the use of a base-prospectus supplement to introduc
 
 *within* `AR 27 PA 2 ALN 1`, `AR 27 PA 2 ALN 2`, `AR 27 PA 4 ALN 1`, `AR 27 PA 4 ALN 1 PTA (a)`, `AR 27 PA 4 ALN 1 PTA (b)`, `AR 27 PA 4 ALN 2`, `AR 27 PA 4 ALN 3` · *amended by* `32024R2809`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02017R1129-20240109`)
 
