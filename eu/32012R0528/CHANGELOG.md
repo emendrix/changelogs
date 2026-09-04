@@ -78,28 +78,16 @@ A new provision also allows data owners to claim compensation for access to thei
 ### `02012R0528-20240526` → `02012R0528-20240611`
 
 - **Act** `eu:32012R0528` · **In force** 2024-06-11 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 103 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 103 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20240526` · `v2` = `02012R0528-20240611`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32024R1398`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **DEFERRED · Art. 89 — Transitional measures** · applies from: 2030-12-31
 
 *within* `AR 89 PA 1 ALN 1` · *dates* -2024-12-31 +2030-12-31 · *amended by* `32024R1398`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The target date for completing the Commission's work programme on existing active substances was changed from 31 December 2024 to 31 December 2030. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_89)
 
