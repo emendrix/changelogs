@@ -10,6 +10,1007 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20230101 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20211207` → `02013R1308-20230101`
+
+- **Act** `eu:32013R1308` · **In force** 2023-01-01 · **Detected** 2026-09-04
+- **Touched** 85 provisions — 85 substantive · 0 date-only · **82 disputed**
+- **Diff** 9 inserted · 67 modified · 9 deleted · 0 renumbered · 0 deferred · 250 unchanged
+- **Gate** 0 sentences quoted verbatim · 78 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20211207` · `v2` = `02013R1308-20230101`
+
+---
+
+**MODIFIED · Art. 2 — General common agricultural policy (CAP) provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 2 ALN 1` · *dates* +2021-12-02 · *amended by* `32021R2117`
+
+The provision now refers to Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021, which is described as repealing Regulation (EU) No 1306/2013, in place of the earlier reference to Regulation (EU) No 1306/2013 itself. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_2)
+
+The remainder of the sentence, stating that the referenced regulation and the provisions adopted pursuant to it apply in relation to the measures set out in this Regulation, is unchanged. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_2)
+
+*before* (`02013R1308-20211207`)
+
+> Article 2
+> General common agricultural policy (CAP) provisions
+> Regulation (EU) No 1306/2013 and the provisions adopted pursuant to it shall apply in relation to the measures set out in this Regulation.
+
+*after* (`02013R1308-20230101`)
+
+> Article 2
+> General common agricultural policy (CAP) provisions
+> Regulation (EU) 2021/2116 of the European Parliament and of the Council
+> Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agriculture policy and repealing Regulation (EU) No 1306/2013 (OJ L 435, 6.12.2021, p. 187). and the provisions adopted pursuant to it shall apply in relation to the measures set out in this Regulation.
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 3 PA 3 ALN 1`, `AR 3 PA 4 ALN 1` · *dates* +2021-12-02 · *amended by* `32021R2117`
+
+Paragraph 3 no longer refers to definitions in Regulation (EU) No 1306/2013 and Regulation (EU) No 1307/2013, and instead refers to definitions in Regulation (EU) 2021/2116 and Regulation (EU) 2021/2115. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_3)
+
+Paragraph 4 no longer limits the Commission's delegated act power to updating definitions concerning the rice sector in Part I of Annex II, and instead allows updating definitions concerning the sectors set out in Annex II, while adding wording that this must be done without adding new definitions. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_3)
+
+*before* (`02013R1308-20211207`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the definitions concerning certain sectors as set out in Annex II shall apply.
+> 2. The definitions set out in Section B of Part II of Annex II shall only apply until the end of the 2016/2017 marketing year for sugar.
+> 3. The definitions set out in Regulation (EU) No 1306/2013, Regulation (EU) No 1307/2013
+> Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009 (See page 608 of this Official Journal) of the European Parliament and of the Council and Regulation (EU) No 1305/2013 of the European Parliament and of the Council
+> Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (See page 487 of this Official Journal). shall apply for the purposes of this Regulation, save as otherwise provided for in this Regulation.
+> 4. In order to take into account the specific characteristics of the rice sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 amending the definitions concerning the rice sector set out in Part I of Annex II to the extent necess […truncated by emendrix: 1238 characters omitted…]
+
+*after* (`02013R1308-20230101`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the definitions concerning certain sectors as set out in Annex II shall apply.
+> 2. The definitions set out in Section B of Part II of Annex II shall only apply until the end of the 2016/2017 marketing year for sugar.
+> 3. The definitions set out in Regulation (EU) 2021/2116 and Regulation (EU) 2021/2115 of the European Parliament and of the Council
+> Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the Common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulation (EU) No 1305/2013 of the European Parliament and of the Council and Regulation (EU) No 1307/2013 of the European Parliament and of the Council (OJ L 435, 6.12.2021, p1). apply for the purposes of this Regulation, save as otherwise provided for in this Regulation.
+> 4. The Commission shall be empowered to adopt delegated acts, in accordance with Article 227, amending the definitions concerning the sectors set out in Annex II to the extent necessary to update the definitions in light of market developments without adding new definitions.
+> 5. For the purposes of this Regulation:
+> (a) "less developed regions" means those regions defined as such in point (a) of the first subparagraph of Article 90(2) […truncated by emendrix: 1010 characters omitted…]
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 12** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 16** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 17** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 61** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 62** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 63** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 65** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 68** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 86** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 90** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 90a — Checks and penalties related to marketing rules** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article establishing checks and administrative penalties tied to marketing rules, covering labelling conformity, import checks, risk-based verification of compliance, penalties for wine sector infringements, and delegated and implementing powers for the Commission on databanks, control cooperation, and check procedures. [Art. 90a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_90a)
+
+*after* (`02013R1308-20230101`)
+
+> Article 90a
+> Checks and penalties related to marketing rules
+> 1. Member States shall take measures to ensure that products referred to in Article 119(1) which are not labelled in conformity with this Regulation are not placed on the market or, if they have already been placed on the market, are withdrawn from the market.
+> 2. Without prejudice to any specific provisions which may be adopted by the Commission, imports into the Union of the products specified in Article 189(1), points (a) and (b), shall be subject to checks to determine whether the conditions provided for in paragraph 1 of that Article are met.
+> 3. Member States shall carry out checks, based on a risk analysis, in order to verify whether the products referred to in Article 1(2) conform to the rules laid down in this Section and shall apply administrative penalties as appropriate.
+> 4. Without prejudice to acts concerning the wine sector that have been adopted pursuant to Article 58 of Regulation (EU) 2021/2116, in the event of an infringement of Union rules in the wine sector, Member States shall apply proportionate, effective and dissuasive administrative penalties in accordance with Title IV, Chapter I, of that Regulation. Member States shall not apply such penalties where the non-compliance is of a minor nature.
+> 5. In order to protect Union funds and to protect the identity, provenance and quality of Union wine, the Commission shall be empowered to adopt delegated acts in accordance with Article 227, supplementing […truncated by emendrix: 1120 characters omitted…]
+
+**MODIFIED · Art. 92** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 93** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 94** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 96** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 97** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 98** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 102** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 103** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 105** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 106** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 106a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 111** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 116a — Checks** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article requiring Member States to act against unlawful use of protected designations of origin, protected geographical indications and protected traditional terms, and setting out rules on designation of a competent checking authority, annual verification of compliance with product specifications, and Commission implementing acts on related communications, authority rules, preventive actions and checks. [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_116a)
+
+*after* (`02013R1308-20230101`)
+
+> Article 116a
+> Checks
+> 1. Member States shall take the necessary steps to stop the unlawful use of protected designations of origin, protected geographical indications and protected traditional terms referred to in this Regulation.
+> 2. Member States shall designate the competent authority responsible for carrying out checks in respect of the obligations laid down in this Section. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council
+> Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1). shall apply.
+> 3. Within the Union, the competent aut […truncated by emendrix: 1115 characters omitted…]
+
+**MODIFIED · Art. 119** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 122** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 124** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 125** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 127** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 145 — Vineyard register and inventory of production potential** · applies from: unchanged
+
+*within* `AR 145 PA 3 ALN 1` · *amended by* `32021R2117`
+
+Paragraph 3 now refers to Member States providing for restructuring and conversion of vineyards in their CAP strategic plans in accordance with Article 58(1), first subparagraph, point (a), of Regulation (EU) 2021/2115, rather than in their support programmes under Article 46. [Art. 145, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_145) [Art. 145, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_145)
+
+*before* (`02013R1308-20211207`)
+
+> Article 145
+> Vineyard register and inventory of production potential
+> 1. Member States shall maintain a vineyard register which shall contain updated information on the production potential. From 1 January 2016, this obligation shall only apply if Member States implement the scheme of authorisations for vine plantings referred to in Chapter III of Title I, or a national support programme.
+> 2. Until 31 December 2015, Member States in which the total area planted with vines of wine grape varieties classified in accordance with Article 81(2) is less than 500 hectares shall not be subject to the obligation laid down in paragraph 1 of this Article.
+> 3. Member States which provide for restructuring and conversion of vineyards in their support programmes in accordance with Article 46 shall, on the basis of the vineyard register, submit to the Commission by 1 March each year an updated inventory of their production potential. From 1 January 2016, details in respect of communications to the Commission regarding wine-growing areas shall be laid down by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 4. In order to facilitate the monitoring and the verification of the production potential by Member States, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on the content of the vineyard register and exemptions therefrom.
+
+*after* (`02013R1308-20230101`)
+
+> Article 145
+> Vineyard register and inventory of production potential
+> 1. Member States shall maintain a vineyard register which shall contain updated information on the production potential. From 1 January 2016, this obligation shall only apply if Member States implement the scheme of authorisations for vine plantings referred to in Chapter III of Title I, or a national support programme.
+> 2. Until 31 December 2015, Member States in which the total area planted with vines of wine grape varieties classified in accordance with Article 81(2) is less than 500 hectares shall not be subject to the obligation laid down in paragraph 1 of this Article.
+> 3. Member States which provide in their CAP strategic plans for restructuring and conversion of vineyards in accordance with Article 58(1), first subparagraph, point (a), of Regulation (EU) 2021/2115, shall on the basis of the vineyard register submit to the Commission by 1 March each year an updated inventory of their production potential. From 1 January 2016, details in respect of communications to the Commission regarding wine-growing areas shall be laid down by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 4. In order to facilitate the monitoring and the verification of the production potential by Member States, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on t […truncated by emendrix: 61 characters omitted…]
+
+**INSERTED · Art. 147a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 148** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 149** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 150** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 151** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 152** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 153** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 154** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 157** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 158** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 163** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 164** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 165** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 166a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 168** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 172** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 172a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 182** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 192** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 193a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 196** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 206** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 208** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 210** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 210a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 212** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 214a — National payments for certain sectors in Finland** · applies from: unchanged
+
+*within* `AR 214a ALN 1`, `AR 214a ALN 1 PTA (a)`, `AR 214a ALN 3` · *amended by* `32021R2117`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+
+The provision now covers the period 2023-2027 rather than 2014-2020, and permits Finland to continue granting national aid based on amounts granted in 2022 rather than 2013, with the legal basis for the aid changed from Article 141 of the 1994 Act of Accession to this Article itself. [Art. 214a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_214a) [Art. 214a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_214a)
+
+The degressivity condition in point (a) now refers to the total amount of income aid and sets the 2027 ceiling at 67% of the 2022 amount, replacing the earlier ceiling of 30% of the 2013 amount by 2020. [Art. 214a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_214a) [Art. 214a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_214a)
+
+The final paragraph permitting continued aid in 2021 and 2022 under the same conditions and amounts authorised for 2020 has been removed entirely. [Art. 214a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_214a) [Art. 214a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_214a)
+
+*before* (`02013R1308-20211207`)
+
+> Article 214a
+> National payments for certain sectors in Finland
+> Subject to authorisation by the Commission, for the period 2014-2020, Finland may continue to grant national aids which it granted in 2013 to producers on the basis of Article 141 of the 1994 Act of Accession, provided that:
+> (a) the amount of income aid is degressive over the whole period and in 2020 does not exceed 30 % of the amount granted in 2013; and
+> (b) prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+> The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.
+> In 2021 and 2022, Finland may continue to grant the national aids referred to in the first paragraph subject to the same conditions and amounts as authorised by the Commission for 2020.
+
+*after* (`02013R1308-20230101`)
+
+> Article 214a
+> National payments for certain sectors in Finland
+> Subject to authorisation by the Commission, for the period 2023-2027, Finland may continue to grant national aids which it granted in 2022 to producers on the basis of this Article provided that:
+> (a) the total amount of income aid is degressive over the whole period and in 2027 does not exceed 67 % of the amount granted in 2022; and
+> (b) prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+> The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.
+
+**MODIFIED · Art. 218** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 219** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 220** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 222a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 222b** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 223** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 225** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 226** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Part II** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Part V** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III` · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The only visible difference between the two versions is the removal of a semicolon after the citation of Council Regulation (EU) No 1370/2013, which is now followed by no punctuation mark. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#anx_III)
+
+*before* (`02013R1308-20211207`)
+
+> ANNEX III
+> STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLE 1a OF REGULATION (EU) No 1370/2013
+> Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12);
+> A. Standard quality for paddy rice
+> Paddy rice of standard quality shall:
+> (a) be of sound, fair and marketable quality, free of odour;
+> (b) contain a moisture content of maximum 13 %;
+> (c) have a yield of wholly milled rice 63 % by weight in whole grains (with a tolerance of 3 % of clipped grains) of which a percentage by weight of wholly milled rice grains which are not of unimpaired quality:
+> chalky grains of paddy rice under CN codes 10061027 and 10061098 1,5 %
+> chalky grains of paddy rice under CN codes other than 10061027 and 10061098: 2,0 %
+> grains striated with red 1,0 %
+> spotted grains 0,50 %
+> stained grains 0,25 %
+> yellow grains 0,02 %
+> amber grains 0,05 %
+> B. Standard qualities for sugar
+> I. Standard quality for sugar beet
+> Standard quality beet shall:
+> (a) be of sound, fair and marketable quality;
+> (b) have a sugar content of 16 % at the reception point.
+> II. Standard quality for white sugar
+> 1. White sugar of the standard quality shall have the following characteristics:
+> (a) sound, fair and marketable quality; dry, in homogeneous granulated crystals, free-flowing;
+> (b) minimum polarisation: 99,7;
+> (c) maximum moisture content: 0,06 %;
+> (d) maximum invert sugar cont […truncated by emendrix: 1316 characters omitted…]
+
+*after* (`02013R1308-20230101`)
+
+> ANNEX III
+> STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLE 1a OF REGULATION (EU) No 1370/2013
+> Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12)
+> A. Standard quality for paddy rice
+> Paddy rice of standard quality shall:
+> (a) be of sound, fair and marketable quality, free of odour;
+> (b) contain a moisture content of maximum 13 %;
+> (c) have a yield of wholly milled rice 63 % by weight in whole grains (with a tolerance of 3 % of clipped grains) of which a percentage by weight of wholly milled rice grains which are not of unimpaired quality:
+> chalky grains of paddy rice under CN codes 10061027 and 10061098 1,5 %
+> chalky grains of paddy rice under CN codes other than 10061027 and 10061098: 2,0 %
+> grains striated with red 1,0 %
+> spotted grains 0,50 %
+> stained grains 0,25 %
+> yellow grains 0,02 %
+> amber grains 0,05 %
+> B. Standard qualities for sugar
+> I. Standard quality for sugar beet
+> Standard quality beet shall:
+> (a) be of sound, fair and marketable quality;
+> (b) have a sugar content of 16 % at the reception point.
+> II. Standard quality for white sugar
+> 1. White sugar of the standard quality shall have the following characteristics:
+> (a) sound, fair and marketable quality; dry, in homogeneous granulated crystals, free-flowing;
+> (b) minimum polarisation: 99,7;
+> (c) maximum moisture content: 0,06 %;
+> (d) maximum invert sugar conte […truncated by emendrix: 1315 characters omitted…]
+
+**DELETED · Annex VI** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VII** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VIII** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex X** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Annex XI** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Appendix I** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20230101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20211207 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20201229` → `02013R1308-20211207`
