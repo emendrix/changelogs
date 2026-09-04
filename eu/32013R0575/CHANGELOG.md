@@ -30050,7 +30050,7 @@ The remaining paragraphs, including paragraphs 2 through 8, are unchanged in wor
 
 *within* `AR 26 PA 3 ALN 1`, `AR 26 PA 3 ALN 2`, `AR 26 PA 3 ALN 2 PTA (a)`, `AR 26 PA 3 ALN 2 PTA (b)`, `AR 26 PA 3 ALN 3`, `AR 26 PA 3 ALN 4`, `AR 26 PA 3 ALN 5` · *dates* -2013-06-28 · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20190426`)
 
@@ -31061,7 +31061,7 @@ Paragraph 3's reference to the definition being reviewed was changed from own fu
 
 *within* `AR 81 PA 1 ALN 1`, `AR 81 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 81 PA 1 ALN 1 PTA (c)` · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20190426`)
 
@@ -31405,7 +31405,7 @@ Point (a) previously referred only to the Union, whereas it now names both the E
 
 *within* `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 1 PTA (a)`, `AR 124 PA 4 ALN 1 PTA (b)`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)` · *dates* -2014-12-31 +2019-12-31 · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20190426`)
 
@@ -35086,7 +35086,7 @@ The article further specifies that the tool must at least allow each institution
 > (a) rapidly identify the relevant provisions to comply with in relation to the institution's size and business model;
 > (b) follow the changes made in legislative acts and in the related implementing provisions, guidelines and templates.
 
-**MODIFIED · TIT** · applies from: unknown
+**MODIFIED · Title** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35096,7 +35096,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 2** · applies from: unknown
+**MODIFIED · Part 2** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35106,7 +35106,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 3** · applies from: unknown
+**MODIFIED · Part 3** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35116,7 +35116,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 7** · applies from: unknown
+**MODIFIED · Part 7** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35126,7 +35126,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 8** · applies from: unknown
+**MODIFIED · Part 8** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35136,7 +35136,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 10** · applies from: unknown
+**MODIFIED · Part 10** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35146,7 +35146,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**INSERTED · SCT 1** · applies from: unknown
+**INSERTED · Section 1** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35156,7 +35156,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**INSERTED · SCT 2** · applies from: unknown
+**INSERTED · Section 2** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -35166,7 +35166,7 @@ The article further specifies that the tool must at least allow each institution
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · SCT 3** · applies from: unknown
+**MODIFIED · Section 3** · applies from: unknown
 
 *amended by* `32019R0876`
 
