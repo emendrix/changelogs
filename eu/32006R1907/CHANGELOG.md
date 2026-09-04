@@ -1890,7 +1890,7 @@ Both the before and after texts are truncated before the full extent of the chan
 
 *within* `AN XIV` · *dates* +2019-01-04 +2019-04-04 +2019-07-04 +2019-09-01 +2020-07-04 +2020-10-04 +2021-01-04 +2021-03-01 · *amended by* `32017R0999`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02006R1907-20170302`)
 
