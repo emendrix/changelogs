@@ -1,0 +1,365 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0852",
+    "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+  },
+  "from_version": "32017R0852",
+  "to_version": "02017R0852-20221225",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2022-12-25"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 1,
+    "touched_units": 2,
+    "unchanged_units": 28,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 1,
+    "date_only": 1,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0852",
+            "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+          },
+          "version": "02017R0852-20221225",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2526",
+            "display_name": "Commission Delegated Regulation (EU) 2022/2526 of 23 September 2022 amending Regulation (EU) 2017/852 of the European Parliament and of the Council as regards the temporary storage of mercury waste in liquid form (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (the act itself, 2022-12-25]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "DEFERRED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0852",
+            "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+          },
+          "version": "02017R0852-20221225",
+          "location": "AR 13"
+        },
+        "heading": "Storage of mercury waste",
+        "before": "Article 13\nStorage of mercury waste\n1. By way of derogation from point (a) of Article 5(3) of Directive 1999/31/EC, mercury waste may be temporarily stored in liquid form provided that the specific requirements for the temporary storage of mercury waste as laid down in Annexes I, II and III to that Directive are complied with and that such storage occurs in above-ground facilities dedicated to and equipped for the temporary storage of mercury waste.\nThe derogation set out in the first subparagraph shall cease to apply as from 1 January 2023.\n2. The Commission is empowered to adopt delegated acts in accordance with Article 21 in order to amend this Regulation by extending the period allowed for temporary storage of mercury waste referred to in paragraph 1 of this Article by up to three years.\n3. Prior to being permanently disposed of, mercury waste shall undergo conversion and, where intended to be disposed of in above-ground facilities, conversion and solidification.\nMercury waste that underwent conversion and, if applicable, solidification shall only be permanently disposed of in the following permanent storage facilities licensed for disposal of hazardous waste:\n(a) salt mines that are adapted for the permanent storage of mercury waste that underwent conversion, or deep underground hard rock formations providing a level of safety and confinement equivalent to or higher than that of such salt mines; or\n(b) above-ground facilities dedicated to and equipped for the permanent storage of mercury waste that underwent conversion and solidification and that provide a level of safety and confinement equivalent to or higher than that of the facilities referred to in point (a).\nOperators of permanent storage facilities shall ensure that mercury waste that underwent conversion and, if applicable, solidification is stored separately from other waste and in disposal batches in a storage chamber that is sealed. Those operators shall further ensure that the requirements set out in Directive 1999/31/EC, including the specific requirements for the temporary storage of mercury waste established in the third and fifth indents of Section 8 of Annex I and in Annex II to that Directive, are complied with in relation to the permanent storage facilities.",
+        "after": "Article 13\nStorage of mercury waste\n1. By way of derogation from point (a) of Article 5(3) of Directive 1999/31/EC, mercury waste may be temporarily stored in liquid form provided that the specific requirements for the temporary storage of mercury waste as laid down in Annexes I, II and III to that Directive are complied with and that such storage occurs in above-ground facilities dedicated to and equipped for the temporary storage of mercury waste.\nThe derogation set out in the first subparagraph shall cease to apply as from 1 January 2026.\n2. The Commission is empowered to adopt delegated acts in accordance with Article 21 in order to amend this Regulation by extending the period allowed for temporary storage of mercury waste referred to in paragraph 1 of this Article by up to three years.\n3. Prior to being permanently disposed of, mercury waste shall undergo conversion and, where intended to be disposed of in above-ground facilities, conversion and solidification.\nMercury waste that underwent conversion and, if applicable, solidification shall only be permanently disposed of in the following permanent storage facilities licensed for disposal of hazardous waste:\n(a) salt mines that are adapted for the permanent storage of mercury waste that underwent conversion, or deep underground hard rock formations providing a level of safety and confinement equivalent to or higher than that of such salt mines; or\n(b) above-ground facilities dedicated to and equipped for the permanent storage of mercury waste that underwent conversion and solidification and that provide a level of safety and confinement equivalent to or higher than that of the facilities referred to in point (a).\nOperators of permanent storage facilities shall ensure that mercury waste that underwent conversion and, if applicable, solidification is stored separately from other waste and in disposal batches in a storage chamber that is sealed. Those operators shall further ensure that the requirements set out in Directive 1999/31/EC, including the specific requirements for the temporary storage of mercury waste established in the third and fifth indents of Section 8 of Annex I and in Annex II to that Directive, are complied with in relation to the permanent storage facilities.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 13 PA 1 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32022R2526",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [
+          "2023-01-01"
+        ],
+        "dates_added": [
+          "2026-01-01"
+        ],
+        "in_force": "2022-12-25",
+        "applies_from": "2026-01-01",
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32022R2526 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32022R2526, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The date on which the derogation for temporary storage of mercury waste in liquid form ceases to apply is changed from 1 January 2023 to 1 January 2026.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "32017R0852",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0852#art_13",
+              "label": "Art. 13, 32017R0852"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "02017R0852-20221225",
+                "location": "AR 13"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20221225#art_13",
+              "label": "Art. 13, 02017R0852-20221225"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0852",
+      "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+    },
+    "from_version": "32017R0852",
+    "to_version": "02017R0852-20221225",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 13"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 13"
+        ],
+        "note": "1 annotations in (the act itself, 2022-12-25]",
+        "claims": [
+          {
+            "location": "AR 13 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": "2022-12-25",
+            "source": "32022R2526 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2526",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32022R2526, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 1 ALN 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32022R2526",
+              "display_name": "Commission Delegated Regulation (EU) 2022/2526 of 23 September 2022 amending Regulation (EU) 2017/852 of the European Parliament and of the Council as regards the temporary storage of mercury waste in liquid form (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 13",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 3884,
+      "output_tokens": 133,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
