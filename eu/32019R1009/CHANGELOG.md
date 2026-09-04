@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20241117 -->
+## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
+### `02019R1009-20240703` → `02019R1009-20241117`
+
+- **Act** `eu:32019R1009` · **In force** 2024-11-17 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02019R1009-20240703` · `v2` = `02019R1009-20241117`
+
+---
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III PO 7`, `AN III PO 7 PTA (a)`, `AN III PO 7 PTA (b)` · *amended by* `32024R2770`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Point 7 has been restructured from a single sentence covering growing media and polymer-binding products into a lead-in sentence followed by two lettered sub-points (a) and (b) that separately identify the growing-medium case and the polymer-binding case. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20241117#anx_III)
+
+The new point 7(b) adds a qualification not present before, excluding from the instruction any polymer used for binding material that meets any of the requirements set out in Part II, section CMC 1, point 1(f)(i) to (iv) of Annex II. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20241117#anx_III)
+
+The internal cross-references to the growing medium provision and to the polymer provision are also rephrased, now citing Part II, section PFC 4, point 2a of Annex I and Part II, section CMC 9, point 1(c) of Annex II respectively, in place of the earlier wording that referred to point 2a of PFC 4 in Part II of Annex I and point 1(c) of CMC 9 in Part II of Annex II. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20241117#anx_III)
+
+*before* (`02019R1009-20240703`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (g) any relevant information on measures recommended to manage risks to human, animal or plant health, to safety or to the environment; and
+> (h) a list of all ingredients ab […truncated by emendrix: 46477 characters omitted…]
+
+*after* (`02019R1009-20241117`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (g) any relevant information on measures recommended to manage risks to human, animal or plant health, to safety or to the environment; and
+> (h) a list of all ingredients ab […truncated by emendrix: 46619 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1009-20241117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20240703 -->
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20230316` → `02019R1009-20240703`
