@@ -548,10 +548,10 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 ## Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and […]
 ### `02012R0649-20180401` → `02012R0649-20190501`
 
-- **Act** `eu:32012R0649` · **In force** 2019-05-01 · **Detected** 2026-08-13
+- **Act** `eu:32012R0649` · **In force** 2019-05-01 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20180401` · `v2` = `02012R0649-20190501`
 
 ---
@@ -562,7 +562,9 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Annex I gained numerous new chemical entries across Parts 1, 2 and 3, including substances such as Acetochlor, Amitrole, Asulam, Beta-cypermethrin, Chloropicrin, DPX KE 459, Fipronil, Flufenoxuron, Iprodione, Isoproturon, Linuron, Maneb, Naled, Orthosulfamuron, Picoxystrobin, Propargite, Triasulfuron and Short-chain chlorinated paraffins, none of which appeared in the prior text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I)
+
+A number of existing entries in Parts 1 through 3 had their CN or HS codes, subcategories, or use-limitation markings revised, for example Alachlor, Aldicarb, Carbofuran, Dichlorvos, Diphenylamine, Endosulfan, the tributyltin compound group, and Trichlorfon, compared with the corresponding entries in the earlier annex. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I)
 
 *before* (`02012R0649-20180401`)
 
@@ -574,7 +576,11 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > (referred to in Article 8)
 > It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in points (b) and (c) of the first subparagraph of Article 8(6) have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
 > It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
-> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.Except motor fuels subject to Dire […truncated by emendrix: 26788 characters omitted…]
+> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.
+> Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.
+> This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).
+> This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.
+> Except motor fuels subject to […truncated by emendrix: 26803 characters omitted…]
 
 *after* (`02012R0649-20190501`)
 
@@ -586,7 +592,11 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > (referred to in Article 8)
 > It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in points (b) and (c) of the first subparagraph of Article 8(6) have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
 > It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
-> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.Except motor fuels subject to Dire […truncated by emendrix: 28975 characters omitted…]
+> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.
+> Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.
+> This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).
+> This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.
+> Except motor fuels subject to […truncated by emendrix: 28990 characters omitted…]
 
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
@@ -594,7 +604,9 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Part 1 gains new entries for Endosulfan and for Short-chain chlorinated paraffins, each listed with its EC number, CAS number and CN code, alongside the previously listed persistent organic pollutants. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_V)
+
+Part 2 is restructured into a numbered list of four entries, adding an EC number for metallic mercury, replacing the prior single mercury-compounds entry with a numbered entry naming cinnabar ore, mercury (I) chloride, mercury (II) oxide and mercury sulphide with their CAS RNs, EC numbers and CN codes, narrowing the export exception wording to laboratory-scale research or laboratory analysis, and adding a new fourth entry covering other mercury mixtures and compounds exported for reclaiming metallic mercury. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_V)
 
 *before* (`02012R0649-20180401`)
 
@@ -602,7 +614,8 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > Chemicals and articles subject to export ban
 > (referred to in Article 15)
 > PART 1
-> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants
+> OJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
 > Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
 > Aldrin EC No 206-215-8,
 > CAS No 309-00-2,
@@ -643,7 +656,7 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > Hexachlorobutadiene EC No 201-765-5
 > CAS No 87-68-3
 > CN code 29032900
-> Hexachlorocyclohexanes, including lindane EC No 200-401-2, 206-270-8, 206-271-3, 210-16 […truncated by emendrix: 2130 characters omitted…]
+> Hexachlorocyclohexanes, including lindane EC No 200-401-2, 206-270-8, 206-271-3, 210-1 […truncated by emendrix: 2131 characters omitted…]
 
 *after* (`02012R0649-20190501`)
 
@@ -651,7 +664,8 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > Chemicals and articles subject to export ban
 > (referred to in Article 15)
 > PART 1
-> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants
+> OJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
 > Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
 > Aldrin EC No 206-215-8,
 > CAS No 309-00-2,
@@ -695,7 +709,7 @@ Part 2 also gains four new entries, numbered 5 through 8, covering compact fluor
 > Hexachlorobutadiene EC No 201-765-5
 > CAS No 87-68-3
 > CN code 29032900
-> Hexachlorocyclohexanes, inc […truncated by emendrix: 2829 characters omitted…]
+> Hexachlorocyclohexanes, in […truncated by emendrix: 2830 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0649-20190501 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20180401 -->
