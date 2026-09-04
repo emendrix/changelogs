@@ -15,28 +15,16 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02016R0429-20191214` → `02016R0429-20210421`
 
 - **Act** `eu:32016R0429` · **In force** 2021-04-21 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R0429-20191214` · `v2` = `02016R0429-20210421`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32018R1629`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32018R1629`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading changes from a general list of diseases to a list of animal diseases, and the disease list itself is replaced with a substantially different and longer set of named diseases and infections, many using revised naming conventions such as prefixing entries with 'Infection with' or 'Infestation with'. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20210421#anx_II)
 
