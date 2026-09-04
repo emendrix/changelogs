@@ -15,28 +15,16 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02017R0625-20220128` → `02017R0625-20250105`
 
 - **Act** `eu:32017R0625` · **In force** 2025-01-05 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0625-20220128` · `v2` = `02017R0625-20250105`
 
 ---
 
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32024R3115`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 66 — Measures to be taken in cases of non-compliant consignments entering the Union** · applies from: unchanged
 
 *within* `AR 66 PA 5a` · *amended by* `32024R3115`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new paragraph 5a has been added exempting plants, plant products or other objects covered by Article 1(2), point (g), that enter the Union in passengers' personal luggage or through postal services for personal consumption or use from the notification obligation in paragraph 5, where the non-compliance concerns the absence of the phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
 
