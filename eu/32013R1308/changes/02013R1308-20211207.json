@@ -30,7 +30,7 @@
     "date_only": 0,
     "disputed": 38,
     "quoted": 0,
-    "unexplained": 29
+    "unexplained": 28
   },
   "changes": [
     {
@@ -342,10 +342,62 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The olive oil and table olives sector entry is removed from point (c)(iii) of the list running from 1 July to 30 June, and the remaining flax and hemp, and milk and milk products entries are renumbered to (c)(iii) and (c)(iv).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20211207",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_6",
+              "label": "Art. 6, 02013R1308-20211207"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20201229",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_6",
+              "label": "Art. 6, 02013R1308-20201229"
+            }
+          ]
+        },
+        {
+          "text": "Point (e), covering 1 September to 31 August for the rice sector, now also covers table olives, and point (f), covering 1 October to 30 September for the sugar sector, now also covers olive oil.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20211207",
+                "location": "AR 6"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_6",
+              "label": "Art. 6, 02013R1308-20211207"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
+      "unexplained": "",
       "unexplained_kind": ""
     },
     {
@@ -14518,6 +14570,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 2980,
+        "output_tokens": 261,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false

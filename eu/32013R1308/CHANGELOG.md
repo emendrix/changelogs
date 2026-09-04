@@ -3312,7 +3312,7 @@ The only visible difference between the two versions is the removal of a semicol
 - **Act** `eu:32013R1308` · **In force** 2021-01-01, 2021-12-07 · **Detected** 2026-09-04
 - **Touched** 92 provisions — 92 substantive · 0 date-only · **38 disputed**
 - **Diff** 10 inserted · 70 modified · 12 deleted · 0 renumbered · 0 deferred · 191 unchanged
-- **Gate** 0 sentences quoted verbatim · 29 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 28 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20201229` · `v2` = `02013R1308-20211207`
 
 ---
@@ -3365,7 +3365,9 @@ The separate point authorizing the Commission to adopt all necessary measures re
 
 *within* `AR 6 ALN 1 PTA (c) PTI (iii)`, `AR 6 ALN 1 PTA (c) PTI (iv)`, `AR 6 ALN 1 PTA (c) PTI (v)`, `AR 6 ALN 1 PTA (e)`, `AR 6 ALN 1 PTA (f)` · *amended by* `32021R2117`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The olive oil and table olives sector entry is removed from point (c)(iii) of the list running from 1 July to 30 June, and the remaining flax and hemp, and milk and milk products entries are renumbered to (c)(iii) and (c)(iv). [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_6) [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_6)
+
+Point (e), covering 1 September to 31 August for the rice sector, now also covers table olives, and point (f), covering 1 October to 30 September for the sugar sector, now also covers olive oil. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_6)
 
 *before* (`02013R1308-20201229`)
 
