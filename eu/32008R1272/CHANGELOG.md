@@ -4204,10 +4204,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20181201` → `02008R1272-20190726`
 
-- **Act** `eu:32008R1272` · **In force** 2019-07-26 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2019-07-26 · **Detected** 2026-09-04
 - **Touched** 7 provisions — 7 substantive · 0 date-only · **7 disputed**
 - **Diff** 3 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
-- **Gate** 0 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20181201` · `v2` = `02008R1272-20190726`
 
 ---
@@ -4218,7 +4218,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 5 no longer describes the Commission submitting a draft decision to amend Table 3.1 of Part 3 of Annex VI through the regulatory procedure with scrutiny, but instead describes it adopting delegated acts under Article 53a to make that amendment. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_37)
+
+The reference to the urgency procedure under Article 54(4) is replaced with a reference to the procedure under Article 53b applying to delegated acts adopted under this paragraph in cases of imperative grounds of urgency. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_37)
 
 *before* (`02008R1272-20181201`)
 
@@ -4246,7 +4248,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 4 no longer refers to a Commission review to be carried out by 20 January 2012 to assess harmonising the information referred to in paragraph 1, nor to a Regulation adding an Annex adopted under the regulatory procedure with scrutiny referred to in Article 54(3). [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_45)
+
+In its place, the text now empowers the Commission to adopt delegated acts in accordance with Article 53a amending Annex VIII to further harmonise the information relating to emergency health response and preventative measures, following consultation with stakeholders such as the EAPCCT. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_45)
 
 *before* (`02008R1272-20181201`)
 
@@ -4280,7 +4284,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision changes from authorising the Commission to adjust and adapt the listed Articles and Annexes I to VII under the regulatory procedure with scrutiny to instead empowering the Commission to adopt delegated acts under Article 53a amending those same provisions and extending the annex reference to Annexes I to VIII. [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53)
+
+The urgency mechanism changes from a reference to the urgency procedure in Article 54(4) to a reference to the procedure in Article 53b applying to delegated acts adopted under this paragraph. [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53)
 
 *before* (`02008R1272-20181201`)
 
@@ -4303,7 +4309,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new Article 53a has been added, setting out the conditions under which the Commission may exercise the power to adopt delegated acts referenced elsewhere in the act, including the duration of the delegation, procedures for revocation, expert consultation, notification to the European Parliament and Council, and the period within which objections may be raised. [Art. 53a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53a)
 
 *after* (`02008R1272-20190726`)
 
@@ -4312,8 +4318,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 > 2. The power to adopt delegated acts referred to in Article 37(5), Article 45(4) and Article 53(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
 > 3. The delegation of power referred to in Articles 37(5), Article 45(4) and Article 53(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
-> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-MakingOJ L 123, 12.5.2016, p. 1..
-> 5. As soon as it adopts a delegated act, the Commission shall […truncated by emendrix: 624 characters omitted…]
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making
+> OJ L 123, 12.5.2016, p. 1..
+> 5. As soon as it adopts a delegated act, the Commission shal […truncated by emendrix: 625 characters omitted…]
 
 **INSERTED · Art. 53b — Urgency procedure** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -4321,7 +4328,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new Article 53b is added, setting out an urgency procedure for delegated acts, under which such acts enter into force without delay and apply unless an objection is raised, with the notification to the European Parliament and Council required to state the reasons for using this procedure. [Art. 53b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b)
+
+It further provides that either the European Parliament or the Council may object to such a delegated act following the procedure referred to in Article 53a(6), in which case the Commission is to repeal the act immediately after notification of that objection. [Art. 53b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b)
 
 *after* (`02008R1272-20190726`)
 
@@ -4336,7 +4345,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new Article 53c has been added, stating that the Commission shall adopt a separate delegated act for each power delegated to it under this Regulation. [Art. 53c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53c)
 
 *after* (`02008R1272-20190726`)
 

@@ -8,7 +8,7 @@
   },
   "from_version": "02008R1272-20181201",
   "to_version": "02008R1272-20190726",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-04",
   "in_force": [
     "2019-07-26"
   ],
@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 7,
     "quoted": 0,
-    "unexplained": 7
+    "unexplained": 1
   },
   "changes": [
     {
@@ -89,11 +89,76 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 5 no longer describes the Commission submitting a draft decision to amend Table 3.1 of Part 3 of Annex VI through the regulatory procedure with scrutiny, but instead describes it adopting delegated acts under Article 53a to make that amendment.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20181201",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_37",
+              "label": "Art. 37, 02008R1272-20181201"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_37",
+              "label": "Art. 37, 02008R1272-20190726"
+            }
+          ]
+        },
+        {
+          "text": "The reference to the urgency procedure under Article 54(4) is replaced with a reference to the procedure under Article 53b applying to delegated acts adopted under this paragraph in cases of imperative grounds of urgency.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20181201",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_37",
+              "label": "Art. 37, 02008R1272-20181201"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 37"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_37",
+              "label": "Art. 37, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -153,11 +218,50 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4 no longer refers to a Commission review to be carried out by 20 January 2012 to assess harmonising the information referred to in paragraph 1, nor to a Regulation adding an Annex adopted under the regulatory procedure with scrutiny referred to in Article 54(3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20181201",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_45",
+              "label": "Art. 45, 02008R1272-20181201"
+            }
+          ]
+        },
+        {
+          "text": "In its place, the text now empowers the Commission to adopt delegated acts in accordance with Article 53a amending Annex VIII to further harmonise the information relating to emergency health response and preventative measures, following consultation with stakeholders such as the EAPCCT.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_45",
+              "label": "Art. 45, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -215,11 +319,76 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision changes from authorising the Commission to adjust and adapt the listed Articles and Annexes I to VII under the regulatory procedure with scrutiny to instead empowering the Commission to adopt delegated acts under Article 53a amending those same provisions and extending the annex reference to Annexes I to VIII.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20181201",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53",
+              "label": "Art. 53, 02008R1272-20181201"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53",
+              "label": "Art. 53, 02008R1272-20190726"
+            }
+          ]
+        },
+        {
+          "text": "The urgency mechanism changes from a reference to the urgency procedure in Article 54(4) to a reference to the procedure in Article 53b applying to delegated acts adopted under this paragraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20181201",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53",
+              "label": "Art. 53, 02008R1272-20181201"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53",
+              "label": "Art. 53, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -235,7 +404,7 @@
         },
         "heading": "Exercise of the delegation",
         "before": null,
-        "after": "Article 53a\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 37(5), Article 45(4) and Article 53(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 37(5), Article 45(4) and Article 53(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-MakingOJ L 123, 12.5.2016, p. 1..\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 37(5), Article 45(4) and Article 53(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+        "after": "Article 53a\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 37(5), Article 45(4) and Article 53(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n3. The delegation of power referred to in Articles 37(5), Article 45(4) and Article 53(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making\nOJ L 123, 12.5.2016, p. 1..\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 37(5), Article 45(4) and Article 53(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -275,11 +444,31 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 53a has been added, setting out the conditions under which the Commission may exercise the power to adopt delegated acts referenced elsewhere in the act, including the duration of the delegation, procedures for revocation, expert consultation, notification to the European Parliament and Council, and the period within which objections may be raised.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53a",
+              "label": "Art. 53a, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -335,11 +524,50 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 53b is added, setting out an urgency procedure for delegated acts, under which such acts enter into force without delay and apply unless an objection is raised, with the notification to the European Parliament and Council required to state the reasons for using this procedure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b",
+              "label": "Art. 53b, 02008R1272-20190726"
+            }
+          ]
+        },
+        {
+          "text": "It further provides that either the European Parliament or the Council may object to such a delegated act following the procedure referred to in Article 53a(6), in which case the Commission is to repeal the act immediately after notification of that objection.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b",
+              "label": "Art. 53b, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -395,11 +623,31 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 53c has been added, stating that the Commission shall adopt a separate delegated act for each power delegated to it under this Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20190726",
+                "location": "AR 53c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53c",
+              "label": "Art. 53c, 02008R1272-20190726"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -457,7 +705,7 @@
       "sentences": [],
       "applicability_note": null,
       "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -808,31 +1056,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 7,
-    "explained": 0,
-    "unavailable": 7,
+    "explained": 6,
+    "unavailable": 1,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 0,
-    "provider_unavailable": 6,
+    "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
-      "schema_repairs": 0
+      "input_tokens": 28529,
+      "output_tokens": 1985,
+      "requests": 8,
+      "schema_repairs": 2
     }
   },
   "gate": {
     "changes": 7,
-    "passed_first": 0,
+    "passed_first": 6,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 7,
+    "unexplained": 1,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 10,
+    "citations": 14,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
