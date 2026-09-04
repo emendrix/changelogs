@@ -2167,7 +2167,7 @@ A new subparagraph has been added to paragraph 5 stating that the first subparag
 
 *within* `AR 54 PA 6 ALN 1`, `AR 54 PA 7` · *dates* -2020-04-01 +2023-06-15 +2025-12-31 · *amended by* `32021R0168`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02016R1011-20191210`)
 
