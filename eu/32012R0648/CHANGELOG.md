@@ -593,7 +593,7 @@ The provision further states that college members of the CCP referred to in Arti
 
 *within* `AR 9 PA 1 ALN 2`, `AR 9 PA 1 ALN 2 PTA (a)`, `AR 9 PA 1 ALN 2 PTA (b)`, `AR 9 PA 1 ALN 3`, `AR 9 PA 1 ALN 3 PTA (a)`, `AR 9 PA 1 ALN 3 PTA (b)`, `AR 9 PA 1 ALN 3 PTA (c)`, `AR 9 PA 1 ALN 4`, `AR 9 PA 1 ALN 4 PTA (a)`, `AR 9 PA 1 ALN 4 PTA (b)`, `AR 9 PA 1 ALN 5`, `AR 9 PA 1 ALN 6`, `AR 9 PA 1a ALN 4 PTA (a)`, `AR 9 PA 1e ALN 1`, `AR 9 PA 4a` · *dates* +2025-12-25 · *amended by* `32024R2987`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20220812`)
 
@@ -1546,7 +1546,7 @@ The final paragraph of Article 32(1) now specifies that the college opinion is t
 
 *within* `AR 35 PA 1 ALN 2`, `AR 35 PA 3 ALN 1` · *amended by* `32024R2987`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20220812`)
 
