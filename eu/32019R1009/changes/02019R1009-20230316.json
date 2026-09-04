@@ -15,80 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 4,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 4,
+    "touched_units": 3,
     "unchanged_units": 55,
-    "disputed": 4
+    "disputed": 2
   },
   "counts": {
-    "touched": 4,
-    "substantive": 4,
+    "touched": 3,
+    "substantive": 3,
     "date_only": 0,
-    "disputed": 4,
+    "disputed": 2,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32019R1009",
-            "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
-          },
-          "version": "02019R1009-20230316",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32023R0409",
-            "display_name": "Commission Delegated Regulation (EU) 2023/409 of 18 November 2022 amending Regulation (EU) 2019/1009 of the European Parliament and of the Council as regards the minimum content of calcium oxide in straight solid inorganic macronutrient fertilisers (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2022-10-03, 2023-03-16]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -138,12 +81,14 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R0409, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
-        "disputed": true
+        "disputed": false
       },
       "outcome": "passed",
       "sentences": [
@@ -200,7 +145,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -317,7 +263,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -409,7 +356,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -457,12 +405,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1"
+          "AN I"
         ],
         "note": "32023R0409, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 1 PRT II PO 2",
+            "location": "AN I PRT II PO 2",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001",
@@ -492,10 +440,10 @@
         "right": "instruction_parse",
         "left_units": 3,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
         "kind_mismatches": 0
       },
       {
@@ -503,58 +451,14 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN I",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AN II",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -594,9 +498,7 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "AR 1"
-    ]
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -609,6 +511,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 98971,
       "output_tokens": 753,
@@ -628,5 +531,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 4,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }

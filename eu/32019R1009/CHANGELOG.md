@@ -648,28 +648,16 @@ Point 7d requires that where an EU fertilising product contains a component mate
 ### `02019R1009-20221003` → `02019R1009-20230316`
 
 - **Act** `eu:32019R1009` · **In force** 2023-03-16 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20221003` · `v2` = `02019R1009-20230316`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0409`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I`, `AN I PTA (e)` · *amended by* `32023R0409`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In the table of minimum macronutrient content for a straight solid inorganic macronutrient fertiliser containing only one declared macronutrient, the minimum calcium oxide (CaO) content value under point (e) was changed from 12% by mass to 9% by mass. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_I)
 
