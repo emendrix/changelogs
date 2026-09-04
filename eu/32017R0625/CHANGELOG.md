@@ -10,6 +10,159 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20211028 -->
+## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
+### `02017R0625-20191214` → `02017R0625-20211028`
+
+- **Act** `eu:32017R0625` · **In force** 2021-10-28 · **Detected** 2026-09-04
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 169 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R0625-20191214` · `v2` = `02017R0625-20211028`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32021R1756`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Specific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption** · applies from: unchanged
+
+*within* `AR 18 PA 6 ALN 1`, `AR 18 PA 7 ALN 1 PTA (g)`, `AR 18 PA 7 ALN 1 PTA (g) PTI (i)`, `AR 18 PA 7 ALN 1 PTA (g) PTI (ii)`, `AR 18 PA 8 ALN 1 PTA (b)` · *amended by* `32021R1756`
+
+Paragraph 6 now extends the classification requirement for production and relaying areas beyond live bivalve molluscs to also cover echinoderms, tunicates and marine gastropods. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18)
+
+Point (g) of paragraph 7 was reworded so that the derogation from classifying production and relaying areas is now split into two sub-points, covering Pectinidae and, where they are not filter feeders, echinoderms and marine gastropods, replacing the earlier single reference to Pectinidae, marine gastropods and Holothuroidea. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18)
+
+Point (b) of paragraph 8 similarly broadens the scope of the implementing acts on classification and monitoring of production and relaying areas to include echinoderms, tunicates and marine gastropods alongside live bivalve molluscs. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18)
+
+*before* (`02017R0625-20191214`)
+
+> Article 18
+> Specific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption
+> 1. Official controls performed to verify compliance with the rules referred to in Article 1(2) of this Regulation in relation to products of animal origin intended for human consumption shall include the verification of compliance with the requirements laid down in Regulations (EC) No 852/2004, (EC) No 853/2004, (EC) No 1069/2009 and (EC) No 1099/2009 as applicable.
+> 2. The official controls referred to in paragraph 1 performed in relation to the production of meat shall include:
+> (a) the ante-mortem inspection performed in the slaughterhouse by an official veterinarian who may, as regards pre-selection of animals, be assisted by official auxiliaries trained for that purpose;
+> (b) by way of derogation from point (a), as regards poultry and lagomorphs, the ante-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;
+> (c) the post-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;
+> (d) the other official controls performed in slaughterhouses, cutting plants and game-handling establishments, by […truncated by emendrix: 8087 characters omitted…]
+
+*after* (`02017R0625-20211028`)
+
+> Article 18
+> Specific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption
+> 1. Official controls performed to verify compliance with the rules referred to in Article 1(2) of this Regulation in relation to products of animal origin intended for human consumption shall include the verification of compliance with the requirements laid down in Regulations (EC) No 852/2004, (EC) No 853/2004, (EC) No 1069/2009 and (EC) No 1099/2009 as applicable.
+> 2. The official controls referred to in paragraph 1 performed in relation to the production of meat shall include:
+> (a) the ante-mortem inspection performed in the slaughterhouse by an official veterinarian who may, as regards pre-selection of animals, be assisted by official auxiliaries trained for that purpose;
+> (b) by way of derogation from point (a), as regards poultry and lagomorphs, the ante-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;
+> (c) the post-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;
+> (d) the other official controls performed in slaughterhouses, cutting plants and game-handling establishments, by […truncated by emendrix: 8222 characters omitted…]
+
+**MODIFIED · Art. 47 — Animals and goods subject to official controls at border control posts** · applies from: unchanged
+
+*within* `AR 47 PA 1 ALN 1 PTA (e)` · *amended by* `32021R1756`
+
+The only change is in point (e) of paragraph 1, where the cross-reference to Regulation (EU) 2016/429 was altered from Article 249 to Article 261. [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_47) [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_47)
+
+*before* (`02017R0625-20191214`)
+
+> Article 47
+> Animals and goods subject to official controls at border control posts
+> 1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:
+> (a) animals;
+> (b) products of animal origin, germinal products, animal by-products, hay and straw and foodstuffs containing both products of plant origin and processed products of animal origin (composite products);
+> (c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+> (d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;
+> (e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 249 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or […truncated by emendrix: 2076 characters omitted…]
+
+*after* (`02017R0625-20211028`)
+
+> Article 47
+> Animals and goods subject to official controls at border control posts
+> 1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:
+> (a) animals;
+> (b) products of animal origin, germinal products, animal by-products, hay and straw and foodstuffs containing both products of plant origin and processed products of animal origin (composite products);
+> (c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+> (d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;
+> (e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 261 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or […truncated by emendrix: 2076 characters omitted…]
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+
+*within* `AN IV`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only textual difference between the two versions is that the Chapter II heading changes the capitalization of the word for aquaculture products, from an irregular capital S in the middle of the word to a lowercase s. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#anx_IV)
+
+*before* (`02017R0625-20191214`)
+
+> ANNEX IV
+> CHAPTER I
+> Fees or charges for the official controls on consignments of animals and goods entering the Union
+> I. CONSIGNMENTS OF LIVE ANIMALS
+> (a) Bovine animals, equidae, pigs, sheep, goats, poultry, rabbits and small game birds or ground game, wild boar and wild ruminants:
+> EUR 55 per consignment, up to 6 tonnes, and
+> EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> (b) Animals of other species:
+> EUR 55 per consignment, up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> II. CONSIGNMENTS OF MEAT
+> EUR 55 per consignment, up to 6 tonnes, and
+> EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> III. CONSIGNMENTS OF FISHERY PRODUCTS
+> (a) Fishery products not in bulk:
+> (i) EUR 55 per consignment, up to 6 tonnes, and
+> (ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> (iii) EUR 420 per consignment, over 46 tonnes.
+> (b) Fishery products, transported as break bulk shipment:
+> (i) EUR 600 per vessel, with a cargo of fishery products up to 500 tonnes,
+> (ii) EUR 1200 per vessel, with a cargo of fishery products over 500 and up to 1000 tonnes,
+> (iii) EUR 2400 per vessel, with a cargo of fishery products over 1000 and up to 2000 tonnes,
+> (iv) EUR 3600 per vessel, with a cargo of fishery products of more than 2000 tonnes.
+> IV. CONSIGNMENTS OF MEAT PRODUCTS, POULTRY MEAT, WILD GAME MEAT, RABBIT MEAT OR FARMED GAME MEAT
+> (a) EUR 55 per consignment, up to 6 tonnes, and
+> (b) EUR 9 per tonne, over 6 and up to 46 tonn […truncated by emendrix: 7381 characters omitted…]
+
+*after* (`02017R0625-20211028`)
+
+> ANNEX IV
+> CHAPTER I
+> Fees or charges for the official controls on consignments of animals and goods entering the Union
+> I. CONSIGNMENTS OF LIVE ANIMALS
+> (a) Bovine animals, equidae, pigs, sheep, goats, poultry, rabbits and small game birds or ground game, wild boar and wild ruminants:
+> EUR 55 per consignment, up to 6 tonnes, and
+> EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> (b) Animals of other species:
+> EUR 55 per consignment, up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> II. CONSIGNMENTS OF MEAT
+> EUR 55 per consignment, up to 6 tonnes, and
+> EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> EUR 420 per consignment, over 46 tonnes.
+> III. CONSIGNMENTS OF FISHERY PRODUCTS
+> (a) Fishery products not in bulk:
+> (i) EUR 55 per consignment, up to 6 tonnes, and
+> (ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or
+> (iii) EUR 420 per consignment, over 46 tonnes.
+> (b) Fishery products, transported as break bulk shipment:
+> (i) EUR 600 per vessel, with a cargo of fishery products up to 500 tonnes,
+> (ii) EUR 1200 per vessel, with a cargo of fishery products over 500 and up to 1000 tonnes,
+> (iii) EUR 2400 per vessel, with a cargo of fishery products over 1000 and up to 2000 tonnes,
+> (iv) EUR 3600 per vessel, with a cargo of fishery products of more than 2000 tonnes.
+> IV. CONSIGNMENTS OF MEAT PRODUCTS, POULTRY MEAT, WILD GAME MEAT, RABBIT MEAT OR FARMED GAME MEAT
+> (a) EUR 55 per consignment, up to 6 tonnes, and
+> (b) EUR 9 per tonne, over 6 and up to 46 tonn […truncated by emendrix: 7381 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0625-20211028 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20191214 -->
 ## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
 ### `02017R0625-20170407` → `02017R0625-20191214`

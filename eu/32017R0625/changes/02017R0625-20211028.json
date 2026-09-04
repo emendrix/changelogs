@@ -1,0 +1,663 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0625",
+    "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+  },
+  "from_version": "02017R0625-20191214",
+  "to_version": "02017R0625-20211028",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-10-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 4,
+    "unchanged_units": 169,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 4,
+    "substantive": 4,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20211028",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R1756",
+            "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2019-12-14, 2021-10-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20211028",
+          "location": "AR 18"
+        },
+        "heading": "Specific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption",
+        "before": "Article 18\nSpecific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption\n1. Official controls performed to verify compliance with the rules referred to in Article 1(2) of this Regulation in relation to products of animal origin intended for human consumption shall include the verification of compliance with the requirements laid down in Regulations (EC) No 852/2004, (EC) No 853/2004, (EC) No 1069/2009 and (EC) No 1099/2009 as applicable.\n2. The official controls referred to in paragraph 1 performed in relation to the production of meat shall include:\n(a) the ante-mortem inspection performed in the slaughterhouse by an official veterinarian who may, as regards pre-selection of animals, be assisted by official auxiliaries trained for that purpose;\n(b) by way of derogation from point (a), as regards poultry and lagomorphs, the ante-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;\n(c) the post-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;\n(d) the other official controls performed in slaughterhouses, cutting plants and game-handling establishments, by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian, to verify compliance with the requirements applicable to:\n(i) the hygiene of meat production;\n(ii) the presence of residues of veterinary medicinal products and contaminants in products of animal origin intended for human consumption;\n(iii) audits of good hygiene practices and procedures based on HACCP principles;\n(iv) laboratory tests to detect the presence of zoonotic agents and animal diseases and to verify compliance with the microbiological criterion as defined in point (b) of Article 2 of Commission Regulation (EC) No 2073/2005\nCommission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for foodstuffs (OJ L 338, 22.12.2005, p. 1).;\n(v) the handling and disposal of animal by-products and of specified risk material;\n(vi) the health and welfare of the animals.\n3. The competent authority may, on the basis of a risk analysis, allow slaughterhouse staff to assist in the performance of tasks relating to the official controls referred to in paragraph 2 in establishments slaughtering poultry or lagomorphs, or, in establishments slaughtering animals of other species, to carry out specific sampling and testing tasks relating to such controls, on condition that staff:\n(a) act independently from the production staff of the slaughterhouse;\n(b) have undergone appropriate training to carry out these tasks; and\n(c) carry out these tasks in the presence and following the instructions of the official veterinarian or of the official auxiliary.\n4. Where the official controls referred to in points (a) and (c) of paragraph 2 have not identified any shortcoming that would make the meat unfit for human consumption, the health mark shall be applied to domestic ungulates, farmed game mammals other than lagomorphs, and large wild game, by the official veterinarian, under the supervision of the official veterinarian, under the responsibility of the official veterinarian, or, in compliance with the conditions laid down in paragraph 3, by the slaughterhouse staff.\n5. The official veterinarian shall remain responsible for the decisions taken following official controls provided for in paragraphs 2 and 4, even if the performance of an action is assigned by him or her to the official auxiliary.\n6. For the purpose of the official controls referred to in paragraph 1 performed in relation to live bivalve molluscs, the competent authorities shall classify production and relaying areas.\n7. The Commission shall adopt delegated acts in accordance with Article 144 to supplement this Regulation concerning specific rules for the performance of the official controls referred to in paragraphs 2 to 6 of this Article on:\n(a) criteria and conditions to determine, by way of derogation from point (a) of paragraph 2, when the ante-mortem inspection in certain slaughterhouses may be performed under the supervision or under the responsibility of an official veterinarian, provided that the derogations do not affect the achievement of the objectives of this Regulation;\n(b) criteria and conditions to determine, as regards poultry and lagomorphs, when sufficient guarantees are met for the official controls to be performed under the responsibility of an official veterinarian in regard to the ante-mortem inspections referred to in point (b) of paragraph 2;\n(c) criteria and conditions to determine, by way of derogation from point (a) of paragraph 2, when the ante-mortem inspection may be performed outside the slaughterhouse in case of emergency slaughter;\n(d) criteria and conditions to determine, by way of derogation from points (a) and (b) of paragraph 2, when the ante-mortem inspection may be performed at the holding of provenance;\n(e) criteria and conditions to determine when sufficient guarantees are met for the official controls to be performed under the responsibility of an official veterinarian with regard to the post-mortem inspection and auditing activities referred to in points (c) and (d) of paragraph 2;\n(f) criteria and conditions to determine, by way of derogation from point (c) of paragraph 2, when, in case of emergency slaughter, the post-mortem inspection is to be performed by the official veterinarian;\n(g) criteria and conditions to determine, in relation to Pectinidae, marine gastropods and Holothuroidea, by way of derogation from paragraph 6, when production and relaying areas are not to be classified;\n(h) specific derogations in respect to Rangifer tarandus tarandus, Lagopus lagopus and Lagopus mutus, in order to allow the continuation of longstanding local and traditional customs and practices, provided that the derogations do not affect the achievement of the objectives of this Regulation;\n(i) criteria and conditions to determine, by way of derogation from point (d) of paragraph 2, when the official controls in cutting plants may be performed by staff designated by the competent authorities for that purpose and appropriately trained;\n(j) specific minimum requirements for the staff of the competent authorities and for official veterinarian and official auxiliary in order to ensure an adequate performance of their tasks provided for in this Article, including specific minimum training requirements;\n(k) appropriate minimum training requirements for the slaughterhouse staff assisting in the performance of tasks relating to official controls and other official activities in accordance with paragraph 3.\n8. The Commission shall, by means of implementing acts, lay down rules on uniform practical arrangements for the performance of the official controls referred to in this Article regarding:\n(a) specific requirements for the performance of official controls and the uniform minimum frequency of those official controls, having regard to the specific hazards and risks which exist in relation to each product of animal origin and the different processes it undergoes, where a minimum level of official controls is necessary to respond to recognised uniform hazards and risks which might be posed by products of animal origin;\n(b) the conditions for the classification and monitoring of classified production and relaying areas for live bivalve molluscs;\n(c) the cases where the competent authorities in relation to specific non-compliances are to take one or more of the measures referred to in Articles 137(2) and 138(2);\n(d) the practical arrangements of the ante-mortem and post-mortem inspections referred to in points (a), (b) and (c) of paragraph 2, including the uniform requirements necessary to ensure that sufficient guarantees are met when the official controls are performed under the responsibility of the official veterinarian;\n(e) the technical requirements of the health mark and the practical arrangements for its application;\n(f) specific requirements for the performance of official controls and the uniform minimum frequency for those official controls on raw milk, milk products and fishery products, where a minimum level of official controls is necessary to respond to recognised uniform hazards and risks they might pose.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n9. While complying with the objectives of this Regulation and in particular as regards food safety requirements, the Member States may adopt national measures implementing pilot projects limited in time and extent, to evaluate alternative practical arrangements for the performance of official controls on the production of meat. Those national measures shall be notified in accordance with the procedure laid down in Articles 5 and 6 of Directive (EU) 2015/1535. The outcome of the evaluation conducted through the pilot projects shall be communicated to the Commission as soon as available.\n10. For the purpose of Article 30, the delegation of certain official control tasks, referred to in this Article, to one or more natural persons shall be allowed.",
+        "after": "Article 18\nSpecific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption\n1. Official controls performed to verify compliance with the rules referred to in Article 1(2) of this Regulation in relation to products of animal origin intended for human consumption shall include the verification of compliance with the requirements laid down in Regulations (EC) No 852/2004, (EC) No 853/2004, (EC) No 1069/2009 and (EC) No 1099/2009 as applicable.\n2. The official controls referred to in paragraph 1 performed in relation to the production of meat shall include:\n(a) the ante-mortem inspection performed in the slaughterhouse by an official veterinarian who may, as regards pre-selection of animals, be assisted by official auxiliaries trained for that purpose;\n(b) by way of derogation from point (a), as regards poultry and lagomorphs, the ante-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;\n(c) the post-mortem inspection performed by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian;\n(d) the other official controls performed in slaughterhouses, cutting plants and game-handling establishments, by an official veterinarian, under the supervision of the official veterinarian or, where sufficient guarantees are in place, under the responsibility of the official veterinarian, to verify compliance with the requirements applicable to:\n(i) the hygiene of meat production;\n(ii) the presence of residues of veterinary medicinal products and contaminants in products of animal origin intended for human consumption;\n(iii) audits of good hygiene practices and procedures based on HACCP principles;\n(iv) laboratory tests to detect the presence of zoonotic agents and animal diseases and to verify compliance with the microbiological criterion as defined in point (b) of Article 2 of Commission Regulation (EC) No 2073/2005\nCommission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for foodstuffs (OJ L 338, 22.12.2005, p. 1).;\n(v) the handling and disposal of animal by-products and of specified risk material;\n(vi) the health and welfare of the animals.\n3. The competent authority may, on the basis of a risk analysis, allow slaughterhouse staff to assist in the performance of tasks relating to the official controls referred to in paragraph 2 in establishments slaughtering poultry or lagomorphs, or, in establishments slaughtering animals of other species, to carry out specific sampling and testing tasks relating to such controls, on condition that staff:\n(a) act independently from the production staff of the slaughterhouse;\n(b) have undergone appropriate training to carry out these tasks; and\n(c) carry out these tasks in the presence and following the instructions of the official veterinarian or of the official auxiliary.\n4. Where the official controls referred to in points (a) and (c) of paragraph 2 have not identified any shortcoming that would make the meat unfit for human consumption, the health mark shall be applied to domestic ungulates, farmed game mammals other than lagomorphs, and large wild game, by the official veterinarian, under the supervision of the official veterinarian, under the responsibility of the official veterinarian, or, in compliance with the conditions laid down in paragraph 3, by the slaughterhouse staff.\n5. The official veterinarian shall remain responsible for the decisions taken following official controls provided for in paragraphs 2 and 4, even if the performance of an action is assigned by him or her to the official auxiliary.\n6. For the purposes of official controls referred to in paragraph 1 performed in relation to live bivalve molluscs, echinoderms, tunicates and marine gastropods, the competent authorities shall classify production and relaying areas.\n7. The Commission shall adopt delegated acts in accordance with Article 144 to supplement this Regulation concerning specific rules for the performance of the official controls referred to in paragraphs 2 to 6 of this Article on:\n(a) criteria and conditions to determine, by way of derogation from point (a) of paragraph 2, when the ante-mortem inspection in certain slaughterhouses may be performed under the supervision or under the responsibility of an official veterinarian, provided that the derogations do not affect the achievement of the objectives of this Regulation;\n(b) criteria and conditions to determine, as regards poultry and lagomorphs, when sufficient guarantees are met for the official controls to be performed under the responsibility of an official veterinarian in regard to the ante-mortem inspections referred to in point (b) of paragraph 2;\n(c) criteria and conditions to determine, by way of derogation from point (a) of paragraph 2, when the ante-mortem inspection may be performed outside the slaughterhouse in case of emergency slaughter;\n(d) criteria and conditions to determine, by way of derogation from points (a) and (b) of paragraph 2, when the ante-mortem inspection may be performed at the holding of provenance;\n(e) criteria and conditions to determine when sufficient guarantees are met for the official controls to be performed under the responsibility of an official veterinarian with regard to the post-mortem inspection and auditing activities referred to in points (c) and (d) of paragraph 2;\n(f) criteria and conditions to determine, by way of derogation from point (c) of paragraph 2, when, in case of emergency slaughter, the post-mortem inspection is to be performed by the official veterinarian;\n(g) criteria and conditions to determine, by way of derogation from paragraph 6, when production and relaying areas are not to be classified in relation to:\n(i) Pectinidae; and\n(ii) where they are not filter feeders: echinoderms and marine gastropods;\n(h) specific derogations in respect to Rangifer tarandus tarandus, Lagopus lagopus and Lagopus mutus, in order to allow the continuation of longstanding local and traditional customs and practices, provided that the derogations do not affect the achievement of the objectives of this Regulation;\n(i) criteria and conditions to determine, by way of derogation from point (d) of paragraph 2, when the official controls in cutting plants may be performed by staff designated by the competent authorities for that purpose and appropriately trained;\n(j) specific minimum requirements for the staff of the competent authorities and for official veterinarian and official auxiliary in order to ensure an adequate performance of their tasks provided for in this Article, including specific minimum training requirements;\n(k) appropriate minimum training requirements for the slaughterhouse staff assisting in the performance of tasks relating to official controls and other official activities in accordance with paragraph 3.\n8. The Commission shall, by means of implementing acts, lay down rules on uniform practical arrangements for the performance of the official controls referred to in this Article regarding:\n(a) specific requirements for the performance of official controls and the uniform minimum frequency of those official controls, having regard to the specific hazards and risks which exist in relation to each product of animal origin and the different processes it undergoes, where a minimum level of official controls is necessary to respond to recognised uniform hazards and risks which might be posed by products of animal origin;\n(b) the conditions for the classification and monitoring of classified production and relaying areas for live bivalve molluscs, echinoderms, tunicates and marine gastropods;\n(c) the cases where the competent authorities in relation to specific non-compliances are to take one or more of the measures referred to in Articles 137(2) and 138(2);\n(d) the practical arrangements of the ante-mortem and post-mortem inspections referred to in points (a), (b) and (c) of paragraph 2, including the uniform requirements necessary to ensure that sufficient guarantees are met when the official controls are performed under the responsibility of the official veterinarian;\n(e) the technical requirements of the health mark and the practical arrangements for its application;\n(f) specific requirements for the performance of official controls and the uniform minimum frequency for those official controls on raw milk, milk products and fishery products, where a minimum level of official controls is necessary to respond to recognised uniform hazards and risks they might pose.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n9. While complying with the objectives of this Regulation and in particular as regards food safety requirements, the Member States may adopt national measures implementing pilot projects limited in time and extent, to evaluate alternative practical arrangements for the performance of official controls on the production of meat. Those national measures shall be notified in accordance with the procedure laid down in Articles 5 and 6 of Directive (EU) 2015/1535. The outcome of the evaluation conducted through the pilot projects shall be communicated to the Commission as soon as available.\n10. For the purpose of Article 30, the delegation of certain official control tasks, referred to in this Article, to one or more natural persons shall be allowed.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 18 PA 6 ALN 1",
+          "AR 18 PA 7 ALN 1 PTA (g)",
+          "AR 18 PA 7 ALN 1 PTA (g) PTI (i)",
+          "AR 18 PA 7 ALN 1 PTA (g) PTI (ii)",
+          "AR 18 PA 8 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R1756",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-10-28",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R1756 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2) (a); AR 001 (2) (b); AR 001 (2) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 now extends the classification requirement for production and relaying areas beyond live bivalve molluscs to also cover echinoderms, tunicates and marine gastropods.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20211028",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18",
+              "label": "Art. 18, 02017R0625-20211028"
+            }
+          ]
+        },
+        {
+          "text": "Point (g) of paragraph 7 was reworded so that the derogation from classifying production and relaying areas is now split into two sub-points, covering Pectinidae and, where they are not filter feeders, echinoderms and marine gastropods, replacing the earlier single reference to Pectinidae, marine gastropods and Holothuroidea.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20191214",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_18",
+              "label": "Art. 18, 02017R0625-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20211028",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18",
+              "label": "Art. 18, 02017R0625-20211028"
+            }
+          ]
+        },
+        {
+          "text": "Point (b) of paragraph 8 similarly broadens the scope of the implementing acts on classification and monitoring of production and relaying areas to include echinoderms, tunicates and marine gastropods alongside live bivalve molluscs.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20211028",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_18",
+              "label": "Art. 18, 02017R0625-20211028"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20211028",
+          "location": "AR 47"
+        },
+        "heading": "Animals and goods subject to official controls at border control posts",
+        "before": "Article 47\nAnimals and goods subject to official controls at border control posts\n1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:\n(a) animals;\n(b) products of animal origin, germinal products, animal by-products, hay and straw and foodstuffs containing both products of plant origin and processed products of animal origin (composite products);\n(c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;\n(d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;\n(e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 249 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or goods, identified by means of their codes from the Combined Nomenclature, to be subject to official controls at their entry into the Union;\n(f) animals and goods in relation to whose entry into the Union conditions or measures have been established by acts adopted in accordance with Article 126 or 128 respectively, or with the rules referred to in Article 1(2), which require that compliance with those conditions or measures be ascertained at the entry of the animals or goods into the Union.\n2. The Commission shall, by means of implementing acts:\n(a) establish lists which set out all the animals and goods referred to in points (a) and (b) of paragraph 1, indicating their codes from the Combined Nomenclature; and\n(b) establish the list of goods belonging to the category referred to in point (d) of paragraph 1, indicating their codes from the Combined Nomenclature, and update it as necessary in relation to the risks referred to in that point.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning amendments to the categories of consignments referred to in paragraph 1 of this Article, to include composite products, hay and straw, and other products strictly limited to products presenting a newly identified or a significantly increased risk to human, animal or plant health or, as regards GMOs and plant protection products, also to the environment.\n4. Unless otherwise provided by the acts establishing the measures or conditions referred to in points (d), (e) and (f) of paragraph 1, this Article shall also apply to consignments of the categories of animals and goods referred to in points (a), (b) and (c) of paragraph 1 when they are of a non-commercial nature.\n5. Operators responsible for the consignment shall ensure that animals and goods of the categories referred to in paragraph 1 are presented for official controls at the border control post referred to therein.",
+        "after": "Article 47\nAnimals and goods subject to official controls at border control posts\n1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:\n(a) animals;\n(b) products of animal origin, germinal products, animal by-products, hay and straw and foodstuffs containing both products of plant origin and processed products of animal origin (composite products);\n(c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;\n(d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;\n(e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 261 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or goods, identified by means of their codes from the Combined Nomenclature, to be subject to official controls at their entry into the Union;\n(f) animals and goods in relation to whose entry into the Union conditions or measures have been established by acts adopted in accordance with Article 126 or 128 respectively, or with the rules referred to in Article 1(2), which require that compliance with those conditions or measures be ascertained at the entry of the animals or goods into the Union.\n2. The Commission shall, by means of implementing acts:\n(a) establish lists which set out all the animals and goods referred to in points (a) and (b) of paragraph 1, indicating their codes from the Combined Nomenclature; and\n(b) establish the list of goods belonging to the category referred to in point (d) of paragraph 1, indicating their codes from the Combined Nomenclature, and update it as necessary in relation to the risks referred to in that point.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning amendments to the categories of consignments referred to in paragraph 1 of this Article, to include composite products, hay and straw, and other products strictly limited to products presenting a newly identified or a significantly increased risk to human, animal or plant health or, as regards GMOs and plant protection products, also to the environment.\n4. Unless otherwise provided by the acts establishing the measures or conditions referred to in points (d), (e) and (f) of paragraph 1, this Article shall also apply to consignments of the categories of animals and goods referred to in points (a), (b) and (c) of paragraph 1 when they are of a non-commercial nature.\n5. Operators responsible for the consignment shall ensure that animals and goods of the categories referred to in paragraph 1 are presented for official controls at the border control post referred to therein.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 47 PA 1 ALN 1 PTA (e)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R1756",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-10-28",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R1756 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is in point (e) of paragraph 1, where the cross-reference to Regulation (EU) 2016/429 was altered from Article 249 to Article 261.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20191214",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_47",
+              "label": "Art. 47, 02017R0625-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20211028",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_47",
+              "label": "Art. 47, 02017R0625-20211028"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20211028",
+          "location": "AN IV"
+        },
+        "heading": "ANNEX IV",
+        "before": "ANNEX IV\nCHAPTER I\nFees or charges for the official controls on consignments of animals and goods entering the Union\nI. CONSIGNMENTS OF LIVE ANIMALS\n(a) Bovine animals, equidae, pigs, sheep, goats, poultry, rabbits and small game birds or ground game, wild boar and wild ruminants:\nEUR 55 per consignment, up to 6 tonnes, and\nEUR 9 per tonne, over 6 and up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\n(b) Animals of other species:\nEUR 55 per consignment, up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\nII. CONSIGNMENTS OF MEAT\nEUR 55 per consignment, up to 6 tonnes, and\nEUR 9 per tonne, over 6 and up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\nIII. CONSIGNMENTS OF FISHERY PRODUCTS\n(a) Fishery products not in bulk:\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Fishery products, transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of fishery products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of fishery products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of fishery products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo of fishery products of more than 2000 tonnes.\nIV. CONSIGNMENTS OF MEAT PRODUCTS, POULTRY MEAT, WILD GAME MEAT, RABBIT MEAT OR FARMED GAME MEAT\n(a) EUR 55 per consignment, up to 6 tonnes, and\n(b) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(c) EUR 420 per consignment, over 46 tonnes.\nV. CONSIGNMENTS OF OTHER PRODUCTS OF ANIMAL ORIGIN DIFFERENT FROM MEAT PRODUCTS FOR HUMAN CONSUMPTION\n(a) Other products of animal origin for human consumption not in bulk;\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Other products of animal origin for human consumption transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo products of more than 2000 tonnes.\nVI. CONSIGNMENTS OF ANIMAL BY-PRODUCTS AND FEED OF ANIMAL ORIGIN\n(a) Consignment of animal by-product and feed of animal origin transported not in bulk:\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Animal by-products and feed of animal origin, transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo products of more than 2000 tonnes.\nVII. CONSIGNMENTS OF ANIMALS AND GOODS FROM THIRD COUNTRIES TRANSITING OR TRANSHIPPED\nEUR 30 for consignment increased by EUR 20 per quarter of an hour for every member of staff involved in the controls.\nVIII. CONSIGNMENTS OF PLANTS, PLANT PRODUCTS AND OTHER PRODUCTS, OBJECTS AND MATERIALS CAPABLE OF HARBOURING OR SPREADING PESTS OF PLANTS\n(a) For documentary checks: EUR 7 per consignment.\n(b) For identity checks:\n(i) EUR 7 per consignment up to a size of a truck load, a railway wagon load or the load of a container of comparable size,\n(ii) EUR 14 per consignment bigger than the above size.\n(c) For plant health checks, in accordance with the following specifications:\n(i) cuttings, seedlings (except forestry reproductive material), young plants of strawberries or of vegetables:\nEUR 17,5 per consignment up to 10000 in number,\nEUR 0,70 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(ii) shrubs, trees (other than cut Christmas trees), other woody nursery plants including forest reproductive material (other than seed):\nEUR 17,5 per consignment up to 10000 in number,\nEUR 0,44 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(iii) bulbs, corms, rhizomes, tubers, intended for planting (other than tubers of potatoes):\nEUR 17,5 per consignment up to 200 kg of weight,\nEUR 0,16 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(iv) seeds, tissue cultures:\nEUR 7,5 per consignment up to 100 kg of weight,\nEUR 0,175 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(v) other plants intended for planting, not specified elsewhere in this point:\nEUR 17,5 per consignment up to 5000 in number,\nEUR 0,18 per consignment for each additional 100 units,\nEUR 140 per consignment maximum fee,\n(vi) cut flowers:\nEUR 17,5 per consignment up to 20000 in number,\nEUR 0,14 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(vii) branches with foliage, parts of conifers (other than cut Christmas trees):\nEUR 17,5 per consignment up to 100 kg of weight,\nEUR 1,75 per consignment for each additional 100 kg,\nEUR 140 per consignment maximum fee,\n(viii) cut Christmas trees:\nEUR 17,5 per consignment up to 1000 in number,\nEUR 1,75 per consignment for each additional 100 units,\nEUR 140 per consignment maximum fee,\n(ix) leaves of plants, such as herbs, spices and leafy vegetables:\nEUR 17,5 per consignment up to 100 kg of weight,\nEUR 1,75 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(x) fruits, vegetables (other than leafy vegetables):\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\n(xi) tubers of potatoes:\nEUR 52,5 per lot up to 25000 kg of weight,\nEUR 52,5 per lot for each additional 25000 kg,\n(xii) wood (other than bark):\nEUR 17,5 per consignment up to 1000 m3 of volume,\nEUR 0,175 per consignment for each additional 10 m3,\n(xiii) soil and growing medium, bark:\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\nEUR 140 per consignment maximum fee,\n(xiv) grain:\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\nEUR 700 per consignment maximum fee,\n(xv) other plants or plant products not specified elsewhere in this point:\nEUR 17,5 per consignment.\nWhere a consignment does not consist exclusively of products coming under the description of the relevant indent, those parts thereof consisting of products coming under the description of the relevant indent (lot or lots) shall be treated as a separate consignment.\nCHAPTER II\nFees or charges for the official controls in slaughterhouses, cutting plants, game-processing plants, milk production and producing and placing on the market fishery products and aquaculture productS\nI. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN SLAUGHTERHOUSES\n(a) Beef meat:\n(i) adult bovine animals: 5 EUR/animal,\n(ii) young bovine animals: 2 EUR/animal,\n(b) solipeds/equidae meat: 3 EUR/animal,\n(c) pigmeat: animals of a carcass weight:\n(i) of less than 25 kg: 0,5 EUR/animal,\n(ii) equal to or greater than 25 kg: 1 EUR/animal,\n(d) sheepmeat and goatmeat: animals of a carcass weight:\n(i) of less than 12 kg: 0,15 EUR/animal,\n(ii) equal to or greater than 12 kg: 0,25 EUR/animal,\n(e) poultry meat:\n(i) poultry of genus Gallus and guinea fowl: 0,005 EUR/animal,\n(ii) ducks and geese: 0,01 EUR/animal,\n(iii) turkeys: 0,025 EUR/animal,\n(iv) farmed rabbit meat: 0,005 EUR/animal,\n(v) quails and partridges: 0,002 EUR/animal.\nII. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN CUTTING PLANTS\nPer tonne of meat:\n(a) beef, veal, pig, solipeds/equidae, sheep and goatmeat: 2 EUR,\n(b) poultry and farmed rabbit meat: 1,5 EUR,\n(c) farmed and wild game meat:\nsmall game birds and ground game: 1,5 EUR,\nratites (ostrich, emu, nandou): 3 EUR,\nboar and ruminants: 2 EUR.\nIII. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN GAME-PROCESSING PLANTS\n(a) small game birds: 0,005 EUR/animal,\n(b) small ground game: 0,01 EUR/animal,\n(c) ratites: 0,5 EUR/animal,\n(d) land mammals:\n(i) boar: 1,5 EUR/animal,\n(ii) ruminants: 0,5 EUR/animal.\nIV. FEES OR CHARGES FOR THE OFFICIAL CONTROLS ON MILK PRODUCTION\n(a) 1 EUR per 30 tonnes\nand\n(b) 0,5 EUR/tonne thereafter.\nV. FEES OR CHARGES FOR THE OFFICIAL CONTROLS ON PRODUCING AND PLACING ON THE MARKET FISHERY PRODUCTS AND AQUACULTURE PRODUCTS\n(a) First placing on the market of fishery and aquaculture products:\n(i) 1 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,5 EUR/tonne thereafter.\n(b) First sale in fish market\n(i) 0,5 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,25 EUR/tonne thereafter;\n(c) First sale in case of lack of or insufficient gradation for freshness and/or size:\n(i) 1 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,5 EUR/tonne thereafter.",
+        "after": "ANNEX IV\nCHAPTER I\nFees or charges for the official controls on consignments of animals and goods entering the Union\nI. CONSIGNMENTS OF LIVE ANIMALS\n(a) Bovine animals, equidae, pigs, sheep, goats, poultry, rabbits and small game birds or ground game, wild boar and wild ruminants:\nEUR 55 per consignment, up to 6 tonnes, and\nEUR 9 per tonne, over 6 and up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\n(b) Animals of other species:\nEUR 55 per consignment, up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\nII. CONSIGNMENTS OF MEAT\nEUR 55 per consignment, up to 6 tonnes, and\nEUR 9 per tonne, over 6 and up to 46 tonnes, or\nEUR 420 per consignment, over 46 tonnes.\nIII. CONSIGNMENTS OF FISHERY PRODUCTS\n(a) Fishery products not in bulk:\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Fishery products, transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of fishery products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of fishery products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of fishery products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo of fishery products of more than 2000 tonnes.\nIV. CONSIGNMENTS OF MEAT PRODUCTS, POULTRY MEAT, WILD GAME MEAT, RABBIT MEAT OR FARMED GAME MEAT\n(a) EUR 55 per consignment, up to 6 tonnes, and\n(b) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(c) EUR 420 per consignment, over 46 tonnes.\nV. CONSIGNMENTS OF OTHER PRODUCTS OF ANIMAL ORIGIN DIFFERENT FROM MEAT PRODUCTS FOR HUMAN CONSUMPTION\n(a) Other products of animal origin for human consumption not in bulk;\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Other products of animal origin for human consumption transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo products of more than 2000 tonnes.\nVI. CONSIGNMENTS OF ANIMAL BY-PRODUCTS AND FEED OF ANIMAL ORIGIN\n(a) Consignment of animal by-product and feed of animal origin transported not in bulk:\n(i) EUR 55 per consignment, up to 6 tonnes, and\n(ii) EUR 9 per tonne, over 6 and up to 46 tonnes, or\n(iii) EUR 420 per consignment, over 46 tonnes.\n(b) Animal by-products and feed of animal origin, transported as break bulk shipment:\n(i) EUR 600 per vessel, with a cargo of products up to 500 tonnes,\n(ii) EUR 1200 per vessel, with a cargo of products over 500 and up to 1000 tonnes,\n(iii) EUR 2400 per vessel, with a cargo of products over 1000 and up to 2000 tonnes,\n(iv) EUR 3600 per vessel, with a cargo products of more than 2000 tonnes.\nVII. CONSIGNMENTS OF ANIMALS AND GOODS FROM THIRD COUNTRIES TRANSITING OR TRANSHIPPED\nEUR 30 for consignment increased by EUR 20 per quarter of an hour for every member of staff involved in the controls.\nVIII. CONSIGNMENTS OF PLANTS, PLANT PRODUCTS AND OTHER PRODUCTS, OBJECTS AND MATERIALS CAPABLE OF HARBOURING OR SPREADING PESTS OF PLANTS\n(a) For documentary checks: EUR 7 per consignment.\n(b) For identity checks:\n(i) EUR 7 per consignment up to a size of a truck load, a railway wagon load or the load of a container of comparable size,\n(ii) EUR 14 per consignment bigger than the above size.\n(c) For plant health checks, in accordance with the following specifications:\n(i) cuttings, seedlings (except forestry reproductive material), young plants of strawberries or of vegetables:\nEUR 17,5 per consignment up to 10000 in number,\nEUR 0,70 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(ii) shrubs, trees (other than cut Christmas trees), other woody nursery plants including forest reproductive material (other than seed):\nEUR 17,5 per consignment up to 10000 in number,\nEUR 0,44 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(iii) bulbs, corms, rhizomes, tubers, intended for planting (other than tubers of potatoes):\nEUR 17,5 per consignment up to 200 kg of weight,\nEUR 0,16 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(iv) seeds, tissue cultures:\nEUR 7,5 per consignment up to 100 kg of weight,\nEUR 0,175 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(v) other plants intended for planting, not specified elsewhere in this point:\nEUR 17,5 per consignment up to 5000 in number,\nEUR 0,18 per consignment for each additional 100 units,\nEUR 140 per consignment maximum fee,\n(vi) cut flowers:\nEUR 17,5 per consignment up to 20000 in number,\nEUR 0,14 per consignment for each additional 1000 units,\nEUR 140 per consignment maximum fee,\n(vii) branches with foliage, parts of conifers (other than cut Christmas trees):\nEUR 17,5 per consignment up to 100 kg of weight,\nEUR 1,75 per consignment for each additional 100 kg,\nEUR 140 per consignment maximum fee,\n(viii) cut Christmas trees:\nEUR 17,5 per consignment up to 1000 in number,\nEUR 1,75 per consignment for each additional 100 units,\nEUR 140 per consignment maximum fee,\n(ix) leaves of plants, such as herbs, spices and leafy vegetables:\nEUR 17,5 per consignment up to 100 kg of weight,\nEUR 1,75 per consignment for each additional 10 kg,\nEUR 140 per consignment maximum fee,\n(x) fruits, vegetables (other than leafy vegetables):\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\n(xi) tubers of potatoes:\nEUR 52,5 per lot up to 25000 kg of weight,\nEUR 52,5 per lot for each additional 25000 kg,\n(xii) wood (other than bark):\nEUR 17,5 per consignment up to 1000 m3 of volume,\nEUR 0,175 per consignment for each additional 10 m3,\n(xiii) soil and growing medium, bark:\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\nEUR 140 per consignment maximum fee,\n(xiv) grain:\nEUR 17,5 per consignment up to 25000 kg of weight,\nEUR 0,7 per consignment for each additional 1000 kg,\nEUR 700 per consignment maximum fee,\n(xv) other plants or plant products not specified elsewhere in this point:\nEUR 17,5 per consignment.\nWhere a consignment does not consist exclusively of products coming under the description of the relevant indent, those parts thereof consisting of products coming under the description of the relevant indent (lot or lots) shall be treated as a separate consignment.\nCHAPTER II\nFees or charges for the official controls in slaughterhouses, cutting plants, game-processing plants, milk production and producing and placing on the market fishery products and aquaculture products\nI. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN SLAUGHTERHOUSES\n(a) Beef meat:\n(i) adult bovine animals: 5 EUR/animal,\n(ii) young bovine animals: 2 EUR/animal,\n(b) solipeds/equidae meat: 3 EUR/animal,\n(c) pigmeat: animals of a carcass weight:\n(i) of less than 25 kg: 0,5 EUR/animal,\n(ii) equal to or greater than 25 kg: 1 EUR/animal,\n(d) sheepmeat and goatmeat: animals of a carcass weight:\n(i) of less than 12 kg: 0,15 EUR/animal,\n(ii) equal to or greater than 12 kg: 0,25 EUR/animal,\n(e) poultry meat:\n(i) poultry of genus Gallus and guinea fowl: 0,005 EUR/animal,\n(ii) ducks and geese: 0,01 EUR/animal,\n(iii) turkeys: 0,025 EUR/animal,\n(iv) farmed rabbit meat: 0,005 EUR/animal,\n(v) quails and partridges: 0,002 EUR/animal.\nII. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN CUTTING PLANTS\nPer tonne of meat:\n(a) beef, veal, pig, solipeds/equidae, sheep and goatmeat: 2 EUR,\n(b) poultry and farmed rabbit meat: 1,5 EUR,\n(c) farmed and wild game meat:\nsmall game birds and ground game: 1,5 EUR,\nratites (ostrich, emu, nandou): 3 EUR,\nboar and ruminants: 2 EUR.\nIII. FEES OR CHARGES FOR THE OFFICIAL CONTROLS IN GAME-PROCESSING PLANTS\n(a) small game birds: 0,005 EUR/animal,\n(b) small ground game: 0,01 EUR/animal,\n(c) ratites: 0,5 EUR/animal,\n(d) land mammals:\n(i) boar: 1,5 EUR/animal,\n(ii) ruminants: 0,5 EUR/animal.\nIV. FEES OR CHARGES FOR THE OFFICIAL CONTROLS ON MILK PRODUCTION\n(a) 1 EUR per 30 tonnes\nand\n(b) 0,5 EUR/tonne thereafter.\nV. FEES OR CHARGES FOR THE OFFICIAL CONTROLS ON PRODUCING AND PLACING ON THE MARKET FISHERY PRODUCTS AND AQUACULTURE PRODUCTS\n(a) First placing on the market of fishery and aquaculture products:\n(i) 1 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,5 EUR/tonne thereafter.\n(b) First sale in fish market\n(i) 0,5 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,25 EUR/tonne thereafter;\n(c) First sale in case of lack of or insufficient gradation for freshness and/or size:\n(i) 1 EUR/tonne for the first 50 tonnes in the month;\n(ii) 0,5 EUR/tonne thereafter.",
+        "previous_location": null,
+        "changed_within": [
+          "AN IV"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2019-12-14, 2021-10-28]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32021R1756, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only textual difference between the two versions is that the Chapter II heading changes the capitalization of the word for aquaculture products, from an irregular capital S in the middle of the word to a lowercase s.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20191214",
+                "location": "AN IV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#anx_IV",
+              "label": "Annex IV, 02017R0625-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20211028",
+                "location": "AN IV"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#anx_IV",
+              "label": "Annex IV, 02017R0625-20211028"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0625",
+      "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+    },
+    "from_version": "02017R0625-20191214",
+    "to_version": "02017R0625-20211028",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 18",
+          "AR 47",
+          "AN IV"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 18",
+          "AR 47"
+        ],
+        "note": "4 annotations in (2019-12-14, 2021-10-28]",
+        "claims": [
+          {
+            "location": "AR 18 PA 7 PTA (g)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-10-28",
+            "source": "32021R1756 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2021-10-28",
+            "source": "32021R1756 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 47 PA 1 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-10-28",
+            "source": "32021R1756 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 8 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-10-28",
+            "source": "32021R1756 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 18",
+          "AR 47"
+        ],
+        "note": "32021R1756, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 4 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 7 PTA (g)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 8 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 47 PA 1 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R1756",
+              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN IV",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 4,
+    "explained": 3,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 33591,
+      "output_tokens": 1066,
+      "requests": 4,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 4,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 5,
+    "citations": 8,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
