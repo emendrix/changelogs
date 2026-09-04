@@ -3862,7 +3862,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20200101` → `02008R1272-20200501`
 
-- **Act** `eu:32008R1272` · **In force** 2020-05-01 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2020-05-01 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
@@ -3876,7 +3876,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+*No explanation shipped — the explainer could not be reached when this entry was written, so no explanation is shipped yet; the verbatim before and after texts are unaffected.*
 
 *before* (`02008R1272-20200101`)
 
@@ -3889,7 +3889,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1995695 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1995697 characters omitted…]
 
 *after* (`02008R1272-20200501`)
 
@@ -3902,7 +3902,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000766 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000767 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20200501 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20200101 -->
