@@ -157,7 +157,7 @@ Paragraph 3 changes the deadline for ESMA to submit draft regulatory technical s
 - **Act** `eu:32014R0600` · **In force** 2024-03-28 · **Detected** 2026-08-13
 - **Touched** 52 provisions — 52 substantive · 0 date-only · **2 disputed**
 - **Diff** 12 inserted · 38 modified · 2 deleted · 0 renumbered · 0 deferred · 45 unchanged
-- **Gate** 0 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20240109` · `v2` = `02014R0600-20240328`
 
 ---
@@ -206,7 +206,11 @@ Paragraph 6 was rewritten to reference Articles 8, 8a, 8b, 10 and 21 instead of 
 
 *within* `AR 2 PA 1 ALN 1 PO 8a`, `AR 2 PA 1 ALN 1 PO 11`, `AR 2 PA 1 ALN 1 PO 16a`, `AR 2 PA 1 ALN 1 PO 17 PTA (a)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (i)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (ii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (b)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (iii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (b)`, `AR 2 PA 1 ALN 1 PO 32a`, `AR 2 PA 1 ALN 1 PO 35`, `AR 2 PA 1 ALN 1 PO 36b`, `AR 2 PA 1 ALN 1 PO 36c` · *amended by* `32024R0791`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+New defined terms are added, including SME growth market, designated publishing entity, OTC derivative, core market data and regulatory data, and the definitions of multilateral system and consolidated tape provider are rewritten with different wording and cross-references. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
+
+The liquid market definition in point 17 is restructured, with the criteria for Articles 9, 11 and now 11a split between bonds and other instruments and a new issuance-size criterion, while the Articles 4, 5 and 14 limb replaces free float with market capitalisation. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
+
+The consolidated tape provider definition changes what is collected and consolidated, from trade reports for specified articles into core market data and regulatory data referenced under Title IVa, Chapter 1. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
 
 *before* (`02014R0600-20240109`)
 
@@ -313,7 +317,11 @@ References throughout to the waivers in Article 4(1)(a) and 4(1)(b)(i) are narro
 
 *within* `AR 8`, `AR 8 PA 1 ALN 1`, `AR 8 PA 2 ALN 1` · *amended by* `32024R0791`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading and the body of Article 8 no longer refer to derivatives, so the pre-trade transparency obligation in paragraph 1 now covers only bonds, structured finance products and emission allowances, dropping the earlier references to derivatives, package orders, actionable indications of interest, and the exemption for non-financial counterparties' risk-reducing derivative transactions. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8)
+
+Paragraph 1 now specifies that the obligation applies only when a central limit order book or a periodic auction trading system is used, a qualification absent from the earlier text. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8)
+
+Paragraph 2 no longer lists order-book, quote-driven, hybrid, periodic auction trading and voice trading systems as examples of trading systems for which the transparency requirements must be calibrated, referring instead only to different types of trading systems generally. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8)
 
 *before* (`02014R0600-20240109`)
 
@@ -1135,7 +1143,11 @@ Paragraph 4b states that an APA shall keep records relating to its business at t
 
 *within* `AR 27h PA 1 ALN 1`, `AR 27h PA 1 ALN 1 PTA (a)`, `AR 27h PA 1 ALN 1 PTA (b)`, `AR 27h PA 1 ALN 1 PTA (c)`, `AR 27h PA 1 ALN 1 PTA (d)`, `AR 27h PA 1 ALN 1 PTA (e)`, `AR 27h PA 1 ALN 1 PTA (f)`, `AR 27h PA 1 ALN 1 PTA (g)`, `AR 27h PA 1 ALN 2`, `AR 27h PA 1 ALN 2 PTA (a)`, `AR 27h PA 1 ALN 2 PTA (b)`, `AR 27h PA 1 ALN 2 PTA (c)`, `AR 27h PA 1 ALN 2 PTA (d)`, `AR 27h PA 1 ALN 2 PTA (e)`, `AR 27h PA 1 ALN 2 PTA (f)`, `AR 27h PA 1 ALN 2 PTA (g)`, `AR 27h PA 1 ALN 2 PTA (h)`, `AR 27h PA 1 ALN 2 PTA (i)`, `AR 27h PA 1 ALN 2 PTA (j)`, `AR 27h PA 1 ALN 3`, `AR 27h PA 2 ALN 1`, `AR 27h PA 2 ALN 1 PTA (a)`, `AR 27h PA 2 ALN 1 PTA (b)`, `AR 27h PA 2 ALN 1 PTA (c)`, `AR 27h PA 2 ALN 1 PTA (d)`, `AR 27h PA 2 ALN 1 PTA (e)`, `AR 27h PA 2 ALN 1 PTA (f)`, `AR 27h PA 2 ALN 1 PTA (g)`, `AR 27h PA 2 ALN 1 PTA (h)`, `AR 27h PA 2 ALN 2`, `AR 27h PA 3 ALN 1`, `AR 27h PA 4 ALN 1`, `AR 27h PA 4 ALN 2`, `AR 27h PA 5 ALN 1`, `AR 27h PA 6 ALN 1`, `AR 27h PA 6 ALN 1 PTA (a)`, `AR 27h PA 6 ALN 1 PTA (b)`, `AR 27h PA 6 ALN 1 PTA (c)`, `AR 27h PA 6 ALN 2`, `AR 27h PA 7 ALN 1`, `AR 27h PA 7 ALN 1 PTA (a)`, `AR 27h PA 7 ALN 1 PTA (b)`, `AR 27h PA 7 ALN 1 PTA (c)`, `AR 27h PA 7 ALN 2`, `AR 27h PA 7 ALN 3`, `AR 27h PA 8 ALN 1`, `AR 27h PA 8 ALN 1 PTA (a)`, `AR 27h PA 8 ALN 1 PTA (b)`, `AR 27h PA 8 ALN 1 PTA (c)`, `AR 27h PA 8 ALN 1 PTA (c) PTI (i)`, `AR 27h PA 8 ALN 1 PTA (c) PTI (ii)`, `AR 27h PA 8 ALN 1 PTA (d)`, `AR 27h PA 8 ALN 1 PTA (e)`, `AR 27h PA 8 ALN 2`, `AR 27h PA 8 ALN 3`, `AR 27h PA 8 ALN 4` · *dates* +2019-03-27 +2024-12-29 · *amended by* `32024R0791`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision was rewritten entirely, replacing the earlier requirements to collect and publish transaction data with a new set of duties covering data collection by asset class, free access for retail investors, academics, civil society organisations and competent authorities, dissemination as core market data and regulatory data, error-checking of contributor data, and competition-distortion safeguards where a CTP is controlled by a group of economic operators. [Art. 27h, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_27h) [Art. 27h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_27h)
+
+The new text also adds provisions on service level standards, security arrangements between contributors, the CTP and users, published lists of covered instruments, and a revenue redistribution scheme for shares and ETFs based on defined criteria and weightings to be specified by ESMA regulatory technical standards. [Art. 27h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_27h)
+
+The earlier paragraphs on conflicts of interest, reasonable commercial basis for data access, and the list of specific data fields to be published have been removed and are not present in the revised text. [Art. 27h, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_27h)
 
 *before* (`02014R0600-20240109`)
 
@@ -1322,7 +1334,9 @@ New paragraphs 4a to 4d are added, setting out ESMA's ability to request that th
 
 *amended by* `32024R0791`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+A new Article 32a is added, setting out a mechanism by which the Commission may, at the request of a Member State's competent authority, adopt an implementing act suspending the derivative trading obligation under Article 28 for specific financial counterparties meeting certain market-making conditions. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_32a)
+
+The new provision also sets out procedures for consulting ESMA, extending the suspension to similarly situated counterparties in other Member States, applying the suspension to related counterparties, accompanying the implementing act with supporting evidence, publishing it in the register referred to in Article 34, and periodically reviewing whether the grounds for suspension still apply. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_32a)
 
 *after* (`02014R0600-20240328`)
 
@@ -1514,7 +1528,9 @@ The new article also allows a Member State meeting a specified pre-28 March 2024
 
 *within* `AR 50 PA 2 ALN 1`, `AR 50 PA 3 ALN 1`, `AR 50 PA 5 ALN 1` · *amended by* `32024R0791`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The list of articles whose delegated-act powers are covered by paragraphs 2, 3 and 5 has been changed, replacing references to Article 13(2), Article 15(5), Article 19(2) and (3), Article 27g(7) and Article 27h(7) with references to Article 5(10) and Article 8a(4), and altering the cross-references to Article 27 and Article 52 to cite different sub-paragraphs. [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_50)
+
+In paragraph 5 the conjunctions linking the listed articles were changed from "and" to "or" in several places, and paragraph 3 now refers to "a decision to revoke" rather than "a decision of revocation". [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_50)
 
 *before* (`02014R0600-20240109`)
 

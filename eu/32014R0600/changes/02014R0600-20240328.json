@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 2,
     "quoted": 0,
-    "unexplained": 7
+    "unexplained": 2
   },
   "changes": [
     {
@@ -249,11 +249,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "New defined terms are added, including SME growth market, designated publishing entity, OTC derivative, core market data and regulatory data, and the definitions of multilateral system and consolidated tape provider are rewritten with different wording and cross-references.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2",
+              "label": "Art. 2, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "The liquid market definition in point 17 is restructured, with the criteria for Articles 9, 11 and now 11a split between bonds and other instruments and a new issuance-size criterion, while the Articles 4, 5 and 14 limb replaces free float with market capitalisation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_2",
+              "label": "Art. 2, 02014R0600-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2",
+              "label": "Art. 2, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "The consolidated tape provider definition changes what is collected and consolidated, from trade reports for specified articles into core market data and regulatory data referenced under Title IVa, Chapter 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2",
+              "label": "Art. 2, 02014R0600-20240328"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -624,11 +695,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading and the body of Article 8 no longer refer to derivatives, so the pre-trade transparency obligation in paragraph 1 now covers only bonds, structured finance products and emission allowances, dropping the earlier references to derivatives, package orders, actionable indications of interest, and the exemption for non-financial counterparties' risk-reducing derivative transactions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_8",
+              "label": "Art. 8, 02014R0600-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8",
+              "label": "Art. 8, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 1 now specifies that the obligation applies only when a central limit order book or a periodic auction trading system is used, a qualification absent from the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8",
+              "label": "Art. 8, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 no longer lists order-book, quote-driven, hybrid, periodic auction trading and voice trading systems as examples of trading systems for which the transparency requirements must be calibrated, referring instead only to different types of trading systems generally.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_8",
+              "label": "Art. 8, 02014R0600-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_8",
+              "label": "Art. 8, 02014R0600-20240328"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4601,11 +4756,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision was rewritten entirely, replacing the earlier requirements to collect and publish transaction data with a new set of duties covering data collection by asset class, free access for retail investors, academics, civil society organisations and competent authorities, dissemination as core market data and regulatory data, error-checking of contributor data, and competition-distortion safeguards where a CTP is controlled by a group of economic operators.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 27h"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_27h",
+              "label": "Art. 27h, 02014R0600-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 27h"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_27h",
+              "label": "Art. 27h, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "The new text also adds provisions on service level standards, security arrangements between contributors, the CTP and users, published lists of covered instruments, and a revenue redistribution scheme for shares and ETFs based on defined criteria and weightings to be specified by ESMA regulatory technical standards.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 27h"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_27h",
+              "label": "Art. 27h, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "The earlier paragraphs on conflicts of interest, reasonable commercial basis for data access, and the list of specific data fields to be published have been removed and are not present in the revised text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 27h"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_27h",
+              "label": "Art. 27h, 02014R0600-20240109"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5339,11 +5565,50 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 32a is added, setting out a mechanism by which the Commission may, at the request of a Member State's competent authority, adopt an implementing act suspending the derivative trading obligation under Article 28 for specific financial counterparties meeting certain market-making conditions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 32a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_32a",
+              "label": "Art. 32a, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "The new provision also sets out procedures for consulting ESMA, extending the suspension to similarly situated counterparties in other Member States, applying the suspension to related counterparties, accompanying the implementing act with supporting evidence, publishing it in the register referred to in Article 34, and periodically reviewing whether the grounds for suspension still apply.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 32a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_32a",
+              "label": "Art. 32a, 02014R0600-20240328"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6163,11 +6428,63 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of articles whose delegated-act powers are covered by paragraphs 2, 3 and 5 has been changed, replacing references to Article 13(2), Article 15(5), Article 19(2) and (3), Article 27g(7) and Article 27h(7) with references to Article 5(10) and Article 8a(4), and altering the cross-references to Article 27 and Article 52 to cite different sub-paragraphs.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240109",
+                "location": "AR 50"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_50",
+              "label": "Art. 50, 02014R0600-20240109"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 50"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_50",
+              "label": "Art. 50, 02014R0600-20240328"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 5 the conjunctions linking the listed articles were changed from \"and\" to \"or\" in several places, and paragraph 3 now refers to \"a decision to revoke\" rather than \"a decision of revocation\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0600",
+                  "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02014R0600-20240328",
+                "location": "AR 50"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_50",
+              "label": "Art. 50, 02014R0600-20240328"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -10006,6 +10323,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 5,
+      "repaired": 5,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 73180,
+        "output_tokens": 3269,
+        "requests": 10,
+        "schema_repairs": 5
       },
       "coordinates_checked": false
     }
