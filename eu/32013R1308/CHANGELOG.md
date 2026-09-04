@@ -10,6 +10,63 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20241108 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20240513` → `02013R1308-20241108`
+
+- **Act** `eu:32013R1308` · **In force** 2024-11-08 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 257 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20240513` · `v2` = `02013R1308-20241108`
+
+---
+
+**MODIFIED · Annex VII — ANNEX VII** · applies from: unchanged
+
+*within* `AN VII`, `AN VII PO 2a` · *amended by* `32023R2464`
+
+In Part VI, point III(2), the marking of eggs is now stated to take place only at the production site, removing the earlier reference to marking at the first packing centre to which eggs are delivered. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#anx_VII) [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#anx_VII)
+
+A new point 2a has been added allowing Member States to exempt eggs from the point 2 marking requirement, based on objective criteria, when marking is instead carried out at the first packing centre to which eggs are delivered. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#anx_VII)
+
+*before* (`02013R1308-20240513`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 52692 characters omitted…]
+
+*after* (`02013R1308-20241108`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 52828 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20241108 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20240513 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20231208` → `02013R1308-20240513`
