@@ -10,6 +10,103 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20160731 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20160726` → `02013R1308-20160731`
+
+- **Act** `eu:32013R1308` · **In force** 2016-07-31 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20160726` · `v2` = `02013R1308-20160731`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32016R1226`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex IX — ANNEX IX** · applies from: unchanged
+
+*within* `AN IX` · *amended by* `32016R1226`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The spacing and punctuation of two terms changed: "extensive indoor / barn-reared" lost its spaces around the slash, and the dash in "free range – total freedom" was replaced with a different dash character. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160726#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#anx_IX)
+
+Three olive oil descriptive terms were reworded: "fruity" became "fruitiness", "intense" became "robust", and "light" became "delicate". [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160726#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#anx_IX)
+
+*before* (`02013R1308-20160726`)
+
+> ANNEX IX
+> OPTIONAL RESERVED TERMS
+> Product category
+> (reference to combined nomenclature classification) Optional reserved term
+> poultrymeat
+> (CN codes 0207 and 0210) fed with … % of …
+> oats fed goose
+> extensive indoor / barn-reared
+> free range
+> traditional free range
+> free range – total freedom
+> age at slaughter
+> length of fattening period
+> eggs
+> (CN code 0407) fresh
+> extra or extra fresh
+> indication on how laying hens are fed
+> olive oil
+> (CN code 1509) first cold pressing
+> cold extraction
+> acidity
+> pungent
+> fruity: ripe or green
+> bitter
+> intense
+> medium
+> light
+> well-balanced
+> mild oil
+
+*after* (`02013R1308-20160731`)
+
+> ANNEX IX
+> OPTIONAL RESERVED TERMS
+> Product category
+> (reference to combined nomenclature classification) Optional reserved term
+> poultrymeat
+> (CN codes 0207 and 0210) fed with … % of …
+> oats fed goose
+> extensive indoor/barn-reared
+> free range
+> traditional free range
+> free range — total freedom
+> age at slaughter
+> length of fattening period
+> eggs
+> (CN code 0407) fresh
+> extra or extra fresh
+> indication on how laying hens are fed
+> olive oil
+> (CN code 1509) first cold pressing
+> cold extraction
+> acidity
+> pungent
+> fruitiness: ripe or green
+> bitter
+> robust
+> medium
+> delicate
+> well-balanced
+> mild oil
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20160731 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20160726 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20140101` → `02013R1308-20160726`
