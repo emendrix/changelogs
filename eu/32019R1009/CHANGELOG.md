@@ -10,6 +10,67 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20260701 -->
+## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
+### `02019R1009-20251230` → `02019R1009-20260701`
+
+- **Act** `eu:32019R1009` · **In force** 2026-07-01 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02019R1009-20251230` · `v2` = `02019R1009-20260701`
+
+---
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+
+*within* `AN IV` · *amended by* `32025R1421`
+
+A new sentence has been added in Module A1, point 4, requiring that the thermal cycles and tests referred to in points 4.3 and 4.4 be carried out in laboratories accredited for those activities by a national accreditation body. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+
+The rest of the visible text of the Annex, including Parts I and II up to and beyond Module A1, is unchanged between the two versions. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20251230#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+
+Both texts are truncated before their end, so no difference beyond the shown portion can be described. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+
+*before* (`02019R1009-20251230`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69780 characters omitted…]
+
+*after* (`02019R1009-20260701`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69954 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1009-20260701 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20251230 -->
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20241120` → `02019R1009-20251230`
