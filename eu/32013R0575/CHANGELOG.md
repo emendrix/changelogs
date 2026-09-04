@@ -39375,7 +39375,7 @@ The substantive text of paragraphs 1, 2 and 3, including all listed conditions, 
 
 *within* `AR 8`, `AR 8 PA 1 ALN 1 PTA (c)`, `AR 8 PA 1 ALN 2`, `AR 8 PA 4 ALN 1`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -40991,7 +40991,7 @@ The only change is the replacement of the word "and" with "or" in the cross-refe
 
 *within* `AR 92 PA 3 ALN 1 PTA (a)`, `AR 92 PA 3 ALN 1 PTA (f)`, `AR 92 PA 4 ALN 1`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -41405,7 +41405,7 @@ Paragraph 14(2) changes the deadline by which EBA must submit the draft regulato
 
 *within* `AR 106 PA 1 ALN 1 PTA (e)`, `AR 106 PA 1 ALN 2`, `AR 106 PA 3 ALN 1`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -42773,7 +42773,7 @@ The introductory wording of paragraph 1 changes from stating the formulae are ca
 
 *within* `AR 155`, `AR 155 PA 1 ALN 1`, `AR 155 PA 1 ALN 2`, `AR 155 PA 2 ALN 1`, `AR 155 PA 3 ALN 1`, `AR 155 PA 3 ALN 2`, `AR 155 PA 4 ALN 1`, `AR 155 PA 4 ALN 1 PTA (a)`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -43082,7 +43082,7 @@ The wording of paragraph 1 is unchanged apart from a formatting difference, with
 
 *within* `AR 164 PA 5 ALN 1`, `AR 164 PA 7 ALN 1`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -45153,7 +45153,7 @@ References to supervisory volatility adjustments in paragraph 1's closing text a
 
 *within* `AR 286`, `AR 286 PA 1 ALN 2`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -46231,7 +46231,7 @@ Paragraph numbering formatting changes such that the numeral of each paragraph n
 
 *within* `AR 384 PA 1 ALN 1`, `AR 384 PA 1 ALN 1 PTA (b)`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -47368,7 +47368,7 @@ The same point also changed the closing phrase from obligations determined "acco
 
 *within* `AR 478 PA 2 ALN 1`, `AR 478 PA 2 ALN 1 PTA (a)`, `AR 478 PA 2 ALN 1 PTA (b)`, `AR 478 PA 2 ALN 1 PTA (c)`, `AR 478 PA 2 ALN 1 PTA (d)`, `AR 478 PA 2 ALN 1 PTA (e)`, `AR 478 PA 2 ALN 1 PTA (f)`, `AR 478 PA 2 ALN 1 PTA (g)`, `AR 478 PA 2 ALN 1 PTA (h)`, `AR 478 PA 2 ALN 1 PTA (i)`, `AR 478 PA 2 ALN 1 PTA (j)` · *dates* -2015-01-02 -2016-01-02 -2017-01-02 -2018-01-02 -2019-01-02 -2020-01-02 -2021-01-02 -2022-01-02 -2023-01-02 -2024-01-02 +2018-01-01 +2018-12-31 +2019-01-01 +2019-12-31 +2020-01-01 +2020-12-31 +2021-01-01 +2021-12-31 +2022-01-01 +2022-12-31 +2023-01-01 +2023-12-31
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
@@ -47694,7 +47694,7 @@ These wording adjustments are formatting and phrasing changes without altering t
 
 *within* `AR 490 PA 1 ALN 1`, `AR 490 PA 2 ALN 1`, `AR 490 PA 3 ALN 1`, `AR 490 PA 4 ALN 1`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32013R0575`)
 
