@@ -1439,9 +1439,9 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 ### `02014R0806-20201228` → `02014R0806-20210626`
 
 - **Act** `eu:32014R0806` · **In force** 2021-06-26 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20201228` · `v2` = `02014R0806-20210626`
 
 ---
@@ -1449,8 +1449,6 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 **MODIFIED · Art. 12a — Application and calculation of the minimum requirement for own funds and eligible liabilities** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 12a PA 3` · *dates* +2019-11-27 · *amended by* `32019R2033`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — ModelAPIError: Connection error..*
 
@@ -1472,16 +1470,6 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 > (a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
 > (b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
 > 3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment fi […truncated by emendrix: 1365 characters omitted…]
-
-**MODIFIED · Art. 64** · applies from: unknown
-
-*amended by* `32019R2033`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20210626 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20201228 -->
