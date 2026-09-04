@@ -29715,7 +29715,7 @@ In paragraph 1, the word describing the entities subject to the reporting requir
 - **Act** `eu:32013R0575` · **In force** 2019-06-27 · **Detected** 2026-08-13
 - **Touched** 292 provisions — 292 substantive · 0 date-only · **215 disputed**
 - **Diff** 164 inserted · 128 modified · 1 deleted · 0 renumbered · 0 deferred · 477 unchanged
-- **Gate** 0 sentences quoted verbatim · 134 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 131 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20190426` · `v2` = `02013R0575-20190627`
 
 ---
@@ -30050,7 +30050,11 @@ The remaining paragraphs, including paragraphs 2 through 8, are unchanged in wor
 
 *within* `AR 26 PA 3 ALN 1`, `AR 26 PA 3 ALN 2`, `AR 26 PA 3 ALN 2 PTA (a)`, `AR 26 PA 3 ALN 2 PTA (b)`, `AR 26 PA 3 ALN 3`, `AR 26 PA 3 ALN 4`, `AR 26 PA 3 ALN 5` · *dates* -2013-06-28 · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 3 no longer references the 28 June 2013 issuance date or the earlier requirement tied to it, and instead sets out a general permission requirement for classifying capital instrument issuances as Common Equity Tier 1 instruments, with a new derogation allowing subsequent issuances of an already-permitted form to be classified without fresh permission if the governing provisions are substantially the same and competent authorities are notified in advance. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26)
+
+The text adds a requirement that competent authorities consult EBA before granting permission for new forms of capital instruments, that they have due regard to EBA's opinion, and that they explain in writing within three months any decision to deviate from that opinion, with this consultation duty and the list-removal mechanism now expressly excluding the instruments referred to in Article 31. [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26)
+
+The provisions on EBA's list of qualifying instruments are reworded to describe EBA collecting information from competent authorities under Article 35 of Regulation (EU) No 1093/2010 and to allow EBA, after the Article 80 review, to decide not to add or to remove instruments from the list and to announce that decision along with the relevant competent authority's position, replacing the earlier wording that referred to removing non-State aid instruments issued after 28 June 2013. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26)
 
 *before* (`02013R0575-20190426`)
 
@@ -31061,7 +31065,11 @@ Paragraph 3's reference to the definition being reviewed was changed from own fu
 
 *within* `AR 81 PA 1 ALN 1`, `AR 81 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 81 PA 1 ALN 1 PTA (c)` · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The description of what minority interests comprise was changed from listing Common Equity Tier 1 instruments, related share premium accounts, retained earnings and other reserves separately to referring simply to Common Equity Tier 1 items of a subsidiary. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81)
+
+A new point (iii) was added listing an intermediate financial holding company in a third country subject to prudential requirements as stringent as those applied to credit institutions of that third country, where the Commission has decided under Article 107(4) that those requirements are at least equivalent to those of the Regulation, as one of the types of subsidiary that can satisfy point (a). [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81)
+
+Point (c) was reworded only by inserting a comma after the reference to Common Equity Tier 1 items, with no other change to its substance. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81)
 
 *before* (`02013R0575-20190426`)
 
@@ -31405,7 +31413,11 @@ Point (a) previously referred only to the Union, whereas it now names both the E
 
 *within* `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 1 PTA (a)`, `AR 124 PA 4 ALN 1 PTA (b)`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)` · *dates* -2014-12-31 +2019-12-31 · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 4 now requires EBA to develop the regulatory technical standards in close cooperation with the ESRB, and it collapses the previous two-point list into a single description covering rigorous criteria for mortgage lending value and the types of factors relevant to assessing risk-weight appropriateness under paragraph 2, with the Commission submission deadline changed from 31 December 2014 to 31 December 2019. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124)
+
+The delegation of power to the Commission is now described as supplementing the Regulation by adopting those technical standards, rather than simply adopting them. [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124)
+
+Paragraph 5 no longer states that institutions of one Member State apply risk weights and criteria set by another Member State's competent authorities, and instead describes the ESRB, acting under Article 16 of Regulation (EU) No 1092/2010 and in close cooperation with EBA, giving guidance to authorities designated under a paragraph 1a on factors affecting financial stability and on indicative benchmarks for setting higher risk weights. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124)
 
 *before* (`02013R0575-20190426`)
 

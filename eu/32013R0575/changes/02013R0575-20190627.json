@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 215,
     "quoted": 0,
-    "unexplained": 134
+    "unexplained": 131
   },
   "changes": [
     {
@@ -1697,11 +1697,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 no longer references the 28 June 2013 issuance date or the earlier requirement tied to it, and instead sets out a general permission requirement for classifying capital instrument issuances as Common Equity Tier 1 instruments, with a new derogation allowing subsequent issuances of an already-permitted form to be classified without fresh permission if the governing provisions are substantially the same and competent authorities are notified in advance.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_26",
+              "label": "Art. 26, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26",
+              "label": "Art. 26, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "The text adds a requirement that competent authorities consult EBA before granting permission for new forms of capital instruments, that they have due regard to EBA's opinion, and that they explain in writing within three months any decision to deviate from that opinion, with this consultation duty and the list-removal mechanism now expressly excluding the instruments referred to in Article 31.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26",
+              "label": "Art. 26, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "The provisions on EBA's list of qualifying instruments are reworded to describe EBA collecting information from competent authorities under Article 35 of Regulation (EU) No 1093/2010 and to allow EBA, after the Article 80 review, to decide not to add or to remove instruments from the list and to announce that decision along with the relevant competent authority's position, replacing the earlier wording that referred to removing non-State aid instruments issued after 28 June 2013.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_26",
+              "label": "Art. 26, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 26"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_26",
+              "label": "Art. 26, 02013R0575-20190627"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5874,11 +5958,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The description of what minority interests comprise was changed from listing Common Equity Tier 1 instruments, related share premium accounts, retained earnings and other reserves separately to referring simply to Common Equity Tier 1 items of a subsidiary.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_81",
+              "label": "Art. 81, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81",
+              "label": "Art. 81, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "A new point (iii) was added listing an intermediate financial holding company in a third country subject to prudential requirements as stringent as those applied to credit institutions of that third country, where the Commission has decided under Article 107(4) that those requirements are at least equivalent to those of the Regulation, as one of the types of subsidiary that can satisfy point (a).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81",
+              "label": "Art. 81, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "Point (c) was reworded only by inserting a comma after the reference to Common Equity Tier 1 items, with no other change to its substance.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_81",
+              "label": "Art. 81, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_81",
+              "label": "Art. 81, 02013R0575-20190627"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7293,11 +7461,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 4 now requires EBA to develop the regulatory technical standards in close cooperation with the ESRB, and it collapses the previous two-point list into a single description covering rigorous criteria for mortgage lending value and the types of factors relevant to assessing risk-weight appropriateness under paragraph 2, with the Commission submission deadline changed from 31 December 2014 to 31 December 2019.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_124",
+              "label": "Art. 124, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124",
+              "label": "Art. 124, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "The delegation of power to the Commission is now described as supplementing the Regulation by adopting those technical standards, rather than simply adopting them.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124",
+              "label": "Art. 124, 02013R0575-20190627"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 5 no longer states that institutions of one Member State apply risk weights and criteria set by another Member State's competent authorities, and instead describes the ESRB, acting under Article 16 of Regulation (EU) No 1092/2010 and in close cooperation with EBA, giving guidance to authorities designated under a paragraph 1a on factors affecting financial stability and on indicative benchmarks for setting higher risk weights.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_124",
+              "label": "Art. 124, 02013R0575-20190426"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190627",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_124",
+              "label": "Art. 124, 02013R0575-20190627"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -36599,6 +36851,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 19747,
+        "output_tokens": 1979,
+        "requests": 4,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }
