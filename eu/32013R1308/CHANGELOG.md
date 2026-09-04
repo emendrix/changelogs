@@ -10,6 +10,364 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20201229 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20190101` → `02013R1308-20201229`
+
+- **Act** `eu:32013R1308` · **In force** 2020-01-01, 2020-12-29 · **Detected** 2026-09-04
+- **Touched** 11 provisions — 11 substantive · 0 date-only · **2 disputed**
+- **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 237 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20190101` · `v2` = `02013R1308-20201229`
+
+---
+
+**MODIFIED · Art. 29 — Programmes to support the olive oil and table olives sector** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 29 PA 1 ALN 2`, `AR 29 PA 2 ALN 1`, `AR 29 PA 2 ALN 1 PTA (a)`, `AR 29 PA 2 ALN 1 PTA (b)`, `AR 29 PA 2 ALN 1 PTA (c)` · *dates* +2021-04-01 +2022-12-31 · *amended by* `32020R2220`
+
+A new sentence was added to paragraph 1 stating that work programmes drawn up for the period running from 1 April 2021 shall end on 31 December 2022. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_29)
+
+Paragraph 2 was restructured to specify separate annual funding figures for Greece, France and Italy for 2020 and then a separate, lower set of annual figures for each of 2021 and 2022, replacing the earlier single set of per-year amounts that applied without such a year-by-year split. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_29)
+
+*before* (`02013R1308-20190101`)
+
+> Article 29
+> Programmes to support the olive oil and table olives sector
+> 1. The Union shall finance three-year work programmes to be drawn up by producer organisations recognised under Article 152, associations of producer organisations recognised under Article 156 or interbranch organisations recognised under Article 157 in one or more of the following areas:
+> (a) market follow-up and management in the olive oil and table olives sector;
+> (b) the improvement of the environmental impact of olive cultivation;
+> (c) the improvement of the competitiveness of olive cultivation through modernisation;
+> (d) the improvement of the production quality of olive oil and table olives;
+> (e) the traceability system, the certification and protection of the quality of olive oil and table olives, in particular the monitoring of the quality of olive oils sold to final consumers, under the authority of the national administrations;
+> (f) the dissemination of information on measures carried out by producer organisations, associations of producer organisations or interbranch organisations to improve the quality of olive oil and table olives.
+> 2. The Union financing of the work programmes referred to in paragraph 1 shall be:
+> (a) EUR 11098000 per year for Greece;
+> (b) EUR 576000 per year for France; and
+> (c) EUR 35991000 per year for Italy.
+> 3. The maximum Union funding for the work programmes referred to in paragraph 1 shall be equal to the amounts withheld by the Member States. The maximum funding of the eligibl […truncated by emendrix: 667 characters omitted…]
+
+*after* (`02013R1308-20201229`)
+
+> Article 29
+> Programmes to support the olive oil and table olives sector
+> 1. The Union shall finance three-year work programmes to be drawn up by producer organisations recognised under Article 152, associations of producer organisations recognised under Article 156 or interbranch organisations recognised under Article 157 in one or more of the following areas:
+> (a) market follow-up and management in the olive oil and table olives sector;
+> (b) the improvement of the environmental impact of olive cultivation;
+> (c) the improvement of the competitiveness of olive cultivation through modernisation;
+> (d) the improvement of the production quality of olive oil and table olives;
+> (e) the traceability system, the certification and protection of the quality of olive oil and table olives, in particular the monitoring of the quality of olive oils sold to final consumers, under the authority of the national administrations;
+> (f) the dissemination of information on measures carried out by producer organisations, associations of producer organisations or interbranch organisations to improve the quality of olive oil and table olives.
+> Work programmes drawn up for the period running from 1 April 2021 shall end on 31 December 2022.
+> 2. The Union financing of the work programmes referred to in paragraph 1 for 2020 shall be:
+> (a) EUR 11098000 for Greece;
+> (b) EUR 576000 for France;
+> (c) EUR 35991000 for Italy.
+> The Union financing of the work programmes referred to in paragraph 1 for each of the years 2021 and […truncated by emendrix: 942 characters omitted…]
+
+**MODIFIED · Art. 33 — Operational programmes** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 33 PA 1 ALN 3`, `AR 33 PA 1 ALN 4` · *dates* +2020-12-29 +2022-12-31 · *amended by* `32020R2220`
+
+Two new subparagraphs were added to paragraph 1 stating that extensions of operational programmes approved after 29 December 2020, in line with the five-year maximum duration, may only run until 31 December 2022, and that new operational programmes approved after 29 December 2020 shall instead have a maximum duration of three years. [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_33)
+
+All other text of the article, including paragraphs 2 through 6, remains unchanged between the two versions. [Art. 33, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_33) [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_33)
+
+*before* (`02013R1308-20190101`)
+
+> Article 33
+> Operational programmes
+> 1. Operational programmes in the fruit and vegetables sector shall have a minimum duration of three years and a maximum duration of five years. They shall have at least two of the objectives referred to in point (c) of Article 152(1) or two of the following objectives:
+> (a) planning of production, including production and consumption forecasting and follow-up;
+> (b) improvement of product quality, whether in a fresh or processed form;
+> (c) boosting products' commercial value;
+> (d) promotion of the products, whether in a fresh or processed form;
+> (e) environmental measures, particularly those relating to water, and methods of production respecting the environment, including organic farming;
+> (f) crisis prevention and management, including providing coaching to other producer organisations, associations of producer organisations, producer groups or individual producers.
+> Operational programmes shall be submitted to the Member States for their approval.
+> 2. Associations of producer organisations may also present an entire or partial operational programme composed of measures identified, but not carried out, by member organisations under their operational programmes. The operational programmes of associations of producer organisations shall be subject to the same rules as operational programmes of producer organisations and shall be considered with the operational programmes of member organisations.
+> To that end, the Member States shall ensure that:
+> (a) me […truncated by emendrix: 4318 characters omitted…]
+
+*after* (`02013R1308-20201229`)
+
+> Article 33
+> Operational programmes
+> 1. Operational programmes in the fruit and vegetables sector shall have a minimum duration of three years and a maximum duration of five years. They shall have at least two of the objectives referred to in point (c) of Article 152(1) or two of the following objectives:
+> (a) planning of production, including production and consumption forecasting and follow-up;
+> (b) improvement of product quality, whether in a fresh or processed form;
+> (c) boosting products' commercial value;
+> (d) promotion of the products, whether in a fresh or processed form;
+> (e) environmental measures, particularly those relating to water, and methods of production respecting the environment, including organic farming;
+> (f) crisis prevention and management, including providing coaching to other producer organisations, associations of producer organisations, producer groups or individual producers.
+> Operational programmes shall be submitted to the Member States for their approval.
+> Operational programmes for which an extension in line with the maximum duration of five years referred to in the first subparagraph is to be approved after 29 December 2020 may only be extended until 31 December 2022.
+> By way of derogation from the first subparagraph, new operational programmes that are approved after 29 December 2020 shall have a maximum duration of three years.
+> 2. Associations of producer organisations may also present an entire or partial operational programme composed of measures iden […truncated by emendrix: 4700 characters omitted…]
+
+**MODIFIED · Art. 55 — National programmes and financing** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 55 PA 1 ALN 2` · *dates* +2019-08-01 +2022-07-31 +2022-12-31 · *amended by* `32020R2220`
+
+A new subparagraph is added to paragraph 1 stating that national programmes drawn up for the period from 1 August 2019 until 31 July 2022 are extended until 31 December 2022. [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_55)
+
+This same added text requires Member States to modify their national programmes to account for that extension and to notify the modified programmes to the Commission for approval. [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_55)
+
+The remainder of the provision, including paragraphs 2 through 4, is unchanged between the two versions. [Art. 55, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_55) [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_55)
+
+*before* (`02013R1308-20190101`)
+
+> Article 55
+> National programmes and financing
+> 1. With a view to improving general conditions for the production and marketing of apiculture products, Member States may draw up national programmes for the apiculture sector covering a period of three years ("apiculture programmes"). These programmes shall be developed in cooperation with representative organisations in the beekeeping field.
+> 2. The Union contribution to the apiculture programmes shall be equivalent to 50 % of the expenditure borne by Member States for those programmes, as approved in accordance with point (c) of the first paragraph of Article 57.
+> 3. To be eligible for the Union contribution provided for in paragraph 2, Member States shall carry out a study of the production and marketing structure in the beekeeping sector in their territory.
+> 4. The following measures may be included in apiculture programmes:
+> (a) technical assistance to beekeepers and beekeepers' organisations;
+> (b) combating beehive invaders and diseases, particularly varroasis;
+> (c) rationalisation of transhumance;
+> (d) measures to support laboratories for the analysis of apiculture products with the aim of helping beekeepers to market and increase the value of their products;
+> (e) measures to support the restocking of hives in the Union;
+> (f) cooperation with specialised bodies for the implementation of applied research programmes in the field of beekeeping and apiculture products;
+> (g) market monitoring;
+> (h) enhancement of product quality with a vie […truncated by emendrix: 56 characters omitted…]
+
+*after* (`02013R1308-20201229`)
+
+> Article 55
+> National programmes and financing
+> 1. With a view to improving general conditions for the production and marketing of apiculture products, Member States may draw up national programmes for the apiculture sector covering a period of three years ("apiculture programmes"). These programmes shall be developed in cooperation with representative organisations in the beekeeping field.
+> By way of derogation from the first subparagraph, national programmes drawn up for the period running from 1 August 2019 until 31 July 2022 shall be extended until 31 December 2022. Member States shall modify their national programmes to take account of that extension and shall notify the modified programmes to the Commission for their approval.
+> 2. The Union contribution to the apiculture programmes shall be equivalent to 50 % of the expenditure borne by Member States for those programmes, as approved in accordance with point (c) of the first paragraph of Article 57.
+> 3. To be eligible for the Union contribution provided for in paragraph 2, Member States shall carry out a study of the production and marketing structure in the beekeeping sector in their territory.
+> 4. The following measures may be included in apiculture programmes:
+> (a) technical assistance to beekeepers and beekeepers' organisations;
+> (b) combating beehive invaders and diseases, particularly varroasis;
+> (c) rationalisation of transhumance;
+> (d) measures to support laboratories for the analysis of apiculture products with the aim of […truncated by emendrix: 404 characters omitted…]
+
+**MODIFIED · Art. 58 — Aid to producer organisations** · applies from: unchanged
+
+*within* `AR 58 PA 2 ALN 1`, `AR 58 PA 2 ALN 2` · *amended by* `32020R2220`
+
+Paragraph 2 now specifies that the EUR 2277000 Union financing figure for Germany applies specifically for 2020, rather than being stated as a per-year amount without a year attached. [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_58)
+
+A new sentence has been added setting the Union financing for Germany at EUR 2188000 for each of the years 2021 and 2022. [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_58)
+
+*before* (`02013R1308-20190101`)
+
+> Article 58
+> Aid to producer organisations
+> 1. The Union shall grant an aid to producer organisations in the hops sector recognised in accordance with Article 152 to finance the pursuit of the aims referred to in points (c)(i), (ii) or (iii) of Article 152(1).
+> 2. The Union financing for the aid to producer organisations provided for in paragraph 1 shall be EUR 2277000 per year for Germany.
+
+*after* (`02013R1308-20201229`)
+
+> Article 58
+> Aid to producer organisations
+> 1. The Union shall grant an aid to producer organisations in the hops sector recognised in accordance with Article 152 to finance the pursuit of the aims referred to in points (c)(i), (ii) or (iii) of Article 152(1).
+> 2. The Union financing for the aid to producer organisations provided for in paragraph 1 for 2020 shall be EUR 2277000 for Germany.
+> The Union financing for the aid to producer organisations provided for in paragraph 1 for each of the years 2021 and 2022 shall be EUR 2188000 for Germany.
+
+**MODIFIED · Art. 62 — Authorisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 62 PA 3 ALN 2`, `AR 62 PA 3 ALN 3` · *dates* +2021-02-28 +2021-12-31 · *amended by* `32020R2220`
+
+Paragraph 3 gains two new subparagraphs concerning authorisations granted under Article 64 and Article 66(1) that expire in 2020. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_62)
+
+The added text extends the validity of such authorisations to 31 December 2021 and states that producers holding them avoid the administrative penalty referred to in Article 89(4) of Regulation (EU) No 1306/2013 if they notify the competent authorities by 28 February 2021 that they do not intend to use the authorisation and do not wish to benefit from the extension. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_62)
+
+The corresponding earlier version of paragraph 3 contained only the original two sentences on the three-year validity period and the administrative penalty for unused authorisations, without any such derogation. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_62)
+
+*before* (`02013R1308-20190101`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> 4. This Chapter shall not apply to the planting or replanting of areas intended for experimental purposes or for graft nurseries, to areas whose wine or vine products are intended solely for the consumption by the wine-grower's household or to areas to be newly planted as a result of compulsory purchases in the public interest under national law.
+> 5. Member States may apply this Chapter to areas producing wine suitable for producing wine spirits with a geographical indication as registered in accordance with Annex III to Regulation (EC) No 110/2008 of the European Parliament and of the […truncated by emendrix: 475 characters omitted…]
+
+*after* (`02013R1308-20201229`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> By way of derogation from the first subparagraph, the validity of authorisations granted in accordance with Article 64 and Article 66(1), which expires in the year 2020, is extended until 31 December 2021.
+> Producers who hold authorisations in accordance with Article 64 and Article 66(1) of this Regulation, which expire in 2020, shall not, by way of derogation from the first subparagraph of this paragraph, be subject to the administrative penalty referred to in Article 89(4) of Regulation (EU) No 1306/2013 provided that they inform the competent authorities by 28 February 2021 that they […truncated by emendrix: 1242 characters omitted…]
+
+**MODIFIED · Art. 68 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 68 PA 1 ALN 2`, `AR 68 PA 2 ALN 1` · *dates* -2020-12-31 -2023-12-31 +2022-12-31 +2025-12-31 · *amended by* `32020R2220`
+
+The deadline by which Member States may allow producers to submit a request to convert planting rights into authorisations was changed from 31 December 2020 to 31 December 2022. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_68)
+
+The latest expiry date for unused authorisations, in cases where a Member State has taken that decision, was changed from 31 December 2023 to 31 December 2025. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_68)
+
+*before* (`02013R1308-20190101`)
+
+> Article 68
+> Transitional provisions
+> 1. Planting rights granted to producers in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 before 31 December 2015 which have not been used by those producers and are still valid by that date may be converted into authorisations under this Chapter as from 1 January 2016.
+> Such conversion shall take place upon a request to be submitted by those producers before 31 December 2015. Member States may decide to allow producers to submit such a request to convert rights into authorisations until 31 December 2020.
+> 2. Authorisations granted pursuant to paragraph 1 shall have the same period of validity as the planting rights referred to in paragraph 1. If these authorisations are not used, they shall expire at the latest by 31 December 2018, or, where a Member State has taken the decision referred to in the second subparagraph of paragraph 1, at the latest by 31 December 2023.
+> 3. The areas covered by the authorisations granted pursuant to paragraph 1 shall be not be counted for the purposes of Article 63.
+
+*after* (`02013R1308-20201229`)
+
+> Article 68
+> Transitional provisions
+> 1. Planting rights granted to producers in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 before 31 December 2015 which have not been used by those producers and are still valid by that date may be converted into authorisations under this Chapter as from 1 January 2016.
+> Such conversion shall take place upon a request to be submitted by those producers before 31 December 2015. Member States may decide to allow producers to submit such a request to convert rights into authorisations until 31 December 2022.
+> 2. Authorisations granted pursuant to paragraph 1 shall have the same period of validity as the planting rights referred to in paragraph 1. If those authorisations are not used, they shall expire at the latest by 31 December 2018, or, where a Member State has taken the decision referred to in the second subparagraph of paragraph 1, at the latest by 31 December 2025.
+> 3. The areas covered by the authorisations granted pursuant to paragraph 1 shall be not be counted for the purposes of Article 63.
+
+**INSERTED · Art. 167a — Marketing rules to improve and stabilise the operation of the common market in olive oils** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32020R2220`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a wholly new article allowing producer Member States to lay down marketing rules to regulate supply of olive oil and olives in order to improve and stabilise the common market's operation, subject to conditions that such rules be proportionate, not apply beyond the first marketing of the produce, not permit price fixing including guidance or recommended prices, and not withhold an excessive share of a marketing year's production. [Art. 167a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_167a)
+
+It further requires such rules to be published in full in an official publication of the Member State concerned and requires Member States to notify the Commission of any decisions taken under the article. [Art. 167a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_167a)
+
+*after* (`02013R1308-20201229`)
+
+> Article 167a
+> Marketing rules to improve and stabilise the operation of the common market in olive oils
+> 1. In order to improve and stabilise the operation of the common market in olive oils, including the olives from which they derive, producer Member States may lay down marketing rules to regulate supply.
+> Such rules shall be proportionate to the objective pursued and shall not:
+> (a) relate to any transaction after the first marketing of the produce concerned;
+> (b) allow for price fixing, including where prices are set for guidance or recommendation;
+> (c) render unavailable an excessive proportion of the production of the marketing year that would otherwise be available.
+> 2. The rules provided for in paragraph 1 shall be brought to the attention of operators by being published in full in an official publication of the Member State concerned.
+> 3. Member States shall notify the Commission of any decisions taken under this Article.
+
+**MODIFIED · Art. 211 — Application of Articles 107 to 109 TFEU** · applies from: unchanged
+
+*within* `AR 211 PA 3` · *amended by* `32020R2220`
+
+A new paragraph 3 has been added stating that Articles 107, 108 and 109 TFEU do not apply to national fiscal measures where Member States allow the income tax base applied to farmers to be calculated over a multiannual period so as to even out the tax base across a number of years. [Art. 211, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_211)
+
+Paragraphs 1 and 2 remain unchanged from the earlier version. [Art. 211, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_211) [Art. 211, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_211)
+
+*before* (`02013R1308-20190101`)
+
+> Article 211
+> Application of Articles 107 to 109 TFEU
+> 1. Articles 107 to 109 TFEU shall apply to the production of, and trade in, agricultural products.
+> 2. By way of derogation from paragraph 1, Articles 107 to 109 TFEU shall not apply to payments made by Member States pursuant to and in conformity with either of the following:
+> (a) the measures provided for in this Regulation which are partly or wholly financed by the Union;
+> (b) Articles 213 to 218 of this Regulation.
+
+*after* (`02013R1308-20201229`)
+
+> Article 211
+> Application of Articles 107 to 109 TFEU
+> 1. Articles 107 to 109 TFEU shall apply to the production of, and trade in, agricultural products.
+> 2. By way of derogation from paragraph 1, Articles 107 to 109 TFEU shall not apply to payments made by Member States pursuant to and in conformity with either of the following:
+> (a) the measures provided for in this Regulation which are partly or wholly financed by the Union;
+> (b) Articles 213 to 218 of this Regulation.
+> 3. By way of derogation from paragraph 1 of this Article, Articles 107, 108 and 109 TFEU shall not apply to national fiscal measures whereby Member States decide to deviate from general tax rules by allowing for the income tax base applied to farmers to be calculated on the basis of a multiannual period with a view to evening out the tax base over a certain number of years.
+
+**MODIFIED · Art. 214a — National payments for certain sectors in Finland** · applies from: unchanged
+
+*within* `AR 214a ALN 3` · *amended by* `32020R2220`
+
+A new sentence has been added allowing Finland to continue granting the national aids described in the first paragraph in 2021 and 2022, under the same conditions and amounts as authorised by the Commission for 2020. [Art. 214a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_214a)
+
+*before* (`02013R1308-20190101`)
+
+> Article 214a
+> National payments for certain sectors in Finland
+> Subject to authorisation by the Commission, for the period 2014-2020, Finland may continue to grant national aids which it granted in 2013 to producers on the basis of Article 141 of the 1994 Act of Accession, provided that:
+> (a) the amount of income aid is degressive over the whole period and in 2020 does not exceed 30 % of the amount granted in 2013; and
+> (b) prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+> The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.
+
+*after* (`02013R1308-20201229`)
+
+> Article 214a
+> National payments for certain sectors in Finland
+> Subject to authorisation by the Commission, for the period 2014-2020, Finland may continue to grant national aids which it granted in 2013 to producers on the basis of Article 141 of the 1994 Act of Accession, provided that:
+> (a) the amount of income aid is degressive over the whole period and in 2020 does not exceed 30 % of the amount granted in 2013; and
+> (b) prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+> The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.
+> In 2021 and 2022, Finland may continue to grant the national aids referred to in the first paragraph subject to the same conditions and amounts as authorised by the Commission for 2020.
+
+**MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
+
+*within* `AN VI` · *amended by* `32020R2220`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02013R1308-20190101`)
+
+> ANNEX VI
+> BUDGETARY LIMITS FOR SUPPORT PROGRAMMES REFERRED TO IN ARTICLE 44(1)
+> in 1000 EUR per budget year
+> 2014 2015 2016 2017 onwards
+> Bulgaria 26762 26762 26762 26762
+> Czech Republic 5155 5155 5155 5155
+> Germany 38895 38895 38895 38895
+> Greece 23963 23963 23963 23963
+> Spain 353081 210332 210332 210332
+> France 280545 280545 280545 280545
+> Croatia 11885 11885 11885 10832
+> Italy 336997 336997 336997 336997
+> Cyprus 4646 4646 4646 4646
+> Lithuania 45 45 45 45
+> Luxembourg 588 — — —
+> Hungary 29103 29103 29103 29103
+> Malta 402 — — —
+> Austria 13688 13688 13688 13688
+> Portugal 65208 65208 65208 65208
+> Romania 47700 47700 47700 47700
+> Slovenia 5045 5045 5045 5045
+> Slovakia 5085 5085 5085 5085
+> United Kingdom 120 — — —
+
+*after* (`02013R1308-20201229`)
+
+> ANNEX VI
+> BUDGETARY LIMITS FOR SUPPORT PROGRAMMES REFERRED TO IN ARTICLE 44(1)
+> in 1000 EUR per budget year
+> 2014 2015 2016 2017-2020 2021 onwards
+> Bulgaria 26762 26762 26762 26762 25721
+> Czechia 5155 5155 5155 5155 4954
+> Germany 38895 38895 38895 38895 37381
+> Greece 23963 23963 23963 23963 23030
+> Spain 353081 210332 210332 210332 202147
+> France 280545 280545 280545 280545 269628
+> Croatia 11885 11885 11885 10832 10410
+> Italy 336997 336997 336997 336997 323883
+> Cyprus 4646 4646 4646 4646 4465
+> Lithuania 45 45 45 45 43
+> Luxembourg 588 — — — —
+> Hungary 29103 29103 29103 29103 27970
+> Malta 402 — — — —
+> Austria 13688 13688 13688 13688 13155
+> Portugal 65208 65208 65208 65208 62670
+> Romania 47700 47700 47700 47700 45844
+> Slovenia 5045 5045 5045 5045 4849
+> Slovakia 5085 5085 5085 5085 4887
+> United Kingdom 120 — — — —
+
+**MODIFIED · TIS II** · applies from: unknown
+
+*amended by* `32020R2220`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20201229 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20190101 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20180101` → `02013R1308-20190101`
