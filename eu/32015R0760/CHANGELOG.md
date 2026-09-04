@@ -50,7 +50,7 @@ The revised text adds language stating that the investments include those that p
 
 *within* `AR 2 ALN 1 PO 6`, `AR 2 ALN 1 PO 7 PTA (ca)`, `AR 2 ALN 1 PO 14a`, `AR 2 ALN 1 PO 14b`, `AR 2 ALN 1 PO 19`, `AR 2 ALN 1 PO 20`, `AR 2 ALN 1 PO 21` · *dates* +2017-12-12 · *amended by* `32023R0606`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32015R0760`)
 
@@ -411,7 +411,7 @@ Point (b) of paragraph 1 is otherwise unchanged in substance, differing only in 
 
 *within* `AR 18`, `AR 18 PA 1 ALN 1`, `AR 18 PA 1 ALN 2`, `AR 18 PA 1 ALN 3`, `AR 18 PA 2 ALN 1`, `AR 18 PA 2 ALN 1 PTA (a)`, `AR 18 PA 2 ALN 1 PTA (b)`, `AR 18 PA 2 ALN 1 PTA (c)`, `AR 18 PA 2 ALN 1 PTA (d)`, `AR 18 PA 2 ALN 1 PTA (e)`, `AR 18 PA 2 ALN 2`, `AR 18 PA 3 ALN 1`, `AR 18 PA 4 ALN 1`, `AR 18 PA 5 ALN 1`, `AR 18 PA 5 ALN 1 PTA (a)`, `AR 18 PA 5 ALN 1 PTA (b)`, `AR 18 PA 5 ALN 1 PTA (c)`, `AR 18 PA 6 ALN 1`, `AR 18 PA 6 ALN 1 PTA (a)`, `AR 18 PA 6 ALN 1 PTA (b)`, `AR 18 PA 6 ALN 1 PTA (c)`, `AR 18 PA 6 ALN 2`, `AR 18 PA 6 ALN 3`, `AR 18 PA 6 ALN 4`, `AR 18 PA 7` · *dates* -2015-09-09 +2024-01-10 · *amended by* `32023R0606`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32015R0760`)
 
