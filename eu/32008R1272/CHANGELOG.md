@@ -3020,10 +3020,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20220301` → `02008R1272-20221217`
 
-- **Act** `eu:32008R1272` · **In force** 2022-12-17 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2022-12-17 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20220301` · `v2` = `02008R1272-20221217`
 
 ---
@@ -3034,7 +3034,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Both the before and after texts of Annex III section 1 are truncated in the material provided, and within the visible portion the only textual difference is a small formatting change to the H220 entry heading, where an en-dash spacing variant was adjusted. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_III)
+
+All of the hazard statement codes, language entries, and translated phrases shown remain identical between the two versions as far as the text extends. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_III)
 
 *before* (`02008R1272-20220301`)
 
@@ -3050,7 +3052,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3080,7 +3083,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3102,7 +3106,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In the visible portion of Section 3's table, several boron entries have been altered: the boric acid entry (005-007-00-2) and the diboron trioxide entry (005-008-00-8) drop the specific-concentration-limit notes and percentage thresholds for Repr. 1B / H360FD that appeared in the earlier text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
+
+Entry 005-011-00-4, previously listed as disodium tetraborate anhydrous with two separate related entries for the decahydrate and pentahydrate forms (005-011-01-1 and 005-011-02-9), is replaced by a single consolidated entry combining tetraboron disodium heptaoxide hydrate, disodium tetraborate anhydrous, orthoboric acid sodium salt, disodium tetraborate decahydrate and disodium tetraborate pentahydrate as five components with corresponding EC and CAS numbers, without the earlier percentage-based concentration limit notes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
+
+Because the provided texts are truncated partway through the table, only these changes within the shown fragment of Section 3 can be described, and any further differences elsewhere in the section cannot be determined from what was given. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
 
 *before* (`02008R1272-20220301`)
 
@@ -3115,7 +3123,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2017101 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2017103 characters omitted…]
 
 *after* (`02008R1272-20221217`)
 
@@ -3128,7 +3136,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2024410 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2024412 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20221217 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20220301 -->
