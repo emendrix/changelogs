@@ -10,6 +10,127 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R0429-20210421 -->
+## Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases […]
+### `02016R0429-20191214` → `02016R0429-20210421`
+
+- **Act** `eu:32016R0429` · **In force** 2021-04-21 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02016R0429-20191214` · `v2` = `02016R0429-20210421`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32018R1629`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II` · *amended by* `32018R1629`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The heading changes from a general list of diseases to a list of animal diseases, and the disease list itself is replaced with a substantially different and longer set of named diseases and infections, many using revised naming conventions such as prefixing entries with 'Infection with' or 'Infestation with'. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20210421#anx_II)
+
+Several diseases present in the earlier list, such as swine vesicular disease, Teschen disease, vesicular stomatitis, and campylobacteriosis as a standalone entry, do not appear under those names in the later list, while numerous new entries, such as surra, Ebola virus disease, paratuberculosis, Japanese encephalitis, West Nile fever, and Q fever, appear that were not present before. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20210421#anx_II)
+
+*before* (`02016R0429-20191214`)
+
+> ANNEX II
+> LIST OF DISEASES
+> Rinderpest (cattle plague)
+> Sheep and goat plague
+> Swine vesicular disease
+> Bluetongue
+> Teschen disease
+> Sheep pox or goat pox
+> Rift Valley fever
+> Lumpy skin disease
+> Vesicular stomatitis
+> Venezuelan equine viral encephalomyelitis
+> Haemorrhagic disease of deer
+> Contagious bovine pleuropneumonia
+> Newcastle disease
+> Bovine tuberculosis
+> Bovine brucellosis (B. abortus)
+> Ovine and caprine brucellosis (B. melitensis)
+> Anthrax
+> Rabies
+> Echinococcosis
+> Transmissible spongiform encephalopathies (TSE)
+> Campylobacteriosis
+> Listeriosis
+> Salmonellosis (zoonotic salmonella)
+> Trichinellosis
+> Verotoxigenic E. coli
+> Viral haemorrhagic septicæmia (VHS)
+> Infectious haematopoietic necrosis (IHN)
+> Epizootic haematopoietic necrosis in fish (EHN)
+> Epizootic ulcerative syndrome in fish (EUS)
+> Infection with Bonamia exitiosa
+> Infection with Perkinsus marinus
+> Infection with Microcytos mackini
+> Taura syndrome in crustaceans
+> Yellowhead disease in crustaceans
+> Koi herpes virus disease (KHV)
+> Infectious salmon anaemia (ISA)
+> Infection with Marteilia refringens
+> Infection with Bonamia ostreae
+> White spot disease in crustaceans
+
+*after* (`02016R0429-20210421`)
+
+> ANNEX II
+> LIST OF ANIMAL DISEASES
+> Infection with rinderpest virus
+> Infection with Rift Valley fever virus
+> Infection with Brucella abortus, B. melitensis and B. suis
+> Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis)
+> Infection with rabies virus
+> Infection with bluetongue virus (serotypes 1-24)
+> Infestation with Echinococcus multilocularis
+> Infection with epizootic haemorrhagic disease virus
+> Anthrax
+> Surra (Trypanosoma evansi)
+> Ebola virus disease
+> Paratuberculosis
+> Japanese encephalitis
+> West Nile fever
+> Q fever
+> Infection with lumpy skin disease virus
+> Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)
+> Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis
+> Bovine viral diarrhoea
+> Bovine genital campylobacteriosis
+> Trichomonosis
+> Enzootic bovine leukosis
+> Sheep pox and goat pox
+> Infection with peste des petits ruminants virus
+> Contagious caprine pleuropneumonia
+> Ovine epididymitis (Brucella ovis)
+> Infection with Burkholderia mallei (Glanders)
+> Infection with equine arteritis virus
+> Equine infectious anaemia
+> Dourine
+> Venezuelan equine encephalomyelitis
+> Contagious equine metritis
+> Equine encephalomyelitis (Eastern and Western)
+> Infection with Aujeszky's disease virus
+> Infection with porcine reproductive and respiratory syndrome virus
+> Infection with Newcastle disease virus
+> Avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis)
+> Infection with Salmonella Pullorum, S. Gallinarum and S. arizonae
+> Infection w […truncated by emendrix: 745 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0429-20210421 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R0429-20191214 -->
 ## Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases […]
 ### `02016R0429-20160331` → `02016R0429-20191214`

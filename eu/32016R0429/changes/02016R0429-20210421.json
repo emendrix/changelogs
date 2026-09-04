@@ -1,0 +1,395 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0429",
+    "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+  },
+  "from_version": "02016R0429-20191214",
+  "to_version": "02016R0429-20210421",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-04-21"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 287,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20210421",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32018R1629",
+            "display_name": "Commission Delegated Regulation (EU) 2018/1629 of 25 July 2018 amending the list of diseases set out in Annex II to Regulation (EU) 2016/429 of the European Parliament and of the Council on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance.)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2019-12-14, 2021-04-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20210421",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "ANNEX II\nLIST OF DISEASES\nRinderpest (cattle plague)\nSheep and goat plague\nSwine vesicular disease\nBluetongue\nTeschen disease\nSheep pox or goat pox\nRift Valley fever\nLumpy skin disease\nVesicular stomatitis\nVenezuelan equine viral encephalomyelitis\nHaemorrhagic disease of deer\nContagious bovine pleuropneumonia\nNewcastle disease\nBovine tuberculosis\nBovine brucellosis (B. abortus)\nOvine and caprine brucellosis (B. melitensis)\nAnthrax\nRabies\nEchinococcosis\nTransmissible spongiform encephalopathies (TSE)\nCampylobacteriosis\nListeriosis\nSalmonellosis (zoonotic salmonella)\nTrichinellosis\nVerotoxigenic E. coli\nViral haemorrhagic septicæmia (VHS)\nInfectious haematopoietic necrosis (IHN)\nEpizootic haematopoietic necrosis in fish (EHN)\nEpizootic ulcerative syndrome in fish (EUS)\nInfection with Bonamia exitiosa\nInfection with Perkinsus marinus\nInfection with Microcytos mackini\nTaura syndrome in crustaceans\nYellowhead disease in crustaceans\nKoi herpes virus disease (KHV)\nInfectious salmon anaemia (ISA)\nInfection with Marteilia refringens\nInfection with Bonamia ostreae\nWhite spot disease in crustaceans",
+        "after": "ANNEX II\nLIST OF ANIMAL DISEASES\nInfection with rinderpest virus\nInfection with Rift Valley fever virus\nInfection with Brucella abortus, B. melitensis and B. suis\nInfection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis)\nInfection with rabies virus\nInfection with bluetongue virus (serotypes 1-24)\nInfestation with Echinococcus multilocularis\nInfection with epizootic haemorrhagic disease virus\nAnthrax\nSurra (Trypanosoma evansi)\nEbola virus disease\nParatuberculosis\nJapanese encephalitis\nWest Nile fever\nQ fever\nInfection with lumpy skin disease virus\nInfection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)\nInfectious bovine rhinotracheitis/infectious pustular vulvovaginitis\nBovine viral diarrhoea\nBovine genital campylobacteriosis\nTrichomonosis\nEnzootic bovine leukosis\nSheep pox and goat pox\nInfection with peste des petits ruminants virus\nContagious caprine pleuropneumonia\nOvine epididymitis (Brucella ovis)\nInfection with Burkholderia mallei (Glanders)\nInfection with equine arteritis virus\nEquine infectious anaemia\nDourine\nVenezuelan equine encephalomyelitis\nContagious equine metritis\nEquine encephalomyelitis (Eastern and Western)\nInfection with Aujeszky's disease virus\nInfection with porcine reproductive and respiratory syndrome virus\nInfection with Newcastle disease virus\nAvian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis)\nInfection with Salmonella Pullorum, S. Gallinarum and S. arizonae\nInfection with low pathogenic avian influenza viruses\nAvian chlamydiosis\nInfestation with Varroa spp. (Varroosis)\nInfestation with Aethina tumida (Small hive beetle)\nAmerican foulbrood\nInfestation with Tropilaelaps spp.\nInfection with Batrachochytrium salamandrivorans\nEpizootic haematopoietic necrosis\nViral haemorrhagic septicaemia\nInfectious haematopoietic necrosis\nInfection with highly polymorphic region (HPR) deleted infectious salmon anaemia virus\nKoi herpes virus disease\nInfection with Mikrocytos mackini\nInfection with Perkinsus marinus\nInfection with Bonamia ostreae\nInfection with Bonamia exitiosa\nInfection with Marteilia refringens\nInfection with Taura syndrome virus\nInfection with yellow head virus\nInfection with white spot syndrome virus",
+        "previous_location": null,
+        "changed_within": [
+          "AN II"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32018R1629",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-04-21",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32018R1629 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32018R1629, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from a general list of diseases to a list of animal diseases, and the disease list itself is replaced with a substantially different and longer set of named diseases and infections, many using revised naming conventions such as prefixing entries with 'Infection with' or 'Infestation with'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#anx_II",
+              "label": "Annex II, 02016R0429-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20210421",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20210421#anx_II",
+              "label": "Annex II, 02016R0429-20210421"
+            }
+          ]
+        },
+        {
+          "text": "Several diseases present in the earlier list, such as swine vesicular disease, Teschen disease, vesicular stomatitis, and campylobacteriosis as a standalone entry, do not appear under those names in the later list, while numerous new entries, such as surra, Ebola virus disease, paratuberculosis, Japanese encephalitis, West Nile fever, and Q fever, appear that were not present before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#anx_II",
+              "label": "Annex II, 02016R0429-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20210421",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20210421#anx_II",
+              "label": "Annex II, 02016R0429-20210421"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0429",
+      "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+    },
+    "from_version": "02016R0429-20191214",
+    "to_version": "02016R0429-20210421",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": "1 annotations in (2019-12-14, 2021-04-21]",
+        "claims": [
+          {
+            "location": "AN II",
+            "change_type": "MODIFIED",
+            "in_force": "2021-04-21",
+            "source": "32018R1629 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32018R1629",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32018R1629, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32018R1629",
+              "display_name": "Commission Delegated Regulation (EU) 2018/1629 of 25 July 2018 amending the list of diseases set out in Annex II to Regulation (EU) 2016/429 of the European Parliament and of the Council on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN II",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 3944,
+      "output_tokens": 346,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
