@@ -82,7 +82,7 @@ The earlier version of point 10 listed mustard and products thereof with no such
 - **Act** `eu:32011R1169` · **In force** 2015-12-31 · **Detected** 2026-09-04
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20140219` · `v2` = `02011R1169-20180101`
 
 ---
@@ -91,7 +91,9 @@ The earlier version of point 10 listed mustard and products thereof with no such
 
 *within* `AR 2 PA 1 ALN 1 PTA (g)`, `AR 2 PA 1 ALN 1 PTA (h)` · *dates* +2015-11-25 · *amended by* `32015R2283`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (g) of Article 2(1)(1) now ends with a semicolon instead of a full stop, since it is followed by a new point. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20180101#art_2)
+
+A new point (h) is added to Article 2(1)(1), incorporating the definition of engineered nanomaterials as established by point (f) of Article 3(2) of Regulation (EU) 2015/2283 on novel foods. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20180101#art_2)
 
 *before* (`02011R1169-20140219`)
 
