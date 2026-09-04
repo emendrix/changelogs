@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -92,11 +92,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Part 1 of the Annex gains a number of new chemical entries, including Azocyclotin, Bitertanol, Cinidon-ethyl, Cyclanilide, Cyhexatin, Didecyldimethylammonium chloride, Ethoxysulfuron, Oxadiargyl, Rotenone and Warfarin, alongside expanded CAS/Einecs/CN code listings for Chlorate and a revised entry for perfluorooctane sulfonates and related substances.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20141201",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I",
+              "label": "Annex I, 02012R0649-20141201"
+            }
+          ]
+        },
+        {
+          "text": "Part 2 similarly adds corresponding new entries for the same chemicals such as Azocyclotin, Bitertanol, Cinidon-ethyl, Cyclanilide, Cyhexatin, Ethoxysulfuron, Oxadiargyl and Rotenone, and replaces the prior perfluorooctane sulfonates entry with a differently described entry for perfluorooctane sulfonate derivatives and related substances with new CAS numbers and CN codes.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "32012R0649",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0649#anx_I",
+              "label": "Annex I, 32012R0649"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20141201",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I",
+              "label": "Annex I, 02012R0649-20141201"
+            }
+          ]
+        },
+        {
+          "text": "Part 3 adds a new entry for Azinphos-methyl with its CAS number and HS codes, and replaces the earlier entry structure for perfluorooctane sulfonates and related compounds with a longer list of chemical names, CAS numbers and HS codes under a differently worded heading.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "32012R0649",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0649#anx_I",
+              "label": "Annex I, 32012R0649"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0649",
+                  "display_name": "Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)  Text with EEA relevance"
+                },
+                "version": "02012R0649-20141201",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I",
+              "label": "Annex I, 02012R0649-20141201"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the explainer could not be reached when this entry was written, so no explanation is shipped yet; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -344,31 +428,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 2,
-    "explained": 0,
-    "unavailable": 2,
+    "explained": 1,
+    "unavailable": 1,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 1,
-    "provider_unavailable": 1,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
+      "input_tokens": 29314,
+      "output_tokens": 561,
+      "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
     "changes": 2,
-    "passed_first": 0,
+    "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 2,
+    "unexplained": 1,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 3,
+    "citations": 5,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0

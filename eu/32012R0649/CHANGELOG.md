@@ -946,7 +946,7 @@ The Part 3 list of chemicals subject to the PIC procedure now also includes entr
 - **Act** `eu:32012R0649` · **In force** 2014-03-01 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32012R0649` · `v2` = `02012R0649-20141201`
 
 ---
@@ -955,7 +955,11 @@ The Part 3 list of chemicals subject to the PIC procedure now also includes entr
 
 *within* `AN I` · *amended by* `32014R1078`, `32019R1701`
 
-*No explanation shipped — the explainer could not be reached when this entry was written, so no explanation is shipped yet; the verbatim before and after texts are unaffected.*
+Part 1 of the Annex gains a number of new chemical entries, including Azocyclotin, Bitertanol, Cinidon-ethyl, Cyclanilide, Cyhexatin, Didecyldimethylammonium chloride, Ethoxysulfuron, Oxadiargyl, Rotenone and Warfarin, alongside expanded CAS/Einecs/CN code listings for Chlorate and a revised entry for perfluorooctane sulfonates and related substances. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I)
+
+Part 2 similarly adds corresponding new entries for the same chemicals such as Azocyclotin, Bitertanol, Cinidon-ethyl, Cyclanilide, Cyhexatin, Ethoxysulfuron, Oxadiargyl and Rotenone, and replaces the prior perfluorooctane sulfonates entry with a differently described entry for perfluorooctane sulfonate derivatives and related substances with new CAS numbers and CN codes. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0649#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I)
+
+Part 3 adds a new entry for Azinphos-methyl with its CAS number and HS codes, and replaces the earlier entry structure for perfluorooctane sulfonates and related compounds with a longer list of chemical names, CAS numbers and HS codes under a differently worded heading. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0649#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I)
 
 *before* (`32012R0649`)
 
