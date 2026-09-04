@@ -7435,28 +7435,16 @@ The earlier text listed exclusions based on added sugar, fat, salt or sweeteners
 ### `02013R1308-20160726` → `02013R1308-20160731`
 
 - **Act** `eu:32013R1308` · **In force** 2016-07-31 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20160726` · `v2` = `02013R1308-20160731`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32016R1226`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex IX — ANNEX IX** · applies from: unchanged
 
 *within* `AN IX` · *amended by* `32016R1226`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The spacing and punctuation of two terms changed: "extensive indoor / barn-reared" lost its spaces around the slash, and the dash in "free range – total freedom" was replaced with a different dash character. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160726#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#anx_IX)
 
