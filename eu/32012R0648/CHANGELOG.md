@@ -329,7 +329,7 @@ Point III(a), on infringing Article 34(1), replaces the earlier reference to a d
 - **Act** `eu:32012R0648` · **In force** 2022-10-01, 2024-12-24 · **Detected** 2026-08-13
 - **Touched** 61 provisions — 61 substantive · 0 date-only · **3 disputed**
 - **Diff** 12 inserted · 49 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20220812` · `v2` = `02012R0648-20241224`
 
 ---
@@ -593,7 +593,11 @@ The provision further states that college members of the CCP referred to in Arti
 
 *within* `AR 9 PA 1 ALN 2`, `AR 9 PA 1 ALN 2 PTA (a)`, `AR 9 PA 1 ALN 2 PTA (b)`, `AR 9 PA 1 ALN 3`, `AR 9 PA 1 ALN 3 PTA (a)`, `AR 9 PA 1 ALN 3 PTA (b)`, `AR 9 PA 1 ALN 3 PTA (c)`, `AR 9 PA 1 ALN 4`, `AR 9 PA 1 ALN 4 PTA (a)`, `AR 9 PA 1 ALN 4 PTA (b)`, `AR 9 PA 1 ALN 5`, `AR 9 PA 1 ALN 6`, `AR 9 PA 1a ALN 4 PTA (a)`, `AR 9 PA 1e ALN 1`, `AR 9 PA 4a` · *dates* +2025-12-25 · *amended by* `32024R2987`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now includes a new subparagraph requiring financial counterparties, non-financial counterparties and CCPs to put in place appropriate procedures and arrangements to ensure the quality of the data they report, and a further new subparagraph on a Union parent undertaking of a non-financial counterparty within a group reporting net aggregate positions by class of derivatives to its competent authority on a weekly basis, with that authority sharing the information with ESMA and the relevant competent authority. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
+
+In the third-country exemption conditions of paragraph 1a, the word "and" is added at the end of point (a). [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
+
+Paragraph 1e now adds that correct, non-duplicated reporting must be ensured including where the reporting obligation has been delegated under paragraph 1f, and a new paragraph 4a is added directing ESMA, with EBA and EIOPA, to draft guidelines by 25 December 2025 specifying the procedures and arrangements referred to in the new second subparagraph of paragraph 1. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9) [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_9)
 
 *before* (`02012R0648-20220812`)
 
@@ -1546,7 +1550,9 @@ The final paragraph of Article 32(1) now specifies that the college opinion is t
 
 *within* `AR 35 PA 1 ALN 2`, `AR 35 PA 3 ALN 1` · *amended by* `32024R2987`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The rule on approving outsourcing of major risk-management activities now specifies that the college referenced is the one under Article 18, and adds that the competent authority's decision must also be subject to an opinion of ESMA issued under Article 24a(7), first subparagraph, point (bc), following the procedure in Article 17b, in addition to the existing college opinion under Article 19. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_35)
+
+The provision on making outsourcing information available on request now names ESMA and the college referred to in Article 18, alongside the competent authority, as recipients able to assess compliance of the outsourced activities. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_35)
 
 *before* (`02012R0648-20220812`)
 

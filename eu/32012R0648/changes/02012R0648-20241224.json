@@ -30,7 +30,7 @@
     "date_only": 0,
     "disputed": 3,
     "quoted": 0,
-    "unexplained": 5
+    "unexplained": 3
   },
   "changes": [
     {
@@ -1213,11 +1213,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now includes a new subparagraph requiring financial counterparties, non-financial counterparties and CCPs to put in place appropriate procedures and arrangements to ensure the quality of the data they report, and a further new subparagraph on a Union parent undertaking of a non-financial counterparty within a group reporting net aggregate positions by class of derivatives to its competent authority on a weekly basis, with that authority sharing the information with ESMA and the relevant competent authority.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9",
+              "label": "Art. 9, 02012R0648-20241224"
+            }
+          ]
+        },
+        {
+          "text": "In the third-country exemption conditions of paragraph 1a, the word \"and\" is added at the end of point (a).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9",
+              "label": "Art. 9, 02012R0648-20241224"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 1e now adds that correct, non-duplicated reporting must be ensured including where the reporting obligation has been delegated under paragraph 1f, and a new paragraph 4a is added directing ESMA, with EBA and EIOPA, to draft guidelines by 25 December 2025 specifying the procedures and arrangements referred to in the new second subparagraph of paragraph 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9",
+              "label": "Art. 9, 02012R0648-20241224"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_9",
+              "label": "Art. 9, 02012R0648-20220812"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5331,11 +5402,76 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The rule on approving outsourcing of major risk-management activities now specifies that the college referenced is the one under Article 18, and adds that the competent authority's decision must also be subject to an opinion of ESMA issued under Article 24a(7), first subparagraph, point (bc), following the procedure in Article 17b, in addition to the existing college opinion under Article 19.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_35",
+              "label": "Art. 35, 02012R0648-20220812"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_35",
+              "label": "Art. 35, 02012R0648-20241224"
+            }
+          ]
+        },
+        {
+          "text": "The provision on making outsourcing information available on request now names ESMA and the college referred to in Article 18, alongside the competent authority, as recipients able to assess compliance of the outsourced activities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20220812",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_35",
+              "label": "Art. 35, 02012R0648-20220812"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20241224",
+                "location": "AR 35"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_35",
+              "label": "Art. 35, 02012R0648-20241224"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -9370,6 +9506,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 21208,
+        "output_tokens": 1245,
+        "requests": 3,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }
