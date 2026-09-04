@@ -10,6 +10,83 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20250401 -->
+## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
+### `02011R1169-20180101` → `02011R1169-20250401`
+
+- **Act** `eu:32011R1169` · **In force** 2025-04-01 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02011R1169-20180101` · `v2` = `02011R1169-20250401`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32024R2512`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II PO 10` · *amended by* `32024R2512`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Point 10 on mustard and products thereof now adds an exception for behenic acid with a minimum of 85% purity, obtained after two distillation steps, used in manufacturing the emulsifiers E 470a, E 471 and E 477. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20250401#anx_II)
+
+The earlier version of point 10 listed mustard and products thereof with no such exception. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20180101#anx_II)
+
+*before* (`02011R1169-20180101`)
+
+> ANNEX II
+> SUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES
+> 1. Cereals containing gluten, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, except:
+> (a) wheat based glucose syrups including dextrose
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) wheat based maltodextrins
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (c) glucose syrups based on barley;
+> (d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+> 2. Crustaceans and products thereof;
+> 3. Eggs and products thereof;
+> 4. Fish and products thereof, except:
+> (a) fish gelatine used as carrier for vitamin or carotenoid preparations;
+> (b) fish gelatine or Isinglass used as fining agent in beer and wine;
+> 5. Peanuts and products thereof;
+> 6. Soybeans and products thereof, except:
+> (a) fully refined soybean oil and fat
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural […truncated by emendrix: 1293 characters omitted…]
+
+*after* (`02011R1169-20250401`)
+
+> ANNEX II
+> SUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES
+> 1. Cereals containing gluten, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, except:
+> (a) wheat based glucose syrups including dextrose
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) wheat based maltodextrins
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (c) glucose syrups based on barley;
+> (d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+> 2. Crustaceans and products thereof;
+> 3. Eggs and products thereof;
+> 4. Fish and products thereof, except:
+> (a) fish gelatine used as carrier for vitamin or carotenoid preparations;
+> (b) fish gelatine or Isinglass used as fining agent in beer and wine;
+> 5. Peanuts and products thereof;
+> 6. Soybeans and products thereof, except:
+> (a) fully refined soybean oil and fat
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural […truncated by emendrix: 1459 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R1169-20250401 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20180101 -->
 ## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
 ### `02011R1169-20140219` → `02011R1169-20180101`
