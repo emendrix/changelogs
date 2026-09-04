@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -651,11 +651,69 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now adds managed security services, alongside ICT products, ICT services and ICT processes, or categories thereof, as items capable of benefiting from inclusion in a European cybersecurity certification scheme.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R0881",
+                  "display_name": "Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance)"
+                },
+                "version": "02019R0881-20250204",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47",
+              "label": "Art. 47, 02019R0881-20250204"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3's introductory wording and point (a) likewise now refer to managed security services alongside ICT products, ICT services and ICT processes when listing grounds for inclusion in the Union rolling work programme.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R0881",
+                  "display_name": "Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance)"
+                },
+                "version": "02019R0881-20250204",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47",
+              "label": "Art. 47, 02019R0881-20250204"
+            }
+          ]
+        },
+        {
+          "text": "A new ground, point (ca), has been added to the list of justifications in paragraph 3, referring to technological developments and the availability and development of international cybersecurity certification schemes and international standards and standards used by the industry.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R0881",
+                  "display_name": "Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance)"
+                },
+                "version": "02019R0881-20250204",
+                "location": "AR 47"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47",
+              "label": "Art. 47, 02019R0881-20250204"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3435,6 +3493,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3439,
+        "output_tokens": 336,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false

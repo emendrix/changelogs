@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32019R0881` · **In force** 2025-02-04 · **Detected** 2026-08-13
 - **Touched** 19 provisions — 19 substantive · 0 date-only · **1 disputed**
 - **Diff** 2 inserted · 17 modified · 0 deleted · 0 renumbered · 0 deferred · 53 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32019R0881` · `v2` = `02019R0881-20250204`
 
 ---
@@ -179,7 +179,11 @@ The prior text of both paragraphs referred only to ICT products, ICT services an
 
 *within* `AR 47 PA 2 ALN 1`, `AR 47 PA 3 ALN 1`, `AR 47 PA 3 ALN 1 PTA (a)`, `AR 47 PA 3 ALN 1 PTA (ca)` · *amended by* `32025R0037`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 2 now adds managed security services, alongside ICT products, ICT services and ICT processes, or categories thereof, as items capable of benefiting from inclusion in a European cybersecurity certification scheme. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47)
+
+Paragraph 3's introductory wording and point (a) likewise now refer to managed security services alongside ICT products, ICT services and ICT processes when listing grounds for inclusion in the Union rolling work programme. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47)
+
+A new ground, point (ca), has been added to the list of justifications in paragraph 3, referring to technological developments and the availability and development of international cybersecurity certification schemes and international standards and standards used by the industry. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R0881-20250204#art_47)
 
 *before* (`32019R0881`)
 
