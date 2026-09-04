@@ -445,9 +445,9 @@ The provision also adds an explicit cross-reference to paragraphs 1 and 2 of thi
 ### `02010R1093-20210626` → `02010R1093-20241230`
 
 - **Act** `eu:32010R1093` · **In force** 2024-12-30 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20210626` · `v2` = `02010R1093-20241230`
 
 ---
@@ -455,8 +455,6 @@ The provision also adds an explicit cross-reference to paragraphs 1 and 2 of thi
 **MODIFIED · Art. 1 — Establishment and scope of action** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 1 PA 2 ALN 1` · *dates* +2023-05-31 · *amended by* `32023R1114`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of legislative acts within the Authority's scope of action now includes Regulation (EU) 2023/1114 on markets in crypto-assets, which was not named in the earlier version. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20241230#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_1)
 
@@ -475,16 +473,6 @@ The reference to Directive 2013/36/EU also drops the phrase describing prudentia
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
 > 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/ECDirective 2008/48/EC Of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66)., Directive 2009/110/EC, Regulation (EU) No 575/2013Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EUDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EUDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Directive 2014/92/EUDirective 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8. […truncated by emendrix: 7625 characters omitted…]
-
-**MODIFIED · Art. 144** · applies from: unknown
-
-*amended by* `32023R1114`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20241230 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20210626 -->
