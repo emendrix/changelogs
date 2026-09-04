@@ -10,6 +10,169 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20251230 -->
+## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
+### `02019R1009-20241120` → `02019R1009-20251230`
+
+- **Act** `eu:32019R1009` · **In force** not stated · **Detected** 2026-09-04
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02019R1009-20241120` · `v2` = `02019R1009-20251230`
+
+---
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II`
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02019R1009-20241120`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 77480 characters omitted…]
+
+*after* (`02019R1009-20251230`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 77480 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III PO 7 PTA (b)`
+
+In point 7(b), the reference to the requirements of Part II, section CMC 1, point 1(f) of Annex II was narrowed from listing sub-points (i), (ii), (iii) or (iv) to citing point 1(f) as a whole. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20241120#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20251230#anx_III)
+
+*before* (`02019R1009-20241120`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (fa) for products belonging to PFC 3 containing a polymer referred to in Part II, section CMC 9, point 1a, of Annex II:
+> (a) the time period following use during which the s […truncated by emendrix: 47648 characters omitted…]
+
+*after* (`02019R1009-20251230`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (fa) for products belonging to PFC 3 containing a polymer referred to in Part II, section CMC 9, point 1a, of Annex II:
+> (a) the time period following use during which the s […truncated by emendrix: 47624 characters omitted…]
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+
+*within* `AN IV`
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02019R1009-20241120`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69775 characters omitted…]
+
+*after* (`02019R1009-20251230`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69780 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1009-20251230 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20241120 -->
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20241117` → `02019R1009-20241120`
