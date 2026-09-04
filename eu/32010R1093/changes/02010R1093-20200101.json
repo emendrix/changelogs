@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 8,
     "quoted": 0,
-    "unexplained": 6
+    "unexplained": 4
   },
   "changes": [
     {
@@ -5102,11 +5102,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The article restructures decision-making on written procedures by adding new paragraphs 3a and 3b, setting out written-vote procedures with an eight-working-day voting window for decisions under Article 30 and under Articles 17 and 19, including rules on objections, abstentions, and what happens if three members object, and it moves the non-participating-Member-States derogation into new paragraph 3b while removing it from paragraph 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44",
+              "label": "Art. 44, 02010R1093-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 1 also adds a new sentence stating the Chairperson does not vote on the qualified-majority decisions described there, extends the consensus-seeking rule to cover panels under Article 41(2), (3) and (4) and to peer review committee members under Article 30(2), and adjusts internal cross-references to specify \"of this Regulation\" and to Article 16(4) TEU.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20190330",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_44",
+              "label": "Art. 44, 02010R1093-20190330"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44",
+              "label": "Art. 44, 02010R1093-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 changes the exemption from the discussion-attendance restriction so that it no longer names the Chairperson among those excepted, instead placing the Executive Director and the European Central Bank representative exception in a new separate subparagraph, and it changes \"acts\" to \"legislative acts\" in its final cross-reference, while paragraph 4a simply changes the title \"Chair\" to \"Chairperson.\"",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20190330",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_44",
+              "label": "Art. 44, 02010R1093-20190330"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44",
+              "label": "Art. 44, 02010R1093-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7250,11 +7334,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference for the Authority's status as a European body is updated from Article 185 of the 2002 Financial Regulation (Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002) to Article 70 of Regulation (EU, Euratom) 2018/1046 of 18 July 2018.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20190330",
+                "location": "AR 62"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_62",
+              "label": "Art. 62, 02010R1093-20190330"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 62"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62",
+              "label": "Art. 62, 02010R1093-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Point (c) on fees is now followed by two new revenue sources, point (d) covering voluntary contributions from Member States or observers and point (e) covering agreed charges for publications, training and other requested services.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 62"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62",
+              "label": "Art. 62, 02010R1093-20200101"
+            }
+          ]
+        },
+        {
+          "text": "A new closing paragraph is added stating that voluntary contributions under point (d) are not accepted if acceptance would cast doubt on the Authority's independence and impartiality, while contributions compensating for costs of tasks delegated by a competent authority are stated not to cast such doubt.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20200101",
+                "location": "AR 62"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62",
+              "label": "Art. 62, 02010R1093-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -13103,6 +13258,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 19514,
+        "output_tokens": 1777,
+        "requests": 4,
+        "schema_repairs": 2
       },
       "coordinates_checked": false
     }

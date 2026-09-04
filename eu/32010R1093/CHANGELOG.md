@@ -529,7 +529,7 @@ The earlier version of Article 4 ended its list of competent authorities at item
 - **Act** `eu:32010R1093` · **In force** 2020-01-01 · **Detected** 2026-08-13
 - **Touched** 68 provisions — 68 substantive · 0 date-only · **8 disputed**
 - **Diff** 12 inserted · 56 modified · 0 deleted · 0 renumbered · 0 deferred · 34 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20190330` · `v2` = `02010R1093-20200101`
 
 ---
@@ -1550,7 +1550,11 @@ The same new article states that this record must not reflect discussions on ind
 
 *within* `AR 44 PA 1 ALN 1`, `AR 44 PA 1 ALN 2`, `AR 44 PA 1 ALN 3`, `AR 44 PA 1 ALN 4`, `AR 44 PA 1 ALN 5`, `AR 44 PA 1 ALN 6`, `AR 44 PA 1 ALN 7`, `AR 44 PA 3a`, `AR 44 PA 3b`, `AR 44 PA 4 ALN 1`, `AR 44 PA 4 ALN 2`, `AR 44 PA 4a ALN 1` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The article restructures decision-making on written procedures by adding new paragraphs 3a and 3b, setting out written-vote procedures with an eight-working-day voting window for decisions under Article 30 and under Articles 17 and 19, including rules on objections, abstentions, and what happens if three members object, and it moves the non-participating-Member-States derogation into new paragraph 3b while removing it from paragraph 1. [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44)
+
+Paragraph 1 also adds a new sentence stating the Chairperson does not vote on the qualified-majority decisions described there, extends the consensus-seeking rule to cover panels under Article 41(2), (3) and (4) and to peer review committee members under Article 30(2), and adjusts internal cross-references to specify "of this Regulation" and to Article 16(4) TEU. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44)
+
+Paragraph 4 changes the exemption from the discussion-attendance restriction so that it no longer names the Chairperson among those excepted, instead placing the Executive Director and the European Central Bank representative exception in a new separate subparagraph, and it changes "acts" to "legislative acts" in its final cross-reference, while paragraph 4a simply changes the title "Chair" to "Chairperson." [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_44)
 
 *before* (`02010R1093-20190330`)
 
@@ -2024,7 +2028,11 @@ A new Article 60a is added, allowing any natural or legal person to send reasone
 
 *within* `AR 62 PA 1 ALN 1`, `AR 62 PA 1 ALN 1 PTA (c)`, `AR 62 PA 1 ALN 1 PTA (d)`, `AR 62 PA 1 ALN 1 PTA (e)`, `AR 62 PA 1 ALN 2` · *dates* -2002-06-25 +2018-07-18 · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The reference for the Authority's status as a European body is updated from Article 185 of the 2002 Financial Regulation (Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002) to Article 70 of Regulation (EU, Euratom) 2018/1046 of 18 July 2018. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20190330#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62)
+
+Point (c) on fees is now followed by two new revenue sources, point (d) covering voluntary contributions from Member States or observers and point (e) covering agreed charges for publications, training and other requested services. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62)
+
+A new closing paragraph is added stating that voluntary contributions under point (d) are not accepted if acceptance would cast doubt on the Authority's independence and impartiality, while contributions compensating for costs of tasks delegated by a competent authority are stated not to cast such doubt. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_62)
 
 *before* (`02010R1093-20190330`)
 
