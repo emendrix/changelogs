@@ -15,80 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 2,
+    "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 43,
-    "disputed": 2
+    "disputed": 1
   },
   "counts": {
-    "touched": 2,
-    "substantive": 2,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 2,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0978",
-            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
-          },
-          "version": "02012R0978-20170519",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R0836",
-            "display_name": "Commission Delegated Regulation (EU) 2017/836 of 11 January 2017 amending Annex III to Regulation (EU) No 978/2012 of the European Parliament and of the Council applying a scheme of generalised tariff preferences"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2017-01-01, 2017-05-19]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -134,9 +77,11 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32017R0836, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
         "disputed": true
@@ -144,7 +89,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -188,12 +134,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1"
+          "AN III"
         ],
         "note": "32017R0836, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 1",
+            "location": "AN III",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001",
@@ -234,46 +180,33 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN III",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
-          "corpus_metadata"
+          "corpus_metadata",
+          "instruction_parse"
         ],
         "absent_from": [
-          "structural_diff",
-          "instruction_parse"
+          "structural_diff"
         ],
         "kinds": [
           [
             "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -282,7 +215,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 1",
       "AN III"
     ]
   },
@@ -295,6 +227,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 0,
       "output_tokens": 0,
@@ -314,5 +249,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
