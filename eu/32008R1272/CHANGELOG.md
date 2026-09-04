@@ -3343,10 +3343,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20201114` → `02008R1272-20210510`
 
-- **Act** `eu:32008R1272` · **In force** 2021-05-10 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2021-05-10 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20201114` · `v2` = `02008R1272-20210510`
 
 ---
@@ -3357,7 +3357,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The wording of Notes J, K, L, M, N, P, Q and R in section 1.1.3.1 was rephrased from describing classification exemptions that 'need not apply' below stated thresholds to describing the harmonised classification as applying unless the substance is shown to fall below the stated threshold, with classification under Title II to be performed for those hazard classes in that case. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
+
+Note R was also expanded to add a cross-reference to Test method A.22 in the Annex to Commission Regulation (EC) No 440/2008, which was not present before. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
+
+In section 1.1.3.2, Notes 8 and 9 were changed from stating that the carcinogen or mutagen classification 'need not apply' below the stated formaldehyde concentration to stating that the classification 'shall apply' unless that concentration threshold is shown to be met. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
 
 *before* (`02008R1272-20201114`)
 
@@ -3370,7 +3374,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000875 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000876 characters omitted…]
 
 *after* (`02008R1272-20210510`)
 
@@ -3383,7 +3387,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2001644 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2001646 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20210510 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20201114 -->
