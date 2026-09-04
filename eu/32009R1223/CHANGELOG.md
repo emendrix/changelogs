@@ -817,28 +817,18 @@ The prior version of entry 51 contained no such restriction on releasable formal
 ### `02009R1223-20210823` → `02009R1223-20211001`
 
 - **Act** `eu:32009R1223` · **In force** 2021-10-01 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
-- **Diff** 0 inserted · 4 modified · 1 deleted · 0 renumbered · 0 deferred · 46 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20210823` · `v2` = `02009R1223-20211001`
 
 ---
-
-**DELETED · Art. 2** · applies from: unknown
-
-*amended by* `32021R0850`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32021R0850`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says MODIFIED, the instruction parse says DELETED
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
