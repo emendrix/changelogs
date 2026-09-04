@@ -875,10 +875,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20241210` → `02008R1272-20250201`
 
-- **Act** `eu:32008R1272` · **In force** 2025-02-01 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2025-02-01 · **Detected** 2026-09-04
 - **Touched** 20 provisions — 20 substantive · 0 date-only · **20 disputed**
 - **Diff** 0 inserted · 19 modified · 1 deleted · 0 renumbered · 0 deferred · 55 unchanged
-- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20241210` · `v2` = `02008R1272-20250201`
 
 ---
@@ -889,7 +889,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Point (e) of Article 1(1)(1) now ends with a full stop instead of a semicolon, closing the list at that point. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_1)
+
+Point (f), which had provided an obligation for downstream users, importers and distributors referred to in Article 45(1b) and (1c) to submit information relevant to an adequate emergency health response to appointed bodies in accordance with Annex VIII, no longer appears in the text. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_1)
 
 *before* (`02008R1272-20241210`)
 
@@ -904,7 +906,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (c) providing an obligation for manufacturers and importers of substances to notify the Agency of such classifications and label elements if these have not been submitted to the Agency as part of a registration under Regulation (EC) No 1907/2006;
 > (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
 > (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d);
-> (f) providing an obligation for downstream users, importers and distributors referred […truncated by emendrix: 2486 characters omitted…]
+> (f) providing an obligation for downstream users, importers and distributors referred […truncated by emendrix: 2488 characters omitted…]
 
 *after* (`02008R1272-20250201`)
 
@@ -920,7 +922,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
 > (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d).
 > 2. This Regulation shall not apply to the following:
-> (a) radioactive substances and m […truncated by emendrix: 2247 characters omitted…]
+> (a) radioactive substances and m […truncated by emendrix: 2249 characters omitted…]
 
 **MODIFIED · Art. 5 — Identification and examination of available information on substances** · applies from: unchanged
 
@@ -928,7 +930,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The list of information types in Article 5(1) no longer includes the item on data obtained from new approach methodologies, which was previously listed as point (ca). [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_5)
+
+The text provided is truncated after paragraph 2, so paragraphs 3 through 8, which appear in the earlier version, are not shown in the later text and cannot be compared here. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_5)
 
 *before* (`02008R1272-20241210`)
 
@@ -964,7 +968,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 3 no longer refers to endocrine disruption for human health or the environment, nor to the corresponding sections 3.11.3.1 and 4.2.3.1 of Annex I, and now covers only germ cell mutagenicity, carcinogenicity and reproductive toxicity under sections 3.5.3.1, 3.6.3.1 and 3.7.3.1. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_6)
+
+The second subparagraph of paragraph 3 drops the reference to endocrine disruption effects and to the individual substance being addressed under the first subparagraph, referring instead only to germ cell mutagenic, carcinogenic or toxic to reproduction effects not identified from information on individual substances. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_6)
+
+Paragraph 4 removes the references to mobility, persistent bioaccumulative and toxic, very persistent very bioaccumulative, and persistent mobile and toxic or very persistent very mobile properties along with sections 4.3.2.3.1, 4.3.2.3.2, 4.4.2.3.1 and 4.4.2.3.2, leaving only biodegradation and bioaccumulation under sections 4.1.2.8 and 4.1.2.9. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_6)
 
 *before* (`02008R1272-20241210`)
 
@@ -996,7 +1004,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In paragraph 3, the phrase referring back to paragraph 1's criteria has been shortened, dropping the words "referred to in paragraph 1" so the sentence now simply refers to "the criteria." [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_9)
+
+Paragraph 4's opening rule changes from applying when test data for the mixture itself are inadequate or unavailable to applying instead where only the information referred to in Article 6(5) is available, and the separate second subparagraph on weighing multiple similar tested mixtures under Annex I section 1.1.1 and Annex XI section 1.2 to Regulation (EC) No 1907/2006 has been removed. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_9)
+
+The final subparagraph of paragraph 4 now states that the fallback to other methods in Parts 3 and 4 of Annex I applies where the information permits neither the bridging principles nor the expert-judgement and weight-of-evidence principles described in Part 1 of Annex I, rather than where it does not permit application of bridging principles under the earlier first and second subparagraphs. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_9)
 
 *before* (`02008R1272-20241210`)
 
@@ -1022,7 +1034,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The heading and provision drop all references to acute toxicity estimates, and the paragraph that previously required manufacturers, importers and downstream users to establish acute toxicity estimates for acutely toxic substances, along with the related derogation for substances in Part 3 of Annex VI, no longer appears. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_10)
+
+The remaining paragraphs on specific concentration limits and M-factors are renumbered, with the derogation and guidance paragraphs now numbered 3 through 7 instead of 4 through 9, and the two paragraphs on mixtures containing an already-classified mixture or impurity are no longer present. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_10)
+
+Some sentences are also rephrased, such as changing who is described as setting the M-factor or concentration limit and how the taking-into-account obligation and precedence rule are worded, without altering the substances or thresholds referred to. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_10)
 
 *before* (`02008R1272-20241210`)
 
@@ -1049,7 +1065,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Article 18(3)(1)(b) no longer lists persistent, bioaccumulative and toxic, very persistent and very bioaccumulative, persistent, mobile and toxic, very persistent and very mobile properties, or endocrine disruption for human health or the environment among the hazard categories that trigger identification of contributing substances in a mixture. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_18)
+
+The remaining list of hazard categories in that point is otherwise the same, with specific target organ toxicity now given the parenthetical abbreviation STOT and aspiration hazard following it. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_18)
 
 *before* (`02008R1272-20241210`)
 
@@ -1083,7 +1101,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In paragraph 3, the reference to information excluded from the supplier's discretion was changed from paragraphs 1, 2 and 6 to 9 to just paragraphs 1 and 2. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_25)
+
+The wording of the cross-reference to Article 17(1) points (a) to (g) was also slightly altered, dropping a comma before the point range. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_25)
 
 *before* (`02008R1272-20241210`)
 
@@ -1115,7 +1135,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 1 now refers to the label elements required under the first subparagraph of Article 17(2), replacing the earlier reference to the label elements set out in Article 17(1). [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_29)
+
+Paragraph 3 no longer speaks of labelling information being provided in accordance with the provision referring to the substance or mixture in Part 5 of Annex II, and instead states that the substance or mixture shall be accompanied by a copy of the label elements in accordance with Article 17. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_29)
+
+Paragraph 4b, which had set out a derogation from Article 17(1) for ammunition packaging labelling and a related obligation on manufacturers, importers and downstream users to supply defence forces with a safety data sheet or label copy, no longer appears in the text. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_29)
 
 *before* (`02008R1272-20241210`)
 
@@ -1143,7 +1167,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision changes the timing rule in paragraph 1 from a fixed deadline tied to when results of a new evaluation under Article 15(4) are obtained or communicated, with an outer limit of six months, to a duty to update the label without undue delay following a change to classification and labelling, with cooperation between suppliers required under Article 4(9). [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_30)
+
+Paragraph 2 drops the reference to the results of the Article 15(4) evaluation being obtained or communicated, retaining only the 18-month period for other labelling changes. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_30)
+
+The former paragraph 3 exemption tied to delegated acts under Article 37(5) or Article 53(1) and the former paragraph 4 reference to Regulation (EC) No 1107/2009 and Regulation (EU) No 528/2012 are replaced by a single paragraph 3 referring instead to Directives 91/414/EEC and 98/8/EC. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_30)
 
 *before* (`02008R1272-20241210`)
 
@@ -1168,7 +1196,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The sentence allowing a label to be presented as a fold-out label has been removed from paragraph 1. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_31)
+
+Paragraph 3 no longer includes the statement that label elements shall be formatted in accordance with section 1.2.1 of Annex I, with the remaining wording on size and spacing lightly reworded. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_31)
 
 *before* (`02008R1272-20241210`)
 
@@ -1196,7 +1226,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The paragraph 2a provisions covering the supply of hazardous substances or mixtures to consumers and professional users via refill stations, including the conditions in section 3.4 of Annex II and the exemption referring to Article 29(3), have been removed entirely. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_35)
 
 *before* (`02008R1272-20241210`)
 
@@ -1209,7 +1239,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (d) packaging fitted with replaceable fastening devices shall be designed so that it can be refastened repeatedly without the contents escaping.
 > 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
 > Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
-> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 1043 characters omitted…]
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 1044 characters omitted…]
 
 *after* (`02008R1272-20250201`)
 
@@ -1222,7 +1252,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (d) packaging fitted with replaceable fastening devices shall be designed so that it can be refastened repeatedly without the contents escaping.
 > 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
 > Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
-> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 701 characters omitted…]
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 702 characters omitted…]
 
 **MODIFIED · Art. 40 — Obligation to notify the Agency** · applies from: unchanged
 
@@ -1230,7 +1260,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Point (e) drops the reference to acute toxicity estimates and rewords the justification requirement, and points (g) and (h), which addressed reasons for diverging from or introducing a more severe classification than the inventory, are removed entirely, leaving the list ending at point (f) and the cross-reference in the closing clause changed from covering points (a) to (h) to covering points (a) to (f). [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_40)
+
+Paragraph 2 changes the notification trigger and timing: instead of requiring the information to be notified within six months after a classification and labelling decision under the Article 15(1) review, it now requires the information to be updated and notified when that decision has been taken, without stating a six-month deadline. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_40)
 
 *before* (`02008R1272-20241210`)
 
@@ -1264,7 +1296,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision replaces the list of items the Agency must make publicly available online and free of charge, along with the related confidentiality-justification, confidentiality-grounds and undue-claim-screening text, with a shorter arrangement under which only the information corresponding to Article 119(1) of Regulation (EC) No 1907/2006 is described as publicly accessible. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_42) [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_42)
+
+The revised text instead provides that the Agency grants access to the other information on each substance to notifiers and registrants who submitted information on that substance under Article 29(1) of Regulation (EC) No 1907/2006, and grants access to other parties subject to Article 118 of that Regulation. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_42)
+
+Paragraph 3, listing the additional entry information the Agency includes where applicable, remains the same in both texts. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_42) [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_42)
 
 *before* (`02008R1272-20241210`)
 
@@ -1302,7 +1338,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The After text removes paragraphs 1a, 1b and 1c, which in the Before text allowed Member States to appoint the Agency as the receiving body and set out submission obligations for importers, downstream users and distributors placing hazardous mixtures on the market. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_45)
+
+Paragraph 3 is reworded so that it now refers to information required from the importers and downstream users responsible for marketing, dropping the earlier reference to distributors under paragraph 1c and to carrying out tasks in accordance with paragraph 1. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_45)
 
 *before* (`02008R1272-20241210`)
 
@@ -1334,7 +1372,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 1 now requires an advertisement for a hazardous substance to mention the hazard classes or hazard categories concerned, replacing the earlier wording that required pictograms, signal words, hazard statements, EUH statements and a label-referral phrase for public-sale advertisements. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_48)
+
+Paragraph 2 now applies specifically to advertisements that allow a member of the general public to conclude a purchase contract without first seeing the label, requiring only a mention of the type or types of hazard shown on the label, and adds a reference to Directive 97/7/EC of 20 May 1997 on distance contracts, whereas the earlier text required pictograms, signal words, hazard and EUH statements and a label-referral phrase for public-sale advertisements. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_48)
+
+The former paragraph 3, barring advertisement statements that could not appear on the label or packaging, and paragraph 4, allowing omission of pictograms and signal words for non-visual advertisements, are absent from the later text shown. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_48)
 
 *before* (`02008R1272-20241210`)
 
@@ -1351,13 +1393,14 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Advertisement
 > 1. Any advertisement for a substance classified as hazardous shall mention the hazard classes or hazard categories concerned.
 > 2. Any advertisement for a mixture classified as hazardous or covered by Article 25(6) which allows a member of the general public to conclude a contract for purchase without first having sight of the label shall mention the type or types of hazard indicated on the label.
-> The first subparagraph shall be without prejudice to Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contractsOJ L 144, 4.6.1997, p. 19..
+> The first subparagraph shall be without prejudice to Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts
+> OJ L 144, 4.6.1997, p. 19..
 
 **DELETED · Art. 48a — Distance sales offers** · applies from: unknown (a deleted provision has no application date to move)
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision requiring that distance sales offers clearly and visibly display the label elements referred to in Article 17 has been removed entirely, with no replacement text remaining in its place. [Art. 48a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48a)
 
 *before* (`02008R1272-20241210`)
 
@@ -1371,7 +1414,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Section 1.5.1.2 no longer refers to the signal words or to the trade name or designation for mixtures; it now requires only that the inner packaging label carry hazard pictograms, the product identifier referred to in Article 18, and the name and telephone number of the supplier. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_I)
+
+Section 1.5.2.4.1 has been restructured from a set of three lettered conditions with an extensive list of excluded hazard classes and categories into three simpler lettered conditions covering only the 10 ml content limit, supply for scientific research, development or quality control, and containment within compliant outer packaging. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_I)
+
+Section 1.6, which had listed supplemental information referred to in Article 25(3) as label elements that may be provided on a digital label only, is no longer present in this part of the text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_I)
 
 *before* (`02008R1272-20241210`)
 
@@ -1392,7 +1439,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 372482 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 372509 characters omitted…]
 
 *after* (`02008R1272-20250201`)
 
@@ -1413,7 +1460,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 371158 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 371185 characters omitted…]
 
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -1421,7 +1468,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Section 3.4, which set out conditions for supplying hazardous substances or mixtures via refill stations, has been removed entirely from Annex II Part 3. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_II)
+
+Part 5's heading changed from naming a list of hazardous substances and mixtures to describing itself as setting up such a list, and its content was shortened to a single line referring to ready mixed cement and concrete in the wet state, dropping the earlier text about the filling-station pump labelling requirements. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_II)
 
 *before* (`02008R1272-20241210`)
 
@@ -1473,7 +1522,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Several boron entries in Table 3 (boric acid, diboron trioxide, tetraboron disodium heptaoxide hydrate and related salts) now carry a Note 11 reference in the Notes column, which was absent for these entries before. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
+
+The entry for tetraboron disodium heptaoxide hydrate and its related salts also gained an added semicolon separating the listed salt names. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
+
+The remainder of the text supplied is truncated, so no further differences beyond these can be described. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
 
 *before* (`02008R1272-20241210`)
 
@@ -1486,7 +1539,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035654 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035656 characters omitted…]
 
 *after* (`02008R1272-20250201`)
 
@@ -1499,7 +1552,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035675 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2035677 characters omitted…]
 
 **MODIFIED · Annex VIII — HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES** · applies from: unchanged
 
@@ -1507,7 +1560,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+References to distributors acting under Article 45(1b) and (1c) are removed throughout Part A, so the obligations in sections 1.1 to 1.5 and 2.1 now name only importers and downstream users as the actors placing mixtures on the market. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VIII)
+
+Section 2.4's closing sentence drops the former point (6) defining a composition conforming with a standard formula, and section 3.1's third subparagraph removes the added text about standard-formula components remaining notifiable even at a 0% range, simplifying the notification-of-absent-components rule to depend only on interchangeable component group or range submission status. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VIII)
+
+Section 3.6's heading changes from referring to a mixture's composition conforming with a standard formula to referring to mixtures complying with standard formulas, section 4.1 drops the closing indent about other changes relevant for emergency health response, and Part C section 1.4 removes the standard formula name and product description line while section 1.2 restructures the product identifier and standard formula/fuel name entries; the standard formula tables in Part D are relabelled from "Standard formula name" plus a separate number line to a single "Cement Standard Formula – [number]" heading. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VIII)
 
 *before* (`02008R1272-20241210`)
 
