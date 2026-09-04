@@ -10,6 +10,256 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20190101 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20180101` → `02013R1308-20190101`
+
+- **Act** `eu:32013R1308` · **In force** 2019-01-01 · **Detected** 2026-09-04
+- **Touched** 22 provisions — 22 substantive · 0 date-only · **21 disputed**
+- **Diff** 1 inserted · 20 modified · 1 deleted · 0 renumbered · 0 deferred · 245 unchanged
+- **Gate** 0 sentences quoted verbatim · 21 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20180101` · `v2` = `02013R1308-20190101`
+
+---
+
+**MODIFIED · Art. 33** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 34** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 35 — National financial assistance** · applies from: unchanged
+
+*within* `AR 35 PA 1 ALN 1`, `AR 35 PA 1 ALN 2`, `AR 35 PA 2 ALN 1`, `AR 35 PA 2 ALN 2`, `AR 35 PA 3` · *amended by* `32017R2393`
+
+The before text had the Commission adopt implementing acts to authorise Member States, on a duly substantiated request, to pay national financial assistance where organisation of producers was particularly low, whereas the after text instead has Member States themselves grant that assistance directly where organisation is significantly below the Union average, adding a cap of up to 10% of the value of marketed production for any such producer organisation. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_35)
+
+The before text's paragraph 2 dealt with possible Union reimbursement of that assistance via a further Commission implementing act under the examination procedure, while the after text's paragraph 2 instead defines when the degree of organisation is considered significantly below the Union average, using a 20% threshold over three consecutive years and a value-based calculation referencing producer organisations, associations and groups recognised under specified Regulations. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_35)
+
+The after text adds a new paragraph 3 requiring Member States that grant such national financial assistance to inform the Commission of the qualifying regions and of the assistance granted, a reporting obligation that does not appear in the before text. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20190101#art_35)
+
+*before* (`02013R1308-20180101`)
+
+> Article 35
+> National financial assistance
+> 1. In regions of the Member States where the degree of organisation of producers in the fruit and vegetables sector is particularly low, the Commission may adopt implementing acts authorising Member States, at their duly substantiated request, to pay producer organisations national financial assistance equal to a maximum of 80 % of the financial contributions referred to in point (a) of Article 32(1). This assistance shall be additional to the operational fund.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. In regions of the Member States where producer organisations, associations of producer organisations and the producer groups referred to in Article 27 of Regulation (EU) No 1305/2013 market less than 15 % of the value of fruit and vegetable production of those regions, where fruit and vegetable production represents at least 15 % of the total agricultural output of those regions, the national financial assistance referred to in paragraph 1 of this Article may be reimbursed by the Union at the request of the Member State concerned.
+> The Commission shall adopt implementing acts concerning that reimbursement. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20190101`)
+
+> Article 35
+> National financial assistance
+> 1. In regions of Member States in which the degree of organisation of producers in the fruit and vegetables sector is significantly below the Union average, Member States may grant producer organisations national financial assistance equal to a maximum of 80 % of the financial contributions referred to in point (a) of Article 32(1) and up to 10 % of the value of the marketed production of any such producer organisation. That assistance shall be additional to the operational fund.
+> 2. The degree of organisation of producers in a region of a Member State shall be considered as significantly below the Union average where the average degree of organisation has been less than 20 % for three consecutive years preceding the implementation of the operational programme. The degree of organisation shall be calculated as the value of fruit and vegetable production that was obtained in the region concerned and marketed by producer organisations, associations of producer organisations and producer groups recognised in accordance with Article 125e of Regulation (EC) No 1234/2007 or Article 27 of Regulation (EU) No 1305/2013, divided by the total value of the fruit and vegetable production that was obtained in that region.
+> 3. Member States that grant national financial assistance in accordance with paragraph 1 shall inform the Commission of the regions that meet the criteria referred to in paragraph 2 and of the national financial assistance granted t […truncated by emendrix: 42 characters omitted…]
+
+**MODIFIED · Art. 37** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 62** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 64** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 148** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 149** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 152** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 154** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 157** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 159** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 161** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 168** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 169** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 172a** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 184** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 188** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 209** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 222** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 232** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20190101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20180101 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20170801` → `02013R1308-20180101`
