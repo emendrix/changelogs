@@ -616,28 +616,18 @@ New text also addresses naturally occurring substances and substances used for c
 ### `02009R1107-20130701` → `02009R1107-20140630`
 
 - **Act** `eu:32009R1107` · **In force** 2014-06-30 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 1 deleted · 0 renumbered · 0 deferred · 89 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 0 modified · 1 deleted · 0 renumbered · 0 deferred · 89 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20130701` · `v2` = `02009R1107-20140630`
 
 ---
 
-**DELETED · Art. 53** · applies from: unknown
+**DELETED · Art. 76** · applies from: unknown
 
 *amended by* `32014R0652`
 
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 76** · applies from: unknown
-
-*amended by* `32014R0652`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
