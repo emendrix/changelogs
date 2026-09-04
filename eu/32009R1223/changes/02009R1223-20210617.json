@@ -16,79 +16,22 @@
   "summary": {
     "inserted": 0,
     "modified": 2,
-    "deleted": 1,
+    "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 3,
+    "touched_units": 2,
     "unchanged_units": 49,
-    "disputed": 3
+    "disputed": 2
   },
   "counts": {
-    "touched": 3,
-    "substantive": 3,
+    "touched": 2,
+    "substantive": 2,
     "date_only": 0,
-    "disputed": 3,
+    "disputed": 2,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1223",
-            "display_name": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)"
-          },
-          "version": "02009R1223-20210617",
-          "location": "AR 2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0850",
-            "display_name": "Commission Regulation (EU) 2021/850 of 26 May 2021 amending and correcting Annex II and amending Annexes III, IV and VI to Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2021-05-26, 2021-06-17]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002",
-            "change_types": [
-              "DELETED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -134,9 +77,11 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R0850, 0.500 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "DELETED"
+            ]
           }
         },
         "disputed": true
@@ -144,7 +89,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -256,7 +202,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -314,12 +261,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 2"
+          "AN II"
         ],
         "note": "32021R0850, 0.500 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 2",
+            "location": "AN II",
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 002",
@@ -360,48 +307,35 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
-        "kind_mismatches": 0
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 1
       }
     ],
     "disagreements": [
       {
-        "unit": "AR 2",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "DELETED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN II",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
-          "corpus_metadata"
+          "corpus_metadata",
+          "instruction_parse"
         ],
         "absent_from": [
-          "structural_diff",
-          "instruction_parse"
+          "structural_diff"
         ],
         "kinds": [
           [
             "corpus_metadata",
             [
               "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "DELETED"
             ]
           ]
         ]
@@ -433,7 +367,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 2",
       "AN II"
     ]
   },
@@ -446,6 +379,9 @@
     "synthetic": 0,
     "truncated": 1,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 33313,
       "output_tokens": 207,
@@ -465,5 +401,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 3,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
