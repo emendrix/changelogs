@@ -10,6 +10,250 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R2031-20260706 -->
+## Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against […]
+### `02016R2031-20250105` → `02016R2031-20260706`
+
+- **Act** `eu:32016R2031` · **In force** 2026-07-06 · **Detected** 2026-09-04
+- **Touched** 21 provisions — 21 substantive · 0 date-only · **20 disputed**
+- **Diff** 2 inserted · 19 modified · 0 deleted · 0 renumbered · 0 deferred · 123 unchanged
+- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Citations** `v1` = `02016R2031-20250105` · `v2` = `02016R2031-20260706`
+
+---
+
+**MODIFIED · Art. 18** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 19** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 19a** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 22** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 24** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 30** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 34** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 37** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 42** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 42a** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 44** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 71 — Phytosanitary certificate for introduction into the Union territory** · applies from: unchanged
+
+*within* `AR 71 PA 2 ALN 1` · *amended by* `32024R3115`
+
+The cross-reference in paragraph 2 to the implementing act provision was changed from Article 37(2) to Article 37(4). [Art. 71, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_71) [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20260706#art_71)
+
+Paragraph 2 also adds a new sentence stating that, for one or more categories of plants for planting referred to in Article 37(7) in relation to Union regulated non-quarantine pests, the specification must include the full wording of the applicable option for the category concerned. [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20260706#art_71)
+
+*before* (`02016R2031-20250105`)
+
+> Article 71
+> Phytosanitary certificate for introduction into the Union territory
+> 1. A phytosanitary certificate for introduction of plants, plant products and other objects into the Union territory shall be a document, issued by a third country, which fulfils the conditions of Article 76, has the contents set out in Part A of Annex V, or, where applicable, Part B of Annex V, and certifies that the plant, plant product or other object concerned complies with all of the following requirements:
+> (a) it is free from Union quarantine pests and pests subject to measures adopted pursuant to Article 30(1);
+> (b) it complies with the provisions of Article 37(1) concerning the presence of Union regulated non-quarantine pests on plants for planting;
+> (c) it complies with the requirements referred to in Article 41(2) and (3) or, where applicable, Article 54(2) and (3);
+> (d) where applicable, it complies with rules adopted in accordance with the provisions adopted pursuant to point (d) of the first subparagraph of Article 28(1), Article 28(2) and Article 30(1).
+> 2. The phytosanitary certificate shall specify under the heading Additional Declaration which specific requirement is fulfilled, whenever the respective implementing act, adopted pursuant to Article 28(1) and (2), Article 30(1) and (3), Article 37(2), Article 41(2) and (3) and Article 54(2) and (3), allows for several different options for such requirements. That specification shall include the full wording of the relevant requirement.
+> 3. […truncated by emendrix: 477 characters omitted…]
+
+*after* (`02016R2031-20260706`)
+
+> Article 71
+> Phytosanitary certificate for introduction into the Union territory
+> 1. A phytosanitary certificate for introduction of plants, plant products and other objects into the Union territory shall be a document, issued by a third country, which fulfils the conditions of Article 76, has the contents set out in Part A of Annex V, or, where applicable, Part B of Annex V, and certifies that the plant, plant product or other object concerned complies with all of the following requirements:
+> (a) it is free from Union quarantine pests and pests subject to measures adopted pursuant to Article 30(1);
+> (b) it complies with the provisions of Article 37(1) concerning the presence of Union regulated non-quarantine pests on plants for planting;
+> (c) it complies with the requirements referred to in Article 41(2) and (3) or, where applicable, Article 54(2) and (3);
+> (d) where applicable, it complies with rules adopted in accordance with the provisions adopted pursuant to point (d) of the first subparagraph of Article 28(1), Article 28(2) and Article 30(1).
+> 2. The phytosanitary certificate shall specify under the heading Additional Declaration which specific requirement is fulfilled, whenever the respective implementing act adopted pursuant to Article 28(1) and (2), Article 30(1) and (3), Article 37(4), Article 41(2) and (3) and Article 54(2) and (3) allows for several different options for such requirements. That specification shall include the full wording of the relevant requirement. In t […truncated by emendrix: 725 characters omitted…]
+
+**MODIFIED · Art. 81** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 88** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 94** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 99** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 103** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 104** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 105** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R2031-20260706 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R2031-20250105 -->
 ## Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against […]
 ### `02016R2031-20191214` → `02016R2031-20250105`
