@@ -5163,7 +5163,7 @@ The BEFORE text contains only paragraphs 1 through 4 and does not include these 
 
 *within* `AR 11 PA 15 ALN 1 PTA (b)`, `AR 11 PA 15 ALN 1 PTA (c)`, `AR 11 PA 15 ALN 1 PTA (d)`, `AR 11 PA 15 ALN 2`, `AR 11 PA 15 ALN 3`, `AR 11 PA 15 ALN 4` · *dates* +2018-07-18 · *amended by* `32017R2402`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20170630`)
 
