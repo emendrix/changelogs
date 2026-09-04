@@ -10,6 +10,203 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20140219 -->
+## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
+### `02011R1169-20131206` → `02011R1169-20140219`
+
+- **Act** `eu:32011R1169` · **In force** 2014-02-19 · **Detected** 2026-09-04
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02011R1169-20131206` · `v2` = `02011R1169-20140219`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32014R0078`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32014R0078`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II PO 1` · *amended by* `32014R0078`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In point 1, the listing of cereals containing gluten changed from "wheat, rye, barley, oats, spelt, kamut or their hybridised strains" to "wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains". [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_II)
+
+*before* (`02011R1169-20131206`)
+
+>
+> ANNEX II
+>
+>
+> SUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES
+> 1. Cereals containing gluten, namely: wheat, rye, barley, oats, spelt, kamut or their hybridised strains, and products thereof, except:
+>
+> (a) wheat based glucose syrups including dextrose
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+>
+> (b) wheat based maltodextrins
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+>
+> (c) glucose syrups based on barley;
+>
+> (d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+> 2. Crustaceans and products thereof;
+> 3. Eggs and products thereof;
+> 4. Fish and products thereof, except:
+>
+> (a) fish gelatine used as carrier for vitamin or carotenoid preparations;
+>
+> (b) fish gelatine or Isinglass used as fining agent in beer and wine;
+> 5. Peanuts and products thereof;
+> 6. Soybeans and products thereof, except:
+>
+> (a) fully refined soybean oil and fat
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+>
+> (b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural D-alpha to […truncated by emendrix: 1288 characters omitted…]
+
+*after* (`02011R1169-20140219`)
+
+> ANNEX II
+> SUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES
+> 1. Cereals containing gluten, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, except:
+> (a) wheat based glucose syrups including dextrose
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) wheat based maltodextrins
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (c) glucose syrups based on barley;
+> (d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+> 2. Crustaceans and products thereof;
+> 3. Eggs and products thereof;
+> 4. Fish and products thereof, except:
+> (a) fish gelatine used as carrier for vitamin or carotenoid preparations;
+> (b) fish gelatine or Isinglass used as fining agent in beer and wine;
+> 5. Peanuts and products thereof;
+> 6. Soybeans and products thereof, except:
+> (a) fully refined soybean oil and fat
+> And the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;
+> (b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural […truncated by emendrix: 1293 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III` · *amended by* `32014R0078`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The statement associated with point (3) of item 5.1 was changed from describing the food as intended exclusively for people who want to lower their blood cholesterol level to describing the product as not intended for people who do not need to control their blood cholesterol level. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_III)
+
+*before* (`02011R1169-20131206`)
+
+>
+> ANNEX III
+>
+>
+> FOODS FOR WHICH THE LABELLING MUST INCLUDE ONE OR MORE ADDITIONAL PARTICULARS
+>
+> The level shall apply to the products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers.
+>
+> TYPE OR CATEGORY OF FOOD
+> PARTICULARS
+> 1. Foods packaged in certain gases
+> 1.1. Foods whose durability has been extended by means of packaging gases authorised pursuant to Regulation (EC) No 1333/2008.
+> packaged in a protective atmosphere.
+> 2. Foods containing sweeteners
+> 2.1. Foods containing a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008.
+> with sweetener(s) this statement shall accompany the name of the food.
+> 2.2. Foods containing both an added sugar or sugars and a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008.
+> with sugar(s) and sweetener(s) this statement shall accompany the name of the food.
+> 2.3. Foods containing aspartame/aspartame-acesulfame salt authorised pursuant to Regulation EC) No 1333/2008.
+> contains aspartame (a source of phenylalanine) shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients only by reference to the E number.
+> contains a source of phenylalanine shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients by its specific name.
+> 2.4. Foods containing more than 10 % added polyols authorised pursuant to Regulation (EC) No 1333/2008.
+> excessive consum […truncated by emendrix: 4646 characters omitted…]
+
+*after* (`02011R1169-20140219`)
+
+> ANNEX III
+> FOODS FOR WHICH THE LABELLING MUST INCLUDE ONE OR MORE ADDITIONAL PARTICULARS
+> The level shall apply to the products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers.
+> TYPE OR CATEGORY OF FOOD PARTICULARS
+> 1. Foods packaged in certain gases
+> 1.1. Foods whose durability has been extended by means of packaging gases authorised pursuant to Regulation (EC) No 1333/2008. packaged in a protective atmosphere.
+> 2. Foods containing sweeteners
+> 2.1. Foods containing a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008. with sweetener(s) this statement shall accompany the name of the food.
+> 2.2. Foods containing both an added sugar or sugars and a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008. with sugar(s) and sweetener(s) this statement shall accompany the name of the food.
+> 2.3. Foods containing aspartame/aspartame-acesulfame salt authorised pursuant to Regulation EC) No 1333/2008. contains aspartame (a source of phenylalanine) shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients only by reference to the E number.
+> contains a source of phenylalanine shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients by its specific name.
+> 2.4. Foods containing more than 10 % added polyols authorised pursuant to Regulation (EC) No 1333/2008. excessive consumption […truncated by emendrix: 4644 characters omitted…]
+
+**MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
+
+*within* `AN VI PO 7`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point 7 of Annex VI, the Spanish-language indication for meat and fish made of combined pieces was changed from combinado de piezas de carne and combinado de piezas de pescado to elaborado a partir de piezas de carne and elaborado a partir de piezas de pescado. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI)
+
+The Slovak-language indication for the same point was also changed, from spájané alebo formované mäso and spájané alebo formované ryby to zo spájaných kúskov mäsa and zo spájaných kúskov ryby. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI)
+
+*before* (`02011R1169-20131206`)
+
+>
+> ANNEX VI
+>
+>
+> NAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS
+>
+>
+> PART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD
+> 1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.
+> 2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.
+> This requirement shall not apply to the following:
+>
+> (a) ingredients present in the final product;
+>
+> (b) foods for which freezing is a technologically necessary step of the production process;
+>
+> (c) foods for which the defrosting has no negative impact on the safety or quality of the food.
+> This point shall apply without prejudice to point 1.
+> 3. Foods treated with ionising radiation shall bear one of the following indications:
+> irradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation
+> OJ L 66, 13.3.1999, p. 16..
+> 4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substi […truncated by emendrix: 4211 characters omitted…]
+
+*after* (`02011R1169-20140219`)
+
+> ANNEX VI
+> NAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS
+> PART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD
+> 1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.
+> 2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.
+> This requirement shall not apply to the following:
+> (a) ingredients present in the final product;
+> (b) foods for which freezing is a technologically necessary step of the production process;
+> (c) foods for which the defrosting has no negative impact on the safety or quality of the food.
+> This point shall apply without prejudice to point 1.
+> 3. Foods treated with ionising radiation shall bear one of the following indications:
+> irradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation
+> OJ L 66, 13.3.1999, p. 16..
+> 4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted wi […truncated by emendrix: 4199 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R1169-20140219 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20131206 -->
 ## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
 ### `02011R1169-20111212` → `02011R1169-20131206`

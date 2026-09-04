@@ -1,0 +1,720 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R1169",
+    "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+  },
+  "from_version": "02011R1169-20131206",
+  "to_version": "02011R1169-20140219",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2014-02-19"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 5,
+    "unchanged_units": 67,
+    "disputed": 5
+  },
+  "counts": {
+    "touched": 5,
+    "substantive": 5,
+    "date_only": 0,
+    "disputed": 5,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20140219",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0078",
+            "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2013-12-06, 2014-02-19]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20140219",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0078",
+            "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2013-12-06, 2014-02-19]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20140219",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "\nANNEX II\n\n\nSUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES\n1. Cereals containing gluten, namely: wheat, rye, barley, oats, spelt, kamut or their hybridised strains, and products thereof, except:\n\n(a) wheat based glucose syrups including dextrose\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n\n(b) wheat based maltodextrins\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n\n(c) glucose syrups based on barley;\n\n(d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n2. Crustaceans and products thereof;\n3. Eggs and products thereof;\n4. Fish and products thereof, except:\n\n(a) fish gelatine used as carrier for vitamin or carotenoid preparations;\n\n(b) fish gelatine or Isinglass used as fining agent in beer and wine;\n5. Peanuts and products thereof;\n6. Soybeans and products thereof, except:\n\n(a) fully refined soybean oil and fat\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n\n(b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural D-alpha tocopherol acetate, and natural D-alpha tocopherol succinate from soybean sources;\n\n(c) vegetable oils derived phytosterols and phytosterol esters from soybean sources;\n\n(d) plant stanol ester produced from vegetable oil sterols from soybean sources;\n7. Milk and products thereof (including lactose), except:\n\n(a) whey used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n\n(b) lactitol;\n8. Nuts, namely: almonds (Amygdalus communis L.), hazelnuts (Corylus avellana), walnuts (Juglans regia), cashews (Anacardium occidentale), pecan nuts (Carya illinoinensis (Wangenh.) K. Koch), Brazil nuts (Bertholletia excelsa), pistachio nuts (Pistacia vera), macadamia or Queensland nuts (Macadamia ternifolia), and products thereof, except for nuts used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n9. Celery and products thereof;\n\n10. Mustard and products thereof;\n11. Sesame seeds and products thereof;\n12. Sulphur dioxide and sulphites at concentrations of more than 10 mg/kg or 10 mg/litre in terms of the total SO2 which are to be calculated for products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers;\n13. Lupin and products thereof;\n14. Molluscs and products thereof.",
+        "after": "ANNEX II\nSUBSTANCES OR PRODUCTS CAUSING ALLERGIES OR INTOLERANCES\n1. Cereals containing gluten, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, except:\n(a) wheat based glucose syrups including dextrose\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n(b) wheat based maltodextrins\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n(c) glucose syrups based on barley;\n(d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n2. Crustaceans and products thereof;\n3. Eggs and products thereof;\n4. Fish and products thereof, except:\n(a) fish gelatine used as carrier for vitamin or carotenoid preparations;\n(b) fish gelatine or Isinglass used as fining agent in beer and wine;\n5. Peanuts and products thereof;\n6. Soybeans and products thereof, except:\n(a) fully refined soybean oil and fat\nAnd the products thereof, in so far as the process that they have undergone is not likely to increase the level of allergenicity assessed by the Authority for the relevant product from which they originated.;\n(b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural D-alpha tocopherol acetate, and natural D-alpha tocopherol succinate from soybean sources;\n(c) vegetable oils derived phytosterols and phytosterol esters from soybean sources;\n(d) plant stanol ester produced from vegetable oil sterols from soybean sources;\n7. Milk and products thereof (including lactose), except:\n(a) whey used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n(b) lactitol;\n8. Nuts, namely: almonds (Amygdalus communis L.), hazelnuts (Corylus avellana), walnuts (Juglans regia), cashews (Anacardium occidentale), pecan nuts (Carya illinoinensis (Wangenh.) K. Koch), Brazil nuts (Bertholletia excelsa), pistachio nuts (Pistacia vera), macadamia or Queensland nuts (Macadamia ternifolia), and products thereof, except for nuts used for making alcoholic distillates including ethyl alcohol of agricultural origin;\n9. Celery and products thereof;\n10. Mustard and products thereof;\n11. Sesame seeds and products thereof;\n12. Sulphur dioxide and sulphites at concentrations of more than 10 mg/kg or 10 mg/litre in terms of the total SO2 which are to be calculated for products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers;\n13. Lupin and products thereof;\n14. Molluscs and products thereof.",
+        "previous_location": null,
+        "changed_within": [
+          "AN II PO 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0078",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-02-19",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0078 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014R0078, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point 1, the listing of cereals containing gluten changed from \"wheat, rye, barley, oats, spelt, kamut or their hybridised strains\" to \"wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_II",
+              "label": "Annex II, 02011R1169-20131206"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20140219",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_II",
+              "label": "Annex II, 02011R1169-20140219"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20140219",
+          "location": "AN III"
+        },
+        "heading": "ANNEX III",
+        "before": "\nANNEX III\n\n\nFOODS FOR WHICH THE LABELLING MUST INCLUDE ONE OR MORE ADDITIONAL PARTICULARS\n\nThe level shall apply to the products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers.\n\nTYPE OR CATEGORY OF FOOD\nPARTICULARS\n1. Foods packaged in certain gases\n1.1. Foods whose durability has been extended by means of packaging gases authorised pursuant to Regulation (EC) No 1333/2008.\npackaged in a protective atmosphere.\n2. Foods containing sweeteners\n2.1. Foods containing a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008.\nwith sweetener(s) this statement shall accompany the name of the food.\n2.2. Foods containing both an added sugar or sugars and a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008.\nwith sugar(s) and sweetener(s) this statement shall accompany the name of the food.\n2.3. Foods containing aspartame/aspartame-acesulfame salt authorised pursuant to Regulation EC) No 1333/2008.\ncontains aspartame (a source of phenylalanine) shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients only by reference to the E number.\ncontains a source of phenylalanine shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients by its specific name.\n2.4. Foods containing more than 10 % added polyols authorised pursuant to Regulation (EC) No 1333/2008.\nexcessive consumption may produce laxative effects.\n3. Foods containing glycyrrhizinic acid or its ammonium salt\n3.1. Confectionery or beverages containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra, at concentration of 100 mg/kg or 10 mg/l or above.\ncontains liquorice shall be added immediately after the list of ingredients, unless the term liquorice is already included in the list of ingredients or in the name of the food. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n3.2. Confectionary containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra at concentrations of 4 g/kg or above.\ncontains liquorice – people suffering from hypertension should avoid excessive consumption shall be added immediately after the list of ingredients. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n3.3. Beverages containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra at concentrations of 50 mg/l or above, or of 300 mg/l or above in the case of beverages containing more than 1,2 % by volume of alcohol\n.\ncontains liquorice – people suffering from hypertension should avoid excessive consumption shall be added immediately after the list of ingredients. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n4. Beverages with high caffeine content or foods with added caffeine\n4.1. Beverages, with the exception of those based on coffee, tea or coffee or tea extract where the name of the food includes the term coffee or tea, which:\n\nare intended for consumption without modification and contain caffeine, from whatever source, in a proportion in excess of 150 mg/l, or,\nare in concentrated or dried form and after reconstitution contain caffeine, from whatever source, in a proportion in excess of 150 mg/l,\nHigh caffeine content. Not recommended for children or pregnant or breast-feeding women in the same field of vision as the name of the beverage, followed by a reference in brackets and in accordance with Article 13(1) of this Regulation to the caffeine content expressed in mg per 100 ml.\n4.2. Foods other than beverages, where caffeine is added with a physiological purpose.\nContains caffeine. Not recommended for children or pregnant women in the same field of vision as the name of the food, followed by a reference in brackets and in accordance with Article 13(1) of this Regulation to the caffeine content expressed in mg per 100 g/ml. In the case of food supplements, the caffeine content shall be expressed per portion as recommended for daily consumption on the labelling.\n5. Foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters\n5.1. Foods or food ingredients with added phytosterols, phytosterol esters, phytostanols or phytostanol esters.\n(1) with added plant sterols or with added plant stanols in the same field of vision as the name of the food;\n(2) the amount of added phytosterols, phytosterol esters, phytostanols or phytostanol esters content (expressed in % or as g of free plant sterols/plant stanols per 100 g or 100 ml of the food) shall be stated in the list of ingredients;\n(3) a statement that the food is intended exclusively for people who want to lower their blood cholesterol level;\n(4) a statement that patients on cholesterol lowering medication should only consume the product under medical supervision;\n(5) an easily visible statement that the food may not be nutritionally appropriate for pregnant or breastfeeding women and children under the age of 5 years;\n(6) advice that the food is to be used as part of a balanced and varied diet, including regular consumption of fruit and vegetables to help maintain carotenoid levels;\n(7) in the same field of vision as the statement required under point (3) above, a statement that the consumption of more than 3 g/day of added plant sterols/plant stanols should be avoided;\n(8) a definition of a portion of the food or food ingredient concerned (preferably in g or ml) with the amount of the plant sterol/plant stanol that each portion contains.\n6. Frozen meat, frozen meat preparations and frozen unprocessed fishery products\n6.1. Frozen meat, frozen meat preparations and frozen unprocessed fishery products.\nthe date of freezing or the date of first freezing in cases where the product has been frozen more than once, in accordance with point (3) of Annex X.",
+        "after": "ANNEX III\nFOODS FOR WHICH THE LABELLING MUST INCLUDE ONE OR MORE ADDITIONAL PARTICULARS\nThe level shall apply to the products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers.\nTYPE OR CATEGORY OF FOOD PARTICULARS\n1. Foods packaged in certain gases\n1.1. Foods whose durability has been extended by means of packaging gases authorised pursuant to Regulation (EC) No 1333/2008. packaged in a protective atmosphere.\n2. Foods containing sweeteners\n2.1. Foods containing a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008. with sweetener(s) this statement shall accompany the name of the food.\n2.2. Foods containing both an added sugar or sugars and a sweetener or sweeteners authorised pursuant to Regulation (EC) No 1333/2008. with sugar(s) and sweetener(s) this statement shall accompany the name of the food.\n2.3. Foods containing aspartame/aspartame-acesulfame salt authorised pursuant to Regulation EC) No 1333/2008. contains aspartame (a source of phenylalanine) shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients only by reference to the E number.\ncontains a source of phenylalanine shall appear on the label in cases where aspartame/aspartame-acesulfame salt is designated in the list of ingredients by its specific name.\n2.4. Foods containing more than 10 % added polyols authorised pursuant to Regulation (EC) No 1333/2008. excessive consumption may produce laxative effects.\n3. Foods containing glycyrrhizinic acid or its ammonium salt\n3.1. Confectionery or beverages containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra, at concentration of 100 mg/kg or 10 mg/l or above. contains liquorice shall be added immediately after the list of ingredients, unless the term liquorice is already included in the list of ingredients or in the name of the food. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n3.2. Confectionary containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra at concentrations of 4 g/kg or above. contains liquorice – people suffering from hypertension should avoid excessive consumption shall be added immediately after the list of ingredients. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n3.3. Beverages containing glycyrrhizinic acid or its ammonium salt due to the addition of the substance(s) as such or the liquorice plant Glycyrrhiza glabra at concentrations of 50 mg/l or above, or of 300 mg/l or above in the case of beverages containing more than 1,2 % by volume of alcohol\n. contains liquorice – people suffering from hypertension should avoid excessive consumption shall be added immediately after the list of ingredients. In the absence of a list of ingredients, the statement shall accompany the name of the food.\n4. Beverages with high caffeine content or foods with added caffeine\n4.1. Beverages, with the exception of those based on coffee, tea or coffee or tea extract where the name of the food includes the term coffee or tea, which:\nare intended for consumption without modification and contain caffeine, from whatever source, in a proportion in excess of 150 mg/l, or,\nare in concentrated or dried form and after reconstitution contain caffeine, from whatever source, in a proportion in excess of 150 mg/l, High caffeine content. Not recommended for children or pregnant or breast-feeding women in the same field of vision as the name of the beverage, followed by a reference in brackets and in accordance with Article 13(1) of this Regulation to the caffeine content expressed in mg per 100 ml.\n4.2. Foods other than beverages, where caffeine is added with a physiological purpose. Contains caffeine. Not recommended for children or pregnant women in the same field of vision as the name of the food, followed by a reference in brackets and in accordance with Article 13(1) of this Regulation to the caffeine content expressed in mg per 100 g/ml. In the case of food supplements, the caffeine content shall be expressed per portion as recommended for daily consumption on the labelling.\n5. Foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters\n5.1. Foods or food ingredients with added phytosterols, phytosterol esters, phytostanols or phytostanol esters. (1) with added plant sterols or with added plant stanols in the same field of vision as the name of the food;\n(2) the amount of added phytosterols, phytosterol esters, phytostanols or phytostanol esters content (expressed in % or as g of free plant sterols/plant stanols per 100 g or 100 ml of the food) shall be stated in the list of ingredients;\n(3) a statement that the product is not intended for people who do not need to control their blood cholesterol level;\n(4) a statement that patients on cholesterol lowering medication should only consume the product under medical supervision;\n(5) an easily visible statement that the food may not be nutritionally appropriate for pregnant or breastfeeding women and children under the age of 5 years;\n(6) advice that the food is to be used as part of a balanced and varied diet, including regular consumption of fruit and vegetables to help maintain carotenoid levels;\n(7) in the same field of vision as the statement required under point (3) above, a statement that the consumption of more than 3 g/day of added plant sterols/plant stanols should be avoided;\n(8) a definition of a portion of the food or food ingredient concerned (preferably in g or ml) with the amount of the plant sterol/plant stanol that each portion contains.\n6. Frozen meat, frozen meat preparations and frozen unprocessed fishery products\n6.1. Frozen meat, frozen meat preparations and frozen unprocessed fishery products. the date of freezing or the date of first freezing in cases where the product has been frozen more than once, in accordance with point (3) of Annex X.",
+        "previous_location": null,
+        "changed_within": [
+          "AN III"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0078",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-02-19",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0078 M",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014R0078, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The statement associated with point (3) of item 5.1 was changed from describing the food as intended exclusively for people who want to lower their blood cholesterol level to describing the product as not intended for people who do not need to control their blood cholesterol level.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_III",
+              "label": "Annex III, 02011R1169-20131206"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20140219",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_III",
+              "label": "Annex III, 02011R1169-20140219"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20140219",
+          "location": "AN VI"
+        },
+        "heading": "ANNEX VI",
+        "before": "\nANNEX VI\n\n\nNAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS\n\n\nPART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD\n1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.\n2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.\nThis requirement shall not apply to the following:\n\n(a) ingredients present in the final product;\n\n(b) foods for which freezing is a technologically necessary step of the production process;\n\n(c) foods for which the defrosting has no negative impact on the safety or quality of the food.\nThis point shall apply without prejudice to point 1.\n3. Foods treated with ionising radiation shall bear one of the following indications:\nirradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation\nOJ L 66, 13.3.1999, p. 16..\n4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted with a different component or ingredient, the labelling shall bear — in addition to the list of ingredients — a clear indication of the component or the ingredient that has been used for the partial or whole substitution:\n\n(a) in close proximity to the name of the product; and\n\n(b) using a font size which has an x-height of at least 75 % of the x-height of the name of the product and which is not smaller than the minimum font size required in Article 13(2) of this Regulation.\n5. In the case of meat products, meat preparations and fishery products containing added proteins as such, including hydrolysed proteins, of a different animal origin, the name of the food shall bear an indication of the presence of those proteins and of their origin.\n6. In the case of meat products and meat preparations which have the appearance of a cut, joint, slice, portion or carcase of meat, the name of the food shall include an indication of the presence of added water if the added water makes up more than 5 % of the weight of the finished product. The same rules shall apply in the case of fishery products and prepared fishery products which have the appearance of a cut, joint, slice, portion, filet or of a whole fishery product.\n\n7. Meat products, meat preparations and fishery products which may give the impression that they are made of a whole piece of meat or fish, but actually consist of different pieces combined together by other ingredients, including food additives and food enzymes or by other means, shall bear the following indication:\n\nin Bulgarian\nформовано месо and формована риба;\nin Spanish\ncombinado de piezas de carne and combinado de piezas de pescado;\nin Czech\nze spojovaných kousků masa and ze spojovaných kousků rybího masa;\nin Danish\nSammensat af stykker af kød and Sammensat af stykker af fisk;\nin German\naus Fleischstücken zusammengefügt and aus Fischstücken zusammengefügt;\nin Estonian\nliidetud liha and liidetud kala;\nin Greek\nμορφοποιημένο κρέας and μορφοποιημένο ψάρι;\nin English\nformed meat and formed fish;\nin French\nviande reconstituée and poisson reconstitué;\nin Irish\npíosaí feola ceangailte and píosaí éisc ceangailte;\nin Italian\ncarne ricomposta and pesce ricomposto;\nin Latvian\nformēta gaļa and formēta zivs;\nin Lithuanian\nsudarytas (-a) iš mėsos gabalų and sudarytas (-a) iš žuvies gabalų;\nin Hungarian\ndarabokból újraformázott hús and darabokból újraformázott hal;\nin Maltese\nlaħam rikostitwit and ħut rikostitwit;\nin Dutch\nsamengesteld uit stukjes vlees and samengesteld uit stukjes vis;\nin Polish\nz połączonych kawałków mięsa and z połączonych kawałków ryby;\nin Portuguese\ncarne reconstituída and peixe reconstituído;\nin Romanian\ncarne formată and carne de pește formată;\nin Slovak\nspájané alebo formované mäso and spájané alebo formované ryby;\nin Slovenian\nsestavljeno, iz koščkov oblikovano meso and sestavljene, iz koščkov oblikovane ribe;\nin Finnish\npaloista yhdistetty liha and paloista yhdistetty kala;\nin Swedish\nsammanfogade bitar av kött and sammanfogade bitar av fisk.\n\n\n\nPART B — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF MINCED MEAT\n1. Composition criteria checked on the basis of a daily average:\n\nThe collagen/meat protein ratio is expressed as the percentage of collagen in meat protein. The collagen content means the hydroxyproline content multiplied by a factor of 8.\n\n\nFat content\nCollagen/meat protein ratio\n\n— lean minced meat,\n≤ 7 %\n≤ 12 %\n— minced pure beef,\n≤ 20 %\n≤ 15 %\n— minced meat containing pigmeat,\n≤ 30 %\n≤ 18 %\n— minced meat of other species,\n≤ 25 %\n≤ 15 %\n2. In addition to the requirements laid down in Chapter IV of Section V of Annex III to Regulation (EC) No 853/2004, the following expressions shall appear on the labelling:\n\npercentage of fat content under …,\ncollagen/meat protein ratio under …,\n3. The Member States may allow the placing on their national market of minced meat which does not comply with the criteria laid down in point 1 of this Part under a national mark that cannot be confused with the marks provided for in Article 5(1) of Regulation (EC) No 853/2004.\n\n\nPART C — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF SAUSAGE CASINGS\nIf a sausage casing is not edible, this must be indicated.",
+        "after": "ANNEX VI\nNAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS\nPART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD\n1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.\n2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.\nThis requirement shall not apply to the following:\n(a) ingredients present in the final product;\n(b) foods for which freezing is a technologically necessary step of the production process;\n(c) foods for which the defrosting has no negative impact on the safety or quality of the food.\nThis point shall apply without prejudice to point 1.\n3. Foods treated with ionising radiation shall bear one of the following indications:\nirradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation\nOJ L 66, 13.3.1999, p. 16..\n4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted with a different component or ingredient, the labelling shall bear — in addition to the list of ingredients — a clear indication of the component or the ingredient that has been used for the partial or whole substitution:\n(a) in close proximity to the name of the product; and\n(b) using a font size which has an x-height of at least 75 % of the x-height of the name of the product and which is not smaller than the minimum font size required in Article 13(2) of this Regulation.\n5. In the case of meat products, meat preparations and fishery products containing added proteins as such, including hydrolysed proteins, of a different animal origin, the name of the food shall bear an indication of the presence of those proteins and of their origin.\n6. In the case of meat products and meat preparations which have the appearance of a cut, joint, slice, portion or carcase of meat, the name of the food shall include an indication of the presence of added water if the added water makes up more than 5 % of the weight of the finished product. The same rules shall apply in the case of fishery products and prepared fishery products which have the appearance of a cut, joint, slice, portion, filet or of a whole fishery product.\n7. Meat products, meat preparations and fishery products which may give the impression that they are made of a whole piece of meat or fish, but actually consist of different pieces combined together by other ingredients, including food additives and food enzymes or by other means, shall bear the following indication:\nin Bulgarian\nформовано месо and формована риба;\nin Spanish\nelaborado a partir de piezas de carne and elaborado a partir de piezas de pescado;\nin Czech\nze spojovaných kousků masa and ze spojovaných kousků rybího masa;\nin Danish\nSammensat af stykker af kød and Sammensat af stykker af fisk;\nin German\naus Fleischstücken zusammengefügt and aus Fischstücken zusammengefügt;\nin Estonian\nliidetud liha and liidetud kala;\nin Greek\nμορφοποιημένο κρέας and μορφοποιημένο ψάρι;\nin English\nformed meat and formed fish;\nin French\nviande reconstituée and poisson reconstitué;\nin Irish\npíosaí feola ceangailte and píosaí éisc ceangailte;\nin Italian\ncarne ricomposta and pesce ricomposto;\nin Latvian\nformēta gaļa and formēta zivs;\nin Lithuanian\nsudarytas (-a) iš mėsos gabalų and sudarytas (-a) iš žuvies gabalų;\nin Hungarian\ndarabokból újraformázott hús and darabokból újraformázott hal;\nin Maltese\nlaħam rikostitwit and ħut rikostitwit;\nin Dutch\nsamengesteld uit stukjes vlees and samengesteld uit stukjes vis;\nin Polish\nz połączonych kawałków mięsa and z połączonych kawałków ryby;\nin Portuguese\ncarne reconstituída and peixe reconstituído;\nin Romanian\ncarne formată and carne de pește formată;\nin Slovak\nzo spájaných kúskov mäsa and zo spájaných kúskov ryby;\nin Slovenian\nsestavljeno, iz koščkov oblikovano meso and sestavljene, iz koščkov oblikovane ribe;\nin Finnish\npaloista yhdistetty liha and paloista yhdistetty kala;\nin Swedish\nsammanfogade bitar av kött and sammanfogade bitar av fisk.\nPART B — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF MINCED MEAT\n1. Composition criteria checked on the basis of a daily average:\nThe collagen/meat protein ratio is expressed as the percentage of collagen in meat protein. The collagen content means the hydroxyproline content multiplied by a factor of 8.\nFat content Collagen/meat protein ratio\n— lean minced meat, ≤ 7 % ≤ 12 %\n— minced pure beef, ≤ 20 % ≤ 15 %\n— minced meat containing pigmeat, ≤ 30 % ≤ 18 %\n— minced meat of other species, ≤ 25 % ≤ 15 %\n2. In addition to the requirements laid down in Chapter IV of Section V of Annex III to Regulation (EC) No 853/2004, the following expressions shall appear on the labelling:\npercentage of fat content under …,\ncollagen/meat protein ratio under …,\n3. The Member States may allow the placing on their national market of minced meat which does not comply with the criteria laid down in point 1 of this Part under a national mark that cannot be confused with the marks provided for in Article 5(1) of Regulation (EC) No 853/2004.\nPART C — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF SAUSAGE CASINGS\nIf a sausage casing is not edible, this must be indicated.",
+        "previous_location": null,
+        "changed_within": [
+          "AN VI PO 7"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "2 annotations in (2013-12-06, 2014-02-19]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32014R0078, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point 7 of Annex VI, the Spanish-language indication for meat and fish made of combined pieces was changed from combinado de piezas de carne and combinado de piezas de pescado to elaborado a partir de piezas de carne and elaborado a partir de piezas de pescado.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_VI",
+              "label": "Annex VI, 02011R1169-20131206"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20140219",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI",
+              "label": "Annex VI, 02011R1169-20140219"
+            }
+          ]
+        },
+        {
+          "text": "The Slovak-language indication for the same point was also changed, from spájané alebo formované mäso and spájané alebo formované ryby to zo spájaných kúskov mäsa and zo spájaných kúskov ryby.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_VI",
+              "label": "Annex VI, 02011R1169-20131206"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20140219",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI",
+              "label": "Annex VI, 02011R1169-20140219"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R1169",
+      "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+    },
+    "from_version": "02011R1169-20131206",
+    "to_version": "02011R1169-20140219",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN II",
+          "AN III",
+          "AN VI"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN II",
+          "AN III"
+        ],
+        "note": "2 annotations in (2013-12-06, 2014-02-19]",
+        "claims": [
+          {
+            "location": "AN II PT 1 FR 1",
+            "change_type": "MODIFIED",
+            "in_force": "2014-02-19",
+            "source": "32014R0078 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0078",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III PT 5.1",
+            "change_type": "MODIFIED",
+            "in_force": "2014-02-19",
+            "source": "32014R0078 M",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0078",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2"
+        ],
+        "note": "32014R0078, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PO 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0078",
+              "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
+            }
+          },
+          {
+            "location": "AR 2 PO 5",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0078",
+              "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN II",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN III",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1",
+      "AR 2"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 5,
+    "explained": 3,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 2,
+    "usage": {
+      "input_tokens": 17949,
+      "output_tokens": 627,
+      "requests": 3,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 5,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 4,
+    "citations": 8,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
