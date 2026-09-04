@@ -1,0 +1,339 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0852",
+    "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+  },
+  "from_version": "02017R0852-20221225",
+  "to_version": "02017R0852-20231016",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2023-10-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 28,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0852",
+            "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+          },
+          "version": "02017R0852-20231016",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "ANNEX II\nMercury-added products referred to in Article 5\nPart A — Mercury-added products\nRegulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59).\nMercury-added products Date from which the export, import and manufacturing of the mercury-added products are prohibited\n1. Batteries or accumulators that contain more than 0,0005 % of mercury by weight. 31.12.2020\n2. Switches and relays, except very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay. 31.12.2020\n3. Compact fluorescent lamps (CFLs) for general lighting purposes:\n(a) CFL.i ≤ 30 watts with a mercury content exceeding 2,5 mg per lamp burner;\n(b) CFL.ni ≤ 30 watts with a mercury content exceeding 3,5 mg per lamp burner. 31.12.2018\n4. The following linear fluorescent lamps (LFLs) for general lighting purposes:\n(a) Triband phosphor < 60 watts with a mercury content exceeding 5 mg per lamp;\n(b) Halophosphate phosphor ≤ 40 watts with a mercury content exceeding 10 mg per lamp. 31.12.2018\n5. High pressure mercury vapour lamps (HPMVs) for general lighting purposes. 31.12.2018\n6. The following mercury-added cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays:\n(a) short length (≤ 500 mm) with mercury content exceeding 3,5 mg per lamp;\n(b) medium length (> 500 mm and ≤ 1500 mm) with mercury content exceeding 5 mg per lamp;\n(c) long length (> 1500 mm) with mercury content exceeding 13 mg per lamp. 31.12.2018\n7. Cosmetics with mercury and mercury compounds, except those special cases included in entries 16 and 17 of Annex V to Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n. 31.12.2020\n8. Pesticides, biocides and topical antiseptics. 31.12.2020\n9. The following non-electronic measuring devices:\n(a) barometers;\n(b) hygrometers;\n(c) manometers;\n(d) thermometers and other non-electrical thermometric applications;\n(e) sphygmomanometers;\n(f) strain gauges to be used with plethysmographs;\n(g) mercury pycnometers;\n(h) mercury metering devices for determination of the softening point.\nThis entry does not cover the following measuring devices:\nnon-electronic measuring devices installed in large-scale equipment or those used for high precision measurement where no suitable mercury-free alternative is available;\nmeasuring devices more than 50 years old on 3 October 2007;\nmeasuring devices which are to be displayed in public exhibitions for cultural and historical purposes. 31.12.2020\nPart B — Additional products excluded from the list in Part A of this Annex\nSwitches and relays, cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays and measuring devices, when they are used to replace a component of larger equipment and provided that no feasible mercury-free alternative for that component is available, in accordance with Directive 2000/53/EC of the European Parliament and of the Council\nDirective 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles (OJ L 269, 21.10.2000, p. 34). and Directive 2011/65/EU.",
+        "after": "ANNEX II\nMercury-added products referred to in Article 5\nPart A — Mercury-added products\nRegulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59).\nMercury-added products Date from which the export, import and manufacturing of the mercury-added products are prohibited\n1. Batteries or accumulators that contain more than 0,0005 % of mercury by weight. 31.12.2020\n2. Switches and relays, except very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay. 31.12.2020\n3. Compact fluorescent lamps (CFLs) for general lighting purposes:\n(a) CFL.i ≤ 30 watts with a mercury content exceeding 2,5 mg per lamp burner;\n(b) CFL.ni ≤ 30 watts with a mercury content exceeding 3,5 mg per lamp burner. 31.12.2018\n3a. Compact fluorescent lamps with an integrated ballast (CFL.i) for general lighting purposes that are ≤ 30 watts with a mercury content not exceeding 2,5 mg per lamp burner. 31.12.2025\n4. The following linear fluorescent lamps (LFLs) for general lighting purposes:\n(a) Triband phosphor < 60 watts with a mercury content exceeding 5 mg per lamp;\n(b) Halophosphate phosphor ≤ 40 watts with a mercury content exceeding 10 mg per lamp. 31.12.2018\n5. High pressure mercury vapour lamps (HPMVs) for general lighting purposes. 31.12.2018\n6. The following mercury-added cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays:\n(a) short length (≤ 500 mm) with mercury content exceeding 3,5 mg per lamp;\n(b) medium length (> 500 mm and ≤ 1500 mm) with mercury content exceeding 5 mg per lamp;\n(c) long length (> 1500 mm) with mercury content exceeding 13 mg per lamp. 31.12.2018\n6a. Cold cathode fluorescent lamps (CCFL) and external electrode fluorescent lamps (EEFL) of all lengths for electronic displays, that are not included in entry 6. 31.12.2025\n7. Cosmetics with mercury and mercury compounds, except those special cases included in entries 16 and 17 of Annex V to Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n. 31.12.2020\n8. Pesticides, biocides and topical antiseptics. 31.12.2020\n9. The following non-electronic measuring devices:\n(a) barometers;\n(b) hygrometers;\n(c) manometers;\n(d) thermometers and other non-electrical thermometric applications;\n(e) sphygmomanometers;\n(f) strain gauges to be used with plethysmographs;\n(g) mercury pycnometers;\n(h) mercury metering devices for determination of the softening point.\nThis entry does not cover the following measuring devices:\nnon-electronic measuring devices installed in large-scale equipment or those used for high precision measurement where no suitable mercury-free alternative is available;\nmeasuring devices more than 50 years old on 3 October 2007;\nmeasuring devices which are to be displayed in public exhibitions for cultural and historical purposes. 31.12.2020\n10. The following electrical and electronic measuring devices except those installed in large-scale equipment or those used for high precision measurement where no suitable mercury-free alternative is available:\n(a) melt pressure transducers;\n(b) melt pressure transmitters;\n(c) melt pressure sensors. 31.12.2025\n11. Other mercury-added products:\n(a) Mercury vacuum pumps;\n(b) Tyre balancers and wheel weights;\n(c) Photographic film and paper;\n(d) Propellant for satellites and spacecraft. 31.12.2025\nPart B — Additional products excluded from the list in Part A of this Annex\nSwitches and relays, cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFLs and EEFLs) for electronic displays and measuring devices, when they are used to replace a component of larger equipment and provided that no feasible mercury-free alternative for that component is available, in accordance with Directive 2000/53/EC of the European Parliament and of the Council\nDirective 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles (OJ L 269, 21.10.2000, p. 34). and Directive 2011/65/EU.",
+        "previous_location": null,
+        "changed_within": [
+          "AN II"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R2049",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2025-12-31"
+        ],
+        "in_force": "2023-10-16",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R2049 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R2049, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The Part A table in Annex II gains new entries not present before: entry 3a covering integrated-ballast compact fluorescent lamps with a 31.12.2025 prohibition date, entry 6a covering cold cathode and external electrode fluorescent lamps of all lengths not covered by entry 6, also dated 31.12.2025, entry 10 covering certain electrical and electronic melt pressure measuring devices with the same 31.12.2025 date, and entry 11 listing other mercury-added products such as mercury vacuum pumps, tyre balancers and wheel weights, photographic film and paper, and propellant for satellites and spacecraft, also dated 31.12.2025.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "02017R0852-20221225",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20221225#anx_II",
+              "label": "Annex II, 02017R0852-20221225"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "02017R0852-20231016",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20231016#anx_II",
+              "label": "Annex II, 02017R0852-20231016"
+            }
+          ]
+        },
+        {
+          "text": "All entries and wording present in the earlier version, including entries 1 through 9 and Part B, remain unchanged in the later version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "02017R0852-20221225",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20221225#anx_II",
+              "label": "Annex II, 02017R0852-20221225"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0852",
+                  "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+                },
+                "version": "02017R0852-20231016",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20231016#anx_II",
+              "label": "Annex II, 02017R0852-20231016"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0852",
+      "display_name": "Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (Text with EEA relevance. )"
+    },
+    "from_version": "02017R0852-20221225",
+    "to_version": "02017R0852-20231016",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": "4 annotations in (2022-12-25, 2023-10-16]",
+        "claims": [
+          {
+            "location": "AN II PRT A PO 6a",
+            "change_type": "INSERTED",
+            "in_force": "2023-10-16",
+            "source": "32023R2049 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2049",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN II PRT A PO 10",
+            "change_type": "INSERTED",
+            "in_force": "2023-10-16",
+            "source": "32023R2049 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2049",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN II PRT A PO 3a",
+            "change_type": "INSERTED",
+            "in_force": "2023-10-16",
+            "source": "32023R2049 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2049",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN II PRT A PO 11",
+            "change_type": "INSERTED",
+            "in_force": "2023-10-16",
+            "source": "32023R2049 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2049",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32023R2049, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN II",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 5423,
+      "output_tokens": 390,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
