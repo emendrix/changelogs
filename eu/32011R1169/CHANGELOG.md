@@ -10,6 +10,97 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20131206 -->
+## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
+### `02011R1169-20111212` → `02011R1169-20131206`
+
+- **Act** `eu:32011R1169` · **In force** 2013-12-06 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02011R1169-20111212` · `v2` = `02011R1169-20131206`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32013R1155`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 36 — Applicable requirements** · applies from: unchanged
+
+*within* `AR 36 PA 3 ALN 1 PTA (b)`, `AR 36 PA 3 ALN 1 PTA (c)`, `AR 36 PA 3 ALN 1 PTA (d)` · *amended by* `32013R1155`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Paragraph 3 of Article 36 gains a new point (d) covering information on the absence or reduced presence of gluten in food, which was not listed among the voluntary food information items in the earlier version. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20111212#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#art_36)
+
+The list in paragraph 3(1) is also adjusted so that point (b) on suitability for vegetarians or vegans no longer ends the list and point (c) on reference intakes is followed by 'and' to connect to the newly added point (d). [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#art_36)
+
+*before* (`02011R1169-20111212`)
+
+> Article 36
+> Applicable requirements
+> 1.
+> Where food information referred to in Articles 9 and 10 is provided on a voluntary basis, such information shall comply with the requirements laid down in Sections 2 and 3 of Chapter IV.
+> 2.
+> Food information provided on a voluntary basis shall meet the following requirements:
+>
+> (a) it shall not mislead the consumer, as referred to in Article 7;
+>
+> (b) it shall not be ambiguous or confusing for the consumer; and
+>
+> (c) it shall, where appropriate, be based on the relevant scientific data.
+> 3.
+> The Commission shall adopt implementing acts on the application of the requirements referred to in paragraph 2 of this Article to the following voluntary food information:
+>
+> (a) information on the possible and unintentional presence in food of substances or products causing allergies or intolerances;
+>
+> (b) information related to suitability of a food for vegetarians or vegans; and
+>
+> (c) the indication of reference intakes for specific population groups in addition to the reference intakes set out in Annex XIII.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
+>
+> 4.
+> In order to ensure that consumers are appropriately informed, where voluntary food information is provided by food business operators on a divergent basis which might mislead or confuse the consumer, the Commission may, by means of delegated acts, in accordance with Article 51, provide for additional cases of provision of voluntary food […truncated by emendrix: 68 characters omitted…]
+
+*after* (`02011R1169-20131206`)
+
+> Article 36
+> Applicable requirements
+> 1.
+> Where food information referred to in Articles 9 and 10 is provided on a voluntary basis, such information shall comply with the requirements laid down in Sections 2 and 3 of Chapter IV.
+>
+> 2.
+> Food information provided on a voluntary basis shall meet the following requirements:
+>
+> (a) it shall not mislead the consumer, as referred to in Article 7;
+>
+> (b) it shall not be ambiguous or confusing for the consumer; and
+>
+> (c) it shall, where appropriate, be based on the relevant scientific data.
+> 3.
+> The Commission shall adopt implementing acts on the application of the requirements referred to in paragraph 2 of this Article to the following voluntary food information:
+>
+> (a) information on the possible and unintentional presence in food of substances or products causing allergies or intolerances;
+>
+> (b) information related to suitability of a food for vegetarians or vegans;
+>
+> (c) the indication of reference intakes for specific population groups in addition to the reference intakes set out in Annex XIII; and
+>
+>
+> (d) information on the absence or reduced presence of gluten in food.
+>
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
+> 4.
+> In order to ensure that consumers are appropriately informed, where voluntary food information is provided by food business operators on a divergent basis which might mislead or confuse the consumer, the Commission may, by means of delegated acts, in accordance wit […truncated by emendrix: 141 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R1169-20131206 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20111212 -->
 ## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
 ### `32011R1169` → `02011R1169-20111212`

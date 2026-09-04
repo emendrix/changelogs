@@ -1,0 +1,384 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R1169",
+    "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+  },
+  "from_version": "02011R1169-20111212",
+  "to_version": "02011R1169-20131206",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2013-12-06"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 69,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20131206",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1155",
+            "display_name": "Commission Delegated Regulation (EU) No 1155/2013 of 21 August 2013 amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers as regards information on the absence or reduced presence of gluten in food"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2011-12-12, 2013-12-06]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20131206",
+          "location": "AR 36"
+        },
+        "heading": "Applicable requirements",
+        "before": "Article 36\nApplicable requirements\n1.\nWhere food information referred to in Articles 9 and 10 is provided on a voluntary basis, such information shall comply with the requirements laid down in Sections 2 and 3 of Chapter IV.\n2.\nFood information provided on a voluntary basis shall meet the following requirements:\n\n(a) it shall not mislead the consumer, as referred to in Article 7;\n\n(b) it shall not be ambiguous or confusing for the consumer; and\n\n(c) it shall, where appropriate, be based on the relevant scientific data.\n3.\nThe Commission shall adopt implementing acts on the application of the requirements referred to in paragraph 2 of this Article to the following voluntary food information:\n\n(a) information on the possible and unintentional presence in food of substances or products causing allergies or intolerances;\n\n(b) information related to suitability of a food for vegetarians or vegans; and\n\n(c) the indication of reference intakes for specific population groups in addition to the reference intakes set out in Annex XIII.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).\n\n4.\nIn order to ensure that consumers are appropriately informed, where voluntary food information is provided by food business operators on a divergent basis which might mislead or confuse the consumer, the Commission may, by means of delegated acts, in accordance with Article 51, provide for additional cases of provision of voluntary food information to the ones referred to in paragraph 3 of this Article.",
+        "after": "Article 36\nApplicable requirements\n1.\nWhere food information referred to in Articles 9 and 10 is provided on a voluntary basis, such information shall comply with the requirements laid down in Sections 2 and 3 of Chapter IV.\n\n2.\nFood information provided on a voluntary basis shall meet the following requirements:\n\n(a) it shall not mislead the consumer, as referred to in Article 7;\n\n(b) it shall not be ambiguous or confusing for the consumer; and\n\n(c) it shall, where appropriate, be based on the relevant scientific data.\n3.\nThe Commission shall adopt implementing acts on the application of the requirements referred to in paragraph 2 of this Article to the following voluntary food information:\n\n(a) information on the possible and unintentional presence in food of substances or products causing allergies or intolerances;\n\n(b) information related to suitability of a food for vegetarians or vegans;\n\n(c) the indication of reference intakes for specific population groups in addition to the reference intakes set out in Annex XIII; and\n\n\n(d) information on the absence or reduced presence of gluten in food.\n\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).\n4.\nIn order to ensure that consumers are appropriately informed, where voluntary food information is provided by food business operators on a divergent basis which might mislead or confuse the consumer, the Commission may, by means of delegated acts, in accordance with Article 51, provide for additional cases of provision of voluntary food information to the ones referred to in paragraph 3 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 36 PA 3 ALN 1 PTA (b)",
+          "AR 36 PA 3 ALN 1 PTA (c)",
+          "AR 36 PA 3 ALN 1 PTA (d)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1155",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2013-12-06",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32013R1155 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32013R1155, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 of Article 36 gains a new point (d) covering information on the absence or reduced presence of gluten in food, which was not listed among the voluntary food information items in the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20111212",
+                "location": "AR 36"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20111212#art_36",
+              "label": "Art. 36, 02011R1169-20111212"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AR 36"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#art_36",
+              "label": "Art. 36, 02011R1169-20131206"
+            }
+          ]
+        },
+        {
+          "text": "The list in paragraph 3(1) is also adjusted so that point (b) on suitability for vegetarians or vegans no longer ends the list and point (c) on reference intakes is followed by 'and' to connect to the newly added point (d).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20131206",
+                "location": "AR 36"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#art_36",
+              "label": "Art. 36, 02011R1169-20131206"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R1169",
+      "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+    },
+    "from_version": "02011R1169-20111212",
+    "to_version": "02011R1169-20131206",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 36"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 36"
+        ],
+        "note": "1 annotations in (2011-12-12, 2013-12-06]",
+        "claims": [
+          {
+            "location": "AR 36 .3 L1 PO D)",
+            "change_type": "INSERTED",
+            "in_force": "2013-12-06",
+            "source": "32013R1155 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1155",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32013R1155, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1 PA 3 ALN 1 PTA (d)",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32013R1155",
+              "display_name": "Commission Delegated Regulation (EU) No 1155/2013 of 21 August 2013 amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers as regards information on the absence or reduced presence of gluten in food"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 36",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 3463,
+      "output_tokens": 254,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
