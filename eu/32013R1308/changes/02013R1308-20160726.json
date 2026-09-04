@@ -1,0 +1,595 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R1308",
+    "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+  },
+  "from_version": "02013R1308-20140101",
+  "to_version": "02013R1308-20160726",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2016-06-13",
+    "2016-07-26"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 5,
+    "unchanged_units": 246,
+    "disputed": 4
+  },
+  "counts": {
+    "touched": 5,
+    "substantive": 5,
+    "date_only": 0,
+    "disputed": 4,
+    "quoted": 0,
+    "unexplained": 4
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20160726",
+          "location": "AR 217"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0791",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0791 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20160726",
+          "location": "AR 225"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0791",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0791 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20160726",
+          "location": "AN V"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0791",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0791 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20160726",
+          "location": "AN X"
+        },
+        "heading": "ANNEX X",
+        "before": "ANNEX X\nPURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)\nPOINT I\n1. Delivery contracts shall be made in writing for a specified quantity of beet.\n2. The duration of the delivery contracts may be pluriannual.\n3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.\nPOINT II\n1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.\n2. The price referred to in paragraph 1 shall apply to sugar beet of a standard quality as defined in point B of Annex III.\nThe price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the standard quality.\n3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.\n4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.\nThe scale shall be based on the yields corresponding to the different sugar contents.\nPOINT III\nDelivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.\nPOINT IV\n1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.\n2. Delivery contracts shall provide that responsibility for loading and transport costs from the collection places are clearly stipulated. Where delivery contracts require sugar undertakings to contribute to loading and transport costs, the percentage or amounts shall be clearly stipulated.\n3. Delivery contracts shall provide that the costs incumbent upon each party are clearly specified.\nPOINT V\n1. Delivery contracts shall provide for reception points for beet.\n2. Where beet sellers and sugar undertakings have already signed a delivery contract for the previous marketing year, the reception points agreed upon by them for deliveries during that marketing year shall remain in operation. Agreements within the trade may derogate from this provision.\nPOINT VI\n1. Delivery contracts shall provide for the sugar content to be determined using the polarimetric method or, in order to take into account technological developments, another method agreed between the two parties. A sample of the beet shall be drawn at the time of reception.\n2. Agreements within the trade may provide for samples to be drawn at another stage. In such cases, the delivery contract shall provide for a correction to compensate for any drop in the sugar content between the reception and the drawing of the sample.\nPOINT VII\nDelivery contracts shall provide for the gross weight, tare and sugar content to be determined using procedures agreed:\n(a) jointly, by the sugar undertaking and the beet growers' trade organisation, if an agreement within the trade so provides;\n(b) by the sugar undertaking, under the supervision of the beet growers' trade organisation;\n(c) by the sugar undertaking, under the supervision of an expert recognised by the Member State concerned, provided the beet seller defrays the costs thereof.\nPOINT VIII\n1. Delivery contracts shall require sugar undertakings to do one or more of the following for the whole quantity of beet delivered:\n(a) to return the fresh pulp from the tonnage of beet delivered free of charge to the beet seller, ex-factory;\n(b) to return part of that pulp, pressed, dried or dried and molassed, free of charge to the beet seller, ex-factory;\n(c) to return the pulp, pressed or dried, to the beet seller, ex-factory; in this case, the sugar undertaking may require the beet seller to pay the pressing or drying costs;\n(d) to pay the beet seller compensation which takes account of the possibilities of selling the pulp concerned.\n2. When parts of the whole quantity of beet delivered are subject to different treatment, the delivery contract shall impose more than one of the obligations provided for in paragraph 1.\n3. Agreements within the trade may provide for pulp to be delivered at a stage other than that referred to in points (a), (b) and (c) of paragraph 1.\nPOINT IX\nDelivery contracts shall fix the time limits for any advance payments and for payment of the purchase price for beet.\nPOINT X\nWhere delivery contracts lay down rules covering matters which are dealt with in this Annex, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.\nPOINT XI\n1. Agreements within the trade as described in point 6 of Section A of Part II of Annex II shall contain arbitration clauses.\n2. Agreements within the trade may lay down a standard template for delivery contracts compatible with this Regulation and Union rules.\n3. Where agreements within the trade at Union, regional or local level lay down rules covering matters which are dealt with in this Regulation, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.\n4. Agreements referred to in paragraph 3 lay down, in particular:\n(a) the conversion scale referred to in Point II(4);\n(b) rules on the choice and supply of seeds of the varieties of beet to be produced;\n(c) the minimum sugar content of beet to be delivered;\n(d) a requirement for consultation between the sugar undertaking and the beet sellers' representatives before the starting date of beet deliveries is fixed;\n(e) the payment of premiums to beet sellers for early or late deliveries;\n(f) details of the conditions and costs relating to pulp as referred to in Point VIII;\n(g) the removal of the pulp by the beet seller;\n(h) rules on adapting prices in cases where pluriannual contracts are agreed;\n(i) rules on sampling and methods for determining gross weight, tare and sugar content.",
+        "after": "ANNEX X\nPURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)\nPOINT I\n1. Delivery contracts shall be made in writing for a specified quantity of beet.\n2. The duration of the delivery contracts may be pluriannual.\n3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.\nPOINT II\n1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.\n2. The price referred to in paragraph 1 shall apply to sugar beet of a standard quality as defined in point B of Annex III.\nThe price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the standard quality.\n3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.\n4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.\nThe scale shall be based on the yields corresponding to the different sugar contents.\nPOINT III\nDelivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.\nPOINT IV\n1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.\n2. Delivery contracts shall provide that responsibility for loading and transport costs from the collection places are clearly stipulated. Where delivery contracts require sugar undertakings to contribute to loading and transport costs, the percentage or amounts shall be clearly stipulated.\n3. Delivery contracts shall provide that the costs incumbent upon each party are clearly specified.\nPOINT V\n1. Delivery contracts shall provide for reception points for beet.\n2. Where beet sellers and sugar undertakings have already signed a delivery contract for the previous marketing year, the reception points agreed upon by them for deliveries during that marketing year shall remain in operation. Agreements within the trade may derogate from this provision.\nPOINT VI\n1. Delivery contracts shall provide for the sugar content to be determined using the polarimetric method or, in order to take into account technological developments, another method agreed between the two parties. A sample of the beet shall be drawn at the time of reception.\n2. Agreements within the trade may provide for samples to be drawn at another stage. In such cases, the delivery contract shall provide for a correction to compensate for any drop in the sugar content between the reception and the drawing of the sample.\nPOINT VII\nDelivery contracts shall provide for the gross weight, tare and sugar content to be determined using procedures agreed:\n(a) jointly, by the sugar undertaking and the beet growers' trade organisation, if an agreement within the trade so provides;\n(b) by the sugar undertaking, under the supervision of the beet growers' trade organisation;\n(c) by the sugar undertaking, under the supervision of an expert recognised by the Member State concerned, provided the beet seller defrays the costs thereof.\nPOINT VIII\n1. Delivery contracts shall require sugar undertakings to do one or more of the following for the whole quantity of beet delivered:\n(a) to return the fresh pulp from the tonnage of beet delivered free of charge to the beet seller, ex-factory;\n(b) to return part of that pulp, pressed, dried or dried and molassed, free of charge to the beet seller, ex-factory;\n(c) to return the pulp, pressed or dried, to the beet seller, ex-factory; in this case, the sugar undertaking may require the beet seller to pay the pressing or drying costs;\n(d) to pay the beet seller compensation which takes account of the possibilities of selling the pulp concerned.\n2. When parts of the whole quantity of beet delivered are subject to different treatment, the delivery contract shall impose more than one of the obligations provided for in paragraph 1.\n3. Agreements within the trade may provide for pulp to be delivered at a stage other than that referred to in points (a), (b) and (c) of paragraph 1.\nPOINT IX\nDelivery contracts shall fix the time limits for any advance payments and for payment of the purchase price for beet.\nPOINT X\nWhere delivery contracts lay down rules covering matters which are dealt with in this Annex, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.\nPOINT XI\n1. Agreements within the trade as described in point 6 of Section A of Part II of Annex II shall contain arbitration clauses.\n2. Agreements within the trade may lay down a standard template for delivery contracts compatible with this Regulation and Union rules.\n3. Where agreements within the trade at Union, regional or local level lay down rules covering matters which are dealt with in this Regulation, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.\n4. Agreements referred to in paragraph 3 lay down, in particular:\n(a) the conversion scale referred to in Point II(4);\n(b) rules on the choice and supply of seeds of the varieties of beet to be produced;\n(c) the minimum sugar content of beet to be delivered;\n(d) a requirement for consultation between the sugar undertaking and the beet sellers' representatives before the starting date of beet deliveries is fixed;\n(e) the payment of premiums to beet sellers for early or late deliveries;\n(f) details of the conditions and costs relating to pulp as referred to in Point VIII;\n(g) the removal of the pulp by the beet seller;\n(h) rules on adapting prices in cases where pluriannual contracts are agreed;\n(i) rules on sampling and methods for determining gross weight, tare and sugar content.\n5. A sugar undertaking and the beet sellers concerned may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices of sugar or other commodity markets is to be allocated between them.",
+        "previous_location": null,
+        "changed_within": [
+          "AN X PO 5"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R1166",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-07-26",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R1166 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new point 5 has been added to Point XI, stating that a sugar undertaking and the beet sellers concerned may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices of sugar or other commodity markets is to be allocated between them.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20160726",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160726#anx_X",
+              "label": "Annex X, 02013R1308-20160726"
+            }
+          ]
+        },
+        {
+          "text": "This point did not appear in the earlier version of the Annex, which ended at point 4 of Point XI.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20140101",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#anx_X",
+              "label": "Annex X, 02013R1308-20140101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20160726",
+          "location": "P II"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32016R0791",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2016-06-13",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32016R0791 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R1308",
+      "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+    },
+    "from_version": "02013R1308-20140101",
+    "to_version": "02013R1308-20160726",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN X"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 217",
+          "AR 225",
+          "AN V",
+          "AN X",
+          "P II"
+        ],
+        "note": "6 annotations in (2014-01-01, 2016-07-26]",
+        "claims": [
+          {
+            "location": "P II TIT I CHA II SECTION 1",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-13",
+            "source": "32016R0791 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0791",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 225 PO (e)",
+            "change_type": "INSERTED",
+            "in_force": "2016-06-13",
+            "source": "32016R0791 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0791",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 225 PO (f)",
+            "change_type": "INSERTED",
+            "in_force": "2016-06-13",
+            "source": "32016R0791 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0791",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-13",
+            "source": "32016R0791 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0791",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 217",
+            "change_type": "MODIFIED",
+            "in_force": "2016-06-13",
+            "source": "32016R0791 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R0791",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN X PO XI PO 5",
+            "change_type": "INSERTED",
+            "in_force": "2016-07-26",
+            "source": "32016R1166 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32016R1166",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 5,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.33333333333333337,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 217",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 225",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN V",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "P II",
+        "reason": "seen by corpus_metadata, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 217",
+      "AR 225",
+      "AN V",
+      "P II"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 5,
+    "explained": 1,
+    "unavailable": 4,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 4,
+    "usage": {
+      "input_tokens": 6380,
+      "output_tokens": 221,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 5,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 4,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

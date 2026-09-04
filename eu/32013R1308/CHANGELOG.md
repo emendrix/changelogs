@@ -10,6 +10,109 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20160726 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20140101` → `02013R1308-20160726`
+
+- **Act** `eu:32013R1308` · **In force** 2016-06-13, 2016-07-26 · **Detected** 2026-09-04
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20140101` · `v2` = `02013R1308-20160726`
+
+---
+
+**MODIFIED · Art. 217** · applies from: unknown
+
+*amended by* `32016R0791`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 225** · applies from: unknown
+
+*amended by* `32016R0791`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex V** · applies from: unknown
+
+*amended by* `32016R0791`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex X — ANNEX X** · applies from: unchanged
+
+*within* `AN X PO 5` · *amended by* `32016R1166`
+
+A new point 5 has been added to Point XI, stating that a sugar undertaking and the beet sellers concerned may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices of sugar or other commodity markets is to be allocated between them. [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160726#anx_X)
+
+This point did not appear in the earlier version of the Annex, which ended at point 4 of Point XI. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#anx_X)
+
+*before* (`02013R1308-20140101`)
+
+> ANNEX X
+> PURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)
+> POINT I
+> 1. Delivery contracts shall be made in writing for a specified quantity of beet.
+> 2. The duration of the delivery contracts may be pluriannual.
+> 3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.
+> POINT II
+> 1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.
+> 2. The price referred to in paragraph 1 shall apply to sugar beet of a standard quality as defined in point B of Annex III.
+> The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the standard quality.
+> 3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.
+> 4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.
+> The scale shall be based on the yields corresponding to the different sugar contents.
+> POINT III
+> Delivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.
+> POINT IV
+> 1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.
+> 2. Delivery contracts shall provide tha […truncated by emendrix: 4440 characters omitted…]
+
+*after* (`02013R1308-20160726`)
+
+> ANNEX X
+> PURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)
+> POINT I
+> 1. Delivery contracts shall be made in writing for a specified quantity of beet.
+> 2. The duration of the delivery contracts may be pluriannual.
+> 3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.
+> POINT II
+> 1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.
+> 2. The price referred to in paragraph 1 shall apply to sugar beet of a standard quality as defined in point B of Annex III.
+> The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the standard quality.
+> 3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.
+> 4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.
+> The scale shall be based on the yields corresponding to the different sugar contents.
+> POINT III
+> Delivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.
+> POINT IV
+> 1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.
+> 2. Delivery contracts shall provide tha […truncated by emendrix: 4692 characters omitted…]
+
+**MODIFIED · P II** · applies from: unknown
+
+*amended by* `32016R0791`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20160726 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20140101 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `32013R1308` → `02013R1308-20140101`
