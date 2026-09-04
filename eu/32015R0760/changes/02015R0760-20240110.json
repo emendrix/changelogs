@@ -30,7 +30,7 @@
     "date_only": 0,
     "disputed": 2,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 2
   },
   "changes": [
     {
@@ -210,11 +210,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of real asset was shortened by removing the reference to infrastructure and other assets giving rise to economic or social benefit, and to the carve-out for commercial property or housing tied to a long-term investment project, replacing it with a shorter description referring only to intrinsic value due to substance and properties.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "32015R0760",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_2",
+              "label": "Art. 2, 32015R0760"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2",
+              "label": "Art. 2, 02015R0760-20240110"
+            }
+          ]
+        },
+        {
+          "text": "A new point (ca) was added to the financial undertaking definition covering a reinsurance undertaking as defined in Directive 2009/138/EC, and two new definitions, simple, transparent and standardised securitisation and group, were inserted as points (14a) and (14b).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2",
+              "label": "Art. 2, 02015R0760-20240110"
+            }
+          ]
+        },
+        {
+          "text": "Two further definitions, feeder ELTIF and master ELTIF, were added as points (20) and (21), following the existing point (19) on multilateral trading facility.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2",
+              "label": "Art. 2, 02015R0760-20240110"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1734,11 +1805,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from 'Redemption policy and life of ELTIFs' to 'Redemption of units or shares of ELTIFs', and the former paragraph 4 on winding down after unsatisfied redemption requests is removed, causing the remaining paragraphs to shift numbering (old paragraphs 5, 6 and 7 becoming 4, 5 and 6).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "32015R0760",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18",
+              "label": "Art. 18, 32015R0760"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18",
+              "label": "Art. 18, 02015R0760-20240110"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 introduces a minimum holding period as an added condition before redemptions may be granted, exempts feeder ELTIFs investing in master ELTIFs from that minimum holding period, and reframes the liquidity and redemption-policy conditions in points (b) to (e), including changing the reference authority from 'competent authorities' to 'the competent authority of the ELTIF' and rewording the redemption policy requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18",
+              "label": "Art. 18, 02015R0760-20240110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "32015R0760",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18",
+              "label": "Art. 18, 32015R0760"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3's wording changes from requiring the life of the ELTIF to be 'sufficient in length to cover' the life-cycle of its assets to requiring it to be 'compatible with' those life-cycles, and the final paragraph on regulatory technical standards is expanded to task ESMA with developing additional standards on the minimum holding period, information to competent authorities, redemption policy and liquidity management tool requirements, and the percentage criteria, with a submission deadline changed from 9 September 2015 to 10 January 2024.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "32015R0760",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18",
+              "label": "Art. 18, 32015R0760"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R0760",
+                  "display_name": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)"
+                },
+                "version": "02015R0760-20240110",
+                "location": "AR 18"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18",
+              "label": "Art. 18, 02015R0760-20240110"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4033,6 +4201,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 11829,
+        "output_tokens": 960,
+        "requests": 2,
         "schema_repairs": 0
       },
       "coordinates_checked": false

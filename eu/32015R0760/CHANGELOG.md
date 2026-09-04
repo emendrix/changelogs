@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32015R0760` · **In force** 2024-01-09, 2024-01-10 · **Detected** 2026-08-13
 - **Touched** 28 provisions — 28 substantive · 0 date-only · **2 disputed**
 - **Diff** 2 inserted · 24 modified · 2 deleted · 0 renumbered · 0 deferred · 14 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32015R0760` · `v2` = `02015R0760-20240110`
 
 ---
@@ -50,7 +50,11 @@ The revised text adds language stating that the investments include those that p
 
 *within* `AR 2 ALN 1 PO 6`, `AR 2 ALN 1 PO 7 PTA (ca)`, `AR 2 ALN 1 PO 14a`, `AR 2 ALN 1 PO 14b`, `AR 2 ALN 1 PO 19`, `AR 2 ALN 1 PO 20`, `AR 2 ALN 1 PO 21` · *dates* +2017-12-12 · *amended by* `32023R0606`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The definition of real asset was shortened by removing the reference to infrastructure and other assets giving rise to economic or social benefit, and to the carve-out for commercial property or housing tied to a long-term investment project, replacing it with a shorter description referring only to intrinsic value due to substance and properties. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
+
+A new point (ca) was added to the financial undertaking definition covering a reinsurance undertaking as defined in Directive 2009/138/EC, and two new definitions, simple, transparent and standardised securitisation and group, were inserted as points (14a) and (14b). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
+
+Two further definitions, feeder ELTIF and master ELTIF, were added as points (20) and (21), following the existing point (19) on multilateral trading facility. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
 
 *before* (`32015R0760`)
 
@@ -411,7 +415,11 @@ Point (b) of paragraph 1 is otherwise unchanged in substance, differing only in 
 
 *within* `AR 18`, `AR 18 PA 1 ALN 1`, `AR 18 PA 1 ALN 2`, `AR 18 PA 1 ALN 3`, `AR 18 PA 2 ALN 1`, `AR 18 PA 2 ALN 1 PTA (a)`, `AR 18 PA 2 ALN 1 PTA (b)`, `AR 18 PA 2 ALN 1 PTA (c)`, `AR 18 PA 2 ALN 1 PTA (d)`, `AR 18 PA 2 ALN 1 PTA (e)`, `AR 18 PA 2 ALN 2`, `AR 18 PA 3 ALN 1`, `AR 18 PA 4 ALN 1`, `AR 18 PA 5 ALN 1`, `AR 18 PA 5 ALN 1 PTA (a)`, `AR 18 PA 5 ALN 1 PTA (b)`, `AR 18 PA 5 ALN 1 PTA (c)`, `AR 18 PA 6 ALN 1`, `AR 18 PA 6 ALN 1 PTA (a)`, `AR 18 PA 6 ALN 1 PTA (b)`, `AR 18 PA 6 ALN 1 PTA (c)`, `AR 18 PA 6 ALN 2`, `AR 18 PA 6 ALN 3`, `AR 18 PA 6 ALN 4`, `AR 18 PA 7` · *dates* -2015-09-09 +2024-01-10 · *amended by* `32023R0606`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading changes from 'Redemption policy and life of ELTIFs' to 'Redemption of units or shares of ELTIFs', and the former paragraph 4 on winding down after unsatisfied redemption requests is removed, causing the remaining paragraphs to shift numbering (old paragraphs 5, 6 and 7 becoming 4, 5 and 6). [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18)
+
+Paragraph 2 introduces a minimum holding period as an added condition before redemptions may be granted, exempts feeder ELTIFs investing in master ELTIFs from that minimum holding period, and reframes the liquidity and redemption-policy conditions in points (b) to (e), including changing the reference authority from 'competent authorities' to 'the competent authority of the ELTIF' and rewording the redemption policy requirements. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18) [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18)
+
+Paragraph 3's wording changes from requiring the life of the ELTIF to be 'sufficient in length to cover' the life-cycle of its assets to requiring it to be 'compatible with' those life-cycles, and the final paragraph on regulatory technical standards is expanded to task ESMA with developing additional standards on the minimum holding period, information to competent authorities, redemption policy and liquidity management tool requirements, and the percentage criteria, with a submission deadline changed from 9 September 2015 to 10 January 2024. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_18)
 
 *before* (`32015R0760`)
 
