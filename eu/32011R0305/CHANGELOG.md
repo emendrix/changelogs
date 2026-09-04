@@ -10,6 +10,71 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20241117 -->
+## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
+### `02011R0305-20210716` → `02011R0305-20241117`
+
+- **Act** `eu:32011R0305` · **In force** 2024-11-17 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02011R0305-20210716` · `v2` = `02011R0305-20241117`
+
+---
+
+**MODIFIED · Annex V — ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE** · applies from: unchanged
+
+*within* `AN V SCT 1`, `AN V SCT 1 PTA (a)`, `AN V SCT 1 PTA (b)`, `AN V SCT 1 SCT 1.6`, `AN V SCT 2 PO 3`, `AN V SCT 2 PO 4`, `AN V SCT 3 PO 6` · *amended by* `32024R2769`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The later text adds a new System 1.4a, System 3+, describing tasks the manufacturer must carry out based on data collection, assumptions and modelling, together with a set of validation tasks assigned to a notified assessment validation body. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V)
+
+Section 1.6 is updated to include System 3+ among the systems where notified bodies and manufacturers treat a European Technical Assessment as the performance assessment, adding a corresponding reference to point 1.4a.(a)(i) in the list of tasks not undertaken. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V)
+
+Section 2 adds a fourth category, the assessment validation body, defined as a body notified under Chapter VII to validate the assessment of construction product performance, and section 3 adds a sixth listed characteristic, environmental sustainability, neither of which appear in the earlier text. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V) [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20210716#anx_V)
+
+*before* (`02011R0305-20210716`)
+
+> ANNEX V
+> ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE
+> 1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE
+> The manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:
+> 1.1. System 1+
+> (a) The manufacturer shall carry out:
+> (i) factory production control;
+> (ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.
+> (b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:
+> (i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;
+> (ii) initial inspection of the manufacturing plant and of factory production control;
+> (iii) continuing surveillance, assessment and evaluation of factory production control;
+> (iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.
+> 1.2. System 1
+> (a) The manufacturer shall carry out:
+> (i) factory production control;
+> (ii) further testing of samples taken at th […truncated by emendrix: 3747 characters omitted…]
+
+*after* (`02011R0305-20241117`)
+
+> ANNEX V
+> ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE
+> 1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE
+> The manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:
+> 1.1. System 1+
+> (a) The manufacturer shall carry out:
+> (i) factory production control;
+> (ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.
+> (b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:
+> (i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;
+> (ii) initial inspection of the manufacturing plant and of factory production control;
+> (iii) continuing surveillance, assessment and evaluation of factory production control;
+> (iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.
+> 1.2. System 1
+> (a) The manufacturer shall carry out:
+> (i) factory production control;
+> (ii) further testing of samples taken at th […truncated by emendrix: 4877 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20241117 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20210716 -->
 ## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
 ### `02011R0305-20140616` → `02011R0305-20210716`

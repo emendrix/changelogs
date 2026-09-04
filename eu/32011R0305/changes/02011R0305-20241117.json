@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R0305",
+    "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+  },
+  "from_version": "02011R0305-20210716",
+  "to_version": "02011R0305-20241117",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2024-11-17"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 72,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20241117",
+          "location": "AN V"
+        },
+        "heading": "ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE",
+        "before": "ANNEX V\nASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\n1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nThe manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:\n1.1. System 1+\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control;\n(iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.\n1.2. System 1\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control.\n1.3. System 2+\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control;\n(iii) testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified factory production control certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of conformity of the factory production control on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) initial inspection of the manufacturing plant and of factory production control;\n(ii) continuing surveillance, assessment and evaluation of factory production control.\n1.4. System 3\n(a) The manufacturer shall carry out factory production control.\n(b) The notified laboratory shall assess the performance on the basis of testing (based on sampling carried out by the manufacturer), calculation, tabulated values or descriptive documentation of the construction product.\n1.5. System 4\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing, calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control.\n(b) No tasks require the intervention of notified bodies.\n1.6. Construction products for which a European Technical Assessment has been issued\nNotified bodies undertaking tasks under Systems 1+, 1 and 3 as well as manufacturers undertaking tasks under Systems 2+ and 4 shall consider the European Technical Assessment issued for the construction product in question as the assessment of the performance of that product. Notified bodies and manufacturers shall therefore not undertake the tasks referred to in points 1.1.(b)(i), 1.2.(b)(i), 1.3.(a)(i), 1.4.(b) and 1.5.(a)(i) respectively.\n2. BODIES INVOLVED IN THE ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nWith respect to the function of notified bodies involved in the assessment and verification of constancy of performance for construction products, distinction shall be made between:\n(1) product certification body: a body notified, in accordance with Chapter VII, to carry out constancy of performance certification;\n(2) factory production control certification body: a body notified, in accordance with Chapter VII, to carry out factory production control certification;\n(3) laboratory: a body notified, in accordance with Chapter VII, to measure, examine, test, calculate or otherwise assess the performance of construction products.\n3. HORIZONTAL NOTIFICATIONS: CASES OF ESSENTIAL CHARACTERISTICS WHERE REFERENCE TO A RELEVANT HARMONISED TECHNICAL SPECIFICATION IS NOT REQUIRED\n1. Reaction to fire\n2. Resistance to fire\n3. External fire performance\n4. Acoustic performance\n5. Emissions of dangerous substances.",
+        "after": "ANNEX V\nASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\n1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nThe manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:\n1.1. System 1+\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control;\n(iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.\n1.2. System 1\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control.\n1.3. System 2+\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control;\n(iii) testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified factory production control certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of conformity of the factory production control on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) initial inspection of the manufacturing plant and of factory production control;\n(ii) continuing surveillance, assessment and evaluation of factory production control.\n1.4. System 3\n(a) The manufacturer shall carry out factory production control.\n(b) The notified laboratory shall assess the performance on the basis of testing (based on sampling carried out by the manufacturer), calculation, tabulated values or descriptive documentation of the construction product.\n1.4a. System 3+\n(a) The manufacturer shall carry out:\n(i) the assessment of the performance of the product on the basis of data collection for input values, assumptions and modelling;\n(ii) factory production control.\n(b) The notified assessment validation body shall decide on the issuing, restriction, suspension or withdrawal of the validation report of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) validation of the input values, assumptions made and compliance with applicable generic or product category specific rules;\n(ii) validation of the manufacturer’s assessment;\n(iii) validation of the process applied to generate that assessment;\n(iv) validation of the correct usage of software appropriate for the assessment;\n(v) initial inspection of the manufacturing plant to validate any company-specific data.\n1.5. System 4\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing, calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control.\n(b) No tasks require the intervention of notified bodies.\n1.6. Construction products for which a European Technical Assessment has been issued\nNotified bodies undertaking tasks under Systems 1+, 1, 3 and 3+ as well as manufacturers undertaking tasks under Systems 2+ and 4 shall consider the European Technical Assessment issued for the construction product in question as the assessment of the performance of that product. Notified bodies and manufacturers shall therefore not undertake the tasks referred to in points 1.1.(b)(i), 1.2.(b)(i), 1.3.(a)(i), 1.4.(b), 1.4a.(a)(i) and 1.5.(a)(i) respectively.\n2. BODIES INVOLVED IN THE ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nWith respect to the function of notified bodies involved in the assessment and verification of constancy of performance for construction products, distinction shall be made between:\n(1) product certification body: a body notified, in accordance with Chapter VII, to carry out constancy of performance certification;\n(2) factory production control certification body: a body notified, in accordance with Chapter VII, to carry out factory production control certification;\n(3) laboratory: a body notified, in accordance with Chapter VII, to measure, examine, test, calculate or otherwise assess the performance of construction products;\n(4) assessment validation body: a body notified, in accordance with Chapter VII, to validate the assessment of the performance of construction products.\n3. HORIZONTAL NOTIFICATIONS: CASES OF ESSENTIAL CHARACTERISTICS WHERE REFERENCE TO A RELEVANT HARMONISED TECHNICAL SPECIFICATION IS NOT REQUIRED\n1. Reaction to fire\n2. Resistance to fire\n3. External fire performance\n4. Acoustic performance\n5. Emissions of dangerous substances.\n6. Environmental sustainability.",
+        "previous_location": null,
+        "changed_within": [
+          "AN V SCT 1",
+          "AN V SCT 1 PTA (a)",
+          "AN V SCT 1 PTA (b)",
+          "AN V SCT 1 SCT 1.6",
+          "AN V SCT 2 PO 3",
+          "AN V SCT 2 PO 4",
+          "AN V SCT 3 PO 6"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2769",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-11-17",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2769 J; 32024R2769 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2769, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The later text adds a new System 1.4a, System 3+, describing tasks the manufacturer must carry out based on data collection, assumptions and modelling, together with a set of validation tasks assigned to a notified assessment validation body.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20241117",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V",
+              "label": "Annex V, 02011R0305-20241117"
+            }
+          ]
+        },
+        {
+          "text": "Section 1.6 is updated to include System 3+ among the systems where notified bodies and manufacturers treat a European Technical Assessment as the performance assessment, adding a corresponding reference to point 1.4a.(a)(i) in the list of tasks not undertaken.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20241117",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V",
+              "label": "Annex V, 02011R0305-20241117"
+            }
+          ]
+        },
+        {
+          "text": "Section 2 adds a fourth category, the assessment validation body, defined as a body notified under Chapter VII to validate the assessment of construction product performance, and section 3 adds a sixth listed characteristic, environmental sustainability, neither of which appear in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20241117",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V",
+              "label": "Annex V, 02011R0305-20241117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20210716",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20210716#anx_V",
+              "label": "Annex V, 02011R0305-20210716"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R0305",
+      "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+    },
+    "from_version": "02011R0305-20210716",
+    "to_version": "02011R0305-20241117",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN V"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN V"
+        ],
+        "note": "4 annotations in (2021-07-16, 2024-11-17]",
+        "claims": [
+          {
+            "location": "AN V PO 2 PO 4",
+            "change_type": "INSERTED",
+            "in_force": "2024-11-17",
+            "source": "32024R2769 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2769",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PO 3 PO 6",
+            "change_type": "INSERTED",
+            "in_force": "2024-11-17",
+            "source": "32024R2769 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2769",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PO 1 PO 1.6",
+            "change_type": "MODIFIED",
+            "in_force": "2024-11-17",
+            "source": "32024R2769 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2769",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PO 1 PO 1.4a",
+            "change_type": "INSERTED",
+            "in_force": "2024-11-17",
+            "source": "32024R2769 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2769",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32024R2769, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN V",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 6364,
+      "output_tokens": 390,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
