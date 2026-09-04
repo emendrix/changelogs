@@ -190,7 +190,7 @@ The prior version of both paragraphs contained no such references to ICT busines
 
 *within* `AR 56 PA 3 ALN 1` · *amended by* `32022R2554`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20241224`)
 
