@@ -10,6 +10,457 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20260318 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20241108` → `02013R1308-20260318`
+
+- **Act** `eu:32013R1308` · **In force** 2026-03-18 · **Detected** 2026-09-04
+- **Touched** 15 provisions — 15 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 15 modified · 0 deleted · 0 renumbered · 0 deferred · 245 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20241108` · `v2` = `02013R1308-20260318`
+
+---
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 PA 5 ALN 1 PTA (c)` · *amended by* `32026R0471`
+
+The list of definitions in point 5 gains a new point (c) defining "Green harvesting" as the total destruction or removal of immature grape bunches that reduces the yield of the relevant area to zero, excluding the practice of leaving commercial grapes on the plants at the end of the normal production cycle. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_3)
+
+This definition is not present in the earlier version, which ends its point 5 list after point (b) on adverse climatic events. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_3)
+
+*before* (`02013R1308-20241108`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the definitions concerning certain sectors as set out in Annex II shall apply.
+> 2. The definitions set out in Section B of Part II of Annex II shall only apply until the end of the 2016/2017 marketing year for sugar.
+> 3. The definitions set out in Regulation (EU) 2021/2116 and Regulation (EU) 2021/2115 of the European Parliament and of the Council
+> Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the Common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulation (EU) No 1305/2013 of the European Parliament and of the Council and Regulation (EU) No 1307/2013 of the European Parliament and of the Council (OJ L 435, 6.12.2021, p1). apply for the purposes of this Regulation, save as otherwise provided for in this Regulation.
+> 4. The Commission shall be empowered to adopt delegated acts, in accordance with Article 227, amending the definitions concerning the sectors set out in Annex II to the extent necessary to update the definitions in light of market developments without adding new definitions.
+> 5. For the purposes of this Regulation:
+> (a) "less developed regions" means those regions defined as such in point (a) of the first subparagraph of Article 90(2) […truncated by emendrix: 1010 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> Article 3
+> Definitions
+> 1. For the purposes of this Regulation, the definitions concerning certain sectors as set out in Annex II shall apply.
+> 2. The definitions set out in Section B of Part II of Annex II shall only apply until the end of the 2016/2017 marketing year for sugar.
+> 3. The definitions set out in Regulation (EU) 2021/2116 and Regulation (EU) 2021/2115 of the European Parliament and of the Council
+> Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the Common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulation (EU) No 1305/2013 of the European Parliament and of the Council and Regulation (EU) No 1307/2013 of the European Parliament and of the Council (OJ L 435, 6.12.2021, p1). apply for the purposes of this Regulation, save as otherwise provided for in this Regulation.
+> 4. The Commission shall be empowered to adopt delegated acts, in accordance with Article 227, amending the definitions concerning the sectors set out in Annex II to the extent necessary to update the definitions in light of market developments without adding new definitions.
+> 5. For the purposes of this Regulation:
+> (a) "less developed regions" means those regions defined as such in point (a) of the first subparagraph of Article 90(2) […truncated by emendrix: 1309 characters omitted…]
+
+**MODIFIED · Art. 61 — Duration** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 61 ALN 1` · *dates* -2045-12-31 · *amended by* `32026R0471`
+
+The end date of 31 December 2045 for the scheme of authorisations for vine plantings has been removed, so the scheme's application is now stated only as starting from 1 January 2016 without a stated end point. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_61)
+
+The two fixed mid-term reviews scheduled for 2028 and 2040 have been replaced with a review in 2028 and then every ten years thereafter, and the proposal-making role is now stated as a separate sentence attributed to the Commission. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_61)
+
+*before* (`02013R1308-20241108`)
+
+> Article 61
+> Duration
+> The scheme of authorisations for vine plantings established in this Chapter shall apply from 1 January 2016 to 31 December 2045, with two mid-term reviews to be undertaken by the Commission in 2028 and 2040 to evaluate the operation of the scheme and, if appropriate, make proposals.
+
+*after* (`02013R1308-20260318`)
+
+> Article 61
+> Duration
+> The scheme of authorisations for vine plantings established in this Chapter shall apply from 1 January 2016, with a review to be undertaken by the Commission in 2028 and every ten years thereafter to evaluate the operation of the scheme. The Commission may, if appropriate, make proposals.
+
+**MODIFIED · Art. 62 — Authorisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 62 PA 3 ALN 1`, `AR 62 PA 3 ALN 2`, `AR 62 PA 3 ALN 3`, `AR 62 PA 3 ALN 4`, `AR 62 PA 3 ALN 5`, `AR 62 PA 3 ALN 6`, `AR 62 PA 6` · *dates* -2021-02-28 -2021-12-31 -2022-02-28 -2022-12-31 +2025-01-01 +2026-03-18 +2026-12-31 · *amended by* `32026R0471`
+
+Paragraph 3 replaces the earlier fixed three-year and six-year validity rules, the 2020-2021 expiry extension to 31 December 2022, and the 28 February 2021/2022 notification and retraction dates with new provisions setting validity by marketing year, a new reference to Article 90a(4) penalties instead of Article 89(4) of Regulation (EU) No 1306/2013, a 1 January 2025 cut-off and 31 December 2026 notification deadline for certain authorisations, force-majeure extension and penalty-waiver rules tied to Regulation (EU) 2021/2116, an eighth-marketing-year validity rule for Article 66 authorisations valid on or granted after 18 March 2026, and an expiry rule for authorisations under the Article 68 transitional provisions. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_62)
+
+A new paragraph 6 is added allowing Member States to require abandoned vineyards to be grubbed up for health and phytosanitary reasons. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_62)
+
+*before* (`02013R1308-20241108`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> By way of derogation from the first subparagraph, Member States may decide that when replanting takes place on the same parcel or parcels on which the grubbing up was undertaken, the authorisations referred to in Article 66(1) are valid for six years from the date on which they were granted. Such authorisations shall clearly identify the parcel or parcels on which the grubbing up and the replanting will take place.
+> By way of derogation from the first subparagraph, the validity of authorisations granted in accordance with Article 64 and Article 66(1), which expires in the years 2020 and […truncated by emendrix: 2237 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. Authorisations granted in accordance with Article 64 shall be valid until the last day of the third marketing year following the marketing year in which they were granted. A producer who has not used an authorisation granted in accordance with Articles 64 and 68 during its period of validity shall be subject to the administrative penalties referred to in Article 90a(4).
+> By way of derogation from the first subparagraph of this paragraph, producers who hold a valid authorisation granted in accordance with Articles 64 and 68 before 1 January 2025 shall not be subject to the administrative penalties referred to in Article 90a(4) provided that they inform the competent authorities before the date of expiry of their authorisation, and at the latest by 31 December 2026, that they do not intend to make use of it.
+> Where a well-determined area is gravely affected by one or both of the cases of force ma […truncated by emendrix: 3334 characters omitted…]
+
+**MODIFIED · Art. 63 — Safeguard mechanism for new plantings** · applies from: unchanged
+
+*within* `AR 63 PA 2 ALN 1 PTA (b)`, `AR 63 PA 2 ALN 1 PTA (c)`, `AR 63 PA 2 ALN 2`, `AR 63 PA 3 ALN 1`, `AR 63 PA 3 ALN 1 PTA (a)`, `AR 63 PA 3 ALN 1 PTA (b)` · *amended by* `32026R0471`
+
+Paragraph 2(b) now also allows Member States to not issue authorisations, in addition to limiting their issuing, for new plantings at regional level, and a new point (c) permits limiting or withholding authorisations for specific areas or vine types where national or Union crisis measures on distillation, green harvesting or grubbing up have been implemented in justified crisis cases. [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_63)
+
+The follow-on sentence about requiring authorisations to be used in the region now refers to limitations under points (b) or (c) and to authorisations being used in the regions concerned, rather than only to point (b) and those particular regions. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_63)
+
+Paragraph 3 changes its stated purpose from contributing to an orderly growth of vine plantings and being set above 0% to contributing to the management of the production potential, drops the requirement that limitations be set above 0%, and in points (a) and (b) replaces "well-demonstrated risk" with "demonstrated risk" while point (b) now also covers a demonstrated risk of significant devaluation or improper use by third parties seeking to profit from the reputation of a protected designation of origin or geographical indication. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_63)
+
+*before* (`02013R1308-20241108`)
+
+> Article 63
+> Safeguard mechanism for new plantings
+> 1. Member States shall make available each year authorisations for new plantings corresponding to either:
+> (a) 1 % of the total area actually planted with vines in their territory, as measured on 31 July of the previous year; or
+> (b) 1 % of an area comprising the area actually planted with vines in their territory, as measured on 31 July 2015, and the area covered by planting rights granted to producers in their territory in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 that were available for conversion into authorisations on 1 January 2016, as referred to in Article 68 of this Regulation.
+> 2. Member States may:
+> (a) apply at national level a lower percentage than the percentage set out in paragraph 1;
+> (b) limit the issuing of authorisations at regional level, for specific areas eligible for the production of wines with a protected designation of origin, for areas eligible for the production of wines with a protected geographical indication, or for areas without a geographical indication.
+> Member States that limit the issuing of authorisations at regional level for specific areas eligible for the production of wines with a protected designation of origin or for areas eligible for the production of wines with a protected geographical indication in accordance with the first subparagraph, point (b), may require such authorisations to be used in those regions.
+> 3. Any of the limitations referred […truncated by emendrix: 997 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> Article 63
+> Safeguard mechanism for new plantings
+> 1. Member States shall make available each year authorisations for new plantings corresponding to either:
+> (a) 1 % of the total area actually planted with vines in their territory, as measured on 31 July of the previous year; or
+> (b) 1 % of an area comprising the area actually planted with vines in their territory, as measured on 31 July 2015, and the area covered by planting rights granted to producers in their territory in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 that were available for conversion into authorisations on 1 January 2016, as referred to in Article 68 of this Regulation.
+> 2. Member States may:
+> (a) apply at national level a lower percentage than the percentage set out in paragraph 1;
+> (b) limit the issuing of authorisations, or not issue authorisations, for new plantings at regional level, for specific areas eligible for the production of wines with a protected designation of origin, for areas eligible for the production of wines with a protected geographical indication, or for areas without a geographical indication;
+> (c) limit the issuing of authorisations, or not issue authorisations, for new plantings at regional level, for specific areas or for vines producing specific types of wine, where national or Union measures concerning distillation of wine, green harvesting or grubbing up have been implemented in justified cases of crisis.
+> Member States that limit the issuing […truncated by emendrix: 1311 characters omitted…]
+
+**MODIFIED · Art. 64 — Granting of authorisations for new plantings** · applies from: unchanged
+
+*within* `AR 64 PA 1 ALN 2 PTA (d)`, `AR 64 PA 1 ALN 2 PTA (e)`, `AR 64 PA 2 ALN 1 PTA (g)` · *amended by* `32026R0471`
+
+In paragraph 1, point (d) now ends with a semicolon instead of a full stop, and a new point (e) has been added requiring that, in regions where the Member State has limited new planting authorisations under Article 63(2)(c), the applicant comply with the eligibility criteria set for avoiding excessive yields in the new vineyards to be planted. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_64)
+
+In paragraph 2, point (g) has been reworded from referring to improving the quality of products with geographical indications to referring to improving products with geographical indications or their quality. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_64)
+
+*before* (`02013R1308-20241108`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria at national or regional level:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner.
+> 2. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area […truncated by emendrix: 1833 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria at national or regional level:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner;
+> (e) in regions where the Member State has decided to limit the granting of new planting authorisations pursuant to Article 63(2), point (c), the applicant shall comply with the eligibility criteria established for the purpose of avoiding excessive yields in the new vineyards t […truncated by emendrix: 2126 characters omitted…]
+
+**MODIFIED · Art. 65 — Role of professional organisations** · applies from: unchanged
+
+*within* `AR 65 ALN 1` · *amended by* `32026R0471`
+
+The obligation for a Member State to take into consideration recommendations from professional organisations has been changed to a discretionary power to take such recommendations into account. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_65)
+
+The reference to interested groups of producers under Article 95 has been replaced with a reference to producer groups under Articles 32 and 33 of Regulation (EU) 2024/1143, and the reference to professional organisations operating in the wine sector now specifies that Articles 152, 156 and 157 are of this Regulation. [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_65)
+
+*before* (`02013R1308-20241108`)
+
+> Article 65
+> Role of professional organisations
+> When applying Article 63(2), a Member State shall take into consideration recommendations presented by recognised professional organisations operating in the wine sector referred to in Articles 152, 156 and 157, by interested groups of producers referred to in Article 95, or by other types of professional organisation recognised on the basis of that Member State’s legislation, provided that those recommendations are preceded by an agreement entered into by the relevant representative parties in the reference geographical area.
+> The recommendations shall be made for no more than three years.
+
+*after* (`02013R1308-20260318`)
+
+> Article 65
+> Role of professional organisations
+> When applying Article 63(2), a Member State may take into account recommendations presented by recognised professional organisations operating in the wine sector referred to in Articles 152, 156 and 157 of this Regulation, by producer groups referred to in Articles 32 and 33 of Regulation (EU) 2024/1143 or by other types of professional organisations recognised on the basis of that Member State’s legislation, provided that those recommendations are preceded by an agreement entered into by the relevant representative parties in the reference geographical area.
+> The recommendations shall be made for no more than three years.
+
+**MODIFIED · Art. 66 — Replantings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 66 PA 1 ALN 2`, `AR 66 PA 3 ALN 1`, `AR 66 PA 3a` · *dates* +2017-12-11 · *amended by* `32026R0471`
+
+Paragraph 1 gains a new subparagraph stating that producers who grubbed up an area under Article 216(1) of this Regulation or under the point (o) provision of Regulation (EU) 2021/2115 are not entitled to apply for or receive a replanting authorisation for that area. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_66)
+
+Paragraph 3 replaces the reference to a professional organisation recommendation under Article 65 with a reference to a recognised professional organisation under Articles 152, 156 and 157 or a producer group under Articles 32 and 33 of Regulation (EU) 2024/1143, and rephrases the restriction so that it addresses the use of replanting authorisations resulting from grubbing up vineyards outside the eligible area rather than restricting replanting to matching specifications. [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_66) [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_66)
+
+A new paragraph 3a is added setting out conditions a Member State may attach to granting replanting authorisations, including geographic-area use, restrictions tied to structural market imbalance, criteria to avoid oversupply, and an exception for areas of exceptional cultivation difficulty referenced to Commission Delegated Regulation (EU) 2018/273. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_66)
+
+*before* (`02013R1308-20241108`)
+
+> Article 66
+> Replantings
+> 1. Member States shall automatically grant an authorisation to producers who have grubbed up an area planted with vines as from 1 January 2016 and submitted an application. Such authorisation shall correspond to the equivalent of that area in terms of pure crop. The areas covered by such authorisations shall not be counted for the purposes of Article 63.
+> 2. Member States may grant the authorisation referred to in paragraph 1 to producers undertaking to grub up an area planted with vines if the grubbing up of the pledged area is carried out at the latest by the end of the fourth year from the date on which new vines have been planted.
+> 3. The authorisation referred to in paragraph 1 shall be used on the same holding on which the grubbing up was undertaken. Member States may, in areas eligible for the production of wines with protected designations of origin or protected geographical indications, restrict the replanting, on the basis of a recommendation from a professional organisation in accordance with Article 65, to vines complying with the same protected designation of origin or geographical indication specification as the area grubbed up.
+> 4. This Article shall not apply in the case of grubbing up of non-authorised plantings.
+
+*after* (`02013R1308-20260318`)
+
+> Article 66
+> Replantings
+> 1. Member States shall automatically grant an authorisation to producers who have grubbed up an area planted with vines as from 1 January 2016 and submitted an application. Such authorisation shall correspond to the equivalent of that area in terms of pure crop. The areas covered by such authorisations shall not be counted for the purposes of Article 63.
+> By way of derogation from the first subparagraph, producers who have grubbed up an area planted with vines in accordance with Article 216(1) of this Regulation or Article 58(1), first subparagraph, point (o), of Regulation (EU) 2021/2115 shall not be entitled to apply for and to receive a replanting authorisation for that area.
+> 2. Member States may grant the authorisation referred to in paragraph 1 to producers undertaking to grub up an area planted with vines if the grubbing up of the pledged area is carried out at the latest by the end of the fourth year from the date on which new vines have been planted.
+> 3. The authorisation referred to in paragraph 1 of this Article shall be used on the same holding on which the grubbing up was undertaken. Member States may, on the basis of a recommendation from a recognised professional organisation referred to in Articles 152, 156 and 157 of this Regulation or a producer group referred to in Articles 32 and 33 of Regulation (EU) 2024/1143, restrict in areas eligible for the production of wines with protected designation of origin or protected geographical indicati […truncated by emendrix: 2735 characters omitted…]
+
+**MODIFIED · Art. 67** · applies from: unknown
+
+*amended by* `32026R0471`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 69 — Delegated powers** · applies from: unchanged
+
+*within* `AR 69 ALN 1`, `AR 69 ALN 1 PTA (a)`, `AR 69 ALN 1 PTA (b)`, `AR 69 ALN 1 PTA (c)`, `AR 69 ALN 1 PTA (e)`, `AR 69 ALN 2` · *amended by* `32026R0471`
+
+The introductory wording now states that the Commission's delegated acts supplement the Regulation by laying down additional rules, and a new point (b) adds the conditions for grubbing up abandoned vineyards referred to in Article 62(6), while the former point (b) on Article 64 criteria rules becomes point (c) and the former point (c) on adding criteria to Article 64(1) and (2) is moved out into a separate second paragraph empowering delegated acts to amend the Regulation by adding such criteria. [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_69) [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_69)
+
+Point (e) on the grounds for Member State decisions under Article 66(3) now also covers decisions under Article 66(3a). [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_69)
+
+The former point (d) on co-existence of vines is retained in substance but is now labelled as point (d) again following the renumbering of the other points. [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_69) [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_69)
+
+*before* (`02013R1308-20241108`)
+
+> Article 69
+> Delegated powers
+> The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+> (a) the conditions for the application of the exemption referred to in Article 62(4);
+> (b) the rules relating to the criteria referred to in Article 64(1) and (2);
+> (c) the addition of criteria to those listed in Article 64(1) and (2);
+> (d) the co-existence of vines that the producer has undertaken to grub up with newly planted vines pursuant to Article 66(2);
+> (e) the grounds for Member State decisions under Article 66(3).
+
+*after* (`02013R1308-20260318`)
+
+> Article 69
+> Delegated powers
+> The Commission is empowered to adopt delegated acts in accordance with Article 227 to supplement this Regulation by laying down additional rules concerning:
+> (a) the conditions for the application of the exemption, referred to in Article 62(4);
+> (b) the conditions for the grubbing up of abandoned vineyards, referred to in Article 62(6);
+> (c) the rules relating to the criteria, referred to in Article 64(1) and (2);
+> (d) the co-existence of vines that the producer has undertaken to grub up with newly planted vines pursuant to Article 66(2);
+> (e) the grounds for Member State decisions under Article 66(3) and (3a).
+> The Commission is empowered to adopt delegated acts in accordance with Article 227 to amend this Regulation by adding additional criteria to those listed in Article 64(1) and (2).
+
+**MODIFIED · Art. 119** · applies from: unknown
+
+*amended by* `32026R0471`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 122 — Delegated powers** · applies from: unchanged
+
+*within* `AR 122 PA 1 ALN 1 PTA (c) PTI (iii)`, `AR 122 PA 1 ALN 1 PTA (d) PTI (iv)`, `AR 122 PA 1 ALN 1 PTA (d) PTI (v)`, `AR 122 PA 1 ALN 1 PTA (d) PTI (vi)` · *amended by* `32026R0471`
+
+Point (c)(iii) now adds a reference to the relationship between terms referring to a holding and trademarks and commercial names, alongside the conditions for their use. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_122)
+
+Point (d) gains two new sub-points, (v) and (vi), empowering delegated acts on identifying electronic means on packaging or labels, including through a common pictogram or symbol, and on the form and layout of information provided by electronic means. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_122)
+
+The earlier version of Art. 122 contained no equivalent to these additions in point (c)(iii) or points (d)(v) and (d)(vi). [Art. 122, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_122)
+
+*before* (`02013R1308-20241108`)
+
+> Article 122
+> Delegated powers
+> 1. In order to take into account the specific characteristics of the wine sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules and restrictions on:
+> (a) the presentation and use of labelling particulars other than those provided for in this Section;
+> (b) compulsory particulars concerning:
+> (i) terms to be used to formulate the compulsory particulars and their conditions of use;
+> (ii) terms referring to a holding and the conditions for their use;
+> (iii) provisions allowing the producing Member States to establish additional rules relating to compulsory particulars;
+> (iv) provisions allowing further derogations in addition to those referred to in Article 119(2) as regards the omission of the reference to the category of the grapevine product; and
+> (v) provisions on the use of languages;
+> (vi) rules for the indication and designation of ingredients for the application of Article 119(1), point (i).
+> (c) optional particulars concerning:
+> (i) terms to be used to formulate the optional particulars and their conditions of use;
+> (ii) provisions allowing the producing Member States to establish additional rules relating to optional particulars;
+> (iii) terms referring to a holding and the conditions for their use.
+> (d) the presentation concerning:
+> (i) the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle shapes;
+> (ii) the conditions of use of "sparkling wine"-type […truncated by emendrix: 1220 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> Article 122
+> Delegated powers
+> 1. In order to take into account the specific characteristics of the wine sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules and restrictions on:
+> (a) the presentation and use of labelling particulars other than those provided for in this Section;
+> (b) compulsory particulars concerning:
+> (i) terms to be used to formulate the compulsory particulars and their conditions of use;
+> (ii) terms referring to a holding and the conditions for their use;
+> (iii) provisions allowing the producing Member States to establish additional rules relating to compulsory particulars;
+> (iv) provisions allowing further derogations in addition to those referred to in Article 119(2) as regards the omission of the reference to the category of the grapevine product; and
+> (v) provisions on the use of languages;
+> (vi) rules for the indication and designation of ingredients for the application of Article 119(1), point (i).
+> (c) optional particulars concerning:
+> (i) terms to be used to formulate the optional particulars and their conditions of use;
+> (ii) provisions allowing the producing Member States to establish additional rules relating to optional particulars;
+> (iii) terms referring to a holding, the conditions for their use and their relationship with trademarks and commercial names.
+> (d) the presentation concerning:
+> (i) the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle sha […truncated by emendrix: 1801 characters omitted…]
+
+**MODIFIED · Art. 167 — Marketing rules to improve and stabilise the operation of the common market in wines** · applies from: unchanged
+
+*within* `AR 167 PA 1 ALN 1` · *amended by* `32026R0471`
+
+The first subparagraph of Article 167(1) now specifies that producing Member States' marketing rules to regulate supply may include the setting of maximum yields and rules for the management of stocks, whereas the earlier text made no such specification. [Art. 167, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_167) [Art. 167, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_167)
+
+The revised text also describes Member States as able to take into account, in a stated order of priority, decisions of interbranch organisations, producer groups referred to in Regulation (EU) 2024/1143, and producer organisations, subject to a representativeness condition tied to Article 164(3) and Article 166a(2), whereas the earlier version referred only to decisions taken by interbranch organisations recognised under Articles 157 and 158. [Art. 167, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_167)
+
+*before* (`02013R1308-20241108`)
+
+> Article 167
+> Marketing rules to improve and stabilise the operation of the common market in wines
+> 1. In order to improve and stabilise the operation of the common market in wines, including the grapes, musts and wines from which they derive, producer Member States may lay down marketing rules to regulate supply, particularly by way of decisions taken by interbranch organisations recognised under Articles 157 and 158.
+> Such rules shall be proportionate to the objective pursued and shall not:
+> (a) relate to any transaction after the first marketing of the produce concerned;
+> (b) allow for price fixing, including where prices are set for guidance or recommendation;
+> (c) render unavailable an excessive proportion of the vintage that would otherwise be available;
+> (d) provide scope for refusing to issue the national and Union certificates required for the circulation and marketing of wines where such marketing is in accordance with those rules.
+> 2. The rules provided for in paragraph 1 shall be brought to the attention of operators by being published in full in an official publication of the Member State concerned.
+> 3. Member States shall notify the Commission of any decisions taken under this Article.
+
+*after* (`02013R1308-20260318`)
+
+> Article 167
+> Marketing rules to improve and stabilise the operation of the common market in wines
+> 1. In order to improve and stabilise the operation of the common market in wines, including the grapes, musts and wines from which they derive, producing Member States may lay down marketing rules to regulate supply, including the setting of maximum yields and setting rules for the management of stocks. Member States may take into account, in decreasing order of priority, decisions adopted by interbranch organisations recognised under Articles 157 and 158 of this Regulation, producer groups referred to in Articles 32 and 33 of Regulation (EU) 2024/1143, and producer organisations recognised under Articles 152 and 154 of this Regulation, where such organisations and groups are considered to be representative of the wine sector in accordance with Article 164(3) and Article 166a(2) of this Regulation, in the economic area or areas where the rules are intended to be applied.
+> Such rules shall be proportionate to the objective pursued and shall not:
+> (a) relate to any transaction after the first marketing of the produce concerned;
+> (b) allow for price fixing, including where prices are set for guidance or recommendation;
+> (c) render unavailable an excessive proportion of the vintage that would otherwise be available;
+> (d) provide scope for refusing to issue the national and Union certificates required for the circulation and marketing of wines where such marketing is in accordance with thos […truncated by emendrix: 269 characters omitted…]
+
+**MODIFIED · Art. 172b — Guidance by interbranch organisations and producer groups for the sale of grapes, musts and wines in bulk with a protected designation of origin or protected geographical indication** · applies from: unchanged
+
+*within* `AR 172b`, `AR 172b PA 1`, `AR 172b PA 2`, `AR 172b ALN 1` · *amended by* `32026R0471`
+
+The heading and text now extend the derogation to cover musts and wines in bulk in addition to grapes, and add recognised producer groups referred to in Article 33 of Regulation (EU) 2024/1143 alongside interbranch organisations, with a new representativeness condition tied to Article 164(3) and Article 166a(2). [Art. 172b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_172b)
+
+The provision is also restructured into numbered paragraphs, with the original single paragraph becoming paragraph 1 and a new paragraph 2 added that allows the national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 to decide that price guidance indicators be modified, discontinued or not provided, sets out notification duties to the Commission, and states that such decisions do not apply earlier than their notification to the undertakings concerned. [Art. 172b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_172b)
+
+The prior version contained none of these elements, consisting only of the single unnumbered paragraph limited to interbranch organisations and grapes. [Art. 172b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_172b)
+
+*before* (`02013R1308-20241108`)
+
+> Article 172b
+> Guidance by interbranch organisations for the sale of grapes for wines with a protected designation of origin or protected geographical indication
+> By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation operating in the wine sector may provide non-mandatory price guidance indicators concerning the sale of grapes for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.
+
+*after* (`02013R1308-20260318`)
+
+> Article 172b
+> Guidance by interbranch organisations and producer groups for the sale of grapes, musts and wines in bulk with a protected designation of origin or protected geographical indication
+> 1. By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation and recognised producer groups referred to in Article 33 of Regulation (EU) 2024/1143 operating in the wine sector, where such organisations and groups are considered to be representative in accordance with Article 164(3) and Article 166a(2) of this Regulation in the relevant geographical area, may provide non-mandatory price guidance indicators concerning the sale of grapes, musts and wines in bulk for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.
+> 2. The national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in future, one or more of the price guidance indicators referred to in paragraph 1 of this Article are to be modified, discontinued or not provided at all if it considers that this is necessary in order to prevent competition being eliminated in respect of a substantial proportion of the products in question or if it considers that the objectives set out in Article 39 TFEU are jeopardised.
+> When acting under the fi […truncated by emendrix: 416 characters omitted…]
+
+**MODIFIED · Art. 216 — National payments for distillation of wine, green harvesting and grubbing up in justified cases of crisis** · applies from: unchanged
+
+*within* `AR 216`, `AR 216 PA 1 ALN 1`, `AR 216 PA 1 ALN 2`, `AR 216 PA 1 ALN 3`, `AR 216 PA 1 ALN 4`, `AR 216 PA 1 ALN 5`, `AR 216 PA 2 ALN 1`, `AR 216 PA 2 ALN 2`, `AR 216 PA 2 ALN 3`, `AR 216 PA 2 ALN 4`, `AR 216 PA 2 ALN 5`, `AR 216 PA 2 ALN 6`, `AR 216 PA 4 ALN 1`, `AR 216 PA 4 ALN 1 PTA (a)`, `AR 216 PA 4 ALN 1 PTA (b)`, `AR 216 PA 4 ALN 1 PTA (c)`, `AR 216 PA 4 ALN 1 PTA (d)` · *amended by* `32026R0471`
+
+The article now extends national crisis payments beyond wine distillation to also cover voluntary green harvesting and voluntary grubbing up of productive vineyards, with the heading changed accordingly. [Art. 216, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_216) [Art. 216, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_216)
+
+Paragraph 1 adds separate ceiling rules for distillation/green harvesting payments and for grubbing-up payments, references Annex VII to Regulation (EU) 2021/2115 instead of Annex VI, and raises the overall payment ceiling from 15% to 25% of globally available funds. [Art. 216, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_216) [Art. 216, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_216)
+
+Paragraph 2 now requires notifications to justify appropriateness, duration and amounts, adds rules on revocation and suspension of new planting authorisations linked to grubbing up, allows exclusion of certain areas from grubbing-up payments, and permits Member States to set eligibility conditions and priority criteria, while paragraph 4 replaces the implementing-act empowerment with a delegated-act empowerment listing specific rule-making topics in points (a) to (d). [Art. 216, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#art_216) [Art. 216, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_216)
+
+*before* (`02013R1308-20241108`)
+
+> Article 216
+> National payments for distillation of wine in cases of crisis
+> 1. Member States may make national payments to wine producers for the voluntary or mandatory distillation of wine in justified cases of crisis.
+> Those payments shall be proportionate and shall allow that crisis to be addressed.
+> The overall amount of payments available in a Member State in any given year for such payments shall not exceed 15 % of the globally available funds per Member State for that year as laid down in Annex VI.
+> 2. Member States wishing to make use of the national payments referred to in paragraph 1 shall submit a duly substantiated notification to the Commission. The Commission shall decide, without applying the procedure referred to in Article 229(2) or (3), whether the measure is approved and whether the payments may be made.
+> 3. The alcohol resulting from distillation referred to in paragraph 1 shall be used exclusively for industrial or energy purposes so as to avoid any distortion of competition.
+> 4. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20260318`)
+
+> Article 216
+> National payments for distillation of wine, green harvesting and grubbing up in justified cases of crisis
+> 1. Member States may make national payments to wine producers for the voluntary or mandatory distillation of wine, voluntary green harvesting and voluntary grubbing up of productive vineyards in justified cases of crisis.
+> The payments referred to in the first subparagraph in respect of crisis distillation and green harvesting shall not exceed the sum of the cost of the operation concerned, of an incentive to engage in such operation and, where relevant, of the cost of the product, and shall be sufficient to enable the crisis to be addressed.
+> The payments referred to in the first subparagraph in respect of grubbing up of productive vineyards shall not exceed the sum of the direct cost of carrying out the grubbing up and financial compensation, which may cover up to 100 % of the estimated loss of revenue for one year in respect of the grubbed up area.
+> Those payments shall be proportionate and shall be sufficient to enable the crisis to be addressed.
+> The overall amount of payments available in a Member State in any given year for national payments for distillation and green harvesting shall not exceed 25 % of the globally available funds per Member State for that year as laid down in Annex VII to Regulation (EU) 2021/2115.
+> 2. Member States wishing to make use of the national payments referred to in paragraph 1 shall submit a duly substantiated notification to the […truncated by emendrix: 2550 characters omitted…]
+
+**MODIFIED · Annex VII — ANNEX VII** · applies from: unchanged
+
+*within* `AN VII` · *amended by* `32026R0471`
+
+Part II now adds two new sentences stating that the sparkling wine and semi-sparkling wine categories in points (4) and (8) may be obtained by second fermentation of de-alcoholised or partially de-alcoholised wines referred to in point (1), and that the aerated sparkling wine and aerated semi-sparkling wine categories in points (7) and (9) may be obtained by adding carbon dioxide to such de-alcoholised or partially de-alcoholised wines. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#anx_VII)
+
+This text does not appear in the corresponding passage of the earlier version of Annex VII. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#anx_VII)
+
+Both texts are cut off before the end of Part VIII on olive oils, so any further differences beyond the visible portions cannot be described. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20241108#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#anx_VII)
+
+*before* (`02013R1308-20241108`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 52828 characters omitted…]
+
+*after* (`02013R1308-20260318`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 53207 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20260318 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20241108 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20240513` → `02013R1308-20241108`
