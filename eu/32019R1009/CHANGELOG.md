@@ -1156,7 +1156,7 @@ The remainder of the compared text, including the visible portion of Module B po
 - **Act** `eu:32019R1009` · **In force** 2022-07-16 · **Detected** 2026-09-04
 - **Touched** 4 provisions — 4 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 54 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R1009` · `v2` = `02019R1009-20220716`
 
 ---
@@ -1329,7 +1329,11 @@ CMC 3 and CMC 5 replace the prior exception for the organic fraction of mixed mu
 
 *within* `AN III`, `AN III PO 1 PTA (h)`, `AN III PO 3`, `AN III PO 7`, `AN III PO 7a`, `AN III PO 7b`, `AN III PTA (ca)`, `AN III PO 2a` · *dates* +1993-02-08 +2002-05-07 +2003-09-22 +2005-02-23 · *amended by* `32021R2087`, `32021R2088`, `32022R1171`, `32021R1768`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The general labelling rules were expanded and rewritten: point (h) on ingredient listing now also covers volume and liquid-form dry weight and adds a mineral-name allowance, and point 3 was replaced with a much more detailed regime tying labelling to maximum residue limits, levels and values under several named regulations and directives rather than the simpler single-sentence rule previously used. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1009#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III)
+
+New provisions were added or expanded, including point 7 extending the no-soil-contact/disposal instruction to certain growing media, new points 7a and 7b requiring declaration of manganese content for certain thermal or pyrolysis materials and of selenium or chloride content for high-purity materials, and new sub-points such as (ca) requiring a pH range for chelated micronutrients across several organo-mineral and inorganic fertiliser sections. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III)
+
+Several counter-ion declaration requirements were narrowed to apply only when the micronutrients are intentionally added, the chelating/complexing agent qualifiers were consolidated into a combined bracketed format, and the tolerance table for inorganic fertiliser nitrogen, phosphorus pentoxide and potassium oxide forms was changed from a 20% deviation capped at 1,5 percentage points to a 25% deviation capped at 2 percentage points, though the surrounding tolerance text is truncated beyond that point. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1009#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III)
 
 *before* (`32019R1009`)
 

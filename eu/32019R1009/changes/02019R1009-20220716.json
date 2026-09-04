@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -189,7 +189,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -393,7 +394,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -478,10 +480,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The general labelling rules were expanded and rewritten: point (h) on ingredient listing now also covers volume and liquid-form dry weight and adds a mineral-name allowance, and point 3 was replaced with a much more detailed regime tying labelling to maximum residue limits, levels and values under several named regulations and directives rather than the simpler single-sentence rule previously used.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1009",
+                  "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+                },
+                "version": "32019R1009",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1009#anx_III",
+              "label": "Annex III, 32019R1009"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1009",
+                  "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+                },
+                "version": "02019R1009-20220716",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III",
+              "label": "Annex III, 02019R1009-20220716"
+            }
+          ]
+        },
+        {
+          "text": "New provisions were added or expanded, including point 7 extending the no-soil-contact/disposal instruction to certain growing media, new points 7a and 7b requiring declaration of manganese content for certain thermal or pyrolysis materials and of selenium or chloride content for high-purity materials, and new sub-points such as (ca) requiring a pH range for chelated micronutrients across several organo-mineral and inorganic fertiliser sections.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1009",
+                  "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+                },
+                "version": "02019R1009-20220716",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III",
+              "label": "Annex III, 02019R1009-20220716"
+            }
+          ]
+        },
+        {
+          "text": "Several counter-ion declaration requirements were narrowed to apply only when the micronutrients are intentionally added, the chelating/complexing agent qualifiers were consolidated into a combined bracketed format, and the tolerance table for inorganic fertiliser nitrogen, phosphorus pentoxide and potassium oxide forms was changed from a 20% deviation capped at 1,5 percentage points to a 25% deviation capped at 2 percentage points, though the surrounding tolerance text is truncated beyond that point.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1009",
+                  "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+                },
+                "version": "32019R1009",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1009#anx_III",
+              "label": "Annex III, 32019R1009"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1009",
+                  "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+                },
+                "version": "02019R1009-20220716",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III",
+              "label": "Annex III, 02019R1009-20220716"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -665,7 +752,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -1903,6 +1991,7 @@
     "no_evidence": 0,
     "model_failed": 1,
     "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 96953,
       "output_tokens": 1585,
@@ -1922,5 +2011,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 32422,
+        "output_tokens": 581,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
