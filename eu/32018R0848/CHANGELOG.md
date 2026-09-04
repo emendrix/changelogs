@@ -10,6 +10,99 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20230221 -->
+## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
+### `02018R0848-20220101` → `02018R0848-20230221`
+
+- **Act** `eu:32018R0848` · **In force** 2023-02-21 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02018R0848-20220101` · `v2` = `02018R0848-20230221`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32023R0207`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
+
+*within* `AN VI`, `AN VI SCT 1`, `AN VI SCT 2`, `AN VI SCT 3`, `AN VI SCT 4`, `AN VI SCT 5`, `AN VI SCT 6`, `AN VI SCT 7`, `AN VI SCT 8`, `AN VI SCT 9`, `AN VI PO 1`, `AN VI PO 2`, `AN VI PO 3`, `AN VI PO 4`, `AN VI PO 5`, `AN VI PO 6`, `AN VI PO 7`, `AN VI PO 8` · *amended by* `32023R0207`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The title line changes from referring to 'organic production and labelling of organic products' to 'organic production and the labelling of organic products'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI)
+
+Point 7 adds the option of a qualified electronic seal alongside the name and signature on behalf of the issuing authority or body. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI)
+
+Point 8's date fields change their spacing, from a longer run of dots before and after 'insert date' to a shorter run of dots. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI)
+
+*before* (`02018R0848-20220101`)
+
+> ANNEX VI
+> MODEL OF THE CERTIFICATE
+> CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND LABELLING OF ORGANIC PRODUCTS
+> Part I: Mandatory elements
+> Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+> 1. Document number 2. (choose as appropriate)
+> Operator
+> Group of operators – see point 9
+> 3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:
+> 5. Activity or activities of the operator or group of operators (choose as appropriate)
+> Production
+> Preparation
+> Distribution/Placing on the market
+> Storing
+> Import
+> Export
+> 6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council
+>  and production methods (choose as appropriate)
+> (a) unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> □ organic production excluding during the conversion period
+> □ production during the conversion period
+> □ organic production with non-organic production
+> (b) livestock and unprocessed livestock products
+> Production method:
+> □ organic production excluding during the con […truncated by emendrix: 4506 characters omitted…]
+
+*after* (`02018R0848-20230221`)
+
+> ANNEX VI
+> MODEL OF THE CERTIFICATE
+> CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS
+> Part I: Mandatory elements
+> Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+> 1. Document number 2. (choose as appropriate)
+> Operator
+> Group of operators – see point 9
+> 3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:
+> 5. Activity or activities of the operator or group of operators (choose as appropriate)
+> Production
+> Preparation
+> Distribution/ Placing on the market
+> Storing
+> Import
+> Export
+> 6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council
+>  and production methods (choose as appropriate)
+> (a) unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> □ organic production excluding during the conversion period
+> □ production during the conversion period
+> □ organic production with non-organic production
+> (b) livestock and unprocessed livestock products
+> Production method:
+> □ organic production excluding during th […truncated by emendrix: 4536 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02018R0848-20230221 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20220101 -->
 ## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
 ### `02018R0848-20201114` → `02018R0848-20220101`

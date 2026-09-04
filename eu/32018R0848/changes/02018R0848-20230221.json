@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32018R0848",
+    "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+  },
+  "from_version": "02018R0848-20220101",
+  "to_version": "02018R0848-20230221",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2023-02-21"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 66,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32018R0848",
+            "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+          },
+          "version": "02018R0848-20230221",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R0207",
+            "display_name": "Commission Delegated Regulation (EU) 2023/207 of 24 November 2022 amending Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the model of the certificate attesting compliance with the rules on organic production (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2022-01-01, 2023-02-21]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32018R0848",
+            "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+          },
+          "version": "02018R0848-20230221",
+          "location": "AN VI"
+        },
+        "heading": "ANNEX VI",
+        "before": "ANNEX VI\nMODEL OF THE CERTIFICATE\nCERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND LABELLING OF ORGANIC PRODUCTS\nPart I: Mandatory elements\nRegulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).\n1. Document number 2. (choose as appropriate)\nOperator\nGroup of operators – see point 9\n3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:\n5. Activity or activities of the operator or group of operators (choose as appropriate)\nProduction\nPreparation\nDistribution/Placing on the market\nStoring\nImport\nExport\n6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council\n and production methods (choose as appropriate)\n(a) unprocessed plants and plant products, including seeds and other plant reproductive material\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(b) livestock and unprocessed livestock products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(c) algae and unprocessed aquaculture products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(d) processed agricultural products, including aquaculture products, for use as food\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(e) feed\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(f) wine\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(g) other products listed in Annex I to Regulation (EU) 2018/848 or not covered by the previous categories\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\nThis document has been issued in accordance with Regulation (EU) 2018/848 to certify that the operator or group of operators (choose as appropriate) complies with that Regulation.\n7. Date, place\nName and signature on behalf of the issuing competent authority, or, where appropriate, control authority or control body: 8. Certificate valid from……….[insert date] to……….[insert date]\n9. List of members of the group of operators as defined in Article 36 of Regulation (EU) 2018/848\nName of member Address or other form of member identification\nPart II: Specific optional elements\nOne or more elements to be completed if so decided by the competent authority or, where appropriate, the control authority or control body that issues the certificate to the operator or group of operators in accordance with Article 35 of Regulation (EU) 2018/848.\n1. Directory of products\nCouncil Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).\nName of the product and/or Combined Nomenclature (CN) code as referred to in Council Regulation (EEC) No 2658/87\n for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion\n2. Quantity of products\nName of the product and/or CN code as referred to in Regulation (EEC) No 2658/87 for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion Quantity estimated in kilograms, litres or, where relevant, in number of units\n3. Information on the land\nName of the product □ Organic\n□ In-conversion\n□ Non-organic Surface in hectares\n4. List of premises or units where the activity is performed by the operator or group of operators\nAddress or geolocation Description of the activity or activities as referred to in point 5 of part I\n5. Information on the activity or activities carried out by the operator or group of operators and whether the activity is, or the activities are performed for their own purpose or as a subcontractor carrying out the activity or activities for another operator, while the subcontractor remains responsible for the activity or activities performed\nDescription of the activity or activities as referred to in point 5 of part I □ Carrying out activity/activities for own purpose\n□ Carrying out activity/activities as a subcontractor for another operator, while the subcontractor remains responsible for the activity or activities performed\n6. Information on the activity or activities carried out by the subcontracted third party in accordance with Article 34(3) of Regulation (EU) 2018/848\nDescription of the activity or activities as referred to in point 5 of part I □ Operator or group of operators remains responsible\n□ Subcontracted third party is responsible\n7. List of subcontractors carrying out an activity or activities for the operator or group of operators in accordance with Article 34(3) of Regulation (EU) 2018/848, for which the operator or group of operators remains responsible as regards organic production and for which it has not transferred that responsibility to the subcontractor\nName and address Description of the activity or activities as referred to in point 5 of part I\n8. Information on the accreditation of the control body in accordance with Article 40(3) of Regulation (EU) 2018/848\n(a) name of the accreditation body;\n(b) hyperlink to the accreditation certificate.\n9. Other information\n",
+        "after": "ANNEX VI\nMODEL OF THE CERTIFICATE\nCERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS\nPart I: Mandatory elements\nRegulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).\n1. Document number 2. (choose as appropriate)\nOperator\nGroup of operators – see point 9\n3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:\n5. Activity or activities of the operator or group of operators (choose as appropriate)\nProduction\nPreparation\nDistribution/ Placing on the market\nStoring\nImport\nExport\n6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council\n and production methods (choose as appropriate)\n(a) unprocessed plants and plant products, including seeds and other plant reproductive material\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(b) livestock and unprocessed livestock products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(c) algae and unprocessed aquaculture products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(d) processed agricultural products, including aquaculture products, for use as food\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(e) feed\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(f) wine\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(g) other products listed in Annex I to Regulation (EU) 2018/848 or not covered by the previous categories\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\nThis document has been issued in accordance with Regulation (EU) 2018/848 to certify that the operator or group of operators (choose as appropriate) complies with that Regulation.\n7. Date, place\nName and signature on behalf of the issuing competent authority, or, where appropriate, control authority or control body, or qualified electronic seal: 8. Certificate valid from…[insert date] to …[insert date]\n9. List of members of the group of operators as defined in Article 36 of Regulation (EU) 2018/848\nName of member Address or other form of member identification\nPart II: Specific optional elements\nOne or more elements to be completed if so decided by the competent authority or, where appropriate, the control authority or control body that issues the certificate to the operator or group of operators in accordance with Article 35 of Regulation (EU) 2018/848.\n1. Directory of products\nCouncil Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).\nName of the product and/or Combined Nomenclature (CN) code as referred to in Council Regulation (EEC) No 2658/87\n for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion\n2. Quantity of products\nName of the product and/or CN code as referred to in Regulation (EEC) No 2658/87 for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion Quantity estimated in kilograms, litres or, where relevant, in number of units\n3. Information on the land\nName of the product □ Organic\n□ In-conversion\n□ Non-organic Surface in hectares\n4. List of premises or units where the activity is performed by the operator or group of operators\nAddress or geolocation Description of the activity or activities as referred to in point 5 of part I\n5. Information on the activity or activities carried out by the operator or group of operators and whether the activity is, or the activities are performed for their own purpose or as a subcontractor carrying out the activity or activities for another operator, while the subcontractor remains responsible for the activity or activities performed\nDescription of the activity or activities as referred to in point 5 of part I □ Carrying out activity/activities for own purpose\n□ Carrying out activity/activities as a subcontractor for another operator, while the subcontractor remains responsible for the activity or activities performed\n6. Information on the activity or activities carried out by the subcontracted third party in accordance with Article 34(3) of Regulation (EU) 2018/848\nDescription of the activity or activities as referred to in point 5 of part I □ Operator or group of operators remains responsible\n□ Subcontracted third party is responsible\n7. List of subcontractors carrying out an activity or activities for the operator or group of operators in accordance with Article 34(3) of Regulation (EU) 2018/848, for which the operator or group of operators remains responsible as regards organic production and for which it has not transferred that responsibility to the subcontractor\nName and address Description of the activity or activities as referred to in point 5 of part I\n8. Information on the accreditation of the control body in accordance with Article 40(3) of Regulation (EU) 2018/848\n(a) name of the accreditation body;\n(b) hyperlink to the accreditation certificate.\n9. Other information\n",
+        "previous_location": null,
+        "changed_within": [
+          "AN VI",
+          "AN VI SCT 1",
+          "AN VI SCT 2",
+          "AN VI SCT 3",
+          "AN VI SCT 4",
+          "AN VI SCT 5",
+          "AN VI SCT 6",
+          "AN VI SCT 7",
+          "AN VI SCT 8",
+          "AN VI SCT 9",
+          "AN VI PO 1",
+          "AN VI PO 2",
+          "AN VI PO 3",
+          "AN VI PO 4",
+          "AN VI PO 5",
+          "AN VI PO 6",
+          "AN VI PO 7",
+          "AN VI PO 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32023R0207",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2023-02-21",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32023R0207 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32023R0207, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The title line changes from referring to 'organic production and labelling of organic products' to 'organic production and the labelling of organic products'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20220101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI",
+              "label": "Annex VI, 02018R0848-20220101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20230221",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI",
+              "label": "Annex VI, 02018R0848-20230221"
+            }
+          ]
+        },
+        {
+          "text": "Point 7 adds the option of a qualified electronic seal alongside the name and signature on behalf of the issuing authority or body.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20220101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI",
+              "label": "Annex VI, 02018R0848-20220101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20230221",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI",
+              "label": "Annex VI, 02018R0848-20230221"
+            }
+          ]
+        },
+        {
+          "text": "Point 8's date fields change their spacing, from a longer run of dots before and after 'insert date' to a shorter run of dots.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20220101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI",
+              "label": "Annex VI, 02018R0848-20220101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20230221",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI",
+              "label": "Annex VI, 02018R0848-20230221"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32018R0848",
+      "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+    },
+    "from_version": "02018R0848-20220101",
+    "to_version": "02018R0848-20230221",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN VI"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN VI"
+        ],
+        "note": "1 annotations in (2022-01-01, 2023-02-21]",
+        "claims": [
+          {
+            "location": "AN VI",
+            "change_type": "MODIFIED",
+            "in_force": "2023-02-21",
+            "source": "32023R0207 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R0207",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32023R0207, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R0207",
+              "display_name": "Commission Delegated Regulation (EU) 2023/207 of 24 November 2022 amending Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the model of the certificate attesting compliance with the rules on organic production (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 13649,
+      "output_tokens": 594,
+      "requests": 2,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
