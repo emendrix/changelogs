@@ -253,28 +253,16 @@ The text is truncated beyond this point, so any further differences in the remai
 ### `02021R0821-20230112` → `02021R0821-20230526`
 
 - **Act** `eu:32021R0821` · **In force** 2023-05-26 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02021R0821-20230112` · `v2` = `02021R0821-20230526`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0996`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I`, `AN I PO 4`, `AN I PTA (k)` · *dates* +2008-07-06 · *amended by* `32023R0996`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 General Note 4 on chemicals now says the list applies to chemicals of the same structural formula including hydrates, isotopically-labelled forms, or all possible stereoisomers, whereas the earlier text referred only to hydrates. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230112#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230526#anx_I)
 
