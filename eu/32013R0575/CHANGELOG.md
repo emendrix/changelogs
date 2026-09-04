@@ -2051,7 +2051,7 @@ It also defines what counts as a source of income for this purpose, sets a fallb
 
 *within* `AR 124 PA 1 ALN 1`, `AR 124 PA 1 ALN 1 PTA (a)`, `AR 124 PA 1 ALN 1 PTA (b)`, `AR 124 PA 1 ALN 2`, `AR 124 PA 2 ALN 1`, `AR 124 PA 2 ALN 1 PTA (a)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (i)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (ii)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (iii)`, `AR 124 PA 2 ALN 1 PTA (b)`, `AR 124 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 124 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 124 PA 2 ALN 2`, `AR 124 PA 2 ALN 3`, `AR 124 PA 2 ALN 4`, `AR 124 PA 3 ALN 1`, `AR 124 PA 3 ALN 1 PTA (a)`, `AR 124 PA 3 ALN 1 PTA (b)`, `AR 124 PA 3 ALN 1 PTA (c)`, `AR 124 PA 3 ALN 1 PTA (d)`, `AR 124 PA 3 ALN 1 PTA (e)`, `AR 124 PA 3 ALN 2`, `AR 124 PA 3 ALN 3`, `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 2 PTA (a)`, `AR 124 PA 4 ALN 2 PTA (b)`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)`, `AR 124 PA 6 ALN 1`, `AR 124 PA 6 ALN 1 PTA (a)`, `AR 124 PA 6 ALN 1 PTA (b)`, `AR 124 PA 6 ALN 1 PTA (c)`, `AR 124 PA 6 ALN 2`, `AR 124 PA 6 ALN 3`, `AR 124 PA 7`, `AR 124 PA 8`, `AR 124 PA 9`, `AR 124 PA 10`, `AR 124 PA 13`, `AR 124 PA 1a` · *dates* -2019-12-31 · *amended by* `32024R1623`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20240709`)
 
@@ -2209,7 +2209,7 @@ The 150% risk weight assignment is retained in the after text but is now applied
 
 *within* `AR 129 PA 1 ALN 4`, `AR 129 PA 3 ALN 2`, `AR 129 PA 4 ALN 1`, `AR 129 PA 5 ALN 1`, `AR 129 PA 5 ALN 1 PTA (aa)`, `AR 129 PA 5 ALN 1 PTA (ab)`, `AR 129 PA 5 ALN 1 PTA (b)`, `AR 129 PA 5 ALN 1 PTA (ba)` · *dates* +2027-07-01 · *amended by* `32024R1623`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20240709`)
 
@@ -9231,7 +9231,7 @@ A new Article 520a has been added, stating that institutions shall continue appl
 > Application of own funds requirements for market risk
 > Until 1 January 2026, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.
 
-**MODIFIED · PRT 3** · applies from: unknown
+**MODIFIED · Part 3** · applies from: unknown
 
 *amended by* `32024R1623`
 
