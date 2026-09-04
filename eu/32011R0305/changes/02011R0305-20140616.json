@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R0305",
+    "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+  },
+  "from_version": "32011R0305",
+  "to_version": "02011R0305-20140616",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2014-05-31",
+    "2014-06-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 71,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20140616",
+          "location": "AN III"
+        },
+        "heading": "DECLARATION OF PERFORMANCE No",
+        "before": "ANNEX III\nDECLARATION OF PERFORMANCE\nNo. …\n1. Unique identification code of the product-type: …\n2. Type, batch or serial number or any other element allowing identification of the construction product as required pursuant to Article 11(4):\n…\n3. Intended use or uses of the construction product, in accordance with the applicable harmonised technical specification, as foreseen by the manufacturer:\n…\n…\n4. Name, registered trade name or registered trade mark and contact address of the manufacturer as required pursuant to Article 11(5):\n…\n…\n5. Where applicable, name and contact address of the authorised representative whose mandate covers the tasks specified in Article 12(2):\n…\n…\n6. System or systems of assessment and verification of constancy of performance of the construction product as set out in Annex V:\n…\n…\n7. In case of the declaration of performance concerning a construction product covered by a harmonised standard:\n…\n(name and identification number of the notified body, if relevant)\nperformed … under system …\n(description of the third party tasks as set out in Annex V)\nand issued …\n(certificate of constancy of performance, certificate of conformity of the factory production control, test/calculation reports – as relevant)\n8. In case of the declaration of performance concerning a construction product for which a European Technical Assessment has been issued:\n…\n(name and identification number of the Technical Assessment Body, if relevant)\nissued …\n(reference number of the European Technical Assessment)\non the basis of …,\n(reference number of the European Assessment Document)\nperformed … under system …\n(description of the third party tasks as set out in Annex V)\nand issued …\n(certificate of constancy of performance, certificate of conformity of the factory production control, test/calculation reports – as relevant)\n9. Declared performance\nNotes to the table.\n1. Column 1 shall contain the list of essential characteristics as determined in the harmonised technical specifications for the intended use or uses indicated in point 3 above.\n2. For each essential characteristic listed in column 1 and in compliance with the requirements of Article 6, column 2 shall contain the declared performance, expressed by level or class, or in a description, related to the corresponding essential characteristics. The letters NPD (No Performance Determined) shall be indicated where no performance is declared.\n3. For each essential characteristic listed in column 1, column 3 shall contain:\n(a) dated reference of the corresponding harmonised standard and, where relevant, the reference number of the Specific or Appropriate Technical Documentation used;\nor\n(b) dated reference of the corresponding European Assessment Document where available and reference number of the European Technical Assessment used.\nEssential characteristics\n(see Note 1) Performance\n(see Note 2) Harmonised technical specification\n(see Note 3)\nWhere pursuant to Article 37 or 38 the Specific Technical Documentation has been used, the requirements with which the product complies:\n…\n…\n10. The performance of the product identified in points 1 and 2 is in conformity with the declared performance in point 9.\nThis declaration of performance is issued under the sole responsibility of the manufacturer identified in point 4.\nSigned for and on behalf of the manufacturer by:\n…\n(name and function)\n……\n(place and date of issue) (signature)",
+        "after": "ANNEX III\nDECLARATION OF PERFORMANCE\nNo\n1. Unique identification code of the product-type:\n2. Intended use/es:\n3. Manufacturer:\n4. Authorised representative:\n5. System/s of AVCP:\n6a. Harmonised standard:\nNotified body/ies:\n6b. European Assessment Document:\nEuropean Technical Assessment:\nTechnical Assessment Body:\nNotified body/ies:\n7. Declared performance/s:\n8. Appropriate Technical Documentation and/or Specific Technical Documentation:\nThe performance of the product identified above is in conformity with the set of declared performance/s. This declaration of performance is issued, in accordance with Regulation (EU) No 305/2011, under the sole responsibility of the manufacturer identified above.\nSigned for and on behalf of the manufacturer by:\n[name]\nAt [place] on [date of issue]\n[signature]\nInstructions for drawing up the declaration of performance\n1. GENERAL\nThese instructions aim at guiding the manufacturers when drawing up a declaration of performance compliant with Regulation (EU) No 305/2011, following the model of this Annex (hereinafter referred to as the model).\nThese instructions are not part of the declarations of performance to be issued by manufacturers and should not be enclosed to these declarations of performance.\nWhen drawing up a declaration of performance, the manufacturer shall:\n(1) reproduce the texts and the headlines of the model which are not indicated between square brackets;\n(2) replace the blank spaces and square brackets by inserting the necessary information.\nManufacturers may also include in the declaration of performance the reference to the website where the copy of the declaration of performance is made available in accordance with Article 7(3) of Regulation (EU) No 305/2011. This may be included after point 8 or in another place where it does not affect the readability and clarity of the mandatory information.\n2. FLEXIBILITY\nProviding that the mandatory information required by Article 6 of Regulation (EU) No 305/2011 is provided in a clear, complete and coherent manner, when drawing up a declaration of performance, it is possible to:\n(1) use a different layout as in the model;\n(2) combine the points of the model by presenting some of them together;\n(3) present the points of the model in a different order or using one or more tables;\n(4) omit some points of the model which are not relevant for the product for which a declaration of performance is drawn up. For example, this is the case since the declaration of performance may be based either on a harmonised standard or on a European Technical Assessment issued for the product, rendering the other alternative not applicable. These omissions could also concern the points on the authorised representative or on the use of Appropriate Technical Documentation and the Specific Technical Documentation;\n(5) present the points without numbering them.\nIf a manufacturer wishes to issue a single declaration of performance covering different variations of a product-type, at least the following elements need to be listed separately and clearly for every product variation: the number of the declaration of performance, the identification code under point 1 and the declared performances/s under point 7.\n3. INSTRUCTION FOR THE COMPLETION OF THE FORM\nPoint of the model Instruction\nNumber of the declaration of performance This is the reference number of the declaration of performance foreseen in Article 9(2) of Regulation (EU) No 305/2011.\nThe choice of the number is left to the manufacturer.\nThis number may be the same as the unique identification code of the product-type indicated under point 1 of the model.\nPoint 1 Indicate the unique identification code of the product-type referred to in Article 6(2)(a) of Regulation (EU) No 305/2011.\nIn Article 9(2) of Regulation (EU) No 305/2011, the unique identification code determined by the manufacturer to follow the CE marking is linked to the product-type and thus to the set of performance levels or classes of a construction product, as brought forward in the declaration of performance drawn up for it. Moreover, for the recipients of construction products, in particular for their final end users, it is necessary to be able to unequivocally identify this set of performance levels or classes for any given product. Therefore, every construction product, for which a declaration of performance has been drawn up, should be linked by its manufacturer to the respective product-type and a given set of performance levels or classes by the unique identification code, which acts also as the reference mentioned in Article 6(2)(a) of Regulation (EU) No 305/2011.\nPoint 2 Indicate the intended use, or list the intended uses, as appropriate, of the construction product as foreseen by the manufacturer, in accordance with the applicable harmonised technical specification.\nPoint 3 Indicate the name, the registered trade name or registered trade mark and the contact address of the manufacturer, as required pursuant to Article 11(5) of Regulation (EU) No 305/2011.\nPoint 4 This point shall be included and filled in only in case an authorised representative has been designated. In such case, indicate the name and the contact address of the authorised representative whose mandate covers the tasks specified in Article 12(2) of Regulation (EU) No 305/2011.\nPoint 5 Indicate the number of the applicable system or systems of assessment and verification of constancy of performance (AVCP) of the construction product as set out in Annex V to Regulation (EU) No 305/2011. If there are multiple systems, each of them shall be declared.\nPoints 6a and 6b Since a manufacturer can draw up a declaration of performance based on either a harmonised standard or a European Technical Assessment issued for the product, these two different situations presented under points 6a and 6b should be treated as alternative, with only one of them to be applied and filled in in a declaration of performance.\nIn case of point 6a, i.e. when a declaration of performance is based on a harmonised standard, indicate all the following:\n(a) the reference number of the harmonised standard and its date of issue (dated reference); and\n(b) the identification number of the notified body/ies.\nWhen providing the name of the notified body/ies, it is essential that the name is provided in its original language, without translation to other languages.\nIn case of point 6b, i.e. when a declaration of performance is based on a European Technical Assessment issued for the product, indicate all the following:\n(a) the number of the European Assessment Document and its date of issue;\n(b) the number of the European Technical Assessment and its date of issue;\n(c) the name of the Technical Assessment Body; and\n(d) the identification number of the notified body/ies.\nPoint 7 Under this point, the declaration of performance shall indicate:\n(a) the list of essential characteristics, as determined in the harmonised technical specifications for the intended use or uses indicated under point 2; and\n(b) for each essential characteristic, the declared performance, by level or class, or in a description, in relation to this characteristic or, for characteristics for which no performance is declared, the letters NPD (No Performance Determined).\nThis point may be filled up with the use of a table which brings forward the links between the harmonised technical specifications and the systems of assessment and verification of constancy of performance applied respectively to each essential characteristic of the product, as well as the performance in relation to each essential characteristic.\nThe performance shall be declared in a clear and explicit manner. Therefore, the performance cannot be described in the declaration of performance solely by inserting a calculation formula to be applied by the recipients. Furthermore, the levels or classes of performance presented in reference documents shall be reproduced in the declaration of performance itself and thus cannot be expressed solely by inserting references to these documents into the declaration of performance.\nHowever, the performance notably of structural behaviour of a construction product may be expressed by referring to the respective production documentation or structural design calculations. In this case, the relevant documents shall be attached to the declaration of performance.\nPoint 8 This point shall only be included and filled in in a declaration of performance if Appropriate Technical Documentation and/or Specific Technical Documentation has been used, in accordance with Articles 36 to 38 of Regulation (EU) No 305/2011, in order to indicate the requirements with which the product complies.\nIn such a case, under this point the declaration of performance shall indicate:\n(a) the reference number of the Specific and/or Appropriate Technical Documentation used, and\n(b) the requirements with which the product complies.\nSignature Replace the spaces indicated between square brackets by the information indicated and the signature.",
+        "previous_location": null,
+        "changed_within": [
+          "AN III",
+          "AN III PO 1",
+          "AN III PO 2",
+          "AN III PO 3",
+          "AN III PO 4",
+          "AN III PO 5",
+          "AN III PO 6a",
+          "AN III PO 6b",
+          "AN III PO 7",
+          "AN III PO 8",
+          "AN III SCT 1",
+          "AN III SCT 2",
+          "AN III SCT 3",
+          "AN III PO 6",
+          "AN III PO 9",
+          "AN III PO 10"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0574",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-05-31",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0574 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32014R0568, 32014R0574",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The declaration of performance model was restructured, replacing the ten numbered points of the earlier version with a shorter eight-point form that groups intended use, manufacturer, authorised representative, and system information under new single-line entries, and splits the harmonised-standard and European Technical Assessment routes into separate points 6a and 6b.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "32011R0305",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R0305#anx_III",
+              "label": "Annex III, 32011R0305"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_III",
+              "label": "Annex III, 02011R0305-20140616"
+            }
+          ]
+        },
+        {
+          "text": "A new section of detailed instructions for drawing up the declaration of performance was added, covering general principles, flexibility in layout and presentation, and point-by-point completion guidance that was not present before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_III",
+              "label": "Annex III, 02011R0305-20140616"
+            }
+          ]
+        },
+        {
+          "text": "The closing declaration statement and signature block were reworded to reference conformity with Regulation (EU) No 305/2011 and to use bracketed placeholders for name, place, date, and signature instead of the earlier ellipsis-style blanks.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "32011R0305",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R0305#anx_III",
+              "label": "Annex III, 32011R0305"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_III",
+              "label": "Annex III, 02011R0305-20140616"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20140616",
+          "location": "AN V"
+        },
+        "heading": "ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE",
+        "before": "ANNEX V\nASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\n1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\n1.1. System 1+ – Declaration of the performance of the essential characteristics of the construction product by the manufacturer on the basis of the following items:\n(a) the manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the factory in accordance with the prescribed test plan;\n(b) the notified product certification body shall issue the certificate of constancy of performance of the product on the basis of:\n(i) determination of the product-type on the basis of type testing (including sampling), type calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuous surveillance, assessment and evaluation of factory production control;\n(iv) audit-testing of samples taken before placing the product on the market.\n1.2. System 1 – Declaration of the performance of the essential characteristics of the construction product by the manufacturer on the basis of the following items:\n(a) the manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the factory by the manufacturer in accordance with the prescribed test plan;\n(b) the notified product certification body shall issue the certificate of constancy of performance of the product on the basis of:\n(i) determination of the product type on the basis of type testing (including sampling), type calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuous surveillance, assessment and evaluation of factory production control.\n1.3. System 2+ – Declaration of the performance of the essential characteristics of the construction product by the manufacturer on the basis of the following items:\n(a) the manufacturer shall carry out:\n(i) determination of the product-type on the basis of type testing (including sampling), type calculation, tabulated values or descriptive documentation of the product;\n(ii) factory production control;\n(iii) testing of samples taken at the factory in accordance with the prescribed test plan;\n(b) the notified production control certification body shall issue the certificate of conformity of the factory production control on the basis of:\n(i) initial inspection of the manufacturing plant and of factory production control;\n(ii) continuous surveillance, assessment and evaluation of factory production control.\n1.4. System 3 – Declaration of the performance of the essential characteristics of the construction product by the manufacturer on the basis of the following items:\n(a) the manufacturer shall carry out factory production control;\n(b) the notified testing laboratory shall carry out determination of the product-type on the basis of type testing (based on sampling carried out by the manufacturer), type calculation, tabulated values or descriptive documentation of the product.\n1.5. System 4 – Declaration of the performance of the essential characteristics of the construction product by the manufacturer on the basis of the following items:\n(a) the manufacturer shall carry out:\n(i) determination of the product-type on the basis of type testing, type calculation, tabulated values or descriptive documentation of the product;\n(ii) factory production control;\n(b) no tasks for the notified body.\n2. BODIES INVOLVED IN THE ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nWith respect to the function of notified bodies involved in the assessment and verification of constancy of performance for construction products, distinction shall be made between:\n(1)\nproduct certification body\na governmental or non-governmental notified body, possessing the necessary competence and responsibility to carry out a product certification in accordance with given rules of procedure and management;\n(2)\nfactory production control certification body\na notified body, governmental or non-governmental, possessing the necessary competence and responsibility to carry out factory production control certification in accordance to given rules of procedure and management;\n(3)\ntesting laboratory\na notified laboratory which measures, examines, tests, calibrates or otherwise determines the characteristics or performance of materials or construction products.\n3. CASES OF ESSENTIAL CHARACTERISTICS WHERE REFERENCE TO A RELEVANT HARMONISED TECHNICAL SPECIFICATION IS NOT REQUIRED\n1. Reaction to fire.\n2. Resistance to fire.\n3. External fire performance.\n4. Noise absorption.\n5. Emissions of dangerous substances.",
+        "after": "ANNEX V\nASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\n1. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nThe manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:\n1.1. System 1+\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control;\n(iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.\n1.2. System 1\n(a) The manufacturer shall carry out:\n(i) factory production control;\n(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;\n(ii) initial inspection of the manufacturing plant and of factory production control;\n(iii) continuing surveillance, assessment and evaluation of factory production control.\n1.3. System 2+\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control;\n(iii) testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.\n(b) The notified factory production control certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of conformity of the factory production control on the basis of the outcome of the following assessments and verifications carried out by that body:\n(i) initial inspection of the manufacturing plant and of factory production control;\n(ii) continuing surveillance, assessment and evaluation of factory production control.\n1.4. System 3\n(a) The manufacturer shall carry out factory production control.\n(b) The notified laboratory shall assess the performance on the basis of testing (based on sampling carried out by the manufacturer), calculation, tabulated values or descriptive documentation of the construction product.\n1.5. System 4\n(a) The manufacturer shall carry out:\n(i) an assessment of the performance of the construction product on the basis of testing, calculation, tabulated values or descriptive documentation of that product;\n(ii) factory production control.\n(b) No tasks require the intervention of notified bodies.\n1.6. Construction products for which a European Technical Assessment has been issued\nNotified bodies undertaking tasks under Systems 1+, 1 and 3 as well as manufacturers undertaking tasks under Systems 2+ and 4 shall consider the European Technical Assessment issued for the construction product in question as the assessment of the performance of that product. Notified bodies and manufacturers shall therefore not undertake the tasks referred to in points 1.1.(b)(i), 1.2.(b)(i), 1.3.(a)(i), 1.4.(b) and 1.5.(a)(i) respectively.\n2. BODIES INVOLVED IN THE ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE\nWith respect to the function of notified bodies involved in the assessment and verification of constancy of performance for construction products, distinction shall be made between:\n(1) product certification body: a body notified, in accordance with Chapter VII, to carry out constancy of performance certification;\n(2) factory production control certification body: a body notified, in accordance with Chapter VII, to carry out factory production control certification;\n(3) laboratory: a body notified, in accordance with Chapter VII, to measure, examine, test, calculate or otherwise assess the performance of construction products.\n3. HORIZONTAL NOTIFICATIONS: CASES OF ESSENTIAL CHARACTERISTICS WHERE REFERENCE TO A RELEVANT HARMONISED TECHNICAL SPECIFICATION IS NOT REQUIRED\n1. Reaction to fire\n2. Resistance to fire\n3. External fire performance\n4. Acoustic performance\n5. Emissions of dangerous substances.",
+        "previous_location": null,
+        "changed_within": [
+          "AN V SCT 1",
+          "AN V SCT 1 SCT 1.1",
+          "AN V SCT 1 SCT 1.2",
+          "AN V SCT 1 SCT 1.3",
+          "AN V SCT 1 SCT 1.4",
+          "AN V SCT 1 SCT 1.5",
+          "AN V SCT 1 SCT 1.6",
+          "AN V SCT 1 PTA (a)",
+          "AN V SCT 1 PTA (b)",
+          "AN V SCT 1 PTI (i)",
+          "AN V SCT 1 PTI (ii)",
+          "AN V SCT 1 PTI (iii)",
+          "AN V SCT 2",
+          "AN V SCT 2 PO 1",
+          "AN V SCT 2 PO 2",
+          "AN V SCT 2 PO 3",
+          "AN V SCT 3",
+          "AN V SCT 3 PO 1",
+          "AN V SCT 3 PO 2",
+          "AN V SCT 3 PO 3",
+          "AN V SCT 3 PO 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32014R0568",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2014-06-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32014R0568 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32014R0568, 32014R0574",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 1 now opens with a statement that the manufacturer draws up the declaration of performance and determines the product-type under the listed systems, and it adds a new System 1.6 covering construction products for which a European Technical Assessment has been issued, describing how notified bodies and manufacturers are to treat that assessment and which tasks they need not undertake.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "32011R0305",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R0305#anx_V",
+              "label": "Annex V, 32011R0305"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_V",
+              "label": "Annex V, 02011R0305-20140616"
+            }
+          ]
+        },
+        {
+          "text": "Within systems 1+, 1, 2+, 3 and 4, the wording describing the manufacturer's and notified body's tasks is reworded, replacing references to type testing, type calculation and issuing certificates with references to assessments and verifications on which the notified body decides whether to issue, restrict, suspend or withdraw the certificate, and referring to sample testing and audit-testing taking place at the manufacturing plant or storage facilities rather than simply 'at the factory'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "32011R0305",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R0305#anx_V",
+              "label": "Annex V, 32011R0305"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_V",
+              "label": "Annex V, 02011R0305-20140616"
+            }
+          ]
+        },
+        {
+          "text": "Section 2's definitions of the product certification body, factory production control certification body and testing laboratory are rewritten to describe them as bodies notified in accordance with Chapter VII rather than by competence and responsibility, the term 'testing laboratory' becomes 'laboratory', and section 3's heading gains the words 'Horizontal notifications' while item 4 changes from 'Noise absorption' to 'Acoustic performance'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "32011R0305",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R0305#anx_V",
+              "label": "Annex V, 32011R0305"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AN V"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#anx_V",
+              "label": "Annex V, 02011R0305-20140616"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R0305",
+      "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+    },
+    "from_version": "32011R0305",
+    "to_version": "02011R0305-20140616",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN III",
+          "AN V"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN III",
+          "AN V"
+        ],
+        "note": "2 annotations in (the act itself, 2014-06-16]",
+        "claims": [
+          {
+            "location": "AN V",
+            "change_type": "MODIFIED",
+            "in_force": "2014-06-16",
+            "source": "32014R0568 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0568",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III",
+            "change_type": "MODIFIED",
+            "in_force": "2014-05-31",
+            "source": "32014R0574 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32014R0574",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32014R0568, 32014R0574",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 12170,
+      "output_tokens": 964,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
