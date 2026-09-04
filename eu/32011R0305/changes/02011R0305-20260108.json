@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R0305",
+    "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+  },
+  "from_version": "02011R0305-20241117",
+  "to_version": "02011R0305-20260108",
+  "detected_on": "2026-09-04",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 0,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 0,
+    "unchanged_units": 73,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 0,
+    "substantive": 0,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R0305",
+      "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+    },
+    "from_version": "02011R0305-20241117",
+    "to_version": "02011R0305-20260108",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (2024-11-17, 2026-01-08]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 0,
+    "explained": 0,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "requests": 0,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 0,
+    "passed_first": 0,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 0,
+    "citations": 0,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

@@ -10,6 +10,19 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20260108 -->
+## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
+### `02011R0305-20241117` → `02011R0305-20260108`
+
+- **Act** `eu:32011R0305` · **In force** not stated · **Detected** 2026-09-04
+- **Touched** 0 provisions — 0 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02011R0305-20241117` · `v2` = `02011R0305-20260108`
+
+---
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20260108 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20241117 -->
 ## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
 ### `02011R0305-20210716` → `02011R0305-20241117`
