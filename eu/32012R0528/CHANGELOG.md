@@ -1240,10 +1240,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `32012R0528` → `02012R0528-20130923`
 
-- **Act** `eu:32012R0528` · **In force** 2013-08-20, 2013-09-01 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2013-08-20, 2013-09-01 · **Detected** 2026-09-04
 - **Touched** 4 provisions — 3 substantive · 1 date-only · **3 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 1 deferred · 102 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32012R0528` · `v2` = `02012R0528-20130923`
 
 ---
@@ -1252,7 +1252,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 89 PA 1 ALN 1` · *dates* -2014-05-14 +2024-12-31 · *amended by* `32013R0736`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The only change in this provision is the target date by which the Commission aims to complete the work programme for examining existing active substances, which was shifted from 14 May 2014 to 31 December 2024. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0528#art_89)
+
+All other text in Article 89, including the remaining paragraphs on transitional arrangements for biocidal products, is unchanged between the two versions. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_89)
 
 *before* (`32012R0528`)
 
@@ -1260,7 +1262,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 14 May 2014. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the […truncated by emendrix: 3111 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the […truncated by emendrix: 3112 characters omitted…]
 
 *after* (`02012R0528-20130923`)
 
@@ -1268,7 +1270,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3116 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3117 characters omitted…]
 
 **MODIFIED · Art. 94** · applies from: unknown
 
@@ -1296,7 +1298,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new point 2.5 has been added to the identity-of-the-biocidal-product sections of both the chemical products title and the micro-organisms title, requiring evidence of technical equivalence where the active substance was manufactured at different locations, by different processes, or from different starting materials than the substance evaluated for approval. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_III)
+
+The added text specifies that this equivalence must have been established under Article 54 of the Regulation or, for an evaluation started before 1 September 2013, by a competent authority designated under Article 26 of Directive 98/8/EC. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_III)
 
 *before* (`32012R0528`)
 
