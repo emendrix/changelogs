@@ -15,28 +15,16 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02024R1157-20250109` → `02024R1157-20260730`
 
 - **Act** `eu:32024R1157` · **In force** 2026-07-30 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 98 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 98 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02024R1157-20250109` · `v2` = `02024R1157-20260730`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32026R1703`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 44 — General regime for exports of waste** · applies from: unchanged
 
 *within* `AR 44 PA 2 ALN 1 PTA (f)` · *amended by* `32026R1703`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (f) of Article 44(2) still prohibits exports of waste referred to in Article 4(3), but the later version adds an exception for exports to Switzerland. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20260730#art_44)
 
