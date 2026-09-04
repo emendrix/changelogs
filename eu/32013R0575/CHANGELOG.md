@@ -35852,7 +35852,7 @@ The closing paragraphs replace the EBA guideline-issuance and Member State revie
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20180101`)
 
