@@ -179,7 +179,7 @@ The prior text of both paragraphs referred only to ICT products, ICT services an
 
 *within* `AR 47 PA 2 ALN 1`, `AR 47 PA 3 ALN 1`, `AR 47 PA 3 ALN 1 PTA (a)`, `AR 47 PA 3 ALN 1 PTA (ca)` · *amended by* `32025R0037`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32019R0881`)
 
@@ -552,7 +552,7 @@ Paragraph 3 similarly extends the list of items covered by the essential cyberse
 > 3. The evaluation shall assess whether essential cybersecurity requirements for access to the internal market are necessary in order to prevent ICT products, ICT services, ICT processes and managed security services which do not meet basic cybersecurity requirements from entering the internal market.
 > 4. By 28 June 2024, and every five years thereafter, the Commission s […truncated by emendrix: 192 characters omitted…]
 
-**MODIFIED · AN** · applies from: unknown
+**MODIFIED · Annex** · applies from: unknown
 
 *amended by* `32025R0037`
 
