@@ -206,7 +206,7 @@ Paragraph 6 was rewritten to reference Articles 8, 8a, 8b, 10 and 21 instead of 
 
 *within* `AR 2 PA 1 ALN 1 PO 8a`, `AR 2 PA 1 ALN 1 PO 11`, `AR 2 PA 1 ALN 1 PO 16a`, `AR 2 PA 1 ALN 1 PO 17 PTA (a)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (i)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (ii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (b)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (iii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (b)`, `AR 2 PA 1 ALN 1 PO 32a`, `AR 2 PA 1 ALN 1 PO 35`, `AR 2 PA 1 ALN 1 PO 36b`, `AR 2 PA 1 ALN 1 PO 36c` · *amended by* `32024R0791`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0600-20240109`)
 
@@ -313,7 +313,7 @@ References throughout to the waivers in Article 4(1)(a) and 4(1)(b)(i) are narro
 
 *within* `AR 8`, `AR 8 PA 1 ALN 1`, `AR 8 PA 2 ALN 1` · *amended by* `32024R0791`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0600-20240109`)
 
@@ -1135,7 +1135,7 @@ Paragraph 4b states that an APA shall keep records relating to its business at t
 
 *within* `AR 27h PA 1 ALN 1`, `AR 27h PA 1 ALN 1 PTA (a)`, `AR 27h PA 1 ALN 1 PTA (b)`, `AR 27h PA 1 ALN 1 PTA (c)`, `AR 27h PA 1 ALN 1 PTA (d)`, `AR 27h PA 1 ALN 1 PTA (e)`, `AR 27h PA 1 ALN 1 PTA (f)`, `AR 27h PA 1 ALN 1 PTA (g)`, `AR 27h PA 1 ALN 2`, `AR 27h PA 1 ALN 2 PTA (a)`, `AR 27h PA 1 ALN 2 PTA (b)`, `AR 27h PA 1 ALN 2 PTA (c)`, `AR 27h PA 1 ALN 2 PTA (d)`, `AR 27h PA 1 ALN 2 PTA (e)`, `AR 27h PA 1 ALN 2 PTA (f)`, `AR 27h PA 1 ALN 2 PTA (g)`, `AR 27h PA 1 ALN 2 PTA (h)`, `AR 27h PA 1 ALN 2 PTA (i)`, `AR 27h PA 1 ALN 2 PTA (j)`, `AR 27h PA 1 ALN 3`, `AR 27h PA 2 ALN 1`, `AR 27h PA 2 ALN 1 PTA (a)`, `AR 27h PA 2 ALN 1 PTA (b)`, `AR 27h PA 2 ALN 1 PTA (c)`, `AR 27h PA 2 ALN 1 PTA (d)`, `AR 27h PA 2 ALN 1 PTA (e)`, `AR 27h PA 2 ALN 1 PTA (f)`, `AR 27h PA 2 ALN 1 PTA (g)`, `AR 27h PA 2 ALN 1 PTA (h)`, `AR 27h PA 2 ALN 2`, `AR 27h PA 3 ALN 1`, `AR 27h PA 4 ALN 1`, `AR 27h PA 4 ALN 2`, `AR 27h PA 5 ALN 1`, `AR 27h PA 6 ALN 1`, `AR 27h PA 6 ALN 1 PTA (a)`, `AR 27h PA 6 ALN 1 PTA (b)`, `AR 27h PA 6 ALN 1 PTA (c)`, `AR 27h PA 6 ALN 2`, `AR 27h PA 7 ALN 1`, `AR 27h PA 7 ALN 1 PTA (a)`, `AR 27h PA 7 ALN 1 PTA (b)`, `AR 27h PA 7 ALN 1 PTA (c)`, `AR 27h PA 7 ALN 2`, `AR 27h PA 7 ALN 3`, `AR 27h PA 8 ALN 1`, `AR 27h PA 8 ALN 1 PTA (a)`, `AR 27h PA 8 ALN 1 PTA (b)`, `AR 27h PA 8 ALN 1 PTA (c)`, `AR 27h PA 8 ALN 1 PTA (c) PTI (i)`, `AR 27h PA 8 ALN 1 PTA (c) PTI (ii)`, `AR 27h PA 8 ALN 1 PTA (d)`, `AR 27h PA 8 ALN 1 PTA (e)`, `AR 27h PA 8 ALN 2`, `AR 27h PA 8 ALN 3`, `AR 27h PA 8 ALN 4` · *dates* +2019-03-27 +2024-12-29 · *amended by* `32024R0791`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0600-20240109`)
 
@@ -1322,7 +1322,7 @@ New paragraphs 4a to 4d are added, setting out ESMA's ability to request that th
 
 *amended by* `32024R0791`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *after* (`02014R0600-20240328`)
 
@@ -1514,7 +1514,7 @@ The new article also allows a Member State meeting a specified pre-28 March 2024
 
 *within* `AR 50 PA 2 ALN 1`, `AR 50 PA 3 ALN 1`, `AR 50 PA 5 ALN 1` · *amended by* `32024R0791`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0600-20240109`)
 
