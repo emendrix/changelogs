@@ -334,28 +334,16 @@ A minor formatting change also appears in the Contents list, where the spacing a
 ### `02021R0821-20220505` → `02021R0821-20230112`
 
 - **Act** `eu:32021R0821` · **In force** 2023-01-12 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02021R0821-20220505` · `v2` = `02021R0821-20230112`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0066`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I`, `AN I PTA (a)`, `AN I PTA (h)`, `AN I PTA (i)`, `AN I PTA (k)`, `AN I PTA (p)`, `AN I PTA (r)` · *amended by* `32023R0066`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of acronyms and abbreviations gains new entries, including ECAD and GAAFET, that were not present before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02021R0821-20230112#anx_I)
 
