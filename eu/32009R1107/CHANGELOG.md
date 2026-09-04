@@ -10,6 +10,197 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20210327 -->
+## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
+### `02009R1107-20191214` → `02009R1107-20210327`
+
+- **Act** `eu:32009R1107` · **In force** 2021-03-24, 2021-03-27 · **Detected** 2026-09-04
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1107-20191214` · `v2` = `02009R1107-20210327`
+
+---
+
+**MODIFIED · Art. 7 — Application** · applies from: unchanged
+
+*within* `AR 7 PA 1 ALN 1`, `AR 7 PA 3 ALN 1`, `AR 7 PA 3 ALN 2`, `AR 7 PA 3 ALN 3` · *amended by* `32019R1381`
+
+Paragraph 1 now adds a requirement that applications be submitted in accordance with standard data formats where they exist under Article 39f of Regulation (EC) No 178/2002, applied mutatis mutandis, alongside references to the dossier and approval criteria now specifying 'of this Regulation'. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7)
+
+Paragraph 3 changes the confidentiality request wording from a request to keep information confidential to a request to treat it as confidential, and now specifies that the rapporteur Member State decides after consultation with the Authority and in accordance with Article 63, rather than simply deciding upon a request for access. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7)
+
+Paragraph 3 also adds a new sentence stating that the Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7)
+
+*before* (`02009R1107-20191214`)
+
+> Article 7
+> Application
+> 1. An application for the approval of an active substance or for an amendment to the conditions of an approval shall be submitted by the producer of the active substance to a Member State, (the rapporteur Member State), together with a summary and a complete dossier as provided for in Article 8(1) and (2) or a scientifically reasoned justification for not providing certain parts of those dossiers, demonstrating that the active substance fulfils the approval criteria provided for in Article 4.
+> A joint application may be submitted by an association of producers designated by the producers for the purpose of compliance with this Regulation.
+> The application shall be examined by the Member State proposed by the applicant, unless another Member State agrees to examine it.
+> 2. Assessment of an application may be performed by a number of Member States together under a co-rapporteur system.
+> 3. When submitting the application, the applicant may pursuant to Article 63 request certain information, including certain parts of the dossier, to be kept confidential and shall physically separate that information.
+> Member States shall assess the confidentiality requests. Upon a request for access to information, the rapporteur Member State shall decide what information is to be kept confidential.
+> 4. When submitting the application the applicant shall at the same time join a complete list of tests and studies submitted pursuant to Article 8(2) and a list of any claims for dat […truncated by emendrix: 137 characters omitted…]
+
+*after* (`02009R1107-20210327`)
+
+> Article 7
+> Application
+> 1. An application for the approval of an active substance or for an amendment to the conditions of an approval shall be submitted by the producer of the active substance to a Member State (the rapporteur Member State), together with a summary and a complete dossier as provided for in Article 8(1) and (2) of this Regulation or a scientifically reasoned justification for not providing certain parts of those dossiers, demonstrating that the active substance fulfils the approval criteria provided for in Article 4 of this Regulation. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+> A joint application may be submitted by an association of producers designated by the producers for the purpose of compliance with this Regulation.
+> The application shall be examined by the Member State proposed by the applicant, unless another Member State agrees to examine it.
+> 2. Assessment of an application may be performed by a number of Member States together under a co-rapporteur system.
+> 3. When submitting the application, the applicant may submit a request, pursuant to Article 63, to treat certain information, including certain parts of the dossier, as confidential and shall physically separate that information.
+> Member States shall assess the confidentiality requests. After consultation with the Authority, the rapporteur Member States shall […truncated by emendrix: 556 characters omitted…]
+
+**MODIFIED · Art. 10 — Public access to the dossiers** · applies from: unchanged
+
+*within* `AR 10`, `AR 10 ALN 1` · *amended by* `32019R1381`
+
+The heading changes from access to the summary dossier to public access to the dossiers, and the body now refers to the dossiers referred to in Article 8, rather than the summary dossier referred to in Article 8(1), and adds any supplementary information supplied by the applicant to what is made available. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_10)
+
+The confidentiality exception no longer refers to information for which confidential treatment was requested and justified with an override for overriding public interest, but instead refers to information to which the rapporteur Member State has granted confidential treatment under Article 63. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_10)
+
+*before* (`02009R1107-20191214`)
+
+> Article 10
+> Access to the summary dossier
+> The Authority shall without delay make the summary dossier referred to in Article 8(1) available to the public, excluding any information in respect of which confidential treatment has been requested and justified pursuant to Article 63, unless there is an overriding public interest in its disclosure.
+
+*after* (`02009R1107-20210327`)
+
+> Article 10
+> Public access to the dossiers
+> The Authority shall without delay make the dossiers referred to in Article 8, including any supplementary information supplied by the applicant, available to the public, with the exception of any information to which the rapporteur Member State has granted confidential treatment pursuant to Article 63.
+
+**MODIFIED · Art. 15 — Application for renewal** · applies from: unchanged
+
+*within* `AR 15 PA 1 ALN 1` · *amended by* `32019R1381`
+
+The reference to Article 14 is now specified as Article 14 of this Regulation, and the order in which copies are listed changes to the Commission, then the other Member States, then the Authority. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_15)
+
+A new sentence is added stating that the application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_15)
+
+*before* (`02009R1107-20191214`)
+
+> Article 15
+> Application for renewal
+> 1. The application provided for in Article 14 shall be submitted by a producer of the active substance to a Member State, with a copy to the other Member States, the Commission and the Authority, no later than three years before the expiry of the approval.
+> 2. When applying for renewal, the applicant shall identify new data he intends to submit and demonstrate that they are necessary, because of data requirements or criteria which were not applicable at the time of the last approval of the active substance or because his request is for an amended approval. The applicant shall at the same time submit a timetable of any new and ongoing studies.
+> The applicant shall identify, giving reasons, the parts of the information submitted that he requests to be kept confidential in accordance with Article 63 and at the same time any data protection claims pursuant to Article 59.
+
+*after* (`02009R1107-20210327`)
+
+> Article 15
+> Application for renewal
+> 1. The application provided for in Article 14 of this Regulation shall be submitted by a producer of the active substance to a Member State, with a copy to the Commission, to the other Member States and to the Authority, no later than three years before the expiry of the approval. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+> 2. When applying for renewal, the applicant shall identify new data he intends to submit and demonstrate that they are necessary, because of data requirements or criteria which were not applicable at the time of the last approval of the active substance or because his request is for an amended approval. The applicant shall at the same time submit a timetable of any new and ongoing studies.
+> The applicant shall identify, giving reasons, the parts of the information submitted that he requests to be kept confidential in accordance with Article 63 and at the same time any data protection claims pursuant to Article 59.
+
+**MODIFIED · Art. 16 — Public access to the information for renewal** · applies from: unchanged
+
+*within* `AR 16`, `AR 16 ALN 1`, `AR 16 ALN 2` · *amended by* `32019R1381`
+
+The heading changes from "Access to the information for renewal" to "Public access to the information for renewal". [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16)
+
+The article now states that the Authority shall assess any confidentiality request without delay and make available the applicant's Article 15 information plus any other supplementary information submitted, excluding only information for which confidential treatment has been requested and granted by the Authority under Article 63, replacing the earlier wording that excluded information for which confidential treatment had merely been requested and justified under Article 63 unless there was an overriding public interest in disclosure. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16)
+
+A new paragraph is added stating that the Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments. [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16)
+
+*before* (`02009R1107-20191214`)
+
+> Article 16
+> Access to the information for renewal
+> The Authority shall, without delay, make available to the public the information provided by the applicant under Article 15, excluding any information in respect of which confidential treatment has been requested and justified pursuant to Article 63, unless there is an overriding public interest in its disclosure.
+
+*after* (`02009R1107-20210327`)
+
+> Article 16
+> Public access to the information for renewal
+> The Authority shall assess, without delay, any confidentiality request and make available to the public the information provided by the applicant under Article 15 as well as any other supplementary information submitted by the applicant, except for information in respect of which confidential treatment has been requested and granted by the Authority pursuant to Article 63.
+> The Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.
+
+**MODIFIED · Art. 63 — Confidentiality** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 63 PA 1 ALN 1`, `AR 63 PA 2 ALN 1`, `AR 63 PA 2 ALN 1 PTA (a)`, `AR 63 PA 2 ALN 1 PTA (b)`, `AR 63 PA 2 ALN 1 PTA (c)`, `AR 63 PA 2 ALN 1 PTA (d)`, `AR 63 PA 2 ALN 1 PTA (e)`, `AR 63 PA 2 ALN 1 PTA (f)`, `AR 63 PA 2 ALN 1 PTA (g)`, `AR 63 PA 2a`, `AR 63 PA 2b`, `AR 63 PA 3 ALN 1` · *dates* +2001-05-30 +2006-09-06 · *amended by* `32019R1381`
+
+The confidentiality request standard changed from requiring evidence that disclosure might undermine commercial interests or privacy to requiring verifiable justification that disclosure could potentially harm the applicant's interests to a significant degree. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63)
+
+The list of items eligible for confidential treatment was replaced, dropping method of manufacture, links between producer/importer and applicant, and names/addresses of persons involved in vertebrate testing, while adding a reference to information covered by Article 39(2) of Regulation (EC) No 178/2002 and merging impurity specification with related analysis methods. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63)
+
+New paragraphs 2a and 2b were added setting out separate procedures for the Authority and for Member States when assessing confidentiality requests, and paragraph 3 was expanded to also reference Regulations (EC) No 1049/2001 and (EC) No 1367/2006 alongside Directive 2003/4/EC. [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63)
+
+*before* (`02009R1107-20191214`)
+
+> Article 63
+> Confidentiality
+> 1. A person requesting that information submitted under this Regulation is to be treated as confidential shall provide verifiable evidence to show that the disclosure of the information might undermine his commercial interests, or the protection of privacy and the integrity of the individual.
+> 2. Disclosure of the following information shall normally be deemed to undermine the protection of the commercial interests or of privacy and the integrity of the individuals concerned:
+> (a) the method of manufacture;
+> (b) the specification of impurity of the active substance except for the impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant;
+> (c) results of production batches of the active substance including impurities;
+> (d) methods of analysis for impurities in the active substance as manufactured except for methods for impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant;
+> (e) links between a producer or importer and the applicant or the authorisation holder;
+> (f) information on the complete composition of a plant protection product;
+> (g) names and addresses of persons involved in testing on vertebrate animals.
+> 3. This Article is without prejudice to Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information
+> OJ L 41, 14.2.2003, p. 26..
+
+*after* (`02009R1107-20210327`)
+
+> Article 63
+> Confidentiality
+> 1. An applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification.
+> 2. Confidential treatment may be granted only with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+> (a) information referred to in Article 39(2) of Regulation (EC) No 178/2002;
+> (b) the specification of impurity of the active substance and the related methods of analysis for impurities in the active substance as manufactured, except for the impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant and the related methods of analysis for such impurities;
+> (c) results of production batches of the active substance including impurities; and
+> (d) information on the complete composition of a plant protection product.
+> 2a. Where the Authority assesses confidentiality requests under this Regulation, the conditions and the procedures laid down in Articles 39 to 39e of Regulation (EC) No 178/2002 and paragraph 2 of this Article shall apply.
+> 2b. Where Member States assess confidentiality requests under this Regulation, the following requirements and procedures apply:
+> (a) confidentiality treatment may only be granted with respect to information listed in paragraph 2;
+> (b) where the Member State has decided which information is to […truncated by emendrix: 2261 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +1818-08-02 · *amended by* `32021R0383`
+
+The later version adds introductory impurity-limit statements and a full table of substances with names, CAS and EC numbers and classification or other properties, none of which appeared in the earlier version, which contained only the heading and the introductory sentence about Article 27. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III)
+
+The added table lists numbered entries covering a wide range of chemical substances, including entries such as phenol, 4-(1-methylheptyl)- with CAS number 1818-08-2, each paired with classification or property information such as carcinogenic, mutagenic, toxic to reproduction, or endocrine disrupting properties. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III)
+
+*Applicability:* The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III)
+
+*before* (`02009R1107-20191214`)
+
+> ANNEX III
+> List of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27
+
+*after* (`02009R1107-20210327`)
+
+> ANNEX III
+> List of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27
+> The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.
+> The limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.
+> No Name EC names/Other names CAS number EC number Classification/Other properties
+> 1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B
+> 2. 1,2- Dichloroethane 1,2-Dichloroethane;
+> Ethane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B
+> 3. 2-Ethoxyethanol 2-Ethoxyethanol;
+> Ethanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B
+> 4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B
+> 5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;
+> N-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B
+> 6. 2-Methoxyethanol 2-Methoxyethanol;
+> Ethanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B
+> 7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;
+> Ethanol, 2-methoxy-, 1-acetate;
+> 2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B
+> 8. 2-Methoxyprop […truncated by emendrix: 21156 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1107-20210327 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20191214 -->
 ## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
 ### `02009R1107-20190715` → `02009R1107-20191214`

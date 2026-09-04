@@ -1,0 +1,1039 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1107",
+    "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+  },
+  "from_version": "02009R1107-20191214",
+  "to_version": "02009R1107-20210327",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-03-24",
+    "2021-03-27"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 6,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 83,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AR 7"
+        },
+        "heading": "Application",
+        "before": "Article 7\nApplication\n1. An application for the approval of an active substance or for an amendment to the conditions of an approval shall be submitted by the producer of the active substance to a Member State, (the rapporteur Member State), together with a summary and a complete dossier as provided for in Article 8(1) and (2) or a scientifically reasoned justification for not providing certain parts of those dossiers, demonstrating that the active substance fulfils the approval criteria provided for in Article 4.\nA joint application may be submitted by an association of producers designated by the producers for the purpose of compliance with this Regulation.\nThe application shall be examined by the Member State proposed by the applicant, unless another Member State agrees to examine it.\n2. Assessment of an application may be performed by a number of Member States together under a co-rapporteur system.\n3. When submitting the application, the applicant may pursuant to Article 63 request certain information, including certain parts of the dossier, to be kept confidential and shall physically separate that information.\nMember States shall assess the confidentiality requests. Upon a request for access to information, the rapporteur Member State shall decide what information is to be kept confidential.\n4. When submitting the application the applicant shall at the same time join a complete list of tests and studies submitted pursuant to Article 8(2) and a list of any claims for data protection pursuant to Article 59.\n5. When assessing the application the rapporteur Member State may at any time consult the Authority.",
+        "after": "Article 7\nApplication\n1. An application for the approval of an active substance or for an amendment to the conditions of an approval shall be submitted by the producer of the active substance to a Member State (the rapporteur Member State), together with a summary and a complete dossier as provided for in Article 8(1) and (2) of this Regulation or a scientifically reasoned justification for not providing certain parts of those dossiers, demonstrating that the active substance fulfils the approval criteria provided for in Article 4 of this Regulation. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.\nA joint application may be submitted by an association of producers designated by the producers for the purpose of compliance with this Regulation.\nThe application shall be examined by the Member State proposed by the applicant, unless another Member State agrees to examine it.\n2. Assessment of an application may be performed by a number of Member States together under a co-rapporteur system.\n3. When submitting the application, the applicant may submit a request, pursuant to Article 63, to treat certain information, including certain parts of the dossier, as confidential and shall physically separate that information.\nMember States shall assess the confidentiality requests. After consultation with the Authority, the rapporteur Member States shall decide what information is to be treated as confidential, in accordance with Article 63.\nThe Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.\n4. When submitting the application the applicant shall at the same time join a complete list of tests and studies submitted pursuant to Article 8(2) and a list of any claims for data protection pursuant to Article 59.\n5. When assessing the application the rapporteur Member State may at any time consult the Authority.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 7 PA 1 ALN 1",
+          "AR 7 PA 3 ALN 1",
+          "AR 7 PA 3 ALN 2",
+          "AR 7 PA 3 ALN 3"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now adds a requirement that applications be submitted in accordance with standard data formats where they exist under Article 39f of Regulation (EC) No 178/2002, applied mutatis mutandis, alongside references to the dossier and approval criteria now specifying 'of this Regulation'.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7",
+              "label": "Art. 7, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 changes the confidentiality request wording from a request to keep information confidential to a request to treat it as confidential, and now specifies that the rapporteur Member State decides after consultation with the Authority and in accordance with Article 63, rather than simply deciding upon a request for access.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_7",
+              "label": "Art. 7, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7",
+              "label": "Art. 7, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 also adds a new sentence stating that the Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_7",
+              "label": "Art. 7, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AR 10"
+        },
+        "heading": "Public access to the dossiers",
+        "before": "Article 10\nAccess to the summary dossier\nThe Authority shall without delay make the summary dossier referred to in Article 8(1) available to the public, excluding any information in respect of which confidential treatment has been requested and justified pursuant to Article 63, unless there is an overriding public interest in its disclosure.",
+        "after": "Article 10\nPublic access to the dossiers\nThe Authority shall without delay make the dossiers referred to in Article 8, including any supplementary information supplied by the applicant, available to the public, with the exception of any information to which the rapporteur Member State has granted confidential treatment pursuant to Article 63.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10",
+          "AR 10 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from access to the summary dossier to public access to the dossiers, and the body now refers to the dossiers referred to in Article 8, rather than the summary dossier referred to in Article 8(1), and adds any supplementary information supplied by the applicant to what is made available.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_10",
+              "label": "Art. 10, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_10",
+              "label": "Art. 10, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The confidentiality exception no longer refers to information for which confidential treatment was requested and justified with an override for overriding public interest, but instead refers to information to which the rapporteur Member State has granted confidential treatment under Article 63.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_10",
+              "label": "Art. 10, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_10",
+              "label": "Art. 10, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AR 15"
+        },
+        "heading": "Application for renewal",
+        "before": "Article 15\nApplication for renewal\n1. The application provided for in Article 14 shall be submitted by a producer of the active substance to a Member State, with a copy to the other Member States, the Commission and the Authority, no later than three years before the expiry of the approval.\n2. When applying for renewal, the applicant shall identify new data he intends to submit and demonstrate that they are necessary, because of data requirements or criteria which were not applicable at the time of the last approval of the active substance or because his request is for an amended approval. The applicant shall at the same time submit a timetable of any new and ongoing studies.\nThe applicant shall identify, giving reasons, the parts of the information submitted that he requests to be kept confidential in accordance with Article 63 and at the same time any data protection claims pursuant to Article 59.",
+        "after": "Article 15\nApplication for renewal\n1. The application provided for in Article 14 of this Regulation shall be submitted by a producer of the active substance to a Member State, with a copy to the Commission, to the other Member States and to the Authority, no later than three years before the expiry of the approval. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.\n2. When applying for renewal, the applicant shall identify new data he intends to submit and demonstrate that they are necessary, because of data requirements or criteria which were not applicable at the time of the last approval of the active substance or because his request is for an amended approval. The applicant shall at the same time submit a timetable of any new and ongoing studies.\nThe applicant shall identify, giving reasons, the parts of the information submitted that he requests to be kept confidential in accordance with Article 63 and at the same time any data protection claims pursuant to Article 59.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 15 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference to Article 14 is now specified as Article 14 of this Regulation, and the order in which copies are listed changes to the Commission, then the other Member States, then the Authority.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_15",
+              "label": "Art. 15, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_15",
+              "label": "Art. 15, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "A new sentence is added stating that the application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_15",
+              "label": "Art. 15, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AR 16"
+        },
+        "heading": "Public access to the information for renewal",
+        "before": "Article 16\nAccess to the information for renewal\nThe Authority shall, without delay, make available to the public the information provided by the applicant under Article 15, excluding any information in respect of which confidential treatment has been requested and justified pursuant to Article 63, unless there is an overriding public interest in its disclosure.",
+        "after": "Article 16\nPublic access to the information for renewal\nThe Authority shall assess, without delay, any confidentiality request and make available to the public the information provided by the applicant under Article 15 as well as any other supplementary information submitted by the applicant, except for information in respect of which confidential treatment has been requested and granted by the Authority pursuant to Article 63.\nThe Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 16",
+          "AR 16 ALN 1",
+          "AR 16 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from \"Access to the information for renewal\" to \"Public access to the information for renewal\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_16",
+              "label": "Art. 16, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16",
+              "label": "Art. 16, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The article now states that the Authority shall assess any confidentiality request without delay and make available the applicant's Article 15 information plus any other supplementary information submitted, excluding only information for which confidential treatment has been requested and granted by the Authority under Article 63, replacing the earlier wording that excluded information for which confidential treatment had merely been requested and justified under Article 63 unless there was an overriding public interest in disclosure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_16",
+              "label": "Art. 16, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16",
+              "label": "Art. 16, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph is added stating that the Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_16",
+              "label": "Art. 16, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AR 63"
+        },
+        "heading": "Confidentiality",
+        "before": "Article 63\nConfidentiality\n1. A person requesting that information submitted under this Regulation is to be treated as confidential shall provide verifiable evidence to show that the disclosure of the information might undermine his commercial interests, or the protection of privacy and the integrity of the individual.\n2. Disclosure of the following information shall normally be deemed to undermine the protection of the commercial interests or of privacy and the integrity of the individuals concerned:\n(a) the method of manufacture;\n(b) the specification of impurity of the active substance except for the impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant;\n(c) results of production batches of the active substance including impurities;\n(d) methods of analysis for impurities in the active substance as manufactured except for methods for impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant;\n(e) links between a producer or importer and the applicant or the authorisation holder;\n(f) information on the complete composition of a plant protection product;\n(g) names and addresses of persons involved in testing on vertebrate animals.\n3. This Article is without prejudice to Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information\nOJ L 41, 14.2.2003, p. 26..",
+        "after": "Article 63\nConfidentiality\n1. An applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification.\n2. Confidential treatment may be granted only with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:\n(a) information referred to in Article 39(2) of Regulation (EC) No 178/2002;\n(b) the specification of impurity of the active substance and the related methods of analysis for impurities in the active substance as manufactured, except for the impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant and the related methods of analysis for such impurities;\n(c) results of production batches of the active substance including impurities; and\n(d) information on the complete composition of a plant protection product.\n2a. Where the Authority assesses confidentiality requests under this Regulation, the conditions and the procedures laid down in Articles 39 to 39e of Regulation (EC) No 178/2002 and paragraph 2 of this Article shall apply.\n2b. Where Member States assess confidentiality requests under this Regulation, the following requirements and procedures apply:\n(a) confidentiality treatment may only be granted with respect to information listed in paragraph 2;\n(b) where the Member State has decided which information is to be treated as confidential, it shall inform the applicant of its decision;\n(c) Member States, the Commission and the Authority shall take the necessary measures so that information for which confidential treatment has been granted is not made public;\n(d) Article 39e of Regulation (EC) No 178/2002 shall apply mutatis mutandis;\n(e) notwithstanding paragraph 2 and points (c) and (d) of this paragraph:\n(i) where urgent action is essential to protect human health, animal health or the environment, such as in emergency situations, the Member State may disclose the information referred to in paragraph 2;\n(ii) information which forms part of the conclusions of the scientific outputs delivered by the Authority and which relate to foreseeable effects on human health, animal health or the environment shall nevertheless be made public. In that case, Article 39c of Regulation (EC) No 178/2002 shall apply;\n(f) if the applicant withdraws or has withdrawn an application, Member States, the Commission and the Authority shall respect the confidentiality as granted in accordance with this Article. Where the withdrawal of the application takes place before the Member State has decided on the relevant confidentiality request, Member States, the Commission and the Authority shall not make public the information for which confidentiality has been requested.\n3. This Article is without prejudice to Directive 2003/4/EC\nDirective 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.2.2003, p. 26). and Regulations (EC) No 1049/2001\nRegulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43). and (EC) No 1367/2006\nRegulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies (OJ L 264, 25.9.2006, p. 13). of the European Parliament and of the Council.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 63 PA 1 ALN 1",
+          "AR 63 PA 2 ALN 1",
+          "AR 63 PA 2 ALN 1 PTA (a)",
+          "AR 63 PA 2 ALN 1 PTA (b)",
+          "AR 63 PA 2 ALN 1 PTA (c)",
+          "AR 63 PA 2 ALN 1 PTA (d)",
+          "AR 63 PA 2 ALN 1 PTA (e)",
+          "AR 63 PA 2 ALN 1 PTA (f)",
+          "AR 63 PA 2 ALN 1 PTA (g)",
+          "AR 63 PA 2a",
+          "AR 63 PA 2b",
+          "AR 63 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2001-05-30",
+          "2006-09-06"
+        ],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The confidentiality request standard changed from requiring evidence that disclosure might undermine commercial interests or privacy to requiring verifiable justification that disclosure could potentially harm the applicant's interests to a significant degree.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_63",
+              "label": "Art. 63, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63",
+              "label": "Art. 63, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The list of items eligible for confidential treatment was replaced, dropping method of manufacture, links between producer/importer and applicant, and names/addresses of persons involved in vertebrate testing, while adding a reference to information covered by Article 39(2) of Regulation (EC) No 178/2002 and merging impurity specification with related analysis methods.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_63",
+              "label": "Art. 63, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63",
+              "label": "Art. 63, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "New paragraphs 2a and 2b were added setting out separate procedures for the Authority and for Member States when assessing confidentiality requests, and paragraph 3 was expanded to also reference Regulations (EC) No 1049/2001 and (EC) No 1367/2006 alongside Directive 2003/4/EC.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#art_63",
+              "label": "Art. 63, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20210327",
+          "location": "AN III"
+        },
+        "heading": "ANNEX III",
+        "before": "ANNEX III\nList of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27",
+        "after": "ANNEX III\nList of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27\nThe limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.\nThe limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.\nNo Name EC names/Other names CAS number EC number Classification/Other properties\n1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B\n2. 1,2- Dichloroethane 1,2-Dichloroethane;\nEthane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B\n3. 2-Ethoxyethanol 2-Ethoxyethanol;\nEthanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B\n4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B\n5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;\nN-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B\n6. 2-Methoxyethanol 2-Methoxyethanol;\nEthanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B\n7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;\nEthanol, 2-methoxy-, 1-acetate;\n2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B\n8. 2-Methoxypropanol 2-Methoxypropanol;\n1-Propanol, 2-methoxy- 1589-47-5 216-455-5 Toxic to reproduction cat.1B\n9. 1-Methylpyrrolidin-2-one 1-Methyl-2-pyrrolidone;\n2-Pyrrolidinone, 1-methyl- 872-50-4 212-828-1 Toxic to reproduction cat.1B\n10. 2-Nitropropane 2-Nitropropane;\nPropane, 2-nitro- 79-46-9 201-209-1 Carcinogenic cat.1B\n11. Amines, tallow alkyl, ethoxylated Amines, tallow alkyl, ethoxylated;\nPOE-tallowamine 61791-26-2 Concerns or data gaps related to potential effects on human health or the environment\n12. Amines, tallow alkyl, ethoxylated propoxylated Amines, tallow alkyl, ethoxylated propoxylated;\nPOEP-tallowamine 68213-26-3 Concerns or data gaps related to potential effects on human health or the environment\n13. Asbestos fibres Actinolite asbestos;\nAsbestos, actinolyte 77536-66-4 Carcinogenic cat.1A\n14. Amosite asbestos;\nAsbestos, amosite 12172-73-5 Carcinogenic cat.1A\n15. Anthophyllite asbestos;\nAsbestos, anthophyllite 77536-67-5 Carcinogenic cat.1A\n16. Chrysotile asbestos;\nAsbestol, chrysotile 12001-29-5 Carcinogenic cat.1A\n17. Crocidolite asbestos;\nAsbestos, crocidolite 12001-28-4 Carcinogenic cat.1A\n18. Tremolite asbestos;\nAsbestos, tremolite 77536-68-6 Carcinogenic cat.1A\n19. Benzene Benzene 71-43-2 200-753-7 Carcinogenic cat.1A/\nMutagenic cat.1B\n20. Benzo[def]chrysene;\nBenzo[pqr]tetraphene Benzo[def]chrysene;\nBenzo[a]pyrene 50-32-8 200-028-5 Carcinogenic cat.1B/Mutagenic cat.1B/\nToxic to reproduction cat.1B\n21. Bis(2-methylpropyl) benzene-1,2-dicarboxylate Diisobutyl phthalate 84-69-5 201-553-2 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n22. Boric acid Boric acid 10043-35-3\n11113-50-1 233-139-2\n234-343-4 Toxic to reproduction cat.1B\n23. Disodium octaborate Disodium octaborate; Disodium octaborate anhydrous 12008-41-2 234-541-0 Toxic to reproduction cat.1B\n24. Disodium octaborate, tetrahydrate Boric acid, disodium salt, tetrahydrate; 12280-03-4 234-541-0 Toxic to reproduction cat.1B\n25. Disodium tetraborate, anhydrous Disodium tetraborate, anhydrous;\nBoron sodium oxide 1330-43-4 215-540-4 Toxic to reproduction cat.1B\n26. Disodium tetraborate, decahydrate Borax 1303-96-4 215-540-4 Toxic to reproduction cat.1B\n27. Disodium tetraborate, pentahydrate Boron sodium oxide, hydrated 12179-04-3 215-540-4 Toxic to reproduction cat.1B\n28. Orthoboric acid, sodium salt Orthoboric acid, sodium salt; Boric acid, sodium salt 13840-56-7 237-560-2 Toxic to reproduction cat.1B\n29. Tetraboron disodium heptaoxide, hydrate Tetraboron disodium heptaoxide, hydrate;\nBoron sodium oxide, hydrate 12267-73-1 235-541-3 Toxic to reproduction cat.1B\n30. Buta-1,3-diene Buta-1,3-diene;\n1,3-Butadiene 106-99-0 203-450-8 Carcinogenic cat.1A/\nMutagenic cat.1B\n31. Butane\ncontaining ≥ 0,1 % butadiene (EC No 203-450-8) Butane 106-97-8 203-448-7 Carcinogenic cat.1A\n32. Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride Guanidine, N,N\"’-1,6-hexanediylbis[N’-cyano-, polymer with 1,6-hexanediamine, hydrochloride\nPoly[iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl], hydrochloride\nCyanamide, N-cyano-, compd. with 1,6-hexanediamine (2:1), polymer with 1,6-hexanediamine hydrochloride (1:2);\nPHMB 27083-27-8\nand\n32289-58-0\nand\n1802181-67-4 Not approved for use in biocidal products for product-type 6 (in-can preservatives).\n33. Dibutyl phthalate n-Butyl phthalate;\nDibutyl benzene-1,2-dicarboxylate 84-74-2 201-557-4 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n34. Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-52-5 265-155-0 Carcinogenic cat.1B\n35. Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-54-7 265-157-1 Carcinogenic cat.1B\n36. Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-53-6 265-156-6 Carcinogenic cat.1B\n37. Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-55-8 265-158-7 Carcinogenic cat.1B\n38. Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-65-0 265-169-7 Carcinogenic cat.1B\n39. Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-88-4 265-090-8 Carcinogenic cat.1B\n40. Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-89-5 265-091-3 Carcinogenic cat.1B\n41. Ethylene oxide Ethylene oxide; Oxyrane; Epoxyethane 75-21-8 200-849-9 Carcinogenic cat.1B/\nMutagenic cat. 1B\n42. Formaldehyde Formaldehyde; Formalin; Methanal;,Formol 50-00-0 200-001-8 Carcinogenic cat.1B\n43. Formamide Formamide; Methanamide 75-12-7 200-842-0 Toxic to reproduction cat.1B\n44. Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8)) Isobutane; Propane, 2-methyl- 75-28-5 200-857-2 Carcinogenic cat.1A/\nMutagenic cat. 1B\n45. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-85-9 276-736-3 Carcinogenic cat.1B\n46. Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-86-0 276-737-9 Carcinogenic cat.1B\n47. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-87-1 276-738-4 Carcinogenic cat.1B\n48. Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 101316-70-5 309-875-6 Carcinogenic cat.1B\n49. Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64741-65-7 265-067-2 Carcinogenic cat.1B/\nMutagenic cat.1B\n50. Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-82-1 265-185-4 Carcinogenic cat.1A/\nMutagenic cat.1B\n51. Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7) 92045-53-9 295-434-2 Carcinogenic cat.1A/\nMutagenic cat.1B\n52. Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-48-9 265-150-3 Carcinogenic cat.1A/\nMutagenic cat.1B\n53. Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7) 64742-95-6 265-199-0 Carcinogenic cat.1A/\nMutagenic cat.1B\n54. Nitrobenzene Nitrobenzene;\nBenzene, nitro- 98-95-3 202-716-0 Toxic to reproduction cat.1B\n55. N-methylformamide N-methylformamide; Formamide, N-methyl- 123-39-7 204-624-6 Toxic to reproduction cat.1B\n56. Nonyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. 4-(3,5-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,3-dimethylpentyl)-;\n4-(1-Ethyl-1,3-dimethylpentyl)phenol 186825-36-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n57. 4-(3,6-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,4-dimethylpentyl)-;\n4-(1-Ethyl-1,4-dimethylpentyl)phenol 142731-63-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n58. 4-(2-Methyloctan-2-yl)phenol\np-(1,1-Dimethylheptyl)phenol;\nPhenol, 4-(1,1-dimethylheptyl)- 30784-30-6 250-339-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n59. 4-(3-Methyloctan-3-yl)phenol\nPhenol, 4-(1-ethyl-1-methylhexyl)-;\n4-(1-Ethyl-1-methylhexyl)phenol; 52427-13-1 257-907-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n60. 4-Nonylphenol\np-Nonylphenol;\nPhenol, 4-nonyl- 104-40-5 203-199-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n61. Isononylphenol 11066-49-2 234-284-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n62. p-Isononylphenol;\nPhenol, 4-isononyl- 26543-97-5 247-770-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n63. Nonylphenol;\nPhenol, nonyl- 25154-52-3 246-672-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n64. Phenol, 4-(1-methyloctyl)-;\np-(1-Methyloctyl)phenol 17404-66-9 241-427-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n65. Phenol, 4-nonyl-, branched 84852-15-3 284-325-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n66. Phenol, nonyl-, branched 90481-04-2 291-844-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n67. Nonyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Nonylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy- 500-024-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n68. 4-Nonylphenol, branched, 1 – 2,5 moles ethoxylated\nPoly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 500-315-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n69. 4-Nonylphenol, 1 – 2,5 moles ethoxylated 500-045-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n70. 2-(2-{2-[2-(4-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethan-1-ol\n2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;\nEthanol, 2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 230-770-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n71. 2-[2-(4-Nonylphenoxy)ethoxy]ethanol;\nEthanol, 2-[2-(4-nonylphenoxy)ethoxy]- 20427-84-3 243-816-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n72. 20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol;\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20- (4-nonylphenoxy)- 27942-27-4 248-743-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n73. 2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethan-1-ol\nEthanol,2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n74. 26-(4-Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol\n3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-nonylphenoxy)- 14409-72-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n75. 17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol\n3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-nonylphenoxy)- 34166-38-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n76. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 127087-87-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n77. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy- 26027-38-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n78. Ethanol, 2-(4-nonylphenoxy) 104-35-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n79. Isononylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(isononylphenyl)-ω-hydroxy- 37205-87-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n80. 2-[2-(4-tert-Nonylphenoxy) ethoxy] ethanol\nEthanol, 2-[2-(4-tert-nonylphenoxy)ethoxy]- 156609-10-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n81. Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-\nNonylphenol, ethoxylated 9016-45-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n82. Octyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. p-Octylphenol;\n4-Octylphenol 1806-26-4 217-302-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n83. 4-(2,4,4-Trimethylpentan-2-yl)phenol;\n4-(1,1,3,3-Tetramethylbutyl)phenol;\n4-(tert-octyl) Phenol\nPhenol, 4-(1,1,3,3-tetramethylbutyl)-;\n4-tert-Octylphenol 140-66-9 205-426-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n84. Octylphenol;\nPhenol, octyl- 67554-50-1 266-717-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n85. Phenol, 2-isooctyl- 86378-08-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n86. Phenol, isooctyl-;\nIsooctylphenol 11081-15-5 234-304-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n87. Phenol, 2-octyl-;\no-Octylphenol 949-13-3 213-437-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n88. Phenol, 2-sec-octyl-;\no-sec-Octylphenol 26401-75-2 247-663-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n89. Phenol, 4-isooctyl-;\np-Isooctylphenol 27013-89-4 248-164-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n90. Phenol, 4-sec-octyl-;\np-sec-Octylphenol 27214-47-7 248-330-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n91. Phenol, sec-octyl-;\nsec-Octylphenol 93891-78-2 299-461-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n92. Phenol, 4-(1-ethylhexyl)-;\np-(1-Ethylhexyl)phenol 3307-00-4 221-989-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n93. Phenol, 2-(1-methylheptyl)-;\no-(1Methylheptyl)phenol 18626-98-7 242-459-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n94. Phenol, 2-(1-ethylhexyl)-;\no-(1-Ethylhexyl)phenol 17404-44-3 241-426-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n95. Phenol, 2-(1-propylpentyl)-;\no-(1-Propylpentyl)phenol 37631-10-0 253-574-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n96. Phenol, 4-(1-propylpentyl)-;\np-(1-Propylpentyl)phenol 3307 - 01-5 221-990-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n97. Phenol, 2-(1-methylheptyl)-;\no-(1,1,3,3-Tetramethylbutyl)phenol 3884-95-5 223-420-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n98. Phenol, (1,1,3,3-tetramethylbutyl)-;\n(1,1,3,3-Tetramethylbutyl)phenol 27193-28-8 248-310-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n99. Phenol, (1-methylheptyl)-;\n(1-Methylheptyl)phenol 27985-70-2 248-759-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n100. Phenol, 4-(2-methylheptyl)- 898546-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n101. Phenol, 2-(2-ethylhexyl)- 28752-62-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n102. Phenol, 4-(1-methylheptyl)-;\np-(1-Methylheptyl)phenol 1818-08-2 217-332-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n103. Phenol, 4-(2-ethylhexyl)- 69468-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n104. Phenol, 4-(5-methylheptyl)- 1824164-95-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n105. Phenol, 2-(2-methylheptyl)- 898546-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n106. Phenol, 4-(2-propylpentyl)- 119747-99-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n107. Phenol, 3-octyl- 20056-69-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n108. Phenol, 2-(1,1-dimethylhexyl)- 1824575-79-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n109. Phenol, 4-(1,1-dimethylhexyl)- 30784-29-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n110. Phenol, 4-(5,5-dimethylhexyl)- 13330-52-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n111. Phenol, 2-(5,5-dimethylhexyl)- 1822989-97-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n112. Phenol, 3-(1,1-dimethylhexyl)- 70435-92-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n113. Phenol, 4-(1,4-dimethylhexyl)- 164219-26-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n114. Octyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Poly(oxy-1,2-ethanediyl), α-[(1,1,3,3- tetramethylbutyl) phenyl]-ω-hydroxy-\n2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol\nPolyethylene Glycol Octylphenyl Ether; 9036-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n115. 2-[4-(2,4,4-Trimethylpentan-2-yl)phenoxy]ethanol\nPoly(oxy-1,2-ethanediyl), α-[4-(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-\nOctylphenol ethoxylated 9002-93-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n116. 20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-59-8 219-682-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n117. Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-67-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n118. Ethanol, 2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]- 2315-61-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n119. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-octylphenoxy)-; 42173-90-0 255-695-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n120. Poly(oxy-1,2-ethanediyl), α-(octylphenyl)-ω-hydroxy-, branched 68987-90-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n121. Poly(oxy-1,2-ethanediyl), α-[4-(6-methylheptyl)phenyl]-ω-hydroxy- 59379-12-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n122. Ethanol, 2-(4-octylphenoxy)-;\n2-(p-Octylphenoxy)ethanol 51437-89-9 257-203-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n123. Poly(oxy-1,2-ethanediyl), α-(4-octylphenyl)-ω-hydroxy- 26636-32-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n124. Poly(oxy-1,2-ethanediyl), α-[4-(1-methylheptyl)phenyl]-ω-hydroxy- 73935-42-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n125. 3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-(4-octylphenoxy)-;\n20-(4-Octylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol 32742-88-4 251-190-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n126. Ethanol, 2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]-;\n2-(p-Octylphenoxy)ethanol 51437-92-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n127. Ethanol, 2-[2-(4-octylphenoxy)ethoxy]- 51437-90-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n128. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-octylphenoxy)- 51437-94-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n129. Poly(oxy-1,2-ethanediyl), α-(isooctylphenyl)-ω-hydroxy- 9004-87-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n130. 2-[2-[2-(4-Octylphenoxy)ethoxy]ethoxy]ethanol 51437-91-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n131. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-58-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n132. Ethanol, 2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]- 2315-62-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n133. Ethanol, 2-[2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]ethoxy]- 2315-63-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n134. 3,6,9,12-Tetraoxatetradecan-1-ol, 14-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-64-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n135. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-65-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n136. 3,6,9,12,15,18,21,24,27-Nonaoxanonacosan-1-ol, 29-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-66-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n137. Ethanol, 2-[3-(1,1,3,3-tetramethylbutyl)phenoxy]- 1026254-24-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n138. Ethanol, 2-[2-(1,1,3,3-tetramethylbutyl)phenoxy]- 84658-53-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n139. Ethanol, 2-[2-(octylphenoxy)ethoxy]- 27176-92-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n140. N, N-Dimethylformamide N, N-dimethylformamide; Dimethyl formamide, DMF 68-12-2 200-679-5 Toxic to reproduction cat.1B\n141. Prop-2-enamide Acrylamide; 2-propenamide 79-06-1 201-173-7 Carcinogenic cat.1B/\nMutagenic cat.1B\n142. Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7) 68391-11-7 269-929-9 Carcinogenic cat.1A/\nMutagenic cat.1B\n143. Quinoline Quinoline 91-22-5 202-051-6 Carcinogenic cat.1B\n144. Tetrahydrofurfuryl Alcohol Tetrahydrofurfuryl alcohol;\n2-Furanmethanol, tetrahydro- 97-99-4 202-625-6 Toxic to reproduction cat.1B",
+        "previous_location": null,
+        "changed_within": [
+          "AN III"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0383",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "1818-08-02"
+        ],
+        "in_force": "2021-03-24",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32021R0383 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The later version adds introductory impurity-limit statements and a full table of substances with names, CAS and EC numbers and classification or other properties, none of which appeared in the earlier version, which contained only the heading and the introductory sentence about Article 27.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#anx_III",
+              "label": "Annex III, 02009R1107-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III",
+              "label": "Annex III, 02009R1107-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The added table lists numbered entries covering a wide range of chemical substances, including entries such as phenol, 4-(1-methylheptyl)- with CAS number 1818-08-2, each paired with classification or property information such as carcinogenic, mutagenic, toxic to reproduction, or endocrine disrupting properties.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20210327",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III",
+              "label": "Annex III, 02009R1107-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": {
+        "text": "The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.",
+        "fallback": false,
+        "citations": [
+          {
+            "ref": {
+              "act": {
+                "corpus": "eu",
+                "key": "32009R1107",
+                "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+              },
+              "version": "02009R1107-20210327",
+              "location": "AN III"
+            },
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III",
+            "label": "Annex III, 02009R1107-20210327"
+          }
+        ]
+      },
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1107",
+      "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+    },
+    "from_version": "02009R1107-20191214",
+    "to_version": "02009R1107-20210327",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 7",
+          "AR 10",
+          "AR 15",
+          "AR 16",
+          "AR 63",
+          "AN III"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 7",
+          "AR 10",
+          "AR 15",
+          "AR 16",
+          "AR 63",
+          "AN III"
+        ],
+        "note": "9 annotations in (2019-12-14, 2021-03-27]",
+        "claims": [
+          {
+            "location": "AR 10",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 63 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 63 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 16",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 7 PA 1 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 63 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 7 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN III",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-24",
+            "source": "32021R0383 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32021R0383",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "the window folds in 2 amending acts: 32019R1381, 32021R0383",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 6,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 36158,
+      "output_tokens": 2596,
+      "requests": 7,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 16,
+    "citations": 25,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
