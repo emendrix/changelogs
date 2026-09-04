@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 52,
     "quoted": 0,
-    "unexplained": 20
+    "unexplained": 15
   },
   "changes": [
     {
@@ -1337,11 +1337,76 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (g) now refers to the description being provided under the procedural arrangements established by implementing acts adopted pursuant to Article 12(6), whereas the earlier version referred to Article 12(7) for that purpose.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_7",
+              "label": "Art. 7, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_7",
+              "label": "Art. 7, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "The wording was also tightened slightly, changing phrasing such as \"prior to the notification\" to \"prior to notification\" and \"for the purposes of the obligation under Article 12(5)\" to \"for the purposes of Article 12(5)\", without altering the substance of the obligation described.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_7",
+              "label": "Art. 7, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 7"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_7",
+              "label": "Art. 7, 02014R0910-20240520"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1857,11 +1922,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The article's heading is shortened from \"Cooperation and interoperability\" to \"Interoperability\", and the privacy-by-design criterion in paragraph 3 is reworded to refer to privacy and security by design.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12",
+              "label": "Art. 12, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12",
+              "label": "Art. 12, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4's description of the minimum set of person identification data is expanded to also cover a natural person representing another natural person or a legal person, and paragraphs 5 and 6, which previously listed cooperation and security duties for Member States, are replaced with a duty for Member States to carry out peer reviews of notified schemes and a new deadline of 18 March 2025 for the Commission to adopt implementing acts on procedural arrangements for those peer reviews.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12",
+              "label": "Art. 12, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12",
+              "label": "Art. 12, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 8's deadline for the Commission to adopt implementing acts on the interoperability framework is changed from 18 September 2015 to 18 September 2025, and that paragraph now also states directly that such implementing acts shall be adopted under the examination procedure referred to in Article 48(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12",
+              "label": "Art. 12, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 12"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12",
+              "label": "Art. 12, 02014R0910-20240520"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3210,11 +3372,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The identity and attribute verification requirement now covers qualified electronic attestations of attributes as well as qualified certificates, and the single verification method previously set out in paragraph 1 has been split into separate new paragraphs 1a, 1b and 1c covering identity verification, attribute verification, and Commission implementing acts on standards, respectively, with references to the European Digital Identity Wallet and assurance level high replacing the prior list of methods.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24",
+              "label": "Art. 24, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24",
+              "label": "Art. 24, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 adds new obligations on notification timing before changes or cessation of service, on managing operational risks and notifying security breaches (new points fa and fb), broadens the anti-forgery point to cover misappropriation and unauthorised deletion or alteration of data, and updates the termination-plan cross-reference from Article 17(4) to Article 46b(4), while adding a new subparagraph on supervisory body requests for further information and timelines for verifying notified changes.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24",
+              "label": "Art. 24, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24",
+              "label": "Art. 24, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "New paragraphs 4a and 4b extend the revocation-information rules to qualified electronic attestations of attributes and empower the Commission to adopt delegated acts on additional risk-management measures, and paragraph 5 is rewritten to require the Commission, by 21 May 2025, to establish standards, specifications and procedures for the paragraph 2 requirements rather than merely reference numbers of standards for points (e) and (f).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24",
+              "label": "Art. 24, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 24"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24",
+              "label": "Art. 24, 02014R0910-20240520"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5523,11 +5782,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The text now specifies that compliance with the Annex IV requirements for qualified certificates for website authentication is evaluated according to standards, specifications and procedures referred to in paragraph 2, rather than relying solely on Annex IV.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45",
+              "label": "Art. 45, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "Two new paragraphs, 1a and 1b, were added: one requiring providers of web-browsers to recognise such qualified certificates, display identity data and additional attested attributes in a user-friendly manner, and ensure support and interoperability (with an exception for microenterprises and small enterprises during their first five years of operation), and the other stating that such certificates shall not be subject to mandatory requirements other than those in paragraph 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45",
+              "label": "Art. 45, 02014R0910-20240520"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 was changed from allowing the Commission to establish reference numbers of standards, to requiring the Commission, by 21 May 2025, to establish a list of reference standards and, where necessary, specifications and procedures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_45",
+              "label": "Art. 45, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45",
+              "label": "Art. 45, 02014R0910-20240520"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -8042,11 +8372,44 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (i) now refers to the information or the location of the services usable to enquire about the validity status of the qualified certificate, whereas the earlier text referred only to the location of the services that can be used to enquire as to that validity status.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "32014R0910",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#anx_III",
+              "label": "Annex III, 32014R0910"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0910",
+                  "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
+                },
+                "version": "02014R0910-20240520",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_III",
+              "label": "Annex III, 02014R0910-20240520"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -12883,6 +13246,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 5,
+      "repaired": 5,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 43826,
+        "output_tokens": 3489,
+        "requests": 9,
+        "schema_repairs": 4
       },
       "coordinates_checked": false
     }

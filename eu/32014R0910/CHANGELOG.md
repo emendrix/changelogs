@@ -104,7 +104,7 @@ No other wording in these paragraphs, or in paragraphs 1 and 4, differs between 
 - **Act** `eu:32014R0910` · **In force** 2024-05-20 · **Detected** 2026-08-12
 - **Touched** 86 provisions — 86 substantive · 0 date-only · **52 disputed**
 - **Diff** 38 inserted · 46 modified · 2 deleted · 0 renumbered · 0 deferred · 21 unchanged
-- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
 - **Citations** `v1` = `32014R0910` · `v2` = `02014R0910-20240520`
 
 ---
@@ -363,7 +363,9 @@ It also directs the Commission to work with Member States on codes of conduct to
 
 *within* `AR 7 ALN 1 PTA (g)` · *amended by* `32024R1183`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (g) now refers to the description being provided under the procedural arrangements established by implementing acts adopted pursuant to Article 12(6), whereas the earlier version referred to Article 12(7) for that purpose. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_7)
+
+The wording was also tightened slightly, changing phrasing such as "prior to the notification" to "prior to notification" and "for the purposes of the obligation under Article 12(5)" to "for the purposes of Article 12(5)", without altering the substance of the obligation described. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_7)
 
 *before* (`32014R0910`)
 
@@ -507,7 +509,11 @@ It also requires Member States to put in place technical and organisational meas
 
 *within* `AR 12`, `AR 12 PA 3 ALN 1 PTA (c)`, `AR 12 PA 4 ALN 1 PTA (d)`, `AR 12 PA 5 ALN 1`, `AR 12 PA 5 ALN 1 PTA (a)`, `AR 12 PA 5 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1`, `AR 12 PA 6 ALN 1 PTA (a)`, `AR 12 PA 6 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1 PTA (c)`, `AR 12 PA 6 ALN 1 PTA (d)`, `AR 12 PA 8 ALN 1` · *dates* -2015-09-18 +2025-03-18 +2025-09-18 · *amended by* `32024R1183`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The article's heading is shortened from "Cooperation and interoperability" to "Interoperability", and the privacy-by-design criterion in paragraph 3 is reworded to refer to privacy and security by design. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12)
+
+Paragraph 4's description of the minimum set of person identification data is expanded to also cover a natural person representing another natural person or a legal person, and paragraphs 5 and 6, which previously listed cooperation and security duties for Member States, are replaced with a duty for Member States to carry out peer reviews of notified schemes and a new deadline of 18 March 2025 for the Commission to adopt implementing acts on procedural arrangements for those peer reviews. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12)
+
+Paragraph 8's deadline for the Commission to adopt implementing acts on the interoperability framework is changed from 18 September 2015 to 18 September 2025, and that paragraph now also states directly that such implementing acts shall be adopted under the examination procedure referred to in Article 48(2). [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12)
 
 *before* (`32014R0910`)
 
@@ -798,7 +804,11 @@ Paragraph 4 now sets a deadline of 21 May 2025 for the Commission to establish, 
 
 *within* `AR 24 PA 1 ALN 1`, `AR 24 PA 1 ALN 2`, `AR 24 PA 1a`, `AR 24 PA 1b`, `AR 24 PA 1c`, `AR 24 PA 2 ALN 1 PTA (a)`, `AR 24 PA 2 ALN 1 PTA (d)`, `AR 24 PA 2 ALN 1 PTA (e)`, `AR 24 PA 2 ALN 1 PTA (fa)`, `AR 24 PA 2 ALN 1 PTA (fb)`, `AR 24 PA 2 ALN 1 PTA (g)`, `AR 24 PA 2 ALN 1 PTA (h)`, `AR 24 PA 2 ALN 1 PTA (i)`, `AR 24 PA 2 ALN 2`, `AR 24 PA 4a`, `AR 24 PA 4b`, `AR 24 PA 5 ALN 1` · *dates* +2025-05-21 · *amended by* `32024R1183`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The identity and attribute verification requirement now covers qualified electronic attestations of attributes as well as qualified certificates, and the single verification method previously set out in paragraph 1 has been split into separate new paragraphs 1a, 1b and 1c covering identity verification, attribute verification, and Commission implementing acts on standards, respectively, with references to the European Digital Identity Wallet and assurance level high replacing the prior list of methods. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24)
+
+Paragraph 2 adds new obligations on notification timing before changes or cessation of service, on managing operational risks and notifying security breaches (new points fa and fb), broadens the anti-forgery point to cover misappropriation and unauthorised deletion or alteration of data, and updates the termination-plan cross-reference from Article 17(4) to Article 46b(4), while adding a new subparagraph on supervisory body requests for further information and timelines for verifying notified changes. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24)
+
+New paragraphs 4a and 4b extend the revocation-information rules to qualified electronic attestations of attributes and empower the Commission to adopt delegated acts on additional risk-management measures, and paragraph 5 is rewritten to require the Commission, by 21 May 2025, to establish standards, specifications and procedures for the paragraph 2 requirements rather than merely reference numbers of standards for points (e) and (f). [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24)
 
 *before* (`32014R0910`)
 
@@ -1337,7 +1347,11 @@ Two new paragraphs, 2a and 2b, have been added covering interoperability agreeme
 
 *within* `AR 45 PA 1 ALN 1`, `AR 45 PA 1a`, `AR 45 PA 1b`, `AR 45 PA 2 ALN 1` · *dates* +2025-05-21 · *amended by* `32024R1183`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The text now specifies that compliance with the Annex IV requirements for qualified certificates for website authentication is evaluated according to standards, specifications and procedures referred to in paragraph 2, rather than relying solely on Annex IV. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45)
+
+Two new paragraphs, 1a and 1b, were added: one requiring providers of web-browsers to recognise such qualified certificates, display identity data and additional attested attributes in a user-friendly manner, and ensure support and interoperability (with an exception for microenterprises and small enterprises during their first five years of operation), and the other stating that such certificates shall not be subject to mandatory requirements other than those in paragraph 1. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45)
+
+Paragraph 2 was changed from allowing the Commission to establish reference numbers of standards, to requiring the Commission, by 21 May 2025, to establish a list of reference standards and, where necessary, specifications and procedures. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45)
 
 *before* (`32014R0910`)
 
@@ -1873,7 +1887,7 @@ Point (i) now refers to the information or the location of the services that can
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (i) now refers to the information or the location of the services usable to enquire about the validity status of the qualified certificate, whereas the earlier text referred only to the location of the services that can be used to enquire as to that validity status. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_III)
 
 *before* (`32014R0910`)
 
