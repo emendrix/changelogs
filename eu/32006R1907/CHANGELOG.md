@@ -1185,28 +1185,16 @@ The provided text is truncated partway through subsection 8.2 in the AFTER versi
 ### `02006R1907-20200227` → `02006R1907-20200428`
 
 - **Act** `eu:32006R1907` · **In force** 2020-04-28 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20200227` · `v2` = `02006R1907-20200428`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32020R0507`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 41 — Compliance check of registrations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 41 PA 5 ALN 1` · *dates* +2023-12-31 +2027-12-31 · *amended by* `32020R0507`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 5 changes the compliance-check selection rule from a single flat threshold of at least 5% of dossiers received per tonnage band to a split scheme: at least 20% of dossiers for registrations in tonnage bands of 100 tonnes or more per year must be selected until 31 December 2023, and at least 20% of dossiers for registrations in tonnage bands below 100 tonnes per year must be selected until 31 December 2027. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#art_41)
 
