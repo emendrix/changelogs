@@ -890,7 +890,7 @@ The text describes the Authority's role in seeking clarification, publishing or 
 
 *within* `AR 17 PA 2 ALN 1`, `AR 17 PA 2a`, `AR 17 PA 6 ALN 1`, `AR 17 PA 6 ALN 2`, `AR 17 PA 7 ALN 1`, `AR 17 PA 7 ALN 2` · *amended by* `32019R2175`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1095-20140523`)
 
@@ -1537,7 +1537,7 @@ The new article also states that such records shall not reflect discussions with
 
 *within* `AR 44 PA 1 ALN 1`, `AR 44 PA 1 ALN 2`, `AR 44 PA 1 ALN 3`, `AR 44 PA 1 ALN 4`, `AR 44 PA 1 ALN 5`, `AR 44 PA 4 ALN 1`, `AR 44 PA 4 ALN 2`, `AR 44 PA 5` · *amended by* `32019R2175`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1095-20140523`)
 
@@ -1566,7 +1566,7 @@ The new article also states that such records shall not reflect discussions with
 
 *within* `AR 45 PA 1 ALN 1`, `AR 45 PA 1 ALN 2`, `AR 45 PA 2 ALN 1`, `AR 45 PA 3 ALN 1` · *amended by* `32019R2175`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1095-20140523`)
 
@@ -2069,7 +2069,7 @@ A new paragraph requires authorisation from the European Parliament and the Coun
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02010R1095-20140523`)
 
