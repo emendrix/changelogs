@@ -226,7 +226,7 @@ Paragraph 1 of Article 8 no longer refers to due diligence being exercised with 
 
 *within* `AR 9 PA 1 ALN 1 PTA (b)`, `AR 9 PA 1 ALN 1 PTA (f)` · *amended by* `32025R2650`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02023R1115-20241226`)
 
