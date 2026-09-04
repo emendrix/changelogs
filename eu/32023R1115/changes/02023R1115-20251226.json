@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 7,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 3
   },
   "changes": [
     {
@@ -988,11 +988,50 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (b) now adds that a supplementary unit is also applicable where it is provided as part of the simplified declaration, alongside the existing consistency condition, and the footnote reference to the Council Regulation gains an ELI hyperlink notation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20251226",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_9",
+              "label": "Art. 9, 02023R1115-20251226"
+            }
+          ]
+        },
+        {
+          "text": "Point (f) changes the recipient description from any business, operator or trader to any business, downstream operator or trader.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20251226",
+                "location": "AR 9"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_9",
+              "label": "Art. 9, 02023R1115-20251226"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5175,6 +5214,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 14589,
+        "output_tokens": 642,
+        "requests": 3,
+        "schema_repairs": 2
       },
       "coordinates_checked": false
     }

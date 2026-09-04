@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32023R1115` · **In force** 2025-12-26 · **Detected** 2026-08-12
 - **Touched** 31 provisions — 31 substantive · 0 date-only · **7 disputed**
 - **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 14 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02023R1115-20241226` · `v2` = `02023R1115-20251226`
 
 ---
@@ -226,7 +226,9 @@ Paragraph 1 of Article 8 no longer refers to due diligence being exercised with 
 
 *within* `AR 9 PA 1 ALN 1 PTA (b)`, `AR 9 PA 1 ALN 1 PTA (f)` · *amended by* `32025R2650`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (b) now adds that a supplementary unit is also applicable where it is provided as part of the simplified declaration, alongside the existing consistency condition, and the footnote reference to the Council Regulation gains an ELI hyperlink notation. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_9)
+
+Point (f) changes the recipient description from any business, operator or trader to any business, downstream operator or trader. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_9)
 
 *before* (`02023R1115-20241226`)
 
