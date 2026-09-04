@@ -10,6 +10,104 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20191214 -->
+## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
+### `02017R0625-20170407` → `02017R0625-20191214`
+
+- **Act** `eu:32017R0625` · **In force** 2019-12-14 · **Detected** 2026-09-04
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 169 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R0625-20170407` · `v2` = `02017R0625-20191214`
+
+---
+
+**MODIFIED · Art. 47 — Animals and goods subject to official controls at border control posts** · applies from: unchanged
+
+*within* `AR 47 PA 1 ALN 1 PTA (b)` · *amended by* `32019R0478`
+
+Point (b) of Article 47(1) now also lists hay and straw, and foodstuffs containing both products of plant origin and processed products of animal origin (composite products), alongside products of animal origin, germinal products and animal by-products. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_47)
+
+The earlier version of that point named only products of animal origin, germinal products and animal by-products, without mentioning hay and straw or composite products. [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_47)
+
+*before* (`02017R0625-20170407`)
+
+> Article 47
+> Animals and goods subject to official controls at border control posts
+> 1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:
+> (a) animals;
+> (b) products of animal origin, germinal products and animal by-products;
+> (c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+> (d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;
+> (e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 249 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or goods, identified by means of their codes from the Combined Nomenclature, to be subject to official controls at their entry into […truncated by emendrix: 1947 characters omitted…]
+
+*after* (`02017R0625-20191214`)
+
+> Article 47
+> Animals and goods subject to official controls at border control posts
+> 1. To ascertain compliance with the rules referred to in Article 1(2), the competent authorities shall perform official controls, at the border control post of first arrival into the Union, on each consignment of the following categories of animals and goods entering the Union:
+> (a) animals;
+> (b) products of animal origin, germinal products, animal by-products, hay and straw and foodstuffs containing both products of plant origin and processed products of animal origin (composite products);
+> (c) plants, plant products, and other objects as referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+> (d) goods from certain third countries for which the Commission has decided, by means of implementing acts provided for in point (b) of paragraph 2 of this Article, that a measure requiring a temporary increase of official controls at their entry into the Union is necessary due to a known or emerging risk or because there is evidence that widespread serious non-compliance with the rules referred to in Article 1(2) might be taking place;
+> (e) animals and goods which are subject to an emergency measure provided for in acts adopted in accordance with Article 53 of Regulation (EC) No 178/2002, Article 249 of Regulation (EU) 2016/429, or Articles 28(1), 30(1), 40(3), 41(3), 49(1), 53(3) and 54(3) of Regulation (EU) 2016/2031 requiring consignments of those animals or […truncated by emendrix: 2076 characters omitted…]
+
+**MODIFIED · Art. 149 — Transitional measures related to the repeals of Directives 91/496/EEC and 97/78/EC** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 149 PA 1 ALN 1` · *dates* -2022-12-14 +2019-12-13 +2021-04-20 · *amended by* `32019R2127`
+
+The reference to matters in Article 47(2) is narrowed to point (b) of Article 47(2) for the provisions applying until 13 December 2019, replacing the earlier single end date of 14 December 2022. [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_149) [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_149)
+
+A new separate sentence is added stating that provisions of Directive 97/78/EC governing matters referred to in point (a) of Article 47(2) relating to composite products continue to apply instead of that corresponding provision until 20 April 2021. [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_149)
+
+*before* (`02017R0625-20170407`)
+
+> Article 149
+> Transitional measures related to the repeals of Directives 91/496/EEC and 97/78/EC
+> 1. The relevant provisions of Directives 91/496/EEC and 97/78/EC which govern matters referred to in Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58 of this Regulation shall continue to apply instead of the corresponding provisions of this Regulation until 14 December 2022 or an earlier date to be determined in the delegated act adopted in accordance with paragraph 2 of this Article.
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 1 of this Article. That date shall be the date of application of the corresponding rules to be established pursuant to the delegated or implementing acts provided for in Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58.
+
+*after* (`02017R0625-20191214`)
+
+> Article 149
+> Transitional measures related to the repeals of Directives 91/496/EEC and 97/78/EC
+> 1. The relevant provisions of Directives 91/496/EEC and 97/78/EC which govern matters referred to in point (b) of Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58 of this Regulation shall apply instead of the corresponding provisions of this Regulation until 13 December 2019.
+> The relevant provisions of Directive 97/78/EC which govern matters referred to in point (a) of Article 47(2) of this Regulation related to composite products shall continue to apply instead of that corresponding provision until 20 April 2021.
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 1 of this Article. That date shall be the date of application of the corresponding rules to be established pursuant to the delegated or implementing acts provided for in Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58.
+
+**MODIFIED · Art. 165 — Amendments to Regulation (EU) 2016/2031 and related transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 165 PA 2 ALN 1` · *dates* -2022-12-14 +2019-12-15 +2020-12-13 +2022-12-13 · *amended by* `32019R2127`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02017R0625-20170407`)
+
+> Article 165
+> Amendments to Regulation (EU) 2016/2031 and related transitional provisions
+> 1. Regulation (EU) 2016/2031 is amended as follows:
+> (1) Article 2, point (6) is replaced by the following:
+> (6) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council
+> Regulation (EU) 2017/625 of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;
+> (2) Article 10 is replaced by the following:
+> Article 10
+> Official confirmation by the competent authorities of the presence of a Union quarantine pest
+> Where a competent authority suspects, or has received evidence conce […truncated by emendrix: 8719 characters omitted…]
+
+*after* (`02017R0625-20191214`)
+
+> Article 165
+> Amendments to Regulation (EU) 2016/2031 and related transitional provisions
+> 1. Regulation (EU) 2016/2031 is amended as follows:
+> (1) Article 2, point (6) is replaced by the following:
+> (6) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council
+> Regulation (EU) 2017/625 of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;
+> (2) Article 10 is replaced by the following:
+> Article 10
+> Official confirmation by the competent authorities of the presence of a Union quarantine pest
+> Where a competent authority suspects, or has received evidence conce […truncated by emendrix: 8963 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0625-20191214 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20170407 -->
 ## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
 ### `32017R0625` → `02017R0625-20170407`
