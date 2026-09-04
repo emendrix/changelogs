@@ -582,7 +582,7 @@ Paragraph 9 now specifies that the conditions in paragraph 1 and in Article 18(1
 
 *within* `AR 30`, `AR 30 PA 2 ALN 1`, `AR 30 PA 2a`, `AR 30 PA 2b`, `AR 30 PA 2c`, `AR 30 PA 6 ALN 1`, `AR 30 PA 6 ALN 1 PTA (a)`, `AR 30 PA 6 ALN 1 PTA (b)`, `AR 30 PA 7 ALN 1` · *amended by* `32026R0808`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0806-20251110`)
 
