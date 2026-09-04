@@ -10,6 +10,181 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R0429-20191214 -->
+## Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases […]
+### `02016R0429-20160331` → `02016R0429-20191214`
+
+- **Act** `eu:32016R0429` · **In force** 2019-12-14 · **Detected** 2026-09-04
+- **Touched** 6 provisions — 6 substantive · 0 date-only · **6 disputed**
+- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 284 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02016R0429-20160331` · `v2` = `02016R0429-20191214`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 33`, `AR 4 ALN 1 PO 51`, `AR 4 ALN 1 PO 53`, `AR 4 ALN 1 PO 55` · *dates* +2017-03-15 · *amended by* `32017R0625`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The definition of official control in point (33) changed from control carried out by a competent authority for verifying compliance with this Regulation to control performed in accordance with Regulation (EU) 2017/625, with a full citation of that regulation added. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4)
+
+The definition of Traces in point (51) changed from the integrated computerised veterinary system provided for in Decisions 2003/24/EC and 2004/292/EC to a system component integrated into the IMSOC as referred to in Articles 131 to 136 of Regulation (EU) 2017/625. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4)
+
+The definition of official veterinarian in point (53) changed from a veterinarian authorised and qualified by the competent authority to an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625, and the competent authority definition in point (55) now also references responsibilities under Regulation (EU) 2017/625 alongside this Regulation. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_4)
+
+*before* (`02016R0429-20160331`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) animals means vertebrate and invertebrate animals;
+> (2) terrestrial animals means birds, terrestrial mammals, bees and bumble bees;
+> (3) aquatic animals means animals of the following species, at all life stages, including eggs, sperm and gametes:
+> (a) fish belonging to the superclass Agnatha and to the classes Chondrichthyes, Sarcopterygii and Actinopterygii;
+> (b) aquatic molluscs belonging to the phylum Mollusca;
+> (c) aquatic crustaceans belonging to the subphylum Crustacea;
+> (4) other animals means animals of species other than those falling within the definition of terrestrial or aquatic animals;
+> (5) kept animals means animals which are kept by humans, including, in the case of aquatic animals, aquaculture animals;
+> (6) aquaculture means the keeping of aquatic animals where the animals remain the property of one or more natural or legal persons throughout the rearing or culture stages, up to and including harvesting, excluding the harvesting or catching for the purposes of human consumption of wild aquatic animals which are subsequently temporarily kept while awaiting slaughter without being fed;
+> (7) aquaculture animals means any aquatic animals subject to aquaculture,
+> (8) wild animals means animals which are not kept animals;
+> (9) poultry means birds that are reared or kept in captivity for:
+> (a) the production of:
+> (i) meat;
+> (ii) eggs for consumption;
+> (iii) other products;
+> (b) restocki […truncated by emendrix: 10405 characters omitted…]
+
+*after* (`02016R0429-20191214`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation, the following definitions apply:
+> (1) animals means vertebrate and invertebrate animals;
+> (2) terrestrial animals means birds, terrestrial mammals, bees and bumble bees;
+> (3) aquatic animals means animals of the following species, at all life stages, including eggs, sperm and gametes:
+> (a) fish belonging to the superclass Agnatha and to the classes Chondrichthyes, Sarcopterygii and Actinopterygii;
+> (b) aquatic molluscs belonging to the phylum Mollusca;
+> (c) aquatic crustaceans belonging to the subphylum Crustacea;
+> (4) other animals means animals of species other than those falling within the definition of terrestrial or aquatic animals;
+> (5) kept animals means animals which are kept by humans, including, in the case of aquatic animals, aquaculture animals;
+> (6) aquaculture means the keeping of aquatic animals where the animals remain the property of one or more natural or legal persons throughout the rearing or culture stages, up to and including harvesting, excluding the harvesting or catching for the purposes of human consumption of wild aquatic animals which are subsequently temporarily kept while awaiting slaughter without being fed;
+> (7) aquaculture animals means any aquatic animals subject to aquaculture,
+> (8) wild animals means animals which are not kept animals;
+> (9) poultry means birds that are reared or kept in captivity for:
+> (a) the production of:
+> (i) meat;
+> (ii) eggs for consumption;
+> (iii) other products;
+> (b) restocki […truncated by emendrix: 11288 characters omitted…]
+
+**MODIFIED · Art. 81 — Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals** · applies from: unchanged
+
+*within* `AR 81 ALN 1 PTA (a)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point (a), the cross-reference to the compulsory eradication programme was changed from Article 30(1) to Article 31(1), matching the reference already used in point (b). [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_81)
+
+*before* (`02016R0429-20160331`)
+
+> Article 81
+> Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals
+> In the event that the competent authority of an affected Member State suspects or officially confirms the outbreak of a listed disease as referred to in point (b) of Article 9(1) in wild animals, it shall throughout its territory, or in the area or zone concerned, as relevant for that outbreak:
+> (a) apply the disease control measures laid down in the compulsory eradication programme provided for in Article 30(1) for that listed disease; or
+> (b) initiate a compulsory eradication programme, where the eradication programme provided for in Article 31(1) for that listed disease has not yet been applied due to the previous absence of that disease or freedom from it, and if measures for wild animals are necessary in order to control and prevent the spread of that disease.
+
+*after* (`02016R0429-20191214`)
+
+> Article 81
+> Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals
+> In the event that the competent authority of an affected Member State suspects or officially confirms the outbreak of a listed disease as referred to in point (b) of Article 9(1) in wild animals, it shall throughout its territory, or in the area or zone concerned, as relevant for that outbreak:
+> (a) apply the disease control measures laid down in the compulsory eradication programme provided for  in Article 31(1) for that listed disease; or
+> (b) initiate a compulsory eradication programme, where the eradication programme provided for in Article 31(1) for that listed disease has not yet been applied due to the previous absence of that disease or freedom from it, and if measures for wild animals are necessary in order to control and prevent the spread of that disease.
+
+**MODIFIED · Art. 164** · applies from: unknown
+
+*amended by* `32017R0625`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 227 — Animal health requirements concerning other animals, and germinal products and products of animal origin of such other animals** · applies from: unchanged
+
+*within* `AR 227 ALN 1 PTA (d) PTI (iii)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In point (d)(iii), the cross-reference to Article 165 has been replaced with a reference to Article 167, while the accompanying reference to Article 168 remains unchanged. [Art. 227, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_227) [Art. 227, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_227)
+
+*before* (`02016R0429-20160331`)
+
+> Article 227
+> Animal health requirements concerning other animals, and germinal products and products of animal origin of such other animals
+> Where other animals are of a listed species for a listed disease as referred to in point (d) of Article 9(1), and those other animals or their germinal products or products of animal origin represent a risk to public or animal health in the Union, one or more of the following requirements shall apply:
+> (a) the requirements concerning registration, approval, record-keeping and registers for establishments and transporters provided for in Chapter 1 of Title I and Chapter 1 of Title II (Articles 84 to 101 and Articles 172 to 175);
+> (b) the requirements concerning traceability provided for in Articles 108 to 111 and Article 117 for other animals and Article 122 for germinal products;
+> (c) movement requirements:
+> (i) as regards other animals mainly living in a terrestrial environment or that are normally affected by diseases of terrestrial animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Section 1 (Articles 124 and 125) and Section 6 of Chapter 3 of Title I of Part IV (Articles 137 to 142) and Chapter 4 of Title I of Part IV (Articles 155 and 156);
+> (ii) as regards other animals mainly living in aquatic environment or that are normally affected by diseases of aquatic animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requi […truncated by emendrix: 1254 characters omitted…]
+
+*after* (`02016R0429-20191214`)
+
+> Article 227
+> Animal health requirements concerning other animals, and germinal products and products of animal origin of such other animals
+> Where other animals are of a listed species for a listed disease as referred to in point (d) of Article 9(1), and those other animals or their germinal products or products of animal origin represent a risk to public or animal health in the Union, one or more of the following requirements shall apply:
+> (a) the requirements concerning registration, approval, record-keeping and registers for establishments and transporters provided for in Chapter 1 of Title I and Chapter 1 of Title II (Articles 84 to 101 and Articles 172 to 175);
+> (b) the requirements concerning traceability provided for in Articles 108 to 111 and Article 117 for other animals and Article 122 for germinal products;
+> (c) movement requirements:
+> (i) as regards other animals mainly living in a terrestrial environment or that are normally affected by diseases of terrestrial animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Section 1 (Articles 124 and 125) and Section 6 of Chapter 3 of Title I of Part IV (Articles 137 to 142) and Chapter 4 of Title I of Part IV (Articles 155 and 156);
+> (ii) as regards other animals mainly living in aquatic environment or that are normally affected by diseases of aquatic animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requi […truncated by emendrix: 1254 characters omitted…]
+
+**MODIFIED · Art. 229 — Requirements for entry into the Union of animals, germinal products and products of animal origin** · applies from: unchanged
+
+*within* `AR 229 PA 2 ALN 1` · *amended by* `32017R0625`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In paragraph 2, the reference to official control under Article 3 of Directive 91/496/EEC and Article 3 of Directive 97/78/EC has been replaced with a reference to Article 47 of Regulation (EU) 2017/625. [Art. 229, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_229) [Art. 229, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_229)
+
+*before* (`02016R0429-20160331`)
+
+> Article 229
+> Requirements for entry into the Union of animals, germinal products and products of animal origin
+> 1. Member States shall permit the entry into the Union of consignments of animals, germinal products and products of animal origin from third countries or territories only if those consignments fulfil the following requirements, unless such animals, germinal products or products of animal origin are covered by a derogation granted pursuant to Article 239(2):
+> (a) without prejudice to Article 230(2), they come from a third country or territory listed in accordance with Article 230(1) for the particular species and category of animals, or germinal products or products of animal origin concerned, or from a zone or compartment thereof;
+> (b) they come from establishments which are approved and listed, where such approval and listing is required by Article 233;
+> (c) they fulfil the animal health requirements for entry into the Union laid down in Article 234(1) and in any delegated acts adopted pursuant to Article 234(2), where such requirements are laid down for the animal, germinal product or product of animal origin concerned;
+> (d) they are accompanied by an animal health certificate and by declarations and other documents where required by Article 237(1) or by rules adopted pursuant to Article 237(4);
+> 2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or terr […truncated by emendrix: 134 characters omitted…]
+
+*after* (`02016R0429-20191214`)
+
+> Article 229
+> Requirements for entry into the Union of animals, germinal products and products of animal origin
+> 1. Member States shall permit the entry into the Union of consignments of animals, germinal products and products of animal origin from third countries or territories only if those consignments fulfil the following requirements, unless such animals, germinal products or products of animal origin are covered by a derogation granted pursuant to Article 239(2):
+> (a) without prejudice to Article 230(2), they come from a third country or territory listed in accordance with Article 230(1) for the particular species and category of animals, or germinal products or products of animal origin concerned, or from a zone or compartment thereof;
+> (b) they come from establishments which are approved and listed, where such approval and listing is required by Article 233;
+> (c) they fulfil the animal health requirements for entry into the Union laid down in Article 234(1) and in any delegated acts adopted pursuant to Article 234(2), where such requirements are laid down for the animal, germinal product or product of animal origin concerned;
+> (d) they are accompanied by an animal health certificate and by declarations and other documents where required by Article 237(1) or by rules adopted pursuant to Article 237(4);
+> 2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or terr […truncated by emendrix: 103 characters omitted…]
+
+**INSERTED · Art. 281** · applies from: unknown
+
+*amended by* `32017R0625`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0429-20191214 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R0429-20160331 -->
 ## Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases […]
 ### `32016R0429` → `02016R0429-20160331`

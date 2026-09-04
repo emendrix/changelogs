@@ -1,0 +1,870 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0429",
+    "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+  },
+  "from_version": "02016R0429-20160331",
+  "to_version": "02016R0429-20191214",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2019-12-14"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 5,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 284,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 4"
+        },
+        "heading": "Definitions",
+        "before": "Article 4\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) animals means vertebrate and invertebrate animals;\n(2) terrestrial animals means birds, terrestrial mammals, bees and bumble bees;\n(3) aquatic animals means animals of the following species, at all life stages, including eggs, sperm and gametes:\n(a) fish belonging to the superclass Agnatha and to the classes Chondrichthyes, Sarcopterygii and Actinopterygii;\n(b) aquatic molluscs belonging to the phylum Mollusca;\n(c) aquatic crustaceans belonging to the subphylum Crustacea;\n(4) other animals means animals of species other than those falling within the definition of terrestrial or aquatic animals;\n(5) kept animals means animals which are kept by humans, including, in the case of aquatic animals, aquaculture animals;\n(6) aquaculture means the keeping of aquatic animals where the animals remain the property of one or more natural or legal persons throughout the rearing or culture stages, up to and including harvesting, excluding the harvesting or catching for the purposes of human consumption of wild aquatic animals which are subsequently temporarily kept while awaiting slaughter without being fed;\n(7) aquaculture animals means any aquatic animals subject to aquaculture,\n(8) wild animals means animals which are not kept animals;\n(9) poultry means birds that are reared or kept in captivity for:\n(a) the production of:\n(i) meat;\n(ii) eggs for consumption;\n(iii) other products;\n(b) restocking supplies of game birds;\n(c) the purpose of breeding of birds used for the types of production referred to in points (a) and (b);\n(10) captive birds means any birds other than poultry that are kept in captivity for any reason other than those referred to in point (9), including those that are kept for shows, races, exhibitions, competitions, breeding or selling;\n(11) pet animal means a kept animal of the species listed in Annex I which is kept for private non–commercial purposes;\n(12) pet keeper means a natural person, and may include a pet owner, keeping a pet animal;\n(13) pet owner means a natural person indicated as the owner in the identification document referred to in point (c) of Article 247, point (c) of Article 248(2), point (c) of Article 249(1) and point (c) of Article 250(2);\n(14) non–commercial movement means any movement of a pet animal accompanying its owner and which\n(a) does not have as its aim either the sale of or another form of transfer of ownership of the pet animal concerned; and\n(b) is part of the movement of the pet owner:\n(i) either under his direct responsibility; or\n(ii) under the responsibility of an authorised person, in cases where the pet animal is physically separated from the pet owner;\n(15) authorised person means any natural person who has authorisation in writing from the pet owner to carry out the non–commercial movement of the pet animal on behalf of the pet owner;\n(16) disease means the occurrence of infections and infestations in animals, with or without clinical or pathological manifestations, caused by one or more disease agents;\n(17) disease agent means a pathogen transmissible to animals or to humans which is capable of causing a disease in animals;\n(18) listed diseases means diseases listed in accordance with Article 5(1);\n(19) disease profile means the criteria of a disease referred to in point (a) of Article 7;\n(20) listed species means an animal species or group of animal species listed in accordance with Article 8(2), or, in the case of emerging diseases, an animal species or group of animal species which meets the criteria for listed species laid down in Article 8(2);\n(21) hazard means a disease agent in, or a condition of, an animal or product with the potential to have an adverse effect on the health of humans or animals;\n(22) risk means the likelihood of the occurrence and the likely magnitude of the biological and economic consequences of an adverse effect on animal or public health;\n(23) biosecurity means the sum of management and physical measures designed to reduce the risk of the introduction, development and spread of diseases to, from and within:\n(a) an animal population, or\n(b) an establishment, zone, compartment, means of transport or any other facilities, premises or location;\n(24) operator means any natural or legal person having animals or products under his responsibility, including for a limited duration of time, but excluding pet keepers and veterinarians;\n(25) transporter means an operator transporting animals on his own account or on account of a third party;\n(26) animal professional means a natural or legal person having an occupational relationship with animals or products, other than operators or veterinarians;\n(27) establishment means any premises, structure, or, in the case of open-air farming, any environment or place, where animals or germinal products are kept, on a temporary or permanent basis, except for:\n(a) households where pet animals are kept;\n(b) veterinary practices or clinics;\n(28) germinal products means:\n(a) semen, oocytes and embryos intended for artificial reproduction;\n(b) hatching eggs;\n(29) products of animal origin means:\n(a) food of animal origin, including honey and blood;\n(b) live bivalve molluscs, live echinoderms, live tunicates and live marine gastropods, intended for human consumption; and\n(c) animals other than those referred to in point (b) intended to be prepared with a view to being supplied live to the final consumer;\n(30) animal by–products means entire bodies or parts of animals, products of animal origin or other products obtained from animals, which are not intended for human consumption, excluding germinal products;\n(31) derived products means products obtained from one or more treatments, transformations or steps in the processing of animal by–products;\n(32) products means:\n(a) germinal products;\n(b) products of animal origin;\n(c) animal by–products and derived products;\n(33) official control means any form of control carried out by a competent authority for the purpose of verifying compliance with this Regulation;\n(34) health status means the disease status as regards the listed diseases relevant for a particular listed species with respect to:\n(a) an animal;\n(b) animals within:\n(i) an epidemiological unit;\n(ii) an establishment;\n(iii) a zone;\n(iv) a compartment;\n(v) a Member State;\n(vi) a third country or territory;\n(35) zone means:\n(a) for terrestrial animals, an area of a Member State, third country or territory with a precise geographical delimitation, containing an animal subpopulation with a distinct health status with respect to a specific disease or specific diseases subject to appropriate surveillance, disease control and biosecurity measures;\n(b) for aquatic animals, a contiguous hydrological system with a distinct health status with respect to a specific disease or specific diseases that forms an area that is referred to in one of the following:\n(i) an entire water catchment from the source of a waterway to the estuary or lake;\n(ii) more than one water catchment;\n(iii) part of a water catchment from the source of a waterway to a barrier that prevents the introduction of a specific disease or diseases;\n(iv) part of a coastal area with a precise geographical delimitation;\n(v) an estuary with a precise geographical delimitation;\n(36) water catchment means an area or basin of land bounded by natural features such as hills or mountains, into which all run–off water flows;\n(37) compartment means an animal subpopulation contained in one or more establishments and, in the case of aquatic animals, in one or more aquaculture establishments, under a common biosecurity management system with a distinct health status with respect to a specific disease or specific diseases subject to appropriate surveillance, disease control and biosecurity measures;\n(38) quarantine means the keeping of animals in isolation with no direct or indirect contact with animals outside the epidemiological unit, for the purpose of ensuring that there is no spread of one or more specified diseases while the animals in isolation are undergoing observation for a specified length of time and, if appropriate, testing and treatment;\n(39) epidemiological unit means a group of animals with the same likelihood of exposure to a disease agent;\n(40) outbreak means the officially confirmed occurrence of a listed disease or an emerging disease in one or more animals in an establishment or other place where animals are kept or located;\n(41) restricted zone means a zone in which restrictions on the movements of certain animals or products and other disease control measures are applied, with a view to preventing the spread of a particular disease into areas where no restrictions are applied; a restricted zone may, when relevant, include protection and surveillance zones;\n(42) protection zone means a zone around and including the location of an outbreak, where disease control measures are applied in order to prevent the spread of the disease from that zone;\n(43) surveillance zone means a zone which is established around the protection zone, and where disease control measures are applied in order to prevent the spread of the disease from the protection zone;\n(44) hatching eggs means eggs, laid by poultry or captive birds, intended for incubation;\n(45) ungulates means the animals listed in Annex III;\n(46) germinal product establishment means:\n(a) in relation to semen, an establishment where semen is collected, produced, processed or stored;\n(b) in relation to oocytes and embryos, a group of professionals or structure supervised by a team veterinarian competent to perform the collection, production, processing and storage of oocytes and embryos;\n(c) in relation to hatching eggs, a hatchery;\n(47) hatchery means an establishment which collects, stores, incubates and hatches eggs for the supply of:\n(a) hatching eggs;\n(b) day–old chicks or hatchlings of other species;\n(48) confined establishment means any permanent, geographically limited establishment, created on a voluntary basis and approved for the purpose of movements, where the animals are:\n(a) kept or bred for the purposes of exhibitions, education, the conservation of species or research;\n(b) confined and separated from the surrounding environment; and\n(c) subject to animal health surveillance and biosecurity measures;\n(49) assembly operation means the assembling of kept terrestrial animals from more than one establishment for a period shorter than the required residency period for the species of animals concerned;\n(50) residency period means the minimum period necessary in order to ensure that an animal which has been introduced into an establishment is not of a lower health status than that of the animals in that establishment;\n(51) Traces means the integrated computerised veterinary system with a single architecture provided for in Decisions 2003/24/EC and 2004/292/EC;\n(52) disease control aquatic food establishment means a food business approved in accordance with Article 179;\n(53) official veterinarian means a veterinarian authorised by the competent authority and appropriately qualified to perform official activities in accordance with this Regulation;\n(54) official veterinarian in a third country or territory means a veterinarian in a third country or territory corresponding to an official veterinarian as referred to in point (53);\n(55) competent authority means the central veterinary authority of a Member State responsible for the organisation of official controls and any other official activities in accordance with this Regulation or any other authority to which that responsibility has been delegated;\n(56) competent authority of a third country or territory means the authority in a third country or territory corresponding to the competent authorities referred to in point (55).",
+        "after": "Article 4\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) animals means vertebrate and invertebrate animals;\n(2) terrestrial animals means birds, terrestrial mammals, bees and bumble bees;\n(3) aquatic animals means animals of the following species, at all life stages, including eggs, sperm and gametes:\n(a) fish belonging to the superclass Agnatha and to the classes Chondrichthyes, Sarcopterygii and Actinopterygii;\n(b) aquatic molluscs belonging to the phylum Mollusca;\n(c) aquatic crustaceans belonging to the subphylum Crustacea;\n(4) other animals means animals of species other than those falling within the definition of terrestrial or aquatic animals;\n(5) kept animals means animals which are kept by humans, including, in the case of aquatic animals, aquaculture animals;\n(6) aquaculture means the keeping of aquatic animals where the animals remain the property of one or more natural or legal persons throughout the rearing or culture stages, up to and including harvesting, excluding the harvesting or catching for the purposes of human consumption of wild aquatic animals which are subsequently temporarily kept while awaiting slaughter without being fed;\n(7) aquaculture animals means any aquatic animals subject to aquaculture,\n(8) wild animals means animals which are not kept animals;\n(9) poultry means birds that are reared or kept in captivity for:\n(a) the production of:\n(i) meat;\n(ii) eggs for consumption;\n(iii) other products;\n(b) restocking supplies of game birds;\n(c) the purpose of breeding of birds used for the types of production referred to in points (a) and (b);\n(10) captive birds means any birds other than poultry that are kept in captivity for any reason other than those referred to in point (9), including those that are kept for shows, races, exhibitions, competitions, breeding or selling;\n(11) pet animal means a kept animal of the species listed in Annex I which is kept for private non–commercial purposes;\n(12) pet keeper means a natural person, and may include a pet owner, keeping a pet animal;\n(13) pet owner means a natural person indicated as the owner in the identification document referred to in point (c) of Article 247, point (c) of Article 248(2), point (c) of Article 249(1) and point (c) of Article 250(2);\n(14) non–commercial movement means any movement of a pet animal accompanying its owner and which\n(a) does not have as its aim either the sale of or another form of transfer of ownership of the pet animal concerned; and\n(b) is part of the movement of the pet owner:\n(i) either under his direct responsibility; or\n(ii) under the responsibility of an authorised person, in cases where the pet animal is physically separated from the pet owner;\n(15) authorised person means any natural person who has authorisation in writing from the pet owner to carry out the non–commercial movement of the pet animal on behalf of the pet owner;\n(16) disease means the occurrence of infections and infestations in animals, with or without clinical or pathological manifestations, caused by one or more disease agents;\n(17) disease agent means a pathogen transmissible to animals or to humans which is capable of causing a disease in animals;\n(18) listed diseases means diseases listed in accordance with Article 5(1);\n(19) disease profile means the criteria of a disease referred to in point (a) of Article 7;\n(20) listed species means an animal species or group of animal species listed in accordance with Article 8(2), or, in the case of emerging diseases, an animal species or group of animal species which meets the criteria for listed species laid down in Article 8(2);\n(21) hazard means a disease agent in, or a condition of, an animal or product with the potential to have an adverse effect on the health of humans or animals;\n(22) risk means the likelihood of the occurrence and the likely magnitude of the biological and economic consequences of an adverse effect on animal or public health;\n(23) biosecurity means the sum of management and physical measures designed to reduce the risk of the introduction, development and spread of diseases to, from and within:\n(a) an animal population, or\n(b) an establishment, zone, compartment, means of transport or any other facilities, premises or location;\n(24) operator means any natural or legal person having animals or products under his responsibility, including for a limited duration of time, but excluding pet keepers and veterinarians;\n(25) transporter means an operator transporting animals on his own account or on account of a third party;\n(26) animal professional means a natural or legal person having an occupational relationship with animals or products, other than operators or veterinarians;\n(27) establishment means any premises, structure, or, in the case of open-air farming, any environment or place, where animals or germinal products are kept, on a temporary or permanent basis, except for:\n(a) households where pet animals are kept;\n(b) veterinary practices or clinics;\n(28) germinal products means:\n(a) semen, oocytes and embryos intended for artificial reproduction;\n(b) hatching eggs;\n(29) products of animal origin means:\n(a) food of animal origin, including honey and blood;\n(b) live bivalve molluscs, live echinoderms, live tunicates and live marine gastropods, intended for human consumption; and\n(c) animals other than those referred to in point (b) intended to be prepared with a view to being supplied live to the final consumer;\n(30) animal by–products means entire bodies or parts of animals, products of animal origin or other products obtained from animals, which are not intended for human consumption, excluding germinal products;\n(31) derived products means products obtained from one or more treatments, transformations or steps in the processing of animal by–products;\n(32) products means:\n(a) germinal products;\n(b) products of animal origin;\n(c) animal by–products and derived products;\n(33) official control means any form of control performed in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;\n(34) health status means the disease status as regards the listed diseases relevant for a particular listed species with respect to:\n(a) an animal;\n(b) animals within:\n(i) an epidemiological unit;\n(ii) an establishment;\n(iii) a zone;\n(iv) a compartment;\n(v) a Member State;\n(vi) a third country or territory;\n(35) zone means:\n(a) for terrestrial animals, an area of a Member State, third country or territory with a precise geographical delimitation, containing an animal subpopulation with a distinct health status with respect to a specific disease or specific diseases subject to appropriate surveillance, disease control and biosecurity measures;\n(b) for aquatic animals, a contiguous hydrological system with a distinct health status with respect to a specific disease or specific diseases that forms an area that is referred to in one of the following:\n(i) an entire water catchment from the source of a waterway to the estuary or lake;\n(ii) more than one water catchment;\n(iii) part of a water catchment from the source of a waterway to a barrier that prevents the introduction of a specific disease or diseases;\n(iv) part of a coastal area with a precise geographical delimitation;\n(v) an estuary with a precise geographical delimitation;\n(36) water catchment means an area or basin of land bounded by natural features such as hills or mountains, into which all run–off water flows;\n(37) compartment means an animal subpopulation contained in one or more establishments and, in the case of aquatic animals, in one or more aquaculture establishments, under a common biosecurity management system with a distinct health status with respect to a specific disease or specific diseases subject to appropriate surveillance, disease control and biosecurity measures;\n(38) quarantine means the keeping of animals in isolation with no direct or indirect contact with animals outside the epidemiological unit, for the purpose of ensuring that there is no spread of one or more specified diseases while the animals in isolation are undergoing observation for a specified length of time and, if appropriate, testing and treatment;\n(39) epidemiological unit means a group of animals with the same likelihood of exposure to a disease agent;\n(40) outbreak means the officially confirmed occurrence of a listed disease or an emerging disease in one or more animals in an establishment or other place where animals are kept or located;\n(41) restricted zone means a zone in which restrictions on the movements of certain animals or products and other disease control measures are applied, with a view to preventing the spread of a particular disease into areas where no restrictions are applied; a restricted zone may, when relevant, include protection and surveillance zones;\n(42) protection zone means a zone around and including the location of an outbreak, where disease control measures are applied in order to prevent the spread of the disease from that zone;\n(43) surveillance zone means a zone which is established around the protection zone, and where disease control measures are applied in order to prevent the spread of the disease from the protection zone;\n(44) hatching eggs means eggs, laid by poultry or captive birds, intended for incubation;\n(45) ungulates means the animals listed in Annex III;\n(46) germinal product establishment means:\n(a) in relation to semen, an establishment where semen is collected, produced, processed or stored;\n(b) in relation to oocytes and embryos, a group of professionals or structure supervised by a team veterinarian competent to perform the collection, production, processing and storage of oocytes and embryos;\n(c) in relation to hatching eggs, a hatchery;\n(47) hatchery means an establishment which collects, stores, incubates and hatches eggs for the supply of:\n(a) hatching eggs;\n(b) day–old chicks or hatchlings of other species;\n(48) confined establishment means any permanent, geographically limited establishment, created on a voluntary basis and approved for the purpose of movements, where the animals are:\n(a) kept or bred for the purposes of exhibitions, education, the conservation of species or research;\n(b) confined and separated from the surrounding environment; and\n(c) subject to animal health surveillance and biosecurity measures;\n(49) assembly operation means the assembling of kept terrestrial animals from more than one establishment for a period shorter than the required residency period for the species of animals concerned;\n(50) residency period means the minimum period necessary in order to ensure that an animal which has been introduced into an establishment is not of a lower health status than that of the animals in that establishment;\n(51) traces means a system component integrated into the IMSOC as referred to in Articles 131 to 136 of Regulation (EU) 2017/625;\n(52) disease control aquatic food establishment means a food business approved in accordance with Article 179;\n(53) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625;\n(54) official veterinarian in a third country or territory means a veterinarian in a third country or territory corresponding to an official veterinarian as referred to in point (53);\n(55) competent authority means the central veterinary authority of a Member State responsible for the organisation of official controls and any other official activities in accordance with this Regulation and Regulation (EU) 2017/625, or any other authority to which that responsibility has been delegated;\n(56) competent authority of a third country or territory means the authority in a third country or territory corresponding to the competent authorities referred to in point (55).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 4 ALN 1 PO 33",
+          "AR 4 ALN 1 PO 51",
+          "AR 4 ALN 1 PO 53",
+          "AR 4 ALN 1 PO 55"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2017-03-15"
+        ],
+        "in_force": "2019-12-14",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0625 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R0625, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of official control in point (33) changed from control carried out by a competent authority for verifying compliance with this Regulation to control performed in accordance with Regulation (EU) 2017/625, with a full citation of that regulation added.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4",
+              "label": "Art. 4, 02016R0429-20191214"
+            }
+          ]
+        },
+        {
+          "text": "The definition of Traces in point (51) changed from the integrated computerised veterinary system provided for in Decisions 2003/24/EC and 2004/292/EC to a system component integrated into the IMSOC as referred to in Articles 131 to 136 of Regulation (EU) 2017/625.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4",
+              "label": "Art. 4, 02016R0429-20191214"
+            }
+          ]
+        },
+        {
+          "text": "The definition of official veterinarian in point (53) changed from a veterinarian authorised and qualified by the competent authority to an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625, and the competent authority definition in point (55) now also references responsibilities under Regulation (EU) 2017/625 alongside this Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4",
+              "label": "Art. 4, 02016R0429-20191214"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_4",
+              "label": "Art. 4, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 81"
+        },
+        "heading": "Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals",
+        "before": "Article 81\nDisease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals\nIn the event that the competent authority of an affected Member State suspects or officially confirms the outbreak of a listed disease as referred to in point (b) of Article 9(1) in wild animals, it shall throughout its territory, or in the area or zone concerned, as relevant for that outbreak:\n(a) apply the disease control measures laid down in the compulsory eradication programme provided for in Article 30(1) for that listed disease; or\n(b) initiate a compulsory eradication programme, where the eradication programme provided for in Article 31(1) for that listed disease has not yet been applied due to the previous absence of that disease or freedom from it, and if measures for wild animals are necessary in order to control and prevent the spread of that disease.",
+        "after": "Article 81\nDisease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals\nIn the event that the competent authority of an affected Member State suspects or officially confirms the outbreak of a listed disease as referred to in point (b) of Article 9(1) in wild animals, it shall throughout its territory, or in the area or zone concerned, as relevant for that outbreak:\n(a) apply the disease control measures laid down in the compulsory eradication programme provided for  in Article 31(1) for that listed disease; or\n(b) initiate a compulsory eradication programme, where the eradication programme provided for in Article 31(1) for that listed disease has not yet been applied due to the previous absence of that disease or freedom from it, and if measures for wild animals are necessary in order to control and prevent the spread of that disease.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 81 ALN 1 PTA (a)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-03-31, 2019-12-14]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R0625, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (a), the cross-reference to the compulsory eradication programme was changed from Article 30(1) to Article 31(1), matching the reference already used in point (b).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_81",
+              "label": "Art. 81, 02016R0429-20160331"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_81",
+              "label": "Art. 81, 02016R0429-20191214"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 164"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-03-31, 2019-12-14]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 164",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 227"
+        },
+        "heading": "Animal health requirements concerning other animals, and germinal products and products of animal origin of such other animals",
+        "before": "Article 227\nAnimal health requirements concerning other animals, and germinal products and products of animal origin of such other animals\nWhere other animals are of a listed species for a listed disease as referred to in point (d) of Article 9(1), and those other animals or their germinal products or products of animal origin represent a risk to public or animal health in the Union, one or more of the following requirements shall apply:\n(a) the requirements concerning registration, approval, record-keeping and registers for establishments and transporters provided for in Chapter 1 of Title I and Chapter 1 of Title II (Articles 84 to 101 and Articles 172 to 175);\n(b) the requirements concerning traceability provided for in Articles 108 to 111 and Article 117 for other animals and Article 122 for germinal products;\n(c) movement requirements:\n(i) as regards other animals mainly living in a terrestrial environment or that are normally affected by diseases of terrestrial animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Section 1 (Articles 124 and 125) and Section 6 of Chapter 3 of Title I of Part IV (Articles 137 to 142) and Chapter 4 of Title I of Part IV (Articles 155 and 156);\n(ii) as regards other animals mainly living in aquatic environment or that are normally affected by diseases of aquatic animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Sections 1 to 4 of Chapter 2 of Title II of Part IV (Articles 191 to 207);\n(iii) as regards germinal products, the general requirements for movements provided for in Articles 157 and 158 and the special requirements for movements to other Member States provided for in Articles 164 and 165;\n(iv) as regards products of animal origin, the general animal health obligations incumbent on operators in respect of the production, processing and distribution within the Union of products of animal origin provided for in Articles 166 and 222;\n(d) the animal health certification obligation incumbent on operators and competent authorities and the self–declaration incumbent on operators:\n(i) as regards other animals, pursuant to the rules provided for in Articles 143 to 151 or Articles 208 to 218;\n(ii) as regards germinal products, pursuant to the rules provided for in Articles 161 and 162;\n(iii) as regards products of animal origin, pursuant to the rules provided for in Articles 165 and 168 or Articles 223 and 224;\n(e) the obligation to notify movements incumbent on operators and competent authorities, taking into account the requirements provided for in Articles 152, 153, 154, 163 and 169 and in Articles 219 to 221 and 225.",
+        "after": "Article 227\nAnimal health requirements concerning other animals, and germinal products and products of animal origin of such other animals\nWhere other animals are of a listed species for a listed disease as referred to in point (d) of Article 9(1), and those other animals or their germinal products or products of animal origin represent a risk to public or animal health in the Union, one or more of the following requirements shall apply:\n(a) the requirements concerning registration, approval, record-keeping and registers for establishments and transporters provided for in Chapter 1 of Title I and Chapter 1 of Title II (Articles 84 to 101 and Articles 172 to 175);\n(b) the requirements concerning traceability provided for in Articles 108 to 111 and Article 117 for other animals and Article 122 for germinal products;\n(c) movement requirements:\n(i) as regards other animals mainly living in a terrestrial environment or that are normally affected by diseases of terrestrial animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Section 1 (Articles 124 and 125) and Section 6 of Chapter 3 of Title I of Part IV (Articles 137 to 142) and Chapter 4 of Title I of Part IV (Articles 155 and 156);\n(ii) as regards other animals mainly living in aquatic environment or that are normally affected by diseases of aquatic animals, taking into account the criteria provided for in points (d) and (e) of Article 228(3), the requirements provided for in Sections 1 to 4 of Chapter 2 of Title II of Part IV (Articles 191 to 207);\n(iii) as regards germinal products, the general requirements for movements provided for in Articles 157 and 158 and the special requirements for movements to other Member States provided for in Articles 164 and 165;\n(iv) as regards products of animal origin, the general animal health obligations incumbent on operators in respect of the production, processing and distribution within the Union of products of animal origin provided for in Articles 166 and 222;\n(d) the animal health certification obligation incumbent on operators and competent authorities and the self–declaration incumbent on operators:\n(i) as regards other animals, pursuant to the rules provided for in Articles 143 to 151 or Articles 208 to 218;\n(ii) as regards germinal products, pursuant to the rules provided for in Articles 161 and 162;\n(iii) as regards products of animal origin, pursuant to the rules provided for in Articles 167 and 168 or Articles 223 and 224;\n(e) the obligation to notify movements incumbent on operators and competent authorities, taking into account the requirements provided for in Articles 152, 153, 154, 163 and 169 and in Articles 219 to 221 and 225.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 227 ALN 1 PTA (d) PTI (iii)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "6 annotations in (2016-03-31, 2019-12-14]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R0625, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (d)(iii), the cross-reference to Article 165 has been replaced with a reference to Article 167, while the accompanying reference to Article 168 remains unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 227"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_227",
+              "label": "Art. 227, 02016R0429-20160331"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 227"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_227",
+              "label": "Art. 227, 02016R0429-20191214"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 229"
+        },
+        "heading": "Requirements for entry into the Union of animals, germinal products and products of animal origin",
+        "before": "Article 229\nRequirements for entry into the Union of animals, germinal products and products of animal origin\n1. Member States shall permit the entry into the Union of consignments of animals, germinal products and products of animal origin from third countries or territories only if those consignments fulfil the following requirements, unless such animals, germinal products or products of animal origin are covered by a derogation granted pursuant to Article 239(2):\n(a) without prejudice to Article 230(2), they come from a third country or territory listed in accordance with Article 230(1) for the particular species and category of animals, or germinal products or products of animal origin concerned, or from a zone or compartment thereof;\n(b) they come from establishments which are approved and listed, where such approval and listing is required by Article 233;\n(c) they fulfil the animal health requirements for entry into the Union laid down in Article 234(1) and in any delegated acts adopted pursuant to Article 234(2), where such requirements are laid down for the animal, germinal product or product of animal origin concerned;\n(d) they are accompanied by an animal health certificate and by declarations and other documents where required by Article 237(1) or by rules adopted pursuant to Article 237(4);\n2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or territories for the purposes of official control as provided for in Article 3 of Directive 91/496/EEC and Article 3 of Directive 97/78/EC.",
+        "after": "Article 229\nRequirements for entry into the Union of animals, germinal products and products of animal origin\n1. Member States shall permit the entry into the Union of consignments of animals, germinal products and products of animal origin from third countries or territories only if those consignments fulfil the following requirements, unless such animals, germinal products or products of animal origin are covered by a derogation granted pursuant to Article 239(2):\n(a) without prejudice to Article 230(2), they come from a third country or territory listed in accordance with Article 230(1) for the particular species and category of animals, or germinal products or products of animal origin concerned, or from a zone or compartment thereof;\n(b) they come from establishments which are approved and listed, where such approval and listing is required by Article 233;\n(c) they fulfil the animal health requirements for entry into the Union laid down in Article 234(1) and in any delegated acts adopted pursuant to Article 234(2), where such requirements are laid down for the animal, germinal product or product of animal origin concerned;\n(d) they are accompanied by an animal health certificate and by declarations and other documents where required by Article 237(1) or by rules adopted pursuant to Article 237(4);\n2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or territories for the purposes of official control as provided for in Article 47 of Regulation (EU) 2017/625.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 229 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-12-14",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0625 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R0625, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In paragraph 2, the reference to official control under Article 3 of Directive 91/496/EEC and Article 3 of Directive 97/78/EC has been replaced with a reference to Article 47 of Regulation (EU) 2017/625.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 229"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_229",
+              "label": "Art. 229, 02016R0429-20160331"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20191214",
+                "location": "AR 229"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_229",
+              "label": "Art. 229, 02016R0429-20191214"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20191214",
+          "location": "AR 281"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-12-14",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0625 A",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R0625, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0429",
+      "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+    },
+    "from_version": "02016R0429-20160331",
+    "to_version": "02016R0429-20191214",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 81",
+          "AR 227",
+          "AR 229"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 4",
+          "AR 229",
+          "AR 281"
+        ],
+        "note": "6 annotations in (2016-03-31, 2019-12-14]",
+        "claims": [
+          {
+            "location": "AR 229 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 53",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 55",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 51",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 281",
+            "change_type": "INSERTED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 4 PO 33",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 164"
+        ],
+        "note": "32017R0625, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 164 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 164",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 4,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 0.5,
+        "recall": 0.6666666666666666,
+        "f1": 0.5714285714285715,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 4",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 81",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 164",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 227",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 229",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 281",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 164",
+      "AR 281"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 4,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 2,
+    "usage": {
+      "input_tokens": 21001,
+      "output_tokens": 873,
+      "requests": 4,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 4,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 10,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
