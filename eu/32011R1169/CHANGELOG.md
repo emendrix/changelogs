@@ -15,28 +15,16 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02011R1169-20180101` → `02011R1169-20250401`
 
 - **Act** `eu:32011R1169` · **In force** 2025-04-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20180101` · `v2` = `02011R1169-20250401`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32024R2512`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II PO 10` · *amended by* `32024R2512`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point 10 on mustard and products thereof now adds an exception for behenic acid with a minimum of 85% purity, obtained after two distillation steps, used in manufacturing the emulsifiers E 470a, E 471 and E 477. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20250401#anx_II)
 
