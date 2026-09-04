@@ -290,7 +290,7 @@ The only textual difference between the two versions is that the Chapter II head
 - **Act** `eu:32017R0625` · **In force** 2019-12-14 · **Detected** 2026-09-04
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 169 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0625-20170407` · `v2` = `02017R0625-20191214`
 
 ---
@@ -352,7 +352,11 @@ A new separate sentence is added stating that provisions of Directive 97/78/EC g
 
 *within* `AR 165 PA 2 ALN 1` · *dates* -2022-12-14 +2019-12-15 +2020-12-13 +2022-12-13 · *amended by* `32019R2127`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 2 of the amended Article 109(1) of Regulation (EU) 2016/2031, previously a single sentence stating that certain provisions continued to apply until 14 December 2022 or an earlier date to be set by delegated act, is replaced by three separate sentences splitting the transitional treatment across different provisions. [Art. 165, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_165) [Art. 165, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_165)
+
+The revised text states that Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), and point (a) of Article 58 apply from 15 December 2019 instead of the corresponding Directive 2000/29/EC provisions, which cease to apply from that date, while the matters governed by point (a) of Article 53(1) continue under the Directive until 13 December 2020, and the matters governed by Article 54(1) and (3) continue under the Directive until 13 December 2022. [Art. 165, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_165)
+
+The reference to a single earlier date to be determined by delegated act under paragraph 3 has been removed from this transitional wording, though paragraph 3 itself, allowing delegated acts to amend the date referred to in paragraph 2, remains present in both versions. [Art. 165, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_165) [Art. 165, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20191214#art_165)
 
 *before* (`02017R0625-20170407`)
 
