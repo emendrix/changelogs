@@ -10,6 +10,245 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1094-20251110 -->
+## Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1094-20250701` → `02010R1094-20251110`
+
+- **Act** `eu:32010R1094` · **In force** 2025-11-10 · **Detected** 2026-09-04
+- **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
+- **Diff** 2 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 87 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1094-20250701` · `v2` = `02010R1094-20251110`
+
+---
+
+**MODIFIED · Art. 16a — Opinions** · applies from: unchanged
+
+*within* `AR 16a PA 1 ALN 2`, `AR 16a PA 1 ALN 3` · *amended by* `32025R2088`
+
+Paragraph 1 now includes two additional subparagraphs stating that the Authority's opinions may, where appropriate, address the functioning of legislative acts in force, including the appropriateness of removing redundant or obsolete reporting and disclosure requirements in Union law or national transposing measures. [Art. 16a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_16a)
+
+It also adds that, for opinions on legislative acts in force, the Authority may consult relevant stakeholders on that matter and take their input into account, and that the Commission may, after considering those opinions, submit a legislative proposal to the European Parliament and the Council where appropriate. [Art. 16a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_16a)
+
+Paragraphs 2 and 3 of the article remain textually unchanged between the two versions. [Art. 16a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_16a) [Art. 16a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_16a)
+
+*before* (`02010R1094-20250701`)
+
+> Article 16a
+> Opinions
+> 1. The Authority may, upon a request from the European Parliament, from the Council or from the Commission, or on its own initiative, provide opinions to the European Parliament, to the Council and to the Commission on all issues related to its area of competence.
+> 2. The request referred to in paragraph 1 may include a public consultation or a technical analysis.
+> 3. With regard to the prudential assessment of mergers and acquisitions falling within the scope of Directive 2009/138/EC and which, according to that Directive, require consultation between competent authorities from two or more Member States, the Authority may, at the request of one of the competent authorities concerned, issue and publish an opinion on a prudential assessment, except in relation to the criteria set out in point (e) of Article 59(1) of Directive 2009/138/EC. The opinion shall be issued promptly and, in any event, before the end of the assessment period in accordance with Directive 2009/138/EC.
+> 4. The Authority may, upon a request from the European Parliament, from the Council or from the Commission provide technical advice to the European Parliament, the Council and the Commission in the areas set out in the legislative acts referred to in Article 1(2).
+
+*after* (`02010R1094-20251110`)
+
+> Article 16a
+> Opinions
+> 1. The Authority may, upon a request from the European Parliament, from the Council or from the Commission, or on its own initiative, provide opinions to the European Parliament, to the Council and to the Commission on all issues related to its area of competence.
+> In its opinions, the Authority may, where appropriate, address the functioning of legislative acts in force, including the appropriateness of removing any redundant or obsolete reporting and disclosure requirements in Union law or in measures of national law transposing Union law.
+> To provide opinions on legislative acts in force, as referred to in the second subparagraph, the Authority may consult all relevant stakeholders specifically on that matter and take their input into account. The Commission may, after considering those opinions, where appropriate, submit to the European Parliament and to the Council a legislative proposal.
+> 2. The request referred to in paragraph 1 may include a public consultation or a technical analysis.
+> 3. With regard to the prudential assessment of mergers and acquisitions falling within the scope of Directive 2009/138/EC and which, according to that Directive, require consultation between competent authorities from two or more Member States, the Authority may, at the request of one of the competent authorities concerned, issue and publish an opinion on a prudential assessment, except in relation to the criteria set out in point (e) of Article 59(1) of Directive 2009 […truncated by emendrix: 411 characters omitted…]
+
+**MODIFIED · Art. 29 — Common supervisory culture** · applies from: unchanged
+
+*within* `AR 29 PA 1 ALN 1 PTA (d)`, `AR 29 PA 1 ALN 1 PTA (d) PTI (i)`, `AR 29 PA 1 ALN 1 PTA (d) PTI (ii)`, `AR 29 PA 1 ALN 1 PTA (d) PTI (iii)` · *amended by* `32025R2088`
+
+Point (d) of Article 29(1) now adds that proposed amendments to technical standards, guidelines and recommendations may include amendments addressing three specified matters. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_29)
+
+These added matters, listed as new points (i) to (iii), cover removing redundant or obsolete reporting and disclosure requirements while minimising costs and preserving data usability and quality, ensuring proportionate and consistent reporting and disclosure requirements, and addressing regulatory gaps related to reporting and disclosure requirements. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_29)
+
+The earlier version of point (d) contained no such list and ended after referring to proposing amendments where appropriate. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_29)
+
+*before* (`02010R1094-20250701`)
+
+> Article 29
+> Common supervisory culture
+> 1. The Authority shall play an active role in building a common Union supervisory culture and consistent supervisory practices, as well as in ensuring uniform procedures and consistent approaches throughout the Union. The Authority shall carry out, at a minimum, the following activities:
+> (a) providing opinions to competent authorities;
+> (aa) establishing Union strategic supervisory priorities in accordance with Article 29a;
+> (ab) establishing coordination groups in accordance with Article 45b to promote supervisory convergence and identify best practices;
+> (b) promoting an effective bilateral and multilateral exchange of information between competent authorities, pertaining to all relevant issues, including cyber security and cyber-attacks, with full respect for the applicable confidentiality and data protection provisions provided for in the relevant Union legislative acts;
+> (c) contributing to developing high quality and uniform supervisory standards, including reporting standards, and international accounting standards in accordance with Article 1(3);
+> (d) reviewing the application of the relevant regulatory and implementing technical standards adopted by the Commission, and of the guidelines and recommendations issued by the Authority and proposing amendments where appropriate; and
+> (e) establishing sectoral and cross-sectoral training programmes, including with respect to technological innovation, different forms of cooperatives and mutual […truncated by emendrix: 1524 characters omitted…]
+
+*after* (`02010R1094-20251110`)
+
+> Article 29
+> Common supervisory culture
+> 1. The Authority shall play an active role in building a common Union supervisory culture and consistent supervisory practices, as well as in ensuring uniform procedures and consistent approaches throughout the Union. The Authority shall carry out, at a minimum, the following activities:
+> (a) providing opinions to competent authorities;
+> (aa) establishing Union strategic supervisory priorities in accordance with Article 29a;
+> (ab) establishing coordination groups in accordance with Article 45b to promote supervisory convergence and identify best practices;
+> (b) promoting an effective bilateral and multilateral exchange of information between competent authorities, pertaining to all relevant issues, including cyber security and cyber-attacks, with full respect for the applicable confidentiality and data protection provisions provided for in the relevant Union legislative acts;
+> (c) contributing to developing high quality and uniform supervisory standards, including reporting standards, and international accounting standards in accordance with Article 1(3);
+> (d) reviewing the application of the relevant regulatory and implementing technical standards adopted by the Commission, and of the guidelines and recommendations issued by the Authority and proposing amendments where appropriate, including amendments to:
+> (i) remove redundant or obsolete reporting and disclosure requirements, and minimise costs while preserving data usability and quality;
+> (ii […truncated by emendrix: 1845 characters omitted…]
+
+**MODIFIED · Art. 30 — Peer reviews of competent authorities** · applies from: unchanged
+
+*within* `AR 30 PA 3 ALN 1 PTA (d)`, `AR 30 PA 3 ALN 1 PTA (e)` · *amended by* `32025R2088`
+
+Point (d) of Article 30(3) now ends with a semicolon rather than a full stop, and a new point (e) has been added covering an assessment of the effectiveness and degree of convergence of reporting and disclosure requirements adopted in application or implementation of Union law, while considering the specific characteristics of national financial legal frameworks. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_30)
+
+The prior version's list of assessment items in Article 30(3) ended at point (d) without any equivalent provision on reporting and disclosure requirements. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_30)
+
+*before* (`02010R1094-20250701`)
+
+> Article 30
+> Peer reviews of competent authorities
+> 1. The Authority shall periodically conduct peer reviews of some or all of the activities of competent authorities, to further strengthen consistency and effectiveness in supervisory outcomes. To that end, the Authority shall develop methods to allow for an objective assessment and comparison between the competent authorities reviewed. When planning and conducting peer reviews, existing information and evaluations already made with regard to the competent authority concerned, including any relevant information provided to the Authority in accordance with Article 35, and any relevant information from stakeholders shall be taken into account.
+> 2. For the purposes of this Article, the Authority shall establish ad hoc peer review committees, which shall be composed of staff from the Authority and members of the competent authorities. The peer review committees shall be chaired by a member of the Authority’s staff. The Chairperson, after consulting the Management Board and following an open call for participation, shall propose the chair and the members of a peer review committee which shall be approved by the Board of Supervisors. The proposal shall be deemed to be approved unless, within 10 days of the Chairperson proposing it, the Board of Supervisors adopts a decision to reject it.
+> 3. The peer review shall include an assessment of, but shall not be limited to:
+> (a) the adequacy of resources, the degree of independence, and governa […truncated by emendrix: 4897 characters omitted…]
+
+*after* (`02010R1094-20251110`)
+
+> Article 30
+> Peer reviews of competent authorities
+> 1. The Authority shall periodically conduct peer reviews of some or all of the activities of competent authorities, to further strengthen consistency and effectiveness in supervisory outcomes. To that end, the Authority shall develop methods to allow for an objective assessment and comparison between the competent authorities reviewed. When planning and conducting peer reviews, existing information and evaluations already made with regard to the competent authority concerned, including any relevant information provided to the Authority in accordance with Article 35, and any relevant information from stakeholders shall be taken into account.
+> 2. For the purposes of this Article, the Authority shall establish ad hoc peer review committees, which shall be composed of staff from the Authority and members of the competent authorities. The peer review committees shall be chaired by a member of the Authority’s staff. The Chairperson, after consulting the Management Board and following an open call for participation, shall propose the chair and the members of a peer review committee which shall be approved by the Board of Supervisors. The proposal shall be deemed to be approved unless, within 10 days of the Chairperson proposing it, the Board of Supervisors adopts a decision to reject it.
+> 3. The peer review shall include an assessment of, but shall not be limited to:
+> (a) the adequacy of resources, the degree of independence, and governa […truncated by emendrix: 5132 characters omitted…]
+
+**MODIFIED · Art. 35 — Collection of information** · applies from: unchanged
+
+*within* `AR 35 PA 4 ALN 1` · *amended by* `32025R2088`
+
+Paragraph 4 now directs the Authority, before requesting information, to take account of information collected by other authorities as defined in Article 35a(12), in addition to relevant existing statistics from the European Statistical System and the European System of Central Banks. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35)
+
+The wording describing the purpose of this consideration was also changed from avoiding duplication of reporting obligations to ensuring there is no duplication of reporting requirements. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35)
+
+*before* (`02010R1094-20250701`)
+
+> Article 35
+> Collection of information
+> 1. At the request of the Authority, the competent authorities of the Member States shall provide the Authority with all the necessary information to carry out the duties assigned to it by this Regulation, provided that they have legal access to the relevant information and that the request for information is necessary in relation to the nature of the duty in question.
+> 2. The Authority may also request information to be provided at recurring intervals and in specified formats. Such requests shall, where possible, be made using common reporting formats.
+> 3. Upon a duly justified request from a competent authority of a Member State, the Authority may provide any information that is necessary to enable the competent authority to carry out its duties, in accordance with the professional secrecy obligations laid down in sectoral legislation and in Article 70.
+> 4. Before requesting information in accordance with this Article and in order to avoid the duplication of reporting obligations, the Authority shall take account of any relevant existing statistics produced and disseminated by the European Statistical System and the European System of Central Banks.
+> 5. Where information is not available or is not made available by the competent authorities in a timely fashion, the Authority may address a duly justified and reasoned request to other supervisory authorities, to the ministry responsible for finance where it has at its disposal prudential inform […truncated by emendrix: 853 characters omitted…]
+
+*after* (`02010R1094-20251110`)
+
+> Article 35
+> Collection of information
+> 1. At the request of the Authority, the competent authorities of the Member States shall provide the Authority with all the necessary information to carry out the duties assigned to it by this Regulation, provided that they have legal access to the relevant information and that the request for information is necessary in relation to the nature of the duty in question.
+> 2. The Authority may also request information to be provided at recurring intervals and in specified formats. Such requests shall, where possible, be made using common reporting formats.
+> 3. Upon a duly justified request from a competent authority of a Member State, the Authority may provide any information that is necessary to enable the competent authority to carry out its duties, in accordance with the professional secrecy obligations laid down in sectoral legislation and in Article 70.
+> 4. Before requesting information in accordance with this Article, and in order to ensure that there is no duplication of reporting requirements, the Authority shall take account of information collected by other authorities as defined in Article 35a(12) and any relevant existing statistics produced and disseminated by the European Statistical System and the European System of Central Banks.
+> 5. Where information is not available or is not made available by the competent authorities in a timely fashion, the Authority may address a duly justified and reasoned request to other supervisory author […truncated by emendrix: 946 characters omitted…]
+
+**INSERTED · Art. 35a — Exchange of information between authorities and with other entities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32025R2088`
+
+Article 35a is a wholly new provision setting out rules for the Authority to exchange information with other authorities and with financial institutions, including conditions for requesting and sharing data, professional secrecy and data protection obligations, exceptions to notification duties, memoranda of understanding, access for research and innovation purposes, and a reporting obligation to the Commission on legal obstacles to information exchange. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35a)
+
+It also defines the terms other authorities and financial institution for purposes of this article and related provisions. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35a)
+
+*after* (`02010R1094-20251110`)
+
+> Article 35a
+> Exchange of information between authorities and with other entities
+> 1. The Authority shall share, on a regular or case-by-case basis, information that it obtained from financial institutions or the other authorities when carrying out its duties and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.
+> 2. The Authority shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from financial institutions, provided that the Authority is entitled to obtain that information pursuant to Union law.
+> The first subparagraph shall be without prejudice to the powers of the Authority to obtain the requested information from financial institutions where the other authority is unable to share the information, where urgent action is needed or where obtaining the information directly from financial institutions is necessary for the performance of the Authority’s tasks pursuant to Union law.
+> 3. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.
+> The requesting authority and the Authority shall be subject to the obligations […truncated by emendrix: 9506 characters omitted…]
+
+**INSERTED · Art. 35b — Integrated reporting system** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32025R2088`
+
+This new Article 35b requires the ESAs, acting through the Joint Committee and in cooperation with the ESRB, ECB, AMLA, the SRB, competent authorities and other stakeholders, to prepare by 11 November 2030 a report exploring options for a cross-sectoral integrated reporting system, including a feasibility study and implementation roadmap covering a common data dictionary and a shared data space, with the Commission empowered to submit a related legislative proposal based on that report's findings. [Art. 35b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35b)
+
+The same new article also directs the ESAs, through the Joint Committee and with the same cooperating bodies and competent authorities, to promptly set up a permanent single contact point through which entities can flag duplicative, redundant or obsolete reporting and disclosure requirements. [Art. 35b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_35b)
+
+*after* (`02010R1094-20251110`)
+
+> Article 35b
+> Integrated reporting system
+> 1. By 11 November 2030, the ESAs, through the Joint Committee and in close cooperation with the ESRB, the European Central Bank (ECB), AMLA, the SRB, the competent authorities and other relevant stakeholders, shall prepare a report presenting options to enhance the efficiency of supervisory data collection in the Union. Building on the sectoral work of the ESAs to integrate reporting, that report shall provide a feasibility study, including an assessment of impacts, costs and benefits, of a cross-sectoral integrated reporting system and, based on that feasibility study, present a roadmap for the implementation.
+> The report referred to in the first subparagraph shall cover:
+> (a) a common data dictionary, including a repository of reporting and disclosure requirements, ensuring consistency and clarity of reporting requirements and data standardisation; and
+> (b) a data space for collecting and exchanging information.
+> Taking into account the findings of the report referred to in the first subparagraph and following a thorough impact assessment, the Commission shall, where appropriate and necessary, submit to the European Parliament and to the Council a legislative proposal to ensure the financial, human and IT resources necessary for establishing the integrated reporting system.
+> 2. The ESAs, through the Joint Committee and in close cooperation with the ESRB, the ECB, AMLA, the SRB and the competent authorities, shall promptly establish a perma […truncated by emendrix: 127 characters omitted…]
+
+**MODIFIED · Art. 54 — Establishment** · applies from: unchanged
+
+*within* `AR 54 PA 2 ALN 1` · *amended by* `32025R2088`
+
+The list of matters on which the Joint Committee cooperates now includes a new item covering reporting and disclosure requirements and the collection of information from financial institutions, added after the existing reference to advice by the Committee established under Article 1(7). [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_54)
+
+The remainder of Article 54, including paragraphs 1, 2a, 3 and 4, is unchanged between the two versions. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_54)
+
+*before* (`02010R1094-20250701`)
+
+> Article 54
+> Establishment
+> 1. The Joint Committee of the European Supervisory Authorities is hereby established.
+> 2. The Joint Committee shall serve as a forum in which the Authority shall cooperate regularly and closely to ensure cross-sectoral consistency, while considering sectoral specificities, with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority), in particular regarding:
+> financial conglomerates and, where required by Union law, prudential consolidation,
+> accounting and auditing,
+> micro-prudential analyses of cross-sectoral developments, risks and vulnerabilities for financial stability,
+> retail investment products,
+> cybersecurity,
+> information and best practice exchange with the ESRB and the other ESAs,
+> retail financial services and consumer and investor protection issues,
+> advice by the Committee established in accordance with Article 1(7).
+> 2a. The Joint Committee may assist the Commission in assessing the conditions and the technical specifications and procedures for ensuring secure and efficient inter-connection of the centralised automated mechanisms pursuant to the report referred in Article 32a(5) of Directive (EU) 2015/849 as well as in the effective interconnection of the national registers under that Directive.
+> 3. The Joint Committee shall have a dedicated staff provided by the ESAs that shall act as a permanent secretariat. The Authority shall contribute adequate resource […truncated by emendrix: 219 characters omitted…]
+
+*after* (`02010R1094-20251110`)
+
+> Article 54
+> Establishment
+> 1. The Joint Committee of the European Supervisory Authorities is hereby established.
+> 2. The Joint Committee shall serve as a forum in which the Authority shall cooperate regularly and closely to ensure cross-sectoral consistency, while considering sectoral specificities, with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority), in particular regarding:
+> financial conglomerates and, where required by Union law, prudential consolidation,
+> accounting and auditing,
+> micro-prudential analyses of cross-sectoral developments, risks and vulnerabilities for financial stability,
+> retail investment products,
+> cybersecurity,
+> information and best practice exchange with the ESRB and the other ESAs,
+> retail financial services and consumer and investor protection issues,
+> advice by the Committee established in accordance with Article 1(7),
+> reporting and disclosure requirements and the collection of information from financial institutions.
+> 2a. The Joint Committee may assist the Commission in assessing the conditions and the technical specifications and procedures for ensuring secure and efficient inter-connection of the centralised automated mechanisms pursuant to the report referred in Article 32a(5) of Directive (EU) 2015/849 as well as in the effective interconnection of the national registers under that Directive.
+> 3. The Joint Committee shall have a dedicated staff provided by […truncated by emendrix: 320 characters omitted…]
+
+**MODIFIED · Art. 70 — Obligation of professional secrecy** · applies from: unchanged
+
+*within* `AR 70 PA 3 ALN 1` · *amended by* `32025R2088`
+
+Paragraph 3 now states that the exchange of information may occur not only with competent authorities but also with other authorities as defined in Article 35a(12), a reference not present before. [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_70)
+
+The paragraph also adds the words "of this Article" after the reference to paragraphs 1 and 2, and drops the word "other" before "Union legislation". [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20250701#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_70)
+
+*before* (`02010R1094-20250701`)
+
+> Article 70
+> Obligation of professional secrecy
+> 1. Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
+> 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.
+> The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
+> 2a. The Management Board, and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requi […truncated by emendrix: 1003 characters omitted…]
+
+*after* (`02010R1094-20251110`)
+
+> Article 70
+> Obligation of professional secrecy
+> 1. Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
+> 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.
+> The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
+> 2a. The Management Board, and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requi […truncated by emendrix: 1071 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1094-20251110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1094-20250701 -->
 ## Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1094-20200101` → `02010R1094-20250701`
