@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -489,11 +489,63 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The description of the accounting value calculation now specifies that specific credit risk adjustments are made in accordance with Article 110, that additional value adjustments follow Articles 34 and 105 rather than Articles 34 and 110, and adds a reference to amounts deducted under point (m) of Article 36(1) alongside other own funds reductions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 111"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_111",
+              "label": "Art. 111, 02013R0575-20190426"
+            }
+          ]
+        },
+        {
+          "text": "The off-balance sheet item percentage calculation is also revised to state that the nominal value is reduced both for specific credit risk adjustments and for amounts deducted in accordance with point (m) of Article 36(1), whereas the earlier text referred only to specific credit risk adjustments.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190101",
+                "location": "AR 111"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_111",
+              "label": "Art. 111, 02013R0575-20190101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190426",
+                "location": "AR 111"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_111",
+              "label": "Art. 111, 02013R0575-20190426"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1318,6 +1370,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 8017,
+        "output_tokens": 629,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

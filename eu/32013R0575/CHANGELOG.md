@@ -35194,7 +35194,7 @@ The article further specifies that the tool must at least allow each institution
 - **Act** `eu:32013R0575` · **In force** 2019-04-26 · **Detected** 2026-08-13
 - **Touched** 9 provisions — 9 substantive · 0 date-only · **0 disputed**
 - **Diff** 4 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 529 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20190101` · `v2` = `02013R0575-20190426`
 
 ---
@@ -35301,7 +35301,9 @@ It further lays out graduated percentage factors applied over successive years f
 
 *within* `AR 111 PA 1 ALN 1` · *amended by* `32019R0630`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The description of the accounting value calculation now specifies that specific credit risk adjustments are made in accordance with Article 110, that additional value adjustments follow Articles 34 and 105 rather than Articles 34 and 110, and adds a reference to amounts deducted under point (m) of Article 36(1) alongside other own funds reductions. [Art. 111, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_111)
+
+The off-balance sheet item percentage calculation is also revised to state that the nominal value is reduced both for specific credit risk adjustments and for amounts deducted in accordance with point (m) of Article 36(1), whereas the earlier text referred only to specific credit risk adjustments. [Art. 111, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_111) [Art. 111, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_111)
 
 *before* (`02013R0575-20190101`)
 
