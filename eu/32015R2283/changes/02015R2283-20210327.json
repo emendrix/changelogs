@@ -1,0 +1,663 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32015R2283",
+    "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+  },
+  "from_version": "32015R2283",
+  "to_version": "02015R2283-20210327",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-03-27"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 4,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 4,
+    "unchanged_units": 32,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 4,
+    "substantive": 4,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+          },
+          "version": "02015R2283-20210327",
+          "location": "AR 10"
+        },
+        "heading": "Procedure for authorising the placing on the market within the Union of a novel food and updating the Union list",
+        "before": "Article 10\nProcedure for authorising the placing on the market within the Union of a novel food and updating the Union list\n1. The procedure for authorising the placing on the market within the Union of a novel food and updating of the Union list provided for in Article 9 shall start either on the Commission's initiative or following an application to the Commission by an applicant. The Commission shall make the application available to the Member States without delay. The Commission shall make the summary of the application, based on the information referred to in points (a), (b) and (e) of paragraph 2 of this Article, publicly available.\n2. The application for an authorisation shall include:\n(a) the name and address of the applicant;\n(b) the name and description of the novel food;\n(c) the description of the production process(es);\n(d) the detailed composition of the novel food;\n(e) scientific evidence demonstrating that the novel food does not pose a safety risk to human health;\n(f) where appropriate, the analysis method(s);\n(g) a proposal for the conditions of intended use and for specific labelling requirements which do not mislead the consumer or a verifiable justification why those elements are not necessary.\n3. Upon request by the Commission, the European Food Safety Authority (the Authority) shall give its opinion as to whether the update is liable to have an effect on human health.\n4. When test methods are applied to engineered nanomaterials as referred to in points (a) (viii) and (ix) of Article 3(2), an explanation shall be provided by the applicants of their scientific appropriateness for nanomaterials and, where applicable, of the technical adaptations or adjustments that have been made in order to respond to the specific characteristics of those materials.\n5. The procedure for authorising the placing on the market within the Union of a novel food and updating the Union list as provided for in Article 9 shall end with the adoption of an implementing act in accordance with Article 12.\n6. By way of derogation from paragraph 5, the Commission may terminate the procedure at any stage, and decide not to proceed with an update, where it considers that such an update is not justified.\nIn such cases, where applicable, the Commission shall take account of the views of Member States, the Authority's opinion and any other legitimate factors relevant to the update under consideration.\nThe Commission shall inform the applicant and all Member States directly of the reasons for not considering the update to be justified. The Commission shall make the list of such applications publicly available.\n7. The applicant may withdraw its application at any time, thereby terminating the procedure.",
+        "after": "Article 10\nProcedure for authorising the placing on the market within the Union of a novel food and updating the Union list\n1. The procedure for authorising the placing on the market within the Union of a novel food and updating of the Union list provided for in Article 9 of this Regulation shall start either on the Commission's initiative or following an application to the Commission by an applicant, in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002. The Commission shall make the application available to the Member States without delay. The Commission shall make a summary of the application, based on the information referred to in points (a), (b) and (e) of paragraph 2 of this Article, publicly available.\n2. The application for an authorisation shall include:\n(a) the name and address of the applicant;\n(b) the name and description of the novel food;\n(c) the description of the production process(es);\n(d) the detailed composition of the novel food;\n(e) scientific evidence demonstrating that the novel food does not pose a safety risk to human health;\n(f) where appropriate, the analysis method(s);\n(g) a proposal for the conditions of intended use and for specific labelling requirements which do not mislead the consumer or a verifiable justification why those elements are not necessary.\n3. Where the Commission requests an opinion from the European Food Safety Authority (the Authority), the Authority shall make public the application in accordance with Article 23 and shall give its opinion as to whether the update is liable to have an effect on human health.\n4. When test methods are applied to engineered nanomaterials as referred to in points (a) (viii) and (ix) of Article 3(2), an explanation shall be provided by the applicants of their scientific appropriateness for nanomaterials and, where applicable, of the technical adaptations or adjustments that have been made in order to respond to the specific characteristics of those materials.\n5. The procedure for authorising the placing on the market within the Union of a novel food and updating the Union list as provided for in Article 9 shall end with the adoption of an implementing act in accordance with Article 12.\n6. By way of derogation from paragraph 5, the Commission may terminate the procedure at any stage, and decide not to proceed with an update, where it considers that such an update is not justified.\nIn such cases, where applicable, the Commission shall take account of the views of Member States, the Authority's opinion and any other legitimate factors relevant to the update under consideration.\nThe Commission shall inform the applicant and all Member States directly of the reasons for not considering the update to be justified. The Commission shall make the list of such applications publicly available.\n7. The applicant may withdraw its application at any time, thereby terminating the procedure.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 10 PA 1 ALN 1",
+          "AR 10 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 008 (1) (a); AR 008 (1) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now specifies that an application to the Commission must follow standard data formats where they exist under Article 39f of Regulation (EC) No 178/2002, and it refers to Article 9 as being of this Regulation, while also changing the phrase about making the summary public from \"the summary\" to \"a summary\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_10",
+              "label": "Art. 10, 02015R2283-20210327"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 changed from stating that the Authority shall give its opinion upon the Commission's request to stating that, where the Commission requests such an opinion, the Authority shall make the application public in accordance with Article 23 and give its opinion.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_10",
+              "label": "Art. 10, 02015R2283-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+          },
+          "version": "02015R2283-20210327",
+          "location": "AR 15"
+        },
+        "heading": "Procedure for notifying the placing on the market within the Union of a traditional food from a third country",
+        "before": "Article 15\nProcedure for notifying the placing on the market within the Union of a traditional food from a third country\n1. The Commission shall forward the valid notification provided for in Article 14 without delay, and not later than one month after having verified its validity, to the Member States and to the Authority.\n2. Within four months from the date on which a valid notification is forwarded by the Commission in accordance with paragraph 1, a Member State or the Authority may submit to the Commission duly reasoned safety objections to the placing on the market within the Union of the traditional food concerned.\n3. The Commission shall inform the applicant of any duly reasoned safety objection as soon as it is submitted. The Member States, the Authority and the applicant shall be informed of the outcome of the procedure referred to in paragraph 2.\n4. Where no duly reasoned safety objections have been submitted in accordance with paragraph 2 within the time-limit laid down in that paragraph, the Commission shall authorise the placing on the market within the Union of the traditional food concerned and update the Union list without delay.\nThe entry in the Union list shall specify that it concerns a traditional food from a third country.\nWhere applicable, certain conditions for use, specific labelling requirements, or post-market monitoring requirements shall be specified.\n5. Where duly reasoned safety objections have been submitted to the Commission in accordance with paragraph 2, the Commission shall not authorise the placing on the market within the Union of the traditional food concerned or update the Union list.\nIn that case, the applicant may submit an application to the Commission in accordance with Article 16.",
+        "after": "Article 15\nProcedure for notifying the placing on the market within the Union of a traditional food from a third country\n1. The Commission shall forward the valid notification provided for in Article 14 without delay, and not later than one month after having verified its validity, to the Member States and to the Authority.\n2. Within four months from the date on which a valid notification is forwarded by the Commission in accordance with paragraph 1 of this Article, a Member State or the Authority may submit to the Commission duly reasoned safety objections to the placing on the market within the Union of the traditional food concerned. Where the Authority submits duly reasoned safety objections, it shall make public, without delay, the notification, pursuant to Article 23, which shall apply mutatis mutandis.\n3. The Commission shall inform the applicant of any duly reasoned safety objection as soon as it is submitted. The Member States, the Authority and the applicant shall be informed of the outcome of the procedure referred to in paragraph 2.\n4. Where no duly reasoned safety objections have been submitted in accordance with paragraph 2 within the time-limit laid down in that paragraph, the Commission shall authorise the placing on the market within the Union of the traditional food concerned and update the Union list without delay.\nThe entry in the Union list shall specify that it concerns a traditional food from a third country.\nWhere applicable, certain conditions for use, specific labelling requirements, or post-market monitoring requirements shall be specified.\n5. Where duly reasoned safety objections have been submitted to the Commission in accordance with paragraph 2, the Commission shall not authorise the placing on the market within the Union of the traditional food concerned or update the Union list.\nIn that case, the applicant may submit an application to the Commission in accordance with Article 16.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 15 PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 008 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference in paragraph 2 to paragraph 1 was clarified by adding the words \"of this Article\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_15",
+              "label": "Art. 15, 02015R2283-20210327"
+            }
+          ]
+        },
+        {
+          "text": "A new sentence was added to paragraph 2 stating that where the Authority submits duly reasoned safety objections, it shall make public, without delay, the notification pursuant to Article 23, which shall apply mutatis mutandis.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_15",
+              "label": "Art. 15, 02015R2283-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+          },
+          "version": "02015R2283-20210327",
+          "location": "AR 16"
+        },
+        "heading": "Application for the authorisation of a traditional food from a third country",
+        "before": "Article 16\nApplication for the authorisation of a traditional food from a third country\nWhere the Commission, acting in accordance with Article 15(5), does not authorise the placing on the market within the Union of a traditional food from a third country or update the Union list, the applicant may submit an application including, in addition to the information already provided in accordance with Article 14, documented data relating to the duly reasoned safety objections submitted in accordance with Article 15(2).\nThe Commission shall, without delay, forward the valid application to the Authority and make it available to Member States.",
+        "after": "Article 16\nApplication for the authorisation of a traditional food from a third country\nWhere the Commission, acting in accordance with Article 15(5), does not authorise the placing on the market within the Union of a traditional food from a third country or update the Union list, the applicant may submit an application including, in addition to the information already provided in accordance with Article 14, documented data relating to the duly reasoned safety objections submitted in accordance with Article 15(2). The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002.\nThe Commission shall, without delay, forward the valid application to the Authority and make it available to Member States. The Authority shall make public the application, relevant supporting information and any supplementary information supplied by the applicant in accordance with Article 23.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 16 ALN 1",
+          "AR 16 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 008 (3) (a); AR 008 (3) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The first paragraph now adds a requirement that the application be submitted using standard data formats, where such formats exist under Article 39f of Regulation (EC) No 178/2002.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_16",
+              "label": "Art. 16, 02015R2283-20210327"
+            }
+          ]
+        },
+        {
+          "text": "The second paragraph now adds that the Authority shall make the application, relevant supporting information, and any supplementary information supplied by the applicant public, in accordance with Article 23.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2283",
+                  "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+                },
+                "version": "02015R2283-20210327",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2283-20210327#art_16",
+              "label": "Art. 16, 02015R2283-20210327"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+          },
+          "version": "02015R2283-20210327",
+          "location": "AR 23"
+        },
+        "heading": "Transparency and confidentiality",
+        "before": "Article 23\nConfidentiality of applications for updates of the Union list\n1. Applicants may request confidential treatment of certain information submitted under this Regulation where disclosure of such information may harm their competitive position.\n2. For the purposes of paragraph 1, applicants shall indicate which parts of the information provided they wish to be treated as confidential and provide all the necessary details to substantiate their request for confidentiality. Verifiable justification shall be given in such cases.\n3. After being informed of the Commission's position on the request, applicants may withdraw their application within three weeks, during which the confidentiality of the information provided shall be observed.\n4. After expiry of the period referred to in paragraph 3, if an applicant has not withdrawn the application and in case of disagreement the Commission shall decide which parts of the information are to remain confidential and, in case a decision has been taken, notify the Member States and the applicant accordingly.\nHowever, confidentiality shall not apply to the following information:\n(a) the name and address of the applicant;\n(b) the name and description of the novel food;\n(c) the proposed conditions of use of the novel food;\n(d) a summary of the studies submitted by the applicant;\n(e) the results of the studies carried out to demonstrate the safety of the food;\n(f) where appropriate, the analysis method(s);\n(g) any prohibition or restriction imposed in respect of the food by a third country.\n5. The Commission, the Member States and the Authority shall take necessary measures to ensure appropriate confidentiality of the information as referred to in paragraph 4 and received by them under this Regulation, except for information which is required to be made public in order to protect human health.\n6. Where an applicant withdraws, or has withdrawn, its application, the Commission, the Member States and the Authority shall not disclose confidential information, including the information whose confidentiality is the subject of disagreement between the Commission and the applicant.\n7. The application of paragraphs 1 to 6 shall not affect the exchange of information concerning the application between the Commission, the Member States and the Authority.\n8. The Commission may, by means of implementing acts, adopt detailed rules on the implementation of paragraphs 1 to 6.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(3).",
+        "after": "Article 23\nTransparency and confidentiality\n1. Where the Commission requests the opinion of the Authority in accordance with Article 10(3) and Article 16 of this Regulation, the Authority shall make public the application for authorisation, relevant supporting information and any supplementary information supplied by the applicant, as well as its scientific opinions, in accordance with Articles 38 to 39e of Regulation (EC) No 178/2002 and with this Article.\n2. The applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification, upon submission of the application.\n3. Where the Commission requests the opinion of the Authority in accordance with Article 10(3) and Article 16 of this Regulation, the Authority shall assess the confidentiality request submitted by the applicant in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002.\n4. In addition to the items of information referred to in Article 39(2) of Regulation (EC) No 178/2002 and pursuant to Article 39(3) thereof, the Authority may also grant confidential treatment with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:\n(a) where applicable, information provided in detailed descriptions of starting substances and starting preparations and on how they are used to manufacture the novel food subject to the authorisation, and detailed information on the nature and composition of the specific foods or food categories in which the applicant intends to use that novel food, except for information which is relevant to the assessment of safety;\n(b) where applicable, detailed analytical information on the variability and stability of individual production batches, except for information which is relevant to the assessment of safety.\n5. Where the Commission does not request the Authority's opinion pursuant to Articles 10 and 16 of this Regulation, the Commission shall assess the confidentiality request submitted by the applicant. Articles 39, 39a and 39d of Regulation (EC) No 178/2002 and paragraph 4 of this Article shall apply mutatis mutandis.\n6. This Article is without prejudice to Article 41 of Regulation (EC) No 178/2002.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 23",
+          "AR 23 PA 1 ALN 1",
+          "AR 23 PA 2 ALN 1",
+          "AR 23 PA 3 ALN 1",
+          "AR 23 PA 4 ALN 1",
+          "AR 23 PA 4 ALN 1 PTA (a)",
+          "AR 23 PA 4 ALN 1 PTA (b)",
+          "AR 23 PA 4 ALN 2",
+          "AR 23 PA 5 ALN 1",
+          "AR 23 PA 6 ALN 1",
+          "AR 23 PA 7",
+          "AR 23 PA 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1381",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-03-27",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1381 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 008 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32015R2283",
+      "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+    },
+    "from_version": "32015R2283",
+    "to_version": "02015R2283-20210327",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 10",
+          "AR 15",
+          "AR 16",
+          "AR 23"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 10",
+          "AR 15",
+          "AR 16",
+          "AR 23"
+        ],
+        "note": "6 annotations in (the act itself, 2021-03-27]",
+        "claims": [
+          {
+            "location": "AR 16 ALN 2 TXT",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 16 ALN 1 TXT",
+            "change_type": "INSERTED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 23",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 10 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 10 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-03-27",
+            "source": "32019R1381 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 10",
+          "AR 15",
+          "AR 16",
+          "AR 23"
+        ],
+        "note": "32019R1381, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 10 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 008 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 10 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 008 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 15 PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 008 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 16 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 008 (3) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 16 PA 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 008 (3) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          },
+          {
+            "location": "AR 23",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 008 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1381",
+              "display_name": "Regulation (EU) 2019/1381 of the European Parliament and of the Council of 20 June 2019 on the transparency and sustainability of the EU risk assessment in the food chain and amending Regulations (EC) No 178/2002, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 2065/2003, (EC) No 1935/2004, (EC) No 1331/2008, (EC) No 1107/2009, (EU) 2015/2283 and Directive 2001/18/EC (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 4,
+        "right_units": 4,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 4,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 4,
+        "right_units": 4,
+        "shared": 4,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 4,
+    "explained": 3,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 1,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 15130,
+      "output_tokens": 984,
+      "requests": 4,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 4,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
