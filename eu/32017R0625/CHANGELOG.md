@@ -10,6 +10,79 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20220128 -->
+## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
+### `02017R0625-20211028` → `02017R0625-20220128`
+
+- **Act** `eu:32017R0625` · **In force** 2022-01-28 · **Detected** 2026-09-04
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02017R0625-20211028` · `v2` = `02017R0625-20220128`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter and scope** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 1 PA 4 ALN 1 PTA (c)` · *dates* -2001-11-06 +2018-12-11 · *amended by* `32021R1756`
+
+Point (c) of Article 1(4) no longer excludes official controls verifying compliance with Directive 2001/82/EC and instead excludes controls verifying compliance with Regulation (EU) 2019/6, which is described as repealing that Directive. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20211028#art_1)
+
+The revised point (c) adds a proviso stating that the Regulation applies to official controls verifying compliance with Article 118(1) of Regulation (EU) 2019/6, an exception that was not present for the previously referenced Directive. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_1)
+
+*before* (`02017R0625-20211028`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down rules for:
+> (a) the performance of official controls and other official activities by the competent authorities of the Member States;
+> (b) the financing of official controls;
+> (c) the administrative assistance and cooperation between Member States in view of the correct application of the rules referred to in paragraph 2;
+> (d) the performance of controls by the Commission in Member States and in third countries;
+> (e) the adoption of conditions to be fulfilled with respect to animals and goods entering the Union from a third country;
+> (f) the establishment of a computerised information system to manage information and data in relation to official controls.
+> 2. This Regulation shall apply to the official controls performed for the verification of compliance with the rules, whether established at Union level or by the Member States, to apply Union legislation, in the areas of:
+> (a) food and food safety, integrity and wholesomeness at any stage of production, processing and distribution of food, including rules aimed at ensuring fair practices in trade and protecting consumer interests and information, and the manufacture and use of materials and articles intended to come into contact with food;
+> (b) deliberate release into the environment of Genetically Modified Organisms (GMOs) for the purpose of food and feed production;
+> (c) feed and feed safety at any stage of production, processing and distribution of feed and the use of […truncated by emendrix: 2291 characters omitted…]
+
+*after* (`02017R0625-20220128`)
+
+> Article 1
+> Subject matter and scope
+> 1. This Regulation lays down rules for:
+> (a) the performance of official controls and other official activities by the competent authorities of the Member States;
+> (b) the financing of official controls;
+> (c) the administrative assistance and cooperation between Member States in view of the correct application of the rules referred to in paragraph 2;
+> (d) the performance of controls by the Commission in Member States and in third countries;
+> (e) the adoption of conditions to be fulfilled with respect to animals and goods entering the Union from a third country;
+> (f) the establishment of a computerised information system to manage information and data in relation to official controls.
+> 2. This Regulation shall apply to the official controls performed for the verification of compliance with the rules, whether established at Union level or by the Member States, to apply Union legislation, in the areas of:
+> (a) food and food safety, integrity and wholesomeness at any stage of production, processing and distribution of food, including rules aimed at ensuring fair practices in trade and protecting consumer interests and information, and the manufacture and use of materials and articles intended to come into contact with food;
+> (b) deliberate release into the environment of Genetically Modified Organisms (GMOs) for the purpose of food and feed production;
+> (c) feed and feed safety at any stage of production, processing and distribution of feed and the use of […truncated by emendrix: 2430 characters omitted…]
+
+**MODIFIED · Art. 18** · applies from: unknown
+
+*amended by* `32021R1756`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32021R1756`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0625-20220128 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20211028 -->
 ## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
 ### `02017R0625-20191214` → `02017R0625-20211028`
