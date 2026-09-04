@@ -1,0 +1,1054 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0426",
+    "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+  },
+  "from_version": "32016R0426",
+  "to_version": "02016R0426-20260529",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-05-29"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 6,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 51,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) appliances means appliances burning gaseous fuels used for cooking, refrigeration, air-conditioning, space heating, hot water production, lighting or washing, and also forced draught burners and heating bodies to be equipped with such burners;\n(2) fittings means safety devices, controlling devices or regulating devices and sub-assemblies thereof, designed to be incorporated into an appliance or to be assembled to constitute an appliance;\n(3) burning means a process in which gaseous fuel reacts with oxygen producing heat or light;\n(4) washing means the entire washing process, including drying and ironing;\n(5) cooking means the art or practice of preparing or warming food for consumption with the use of heat and employing a wide range of methods;\n(6) gaseous fuel means any fuel which is in a gaseous state at a temperature of 15 °C under an absolute pressure of 1 bar;\n(7) industrial process means the extraction, growth, refining, processing, production, manufacture or preparation of materials, plants, livestock, animal products, food or other products with a view to their commercial use;\n(8) industrial premises means any place where the main activity carried out is an industrial process that would be subject to specific national health and safety regulations;\n(9) gas family means a group of gaseous fuels with similar burning behaviour linked together by a range of Wobbe indices;\n(10) gas group means a specified range of Wobbe indices within that of the gas family concerned;\n(11) Wobbe index means an indicator of the interchangeability of fuel gases used to compare the combustion energy output of different composition fuel gases in an appliance;\n(12) appliance category means the identification of gas families and/or gas groups that an appliance is designed to burn safely and at the desired performance level, as indicated by the appliance category marking;\n(13) energy efficiency means the ratio of output of performance of an appliance to input of energy;\n(14) making available on the market means any supply of an appliance or a fitting for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(15) placing on the market means the first making available of an appliance or a fitting on the Union market;\n(16) putting into service means the first use of an appliance in the Union by its end-user;\n(17) manufacturer means any natural or legal person who manufactures an appliance or a fitting or who has an appliance or a fitting designed or manufactured, and markets that appliance or fitting under his name or trademark or uses the appliance for his own purposes;\n(18) authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n(19) importer means any natural or legal person established within the Union who places an appliance or a fitting from a third country on the Union market;\n(20) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes an appliance or a fitting available on the market;\n(21) economic operators means the manufacturer, the authorised representative, the importer and the distributor;\n(22) technical specification means a document that prescribes technical requirements to be fulfilled by an appliance or a fitting;\n(23) harmonised standard means a harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;\n(24) accreditation means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;\n(25) national accreditation body means a national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;\n(26) conformity assessment means the process demonstrating whether the essential requirements of this Regulation relating to an appliance or a fitting have been fulfilled;\n(27) conformity assessment body means a body that performs conformity assessment activities including calibration, testing, certification and inspection;\n(28) recall means any measure aimed at achieving the return of an appliance that has already been made available to the end-user or of a fitting that has already been made available to an appliance manufacturer;\n(29) withdrawal means any measure aimed at preventing an appliance or a fitting in the supply chain from being made available on the market;\n(30) Union harmonisation legislation means any Union legislation harmonising the conditions for the marketing of products;\n(31) CE marking means a marking by which the manufacturer indicates that the appliance or the fitting is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.",
+        "after": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) appliances means appliances burning gaseous fuels used for cooking, refrigeration, air-conditioning, space heating, hot water production, lighting or washing, and also forced draught burners and heating bodies to be equipped with such burners;\n(2) fittings means safety devices, controlling devices or regulating devices and sub-assemblies thereof, designed to be incorporated into an appliance or to be assembled to constitute an appliance;\n(3) burning means a process in which gaseous fuel reacts with oxygen producing heat or light;\n(4) washing means the entire washing process, including drying and ironing;\n(5) cooking means the art or practice of preparing or warming food for consumption with the use of heat and employing a wide range of methods;\n(6) gaseous fuel means any fuel which is in a gaseous state at a temperature of 15 °C under an absolute pressure of 1 bar;\n(7) industrial process means the extraction, growth, refining, processing, production, manufacture or preparation of materials, plants, livestock, animal products, food or other products with a view to their commercial use;\n(8) industrial premises means any place where the main activity carried out is an industrial process that would be subject to specific national health and safety regulations;\n(9) gas family means a group of gaseous fuels with similar burning behaviour linked together by a range of Wobbe indices;\n(10) gas group means a specified range of Wobbe indices within that of the gas family concerned;\n(11) Wobbe index means an indicator of the interchangeability of fuel gases used to compare the combustion energy output of different composition fuel gases in an appliance;\n(12) appliance category means the identification of gas families and/or gas groups that an appliance is designed to burn safely and at the desired performance level, as indicated by the appliance category marking;\n(13) energy efficiency means the ratio of output of performance of an appliance to input of energy;\n(14) making available on the market means any supply of an appliance or a fitting for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(15) placing on the market means the first making available of an appliance or a fitting on the Union market;\n(16) putting into service means the first use of an appliance in the Union by its end-user;\n(17) manufacturer means any natural or legal person who manufactures an appliance or a fitting or who has an appliance or a fitting designed or manufactured, and markets that appliance or fitting under his name or trademark or uses the appliance for his own purposes;\n(18) authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n(19) importer means any natural or legal person established within the Union who places an appliance or a fitting from a third country on the Union market;\n(20) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes an appliance or a fitting available on the market;\n(21) economic operators means the manufacturer, the authorised representative, the importer and the distributor;\n(22) technical specification means a document that prescribes technical requirements to be fulfilled by an appliance or a fitting;\n(23) harmonised standard means a harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;\n(24) accreditation means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;\n(25) national accreditation body means a national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;\n(26) conformity assessment means the process demonstrating whether the essential requirements of this Regulation relating to an appliance or a fitting have been fulfilled;\n(27) conformity assessment body means a body that performs conformity assessment activities including calibration, testing, certification and inspection;\n(28) recall means any measure aimed at achieving the return of an appliance that has already been made available to the end-user or of a fitting that has already been made available to an appliance manufacturer;\n(29) withdrawal means any measure aimed at preventing an appliance or a fitting in the supply chain from being made available on the market;\n(30) Union harmonisation legislation means any Union legislation harmonising the conditions for the marketing of products;\n(31) CE marking means a marking by which the manufacturer indicates that the appliance or the fitting is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;\n(32) crisis-relevant goods means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council\nRegulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).;\n(33) internal market emergency mode means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 ALN 1 PO 31",
+          "AR 2 ALN 1 PO 32",
+          "AR 2 ALN 1 PO 33"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-10-09"
+        ],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of definitions gains two new entries: point (32) defining crisis-relevant goods by reference to Article 3, point (6), of Regulation (EU) 2024/2747, and point (33) defining internal market emergency mode by reference to Article 3, point (3), of the same Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_2",
+              "label": "Art. 2, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The prior version ended its list of definitions at point (31), the CE marking definition, without any reference to crisis-relevant goods or internal market emergency mode.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "32016R0426",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0426#art_2",
+              "label": "Art. 2, 32016R0426"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 40a"
+        },
+        "heading": "Application of emergency procedures",
+        "before": null,
+        "after": "Article 40a\nApplication of emergency procedures\n1. Articles 40b to 40e of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to appliances and fittings covered by this Regulation.\n2. Articles 40b to 40e of this Regulation shall apply only to appliances and fittings which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.\n3. Articles 40b to 40e of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.\nHowever, Article 40c(7) of this Regulation shall apply during the internal market emergency mode and after its expiry or deactivation.\n4. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to appliances and fittings placed on the market or used for the manufacturer’s own purposes in accordance with Articles 40c and 40d. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(3).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 40a has been added, setting out conditions under which Articles 40b to 40e apply: an implementing act adopted under Article 28 of Regulation (EU) 2024/2747 covering the relevant appliances and fittings, a designation of those goods as crisis-relevant under Article 18(4) of that Regulation, and an activated internal market emergency mode under Article 18 of that Regulation, with Article 40c(7) stated to continue applying during that emergency mode and after its expiry or deactivation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40a",
+              "label": "Art. 40a, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The new article also gives the Commission power to adopt implementing acts on corrective or restrictive actions, procedures, and specific labelling and traceability requirements for appliances and fittings placed on the market or used for the manufacturer's own purposes under Articles 40c and 40d, to be adopted under the examination procedure referred to in Article 42(3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40a",
+              "label": "Art. 40a, 02016R0426-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 40b"
+        },
+        "heading": "Prioritisation of the conformity assessment of appliances and fittings designated as crisis-relevant goods",
+        "before": null,
+        "after": "Article 40b\nPrioritisation of the conformity assessment of appliances and fittings designated as crisis-relevant goods\n1. This Article applies to all appliances and fittings listed in the implementing act referred to in Article 40a(1) that are subject to the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body.\n2. The notified bodies shall make best efforts to process as a matter of priority all applications for a conformity assessment of appliances and fittings referred to in paragraph 1 of this Article, irrespective of whether those applications have been lodged before or after the activation of the emergency procedures pursuant to Article 40a.\n3. The prioritisation of applications for a conformity assessment of appliances and fittings pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those applications.\n4. The notified bodies shall make reasonable efforts to increase their testing capacities for appliances and fittings referred to in paragraph 1 in respect of which they have been notified.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This new provision sets out that notified bodies must give priority processing to conformity assessment applications for appliances and fittings designated as crisis-relevant goods, regardless of when those applications were lodged relative to activation of the emergency procedures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40b",
+              "label": "Art. 40b, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It further states that this prioritisation must not cause additional disproportionate costs for manufacturers, and that notified bodies must make reasonable efforts to increase their testing capacities for the affected appliances and fittings.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40b",
+              "label": "Art. 40b, 02016R0426-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 40c"
+        },
+        "heading": "Derogation from the conformity assessment procedures requiring the mandatory involvement of a notified body",
+        "before": null,
+        "after": "Article 40c\nDerogation from the conformity assessment procedures requiring the mandatory involvement of a notified body\n1. By way of derogation from Article 14, a Member State may authorise, on a duly justified request from an economic operator, the placing on the market or use for the manufacturer’s own purposes within the territory of that Member State, of a specific appliance or fitting listed in the implementing act referred to in Article 40a(1) and for which the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body have not been carried out but for which the compliance with all the applicable essential requirements laid down in Annex I has been demonstrated in accordance with procedures referred to in that authorisation.\n2. The Member State shall immediately inform the Commission and the other Member States of any authorisation granted in accordance with paragraph 1 of this Article. Provided that the requirements set out in the authorisation ensure conformity with the applicable essential requirements laid down in Annex I, the Commission shall adopt, without delay, an implementing act extending the validity of the authorisation granted by a Member State in accordance with paragraph 1 of this Article to the territory of the whole Union and shall set out the conditions under which the specific appliance or fitting may be placed on the market or used for the manufacturer’s own purposes. When preparing the draft implementing act, the Commission may request national market surveillance authorities to provide relevant information or comments regarding the technical assessment that served as the basis for the authorisation referred to in paragraph 1 of this Article. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 42(3).\nThe appliance or fitting subject to the extension of validity referred to in the first subparagraph shall bear the information that it is placed on the market or used for the manufacturer’s own purposes as a crisis-relevant good. The implementing act referred to in the first subparagraph shall specify the content and presentation of that information. That information, as well as any labelling, shall be clear, understandable and intelligible and, where relevant, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.\n3. On duly justified imperative grounds of urgency relating to the need to preserve the health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 42(4).\n4. As long as an implementing act as referred to in paragraph 2 or 3 is not adopted, the authorisation granted by a competent national authority in one Member State shall be valid only on the territory of that Member State, and on the territories of any other Member States whose competent national authorities have recognised the validity of that authorisation before the adoption of such an implementing act. Member States shall inform the Commission and the other Member States of any decision to recognise the validity of that authorisation.\n5. Manufacturers of appliances or fittings subject to the authorisation procedure referred to in paragraph 1 shall declare on their sole responsibility that the appliance or the fitting concerned complies with all the applicable essential requirements set out in Annex I and shall be responsible for the fulfilment of all the conformity assessment procedures indicated by the competent national authority.\n6. Any authorisation issued pursuant to paragraph 1 shall set out the conditions and requirements under which the appliance or fitting may be placed on the market or used for the manufacturer’s own purposes. Such authorisations shall set out at least the following:\n(a) a description of the procedures, by means of which compliance with the applicable essential requirements set out in Annex I to this Regulation was successfully demonstrated;\n(b) any specific requirements regarding the traceability of the appliance or fitting concerned;\n(c) an end date of validity of the authorisation, which cannot go beyond the last day of the period for which the internal market emergency mode has been activated in accordance with Article 18 of Regulation (EU) 2024/2747;\n(d) any specific requirements regarding the need to ensure a continuous conformity assessment with respect to the appliance or fitting concerned;\n(e) measures to be taken upon expiry or deactivation of the internal market emergency mode with respect to the appliance or fitting concerned that has been placed on the market or used for the manufacturer’s own purposes.\n7. By way of derogation from Articles 6, 16 and 17, appliances or fittings for which an authorisation has been granted in accordance with paragraph 1 of this Article shall not bear the CE marking and Article 6 shall not apply.\n8. The market surveillance authorities of a Member State, where an authorisation pursuant to paragraphs 1, 2 and 4 of this Article is valid shall be entitled, with respect to such appliances or fittings, to take all corrective and restrictive actions at national level provided for under Regulation (EU) 2019/1020 of the European Parliament and of the Council\nRegulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1). and under this Regulation. They shall immediately inform the Commission and the market surveillance authorities of all other Member States of these actions.\n9. The use of the authorisation procedure set out in paragraphs 1 to 4 of this Article shall not affect the application on the territory of the Member State concerned of the relevant conformity assessment procedures laid down in Article 14.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a new provision setting out a derogation procedure allowing a Member State to authorise placing on the market or use of a specific appliance or fitting without the notified-body conformity assessment otherwise required, subject to conditions, Commission review, and eventual extension of validity across the Union.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40c",
+              "label": "Art. 40c, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also specifies obligations on manufacturers, content requirements for any such authorisation, marking rules excluding CE marking, and market surveillance powers tied to authorisations granted under this article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40c",
+              "label": "Art. 40c, 02016R0426-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 40d"
+        },
+        "heading": "Presumption of conformity based on standards and common specifications",
+        "before": null,
+        "after": "Article 40d\nPresumption of conformity based on standards and common specifications\n1. Where appliances or fittings have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications for such appliances or fittings to cover the applicable essential requirements set out in Annex I to this Regulation in the following cases:\n(a) where a reference to harmonised standards covering the applicable essential requirements set out in Annex I to this Regulation has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period; or\n(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that cover the applicable essential requirements set out in Annex I to this Regulation and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.\n2. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing a presumption of conformity in accordance with paragraph 5. To that end, references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.\n3. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 42(3) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.\n4. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Regulation and shall duly consult all relevant stakeholders.\n5. Without prejudice to Article 13, appliances or fittings that are in conformity with the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, shall be presumed to be in conformity with the applicable essential requirements set out in Annex I that are covered by those standards, common specifications or parts thereof. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible for manufacturers to rely on the presumption of conformity provided by the standards or the common specifications referred to in the implementing acts referred to in paragraph 1 of this Article.\n6. By way of derogation from Article 40a(3), first subparagraph, unless there is sufficient reason to believe that the appliances or fittings covered by the standards or common specifications referred to in paragraph 1 of this Article present a risk to the health or safety of persons, the appliances or fittings that are in conformity with those standards or common specifications and which have been placed on the market or used for the manufacturer’s own purposes shall be deemed to be in conformity with the applicable essential requirements set out in Annex I after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.\n7. When a Member State considers that a standard or common specification as referred to in paragraph 1 does not entirely satisfy the applicable essential requirements set out in Annex I, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article establishing a mechanism by which the Commission may adopt implementing acts listing standards or establishing common specifications for appliances or fittings designated as crisis-relevant goods, applicable when harmonised standards are missing or when disruptions from an activated internal market emergency mode restrict use of existing harmonised standards.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40d",
+              "label": "Art. 40d, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The provision sets out procedural steps for adopting and reviewing such acts, the duration of their application tied to the internal market emergency mode, the resulting presumption of conformity and its cessation, and a Member State mechanism for flagging inadequacies in a listed standard or specification to the Commission.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40d",
+              "label": "Art. 40d, 02016R0426-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "AR 40e"
+        },
+        "heading": "Prioritisation of market surveillance activities and mutual assistance among authorities",
+        "before": null,
+        "after": "Article 40e\nPrioritisation of market surveillance activities and mutual assistance among authorities\n1. Member States shall prioritise the market surveillance activities for appliances and fittings listed in the implementing act referred to in Article 40a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.\n2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for appliances and fittings listed in the implementing act referred to in Article 40a(1).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 004 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new Article 40e has been added, requiring Member States to prioritise market surveillance activities for appliances and fittings listed in the implementing act referred to in Article 40a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network under Regulation (EU) 2019/1020.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40e",
+              "label": "Art. 40e, 02016R0426-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also has market surveillance authorities of the Member States making best efforts to assist other such authorities during an internal market emergency mode, including through mobilising and dispatching expert teams or providing logistical support such as reinforced testing capacity for the same listed appliances and fittings.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0426",
+                  "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0426-20260529",
+                "location": "AR 40e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40e",
+              "label": "Art. 40e, 02016R0426-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0426",
+            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0426-20260529",
+          "location": "CHA Va"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2748, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0426",
+      "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+    },
+    "from_version": "32016R0426",
+    "to_version": "02016R0426-20260529",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 40a",
+          "AR 40b",
+          "AR 40c",
+          "AR 40d",
+          "AR 40e"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "CHA Va"
+        ],
+        "note": "3 annotations in (the act itself, 2026-05-29]",
+        "claims": [
+          {
+            "location": "CHA Va",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 32",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 33",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 40a",
+          "AR 40b",
+          "AR 40c",
+          "AR 40d",
+          "AR 40e"
+        ],
+        "note": "32024R2748, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 004 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 40e",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 004 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 6,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 40a",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40b",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40c",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40d",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 40e",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "CHA Va",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "CHA Va"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 6,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 21856,
+      "output_tokens": 1703,
+      "requests": 6,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 12,
+    "citations": 12,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
