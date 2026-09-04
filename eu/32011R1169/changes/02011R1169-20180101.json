@@ -1,0 +1,470 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R1169",
+    "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+  },
+  "from_version": "02011R1169-20140219",
+  "to_version": "02011R1169-20180101",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2015-12-31"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 68,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 2
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20180101",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\n1. For the purposes of this Regulation, the following definitions shall apply:\n(a) the definitions of food, food law, food business, food business operator, retail, placing on the market and final consumer in Article 2 and in points (1), (2), (3), (7), (8) and (18) of Article 3 of Regulation (EC) No 178/2002;\n(b) the definitions of processing, unprocessed products and processed products in points (m), (n) and (o) of Article 2(1) of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs\nOJ L 139, 30.4.2004, p. 1.;\n(c) the definition of food enzyme in point (a) of Article 3(2) of Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes\nOJ L 354, 31.12.2008, p. 7.;\n(d) the definitions of food additive, processing aid and carrier in points (a) and (b) of Article 3(2) of, and in point 5 of Annex I to, Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives\nOJ L 354, 31.12.2008, p. 16.;\n(e) the definition of flavourings in point (a) of Article 3(2) of Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods\nOJ L 354, 31.12.2008, p. 34.;\n(f) the definitions of meat, mechanically separated meat, meat preparations, fishery products and meat products in points 1.1, 1.14, 1.15, 3.1 and 7.1 of Annex I to Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin\nOJ L 139, 30.4.2004, p. 55.;\n(g) the definition of advertising in point (a) of Article 2 of Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising\nOJ L 376, 27.12.2006, p. 21..\n2. The following definitions shall also apply:\n(a) food information means information concerning a food and made available to the final consumer by means of a label, other accompanying material, or any other means including modern technology tools or verbal communication;\n(b) food information law means the Union provisions governing the food information, and in particular labelling, including rules of a general nature applicable to all foods in particular circumstances or to certain categories of foods and rules which apply only to specific foods;\n(c) mandatory food information means the particulars that are required to be provided to the final consumer by Union provisions;\n(d) mass caterer means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;\n(e) prepacked food means any single item for presentation as such to the final consumer and to mass caterers, consisting of a food and the packaging into which it was put before being offered for sale, whether such packaging encloses the food completely or only partially, but in any event in such a way that the contents cannot be altered without opening or changing the packaging; prepacked food does not cover foods packed on the sales premises at the consumer’s request or prepacked for direct sale;\n(f) ingredient means any substance or product, including flavourings, food additives and food enzymes, and any constituent of a compound ingredient, used in the manufacture or preparation of a food and still present in the finished product, even if in an altered form; residues shall not be considered as ingredients;\n(g) place of provenance means any place where a food is indicated to come from, and that is not the country of origin as determined in accordance with Articles 23 to 26 of Regulation (EEC) No 2913/92; the name, business name or address of the food business operator on the label shall not constitute an indication of the country of origin or place of provenance of food within the meaning of this Regulation;\n(h) compound ingredient means an ingredient that is itself the product of more than one ingredient;\n(i) label means any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to the packaging or container of food;\n(j) labelling means any words, particulars, trade marks, brand name, pictorial matter or symbol relating to a food and placed on any packaging, document, notice, label, ring or collar accompanying or referring to such food;\n(k) field of vision means all the surfaces of a package that can be read from a single viewing point;\n(l) principal field of vision means the field of vision of a package which is most likely to be seen at first glance by the consumer at the time of purchase and that enables the consumer to immediately identify a product in terms of its character or nature and, if applicable, its brand name. If a package has several identical principal fields of vision, the principal field of vision is the one chosen by the food business operator;\n(m) legibility means the physical appearance of information, by means of which the information is visually accessible to the general population and which is determined by various elements, inter alia, font size, letter spacing, spacing between lines, stroke width, type colour, typeface, width-height ratio of the letters, the surface of the material and significant contrast between the print and the background;\n(n) legal name means the name of a food prescribed in the Union provisions applicable to it or, in the absence of such Union provisions, the name provided for in the laws, regulations and administrative provisions applicable in the Member State in which the food is sold to the final consumer or to mass caterers;\n(o) customary name means a name which is accepted as the name of the food by consumers in the Member State in which that food is sold, without that name needing further explanation;\n(p) descriptive name means a name providing a description of the food, and if necessary of its use, which is sufficiently clear to enable consumers to know its true nature and distinguish it from other products with which it might be confused;\n(q) primary ingredient means an ingredient or ingredients of a food that represent more than 50 % of that food or which are usually associated with the name of the food by the consumer and for which in most cases a quantitative indication is required;\n(r) date of minimum durability of a food means the date until which the food retains its specific properties when properly stored;\n(s) nutrient means protein, carbohydrate, fat, fibre, sodium, vitamins and minerals listed in point 1 of Part A of Annex XIII to this Regulation, and substances which belong to or are components of one of those categories;\n(t) engineered nanomaterial means any intentionally produced material that has one or more dimensions of the order of 100 nm or less or that is composed of discrete functional parts, either internally or at the surface, many of which have one or more dimensions of the order of 100 nm or less, including structures, agglomerates or aggregates, which may have a size above the order of 100 nm but retain properties that are characteristic of the nanoscale.\nProperties that are characteristic of the nanoscale include:\n(i) those related to the large specific surface area of the materials considered; and/or\n(ii) specific physico-chemical properties that are different from those of the non-nanoform of the same material;\n(u) means of distance communication means any means which, without the simultaneous physical presence of the supplier and the consumer, may be used for the conclusion of a contract between those parties.\n3. For the purposes of this Regulation the country of origin of a food shall refer to the origin of a food as determined in accordance with Articles 23 to 26 of Regulation (EEC) No 2913/92.\n4. The specific definitions set out in Annex I shall also apply.",
+        "after": "Article 2\nDefinitions\n1. For the purposes of this Regulation, the following definitions shall apply:\n(a) the definitions of food, food law, food business, food business operator, retail, placing on the market and final consumer in Article 2 and in points (1), (2), (3), (7), (8) and (18) of Article 3 of Regulation (EC) No 178/2002;\n(b) the definitions of processing, unprocessed products and processed products in points (m), (n) and (o) of Article 2(1) of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs\nOJ L 139, 30.4.2004, p. 1.;\n(c) the definition of food enzyme in point (a) of Article 3(2) of Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes\nOJ L 354, 31.12.2008, p. 7.;\n(d) the definitions of food additive, processing aid and carrier in points (a) and (b) of Article 3(2) of, and in point 5 of Annex I to, Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives\nOJ L 354, 31.12.2008, p. 16.;\n(e) the definition of flavourings in point (a) of Article 3(2) of Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods\nOJ L 354, 31.12.2008, p. 34.;\n(f) the definitions of meat, mechanically separated meat, meat preparations, fishery products and meat products in points 1.1, 1.14, 1.15, 3.1 and 7.1 of Annex I to Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin\nOJ L 139, 30.4.2004, p. 55.;\n(g) the definition of advertising in point (a) of Article 2 of Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising\nOJ L 376, 27.12.2006, p. 21.;\n(h) the definition of engineered nanomaterials as established by point (f) of Article 3(2) of Regulation (EU) 2015/2283 of the European Parliament and of the Council\nRegulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (OJ L 327, 11.12.2015, p. 1)..\n2. The following definitions shall also apply:\n(a) food information means information concerning a food and made available to the final consumer by means of a label, other accompanying material, or any other means including modern technology tools or verbal communication;\n(b) food information law means the Union provisions governing the food information, and in particular labelling, including rules of a general nature applicable to all foods in particular circumstances or to certain categories of foods and rules which apply only to specific foods;\n(c) mandatory food information means the particulars that are required to be provided to the final consumer by Union provisions;\n(d) mass caterer means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;\n(e) prepacked food means any single item for presentation as such to the final consumer and to mass caterers, consisting of a food and the packaging into which it was put before being offered for sale, whether such packaging encloses the food completely or only partially, but in any event in such a way that the contents cannot be altered without opening or changing the packaging; prepacked food does not cover foods packed on the sales premises at the consumer’s request or prepacked for direct sale;\n(f) ingredient means any substance or product, including flavourings, food additives and food enzymes, and any constituent of a compound ingredient, used in the manufacture or preparation of a food and still present in the finished product, even if in an altered form; residues shall not be considered as ingredients;\n(g) place of provenance means any place where a food is indicated to come from, and that is not the country of origin as determined in accordance with Articles 23 to 26 of Regulation (EEC) No 2913/92; the name, business name or address of the food business operator on the label shall not constitute an indication of the country of origin or place of provenance of food within the meaning of this Regulation;\n(h) compound ingredient means an ingredient that is itself the product of more than one ingredient;\n(i) label means any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to the packaging or container of food;\n(j) labelling means any words, particulars, trade marks, brand name, pictorial matter or symbol relating to a food and placed on any packaging, document, notice, label, ring or collar accompanying or referring to such food;\n(k) field of vision means all the surfaces of a package that can be read from a single viewing point;\n(l) principal field of vision means the field of vision of a package which is most likely to be seen at first glance by the consumer at the time of purchase and that enables the consumer to immediately identify a product in terms of its character or nature and, if applicable, its brand name. If a package has several identical principal fields of vision, the principal field of vision is the one chosen by the food business operator;\n(m) legibility means the physical appearance of information, by means of which the information is visually accessible to the general population and which is determined by various elements, inter alia, font size, letter spacing, spacing between lines, stroke width, type colour, typeface, width-height ratio of the letters, the surface of the material and significant contrast between the print and the background;\n(n) legal name means the name of a food prescribed in the Union provisions applicable to it or, in the absence of such Union provisions, the name provided for in the laws, regulations and administrative provisions applicable in the Member State in which the food is sold to the final consumer or to mass caterers;\n(o) customary name means a name which is accepted as the name of the food by consumers in the Member State in which that food is sold, without that name needing further explanation;\n(p) descriptive name means a name providing a description of the food, and if necessary of its use, which is sufficiently clear to enable consumers to know its true nature and distinguish it from other products with which it might be confused;\n(q) primary ingredient means an ingredient or ingredients of a food that represent more than 50 % of that food or which are usually associated with the name of the food by the consumer and for which in most cases a quantitative indication is required;\n(r) date of minimum durability of a food means the date until which the food retains its specific properties when properly stored;\n(s) nutrient means protein, carbohydrate, fat, fibre, sodium, vitamins and minerals listed in point 1 of Part A of Annex XIII to this Regulation, and substances which belong to or are components of one of those categories;\n(t) engineered nanomaterial means any intentionally produced material that has one or more dimensions of the order of 100 nm or less or that is composed of discrete functional parts, either internally or at the surface, many of which have one or more dimensions of the order of 100 nm or less, including structures, agglomerates or aggregates, which may have a size above the order of 100 nm but retain properties that are characteristic of the nanoscale.\nProperties that are characteristic of the nanoscale include:\n(i) those related to the large specific surface area of the materials considered; and/or\n(ii) specific physico-chemical properties that are different from those of the non-nanoform of the same material;\n(u) means of distance communication means any means which, without the simultaneous physical presence of the supplier and the consumer, may be used for the conclusion of a contract between those parties.\n3. For the purposes of this Regulation the country of origin of a food shall refer to the origin of a food as determined in accordance with Articles 23 to 26 of Regulation (EEC) No 2913/92.\n4. The specific definitions set out in Annex I shall also apply.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 PA 1 ALN 1 PTA (g)",
+          "AR 2 PA 1 ALN 1 PTA (h)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2015-11-25"
+        ],
+        "in_force": "2015-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015R2283 A; 32015R2283 C",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 033 (1); AR 033 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20180101",
+          "location": "AR 18"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32015R2283",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2015-12-31",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32015R2283 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 033 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20180101",
+          "location": "AN VI"
+        },
+        "heading": "ANNEX VI",
+        "before": "ANNEX VI\nNAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS\nPART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD\n1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.\n2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.\nThis requirement shall not apply to the following:\n(a) ingredients present in the final product;\n(b) foods for which freezing is a technologically necessary step of the production process;\n(c) foods for which the defrosting has no negative impact on the safety or quality of the food.\nThis point shall apply without prejudice to point 1.\n3. Foods treated with ionising radiation shall bear one of the following indications:\nirradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation\nOJ L 66, 13.3.1999, p. 16..\n4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted with a different component or ingredient, the labelling shall bear — in addition to the list of ingredients — a clear indication of the component or the ingredient that has been used for the partial or whole substitution:\n(a) in close proximity to the name of the product; and\n(b) using a font size which has an x-height of at least 75 % of the x-height of the name of the product and which is not smaller than the minimum font size required in Article 13(2) of this Regulation.\n5. In the case of meat products, meat preparations and fishery products containing added proteins as such, including hydrolysed proteins, of a different animal origin, the name of the food shall bear an indication of the presence of those proteins and of their origin.\n6. In the case of meat products and meat preparations which have the appearance of a cut, joint, slice, portion or carcase of meat, the name of the food shall include an indication of the presence of added water if the added water makes up more than 5 % of the weight of the finished product. The same rules shall apply in the case of fishery products and prepared fishery products which have the appearance of a cut, joint, slice, portion, filet or of a whole fishery product.\n7. Meat products, meat preparations and fishery products which may give the impression that they are made of a whole piece of meat or fish, but actually consist of different pieces combined together by other ingredients, including food additives and food enzymes or by other means, shall bear the following indication:\nin Bulgarian\nформовано месо and формована риба;\nin Spanish\nelaborado a partir de piezas de carne and elaborado a partir de piezas de pescado;\nin Czech\nze spojovaných kousků masa and ze spojovaných kousků rybího masa;\nin Danish\nSammensat af stykker af kød and Sammensat af stykker af fisk;\nin German\naus Fleischstücken zusammengefügt and aus Fischstücken zusammengefügt;\nin Estonian\nliidetud liha and liidetud kala;\nin Greek\nμορφοποιημένο κρέας and μορφοποιημένο ψάρι;\nin English\nformed meat and formed fish;\nin French\nviande reconstituée and poisson reconstitué;\nin Irish\npíosaí feola ceangailte and píosaí éisc ceangailte;\nin Italian\ncarne ricomposta and pesce ricomposto;\nin Latvian\nformēta gaļa and formēta zivs;\nin Lithuanian\nsudarytas (-a) iš mėsos gabalų and sudarytas (-a) iš žuvies gabalų;\nin Hungarian\ndarabokból újraformázott hús and darabokból újraformázott hal;\nin Maltese\nlaħam rikostitwit and ħut rikostitwit;\nin Dutch\nsamengesteld uit stukjes vlees and samengesteld uit stukjes vis;\nin Polish\nz połączonych kawałków mięsa and z połączonych kawałków ryby;\nin Portuguese\ncarne reconstituída and peixe reconstituído;\nin Romanian\ncarne formată and carne de pește formată;\nin Slovak\nzo spájaných kúskov mäsa and zo spájaných kúskov ryby;\nin Slovenian\nsestavljeno, iz koščkov oblikovano meso and sestavljene, iz koščkov oblikovane ribe;\nin Finnish\npaloista yhdistetty liha and paloista yhdistetty kala;\nin Swedish\nsammanfogade bitar av kött and sammanfogade bitar av fisk.\nPART B — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF MINCED MEAT\n1. Composition criteria checked on the basis of a daily average:\nThe collagen/meat protein ratio is expressed as the percentage of collagen in meat protein. The collagen content means the hydroxyproline content multiplied by a factor of 8.\nFat content Collagen/meat protein ratio\n— lean minced meat, ≤ 7 % ≤ 12 %\n— minced pure beef, ≤ 20 % ≤ 15 %\n— minced meat containing pigmeat, ≤ 30 % ≤ 18 %\n— minced meat of other species, ≤ 25 % ≤ 15 %\n2. In addition to the requirements laid down in Chapter IV of Section V of Annex III to Regulation (EC) No 853/2004, the following expressions shall appear on the labelling:\npercentage of fat content under …,\ncollagen/meat protein ratio under …,\n3. The Member States may allow the placing on their national market of minced meat which does not comply with the criteria laid down in point 1 of this Part under a national mark that cannot be confused with the marks provided for in Article 5(1) of Regulation (EC) No 853/2004.\nPART C — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF SAUSAGE CASINGS\nIf a sausage casing is not edible, this must be indicated.",
+        "after": "ANNEX VI\nNAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS\nPART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD\n1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.\n2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.\nThis requirement shall not apply to the following:\n(a) ingredients present in the final product;\n(b) foods for which freezing is a technologically necessary step of the production process;\n(c) foods for which the defrosting has no negative impact on the safety or quality of the food.\nThis point shall apply without prejudice to point 1.\n3. Foods treated with ionising radiation shall bear one of the following indications:\nirradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation\nOJ L 66, 13.3.1999, p. 16..\n4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted with a different component or ingredient, the labelling shall bear — in addition to the list of ingredients — a clear indication of the component or the ingredient that has been used for the partial or whole substitution:\n(a) in close proximity to the name of the product; and\n(b) using a font size which has an x-height of at least 75 % of the x-height of the name of the product and which is not smaller than the minimum font size required in Article 13(2) of this Regulation.\n5. In the case of meat products, meat preparations and fishery products containing added proteins as such, including hydrolysed proteins, of a different animal origin, the name of the food shall bear an indication of the presence of those proteins and of their origin.\n6. In the case of meat products and meat preparations which have the appearance of a cut, joint, slice, portion or carcase of meat, the name of the food shall include an indication of the presence of added water if the added water makes up more than 5 % of the weight of the finished product. The same rules shall apply in the case of fishery products and prepared fishery products which have the appearance of a cut, joint, slice, portion, filet or of a whole fishery product.\n7. Meat products, meat preparations and fishery products which may give the impression that they are made of a whole piece of meat or fish, but actually consist of different pieces combined together by other ingredients, including food additives and food enzymes or by other means, shall bear the following indication:\nin Bulgarian\nформовано месо and формована риба;\nin Spanish\nelaborado a partir de piezas de carne and elaborado a partir de piezas de pescado;\nin Czech\nze spojovaných kousků masa and ze spojovaných kousků rybího masa;\nin Danish\nSammensat af stykker af kød and Sammensat af stykker af fisk;\nin German\naus Fleischstücken zusammengefügt and aus Fischstücken zusammengefügt;\nin Estonian\nliidetud liha and liidetud kala;\nin Greek\nμορφοποιημένο κρέας and μορφοποιημένο ψάρι;\nin English\nformed meat and formed fish;\nin French\nviande reconstituée and poisson reconstitué;\nin Irish\npíosaí feola ceangailte and píosaí éisc ceangailte;\nin Italian\ncostituito da parti di carne and costituito da parti di pesce;\nin Latvian\nformēta gaļa and formēta zivs;\nin Lithuanian\nsudarytas (-a) iš mėsos gabalų and sudarytas (-a) iš žuvies gabalų;\nin Hungarian\ndarabokból újraformázott hús and darabokból újraformázott hal;\nin Maltese\nlaħam rikostitwit and ħut rikostitwit;\nin Dutch\nsamengesteld uit stukjes vlees and samengesteld uit stukjes vis;\nin Polish\nz połączonych kawałków mięsa and z połączonych kawałków ryby;\nin Portuguese\ncarne reconstituída and peixe reconstituído;\nin Romanian\ncarne formată and carne de pește formată;\nin Slovak\nzo spájaných kúskov mäsa and zo spájaných kúskov ryby;\nin Slovenian\nsestavljeno, iz koščkov oblikovano meso and sestavljene, iz koščkov oblikovane ribe;\nin Finnish\npaloista yhdistetty liha and paloista yhdistetty kala;\nin Swedish\nsammanfogade bitar av kött and sammanfogade bitar av fisk.\nPART B — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF MINCED MEAT\n1. Composition criteria checked on the basis of a daily average:\nThe collagen/meat protein ratio is expressed as the percentage of collagen in meat protein. The collagen content means the hydroxyproline content multiplied by a factor of 8.\nFat content Collagen/meat protein ratio\n— lean minced meat, ≤ 7 % ≤ 12 %\n— minced pure beef, ≤ 20 % ≤ 15 %\n— minced meat containing pigmeat, ≤ 30 % ≤ 18 %\n— minced meat of other species, ≤ 25 % ≤ 15 %\n2. In addition to the requirements laid down in Chapter IV of Section V of Annex III to Regulation (EC) No 853/2004, the following expressions shall appear on the labelling:\npercentage of fat content under …,\ncollagen/meat protein ratio under …,\n3. The Member States may allow the placing on their national market of minced meat which does not comply with the criteria laid down in point 1 of this Part under a national mark that cannot be confused with the marks provided for in Article 5(1) of Regulation (EC) No 853/2004.\nPART C — SPECIFIC REQUIREMENTS CONCERNING THE DESIGNATION OF SAUSAGE CASINGS\nIf a sausage casing is not edible, this must be indicated.",
+        "previous_location": null,
+        "changed_within": [
+          "AN VI PO 7"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2014-02-19, 2018-01-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32015R2283, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change in this provision is to the Italian-language indication in point 7 of Part A, where the phrase used for meat or fish made of combined pieces was replaced with a different Italian wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20140219",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI",
+              "label": "Annex VI, 02011R1169-20140219"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20180101",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20180101#anx_VI",
+              "label": "Annex VI, 02011R1169-20180101"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R1169",
+      "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+    },
+    "from_version": "02011R1169-20140219",
+    "to_version": "02011R1169-20180101",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AN VI"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 18"
+        ],
+        "note": "3 annotations in (2014-02-19, 2018-01-01]",
+        "claims": [
+          {
+            "location": "AR 2 PA 2 PO (t)",
+            "change_type": "INSERTED",
+            "in_force": "2015-12-31",
+            "source": "32015R2283 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 18 PA 5",
+            "change_type": "INSERTED",
+            "in_force": "2015-12-31",
+            "source": "32015R2283 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PA 1 PO (h)",
+            "change_type": "MODIFIED",
+            "in_force": "2015-12-31",
+            "source": "32015R2283 C",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 18"
+        ],
+        "note": "32015R2283, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 033 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 2 PA 2 PTA (t)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 033 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 18 PA 5",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 033 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32015R2283",
+              "display_name": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 18",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 18"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 1,
+    "unavailable": 2,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 1,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 6720,
+      "output_tokens": 144,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 2,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

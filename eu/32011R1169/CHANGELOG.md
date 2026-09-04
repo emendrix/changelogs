@@ -10,6 +10,109 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20180101 -->
+## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
+### `02011R1169-20140219` → `02011R1169-20180101`
+
+- **Act** `eu:32011R1169` · **In force** 2015-12-31 · **Detected** 2026-09-04
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Citations** `v1` = `02011R1169-20140219` · `v2` = `02011R1169-20180101`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 2 PA 1 ALN 1 PTA (g)`, `AR 2 PA 1 ALN 1 PTA (h)` · *dates* +2015-11-25 · *amended by* `32015R2283`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02011R1169-20140219`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (a) the definitions of food, food law, food business, food business operator, retail, placing on the market and final consumer in Article 2 and in points (1), (2), (3), (7), (8) and (18) of Article 3 of Regulation (EC) No 178/2002;
+> (b) the definitions of processing, unprocessed products and processed products in points (m), (n) and (o) of Article 2(1) of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+> OJ L 139, 30.4.2004, p. 1.;
+> (c) the definition of food enzyme in point (a) of Article 3(2) of Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes
+> OJ L 354, 31.12.2008, p. 7.;
+> (d) the definitions of food additive, processing aid and carrier in points (a) and (b) of Article 3(2) of, and in point 5 of Annex I to, Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives
+> OJ L 354, 31.12.2008, p. 16.;
+> (e) the definition of flavourings in point (a) of Article 3(2) of Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods
+> OJ L 354, 31.12.2008, p. 34.;
+> (f) the definitions of meat, mechanically separated meat, meat preparations, fishery products and meat products in points […truncated by emendrix: 6633 characters omitted…]
+
+*after* (`02011R1169-20180101`)
+
+> Article 2
+> Definitions
+> 1. For the purposes of this Regulation, the following definitions shall apply:
+> (a) the definitions of food, food law, food business, food business operator, retail, placing on the market and final consumer in Article 2 and in points (1), (2), (3), (7), (8) and (18) of Article 3 of Regulation (EC) No 178/2002;
+> (b) the definitions of processing, unprocessed products and processed products in points (m), (n) and (o) of Article 2(1) of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+> OJ L 139, 30.4.2004, p. 1.;
+> (c) the definition of food enzyme in point (a) of Article 3(2) of Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes
+> OJ L 354, 31.12.2008, p. 7.;
+> (d) the definitions of food additive, processing aid and carrier in points (a) and (b) of Article 3(2) of, and in point 5 of Annex I to, Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives
+> OJ L 354, 31.12.2008, p. 16.;
+> (e) the definition of flavourings in point (a) of Article 3(2) of Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods
+> OJ L 354, 31.12.2008, p. 34.;
+> (f) the definitions of meat, mechanically separated meat, meat preparations, fishery products and meat products in points […truncated by emendrix: 7152 characters omitted…]
+
+**MODIFIED · Art. 18** · applies from: unknown
+
+*amended by* `32015R2283`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
+
+*within* `AN VI PO 7`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The only change in this provision is to the Italian-language indication in point 7 of Part A, where the phrase used for meat or fish made of combined pieces was replaced with a different Italian wording. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20180101#anx_VI)
+
+*before* (`02011R1169-20140219`)
+
+> ANNEX VI
+> NAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS
+> PART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD
+> 1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.
+> 2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.
+> This requirement shall not apply to the following:
+> (a) ingredients present in the final product;
+> (b) foods for which freezing is a technologically necessary step of the production process;
+> (c) foods for which the defrosting has no negative impact on the safety or quality of the food.
+> This point shall apply without prejudice to point 1.
+> 3. Foods treated with ionising radiation shall bear one of the following indications:
+> irradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation
+> OJ L 66, 13.3.1999, p. 16..
+> 4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted wi […truncated by emendrix: 4199 characters omitted…]
+
+*after* (`02011R1169-20180101`)
+
+> ANNEX VI
+> NAME OF THE FOOD AND SPECIFIC ACCOMPANYING PARTICULARS
+> PART A — MANDATORY PARTICULARS ACCOMPANYING THE NAME OF THE FOOD
+> 1. The name of the food shall include or be accompanied by particulars as to the physical condition of the food or the specific treatment which it has undergone (for example, powdered, refrozen, freeze-dried, quick-frozen, concentrated, smoked) in all cases where omission of such information could mislead the purchaser.
+> 2. In the case of foods that have been frozen before sale and which are sold defrosted, the name of the food shall be accompanied by the designation defrosted.
+> This requirement shall not apply to the following:
+> (a) ingredients present in the final product;
+> (b) foods for which freezing is a technologically necessary step of the production process;
+> (c) foods for which the defrosting has no negative impact on the safety or quality of the food.
+> This point shall apply without prejudice to point 1.
+> 3. Foods treated with ionising radiation shall bear one of the following indications:
+> irradiated or treated with ionising radiation, and other indications as stated in Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation
+> OJ L 66, 13.3.1999, p. 16..
+> 4. In the case of foods in which a component or ingredient that consumers expect to be normally used or naturally present has been substituted wi […truncated by emendrix: 4223 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R1169-20180101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R1169-20140219 -->
 ## Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food […]
 ### `02011R1169-20131206` → `02011R1169-20140219`
