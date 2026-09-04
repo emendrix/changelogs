@@ -1072,6 +1072,16 @@ The prior sentence stating that such investigations shall comply with requiremen
 > Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
 > 2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.
 
+**MODIFIED · Art. 47** · applies from: unknown
+
+*amended by* `32017R0625`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
 **MODIFIED · Art. 49 — Temporary measures concerning plants, plant products and other objects likely to pose newly identified pest risks or other suspected phytosanitary risks** · applies from: unchanged
 
 *within* `AR 49 PA 6 ALN 3` · *amended by* `32017R0625`
@@ -1410,16 +1420,6 @@ The list of excepted articles and annex that previously appeared in Art. 109(1)(
 > (e) Directive 2006/91/EC;
 > (f) Directive 2007/33/EC.
 > 3. References to the acts repealed in accordance with paragraphs 1 and 2 shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IX.
-
-**MODIFIED · Art. 165** · applies from: unknown
-
-*amended by* `32017R0625`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Annex VIII — ANNEX VIII** · applies from: unchanged
 
