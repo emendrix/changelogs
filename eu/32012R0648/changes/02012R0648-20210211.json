@@ -15,21 +15,21 @@
   "diff_only": false,
   "summary": {
     "inserted": 3,
-    "modified": 7,
+    "modified": 6,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 10,
+    "touched_units": 9,
     "unchanged_units": 125,
-    "disputed": 9
+    "disputed": 8
   },
   "counts": {
-    "touched": 10,
-    "substantive": 10,
+    "touched": 9,
+    "substantive": 9,
     "date_only": 0,
-    "disputed": 9,
+    "disputed": 8,
     "quoted": 0,
-    "unexplained": 8
+    "unexplained": 7
   },
   "changes": [
     {
@@ -52,7 +52,13 @@
           "AR 1 PA 4 ALN 1 PTA (c) PTI (viii)",
           "AR 1 PA 4 ALN 1 PTA (c) PTI (ix)"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32021R0023",
+            "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
+          }
+        ],
         "dates_removed": [],
         "dates_added": [],
         "in_force": null,
@@ -73,9 +79,11 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R0023, 0.938 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 093",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
         "disputed": true
@@ -135,7 +143,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -192,7 +201,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -292,7 +302,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -349,7 +360,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -406,7 +418,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -463,7 +476,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -520,7 +534,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -577,7 +592,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -634,64 +650,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0648",
-            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
-          },
-          "version": "02012R0648-20210211",
-          "location": "AR 93"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0023",
-            "display_name": "Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2020-06-18, 2021-02-11]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 093",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -738,6 +698,7 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
+          "AR 1",
           "AR 6b",
           "AR 13a",
           "AR 24a",
@@ -745,8 +706,7 @@
           "AR 37",
           "AR 38",
           "AR 45a",
-          "AR 81",
-          "AR 93"
+          "AR 81"
         ],
         "note": "32021R0023, 0.938 of its instruction clauses read",
         "claims": [
@@ -850,7 +810,7 @@
             }
           },
           {
-            "location": "AR 93",
+            "location": "AR 1",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 093",
@@ -880,10 +840,10 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 9,
-        "shared": 1,
-        "precision": 0.5,
-        "recall": 0.1111111111111111,
-        "f1": 0.1818181818181818,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 0.2222222222222222,
+        "f1": 0.3636363636363636,
         "kind_mismatches": 0
       },
       {
@@ -901,17 +861,23 @@
     "disagreements": [
       {
         "unit": "AR 1",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
-          "structural_diff"
+          "structural_diff",
+          "instruction_parse"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
             "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -1050,25 +1016,6 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "AR 93",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
@@ -1078,8 +1025,7 @@
       "AR 37",
       "AR 38",
       "AR 45a",
-      "AR 81",
-      "AR 93"
+      "AR 81"
     ]
   },
   "explain": {
@@ -1091,6 +1037,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 7011,
       "output_tokens": 539,
@@ -1110,5 +1059,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 10,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
