@@ -842,7 +842,7 @@ The two subsequent paragraphs on adverse effects on fertility and on development
 
 *within* `AN XI SCT 1 SCT 1.1`, `AN XI SCT 1 SCT 1.1 SCT 1.1.1`, `AN XI SCT 1 SCT 1.2`, `AN XI SCT 1 SCT 1.5`, `AN XI SCT 1 SCT 1.5 PO 2`, `AN XI SCT 3 SCT 3.1`, `AN XI SCT 3 SCT 3.2 PTA (a) PTI (ii)` · *dates* +2008-06-01 · *amended by* `32021R0979`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02006R1907-20211001`)
 
