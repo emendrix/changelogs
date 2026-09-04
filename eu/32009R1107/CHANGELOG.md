@@ -10,6 +10,131 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20190715 -->
+## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
+### `02009R1107-20181110` → `02009R1107-20190715`
+
+- **Act** `eu:32009R1107` · **In force** 2019-07-15 · **Detected** 2026-09-04
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 86 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1107-20181110` · `v2` = `02009R1107-20190715`
+
+---
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 1 ALN 1 PTA (b)` · *amended by* `32019R1009`
+
+In point (b) of Article 2(1), the exclusion for substances influencing plant growth other than as a nutrient now also excludes those acting as a plant biostimulant, a phrase absent from the earlier text. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_2)
+
+*before* (`02009R1107-20181110`)
+
+> Article 2
+> Scope
+> 1. This Regulation shall apply to products, in the form in which they are supplied to the user, consisting of or containing active substances, safeners or synergists, and intended for one of the following uses:
+> (a) protecting plants or plant products against all harmful organisms or preventing the action of such organisms, unless the main purpose of these products is considered to be for reasons of hygiene rather than for the protection of plants or plant products;
+> (b) influencing the life processes of plants, such as substances influencing their growth, other than as a nutrient;
+> (c) preserving plant products, in so far as such substances or products are not subject to special Community provisions on preservatives;
+> (d) destroying undesired plants or parts of plants, except algae unless the products are applied on soil or water to protect plants;
+> (e) checking or preventing undesired growth of plants, except algae unless the products are applied on soil or water to protect plants.
+> These products are referred to as plant protection products.
+> 2. This Regulation shall apply to substances, including micro-organisms having general or specific action against harmful organisms or on plants, parts of plants or plant products, referred to as active substances.
+> 3. This Regulation shall apply to the following:
+> (a) substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain pla […truncated by emendrix: 795 characters omitted…]
+
+*after* (`02009R1107-20190715`)
+
+> Article 2
+> Scope
+> 1. This Regulation shall apply to products, in the form in which they are supplied to the user, consisting of or containing active substances, safeners or synergists, and intended for one of the following uses:
+> (a) protecting plants or plant products against all harmful organisms or preventing the action of such organisms, unless the main purpose of these products is considered to be for reasons of hygiene rather than for the protection of plants or plant products;
+> (b) influencing the life processes of plants, such as substances influencing their growth, other than as a nutrient or a plant biostimulant;
+> (c) preserving plant products, in so far as such substances or products are not subject to special Community provisions on preservatives;
+> (d) destroying undesired plants or parts of plants, except algae unless the products are applied on soil or water to protect plants;
+> (e) checking or preventing undesired growth of plants, except algae unless the products are applied on soil or water to protect plants.
+> These products are referred to as plant protection products.
+> 2. This Regulation shall apply to substances, including micro-organisms having general or specific action against harmful organisms or on plants, parts of plants or plant products, referred to as active substances.
+> 3. This Regulation shall apply to the following:
+> (a) substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protectio […truncated by emendrix: 819 characters omitted…]
+
+**MODIFIED · Art. 3 — Definitions** · applies from: unchanged
+
+*within* `AR 3 ALN 1 PO 33`, `AR 3 ALN 1 PO 34` · *amended by* `32019R1009`
+
+The definition of impurity in point 33 now ends with a semicolon instead of a full stop, reflecting that a further item follows it. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_3)
+
+A new point 34 has been added defining plant biostimulant as a product that stimulates plant nutrition processes independently of the product's nutrient content, with the sole aim of improving nutrient use efficiency, tolerance to abiotic stress, quality traits, or availability of confined nutrients in soil or rhizosphere. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_3)
+
+*before* (`02009R1107-20181110`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> 1. residues means one or more substances present in or on plants or plant products, edible animal products, drinking water or elsewhere in the environment and resulting from the use of a plant protection product, including their metabolites, breakdown or reaction products;
+> 2. substances means chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;
+> 3. preparations means mixtures or solutions composed of two or more substances intended for use as a plant protection product or as an adjuvant;
+> 4. substance of concern means any substance which has an inherent capacity to cause an adverse effect on humans, animals or the environment and is present or is produced in a plant protection product in sufficient concentration to present risks of such an effect.
+> Such substances include, but are not limited to, substances meeting the criteria to be classified as hazardous in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures
+> OJ L 353, 31.12.2008, p. 1., and present in the plant protection product at a concentration leading the product to be regarded as dangerous within the meaning of Article 3 of Directive 1999/45/EC;
+> 5. plants means live plants and live parts of pla […truncated by emendrix: 7552 characters omitted…]
+
+*after* (`02009R1107-20190715`)
+
+> Article 3
+> Definitions
+> For the purposes of this Regulation, the following definitions shall apply:
+> 1. residues means one or more substances present in or on plants or plant products, edible animal products, drinking water or elsewhere in the environment and resulting from the use of a plant protection product, including their metabolites, breakdown or reaction products;
+> 2. substances means chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;
+> 3. preparations means mixtures or solutions composed of two or more substances intended for use as a plant protection product or as an adjuvant;
+> 4. substance of concern means any substance which has an inherent capacity to cause an adverse effect on humans, animals or the environment and is present or is produced in a plant protection product in sufficient concentration to present risks of such an effect.
+> Such substances include, but are not limited to, substances meeting the criteria to be classified as hazardous in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures
+> OJ L 353, 31.12.2008, p. 1., and present in the plant protection product at a concentration leading the product to be regarded as dangerous within the meaning of Article 3 of Directive 1999/45/EC;
+> 5. plants means live plants and live parts of pla […truncated by emendrix: 7937 characters omitted…]
+
+**MODIFIED · Art. 80 — Transitional measures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 80 PA 8` · *dates* +2019-07-15 · *amended by* `32019R1009`
+
+A new paragraph 8 has been added specifying that for a product granted authorisation under Article 32(1) based on an application submitted before 15 July 2019, which after that date falls under the definition in point 34 of Article 3, the Regulation continues to apply for the duration provided in the authorisation. [Art. 80, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_80)
+
+This paragraph does not appear in the earlier version of Article 80, which ends at paragraph 7. [Art. 80, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#art_80)
+
+*Applicability:* a product which was granted an authorisation under Article 32(1) based on an application submitted before 15 July 2019, and which after that date falls under the definition in point 34 of Article 3 [Art. 80, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_80)
+
+*before* (`02009R1107-20181110`)
+
+> Article 80
+> Transitional measures
+> 1. Directive 91/414/EEC shall continue to apply, with respect to the procedure and the conditions for approval:
+> (a) to active substances for which a decision has been adopted in accordance with Article 6(3) of Directive 91/414/EEC before 14 June 2011;
+> (b) to active substances listed in Annex I to Regulation (EC) No 737/2007
+> OJ L 169, 29.6.2007, p. 10.;
+> (c) to active substances for which completeness has been established in accordance with Article 16 of Regulation (EC) No 33/2008
+> OJ L 15, 18.1.2008, p. 5.;
+> (d) to active substances for which completeness has been established in accordance with Article 6 of Regulation (EC) No 33/2008 before 14 June 2011.
+> On the basis of the examination carried out under Directive 91/414/EEC, a Regulation on the approval of such a substance shall be adopted in accordance with Article 13(2) of this Regulation. For active substances referred to in point (b) of this paragraph that approval shall not be considered as the renewal of approval referred to in Article 14 of this Regulation.
+> 2. Article 13(1) to (4) and Annexes II and III to Directive 91/414/EEC shall continue to apply with respect to active substances included in Annex I to that Directive and to active substances approved in accordance with paragraph 1 of this Article:
+> (a) for a period of five years from the date of their inclusion or approval, for active substances covered by Article 8(2) of Directive 91/414/EEC;
+> (b) for a period of 10 years from the date […truncated by emendrix: 1964 characters omitted…]
+
+*after* (`02009R1107-20190715`)
+
+> Article 80
+> Transitional measures
+> 1. Directive 91/414/EEC shall continue to apply, with respect to the procedure and the conditions for approval:
+> (a) to active substances for which a decision has been adopted in accordance with Article 6(3) of Directive 91/414/EEC before 14 June 2011;
+> (b) to active substances listed in Annex I to Regulation (EC) No 737/2007
+> OJ L 169, 29.6.2007, p. 10.;
+> (c) to active substances for which completeness has been established in accordance with Article 16 of Regulation (EC) No 33/2008
+> OJ L 15, 18.1.2008, p. 5.;
+> (d) to active substances for which completeness has been established in accordance with Article 6 of Regulation (EC) No 33/2008 before 14 June 2011.
+> On the basis of the examination carried out under Directive 91/414/EEC, a Regulation on the approval of such a substance shall be adopted in accordance with Article 13(2) of this Regulation. For active substances referred to in point (b) of this paragraph that approval shall not be considered as the renewal of approval referred to in Article 14 of this Regulation.
+> 2. Article 13(1) to (4) and Annexes II and III to Directive 91/414/EEC shall continue to apply with respect to active substances included in Annex I to that Directive and to active substances approved in accordance with paragraph 1 of this Article:
+> (a) for a period of five years from the date of their inclusion or approval, for active substances covered by Article 8(2) of Directive 91/414/EEC;
+> (b) for a period of 10 years from the date […truncated by emendrix: 2257 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1107-20190715 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20181110 -->
 ## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
 ### `02009R1107-20170828` → `02009R1107-20181110`

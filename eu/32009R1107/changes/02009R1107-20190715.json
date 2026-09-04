@@ -1,0 +1,535 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1107",
+    "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+  },
+  "from_version": "02009R1107-20181110",
+  "to_version": "02009R1107-20190715",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2019-07-15"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 3,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 3,
+    "unchanged_units": 86,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 3,
+    "substantive": 3,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20190715",
+          "location": "AR 2"
+        },
+        "heading": "Scope",
+        "before": "Article 2\nScope\n1. This Regulation shall apply to products, in the form in which they are supplied to the user, consisting of or containing active substances, safeners or synergists, and intended for one of the following uses:\n(a) protecting plants or plant products against all harmful organisms or preventing the action of such organisms, unless the main purpose of these products is considered to be for reasons of hygiene rather than for the protection of plants or plant products;\n(b) influencing the life processes of plants, such as substances influencing their growth, other than as a nutrient;\n(c) preserving plant products, in so far as such substances or products are not subject to special Community provisions on preservatives;\n(d) destroying undesired plants or parts of plants, except algae unless the products are applied on soil or water to protect plants;\n(e) checking or preventing undesired growth of plants, except algae unless the products are applied on soil or water to protect plants.\nThese products are referred to as plant protection products.\n2. This Regulation shall apply to substances, including micro-organisms having general or specific action against harmful organisms or on plants, parts of plants or plant products, referred to as active substances.\n3. This Regulation shall apply to the following:\n(a) substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain plants, referred to as safeners;\n(b) substances or preparations which, while showing no or only weak activity as referred to in paragraph 1, can give enhanced activity to the active substance(s) in a plant protection product, referred to as synergists;\n(c) substances or preparations which are used or intended to be used in a plant protection product or adjuvant, but are neither active substances nor safeners or synergists, referred to as co-formulants;\n(d) substances or preparations which consist of co-formulants or preparations containing one or more co-formulants, in the form in which they are supplied to the user and placed on the market to be mixed by the user with a plant protection product and which enhance its effectiveness or other pesticidal properties, referred to as adjuvants.",
+        "after": "Article 2\nScope\n1. This Regulation shall apply to products, in the form in which they are supplied to the user, consisting of or containing active substances, safeners or synergists, and intended for one of the following uses:\n(a) protecting plants or plant products against all harmful organisms or preventing the action of such organisms, unless the main purpose of these products is considered to be for reasons of hygiene rather than for the protection of plants or plant products;\n(b) influencing the life processes of plants, such as substances influencing their growth, other than as a nutrient or a plant biostimulant;\n(c) preserving plant products, in so far as such substances or products are not subject to special Community provisions on preservatives;\n(d) destroying undesired plants or parts of plants, except algae unless the products are applied on soil or water to protect plants;\n(e) checking or preventing undesired growth of plants, except algae unless the products are applied on soil or water to protect plants.\nThese products are referred to as plant protection products.\n2. This Regulation shall apply to substances, including micro-organisms having general or specific action against harmful organisms or on plants, parts of plants or plant products, referred to as active substances.\n3. This Regulation shall apply to the following:\n(a) substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain plants, referred to as safeners;\n(b) substances or preparations which, while showing no or only weak activity as referred to in paragraph 1, can give enhanced activity to the active substance(s) in a plant protection product, referred to as synergists;\n(c) substances or preparations which are used or intended to be used in a plant protection product or adjuvant, but are neither active substances nor safeners or synergists, referred to as co-formulants;\n(d) substances or preparations which consist of co-formulants or preparations containing one or more co-formulants, in the form in which they are supplied to the user and placed on the market to be mixed by the user with a plant protection product and which enhance its effectiveness or other pesticidal properties, referred to as adjuvants.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 PA 1 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1009",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-15",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1009 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 047 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b) of Article 2(1), the exclusion for substances influencing plant growth other than as a nutrient now also excludes those acting as a plant biostimulant, a phrase absent from the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20181110",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#art_2",
+              "label": "Art. 2, 02009R1107-20181110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20190715",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_2",
+              "label": "Art. 2, 02009R1107-20190715"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20190715",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\nFor the purposes of this Regulation, the following definitions shall apply:\n1. residues means one or more substances present in or on plants or plant products, edible animal products, drinking water or elsewhere in the environment and resulting from the use of a plant protection product, including their metabolites, breakdown or reaction products;\n2. substances means chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;\n3. preparations means mixtures or solutions composed of two or more substances intended for use as a plant protection product or as an adjuvant;\n4. substance of concern means any substance which has an inherent capacity to cause an adverse effect on humans, animals or the environment and is present or is produced in a plant protection product in sufficient concentration to present risks of such an effect.\nSuch substances include, but are not limited to, substances meeting the criteria to be classified as hazardous in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures\nOJ L 353, 31.12.2008, p. 1., and present in the plant protection product at a concentration leading the product to be regarded as dangerous within the meaning of Article 3 of Directive 1999/45/EC;\n5. plants means live plants and live parts of plants, including fresh fruit, vegetables and seeds;\n6. plant products means products of plant origin in an unprocessed state or having undergone only simple preparation, such as milling, drying or pressing, but excluding plants;\n7. harmful organisms means any species, strain or biotype belonging to the animal kingdom or plant kingdom or pathogenic agent injurious to plants or plant products;\n8. non-chemical methods means alternative methods to chemical pesticides for plant protection and pest management, based on agronomic techniques such as those referred to in point 1 of Annex III to Directive 2009/128/EC, or physical, mechanical or biological pest control methods;\n9. placing on the market means the holding for the purpose of sale within the Community, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution, and other forms of transfer themselves, but not the return to the previous seller. Release for free circulation into the territory of the Community shall constitute placing on the market for the purposes of this Regulation;\n10. authorisation of a plant protection product means an administrative act by which the competent authority of a Member State authorises the placing on the market of a plant protection product in its territory;\n11. producer means a person who manufactures plant protection products, active substances, safeners, synergists, co-formulants or adjuvants on his own, or who contracts this manufacturing to another party, or a person designated by the manufacturer as his sole representative for the purpose of compliance with this Regulation;\n12. letter of access means an original document by which the owner of data protected under this Regulation agrees to the use of such data under the specific terms and conditions by the competent authority for the purpose of granting an authorisation of a plant protection product or an approval of an active substance, synergist or safener for the benefit of another applicant;\n13. environment means waters (including ground, surface, transitional, coastal and marine), sediment, soil, air, land, wild species of fauna and flora, and any interrelationship between them, and any relationship with other living organisms;\n14. vulnerable groups means persons needing specific consideration when assessing the acute and chronic health effects of plant protection products. These include pregnant and nursing women, the unborn, infants and children, the elderly and workers and residents subject to high pesticide exposure over the long term;\n15. micro-organisms means any microbiological entity, including lower fungi and viruses, cellular or non-cellular, capable of replication or of transferring genetic material;\n16. genetically modified organisms means organisms in which the genetic material has been altered within the meaning of Article 2(2) of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms\nOJ L 106, 17.4.2001, p. 1.;\n17. zone means a group of Member States as defined in Annex I.\nFor the purpose of use in greenhouses, as post-harvest treatment, for treatment of empty storage rooms and for seed treatment the zone means all zones defined in Annex I;\n18. good plant protection practice means a practice whereby the treatments with plant protection products applied to given plants or plant products, in conformity with the conditions of their authorised uses, are selected, dosed and timed to ensure acceptable efficacy with the minimum quantity necessary, taking due account of local conditions and of the possibilities for cultural and biological control;\n19. good laboratory practice means a practice as defined in point 2.1 of Annex I to Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances\nOJ L 50, 20.2.2004, p. 44.;\n20. good experimental practice means a practice in accordance with the provisions of European and Mediterranean Plant Protection Organisation (EPPO) Guidelines 181 and 152;\n21. data protection means the temporary right of the owner of a test or study report to prevent it being used for the benefit of another applicant;\n22. rapporteur Member State means the Member State which undertakes the task of evaluating an active substance, safener or synergist;\n23. tests and studies means investigations or experiments whose purpose is to determine the properties and behaviour of an active substance or of plant protection products, predict exposure to active substances and/or their relevant metabolites, determine safe levels of exposure and establish conditions for the safe use of plant protection products;\n24. authorisation holder means any natural or legal person holding an authorisation of a plant protection product;\n25. professional user means a professional user as defined in Article 3(1) of Directive 2009/128/EC;\n26. minor use means use of a plant protection product in a particular Member State on plants or plant products which are:\n(a) not widely grown in that Member State; or\n(b) widely grown, to meet an exceptional plant protection need;\n27. greenhouse means a walk-in, static, closed place of crop production with a usually translucent outer shell, which allows controlled exchange of material and energy with the surroundings and prevents release of plant protection products into the environment.\nFor the purpose of this Regulation, closed places of plant production where the outer shell is not translucent (for example, for production of mushrooms or witloof) are also considered as greenhouses;\n28. post-harvest treatment means treatment of plants or plant products after harvest in an isolated space where no run-off is possible, for example in a warehouse;\n29. biodiversity means variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this variability may include diversity within species, between species and of ecosystems;\n30. competent authority means any authority or authorities of a Member State responsible for carrying out the tasks established under this Regulation;\n31. advertisement means a means of promoting the sale or use of plant protection products (to anyone other than the authorisation holder, the person placing the plant protection product on the market and their agents) by printed or electronic media;\n32. metabolite means any metabolite or a degradation product of an active substance, safener or synergist, formed either in organisms or in the environment.\nA metabolite is deemed relevant if there is a reason to assume that it has intrinsic properties comparable to the parent substance in terms of its biological target activity, or that it poses a higher or comparable risk to organisms than the parent substance or that it has certain toxicological properties that are considered unacceptable. Such a metabolite is relevant for the overall approval decision or for the definition of risk mitigation measures;\n33. impurity means any component other than the pure active substance and/or variant which is present in the technical material (including components originating from the manufacturing process or from degradation during storage).",
+        "after": "Article 3\nDefinitions\nFor the purposes of this Regulation, the following definitions shall apply:\n1. residues means one or more substances present in or on plants or plant products, edible animal products, drinking water or elsewhere in the environment and resulting from the use of a plant protection product, including their metabolites, breakdown or reaction products;\n2. substances means chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;\n3. preparations means mixtures or solutions composed of two or more substances intended for use as a plant protection product or as an adjuvant;\n4. substance of concern means any substance which has an inherent capacity to cause an adverse effect on humans, animals or the environment and is present or is produced in a plant protection product in sufficient concentration to present risks of such an effect.\nSuch substances include, but are not limited to, substances meeting the criteria to be classified as hazardous in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures\nOJ L 353, 31.12.2008, p. 1., and present in the plant protection product at a concentration leading the product to be regarded as dangerous within the meaning of Article 3 of Directive 1999/45/EC;\n5. plants means live plants and live parts of plants, including fresh fruit, vegetables and seeds;\n6. plant products means products of plant origin in an unprocessed state or having undergone only simple preparation, such as milling, drying or pressing, but excluding plants;\n7. harmful organisms means any species, strain or biotype belonging to the animal kingdom or plant kingdom or pathogenic agent injurious to plants or plant products;\n8. non-chemical methods means alternative methods to chemical pesticides for plant protection and pest management, based on agronomic techniques such as those referred to in point 1 of Annex III to Directive 2009/128/EC, or physical, mechanical or biological pest control methods;\n9. placing on the market means the holding for the purpose of sale within the Community, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution, and other forms of transfer themselves, but not the return to the previous seller. Release for free circulation into the territory of the Community shall constitute placing on the market for the purposes of this Regulation;\n10. authorisation of a plant protection product means an administrative act by which the competent authority of a Member State authorises the placing on the market of a plant protection product in its territory;\n11. producer means a person who manufactures plant protection products, active substances, safeners, synergists, co-formulants or adjuvants on his own, or who contracts this manufacturing to another party, or a person designated by the manufacturer as his sole representative for the purpose of compliance with this Regulation;\n12. letter of access means an original document by which the owner of data protected under this Regulation agrees to the use of such data under the specific terms and conditions by the competent authority for the purpose of granting an authorisation of a plant protection product or an approval of an active substance, synergist or safener for the benefit of another applicant;\n13. environment means waters (including ground, surface, transitional, coastal and marine), sediment, soil, air, land, wild species of fauna and flora, and any interrelationship between them, and any relationship with other living organisms;\n14. vulnerable groups means persons needing specific consideration when assessing the acute and chronic health effects of plant protection products. These include pregnant and nursing women, the unborn, infants and children, the elderly and workers and residents subject to high pesticide exposure over the long term;\n15. micro-organisms means any microbiological entity, including lower fungi and viruses, cellular or non-cellular, capable of replication or of transferring genetic material;\n16. genetically modified organisms means organisms in which the genetic material has been altered within the meaning of Article 2(2) of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms\nOJ L 106, 17.4.2001, p. 1.;\n17. zone means a group of Member States as defined in Annex I.\nFor the purpose of use in greenhouses, as post-harvest treatment, for treatment of empty storage rooms and for seed treatment the zone means all zones defined in Annex I;\n18. good plant protection practice means a practice whereby the treatments with plant protection products applied to given plants or plant products, in conformity with the conditions of their authorised uses, are selected, dosed and timed to ensure acceptable efficacy with the minimum quantity necessary, taking due account of local conditions and of the possibilities for cultural and biological control;\n19. good laboratory practice means a practice as defined in point 2.1 of Annex I to Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances\nOJ L 50, 20.2.2004, p. 44.;\n20. good experimental practice means a practice in accordance with the provisions of European and Mediterranean Plant Protection Organisation (EPPO) Guidelines 181 and 152;\n21. data protection means the temporary right of the owner of a test or study report to prevent it being used for the benefit of another applicant;\n22. rapporteur Member State means the Member State which undertakes the task of evaluating an active substance, safener or synergist;\n23. tests and studies means investigations or experiments whose purpose is to determine the properties and behaviour of an active substance or of plant protection products, predict exposure to active substances and/or their relevant metabolites, determine safe levels of exposure and establish conditions for the safe use of plant protection products;\n24. authorisation holder means any natural or legal person holding an authorisation of a plant protection product;\n25. professional user means a professional user as defined in Article 3(1) of Directive 2009/128/EC;\n26. minor use means use of a plant protection product in a particular Member State on plants or plant products which are:\n(a) not widely grown in that Member State; or\n(b) widely grown, to meet an exceptional plant protection need;\n27. greenhouse means a walk-in, static, closed place of crop production with a usually translucent outer shell, which allows controlled exchange of material and energy with the surroundings and prevents release of plant protection products into the environment.\nFor the purpose of this Regulation, closed places of plant production where the outer shell is not translucent (for example, for production of mushrooms or witloof) are also considered as greenhouses;\n28. post-harvest treatment means treatment of plants or plant products after harvest in an isolated space where no run-off is possible, for example in a warehouse;\n29. biodiversity means variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this variability may include diversity within species, between species and of ecosystems;\n30. competent authority means any authority or authorities of a Member State responsible for carrying out the tasks established under this Regulation;\n31. advertisement means a means of promoting the sale or use of plant protection products (to anyone other than the authorisation holder, the person placing the plant protection product on the market and their agents) by printed or electronic media;\n32. metabolite means any metabolite or a degradation product of an active substance, safener or synergist, formed either in organisms or in the environment.\nA metabolite is deemed relevant if there is a reason to assume that it has intrinsic properties comparable to the parent substance in terms of its biological target activity, or that it poses a higher or comparable risk to organisms than the parent substance or that it has certain toxicological properties that are considered unacceptable. Such a metabolite is relevant for the overall approval decision or for the definition of risk mitigation measures;\n33. impurity means any component other than the pure active substance and/or variant which is present in the technical material (including components originating from the manufacturing process or from degradation during storage);\n34. plant biostimulant means a product stimulating plant nutrition processes independently of the product’s nutrient content with the sole aim of improving one or more of the following characteristics of the plant or the plant rhizosphere:\n(a) nutrient use efficiency;\n(b) tolerance to abiotic stress;\n(c) quality traits;\n(d) availability of confined nutrients in soil or rhizosphere.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 ALN 1 PO 33",
+          "AR 3 ALN 1 PO 34"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1009",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-07-15",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1009 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 047 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of impurity in point 33 now ends with a semicolon instead of a full stop, reflecting that a further item follows it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20190715",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_3",
+              "label": "Art. 3, 02009R1107-20190715"
+            }
+          ]
+        },
+        {
+          "text": "A new point 34 has been added defining plant biostimulant as a product that stimulates plant nutrition processes independently of the product's nutrient content, with the sole aim of improving nutrient use efficiency, tolerance to abiotic stress, quality traits, or availability of confined nutrients in soil or rhizosphere.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20190715",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_3",
+              "label": "Art. 3, 02009R1107-20190715"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20190715",
+          "location": "AR 80"
+        },
+        "heading": "Transitional measures",
+        "before": "Article 80\nTransitional measures\n1. Directive 91/414/EEC shall continue to apply, with respect to the procedure and the conditions for approval:\n(a) to active substances for which a decision has been adopted in accordance with Article 6(3) of Directive 91/414/EEC before 14 June 2011;\n(b) to active substances listed in Annex I to Regulation (EC) No 737/2007\nOJ L 169, 29.6.2007, p. 10.;\n(c) to active substances for which completeness has been established in accordance with Article 16 of Regulation (EC) No 33/2008\nOJ L 15, 18.1.2008, p. 5.;\n(d) to active substances for which completeness has been established in accordance with Article 6 of Regulation (EC) No 33/2008 before 14 June 2011.\nOn the basis of the examination carried out under Directive 91/414/EEC, a Regulation on the approval of such a substance shall be adopted in accordance with Article 13(2) of this Regulation. For active substances referred to in point (b) of this paragraph that approval shall not be considered as the renewal of approval referred to in Article 14 of this Regulation.\n2. Article 13(1) to (4) and Annexes II and III to Directive 91/414/EEC shall continue to apply with respect to active substances included in Annex I to that Directive and to active substances approved in accordance with paragraph 1 of this Article:\n(a) for a period of five years from the date of their inclusion or approval, for active substances covered by Article 8(2) of Directive 91/414/EEC;\n(b) for a period of 10 years from the date of their inclusion or approval, for active substances which were not on the market on 26 July 1993;\n(c) for a period of five years from the date of the renewal of the inclusion or renewal of the approval, for active substances whose inclusion in Annex I to Directive 91/414/EEC expires by 24 November 2011. This provision shall only apply to data necessary for the renewal of the approval and which were certified as compliant with the principles of good laboratory practice by that date.\n3. Where Article 13 of Directive 91/414/EEC applies by virtue of paragraph 1 or paragraph 2 of this Article, it shall be subject to any special rules concerning Directive 91/414/EEC laid down in the Act of Accession by which a Member State joined the Community.\n4. For active substances for which the first approval expires by 14 December 2012, the application provided for in Article 14 shall be submitted by a producer of the active substance to a Member State, with a copy to the other Member States, the Commission and the Authority, no later than two years before the expiry of the first approval.\n5. Applications for authorisations of plant protection products:\n(a) under Article 4 of Directive 91/414/EEC which are pending in the Member States; or\n(b) which are due to be amended or withdrawn following an inclusion in Annex I to Directive 91/414/EEC or following an approval in accordance with paragraph 1 of this Article;\non 14 June 2011 shall be decided on the basis of national law in force before that date.\nAfter that decision, this Regulation shall apply.\n6. Products labelled in accordance with Article 16 of Directive 91/414/EEC may continue to be placed on the market until 14 June 2015.\n7. By 14 December 2013, the Commission shall establish a list of substances included in Annex I to Directive 91/414/EEC which satisfy the criteria set out in point 4 of Annex II to this Regulation and to which the provisions of Article 50 of this Regulation shall apply.",
+        "after": "Article 80\nTransitional measures\n1. Directive 91/414/EEC shall continue to apply, with respect to the procedure and the conditions for approval:\n(a) to active substances for which a decision has been adopted in accordance with Article 6(3) of Directive 91/414/EEC before 14 June 2011;\n(b) to active substances listed in Annex I to Regulation (EC) No 737/2007\nOJ L 169, 29.6.2007, p. 10.;\n(c) to active substances for which completeness has been established in accordance with Article 16 of Regulation (EC) No 33/2008\nOJ L 15, 18.1.2008, p. 5.;\n(d) to active substances for which completeness has been established in accordance with Article 6 of Regulation (EC) No 33/2008 before 14 June 2011.\nOn the basis of the examination carried out under Directive 91/414/EEC, a Regulation on the approval of such a substance shall be adopted in accordance with Article 13(2) of this Regulation. For active substances referred to in point (b) of this paragraph that approval shall not be considered as the renewal of approval referred to in Article 14 of this Regulation.\n2. Article 13(1) to (4) and Annexes II and III to Directive 91/414/EEC shall continue to apply with respect to active substances included in Annex I to that Directive and to active substances approved in accordance with paragraph 1 of this Article:\n(a) for a period of five years from the date of their inclusion or approval, for active substances covered by Article 8(2) of Directive 91/414/EEC;\n(b) for a period of 10 years from the date of their inclusion or approval, for active substances which were not on the market on 26 July 1993;\n(c) for a period of five years from the date of the renewal of the inclusion or renewal of the approval, for active substances whose inclusion in Annex I to Directive 91/414/EEC expires by 24 November 2011. This provision shall only apply to data necessary for the renewal of the approval and which were certified as compliant with the principles of good laboratory practice by that date.\n3. Where Article 13 of Directive 91/414/EEC applies by virtue of paragraph 1 or paragraph 2 of this Article, it shall be subject to any special rules concerning Directive 91/414/EEC laid down in the Act of Accession by which a Member State joined the Community.\n4. For active substances for which the first approval expires by 14 December 2012, the application provided for in Article 14 shall be submitted by a producer of the active substance to a Member State, with a copy to the other Member States, the Commission and the Authority, no later than two years before the expiry of the first approval.\n5. Applications for authorisations of plant protection products:\n(a) under Article 4 of Directive 91/414/EEC which are pending in the Member States; or\n(b) which are due to be amended or withdrawn following an inclusion in Annex I to Directive 91/414/EEC or following an approval in accordance with paragraph 1 of this Article;\non 14 June 2011 shall be decided on the basis of national law in force before that date.\nAfter that decision, this Regulation shall apply.\n6. Products labelled in accordance with Article 16 of Directive 91/414/EEC may continue to be placed on the market until 14 June 2015.\n7. By 14 December 2013, the Commission shall establish a list of substances included in Annex I to Directive 91/414/EEC which satisfy the criteria set out in point 4 of Annex II to this Regulation and to which the provisions of Article 50 of this Regulation shall apply.\n8. To a product which was granted an authorisation under Article 32(1) based on an application submitted before 15 July 2019, and which after that date falls under the definition in point 34 of Article 3, this Regulation shall continue to apply for the duration provided in the authorisation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 80 PA 8"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1009",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2019-07-15"
+        ],
+        "in_force": "2019-07-15",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1009 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 047 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 8 has been added specifying that for a product granted authorisation under Article 32(1) based on an application submitted before 15 July 2019, which after that date falls under the definition in point 34 of Article 3, the Regulation continues to apply for the duration provided in the authorisation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20190715",
+                "location": "AR 80"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_80",
+              "label": "Art. 80, 02009R1107-20190715"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph does not appear in the earlier version of Article 80, which ends at paragraph 7.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20181110",
+                "location": "AR 80"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#art_80",
+              "label": "Art. 80, 02009R1107-20181110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": {
+        "text": "a product which was granted an authorisation under Article 32(1) based on an application submitted before 15 July 2019, and which after that date falls under the definition in point 34 of Article 3",
+        "fallback": false,
+        "citations": [
+          {
+            "ref": {
+              "act": {
+                "corpus": "eu",
+                "key": "32009R1107",
+                "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+              },
+              "version": "02009R1107-20190715",
+              "location": "AR 80"
+            },
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_80",
+            "label": "Art. 80, 02009R1107-20190715"
+          }
+        ]
+      },
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1107",
+      "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+    },
+    "from_version": "02009R1107-20181110",
+    "to_version": "02009R1107-20190715",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 80"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 80"
+        ],
+        "note": "3 annotations in (2018-11-10, 2019-07-15]",
+        "claims": [
+          {
+            "location": "AR 2 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2019-07-15",
+            "source": "32019R1009 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 80 PA 8",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-15",
+            "source": "32019R1009 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PO 34",
+            "change_type": "INSERTED",
+            "in_force": "2019-07-15",
+            "source": "32019R1009 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 3",
+          "AR 80"
+        ],
+        "note": "32019R1009, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 047 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 047 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 80 PA 8",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 047 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1009",
+              "display_name": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 3,
+        "shared": 3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 3,
+    "explained": 3,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 22042,
+      "output_tokens": 1046,
+      "requests": 4,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 3,
+    "passed_first": 3,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 6,
+    "citations": 7,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
