@@ -15,21 +15,21 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 4,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 4,
+    "touched_units": 3,
     "unchanged_units": 80,
-    "disputed": 4
+    "disputed": 3
   },
   "counts": {
-    "touched": 4,
-    "substantive": 4,
+    "touched": 3,
+    "substantive": 3,
     "date_only": 0,
-    "disputed": 4,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -51,7 +51,13 @@
         "changed_within": [
           "AR 1 PA 2 ALN 1"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32011L0061",
+            "display_name": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010  Text with EEA relevance"
+          }
+        ],
         "dates_removed": [],
         "dates_added": [
           "2011-06-08"
@@ -75,9 +81,11 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32011L0061, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 065",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
         "disputed": true
@@ -118,7 +126,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -175,7 +184,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -260,64 +270,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32010R1095",
-            "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
-          },
-          "version": "02010R1095-20110721",
-          "location": "AR 65"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32011L0061",
-            "display_name": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010  Text with EEA relevance"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2011-07-21]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 065",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -364,12 +318,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 65"
+          "AR 1"
         ],
         "note": "32011L0061, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 65 PA 2",
+            "location": "AR 1 PA 2",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 065",
@@ -399,10 +353,10 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
         "kind_mismatches": 0
       },
       {
@@ -420,17 +374,23 @@
     "disagreements": [
       {
         "unit": "AR 1",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
-          "structural_diff"
+          "structural_diff",
+          "instruction_parse"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
             "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -474,30 +434,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "AR 65",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
-      "AR 1.2",
-      "AR 65"
+      "AR 1.2"
     ]
   },
   "explain": {
@@ -509,6 +449,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 8523,
       "output_tokens": 324,
@@ -528,5 +471,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 4,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
