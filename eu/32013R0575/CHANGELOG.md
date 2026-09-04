@@ -35301,7 +35301,7 @@ It further lays out graduated percentage factors applied over successive years f
 
 *within* `AR 111 PA 1 ALN 1` · *amended by* `32019R0630`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20190101`)
 
