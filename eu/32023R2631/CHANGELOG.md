@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32023R2631` → `02023R2631-20240109`
 
 - **Act** `eu:32023R2631` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32023R2631` · `v2` = `02023R2631-20240109`
 
 ---
@@ -43,15 +43,5 @@ It further specifies formatting and metadata requirements for that submission, r
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of Regulation (EU) 2023/2859;
 > (b) be accompanied […truncated by emendrix: 2218 characters omitted…]
-
-**MODIFIED · Art. 19** · applies from: unknown
-
-*amended by* `32023R2869`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R2631-20240109 -->
 
