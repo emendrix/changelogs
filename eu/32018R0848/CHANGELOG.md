@@ -10,6 +10,91 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20250325 -->
+## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
+### `02018R0848-20241201` → `02018R0848-20250325`
+
+- **Act** `eu:32018R0848` · **In force** 2025-03-18 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02018R0848-20241201` · `v2` = `02018R0848-20250325`
+
+---
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II` · *dates* -2009-07-10 -2009-07-14 +2018-10-17 +2019-03-12 · *amended by* `32025R0405`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
+
+*before* (`02018R0848-20241201`)
+
+> ANNEX II
+> DETAILED PRODUCTION RULES REFERRED TO IN CHAPTER III
+> Part I: Plant production rules
+> In addition to the production rules laid down in Articles 9 to 12, the rules set out in this Part shall apply to organic plant production.
+> 1. General requirements
+> 1.1. Organic crops, except those which are naturally grown in water, shall be produced in living soil, or in living soil mixed or fertilised with materials and products allowed in organic production, in connection with the subsoil and bedrock.
+> 1.2. Hydroponic production, which is a method of growing plants which do not naturally grow in water with their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added, is prohibited.
+> 1.3. By way of derogation from point 1.1, the following shall be allowed:
+> (a) the production of sprouted seeds, which include sprouts, shoots and cress, solely living on the nutritional reserves available in the seeds, by moistening them in clear water, provided that the seeds are organic. The use of growing medium shall be prohibited, except the use of an inert medium intended solely to keep the seeds moist when the components of that inert medium are authorised in compliance with Article 24;
+> (b) the obtaining of chicory heads, including by dipping them in clear water, provided that the plant reproductive material is organic. The use of a growing medium shall be allowed only when its components are authorised in compliance with Article 24.
+> 1.4. By way of derogation f […truncated by emendrix: 121816 characters omitted…]
+
+*after* (`02018R0848-20250325`)
+
+> ANNEX II
+> DETAILED PRODUCTION RULES REFERRED TO IN CHAPTER III
+> Part I: Plant production rules
+> In addition to the production rules laid down in Articles 9 to 12, the rules set out in this Part shall apply to organic plant production.
+> 1. General requirements
+> 1.1. Organic crops, except those which are naturally grown in water, shall be produced in living soil, or in living soil mixed or fertilised with materials and products allowed in organic production, in connection with the subsoil and bedrock.
+> 1.2. Hydroponic production, which is a method of growing plants which do not naturally grow in water with their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added, is prohibited.
+> 1.3. By way of derogation from point 1.1, the following shall be allowed:
+> (a) the production of sprouted seeds, which include sprouts, shoots and cress, solely living on the nutritional reserves available in the seeds, by moistening them in clear water, provided that the seeds are organic. The use of growing medium shall be prohibited, except the use of an inert medium intended solely to keep the seeds moist when the components of that inert medium are authorised in compliance with Article 24;
+> (b) the obtaining of chicory heads, including by dipping them in clear water, provided that the plant reproductive material is organic. The use of a growing medium shall be allowed only when its components are authorised in compliance with Article 24.
+> 1.4. By way of derogation f […truncated by emendrix: 123511 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III SCT 2 SCT 2.1`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+The sentence stating that the information referred to in points 2.1.1 and 2.1.2 may be presented solely on an accompanying document, and that this document must include information on the supplier or the transporter, is retained at the end of point 2.1.3 and is also added as a new separate point 2.1.4 repeating the same wording. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20250325#anx_III)
+
+*before* (`02018R0848-20241201`)
+
+> ANNEX III
+> COLLECTION, PACKAGING, TRANSPORT AND STORAGE OF PRODUCTS
+> 1. Collection of products and transport to preparation units
+> Operators may carry out the simultaneous collection of organic, in-conversion and non-organic products only where appropriate measures have been taken to prevent any possible mixture or exchange between organic, in-conversion and non-organic products and to ensure the identification of the organic and in-conversion products. The operator shall keep the information relating to collection days, hours, the circuit and date and time of the reception of the products available to the control authority or control body.
+> 2. Packaging and transport of products to other operators or units
+> 2.1. Information to be provided
+> 2.1.1. Operators shall ensure that organic products and in-conversion products are transported to other operators or units, including wholesalers and retailers, only in appropriate packaging, containers or vehicles closed in such a manner that alteration, including substitution, of the content cannot be achieved without manipulation or damage of the seal and provided with a label stating, without prejudice to any other indications required by Union law:
+> (a) the name and address of the operator and, where different, of the owner or seller of the product;
+> (b) the name of the product;
+> (c) the name or the code number of the control authority or control body to which the operator is subject; and
+> (d) where relevant, the lot identification mark in acco […truncated by emendrix: 8688 characters omitted…]
+
+*after* (`02018R0848-20250325`)
+
+> ANNEX III
+> COLLECTION, PACKAGING, TRANSPORT AND STORAGE OF PRODUCTS
+> 1. Collection of products and transport to preparation units
+> Operators may carry out the simultaneous collection of organic, in-conversion and non-organic products only where appropriate measures have been taken to prevent any possible mixture or exchange between organic, in-conversion and non-organic products and to ensure the identification of the organic and in-conversion products. The operator shall keep the information relating to collection days, hours, the circuit and date and time of the reception of the products available to the control authority or control body.
+> 2. Packaging and transport of products to other operators or units
+> 2.1. Information to be provided
+> 2.1.1. Operators shall ensure that organic products and in-conversion products are transported to other operators or units, including wholesalers and retailers, only in appropriate packaging, containers or vehicles closed in such a manner that alteration, including substitution, of the content cannot be achieved without manipulation or damage of the seal and provided with a label stating, without prejudice to any other indications required by Union law:
+> (a) the name and address of the operator and, where different, of the owner or seller of the product;
+> (b) the name of the product;
+> (c) the name or the code number of the control authority or control body to which the operator is subject; and
+> (d) where relevant, the lot identification mark in acco […truncated by emendrix: 9004 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02018R0848-20250325 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20241201 -->
 ## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
 ### `02018R0848-20230221` → `02018R0848-20241201`
