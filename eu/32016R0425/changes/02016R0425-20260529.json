@@ -1,0 +1,1048 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0425",
+    "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+  },
+  "from_version": "32016R0425",
+  "to_version": "02016R0425-20260529",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-05-29"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 6,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 57,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 3"
+        },
+        "heading": "Definitions",
+        "before": "Article 3\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) personal protective equipment (PPE) means:\n(a) equipment designed and manufactured to be worn or held by a person for protection against one or more risks to that person's health or safety;\n(b) interchangeable components for equipment referred to in point (a) which are essential for its protective function;\n(c) connexion systems for equipment referred to in point (a) that are not held or worn by a person, that are designed to connect that equipment to an external device or to a reliable anchorage point, that are not designed to be permanently fixed and that do not require fastening works before use;\n(2) making available on the market means any supply of PPE for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(3) placing on the market means the first making available of PPE on the Union market;\n(4) manufacturer means any natural or legal person who manufactures PPE or has it designed or manufactured, and markets it under his name or trademark;\n(5) authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n(6) importer means any natural or legal person established within the Union who places PPE from a third country on the Union market;\n(7) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes PPE available on the market;\n(8) economic operators means the manufacturer, the authorised representative, the importer and the distributor;\n(9) technical specification means a document that prescribes technical requirements to be fulfilled by PPE;\n(10) harmonised standard means a harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;\n(11) accreditation means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;\n(12) national accreditation body means a national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;\n(13) conformity assessment means the process demonstrating whether the essential health and safety requirements of this Regulation relating to PPE have been fulfilled;\n(14) conformity assessment body means a body that performs conformity assessment activities including calibration, testing, certification and inspection;\n(15) recall means any measure aimed at achieving the return of PPE that has already been made available to the end-user;\n(16) withdrawal means any measure aimed at preventing PPE in the supply chain from being made available on the market;\n(17) Union harmonisation legislation means any Union legislation harmonising the conditions for the marketing of products;\n(18) CE marking means a marking by which the manufacturer indicates that PPE is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.",
+        "after": "Article 3\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) personal protective equipment (PPE) means:\n(a) equipment designed and manufactured to be worn or held by a person for protection against one or more risks to that person's health or safety;\n(b) interchangeable components for equipment referred to in point (a) which are essential for its protective function;\n(c) connexion systems for equipment referred to in point (a) that are not held or worn by a person, that are designed to connect that equipment to an external device or to a reliable anchorage point, that are not designed to be permanently fixed and that do not require fastening works before use;\n(2) making available on the market means any supply of PPE for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(3) placing on the market means the first making available of PPE on the Union market;\n(4) manufacturer means any natural or legal person who manufactures PPE or has it designed or manufactured, and markets it under his name or trademark;\n(5) authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n(6) importer means any natural or legal person established within the Union who places PPE from a third country on the Union market;\n(7) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes PPE available on the market;\n(8) economic operators means the manufacturer, the authorised representative, the importer and the distributor;\n(9) technical specification means a document that prescribes technical requirements to be fulfilled by PPE;\n(10) harmonised standard means a harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;\n(11) accreditation means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;\n(12) national accreditation body means a national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;\n(13) conformity assessment means the process demonstrating whether the essential health and safety requirements of this Regulation relating to PPE have been fulfilled;\n(14) conformity assessment body means a body that performs conformity assessment activities including calibration, testing, certification and inspection;\n(15) recall means any measure aimed at achieving the return of PPE that has already been made available to the end-user;\n(16) withdrawal means any measure aimed at preventing PPE in the supply chain from being made available on the market;\n(17) Union harmonisation legislation means any Union legislation harmonising the conditions for the marketing of products;\n(18) CE marking means a marking by which the manufacturer indicates that PPE is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;\n(19) crisis-relevant goods means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council\nRegulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).;\n(20) internal market emergency mode means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 3 ALN 1 PO 18",
+          "AR 3 ALN 1 PO 19",
+          "AR 3 ALN 1 PO 20"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-10-09"
+        ],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of definitions gains two new entries after the existing CE marking definition: one for \"crisis-relevant goods\", referencing the definition in Regulation (EU) 2024/2747, and one for \"internal market emergency mode\", referencing the same Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_3",
+              "label": "Art. 3, 02016R0425-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The definition of CE marking itself is unchanged apart from the punctuation needed to introduce the following new entries.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "32016R0425",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0425#art_3",
+              "label": "Art. 3, 32016R0425"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 3"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_3",
+              "label": "Art. 3, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 41a"
+        },
+        "heading": "Application of emergency procedures",
+        "before": null,
+        "after": "Article 41a\nApplication of emergency procedures\n1. Articles 41b to 41e of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to PPE covered by this Regulation.\n2. Articles 41b to 41e of this Regulation shall apply only to PPE which has been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.\n3. Articles 41b to 41e of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.\nHowever, Article 41c(7) of this Regulation shall apply during the internal market emergency mode and after its expiry or deactivation.\n4. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to PPE placed on the market in accordance with Articles 41c and 41d. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(3).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This new provision sets out conditions under which Articles 41b to 41e apply, tying their application to a Commission implementing act adopted under Article 28 of Regulation (EU) 2024/2747, to PPE designated as crisis-relevant goods under Article 18(4) of that Regulation, and to the activation of the internal market emergency mode under Article 18 of that Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41a",
+              "label": "Art. 41a, 02016R0425-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also states that Article 41c(7) continues to apply during the emergency mode and after its expiry or deactivation, and empowers the Commission to adopt implementing acts on corrective or restrictive actions, procedures, and labelling and traceability requirements for PPE placed on the market under Articles 41c and 41d, following the examination procedure in Article 44(3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41a",
+              "label": "Art. 41a, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 41b"
+        },
+        "heading": "Prioritisation of the conformity assessment of PPE designated as crisis-relevant goods",
+        "before": null,
+        "after": "Article 41b\nPrioritisation of the conformity assessment of PPE designated as crisis-relevant goods\n1. This Article applies to PPE listed in the implementing act referred to in Article 41a(1) that is subject to the conformity assessment procedures referred to in Article 19 that require the mandatory involvement of a notified body.\n2. The notified bodies shall make best efforts to process as a matter of priority all applications for a conformity assessment of PPE referred to in paragraph 1 of this Article, irrespective of whether those applications have been lodged before or after the activation of the emergency procedures pursuant to Article 41a.\n3. The prioritisation of applications for a conformity assessment of PPE pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those applications.\n4. The notified bodies shall make reasonable efforts to increase their testing capacities for PPE referred to in paragraph 1 in respect of which they have been notified.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article setting out rules for prioritising conformity assessment of PPE designated as crisis-relevant goods, covering PPE listed in the implementing act referred to in Article 41a(1) that requires mandatory notified body involvement, priority handling of applications by notified bodies regardless of lodging date, a limit on disproportionate additional costs to manufacturers from such prioritisation, and an expectation of reasonable efforts by notified bodies to expand testing capacity.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41b",
+              "label": "Art. 41b, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 41c"
+        },
+        "heading": "Derogation from the conformity assessment procedures requiring the mandatory involvement of a notified body",
+        "before": null,
+        "after": "Article 41c\nDerogation from the conformity assessment procedures requiring the mandatory involvement of a notified body\n1. By way of derogation from Article 19, a Member State may authorise, on a duly justified request from an economic operator, the placing on the market within the territory of that Member State, of specific PPE listed in the implementing act referred to in Article 41a(1) and for which the conformity assessment procedures referred to in Article 19 that require the mandatory involvement of a notified body have not been carried out but for which the compliance with all the applicable essential health and safety requirements laid down in Annex II has been demonstrated in accordance with procedures referred to in that authorisation.\n2. The Member State shall immediately inform the Commission and the other Member States of any authorisation granted in accordance with paragraph 1 of this Article. Provided that the requirements set out in the authorisation ensure conformity with the applicable essential health and safety requirements laid down in Annex II, the Commission shall adopt, without delay, an implementing act extending the validity of the authorisation granted by a Member State in accordance with paragraph 1 of this Article to the territory of the whole Union and shall set out the conditions under which the specific PPE may be placed on the market. When preparing the draft implementing act, the Commission may request national market surveillance authorities to provide relevant information or comments regarding the technical assessment that served as the basis for the authorisation referred to in paragraph 1 of this Article. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 44(3).\nThe PPE subject to the extension of validity referred to in the first subparagraph shall bear the information that it is placed on the market as a crisis-relevant good. The implementing act referred to in the first subparagraph shall specify the content and presentation of that information. That information, as well as any labelling, shall be clear, understandable and intelligible and, where relevant, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.\n3. On duly justified imperative grounds of urgency relating to the need to preserve the health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 44(4).\n4. As long as an implementing act as referred to in paragraph 2 or 3 is not adopted, the authorisation granted by a competent national authority in one Member State shall be valid only on the territory of that Member State, and on the territories of any other Member States whose competent national authorities have recognised the validity of that authorisation before the adoption of such an implementing act. Member States shall inform the Commission and the other Member States of any decision to recognise the validity of that authorisation.\n5. Manufacturers of PPE subject to the authorisation procedure referred to in paragraph 1 shall declare on their sole responsibility that the PPE concerned complies with all the applicable essential health and safety requirements set out in Annex II and shall be responsible for the fulfilment of all the conformity assessment procedures indicated by the competent national authority.\n6. Any authorisation issued pursuant to paragraph 1 shall set out the conditions and requirements under which the PPE may be placed on the market. Such authorisations shall set out at least the following:\n(a) a description of the procedures by means of which compliance with the applicable essential health and safety requirements set out in Annex II to this Regulation was successfully demonstrated;\n(b) any specific requirements regarding the traceability of the PPE concerned;\n(c) an end date of validity of the authorisation, which cannot go beyond the last day of the period for which the internal market emergency mode has been activated in accordance with Article 18 of Regulation (EU) 2024/2747;\n(d) any specific requirements regarding the need to ensure a continuous conformity assessment with respect to the PPE concerned;\n(e) measures to be taken upon expiry or deactivation of the internal market emergency mode with respect to the PPE concerned that has been placed on the market.\n7. By way of derogation from Articles 7, 16 and 17, PPE for which an authorisation has been granted in accordance with paragraph 1 of this Article shall not bear the CE marking and Article 7 shall not apply.\n8. The market surveillance authorities of a Member State where an authorisation pursuant to paragraphs 1, 2 and 4 of this Article is valid shall be entitled, with respect to such PPE, to take all corrective and restrictive actions at national level provided for under Regulation (EU) 2019/1020 of the European Parliament and of the Council\nRegulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1). and under this Regulation. They shall immediately inform the Commission and the market surveillance authorities of all other Member States of these actions.\n9. The use of the authorisation procedure set out in paragraphs 1 to 4 of this Article shall not affect the application on the territory of the Member State concerned of the relevant conformity assessment procedures laid down in Article 19.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is an entirely new article setting out a national derogation procedure allowing a Member State, on an economic operator's duly justified request, to authorise the placing on the market of specific PPE listed in an implementing act even though the mandatory notified-body conformity assessment procedures under Article 19 have not been carried out, provided compliance with the essential health and safety requirements of Annex II is otherwise demonstrated.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41c",
+              "label": "Art. 41c, 02016R0425-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The new text also sets out the process for notifying the Commission and other Member States, extending an authorisation's validity across the Union by implementing act, labelling of the PPE as a crisis-relevant good, urgency procedures, manufacturer declarations, required contents of authorisations, non-application of CE marking rules, market surveillance powers, and the relationship of this procedure to Article 19.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41c",
+              "label": "Art. 41c, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 41d"
+        },
+        "heading": "Presumption of conformity based on standards and common specifications",
+        "before": null,
+        "after": "Article 41d\nPresumption of conformity based on standards and common specifications\n1. Where PPE has been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications for such PPE to cover the applicable essential health and safety requirements set out in Annex II to this Regulation in the following cases:\n(a) where a reference to harmonised standards covering the applicable essential health and safety requirements set out in Annex II to this Regulation has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period; or\n(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that cover the applicable essential health and safety requirements set out in Annex II to this Regulation and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.\n2. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing a presumption of conformity in accordance with paragraph 5. To that end, references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.\n3. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 44(3) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.\n4. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Regulation and shall duly consult all relevant stakeholders.\n5. Without prejudice to Article 14, PPE that is in conformity with the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, shall be presumed to be in conformity with the applicable essential health and safety requirements set out in Annex II that are covered by those standards, common specifications or parts thereof. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible for manufacturers to rely on the presumption of conformity provided by the standards or the common specifications referred to in the implementing acts referred to in paragraph 1 of this Article.\n6. By way of derogation from Article 41a(3), first subparagraph, unless there is sufficient reason to believe that the PPE covered by the standards or common specifications referred to in paragraph 1 of this Article presents a risk to the health or safety of persons, the PPE that is in conformity with those standards or common specifications and which has been placed on the market shall be deemed to be in conformity with the applicable essential health and safety requirements set out in Annex II after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.\n7. When a Member State considers that a standard or common specification as referred to in paragraph 1 does not entirely satisfy the applicable essential health and safety requirements set out in Annex II, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This provision is entirely new, adding Article 41d, which allows the Commission to adopt implementing acts listing standards or establishing common specifications for PPE designated as crisis-relevant goods, applicable when harmonised standards are missing or when internal market emergency mode disruptions limit manufacturers' use of existing harmonised standards.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41d",
+              "label": "Art. 41d, 02016R0425-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The new article sets out procedures for adopting and consulting on such implementing acts, the duration of their application tied to the internal market emergency mode, the presumption of conformity they confer, a derogation concerning PPE already placed on the market, and a mechanism for Member States to flag inadequacies in a listed standard or specification.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41d",
+              "label": "Art. 41d, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "AR 41e"
+        },
+        "heading": "Prioritisation of market surveillance activities and mutual assistance among authorities",
+        "before": null,
+        "after": "Article 41e\nPrioritisation of market surveillance activities and mutual assistance among authorities\n1. Member States shall prioritise the market surveillance activities for PPE listed in the implementing act referred to in Article 41a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.\n2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for PPE listed in the implementing act referred to in Article 41a(1).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This article is entirely new, introducing a requirement for Member States to prioritise market surveillance activities for PPE listed in the implementing act referenced in Article 41a(1), with the Commission facilitating coordination through the Union Product Compliance Network.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41e",
+              "label": "Art. 41e, 02016R0425-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also adds a duty on market surveillance authorities to make best efforts to assist other such authorities during an internal market emergency mode, including through expert teams or logistical support such as reinforced testing capacity for the listed PPE.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0425",
+                  "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+                },
+                "version": "02016R0425-20260529",
+                "location": "AR 41e"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41e",
+              "label": "Art. 41e, 02016R0425-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0425",
+            "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+          },
+          "version": "02016R0425-20260529",
+          "location": "CHA VIa"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2748, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0425",
+      "display_name": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)"
+    },
+    "from_version": "32016R0425",
+    "to_version": "02016R0425-20260529",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 41a",
+          "AR 41b",
+          "AR 41c",
+          "AR 41d",
+          "AR 41e"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 3",
+          "CHA VIa"
+        ],
+        "note": "3 annotations in (the act itself, 2026-05-29]",
+        "claims": [
+          {
+            "location": "CHA VIa",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PO 20",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 3 PO 19",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 3",
+          "AR 41a",
+          "AR 41b",
+          "AR 41c",
+          "AR 41d",
+          "AR 41e"
+        ],
+        "note": "32024R2748, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 41a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 41b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 41c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 41d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 41e",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 003 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 6,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 41a",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 41b",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 41c",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 41d",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 41e",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "CHA VIa",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "CHA VIa"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 6,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 25647,
+      "output_tokens": 1938,
+      "requests": 7,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 12,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
