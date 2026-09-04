@@ -858,9 +858,9 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 ### `02016R1011-20240109` → `02016R1011-20250117`
 
 - **Act** `eu:32016R1011` · **In force** 2025-01-17 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20240109` · `v2` = `02016R1011-20250117`
 
 ---
@@ -868,8 +868,6 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 **MODIFIED · Art. 6 — Control framework requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 6 PA 6` · *dates* +2022-12-14 · *amended by* `32022R2554`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds a new paragraph 6 to Article 6, which was not present in the before version. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
 
@@ -907,16 +905,6 @@ No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](http
 > (b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.
 > 5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.
 > 6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance wi […truncated by emendrix: 371 characters omitted…]
-
-**MODIFIED · Art. 63** · applies from: unknown
-
-*amended by* `32022R2554`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20250117 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20240109 -->
