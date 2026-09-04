@@ -501,28 +501,16 @@ A new Article 32b is added, setting out the conditions under which the Commissio
 ### `32016R1037` → `02016R1037-20171220`
 
 - **Act** `eu:32016R1037` · **In force** 2017-12-20 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R1037` · `v2` = `02016R1037-20171220`
 
 ---
 
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32017R2321`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 10 — Initiation of proceedings** · applies from: unchanged
 
 *within* `AR 10 PA 7 ALN 2` · *amended by* `32017R2321`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 7 now adds text providing that the Commission shall also offer consultations to the country of origin and/or export concerning other subsidies identified during the investigation, and shall send that country a summary of the main elements relating to those other subsidies, in particular those referred to in point (c) of paragraph 2. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20171220#art_10)
 
