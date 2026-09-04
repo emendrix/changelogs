@@ -6811,7 +6811,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 *within* `AN III SCT 1`, `AN III SCT 2`, `AN III SCT 3` · *amended by* `32013R0487`, `32013R0517`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02008R1272-20110419`)
 
