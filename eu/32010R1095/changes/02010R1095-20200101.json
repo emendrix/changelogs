@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 8,
     "quoted": 0,
-    "unexplained": 8
+    "unexplained": 4
   },
   "changes": [
     {
@@ -1861,11 +1861,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now adds that the Authority's initiative to investigate can be based on well substantiated information from natural or legal persons, requires the Authority to outline how it intends to proceed with a case, makes the subsequent investigation conditional on appropriateness rather than automatic, and adds a new mechanism allowing the Authority to address a duly justified and reasoned information request directly to other competent authorities when the concerned authority's response has proven or is deemed insufficient, with the addressee obliged to provide clear, accurate and complete information without undue delay.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17",
+              "label": "Art. 17, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 2a is inserted requiring the Authority, without prejudice to its other powers and before issuing a recommendation under paragraph 3, to engage with the competent authority concerned where it considers such engagement appropriate, in an attempt to reach agreement on the actions needed to comply with Union law.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17",
+              "label": "Art. 17, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 6 and 7 are reworded with minor phrasing changes, such as referencing 'legislative acts' and adjusting cross-reference wording, without altering their substantive content.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_17",
+              "label": "Art. 17, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 17"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17",
+              "label": "Art. 17, 02010R1095-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5054,11 +5125,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision on voting changes each member's vote to each voting member's vote, replaces the panel-based consolidating-supervisor decision rule and the general Article 19(3) rule with new provisions on the Chairperson not voting on qualified-majority decisions, a consensus-seeking and three-quarters majority rule for panel composition under Article 41 and peer review committee membership under Article 30(2), and a simple-majority rule for decisions under Article 18(3) and (4).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_44",
+              "label": "Art. 44, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44",
+              "label": "Art. 44, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 no longer concerns only the rules of procedure on voting and quorum, but instead sets out a new written voting procedure for decisions under Articles 17, 19 and 30, including an eight-working-day voting period, treatment of abstentions, and a mechanism allowing three voting members to require discussion under the paragraph 1 procedure, while also removing the Chairperson's exemption from the ban on attending discussions on individual financial market participants and referring to legislative acts rather than acts under Article 1(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_44",
+              "label": "Art. 44, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44",
+              "label": "Art. 44, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 5 is added giving the Chairperson the prerogative to call a vote at any time and stating that the Board of Supervisors shall strive for consensus when taking decisions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 44"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44",
+              "label": "Art. 44, 02010R1095-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5120,11 +5275,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The description of the Management Board's composition now refers to six members rather than six other members, and pronoun references throughout the article were changed to gender-neutral wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_45",
+              "label": "Art. 45, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45",
+              "label": "Art. 45, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The requirement that the composition be balanced and proportionate was changed to specify that it be gender balanced and proportionate.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_45",
+              "label": "Art. 45, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45",
+              "label": "Art. 45, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The former text on decision-making by majority vote, participation of the Executive Director and the Commission representative, and adoption of rules of procedure no longer appears, and the remaining content was reorganised into fewer numbered paragraphs.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45",
+              "label": "Art. 45, 02010R1095-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7410,11 +7649,95 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision restructures the accounts and reporting procedure, splitting the former single paragraph on provisional accounts into separate steps for sending provisional accounts, sending consolidation information, and sending the budgetary and financial management report, each with its own deadline.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_64",
+              "label": "Art. 64, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64",
+              "label": "Art. 64, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The final accounts procedure changes from the Management Board delivering an opinion to the Board of Supervisors delivering that opinion, and a new requirement is added for the accounting officer to send a standardised reporting package to the Commission's accounting officer by 15 June each year.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20140523",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_64",
+              "label": "Art. 64, 02010R1095-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64",
+              "label": "Art. 64, 02010R1095-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The publication of final accounts now specifies publication in the Official Journal of the European Union by 15 November of the following year, the internal cross-references to the Financial Regulation are updated to different article numbers, and a new closing paragraph requires the Authority to provide a reasoned opinion on the European Parliament's position and observations in the discharge procedure.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1095",
+                  "display_name": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC"
+                },
+                "version": "02010R1095-20200101",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64",
+              "label": "Art. 64, 02010R1095-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -12792,6 +13115,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 26214,
+        "output_tokens": 2662,
+        "requests": 6,
+        "schema_repairs": 2
       },
       "coordinates_checked": false
     }

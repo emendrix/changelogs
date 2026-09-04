@@ -520,7 +520,7 @@ The rest of Article 40, including the existing sentence on Directive 97/9/EC rep
 - **Act** `eu:32010R1095` · **In force** 2020-01-01 · **Detected** 2026-08-13
 - **Touched** 68 provisions — 68 substantive · 0 date-only · **8 disputed**
 - **Diff** 12 inserted · 56 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
-- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20140523` · `v2` = `02010R1095-20200101`
 
 ---
@@ -890,7 +890,11 @@ The text describes the Authority's role in seeking clarification, publishing or 
 
 *within* `AR 17 PA 2 ALN 1`, `AR 17 PA 2a`, `AR 17 PA 6 ALN 1`, `AR 17 PA 6 ALN 2`, `AR 17 PA 7 ALN 1`, `AR 17 PA 7 ALN 2` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 2 now adds that the Authority's initiative to investigate can be based on well substantiated information from natural or legal persons, requires the Authority to outline how it intends to proceed with a case, makes the subsequent investigation conditional on appropriateness rather than automatic, and adds a new mechanism allowing the Authority to address a duly justified and reasoned information request directly to other competent authorities when the concerned authority's response has proven or is deemed insufficient, with the addressee obliged to provide clear, accurate and complete information without undue delay. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17)
+
+A new paragraph 2a is inserted requiring the Authority, without prejudice to its other powers and before issuing a recommendation under paragraph 3, to engage with the competent authority concerned where it considers such engagement appropriate, in an attempt to reach agreement on the actions needed to comply with Union law. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17)
+
+Paragraphs 6 and 7 are reworded with minor phrasing changes, such as referencing 'legislative acts' and adjusting cross-reference wording, without altering their substantive content. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17)
 
 *before* (`02010R1095-20140523`)
 
@@ -1537,7 +1541,11 @@ The new article also states that such records shall not reflect discussions with
 
 *within* `AR 44 PA 1 ALN 1`, `AR 44 PA 1 ALN 2`, `AR 44 PA 1 ALN 3`, `AR 44 PA 1 ALN 4`, `AR 44 PA 1 ALN 5`, `AR 44 PA 4 ALN 1`, `AR 44 PA 4 ALN 2`, `AR 44 PA 5` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision on voting changes each member's vote to each voting member's vote, replaces the panel-based consolidating-supervisor decision rule and the general Article 19(3) rule with new provisions on the Chairperson not voting on qualified-majority decisions, a consensus-seeking and three-quarters majority rule for panel composition under Article 41 and peer review committee membership under Article 30(2), and a simple-majority rule for decisions under Article 18(3) and (4). [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44)
+
+Paragraph 4 no longer concerns only the rules of procedure on voting and quorum, but instead sets out a new written voting procedure for decisions under Articles 17, 19 and 30, including an eight-working-day voting period, treatment of abstentions, and a mechanism allowing three voting members to require discussion under the paragraph 1 procedure, while also removing the Chairperson's exemption from the ban on attending discussions on individual financial market participants and referring to legislative acts rather than acts under Article 1(2). [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44)
+
+A new paragraph 5 is added giving the Chairperson the prerogative to call a vote at any time and stating that the Board of Supervisors shall strive for consensus when taking decisions. [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_44)
 
 *before* (`02010R1095-20140523`)
 
@@ -1566,7 +1574,11 @@ The new article also states that such records shall not reflect discussions with
 
 *within* `AR 45 PA 1 ALN 1`, `AR 45 PA 1 ALN 2`, `AR 45 PA 2 ALN 1`, `AR 45 PA 3 ALN 1` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The description of the Management Board's composition now refers to six members rather than six other members, and pronoun references throughout the article were changed to gender-neutral wording. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45)
+
+The requirement that the composition be balanced and proportionate was changed to specify that it be gender balanced and proportionate. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45)
+
+The former text on decision-making by majority vote, participation of the Executive Director and the Commission representative, and adoption of rules of procedure no longer appears, and the remaining content was reorganised into fewer numbered paragraphs. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_45)
 
 *before* (`02010R1095-20140523`)
 
@@ -2069,7 +2081,11 @@ A new paragraph requires authorisation from the European Parliament and the Coun
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision restructures the accounts and reporting procedure, splitting the former single paragraph on provisional accounts into separate steps for sending provisional accounts, sending consolidation information, and sending the budgetary and financial management report, each with its own deadline. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64)
+
+The final accounts procedure changes from the Management Board delivering an opinion to the Board of Supervisors delivering that opinion, and a new requirement is added for the accounting officer to send a standardised reporting package to the Commission's accounting officer by 15 June each year. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64)
+
+The publication of final accounts now specifies publication in the Official Journal of the European Union by 15 November of the following year, the internal cross-references to the Financial Regulation are updated to different article numbers, and a new closing paragraph requires the Authority to provide a reasoned opinion on the European Parliament's position and observations in the discharge procedure. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_64)
 
 *before* (`02010R1095-20140523`)
 
