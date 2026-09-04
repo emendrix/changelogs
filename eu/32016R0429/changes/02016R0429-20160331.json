@@ -1,0 +1,821 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0429",
+    "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+  },
+  "from_version": "32016R0429",
+  "to_version": "02016R0429-20160331",
+  "detected_on": "2026-09-04",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 8,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 8,
+    "unchanged_units": 280,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 8,
+    "substantive": 8,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 14"
+        },
+        "heading": "Delegation by a competent authority of official activities",
+        "before": "Article 14\nDelegation by a competent authority of official activities\n1. The competent authority may delegate one or more of the following activities to veterinarians other than official veterinarians:\n(a) practical application of measures under the eradication programmes provided for in Article 32;\n(b) supporting the competent authority in carrying out surveillance as provided for in Article 26 or in relation to surveillance programmes as provided for in Article 28;\n(c) activities related to:\n(i) disease awareness, preparedness and control as provided for in Part III, concerning:\nsampling activities and implementation of investigations and epidemiological enquiries within the framework of Article 54, points (b) to (g) of Article 55(1), and Articles 57, 73, 74, 79 and 80 in the event of the suspected presence of a disease, and any implementing and delegated acts adopted pursuant to those Articles;\ncarrying out activities relating to disease control measures in the event of an outbreak of disease, as regards activities listed in Article 61, points (a), (b), (e), (f) and (i) of Article 65(1), Article 70(1), Articles 79 and 80, and Article 81(1) and (2), and any implementing and delegated acts adopted pursuant to those Articles;\ncarrying out emergency vaccination in accordance with Article 69;\n(ii) registration, approval, traceability and movements as provided for in Part IV;\n(iii) issuing and completing the identification documents for pet animals as provided for in point (c) of Article 247, point (c) of Article 248(2), point (c) of Article 249(1) and point (c) of Article 250(2);\n(iv) the application and use of means of identification as referred to in point (a)(ii) of Article 252(1).\n2. Member States may provide for natural or legal persons to be authorised to perform activities referred to in points (a), (b) and (c)(i), (ii) and (iv) of paragraph 1 for specifically identified tasks for which those persons have sufficient specific knowledge. In that event, paragraph 1 of this Article and the responsibilities laid down in Article 12 shall apply to those persons.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning other activities which may be delegated to veterinarians in addition to those provided for in paragraph 1, and, as appropriate, to prescribe the necessary circumstances and conditions for such delegation.\nThe Commission shall take account of the nature of those activities and of relevant international standards when adopting those delegated acts.",
+        "after": "Article 14\nDelegation by a competent authority of official activities\n1. The competent authority may delegate one or more of the following activities to veterinarians other than official veterinarians:\n(a) practical application of measures under the eradication programmes provided for in Article 32;\n(b) supporting the competent authority in carrying out surveillance as provided for in Article 26 or in relation to surveillance programmes as provided for in Article 28;\n(c) activities related to:\n(i) disease awareness, preparedness and control as provided for in Part III, concerning:\nsampling activities and implementation of investigations and epidemiological enquiries within the framework of Article 54, points (b) to (g) of Article 55(1), and Articles 57, 73, 74, 79 and 80 in the event of the suspected presence of a disease, and any implementing and delegated acts adopted pursuant to those Articles;\ncarrying out activities relating to disease control measures in the event of an outbreak of disease, as regards activities listed in Article 61, points (a), (b), (e), (f) and (i) of Article 65(1), Article 70(1), Articles 79, 80, 81 and 82, and any implementing and delegated acts adopted pursuant to those Articles;\ncarrying out emergency vaccination in accordance with Article 69;\n(ii) registration, approval, traceability and movements as provided for in Part IV;\n(iii) issuing and completing the identification documents for pet animals as provided for in point (c) of Article 247, point (c) of Article 248(2), point (c) of Article 249(1) and point (c) of Article 250(2);\n(iv) the application and use of means of identification as referred to in point (a)(ii) of Article 252(1).\n2. Member States may provide for natural or legal persons to be authorised to perform activities referred to in points (a), (b) and (c)(i), (ii) and (iv) of paragraph 1 for specifically identified tasks for which those persons have sufficient specific knowledge. In that event, paragraph 1 of this Article and the responsibilities laid down in Article 12 shall apply to those persons.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning other activities which may be delegated to veterinarians in addition to those provided for in paragraph 1, and, as appropriate, to prescribe the necessary circumstances and conditions for such delegation.\nThe Commission shall take account of the nature of those activities and of relevant international standards when adopting those delegated acts.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 14 PA 1 ALN 1 PTA (c) PTI (i)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of article references in point (c)(i) of paragraph 1, second indent, was changed from citing Articles 79 and 80 to citing Articles 79, 80, 81 and 82.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 14"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_14",
+              "label": "Art. 14, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 14"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_14",
+              "label": "Art. 14, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 149"
+        },
+        "heading": "Responsibility of the competent authority for animal health certification",
+        "before": "Article 149\nResponsibility of the competent authority for animal health certification\n1. The competent authority shall, upon request by an operator, issue an animal health certificate for the movement of kept terrestrial animals, where required by Article 143 or by delegated acts adopted pursuant to Article 144(1), provided that the following movement requirements have been complied with:\n(a) those provided for in Article 124, Article 125(1), Articles 126, 128, 129, 130, 133 and 134, Articles 136(1) and 137(1), Article 138 and Article 139;\n(b) those provided for in delegated acts adopted pursuant to Articles 125(2) and 131(1), Article 135, Articles 136(2), 137(2), 138(4) and 139(4) and Article 140;\n(c) those provided for in implementing acts adopted pursuant to Article 141.\n2. Animal health certificates shall:\n(a) be verified, stamped and signed by an official veterinarian;\n(b) remain valid for the period of time provided for in the rules adopted pursuant to point (c) of paragraph 4, during which the kept terrestrial animals covered by it continue to fulfil the animal health guarantees contained in it.\n3. Before signing an animal health certificate, the official veterinarian concerned shall verify, by means of documentary, identity and physical checks as provided for by delegated acts adopted pursuant to paragraph 4, that the kept terrestrial animals covered by it fulfil the requirements of this Chapter.\n4. The Commission shall adopt delegated acts in accordance with Article 264 laying down rules concerning:\n(a) the types of documentary, identity and physical checks and examinations in relation to different species and categories of kept terrestrial animals that must be carried out by the official veterinarian in accordance with paragraph 3 in order to verify compliance with the requirements of this Chapter;\n(b) the timeframes for the carrying-out of such documentary, identity and physical checks and examinations and the issuing of animal health certificates by the official veterinarian prior to the movement of consignments of kept terrestrial animals;\n(c) the duration of the validity of animal health certificates.",
+        "after": "Article 149\nResponsibility of the competent authority for animal health certification\n1. The competent authority shall, upon request by an operator, issue an animal health certificate for the movement of kept terrestrial animals, where required by Article 143 or by delegated acts adopted pursuant to Article 144(1), provided that the following movement requirements have been complied with:\n(a) those provided for in Article 124, Article 125(1), Articles 126, 128, 129, 130, 133 and 134, Articles 136(1) and 137(1), Article 138 and Article 139;\n(b) those provided for in delegated acts adopted pursuant to Articles 125(2) and 131(1), Article 135, Articles 136(2), 137(2), 138(3) and 139(4) and Article 140;\n(c) those provided for in implementing acts adopted pursuant to Article 141.\n2. Animal health certificates shall:\n(a) be verified, stamped and signed by an official veterinarian;\n(b) remain valid for the period of time provided for in the rules adopted pursuant to point (c) of paragraph 4, during which the kept terrestrial animals covered by it continue to fulfil the animal health guarantees contained in it.\n3. Before signing an animal health certificate, the official veterinarian concerned shall verify, by means of documentary, identity and physical checks as provided for by delegated acts adopted pursuant to paragraph 4, that the kept terrestrial animals covered by it fulfil the requirements of this Chapter.\n4. The Commission shall adopt delegated acts in accordance with Article 264 laying down rules concerning:\n(a) the types of documentary, identity and physical checks and examinations in relation to different species and categories of kept terrestrial animals that must be carried out by the official veterinarian in accordance with paragraph 3 in order to verify compliance with the requirements of this Chapter;\n(b) the timeframes for the carrying-out of such documentary, identity and physical checks and examinations and the issuing of animal health certificates by the official veterinarian prior to the movement of consignments of kept terrestrial animals;\n(c) the duration of the validity of animal health certificates.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 149 PA 1 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (b) of Article 149(1), the cross-reference to Article 138(4) has been changed to Article 138(3).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_149",
+              "label": "Art. 149, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_149",
+              "label": "Art. 149, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 209"
+        },
+        "heading": "Obligation of operators to ensure that other aquatic animals are accompanied by an animal health certificate",
+        "before": "Article 209\nObligation of operators to ensure that other aquatic animals are accompanied by an animal health certificate and implementing power\n1. In cases where, due to the risk involved with the movement of aquatic animals other than aquaculture animals, animal health certification is required in accordance with the rules provided for in point (a) of Article 211(1), operators shall only move those aquatic animals if the animals in question are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Article 216(1).\n2. Article 208 shall also apply to aquatic animals other than aquaculture animals intended for an aquaculture establishment or release into the wild. Where the competent authority of the Member State of origin concludes that certification is not feasible due to the nature of the place of origin of the aquatic animals in question, it may authorise their movement without an animal health certificate subject to the consent of the competent authority of the place of destination.\n3. This Article shall not apply to wild aquatic animals harvested or caught for direct human consumption.",
+        "after": "Article 209\nObligation of operators to ensure that other aquatic animals are accompanied by an animal health certificate\n1. In cases where, due to the risk involved with the movement of aquatic animals other than aquaculture animals, animal health certification is required in accordance with the rules provided for in point (a) of Article 211(1), operators shall only move those aquatic animals if the animals in question are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Article 216(1).\n2. Article 208 shall also apply to aquatic animals other than aquaculture animals intended for an aquaculture establishment or release into the wild. Where the competent authority of the Member State of origin concludes that certification is not feasible due to the nature of the place of origin of the aquatic animals in question, it may authorise their movement without an animal health certificate subject to the consent of the competent authority of the place of destination.\n3. This Article shall not apply to wild aquatic animals harvested or caught for direct human consumption.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 209"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading of this Article has been shortened by removing the phrase referring to an implementing power, while the numbered paragraphs of the Article remain identical in wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 209"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_209",
+              "label": "Art. 209, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 209"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_209",
+              "label": "Art. 209, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 219"
+        },
+        "heading": "Obligation of operators concerning the notification of movements of aquatic animals to other Member States",
+        "before": "Article 219\nObligation of operators concerning the notification of movements of aquatic animals to other Member States\n1. Operators other than transporters shall notify the competent authority in their Member State of origin in advance of intended movements of aquatic animals from one Member State to another Member State where:\n(a) the aquatic animals are required to be accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Articles 208 and 209 and any rules adopted pursuant to Article 211 and Article 214(2);\n(b) the aquatic animals are required to be accompanied by an animal health certificate for aquatic animals when they are being moved from a restricted zone as referred to in Article point (a) of 208(2);\n(c) the aquaculture animals and wild aquatic animals being moved are intended for:\n(i) an establishment subject to registration in accordance with Article 173 or approval in accordance with Articles 176 to 179;\n(ii) release into the wild;\n(d) notification is required in accordance with delegated acts adopted pursuant to Article 221.\n2. For the purposes of the notification provided for in paragraph 1 of this Article, operators shall provide the competent authority of their Member State of origin with all the necessary information to enable it to notify the movement to the competent authority of the Member State of destination in accordance with Article 220(1).",
+        "after": "Article 219\nObligation of operators concerning the notification of movements of aquatic animals to other Member States\n1. Operators other than transporters shall notify the competent authority in their Member State of origin in advance of intended movements of aquatic animals from one Member State to another Member State where:\n(a) the aquatic animals are required to be accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Articles 208 and 209 and any rules adopted pursuant to Articles 211 and 214;\n(b) the aquatic animals are required to be accompanied by an animal health certificate for aquatic animals when they are being moved from a restricted zone as referred to in Article 208(2);\n(c) the aquaculture animals and wild aquatic animals being moved are intended for:\n(i) an establishment subject to registration in accordance with Article 173 or approval in accordance with Articles 176 to 179;\n(ii) release into the wild;\n(d) notification is required in accordance with delegated acts adopted pursuant to Article 221.\n2. For the purposes of the notification provided for in paragraph 1 of this Article, operators shall provide the competent authority of their Member State of origin with all the necessary information to enable it to notify the movement to the competent authority of the Member State of destination in accordance with Article 220(1).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 219 PA 1 ALN 1 PTA (a)",
+          "AR 219 PA 1 ALN 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (a), the reference to rules adopted pursuant to Article 214(2) was changed to a reference to rules adopted pursuant to Article 214, and the reference to Article 211 was adjusted to refer to Articles 211 and 214 collectively.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 219"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_219",
+              "label": "Art. 219, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 219"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_219",
+              "label": "Art. 219, 02016R0429-20160331"
+            }
+          ]
+        },
+        {
+          "text": "In point (b), the wording referring to 'Article point (a) of 208(2)' was changed to refer simply to Article 208(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 219"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_219",
+              "label": "Art. 219, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 219"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_219",
+              "label": "Art. 219, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 223"
+        },
+        "heading": "Animal health certificates and delegated acts",
+        "before": "Article 223\nAnimal health certificates and delegated acts\n1. Operators shall only move the following products of animal origin from aquatic animals other than live aquatic animals where those products are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with paragraph 3:\n(a) products of animal origin from aquatic animals that:\n(i) are allowed to leave a restricted zone subject to emergency measures as provided for in rules adopted pursuant to Article 259; and\n(ii) originate from aquatic animals of species subject to those emergency measures;\n(b) products of animal origin from aquatic animals that:\n(i) are allowed to leave a restricted zone subject to disease control measures in accordance with point (c) of Article 32(1), point (c) of Article 55(1), Article 56, point (a) of Article 61(1), Articles 62(1) and 63(1), point (c) of Article 65(1), point (b) of Article 70(1), point (a) of Article 74(1) and Article 79 and the rules adopted pursuant to Article 55(2), Articles 63 and 67 and Articles 71(3), 74(4) and 83(2); and\n(ii) originate from aquatic animals of species subject to those disease control measures.\n2. By way of derogation from paragraph 1, such a certificate shall not be required for movements of products of animal origin from wild aquatic animals, provided that:\n(a) alternative risk-mitigation measures authorised by the competent authority are in place to ensure that those movements do not pose a risk of the spread of listed diseases;\n(b) consignments of such products are traceable.\n3. Operators shall take all necessary measures to ensure that the animal health certificate referred to in paragraph 1 accompanies the products of animal origin from their place of origin to their place of destination.\n4. The competent authority shall, upon request by the operator concerned, issue an animal health certificate for movements of products of animal origin other than live aquatic animals as referred to in paragraph 1, provided that the relevant requirements referred to in this Article have been complied with.\n5. Article 212 and Articles 214 to 217 and the rules adopted pursuant to Article 213 and Article 216(4) shall apply to the animal health certification of movements of products of animal origin other than live aquatic animals as referred to in paragraph 1 of this Article.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning requirements and detailed rules on the animal health certificate to accompany products of animal origin other than live aquatic animals, as referred to in paragraph 1 of this Article, taking into account:\n(a) the types of products of animal origin concerned;\n(b) the risk-mitigation measures applied to the products concerned which reduce the risks of the spread of diseases;\n(c) the intended use of those products;\n(d) the place of destination of those products.",
+        "after": "Article 223\nAnimal health certificates and delegated acts\n1. Operators shall only move the following products of animal origin from aquatic animals other than live aquatic animals where those products are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with paragraph 3:\n(a) products of animal origin from aquatic animals that:\n(i) are allowed to leave a restricted zone subject to emergency measures as provided for in rules adopted pursuant to Article 259; and\n(ii) originate from aquatic animals of species subject to those emergency measures;\n(b) products of animal origin from aquatic animals that:\n(i) are allowed to leave a restricted zone subject to disease control measures in accordance with point (c) of Article 32(1), point (c) of Article 55(1), Article 56, point (a) of Article 61(1), Article 62(1), point (c) of Article 65(1), point (b) of Article 70(1), point (a) of Article 74(1) and Article 79 and the rules adopted pursuant to Article 55(2), Articles 63 and 67 and Articles 71(3), 74(4) and 83(2); and\n(ii) originate from aquatic animals of species subject to those disease control measures.\n2. By way of derogation from paragraph 1, such a certificate shall not be required for movements of products of animal origin from wild aquatic animals, provided that:\n(a) alternative risk-mitigation measures authorised by the competent authority are in place to ensure that those movements do not pose a risk of the spread of listed diseases;\n(b) consignments of such products are traceable.\n3. Operators shall take all necessary measures to ensure that the animal health certificate referred to in paragraph 1 accompanies the products of animal origin from their place of origin to their place of destination.\n4. The competent authority shall, upon request by the operator concerned, issue an animal health certificate for movements of products of animal origin other than live aquatic animals as referred to in paragraph 1, provided that the relevant requirements referred to in this Article have been complied with.\n5. Article 212 and Articles 214 to 217 and the rules adopted pursuant to Article 213 and Article 216(4) shall apply to the animal health certification of movements of products of animal origin other than live aquatic animals as referred to in paragraph 1 of this Article.\n6. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning requirements and detailed rules on the animal health certificate to accompany products of animal origin other than live aquatic animals, as referred to in paragraph 1 of this Article, taking into account:\n(a) the types of products of animal origin concerned;\n(b) the risk-mitigation measures applied to the products concerned which reduce the risks of the spread of diseases;\n(c) the intended use of those products;\n(d) the place of destination of those products.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 223 PA 1 ALN 1 PTA (b) PTI (i)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of cross-referenced provisions in point (b)(i) of Article 223(1) no longer includes the reference to Articles 62(1) and 63(1) as a joint citation, instead citing only Article 62(1) separately.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_223",
+              "label": "Art. 223, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_223",
+              "label": "Art. 223, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 264"
+        },
+        "heading": "Exercise of the delegation",
+        "before": "Article 264\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. It is of particular importance that the Commission carry out consultations with experts, including Member States' experts, before adopting those delegated acts.\n3. The power to adopt delegated acts referred to in Articles 3(5), 5(2) 5(4), 14(3), 16(2), 18(3), 20(3), 29, 31(5), 32(2), 37(5), 39, 41(3), 42(6), 47, 48(3), 53(2), 54(3), 55(2), 58(2), 63, 64(4), 67, 68(2), 68(3), 70(3), 72(2), 73(3), 74(4), 76(5), 77(2), 87(3), 94(3), 97(2), 101(3), 106(1), 109(2), 118, 119, 122(1), 122(2), 125(2), 131(1), 132(2), 135, 136(2), 137(2), 138(3), 139(4), 140, 144(1), 146(1), 147, 149(4), 151(3), 154(1), 156(1), 160(1), 160(2), 161(6), 162(4), 163(5), 164(2), 165(3), 166(3), 167(5), 168(3), 169(5), 176(4), 181(2), 185(5), 189(1), 192(2), 197(3), 200(3), 201(3), 202(3), 203(2), 204(3), 205(2), 211(1), 213(1), 214, 216(4), 218(3), 221(1), 222(3), 223(6), 224(3), 228(1), 230(3), 234(2), 237(4), 239(2), 240(2), 241(2), 242(2), 245(3), 246(3), 249(3), 252(1), 254, 263, 271(2), 272(2), 279(2), and 280(4) shall be conferred on the Commission for a period of five years from 20 April 2016.\nThe Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n4. The delegation of power referred to in paragraph 3 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to the provisions listed in paragraph 3 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.\n7. The Commission shall allow a period of at least six months to elapse between the adoption of the respective initial delegated acts referred to in Articles 3(5), 14(3), 16(2), 20(3), 122(2), 164(2) and 228(1) and the date on which they start to apply.",
+        "after": "Article 264\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. It is of particular importance that the Commission carry out consultations with experts, including Member States' experts, before adopting those delegated acts.\n3. The power to adopt delegated acts referred to in Articles 3(5), 5(2), 5(4), 14(3), 16(2), 18(3), 20(3), 29, 31(5), 32(2), 37(5), 39, 41(3), 42(6), 47(1), 48(3), 53(2), 54(3), 55(2), 58(2), 63, 64(4), 67, 68(2), 68(3), 70(3), 72(2), 73(3), 74(4), 76(5), 77(2), 87(3), 94(3), 97(2), 101(3), 106(1), 109(2), 118(1), 118(2), 119(1), 122(1), 122(2), 125(2), 131(1), 132(2), 135, 136(2), 137(2), 138(3), 139(4), 140, 144(1), 146(1), 147, 149(4), 151(3), 154(1), 156(1), 160(1), 160(2),161(6), 162(3), 162(4), 163(5), 164(2), 165(3), 166(3), 167(5), 168(3), 169(5), 176(4), 181(2), 185(5), 189(1), 192(2), 197(3), 200(3), 201(3), 202(3), 203(2), 204(3), 205(2), 211(1), 213(1), 214, 216(4), 218(3), 221(1), 222(3), 223(6), 224(3), 228(1), 230(3), 234(2), 237(4), 239(2), 240(2), 241(2), 242(2), 245(3), 246(3), 249(3), 252(1), 254, 263, 271(2), 272(2), 279(2), and 280(4) shall be conferred on the Commission for a period of five years from 20 April 2016.\nThe Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.\n4. The delegation of power referred to in paragraph 3 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to the provisions listed in paragraph 3 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.\n7. The Commission shall allow a period of at least six months to elapse between the adoption of the respective initial delegated acts referred to in Articles 3(5), 14(3), 16(2), 20(3), 122(2), 164(2) and 228(1) and the date on which they start to apply.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 264 PA 3 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 271"
+        },
+        "heading": "Transitional measures related to the amendment of Regulation (EC) No 1760/2000 and the repeal of Regulation (EC) No 21/2004 and Directive 2008/71/EC",
+        "before": "Article 271\nTransitional measures related to the amendment of Regulation (EC) No 1760/2000 and the repeal of Regulation (EC) No 21/2004 and Directive 2008/71/EC\n1. Notwithstanding Article 270(2) and Article 278 of this Regulation, Articles 1 to 10 of Regulation (EC) No 1760/2000, Regulation (EC) No 21/2004, and Directive 2008/71/EC, as well as the acts adopted on the basis thereof, shall continue to apply, instead of the corresponding Articles in this Regulation, until three years after the date of application of this Regulation or an earlier date to be determined in a delegated act adopted in accordance with paragraph 2 of this Article.\n2. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning the earlier date referred to in paragraph 1 of this Article.\nThat date shall be the date of application of the corresponding rules to be adopted pursuant to the delegated acts provided for in Article 109(2) and Article 119 and the implementing acts provided for in Article 118 of this Regulation.",
+        "after": "Article 271\nTransitional measures related to the amendment of Regulation (EC) No 1760/2000 and the repeal of Regulation (EC) No 21/2004 and Directive 2008/71/EC\n1. Notwithstanding Article 270(2) and Article 278 of this Regulation, Articles 1 to 10 of Regulation (EC) No 1760/2000, Regulation (EC) No 21/2004, and Directive 2008/71/EC, as well as the acts adopted on the basis thereof, shall continue to apply, instead of the corresponding Articles in this Regulation, until three years after the date of application of this Regulation or an earlier date to be determined in a delegated act adopted in accordance with paragraph 2 of this Article.\n2. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning the earlier date referred to in paragraph 1 of this Article.\nThat date shall be the date of application of the corresponding rules to be adopted pursuant to the delegated acts provided for in Article 109(2) and Article 119 and the implementing acts provided for in Article 120 of this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 271 PA 2 ALN 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The reference in the second paragraph to the implementing acts provided for changed from Article 118 to Article 120 of the Regulation, with the rest of the text unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 271"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_271",
+              "label": "Art. 271, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 271"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_271",
+              "label": "Art. 271, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0429",
+            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+          },
+          "version": "02016R0429-20160331",
+          "location": "AR 274"
+        },
+        "heading": "Transitional measures related to the date of adoption of certain delegated and implementing acts",
+        "before": "Article 274\nTransitional measures related to the date of adoption of certain delegated and implementing acts\nWithout prejudice to the date of application provided for in Article 283, the Commission shall adopt the delegated acts referred to in the first subparagraph of Article 31(5), Articles 32(2), 39, 41(3), 54(3), 55(2), 58(2), 64(4), 67, 68(2), 74(4), 77(2) and 97(2), Article 122(2), and Articles 131(1), 132(2), 135, 137(2), 146(1), 149(4), 154(1), 162(3), 163(5), 166(3), 169(5), 181(2), 185(5), 213(1), 216(4), 221(1), 222(3), 224(3), 234(2), 239(1), and the implementing acts referred to in Articles 8 and 9, at the latest on 20 April 2019. In accordance with Article 283, those delegated and implementing acts shall apply from the date of application set out in that Article.",
+        "after": "Article 274\nTransitional measures related to the date of adoption of certain delegated and implementing acts\nWithout prejudice to the date of application provided for in Article 283, the Commission shall adopt the delegated acts referred to in the first subparagraph of Article 31(5), Articles 32(2), 39, 41(3), 54(3), 55(2), 58(2), 64(4), 67, 68(2), 74(4), 77(2) and 97(2), Article 122(1), and Articles 131(1), 132(2), 135, 137(2), 146(1), 149(4), 154(1), 162(3), 163(5), 166(3), 169(5), 181(2), 185(5), 213(1), 216(4), 221(1), 222(3), 224(3), 234(2), 239(2), and the implementing acts referred to in Articles 8 and 9, at the latest on 20 April 2019. In accordance with Article 283, those delegated and implementing acts shall apply from the date of application set out in that Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 274 ALN 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of provisions for which delegated acts must be adopted was changed by substituting the reference to Article 122(2) with Article 122(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 274"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_274",
+              "label": "Art. 274, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 274"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_274",
+              "label": "Art. 274, 02016R0429-20160331"
+            }
+          ]
+        },
+        {
+          "text": "Similarly, the reference to Article 239(1) was replaced with a reference to Article 239(2).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "32016R0429",
+                "location": "AR 274"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_274",
+              "label": "Art. 274, 32016R0429"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0429",
+                  "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+                },
+                "version": "02016R0429-20160331",
+                "location": "AR 274"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_274",
+              "label": "Art. 274, 02016R0429-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0429",
+      "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
+    },
+    "from_version": "32016R0429",
+    "to_version": "02016R0429-20160331",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 14",
+          "AR 149",
+          "AR 209",
+          "AR 219",
+          "AR 223",
+          "AR 264",
+          "AR 271",
+          "AR 274"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2016-03-31]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 8,
+    "explained": 7,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 1,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 29035,
+      "output_tokens": 1271,
+      "requests": 8,
+      "schema_repairs": 1
+    }
+  },
+  "gate": {
+    "changes": 8,
+    "passed_first": 7,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 9,
+    "citations": 18,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
