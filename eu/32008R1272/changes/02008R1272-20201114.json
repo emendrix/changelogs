@@ -8,7 +8,7 @@
   },
   "from_version": "02008R1272-20201028",
   "to_version": "02008R1272-20201114",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-04",
   "in_force": [
     "2020-11-14"
   ],
@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
     {
@@ -87,11 +87,69 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 8 has been added to Article 25, addressing bespoke paint for which no Annex VIII submission or unique formula identifier exists, requiring that the unique formula identifiers of mixtures contained in that paint above 0.1% concentration and subject to Article 45 notification be included together on the label in descending order of concentration.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201114",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#art_25",
+              "label": "Art. 25, 02008R1272-20201114"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph also states that where a mixture with a unique formula identifier exceeds 5% concentration in the bespoke paint, that concentration must be shown on the label next to the identifier, and it defines bespoke paint as paint tailor-made for an individual consumer or professional user by tinting or colour mixing at the point of sale.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201114",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#art_25",
+              "label": "Art. 25, 02008R1272-20201114"
+            }
+          ]
+        },
+        {
+          "text": "No such paragraph 8 was present in the earlier version of Article 25, which ended at paragraph 7.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201028",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#art_25",
+              "label": "Art. 25, 02008R1272-20201028"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -209,11 +267,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The revised Annex broadens Section 1.3's applicability wording to also cover mixtures with an end use not subject to notification, adds a new Section 2.2a exempting bespoke paints from submission and UFI creation, and expands the definitions in Section 2.4 to add the concepts of 'mixture with an end use not subject to notification' and 'bespoke paint', while also reworking the consumer and professional use definitions to cover mixtures incorporated into other mixtures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201028",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201028"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201114",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201114"
+            }
+          ]
+        },
+        {
+          "text": "Part A's rules on UFI creation, UFI placement and limited submissions are rewritten with new derogations, including a new interchangeable-component-group exception to UFI creation and reordered/renumbered UFI location provisions, and Part B introduces new Sections 3.5 through 3.8 covering grouping of components into interchangeable component groups, standard formulas and fuels, alongside changes to how mixtures in mixtures are identified in Section 3.2.2 and how submission updates are triggered in Section 4.1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201028",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201028"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201114",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201114"
+            }
+          ]
+        },
+        {
+          "text": "Part C's Section 1.4 heading and content are changed to address mixture components and interchangeable component groups rather than only mixture components, and a wholly new Part D setting out standard formulas (including cement formulas) is added, though that Part D text is truncated in the material shown.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201114",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201114"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R1272",
+                  "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
+                },
+                "version": "02008R1272-20201028",
+                "location": "AN VIII"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII",
+              "label": "Annex VIII, 02008R1272-20201028"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -295,31 +450,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 2,
-    "explained": 0,
-    "unavailable": 2,
+    "explained": 2,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 1,
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 0,
-    "provider_unavailable": 2,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
-      "schema_repairs": 0
+      "input_tokens": 66186,
+      "output_tokens": 2319,
+      "requests": 5,
+      "schema_repairs": 3
     }
   },
   "gate": {
     "changes": 2,
-    "passed_first": 0,
+    "passed_first": 2,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 2,
+    "unexplained": 0,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 6,
+    "citations": 9,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0

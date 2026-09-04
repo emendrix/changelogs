@@ -3390,10 +3390,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20201028` → `02008R1272-20201114`
 
-- **Act** `eu:32008R1272` · **In force** 2020-11-14 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2020-11-14 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20201028` · `v2` = `02008R1272-20201114`
 
 ---
@@ -3402,7 +3402,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 25 PA 8` · *amended by* `32020R1676`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new paragraph 8 has been added to Article 25, addressing bespoke paint for which no Annex VIII submission or unique formula identifier exists, requiring that the unique formula identifiers of mixtures contained in that paint above 0.1% concentration and subject to Article 45 notification be included together on the label in descending order of concentration. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#art_25)
+
+The new paragraph also states that where a mixture with a unique formula identifier exceeds 5% concentration in the bespoke paint, that concentration must be shown on the label next to the identifier, and it defines bespoke paint as paint tailor-made for an individual consumer or professional user by tinting or colour mixing at the point of sale. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#art_25)
+
+No such paragraph 8 was present in the earlier version of Article 25, which ended at paragraph 7. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#art_25)
 
 *before* (`02008R1272-20201028`)
 
@@ -3432,7 +3436,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 1 SCT 1.1`, `AN VIII SCT 1 SCT 1.2`, `AN VIII SCT 1 SCT 1.3`, `AN VIII SCT 1 SCT 1.4`, `AN VIII SCT 1 SCT 1.5`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 1`, `AN VIII SCT 2 PO 2`, `AN VIII SCT 2 PO 3`, `AN VIII SCT 2 PO 4`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 SCT 2.1`, `AN VIII SCT 2 SCT 2.2`, `AN VIII SCT 2 SCT 2.3`, `AN VIII SCT 2 SCT 2.4`, `AN VIII SCT 3`, `AN VIII SCT 3 SCT 3.1`, `AN VIII SCT 3 SCT 3.2`, `AN VIII SCT 3 SCT 3.3`, `AN VIII SCT 3 SCT 3.4`, `AN VIII SCT 3 SCT 3.5`, `AN VIII SCT 4`, `AN VIII SCT 4 SCT 4.1`, `AN VIII SCT 4 SCT 4.2`, `AN VIII SCT 4 SCT 4.3`, `AN VIII SCT 4 SCT 4.4`, `AN VIII SCT 5`, `AN VIII SCT 5 SCT 5.1`, `AN VIII SCT 5 SCT 5.2`, `AN VIII SCT 5 SCT 5.3`, `AN VIII SCT 6`, `AN VIII SCT 6 SCT 6.1`, `AN VIII SCT 6 SCT 6.2`, `AN VIII SCT 1.2`, `AN VIII SCT 2.1`, `AN VIII SCT 2.2`, `AN VIII SCT 2.4`, `AN VIII SCT 3.1`, `AN VIII SCT 3.1 SCT 3.1.1`, `AN VIII SCT 3.2 SCT 3.2.1`, `AN VIII SCT 3.2 SCT 3.2.2`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (a)`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (b)`, `AN VIII SCT 3.2 SCT 3.2.2 PTA (c)`, `AN VIII SCT 3.2 SCT 3.2.3`, `AN VIII SCT 3.4 SCT 3.4.1`, `AN VIII SCT 3.4 SCT 3.4.2`, `AN VIII SCT 3.5`, `AN VIII SCT 3.5 PTA (a)`, `AN VIII SCT 3.5 PTA (b)`, `AN VIII SCT 3.5 PTA (c)`, `AN VIII SCT 3.5 PTA (d)`, `AN VIII SCT 3.5 SCT 3.5.1`, `AN VIII SCT 3.5 SCT 3.5.2`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 3.8`, `AN VIII SCT 4.1`, `AN VIII SCT 4.1 PTA (c)`, `AN VIII SCT 1.4` · *amended by* `32020R1677`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The revised Annex broadens Section 1.3's applicability wording to also cover mixtures with an end use not subject to notification, adds a new Section 2.2a exempting bespoke paints from submission and UFI creation, and expands the definitions in Section 2.4 to add the concepts of 'mixture with an end use not subject to notification' and 'bespoke paint', while also reworking the consumer and professional use definitions to cover mixtures incorporated into other mixtures. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII)
+
+Part A's rules on UFI creation, UFI placement and limited submissions are rewritten with new derogations, including a new interchangeable-component-group exception to UFI creation and reordered/renumbered UFI location provisions, and Part B introduces new Sections 3.5 through 3.8 covering grouping of components into interchangeable component groups, standard formulas and fuels, alongside changes to how mixtures in mixtures are identified in Section 3.2.2 and how submission updates are triggered in Section 4.1. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII)
+
+Part C's Section 1.4 heading and content are changed to address mixture components and interchangeable component groups rather than only mixture components, and a wholly new Part D setting out standard formulas (including cement formulas) is added, though that Part D text is truncated in the material shown. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VIII) [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201028#anx_VIII)
 
 *before* (`02008R1272-20201028`)
 
