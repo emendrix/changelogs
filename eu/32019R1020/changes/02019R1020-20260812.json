@@ -1,0 +1,427 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32019R1020",
+    "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+  },
+  "from_version": "02019R1020-20240523",
+  "to_version": "02019R1020-20260812",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-08-12"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 46,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+          },
+          "version": "02019R1020-20260812",
+          "location": "AN I"
+        },
+        "heading": "ANNEX I",
+        "before": "ANNEX I\nList of Union harmonisation legislation\n1. Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36);\n2. Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (OJ L 42, 23.2.1970, p. 16);\n3. Council Directive 75/107/EEC of 19 December 1974 on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14);\n4. Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (OJ L 147, 9.6.1975, p. 40);\n5. Council Directive 76/211/EEC of 20 January 1976 on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain pre-packaged products (OJ L 46, 21.2.1976, p. 1);\n6. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40);\n7. Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels (OJ L 167, 22.6.1992, p. 17);\n8. Directive 94/11/EC of the European Parliament and of the Council of 23 March 1994 on the approximation of the laws, regulations and administrative provisions of the Member States relating to labelling of the materials used in the main components of footwear for sale to the consumer (OJ L 100, 19.4.1994, p. 37);\n9. European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10);\n10. Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC (OJ L 350, 28.12.1998, p. 58);\n11. Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices (OJ L 331, 7.12.1998, p. 1);\n12. Directive 2000/14/EC of the European Parliament and of the Council of 8 May 2000 on the approximation of the laws of the Member States relating to the noise emission in the environment by equipment for use outdoors (OJ L 162, 3.7.2000, p. 1);\n13. Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles (OJ L 269, 21.10.2000, p. 34);\n14. Regulation (EC) No 2003/2003 of the European Parliament and of the Council of 13 October 2003 relating to fertilisers (OJ L 304, 21.11.2003, p. 1);\n15. Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents (OJ L 104, 8.4.2004, p. 1);\n16. Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants and amending Directive 79/117/EEC (OJ L 158, 30.4.2004, p. 7);\n17. Directive 2004/42/EC of the European Parliament and of the Council of 21 April 2004 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products and amending Directive 1999/13/EC (OJ L 143, 30.4.2004, p. 87);\n18. Directive 2005/64/EC of the European Parliament and of the Council of 26 October 2005 on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive 70/156/EEC (OJ L 310, 25.11.2005, p. 10);\n19. Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24);\n20. Directive 2006/40/EC of the European Parliament and of the Council of 17 May 2006 relating to emissions from air conditioning systems in motor vehicles and amending Council Directive 70/156/EEC (OJ L 161, 14.6.2006, p. 12);\n21. Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1) ;\n22. Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1);\n23. Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 171, 29.6.2007, p. 1);\n24. Directive 2007/45/EC of the European Parliament and of the Council of 5 September 2007 laying down rules on nominal quantities for pre-packed products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17);\n25. Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1);\n26. Regulation (EC) No 78/2009 of the European Parliament and of the Council of 14 January 2009 on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users, amending Directive 2007/46/EC and repealing Directives 2003/102/EC and 2005/66/EC (OJ L 35, 4.2.2009, p. 1);\n27. Regulation (EC) No 79/2009 of the European Parliament and of the Council of 14 January 2009 on type-approval of hydrogen-powered motor vehicles, and amending Directive 2007/46/EC (OJ L 35, 4.2.2009, p. 32);\n28. Directive 2009/34/EC of the European Parliament and of the Council of 23 April 2009 relating to common provisions for both measuring instruments and methods of metrological control (OJ L 106, 28.4.2009, p. 7);\n29. Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1);\n30. Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC (OJ L 188, 18.7.2009, p. 1);\n31. Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (OJ L 200, 31.7.2009, p. 1);\n32. Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10);\n33. Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer (OJ L 286, 31.10.2009, p. 1);\n34. Regulation (EC) No 1222/2009 of the European Parliament and of the Council of 25 November 2009 on the labelling of tyres with respect to fuel efficiency and other essential parameters (OJ L 342, 22.12.2009, p. 46);\n35. Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59);\n36. Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, 30.1.2010, p. 1);\n37. Directive 2010/35/EU of the European Parliament and of the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives 76/767/EEC, 84/525/EEC, 84/526/EEC, 84/527/EEC and 1999/36/EC (OJ L 165, 30.6.2010, p. 1);\n38. Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC (OJ L 88, 4.4.2011, p. 5);\n39. Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88);\n40. Regulation (EU) No 1007/2011 of the European Parliament and of the Council of 27 September 2011 on textile fibre names and related labelling and marking of the fibre composition of textile products and repealing Council Directive 73/44/EEC and Directives 96/73/EC and 2008/121/EC of the European Parliament and of the Council (OJ L 272, 18.10.2011, p. 1);\n41. Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1);\n42. Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (WEEE) (OJ L 197, 24.7.2012, p. 38);\n43. Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1);\n44. Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52);\n45. Directive 2013/29/EU of the European Parliament and of the Council of 12 June 2013 on the harmonisation of the laws of the Member States relating to the making available on the market of pyrotechnic articles (OJ L 178, 28.6.2013, p. 27);\n46. Directive 2013/53/EU of the European Parliament and of the Council of 20 November 2013 on recreational craft and personal watercraft and repealing Directive 94/25/EC (OJ L 354, 28.12.2013, p. 90);\n47. Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (OJ L 96, 29.3.2014, p. 1);\n48. Directive 2014/29/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of simple pressure vessels (OJ L 96, 29.3.2014, p. 45);\n49. Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility (OJ L 96, 29.3.2014, p. 79);\n50. Directive 2014/31/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of non-automatic weighing instruments (OJ L 96, 29.3.2014, p. 107);\n51. Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (OJ L 96, 29.3.2014, p. 149);\n52. Directive 2014/33/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to lifts and safety components for lifts (OJ L 96, 29.3.2014, p. 251);\n53. Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, 29.3.2014, p. 309);\n54. Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357);\n55. Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.4.2014, p. 1);\n56. Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC (OJ L 153, 22.5.2014, p. 62);\n57. Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment (OJ L 189, 27.6.2014, p. 164);\n58. Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146);\n59. Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006 (OJ L 150, 20.5.2014, p. 195);\n60. Regulation (EU) No 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC (OJ L 158, 27.5.2014, p. 131);\n61. Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (OJ L 81, 31.3.2016, p. 1);\n62. Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (OJ L 81, 31.3.2016, p. 51);\n63. Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (OJ L 81, 31.3.2016, p. 99);\n64. Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations (EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC (OJ L 252, 16.9.2016, p. 53);\n65. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1);\n66. Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176);\n67. Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (OJ L 137, 24.5.2017, p. 1);\n68. Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (OJ L 198, 28.7.2017, p. 1);\n69. Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1);\n70. Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1), in so far as the design, production and placing on the market of aircrafts referred to in points (a) and (b) of Article 2(1) thereof, where it concerns unmanned aircraft and their engines, propellers, parts and equipment to control them remotely, are concerned;\n71. Regulation (EU) 2024/1252 of the European Parliament and of the Council of 11 April 2024 establishing a framework for ensuring a secure and sustainable supply of critical raw materials and amending Regulations (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1724 and (EU) 2019/1020 (OJ L, 2024/1252, 3.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1252/oj), in so far as it concerns the requirements set out in Article 28, 29 or 31 of that Regulation.",
+        "after": "ANNEX I\nList of Union harmonisation legislation\n1. Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36);\n2. Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (OJ L 42, 23.2.1970, p. 16);\n3. Council Directive 75/107/EEC of 19 December 1974 on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14);\n4. Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (OJ L 147, 9.6.1975, p. 40);\n5. Council Directive 76/211/EEC of 20 January 1976 on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain pre-packaged products (OJ L 46, 21.2.1976, p. 1);\n6. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40);\n7. Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels (OJ L 167, 22.6.1992, p. 17);\n8. Directive 94/11/EC of the European Parliament and of the Council of 23 March 1994 on the approximation of the laws, regulations and administrative provisions of the Member States relating to labelling of the materials used in the main components of footwear for sale to the consumer (OJ L 100, 19.4.1994, p. 37);\n9. European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, 31.12.1994, p. 10);\n10. Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC (OJ L 350, 28.12.1998, p. 58);\n11. Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices (OJ L 331, 7.12.1998, p. 1);\n12. Directive 2000/14/EC of the European Parliament and of the Council of 8 May 2000 on the approximation of the laws of the Member States relating to the noise emission in the environment by equipment for use outdoors (OJ L 162, 3.7.2000, p. 1);\n13. Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles (OJ L 269, 21.10.2000, p. 34);\n14. Regulation (EC) No 2003/2003 of the European Parliament and of the Council of 13 October 2003 relating to fertilisers (OJ L 304, 21.11.2003, p. 1);\n15. Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents (OJ L 104, 8.4.2004, p. 1);\n16. Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants and amending Directive 79/117/EEC (OJ L 158, 30.4.2004, p. 7);\n17. Directive 2004/42/EC of the European Parliament and of the Council of 21 April 2004 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products and amending Directive 1999/13/EC (OJ L 143, 30.4.2004, p. 87);\n18. Directive 2005/64/EC of the European Parliament and of the Council of 26 October 2005 on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive 70/156/EEC (OJ L 310, 25.11.2005, p. 10);\n19. Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24);\n20. Directive 2006/40/EC of the European Parliament and of the Council of 17 May 2006 relating to emissions from air conditioning systems in motor vehicles and amending Council Directive 70/156/EEC (OJ L 161, 14.6.2006, p. 12);\n21. Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (OJ L 191, 28.7.2023, p. 1) ;\n22. Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1);\n23. Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 171, 29.6.2007, p. 1);\n24. Directive 2007/45/EC of the European Parliament and of the Council of 5 September 2007 laying down rules on nominal quantities for pre-packed products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17);\n25. Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1);\n26. Regulation (EC) No 78/2009 of the European Parliament and of the Council of 14 January 2009 on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users, amending Directive 2007/46/EC and repealing Directives 2003/102/EC and 2005/66/EC (OJ L 35, 4.2.2009, p. 1);\n27. Regulation (EC) No 79/2009 of the European Parliament and of the Council of 14 January 2009 on type-approval of hydrogen-powered motor vehicles, and amending Directive 2007/46/EC (OJ L 35, 4.2.2009, p. 32);\n28. Directive 2009/34/EC of the European Parliament and of the Council of 23 April 2009 relating to common provisions for both measuring instruments and methods of metrological control (OJ L 106, 28.4.2009, p. 7);\n29. Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1);\n30. Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC (OJ L 188, 18.7.2009, p. 1);\n31. Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (OJ L 200, 31.7.2009, p. 1);\n32. Directive 2009/125/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products (OJ L 285, 31.10.2009, p. 10);\n33. Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer (OJ L 286, 31.10.2009, p. 1);\n34. Regulation (EC) No 1222/2009 of the European Parliament and of the Council of 25 November 2009 on the labelling of tyres with respect to fuel efficiency and other essential parameters (OJ L 342, 22.12.2009, p. 46);\n35. Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59);\n36. Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, 30.1.2010, p. 1);\n37. Directive 2010/35/EU of the European Parliament and of the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives 76/767/EEC, 84/525/EEC, 84/526/EEC, 84/527/EEC and 1999/36/EC (OJ L 165, 30.6.2010, p. 1);\n38. Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC (OJ L 88, 4.4.2011, p. 5);\n39. Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88);\n40. Regulation (EU) No 1007/2011 of the European Parliament and of the Council of 27 September 2011 on textile fibre names and related labelling and marking of the fibre composition of textile products and repealing Council Directive 73/44/EEC and Directives 96/73/EC and 2008/121/EC of the European Parliament and of the Council (OJ L 272, 18.10.2011, p. 1);\n41. Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1);\n42. Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (WEEE) (OJ L 197, 24.7.2012, p. 38);\n43. Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1);\n44. Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52);\n45. Directive 2013/29/EU of the European Parliament and of the Council of 12 June 2013 on the harmonisation of the laws of the Member States relating to the making available on the market of pyrotechnic articles (OJ L 178, 28.6.2013, p. 27);\n46. Directive 2013/53/EU of the European Parliament and of the Council of 20 November 2013 on recreational craft and personal watercraft and repealing Directive 94/25/EC (OJ L 354, 28.12.2013, p. 90);\n47. Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (OJ L 96, 29.3.2014, p. 1);\n48. Directive 2014/29/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of simple pressure vessels (OJ L 96, 29.3.2014, p. 45);\n49. Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility (OJ L 96, 29.3.2014, p. 79);\n50. Directive 2014/31/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of non-automatic weighing instruments (OJ L 96, 29.3.2014, p. 107);\n51. Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (OJ L 96, 29.3.2014, p. 149);\n52. Directive 2014/33/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to lifts and safety components for lifts (OJ L 96, 29.3.2014, p. 251);\n53. Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, 29.3.2014, p. 309);\n54. Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357);\n55. Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.4.2014, p. 1);\n56. Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC (OJ L 153, 22.5.2014, p. 62);\n57. Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment (OJ L 189, 27.6.2014, p. 164);\n58. Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146);\n59. Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006 (OJ L 150, 20.5.2014, p. 195);\n60. Regulation (EU) No 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC (OJ L 158, 27.5.2014, p. 131);\n61. Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (OJ L 81, 31.3.2016, p. 1);\n62. Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (OJ L 81, 31.3.2016, p. 51);\n63. Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (OJ L 81, 31.3.2016, p. 99);\n64. Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations (EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC (OJ L 252, 16.9.2016, p. 53);\n65. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1);\n66. Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176);\n67. Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation (EC) No 1102/2008 (OJ L 137, 24.5.2017, p. 1);\n68. Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (OJ L 198, 28.7.2017, p. 1);\n69. Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1);\n70. Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1), in so far as the design, production and placing on the market of aircrafts referred to in points (a) and (b) of Article 2(1) thereof, where it concerns unmanned aircraft and their engines, propellers, parts and equipment to control them remotely, are concerned;\n71. Regulation (EU) 2024/1252 of the European Parliament and of the Council of 11 April 2024 establishing a framework for ensuring a secure and sustainable supply of critical raw materials and amending Regulations (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1724 and (EU) 2019/1020 (OJ L, 2024/1252, 3.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1252/oj), in so far as it concerns the requirements set out in Article 28, 29 or 31 of that Regulation;\n74. Directive (EU) 2019/904 of the European Parliament and of the Council of 5 June 2019 on the reduction of the impact of certain plastic products on the environment (OJ L 155, 12.6.2019, p. 1);\n75. Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC (OJ L, 2025/40, 22.1.2025, ELI: http://data.europa.eu/eli/reg/2025/40/oj).",
+        "previous_location": null,
+        "changed_within": [
+          "AN I PO 71",
+          "AN I PO 74",
+          "AN I PO 75"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R0040",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2019-06-05",
+          "2024-12-19"
+        ],
+        "in_force": "2026-08-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R0040 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 066 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point 71 now ends with a semicolon instead of a full stop, and two new entries, points 74 and 75, have been added after it.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1020",
+                  "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+                },
+                "version": "02019R1020-20260812",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I",
+              "label": "Annex I, 02019R1020-20260812"
+            }
+          ]
+        },
+        {
+          "text": "Point 74 adds Directive (EU) 2019/904 on the reduction of the impact of certain plastic products on the environment, and point 75 adds Regulation (EU) 2025/40 on packaging and packaging waste, which amends Regulation (EU) 2019/1020 and Directive (EU) 2019/904 and repeals Directive 94/62/EC.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1020",
+                  "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+                },
+                "version": "02019R1020-20260812",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I",
+              "label": "Annex I, 02019R1020-20260812"
+            }
+          ]
+        },
+        {
+          "text": "No entry numbered 72 or 73 appears in either the before or after text shown.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1020",
+                  "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+                },
+                "version": "02019R1020-20240523",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20240523#anx_I",
+              "label": "Annex I, 02019R1020-20240523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32019R1020",
+                  "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+                },
+                "version": "02019R1020-20260812",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I",
+              "label": "Annex I, 02019R1020-20260812"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+          },
+          "version": "02019R1020-20260812",
+          "location": "AN II"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R0040",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-12",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R0040 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 066 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32019R1020",
+      "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+    },
+    "from_version": "02019R1020-20240523",
+    "to_version": "02019R1020-20260812",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN I"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN I",
+          "AN II"
+        ],
+        "note": "3 annotations in (2024-05-23, 2026-08-12]",
+        "claims": [
+          {
+            "location": "AN I PO 74",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-12",
+            "source": "32025R0040 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R0040",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN II PO 8",
+            "change_type": "DELETED",
+            "in_force": "2026-08-12",
+            "source": "32025R0040 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R0040",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I PO 75",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-12",
+            "source": "32025R0040 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R0040",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AN I",
+          "AN II"
+        ],
+        "note": "32025R0040, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AN I",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 066 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R0040",
+              "display_name": "Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AN II PO 8",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 066 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R0040",
+              "display_name": "Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 2,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN II",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
+        "observed_by": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AN II"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 16943,
+      "output_tokens": 328,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

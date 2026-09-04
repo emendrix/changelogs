@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1020-20260812 -->
+## Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and […]
+### `02019R1020-20240523` → `02019R1020-20260812`
+
+- **Act** `eu:32019R1020` · **In force** 2026-08-12 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02019R1020-20240523` · `v2` = `02019R1020-20260812`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I PO 71`, `AN I PO 74`, `AN I PO 75` · *dates* +2019-06-05 +2024-12-19 · *amended by* `32025R0040`
+
+Point 71 now ends with a semicolon instead of a full stop, and two new entries, points 74 and 75, have been added after it. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I)
+
+Point 74 adds Directive (EU) 2019/904 on the reduction of the impact of certain plastic products on the environment, and point 75 adds Regulation (EU) 2025/40 on packaging and packaging waste, which amends Regulation (EU) 2019/1020 and Directive (EU) 2019/904 and repeals Directive 94/62/EC. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I)
+
+No entry numbered 72 or 73 appears in either the before or after text shown. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20240523#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1020-20260812#anx_I)
+
+*before* (`02019R1020-20240523`)
+
+> ANNEX I
+> List of Union harmonisation legislation
+> 1. Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36);
+> 2. Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (OJ L 42, 23.2.1970, p. 16);
+> 3. Council Directive 75/107/EEC of 19 December 1974 on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14);
+> 4. Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (OJ L 147, 9.6.1975, p. 40);
+> 5. Council Directive 76/211/EEC of 20 January 1976 on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain pre-packaged products (OJ L 46, 21.2.1976, p. 1);
+> 6. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40);
+> 7. Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels (OJ L 167, 22.6.1992, p. 17);
+> 8. Directive 94/11/EC of the European Parliament and of the Council of 23 March 1994 on the approximation of the laws, regulations and admin […truncated by emendrix: 15984 characters omitted…]
+
+*after* (`02019R1020-20260812`)
+
+> ANNEX I
+> List of Union harmonisation legislation
+> 1. Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36);
+> 2. Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (OJ L 42, 23.2.1970, p. 16);
+> 3. Council Directive 75/107/EEC of 19 December 1974 on the approximation of the laws of the Member States relating to bottles used as measuring containers (OJ L 42, 15.2.1975, p. 14);
+> 4. Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (OJ L 147, 9.6.1975, p. 40);
+> 5. Council Directive 76/211/EEC of 20 January 1976 on the approximation of the laws of the Member States relating to the making-up by weight or by volume of certain pre-packaged products (OJ L 46, 21.2.1976, p. 1);
+> 6. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40);
+> 7. Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels (OJ L 167, 22.6.1992, p. 17);
+> 8. Directive 94/11/EC of the European Parliament and of the Council of 23 March 1994 on the approximation of the laws, regulations and admin […truncated by emendrix: 16480 characters omitted…]
+
+**MODIFIED · Annex II** · applies from: unknown
+
+*amended by* `32025R0040`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1020-20260812 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1020-20240523 -->
 ## Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and […]
 ### `02019R1020-20240218` → `02019R1020-20240523`
