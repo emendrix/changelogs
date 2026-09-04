@@ -5604,9 +5604,9 @@ Article 89(1) changes the description of the exemption period for the clearing o
 ### `02012R0648-20140702` → `02012R0648-20150625`
 
 - **Act** `eu:32012R0648` · **In force** 2015-06-25 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 96 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 96 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20140702` · `v2` = `02012R0648-20150625`
 
 ---
@@ -5614,8 +5614,6 @@ Article 89(1) changes the description of the exemption period for the clearing o
 **MODIFIED · Art. 25 — Recognition of a third-country CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 25 PA 2 ALN 1 PTA (d)` · *dates* -2005-10-26 +2015-05-20 · *amended by* `32015L0849`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (d) of Article 25(2) changes the reference from Directive 2005/60/EC to Directive (EU) 2015/849, and reframes the condition from the third country being considered to have equivalent anti-money-laundering and counter-terrorist-financing systems to those of the Union, to the third country not being considered by the Commission to have strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that pose significant threats to the financial system of the Union. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25)
 
@@ -5644,16 +5642,6 @@ The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchange
 > (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements have been established pursuant to paragraph 7;
 > (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 5021 characters omitted…]
-
-**MODIFIED · Art. 63** · applies from: unknown
-
-*amended by* `32015L0849`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20150625 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20140702 -->
