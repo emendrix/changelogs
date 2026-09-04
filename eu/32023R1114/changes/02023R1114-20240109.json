@@ -15,80 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 5,
+    "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 6,
+    "touched_units": 5,
     "unchanged_units": 151,
-    "disputed": 6
+    "disputed": 5
   },
   "counts": {
-    "touched": 6,
-    "substantive": 6,
+    "touched": 5,
+    "substantive": 5,
     "date_only": 0,
-    "disputed": 6,
+    "disputed": 5,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32023R1114",
-            "display_name": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)"
-          },
-          "version": "02023R1114-20240109",
-          "location": "AR 18"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32023R2869",
-            "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2024-01-09]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 018",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -130,7 +73,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "detail": "32023R2869, 0.100 of its instruction clauses read",
             "change_types": []
           }
         },
@@ -172,7 +115,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -215,7 +159,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "detail": "32023R2869, 0.100 of its instruction clauses read",
             "change_types": []
           }
         },
@@ -257,7 +201,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -300,7 +245,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "detail": "32023R2869, 0.100 of its instruction clauses read",
             "change_types": []
           }
         },
@@ -361,7 +306,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -411,7 +357,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "detail": "32023R2869, 0.100 of its instruction clauses read",
             "change_types": []
           }
         },
@@ -459,7 +405,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -505,7 +452,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32023R2869, 1.000 of its instruction clauses read",
+            "detail": "32023R2869, 0.100 of its instruction clauses read",
             "change_types": []
           }
         },
@@ -547,7 +494,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -596,23 +544,9 @@
       {
         "signal": "instruction_parse",
         "available": true,
-        "units": [
-          "AR 18"
-        ],
-        "note": "32023R2869, 1.000 of its instruction clauses read",
-        "claims": [
-          {
-            "location": "AR 18",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 018",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32023R2869",
-              "display_name": "Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending certain Regulations as regards the establishment and functioning of the European single access point (Text with EEA relevance)"
-            }
-          }
-        ]
+        "units": [],
+        "note": "32023R2869, 0.100 of its instruction clauses read",
+        "claims": []
       }
     ],
     "agreements": [
@@ -631,10 +565,10 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 5,
-        "right_units": 1,
+        "right_units": 0,
         "shared": 0,
         "precision": 0.0,
-        "recall": 0.0,
+        "recall": 1.0,
         "f1": 0.0,
         "kind_mismatches": 0
       },
@@ -642,34 +576,15 @@
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 1,
-        "right_units": 1,
+        "right_units": 0,
         "shared": 0,
         "precision": 0.0,
-        "recall": 0.0,
+        "recall": 1.0,
         "f1": 0.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 18",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 45",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -772,9 +687,7 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "AR 18"
-    ]
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -785,6 +698,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 28386,
       "output_tokens": 992,
@@ -804,5 +720,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 6,
+      "repaired": 6,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }

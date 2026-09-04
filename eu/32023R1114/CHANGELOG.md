@@ -15,22 +15,12 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32023R1114` → `02023R1114-20240109`
 
 - **Act** `eu:32023R1114` · **In force** 2024-01-09 · **Detected** 2026-08-12
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **6 disputed**
-- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 151 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 151 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32023R1114` · `v2` = `02023R1114-20240109`
 
 ---
-
-**MODIFIED · Art. 18** · applies from: unknown
-
-*amended by* `32023R2869`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 45 — Specific additional obligations for issuers of significant asset-referenced tokens** · applies from: unchanged
 
