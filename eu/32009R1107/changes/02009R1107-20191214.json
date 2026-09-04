@@ -1,0 +1,421 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1107",
+    "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+  },
+  "from_version": "02009R1107-20190715",
+  "to_version": "02009R1107-20191214",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2019-12-14"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 87,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20191214",
+          "location": "AR 68"
+        },
+        "heading": "Monitoring and controls",
+        "before": "Article 68\nMonitoring and controls\nMember States shall carry out official controls in order to enforce compliance with this Regulation. They shall finalise and transmit to the Commission a report on the scope and the results of these controls within six months of the end of the year to which the reports relate.\nCommission experts shall carry out general and specific audits in the Member States for purposes of verifying the official controls carried out by the Member States.\nA Regulation, adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4), shall set out provisions for the controls, in particular on the production, packaging, labelling, storage, transport, marketing, formulation, parallel trade and use of plant protection products. It shall also contain provisions concerning the collection of information and reporting on suspected poisonings.",
+        "after": "Article 68\nMonitoring and controls\nMember States shall submit to the Commission by 31 August each year a report, for the previous year, on the scope and the outcome of the official controls performed in order to verify compliance with this Regulation.\nCommission experts shall carry out general and specific audits in the Member States for purposes of verifying the official controls carried out by the Member States.\nA Regulation, adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4), shall set out provisions for the controls, in particular on the production, packaging, labelling, storage, transport, marketing, formulation, parallel trade and use of plant protection products. It shall also contain provisions concerning the collection of information and reporting on suspected poisonings.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 68 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-12-14",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0625 A; 32017R0625 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 161 (1) (a); AR 161 (1) (b)",
+            "change_types": [
+              "DELETED",
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The first paragraph changes how Member States report on official controls: instead of finalising and transmitting a report on the scope and results of controls within six months of the end of the year to which it relates, they must submit to the Commission by 31 August each year a report on the scope and outcome of official controls performed for the previous year.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20190715",
+                "location": "AR 68"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_68",
+              "label": "Art. 68, 02009R1107-20190715"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 68"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_68",
+              "label": "Art. 68, 02009R1107-20191214"
+            }
+          ]
+        },
+        {
+          "text": "The remaining paragraphs on Commission audits and on the Regulation governing controls and reporting of suspected poisonings are unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 68"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_68",
+              "label": "Art. 68, 02009R1107-20191214"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20191214",
+          "location": "AR 78"
+        },
+        "heading": "Amendments and implementing measures",
+        "before": "Article 78\nAmendments and implementing measures\n1. The following measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4):\n(a) amendments to the Annexes, taking into account current scientific and technical knowledge;\n(b) amendments to the Regulations on data requirements for active substances and for plant protection products, as referred to in points (b) and (c) of Article 8(1), taking into account current scientific and technical knowledge;\n(c) amendments to the Regulation on uniform principles for evaluation and authorisation of plant protection products, as referred to in Article 29(6), taking into account current scientific and technical knowledge;\n(d) a Regulation postponing the expiry of the approval period referred to in the second subparagraph of Article 17;\n(e) a Regulation on data requirements for safeners and synergists referred to in Article 25(3);\n(f) a Regulation establishing a work programme for safeners and synergists referred to in Article 26;\n(g) adoption of the harmonised methods referred to in Article 29(4);\n(h) inclusion of co-formulants in Annex III, as referred to in Article 27(2);\n(i) extension of the date of application of this Regulation to provisional authorisations, as referred to in Article 30(3);\n(j) information requirements for parallel trade, as referred to in Article 52(4);\n(k) rules for the application of Article 54, in particular the maximum quantities of plant protection products to be released;\n(l) detailed rules for adjuvants, as referred to in Article 58(2);\n(m) a Regulation containing the requirements of the labelling of plant protection products, as referred to in Article 65(1);\n(n) a Regulation on controls, as referred to in the third subparagraph of Article 68.\n2. Any further measures necessary for the implementation of this Regulation may be adopted in accordance with the regulatory procedure referred to in Article 79(3).\n3. In accordance with the advisory procedure referred to in Article 79(2), a Regulation shall be adopted containing the list of active substances included in Annex I to Directive 91/414/EEC. Those substances shall be deemed to have been approved under this Regulation.",
+        "after": "Article 78\nAmendments and implementing measures\n1. The following measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4):\n(a) amendments to the Annexes, taking into account current scientific and technical knowledge;\n(b) amendments to the Regulations on data requirements for active substances and for plant protection products, as referred to in points (b) and (c) of Article 8(1), taking into account current scientific and technical knowledge;\n(c) amendments to the Regulation on uniform principles for evaluation and authorisation of plant protection products, as referred to in Article 29(6), taking into account current scientific and technical knowledge;\n(d) a Regulation postponing the expiry of the approval period referred to in the second subparagraph of Article 17;\n(e) a Regulation on data requirements for safeners and synergists referred to in Article 25(3);\n(f) a Regulation establishing a work programme for safeners and synergists referred to in Article 26;\n(g) adoption of the harmonised methods referred to in Article 29(4);\n(h) inclusion of co-formulants in Annex III, as referred to in Article 27(2);\n(i) extension of the date of application of this Regulation to provisional authorisations, as referred to in Article 30(3);\n(j) information requirements for parallel trade, as referred to in Article 52(4);\n(k) rules for the application of Article 54, in particular the maximum quantities of plant protection products to be released;\n(l) detailed rules for adjuvants, as referred to in Article 58(2);\n(m) a Regulation containing the requirements of the labelling of plant protection products, as referred to in Article 65(1).\n(n) a Regulation on controls, as referred to in the third subparagraph of Article 68.\n2. Any further measures necessary for the implementation of this Regulation may be adopted in accordance with the regulatory procedure referred to in Article 79(3).\n3. In accordance with the advisory procedure referred to in Article 79(2), a Regulation shall be adopted containing the list of active substances included in Annex I to Directive 91/414/EEC. Those substances shall be deemed to have been approved under this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 78 PA 1 ALN 1 PTA (m)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2019-12-14",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R0625 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 161 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is a punctuation correction at the end of point (m), where a semicolon has been replaced by a full stop.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20191214",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_78",
+              "label": "Art. 78, 02009R1107-20191214"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1107",
+      "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+    },
+    "from_version": "02009R1107-20190715",
+    "to_version": "02009R1107-20191214",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 68",
+          "AR 78"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 68",
+          "AR 78"
+        ],
+        "note": "4 annotations in (2019-07-15, 2019-12-14]",
+        "claims": [
+          {
+            "location": "AR 68 PA 3",
+            "change_type": "INSERTED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PO (n)",
+            "change_type": "INSERTED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 68 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 68 PA 2",
+            "change_type": "INSERTED",
+            "in_force": "2019-12-14",
+            "source": "32017R0625 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 68",
+          "AR 78"
+        ],
+        "note": "32017R0625, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 68 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 161 (1) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 68",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 161 (1) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (n)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 161 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R0625",
+              "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 6775,
+      "output_tokens": 357,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

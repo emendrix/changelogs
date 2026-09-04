@@ -10,6 +10,83 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20191214 -->
+## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
+### `02009R1107-20190715` → `02009R1107-20191214`
+
+- **Act** `eu:32009R1107` · **In force** 2019-12-14 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 87 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1107-20190715` · `v2` = `02009R1107-20191214`
+
+---
+
+**MODIFIED · Art. 68 — Monitoring and controls** · applies from: unchanged
+
+*within* `AR 68 ALN 1` · *amended by* `32017R0625`
+
+The first paragraph changes how Member States report on official controls: instead of finalising and transmitting a report on the scope and results of controls within six months of the end of the year to which it relates, they must submit to the Commission by 31 August each year a report on the scope and outcome of official controls performed for the previous year. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20190715#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_68)
+
+The remaining paragraphs on Commission audits and on the Regulation governing controls and reporting of suspected poisonings are unchanged. [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_68)
+
+*before* (`02009R1107-20190715`)
+
+> Article 68
+> Monitoring and controls
+> Member States shall carry out official controls in order to enforce compliance with this Regulation. They shall finalise and transmit to the Commission a report on the scope and the results of these controls within six months of the end of the year to which the reports relate.
+> Commission experts shall carry out general and specific audits in the Member States for purposes of verifying the official controls carried out by the Member States.
+> A Regulation, adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4), shall set out provisions for the controls, in particular on the production, packaging, labelling, storage, transport, marketing, formulation, parallel trade and use of plant protection products. It shall also contain provisions concerning the collection of information and reporting on suspected poisonings.
+
+*after* (`02009R1107-20191214`)
+
+> Article 68
+> Monitoring and controls
+> Member States shall submit to the Commission by 31 August each year a report, for the previous year, on the scope and the outcome of the official controls performed in order to verify compliance with this Regulation.
+> Commission experts shall carry out general and specific audits in the Member States for purposes of verifying the official controls carried out by the Member States.
+> A Regulation, adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4), shall set out provisions for the controls, in particular on the production, packaging, labelling, storage, transport, marketing, formulation, parallel trade and use of plant protection products. It shall also contain provisions concerning the collection of information and reporting on suspected poisonings.
+
+**MODIFIED · Art. 78 — Amendments and implementing measures** · applies from: unchanged
+
+*within* `AR 78 PA 1 ALN 1 PTA (m)` · *amended by* `32017R0625`
+
+The only change is a punctuation correction at the end of point (m), where a semicolon has been replaced by a full stop. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#art_78)
+
+*before* (`02009R1107-20190715`)
+
+> Article 78
+> Amendments and implementing measures
+> 1. The following measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4):
+> (a) amendments to the Annexes, taking into account current scientific and technical knowledge;
+> (b) amendments to the Regulations on data requirements for active substances and for plant protection products, as referred to in points (b) and (c) of Article 8(1), taking into account current scientific and technical knowledge;
+> (c) amendments to the Regulation on uniform principles for evaluation and authorisation of plant protection products, as referred to in Article 29(6), taking into account current scientific and technical knowledge;
+> (d) a Regulation postponing the expiry of the approval period referred to in the second subparagraph of Article 17;
+> (e) a Regulation on data requirements for safeners and synergists referred to in Article 25(3);
+> (f) a Regulation establishing a work programme for safeners and synergists referred to in Article 26;
+> (g) adoption of the harmonised methods referred to in Article 29(4);
+> (h) inclusion of co-formulants in Annex III, as referred to in Article 27(2);
+> (i) extension of the date of application of this Regulation to provisional authorisations, as referred to in Article 30(3);
+> (j) information requirements for parallel trade, as referred to in Article 52(4);
+> (k) rules for the app […truncated by emendrix: 817 characters omitted…]
+
+*after* (`02009R1107-20191214`)
+
+> Article 78
+> Amendments and implementing measures
+> 1. The following measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4):
+> (a) amendments to the Annexes, taking into account current scientific and technical knowledge;
+> (b) amendments to the Regulations on data requirements for active substances and for plant protection products, as referred to in points (b) and (c) of Article 8(1), taking into account current scientific and technical knowledge;
+> (c) amendments to the Regulation on uniform principles for evaluation and authorisation of plant protection products, as referred to in Article 29(6), taking into account current scientific and technical knowledge;
+> (d) a Regulation postponing the expiry of the approval period referred to in the second subparagraph of Article 17;
+> (e) a Regulation on data requirements for safeners and synergists referred to in Article 25(3);
+> (f) a Regulation establishing a work programme for safeners and synergists referred to in Article 26;
+> (g) adoption of the harmonised methods referred to in Article 29(4);
+> (h) inclusion of co-formulants in Annex III, as referred to in Article 27(2);
+> (i) extension of the date of application of this Regulation to provisional authorisations, as referred to in Article 30(3);
+> (j) information requirements for parallel trade, as referred to in Article 52(4);
+> (k) rules for the app […truncated by emendrix: 817 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1107-20191214 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20190715 -->
 ## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
 ### `02009R1107-20181110` → `02009R1107-20190715`
