@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32016R0424",
+    "display_name": "Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (Text with EEA relevance)"
+  },
+  "from_version": "32016R0424",
+  "to_version": "02016R0424-20160331",
+  "detected_on": "2026-09-04",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 57,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32016R0424",
+            "display_name": "Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (Text with EEA relevance)"
+          },
+          "version": "02016R0424-20160331",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "ANNEX II\nESSENTIAL REQUIREMENTS\n1. Purpose\nThis Annex sets out the essential requirements, including maintainability and operability, applicable to the design, construction and entry into service of cableway installations, and applicable to subsystems and safety components.\n2. General requirements\n2.1. Safety of persons\nThe safety of passengers, operating personnel and third parties is a fundamental requirement for the design, construction and operation of cableway installations.\n2.2. Principles of safety\nAll cableway installations shall be designed, operated and serviced in accordance with the following principles, which are to be applied in the order given:\neliminate or, if that is not possible, reduce risks by means of design and construction features,\ndefine and implement all necessary measures to protect against risks which cannot be eliminated by the design and construction features,\ndefine and state the precautions which should be taken to avoid the risks which it has not been possible to eliminate completely by means of the provisions and measures referred to in the first and second indents.\n2.3. Consideration of external factors\nCableway installations must be so designed and constructed as to make it possible to operate them safely, taking into account the type of cableway installation, the nature and physical features of the terrain on which it is installed, its surroundings and atmospheric and meteorological factors, as well as possible structures and obstacles located in the vicinity either on the ground or in the air.\n2.4. Dimensions\nThe cableway installation, the subsystems and all its safety components shall be dimensioned, designed and constructed to withstand, with a sufficient degree of safety, all stresses encountered under all foreseeable conditions, including those which occur when not in operation, and taking account in particular of outside influences, dynamic effects and fatigue phenomena, while complying with the acknowledged rules of the art, in particular with regard to the choice of materials.\n2.5. Assembly\n2.5.1. The cableway installation, the subsystems and all the safety components shall be designed and constructed in such a way as to ensure that they can be safely assembled and put into place.\n2.5.2. The safety components shall be so designed as to make assembly mistakes impossible, either as a result of construction or by means of appropriate markings on the components themselves.\n2.6. Integrity of the cableway installation\n2.6.1. The safety components shall be designed and constructed and be usable in such a way as to ensure that, in every case, their own operational integrity and/or the safety of the cableway installation is ensured, as defined in the safety analysis provided for in Article 8, so that their failure is highly improbable and with an adequate safety margin.\n2.6.2. The cableway installation shall be designed and constructed in such a way as to ensure that, during its operation, any failure of a component which might endanger safety, is met by an appropriate measure being taken in good time.\n2.6.3. The safeguards referred to in points 2.6.1 and 2.6.2 shall apply throughout the period between two scheduled inspections of the component concerned. The time period for the scheduled inspection of the safety components shall be clearly indicated in the instruction manual.\n2.6.4. Safety components which are incorporated into cableway installations as spare parts shall satisfy the essential requirements of this Regulation and the conditions relating to the smooth interaction with the other parts of the cableway installations.\n2.6.5. Measures shall be taken to ensure that the effects of a fire in the cableway installation do not endanger the safety of persons.\n2.6.6. Special measures shall be taken to protect cableway installations and persons from the effects of lightning.\n2.7. Safety devices\n2.7.1. Any defect in the cableway installation which could result in a failure endangering safety shall, where practicable, be detected, reported and processed by a safety device. The same applies to any normally foreseeable external event which may endanger safety.\n2.7.2. It shall be possible at all times to shut down the cableway installation manually.\n2.7.3. After the cableway installation has been shut down by a safety device, it shall not be possible to restart it unless appropriate action has been taken.\n2.8. Maintainability\nThe cableway installation shall be designed and constructed so as to enable routine or special maintenance and repair operations and procedures to be carried out safely.\n2.9. Nuisance\nThe cableway installation shall be designed and constructed in such a way as to ensure that any internal or external nuisance resulting from noxious gases, noise emissions or vibrations falls within the prescribed limits.\n3. Infrastructure requirements\n3.1. Layout, speed, distance between vehicles\n3.1.1. The cableway installation shall be designed to operate safely taking into account the characteristics of the terrain and its surroundings, atmospheric and meteorological conditions, any possible structures and obstacles located in the vicinity either on the ground or in the air in such a way as to cause no nuisance or pose no danger under any operational or servicing conditions or in the event of an operation to rescue persons.\n3.1.2. Sufficient distance shall be maintained laterally and vertically between vehicles, towing devices, tracks, cables, etc., and possible structures and obstacles located in the vicinity either on the ground or in the air, taking account of the vertical, longitudinal and lateral movement of the cables and vehicles or of the towing devices under the most adverse foreseeable operating conditions.\n3.1.3. The maximum distance between vehicles and ground shall take account of the nature of the cableway installation, the type of vehicles and the rescue procedures. In the case of open cars it shall also take account of the risk of fall as well as the psychological aspects associated with the distance between vehicles and ground.\n3.1.4. The maximum speed of the vehicles or towing devices, the minimum distance between them and their acceleration and braking performance shall be chosen to ensure the safety of persons and the safe operation of the cableway installation.\n3.2. Stations and structures along the line\n3.2.1. Stations and structures along the line shall be designed, installed and equipped so as to ensure stability. They shall permit safe guidance of the cables, vehicles and the towing devices, and enable maintenance to be safely carried out, under all operating conditions.\n3.2.2. The entry and exit areas of the cableway installation shall be designed so as to guarantee the safety of the traffic of vehicles, towing devices and persons. The movement of vehicles and towing devices in the stations shall be capable of taking place without risk to persons, taking into account their possible active collaboration to their movement.\n4. Requirements relating to cables, drives and brakes and to mechanical and electrical installations\n4.1. Cables and their supports\n4.1.1. All measures shall be taken in line with the latest technological developments:\nto avoid cables or their attachments breaking,\nto cover their minimum and maximum stress values,\nto ensure that they are safely mounted on their supports and prevent derailment,\nto enable them to be monitored.\n4.1.2. It is not possible to prevent all risk of cable derailment; measures shall be taken to ensure that cables can be retrieved and the cableway installations shut down without risk to persons in the event of derailment.\n4.2. Mechanical installations\n4.2.1. Drives\nThe drive system of a cableway installation shall be of a suitable performance and capability, adapted to the various operating systems and modes.\n4.2.2. Standby drive\nThe cableway installation shall have a standby drive with an energy supply which is independent of that of the main drive system. A standby drive is not, however, necessary if the safety analysis shows that people can leave the vehicles and, in particular, towing devices easily, quickly and safely even if a standby drive is not available.\n4.2.3. Braking\n4.2.3.1. In an emergency, it shall be possible to shut down the cableway installation and/or the vehicles at any moment, under the most unfavourable conditions in terms of authorised load and pulley adhesion during operation. The stopping distance shall be as short as the security of the cableway installation dictates.\n4.2.3.2. Deceleration values shall be within adequate limits fixed in such a way as to ensure both the safety of the persons and the satisfactory behaviour of the vehicles, cables and other parts of the cableway installation.\n4.2.3.3. In all cableway installations there shall be two or more braking systems, each capable of bringing the cableway installation to a halt, and coordinated in such a way that they automatically replace the active system when its efficiency becomes inadequate. The cableway installation's last braking system shall act as close as possible to the traction cable. These provisions do not apply to drag lifts.\n4.2.3.4. The cableway installation shall be fitted with an effective clamp and locking mechanism to guard against premature restarts.\n4.3. Control devices\nThe control devices shall be designed and constructed so as to be safe and reliable, to withstand normal operating stresses and external factors such as humidity, extreme temperatures or electromagnetic interference and so as not to cause dangerous situations, even in the event of operational error.\n4.4. Communication devices\nSuitable facilities shall be provided to enable operational staff to communicate with one another at all times and to inform passengers in case of emergency.\n5. Vehicles and towing devices\n5.1. Vehicles and/or towing devices shall be designed and fitted out in such a way that under foreseeable operating conditions no passenger or operating personnel can fall out or encounter any other risks.\n5.2. The fittings of vehicles and towing devices shall be dimensioned and constructed so as not to:\ndamage the cable, or\nslip, except where slippage does not significantly affect the safety of the vehicle, the towing device or the installation,\nunder the most unfavourable conditions.\n5.3. Vehicle doors (on cars, cabins) shall be designed and constructed in such a way as to make it possible to close and lock them. The vehicle floor and walls shall be designed and constructed so as to withstand pressure and loads exerted by passengers and operating personnel under any circumstances.\n5.4. If, for reasons of operational safety, an operator is required on board the vehicle, the vehicle shall be fitted with the equipment required for him to carry out his tasks.\n5.5. Vehicles and/or towing devices and, in particular, their suspension mechanisms shall be designed and fitted so as to ensure the safety of workers servicing them in accordance with appropriate rules and instructions.\n5.6. In the case of vehicles equipped with disconnectable fittings, all measures shall be taken to bring to a halt, without risk to passengers or operating personnel, at the moment of departure, any vehicle whose fitting has been incorrectly connected to the cable and, at the moment of arrival, any vehicle whose fitting has not been disconnected, and to prevent the vehicle from falling.\n5.7. The installations which have their vehicles running on a fixed track (such as funicular vehicles and multi-rope cable cars) shall be equipped with an automatic braking device on the track, when the possibility of traction cable breaking cannot reasonably be excluded.\n5.8. Where all risk of derailment of the vehicle cannot be eliminated by other measures, the vehicle shall be fitted with an anti-derailment device which enables the vehicle to be brought to a halt without risk to persons.\n6. Equipment for passengers and operating personnel\nThe access to embarkation areas and exit from disembarkation areas and the embarkation and disembarkation of passengers and operating personnel shall be organised with regard to the movement and stopping of vehicles in such a way as to ensure the safety of passengers and operating personnel, in particular in areas where there is a risk of falling.\nIt must be possible for children and persons with reduced mobility to use the cableway installation safely if the cableway installation is designed for the transport of such persons.\n7. Operability\n7.1. Safety\n7.1.1. All technical provisions and measures shall be taken to ensure that the cableway installation is used for its intended purpose according to its technical specification and to the specified operating conditions and that the instructions on safe operation and maintenance can be complied with. The instruction manual and the corresponding notes shall be drawn up in a language which can be easily understood by users, as determined by the Member State in the territory of which the cableway installation is constructed.\n7.1.2. The persons responsible for operating the cableway installation shall be provided with the appropriate material resources and shall be qualified to carry out the task in hand.\n7.2. Safety in the event of immobilisation of the cableway installation\nAll technical provisions and measures shall be adopted to ensure that passengers and operating personnel can be brought to safety within a set time appropriate to the type of cableway installation and its surroundings when the cableway installation is immobilised and cannot be restarted quickly.\n7.3. Other special provisions concerning safety\n7.3.1. Operators' stands and workplaces\nMovable parts which are normally accessible in the stations shall be designed, constructed and installed in such a way as to preclude any risks or, where such risks exist, be fitted with protective devices so as to prevent any contact with parts of the cableway installation which may cause accidents. Those devices shall be of a type that cannot easily be removed or rendered inoperative.\n7.3.2. Risk of falling\nWorkplaces and working areas, including those used only occasionally, and the access to them, shall be designed and constructed in such a way as to prevent persons required to work or move in them from falling. Should the construction not be adequate, they shall also be provided with anchorage points for personal protective equipment to prevent falls.",
+        "after": "ANNEX II\nESSENTIAL REQUIREMENTS\n1. Purpose\nThis Annex sets out the essential requirements, including maintainability and operability, applicable to the design, construction and entry into service of cableway installations, and applicable to subsystems and safety components.\n2. General requirements\n2.1. Safety of persons\nThe safety of passengers, operating personnel and third parties is a fundamental requirement for the design, construction and operation of cableway installations.\n2.2. Principles of safety\nAll cableway installations shall be designed, operated and serviced in accordance with the following principles, which are to be applied in the order given:\neliminate or, if that is not possible, reduce risks by means of design and construction features,\ndefine and implement all necessary measures to protect against risks which cannot be eliminated by the design and construction features,\ndefine and state the precautions which should be taken to avoid the risks which it has not been possible to eliminate completely by means of the provisions and measures referred to in the first and second indents.\n2.3. Consideration of external factors\nCableway installations must be so designed and constructed as to make it possible to operate them safely, taking into account the type of cableway installation, the nature and physical features of the terrain on which it is installed, its surroundings and atmospheric and meteorological factors, as well as possible structures and obstacles located in the vicinity either on the ground or in the air.\n2.4. Dimensions\nThe cableway installation, the subsystems and all its safety components shall be dimensioned, designed and constructed to withstand, with a sufficient degree of safety, all stresses encountered under all foreseeable conditions, including those which occur when not in operation, and taking account in particular of outside influences, dynamic effects and fatigue phenomena, while complying with the acknowledged rules of the art, in particular with regard to the choice of materials.\n2.5. Assembly\n2.5.1. The cableway installation, the subsystems and all the safety components shall be designed and constructed in such a way as to ensure that they can be safely assembled and put into place.\n2.5.2. The safety components shall be so designed as to make assembly mistakes impossible, either as a result of construction or by means of appropriate markings on the components themselves.\n2.6. Integrity of the cableway installation\n2.6.1. The safety components shall be designed and constructed and be usable in such a way as to ensure that, in every case, their own operational integrity and/or the safety of the cableway installation is ensured, as defined in the safety analysis provided for in Article 8, so that their failure is highly improbable and with an adequate safety margin.\n2.6.2. The cableway installation shall be designed and constructed in such a way as to ensure that, during its operation, any failure of a component which might endanger safety, is met by an appropriate measure being taken in good time.\n2.6.3. The safeguards referred to in points 2.6.1 and 2.6.2 shall apply throughout the period between two scheduled inspections of the component concerned. The time period for the scheduled inspection of the safety components shall be clearly indicated in the instruction manual.\n2.6.4. Safety components which are incorporated into cableway installations as spare parts shall satisfy the essential requirements of this Regulation and the conditions relating to the smooth interaction with the other parts of the cableway installations.\n2.6.5. Measures shall be taken to ensure that the effects of a fire in the cableway installation do not endanger the safety of persons.\n2.6.6. Special measures shall be taken to protect cableway installations and persons from the effects of lightning.\n2.7. Safety devices\n2.7.1. Any defect in the cableway installation which could result in a failure endangering safety shall, where practicable, be detected, reported and processed by a safety device. The same applies to any normally foreseeable external event which may endanger safety.\n2.7.2. It shall be possible at all times to shut down the cableway installation manually.\n2.7.3. After the cableway installation has been shut down by a safety device, it shall not be possible to restart it unless appropriate action has been taken.\n2.8. Maintainability\nThe cableway installation shall be designed and constructed so as to enable routine or special maintenance and repair operations and procedures to be carried out safely.\n2.9. Nuisance\nThe cableway installation shall be designed and constructed in such a way as to ensure that any internal or external nuisance resulting from noxious gases, noise emissions or vibrations falls within the prescribed limits.\n3. Infrastructure requirements\n3.1. Layout, speed, distance between vehicles\n3.1.1. The cableway installation shall be designed to operate safely taking into account the characteristics of the terrain and its surroundings, atmospheric and meteorological conditions, any possible structures and obstacles located in the vicinity either on the ground or in the air in such a way as to cause no nuisance or pose no danger under any operational or servicing conditions or in the event of an operation to rescue persons.\n3.1.2. Sufficient distance shall be maintained laterally and vertically between vehicles, towing devices, tracks, cables, etc., and possible structures and obstacles located in the vicinity either on the ground or in the air, taking account of the vertical, longitudinal and lateral movement of the cables and vehicles or of the towing devices under the most adverse foreseeable operating conditions.\n3.1.3. The maximum distance between vehicles and ground shall take account of the nature of the cableway installation, the type of vehicles and the rescue procedures. In the case of open cars it shall also take account of the risk of fall as well as the psychological aspects associated with the distance between vehicles and ground.\n3.1.4. The maximum speed of the vehicles or towing devices, the minimum distance between them and their acceleration and braking performance shall be chosen to ensure the safety of persons and the safe operation of the cableway installation.\n3.2. Stations and structures along the line\n3.2.1. Stations and structures along the line shall be designed, installed and equipped so as to ensure stability. They shall permit safe guidance of the cables, vehicles and the towing devices, and enable maintenance to be safely carried out, under all operating conditions.\n3.2.2. The entry and exit areas of the cableway installation shall be designed so as to guarantee the safety of the traffic of vehicles, towing devices and persons. The movement of vehicles and towing devices in the stations shall be capable of taking place without risk to persons, taking into account their possible active collaboration to their movement.\n4. Requirements relating to cables, drives and brakes and to mechanical and electrical installations\n4.1. Cables and their supports\n4.1.1. All measures shall be taken in line with the latest technological developments:\nto avoid cables or their attachments breaking,\nto cover their minimum and maximum stress values,\nto ensure that they are safely mounted on their supports and prevent derailment,\nto enable them to be monitored.\n4.1.2. If it is not possible to prevent all risk of cable derailment, measures shall be taken to ensure that cables can be retrieved and the cableway installations shut down without risk to persons in the event of derailment.\n4.2. Mechanical installations\n4.2.1. Drives\nThe drive system of a cableway installation shall be of a suitable performance and capability, adapted to the various operating systems and modes.\n4.2.2. Standby drive\nThe cableway installation shall have a standby drive with an energy supply which is independent of that of the main drive system. A standby drive is not, however, necessary if the safety analysis shows that people can leave the vehicles and, in particular, towing devices easily, quickly and safely even if a standby drive is not available.\n4.2.3. Braking\n4.2.3.1. In an emergency, it shall be possible to shut down the cableway installation and/or the vehicles at any moment, under the most unfavourable conditions in terms of authorised load and pulley adhesion during operation. The stopping distance shall be as short as the security of the cableway installation dictates.\n4.2.3.2. Deceleration values shall be within adequate limits fixed in such a way as to ensure both the safety of the persons and the satisfactory behaviour of the vehicles, cables and other parts of the cableway installation.\n4.2.3.3. In all cableway installations there shall be two or more braking systems, each capable of bringing the cableway installation to a halt, and coordinated in such a way that they automatically replace the active system when its efficiency becomes inadequate. The cableway installation's last braking system shall act as close as possible to the traction cable. These provisions do not apply to drag lifts.\n4.2.3.4. The cableway installation shall be fitted with an effective clamp and locking mechanism to guard against premature restarts.\n4.3. Control devices\nThe control devices shall be designed and constructed so as to be safe and reliable, to withstand normal operating stresses and external factors such as humidity, extreme temperatures or electromagnetic interference and so as not to cause dangerous situations, even in the event of operational error.\n4.4. Communication devices\nSuitable facilities shall be provided to enable operational staff to communicate with one another at all times and to inform passengers in case of emergency.\n5. Vehicles and towing devices\n5.1. Vehicles and/or towing devices shall be designed and fitted out in such a way that under foreseeable operating conditions no passenger or operating personnel can fall out or encounter any other risks.\n5.2. The fittings of vehicles and towing devices shall be dimensioned and constructed so as not to:\ndamage the cable, or\nslip, except where slippage does not significantly affect the safety of the vehicle, the towing device or the installation,\nunder the most unfavourable conditions.\n5.3. Vehicle doors (on cars, cabins) shall be designed and constructed in such a way as to make it possible to close and lock them. The vehicle floor and walls shall be designed and constructed so as to withstand pressure and loads exerted by passengers and operating personnel under any circumstances.\n5.4. If, for reasons of operational safety, an operator is required on board the vehicle, the vehicle shall be fitted with the equipment required for him to carry out his tasks.\n5.5. Vehicles and/or towing devices and, in particular, their suspension mechanisms shall be designed and fitted so as to ensure the safety of workers servicing them in accordance with appropriate rules and instructions.\n5.6. In the case of vehicles equipped with disconnectable fittings, all measures shall be taken to bring to a halt, without risk to passengers or operating personnel, at the moment of departure, any vehicle whose fitting has been incorrectly connected to the cable and, at the moment of arrival, any vehicle whose fitting has not been disconnected, and to prevent the vehicle from falling.\n5.7. The installations which have their vehicles running on a fixed track (such as funicular vehicles and multi-rope cable cars) shall be equipped with an automatic braking device on the track, when the possibility of traction cable breaking cannot reasonably be excluded.\n5.8. Where all risk of derailment of the vehicle cannot be eliminated by other measures, the vehicle shall be fitted with an anti-derailment device which enables the vehicle to be brought to a halt without risk to persons.\n6. Equipment for passengers and operating personnel\nThe access to embarkation areas and exit from disembarkation areas and the embarkation and disembarkation of passengers and operating personnel shall be organised with regard to the movement and stopping of vehicles in such a way as to ensure the safety of passengers and operating personnel, in particular in areas where there is a risk of falling.\nIt must be possible for children and persons with reduced mobility to use the cableway installation safely if the cableway installation is designed for the transport of such persons.\n7. Operability\n7.1. Safety\n7.1.1. All technical provisions and measures shall be taken to ensure that the cableway installation is used for its intended purpose according to its technical specification and to the specified operating conditions and that the instructions on safe operation and maintenance can be complied with. The instruction manual and the corresponding notes shall be drawn up in a language which can be easily understood by users, as determined by the Member State in the territory of which the cableway installation is constructed.\n7.1.2. The persons responsible for operating the cableway installation shall be provided with the appropriate material resources and shall be qualified to carry out the task in hand.\n7.2. Safety in the event of immobilisation of the cableway installation\nAll technical provisions and measures shall be adopted to ensure that passengers and operating personnel can be brought to safety within a set time appropriate to the type of cableway installation and its surroundings when the cableway installation is immobilised and cannot be restarted quickly.\n7.3. Other special provisions concerning safety\n7.3.1. Operators' stands and workplaces\nMovable parts which are normally accessible in the stations shall be designed, constructed and installed in such a way as to preclude any risks or, where such risks exist, be fitted with protective devices so as to prevent any contact with parts of the cableway installation which may cause accidents. Those devices shall be of a type that cannot easily be removed or rendered inoperative.\n7.3.2. Risk of falling\nWorkplaces and working areas, including those used only occasionally, and the access to them, shall be designed and constructed in such a way as to prevent persons required to work or move in them from falling. Should the construction not be adequate, they shall also be provided with anchorage points for personal protective equipment to prevent falls.",
+        "previous_location": null,
+        "changed_within": [
+          "AN II SCT 4 SCT 4.1 SCT 4.1.2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2016-03-31]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 4.1.2 was reworded from a statement that it is not possible to prevent all risk of cable derailment into a conditional clause that speaks of if it is not possible to prevent all risk of cable derailment, before continuing with the same requirement that measures be taken to retrieve cables and shut down the installation without risk to persons.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0424",
+                  "display_name": "Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (Text with EEA relevance)"
+                },
+                "version": "32016R0424",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0424#anx_II",
+              "label": "Annex II, 32016R0424"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R0424",
+                  "display_name": "Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (Text with EEA relevance)"
+                },
+                "version": "02016R0424-20160331",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20160331#anx_II",
+              "label": "Annex II, 02016R0424-20160331"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32016R0424",
+      "display_name": "Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 March 2016 on cableway installations and repealing Directive 2000/9/EC (Text with EEA relevance)"
+    },
+    "from_version": "32016R0424",
+    "to_version": "02016R0424-20160331",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2016-03-31]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 11227,
+      "output_tokens": 184,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
