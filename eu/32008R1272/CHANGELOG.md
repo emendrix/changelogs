@@ -4845,7 +4845,7 @@ Note S and Note U were consolidated so that they now refer to a single "Table 3"
 - **Act** `eu:32008R1272` · **In force** not stated · **Detected** 2026-08-13
 - **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20170601` · `v2` = `02008R1272-20180301`
 
 ---
@@ -5218,7 +5218,11 @@ In section 2.2, the description under GHS05 for skin corrosion was changed from 
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 3`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+In the Hazard Class and Category Code table, a new entry "Skin Corr. 1" has been added ahead of the existing "Skin Corr. 1A" line under skin corrosion/irritation. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
+
+Note U has been expanded to list the specific codes Press. Gas (Comp.), Press. Gas (Liq.), Press. Gas (Ref. Liq.) and Press. Gas (Diss.), and to add a statement that aerosols are not to be classified as gases under pressure, with a cross-reference to Annex I, Part 2, Section 2.3.2.1, Note 2. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
+
+The text of Part 3 in both versions is cut off before the comparison could be completed, so only the changes visible within the shown portion, and not any further differences that may exist later in Part 3, can be described here. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
 
 *before* (`02008R1272-20170601`)
 
