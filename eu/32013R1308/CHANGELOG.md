@@ -7635,7 +7635,7 @@ This point did not appear in the earlier version of the Annex, which ended at po
 - **Act** `eu:32013R1308` · **In force** 2014-01-01 · **Detected** 2026-09-04
 - **Touched** 19 provisions — 19 substantive · 0 date-only · **18 disputed**
 - **Diff** 1 inserted · 16 modified · 2 deleted · 0 renumbered · 0 deferred · 231 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32013R1308` · `v2` = `02013R1308-20140101`
 
 ---
@@ -7993,7 +7993,11 @@ The article also states that the Commission shall adopt this authorisation witho
 
 *within* `AR 230 PA 1 ALN 2 PTA (ba)`, `AR 230 PA 1 ALN 2 PTA (c)`, `AR 230 PA 1 ALN 2 PTA (ca)`, `AR 230 PA 1 ALN 2 PTA (da)`, `AR 230 PA 1 ALN 2 PTA (h)` · *dates* +2014-06-30 · *amended by* `32013R1310`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Two new points, (ba) and (ca), were added to the list of Regulation (EC) No 1234/2007 provisions that continue to apply, covering Article 111 until 31 March 2015 and Article 125a(1)(e) and (2) together with Annex XVIa for the fruit and vegetables sector until the date of application of related delegated-act rules. [Art. 230, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230)
+
+A further new point, (da), was inserted continuing the application of Articles 136, 138 and 140 and Annex XVIII until the date of application of certain implementing-act rules or 30 June 2014, whichever is earlier, and point (c) was expanded to also reference point IV of Part A of Annex XIV. [Art. 230, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230)
+
+Point (h) was narrowed from referring to point 3(b) of Part III of Annex XV to referring instead to point 3 of Part III of Annex XV. [Art. 230, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R1308#art_230) [Art. 230, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230)
 
 *before* (`32013R1308`)
 

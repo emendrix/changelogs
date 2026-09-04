@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 18,
     "quoted": 0,
-    "unexplained": 3
+    "unexplained": 2
   },
   "changes": [
     {
@@ -115,7 +115,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -200,7 +201,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -285,7 +287,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -370,7 +373,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -455,7 +459,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -573,7 +578,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -690,7 +696,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -775,7 +782,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -893,7 +901,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1010,7 +1019,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1067,7 +1077,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1165,7 +1176,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1231,10 +1243,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Two new points, (ba) and (ca), were added to the list of Regulation (EC) No 1234/2007 provisions that continue to apply, covering Article 111 until 31 March 2015 and Article 125a(1)(e) and (2) together with Annex XVIa for the fruit and vegetables sector until the date of application of related delegated-act rules.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20140101",
+                "location": "AR 230"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230",
+              "label": "Art. 230, 02013R1308-20140101"
+            }
+          ]
+        },
+        {
+          "text": "A further new point, (da), was inserted continuing the application of Articles 136, 138 and 140 and Annex XVIII until the date of application of certain implementing-act rules or 30 June 2014, whichever is earlier, and point (c) was expanded to also reference point IV of Part A of Annex XIV.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20140101",
+                "location": "AR 230"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230",
+              "label": "Art. 230, 02013R1308-20140101"
+            }
+          ]
+        },
+        {
+          "text": "Point (h) was narrowed from referring to point 3(b) of Part III of Annex XV to referring instead to point 3 of Part III of Annex XV.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "32013R1308",
+                "location": "AR 230"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R1308#art_230",
+              "label": "Art. 230, 32013R1308"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20140101",
+                "location": "AR 230"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20140101#art_230",
+              "label": "Art. 230, 02013R1308-20140101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1286,7 +1370,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested"
+      "unexplained": "the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1371,7 +1456,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1496,7 +1582,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1567,7 +1654,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1638,7 +1726,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1758,7 +1847,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -2285,6 +2375,7 @@
     "no_evidence": 1,
     "model_failed": 1,
     "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 128621,
       "output_tokens": 3777,
@@ -2304,5 +2395,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 10427,
+        "output_tokens": 808,
+        "requests": 2,
+        "schema_repairs": 1
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
