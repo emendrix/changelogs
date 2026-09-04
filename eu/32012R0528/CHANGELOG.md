@@ -366,10 +366,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20130923` → `02012R0528-20140425`
 
-- **Act** `eu:32012R0528` · **In force** 2014-04-25 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2014-04-25 · **Detected** 2026-09-04
 - **Touched** 34 provisions — 34 substantive · 0 date-only · **11 disputed**
 - **Diff** 0 inserted · 34 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
-- **Gate** 0 sentences quoted verbatim · 34 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20130923` · `v2` = `02012R0528-20140425`
 
 ---
@@ -380,7 +380,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Point (b) of Article 2(5) now specifies that the exclusion for biocidal products used as processing aids applies within the meaning of Regulation (EC) No 1831/2003 and Regulation (EC) No 1333/2008, a qualification absent from the earlier text. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_2)
 
 *before* (`02012R0528-20130923`)
 
@@ -388,11 +388,15 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Scope
 > 1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.
 > 2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:
-> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the CommunityOJ L 92, 7.4.1990, p. 42.;
+> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community
+> OJ L 92, 7.4.1990, p. 42.;
 > (b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;
-> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal productsOJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human useOJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines AgencyOJ L 136, 30.4.2004, p. 1.;
+> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products
+> OJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+> OJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency
+> OJ L 136, 30.4.2004, p. 1.;
 > (d) Regulation (EC) No 1831/2003;
-> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygie […truncated by emendrix: 5607 characters omitted…]
+> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the h […truncated by emendrix: 5633 characters omitted…]
 
 *after* (`02012R0528-20140425`)
 
@@ -400,11 +404,15 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Scope
 > 1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.
 > 2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:
-> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the CommunityOJ L 92, 7.4.1990, p. 42.;
+> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community
+> OJ L 92, 7.4.1990, p. 42.;
 > (b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;
-> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal productsOJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human useOJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines AgencyOJ L 136, 30.4.2004, p. 1.;
+> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products
+> OJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+> OJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency
+> OJ L 136, 30.4.2004, p. 1.;
 > (d) Regulation (EC) No 1831/2003;
-> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygie […truncated by emendrix: 5691 characters omitted…]
+> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the h […truncated by emendrix: 5717 characters omitted…]
 
 **MODIFIED · Art. 2.5** · applies from: unknown
 
@@ -422,7 +430,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The definition of biocidal product family was rewritten from a single descriptive sentence into a four-point list, requiring similar uses, the same active substances, similar composition with specified variations, and similar levels of risk and efficacy. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_3)
+
+The earlier version described the active substances as having the same specifications and the variations as not adversely affecting risk or significantly reducing efficacy, wording that no longer appears in the revised point (s). [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_3)
 
 *before* (`02012R0528-20130923`)
 
@@ -435,7 +445,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > A treated article that has a primary biocidal function shall be considered a biocidal product.
 > (b) micro-organism means any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including lower fungi, viruses, bacteria, yeasts, moulds, algae, protozoa and microscopic parasitic helminths;
 > (c) active substance means a substance or a micro-organism that has an action on or against harmful organisms;
-> (d) existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated res […truncated by emendrix: 8598 characters omitted…]
+> (d) existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated res […truncated by emendrix: 8600 characters omitted…]
 
 *after* (`02012R0528-20140425`)
 
@@ -448,7 +458,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > A treated article that has a primary biocidal function shall be considered a biocidal product.
 > (b) micro-organism means any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including lower fungi, viruses, bacteria, yeasts, moulds, algae, protozoa and microscopic parasitic helminths;
 > (c) active substance means a substance or a micro-organism that has an action on or against harmful organisms;
-> (d) existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated res […truncated by emendrix: 8515 characters omitted…]
+> (d) existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated res […truncated by emendrix: 8517 characters omitted…]
 
 **MODIFIED · Art. 3.1** · applies from: unknown
 
@@ -464,7 +474,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 19 PA 1 ALN 1 PTA (a)`, `AR 19 PA 1 ALN 1 PTA (e)`, `AR 19 PA 4 ALN 1 PTA (b)`, `AR 19 PA 4 ALN 1 PTA (c)`, `AR 19 PA 6 ALN 1`, `AR 19 PA 6 ALN 2`, `AR 19 PA 6 ALN 2 PTA (a)`, `AR 19 PA 6 ALN 2 PTA (b)`, `AR 19 PA 7 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Point (a) of paragraph 1(1) now also allows active substances that are included in Annex I, in addition to those approved for the relevant product-type, as a condition for authorisation. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_19)
+
+Point (e) of paragraph 1(1) and paragraph 7(1) now add the possibility of establishing specific migration limits or limits for residual content in food contact materials under Regulation (EC) No 1935/2004, alongside the existing maximum residue limit references, and the list of acute toxicity categories in paragraph 4(1)(b) is expanded to include specific target organ toxicity category 1, while paragraph 4(1)(c) now refers to a product that consists of, contains or generates a PBT or vPvB substance rather than the product itself meeting those criteria. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_19)
+
+Paragraph 6 is restructured so that the biocidal product family assessment under Annex VI must consider maximum risks and minimum efficacy across the family's range, and authorisation of a family now requires that the application identify those maximum risks, minimum efficacy and permitted variations with their classifications and risk mitigation measures, and that compliance with paragraph 1 be established on the basis of that assessment, replacing the prior wording based on permitted variations in substance percentages. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_19) [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_19)
 
 *before* (`02012R0528-20130923`)
 
@@ -478,7 +492,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (iii) the biocidal product has no immediate or delayed unacceptable effects itself, or as a result of its residues, on the health of humans, including that of vulnerable groups, or animals, directly or through drinking water, food, feed, air, or through other indirect effects;
 > (iv) the biocidal product has no unacceptable effects itself, or as a result of its residues, on the environment, having particular regard to the following considerations:
 > the fate and distribution of the biocidal product in the environment,
-> contamination of surface waters (including estuarial and seawater), groundw […truncated by emendrix: 6710 characters omitted…]
+> contamination of surface waters (including estuarial and seawater), groundw […truncated by emendrix: 6715 characters omitted…]
 
 *after* (`02012R0528-20140425`)
 
@@ -492,7 +506,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > (iii) the biocidal product has no immediate or delayed unacceptable effects itself, or as a result of its residues, on the health of humans, including that of vulnerable groups, or animals, directly or through drinking water, food, feed, air, or through other indirect effects;
 > (iv) the biocidal product has no unacceptable effects itself, or as a result of its residues, on the environment, having particular regard to the following considerations:
 > the fate and distribution of the biocidal product in the environment,
-> contamination of surface waters (including estuarial […truncated by emendrix: 7952 characters omitted…]
+> contamination of surface waters (including estuarial […truncated by emendrix: 7957 characters omitted…]
 
 **MODIFIED · Art. 19.1** · applies from: unknown
 
@@ -528,7 +542,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 23 PA 3 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The reference for how the comparative assessment is to be performed changed from being carried out in accordance with Annex VI (comparative assessment) to being carried out in accordance with the technical guidance notes referred to in Article 24. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_23)
 
 *before* (`02012R0528-20130923`)
 
@@ -553,7 +567,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 34 PA 4 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In Article 34(4), the reference to the assessment report being drafted in accordance with Article 30(3) was changed to a reference to Article 30 without the subparagraph specification. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_34)
 
 *before* (`02012R0528-20130923`)
 
@@ -585,7 +599,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 35 PA 3 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The cross-reference to the earlier authorisation article in Article 35(3) was changed from Article 33(4) to Article 33(3), while the reference to Article 34(6) remained the same. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_35)
 
 *before* (`02012R0528-20130923`)
 
@@ -611,7 +625,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 37 PA 3 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The time period referenced for the Member States' obligation to authorise a biocidal product under Article 89(3), which is suspended while the derogation procedure is ongoing, was changed from two years to three years. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_37)
 
 *before* (`02012R0528-20130923`)
 
@@ -657,7 +671,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 52 ALN 1`, `AR 52 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The first paragraph no longer lists disposal alongside making available on the market and use as one of the activities for which a period of grace is granted. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_52)
+
+Correspondingly, the second paragraph's additional 180-day period is described as covering only the use of existing stocks, with the reference to disposal removed. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_52)
 
 *before* (`02012R0528-20130923`)
 
@@ -677,7 +693,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 53 PA 1 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The opening clause of paragraph 1 now begins with the phrase "By way of derogation from Article 17", a phrase that was absent from the earlier version. [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_53) [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_53)
+
+The rest of the provision, including the remainder of paragraph 1 and all subsequent paragraphs, is unchanged between the two texts. [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_53)
 
 *before* (`02012R0528-20130923`)
 
@@ -701,7 +719,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 54 PA 1 ALN 1`, `AR 54 PA 3 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 1 no longer requires the applicant to pay the applicable fees under Article 80(1) at the time of submitting the application, removing that phrase from the earlier text. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_54)
+
+Paragraph 3 was shortened so that the Agency's notification duty runs only to the applicant, dropping the earlier reference to also informing the evaluating competent authority. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_54)
 
 *before* (`02012R0528-20130923`)
 
@@ -728,7 +748,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 56 PA 1 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The first paragraph now describes the purpose of the experiment or test as scientific or product and process-orientated research and development, rather than simply research or development. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_56)
+
+The same paragraph also changes the phrase describing the conditions under which such an experiment or test may take place from conditions laid down in this Article to conditions provided for in this Article. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_56)
 
 *before* (`02012R0528-20130923`)
 
@@ -752,7 +774,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 58 PA 3 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The only change in this provision is in paragraph 3, first sentence, where the phrase referring to 'such a treated article' was replaced with a reference to 'a treated article'. [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_58)
+
+This is a minor wording adjustment with no other textual differences between the two versions of Article 58. [Art. 58, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_58) [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_58)
 
 *before* (`02012R0528-20130923`)
 
@@ -784,7 +808,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 60 PA 3 ALN 1`, `AR 60 PA 3 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In Article 60(3), the list of articles referenced for the decision on authorisation of a biocidal product containing only existing active substances was changed from Article 30(4), Article 34(6) or Article 44(4) to Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5). [Art. 60, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_60) [Art. 60, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_60)
+
+The same list of referenced articles was changed identically for the paragraph on data submitted with a view to the authorisation of a biocidal product containing a new active substance. [Art. 60, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_60) [Art. 60, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_60)
 
 *before* (`02012R0528-20130923`)
 
@@ -812,39 +838,45 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 66 PA 4 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 4 now refers to information covered by both Article 67(3) and Article 67(4), where the earlier version referred only to Article 67(3). [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_66) [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_66)
+
+The wording changed from stating a person "can request" to stating a person "may request," and the phrase identifying whose commercial interests are affected changed from "their commercial interests" to "that person's commercial interests." [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_66) [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_66)
 
 *before* (`02012R0528-20130923`)
 
 > Article 66
 > Confidentiality
-> 1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documentsOJ L 145, 31.5.2001, p. 43. and the rules of the Management Board of the Agency, adopted in accordance with Article 118(3) of Regulation (EC) No 1907/2006, shall apply to documents held by the Agency for the purposes of this Regulation.
+> 1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents
+> OJ L 145, 31.5.2001, p. 43. and the rules of the Management Board of the Agency, adopted in accordance with Article 118(3) of Regulation (EC) No 1907/2006, shall apply to documents held by the Agency for the purposes of this Regulation.
 > 2. The Agency and the competent authorities shall refuse access to information where disclosure would undermine the protection of the commercial interests or the privacy or safety of the persons concerned.
 > Disclosure of the following information shall normally be deemed to undermine the protection of the commercial interests or the privacy or safety of the persons concerned:
 > (a) details of the full composition of a biocidal product;
 > (b) the precise tonnage of the active substance or biocidal product manufactured or made available on the market;
 > (c) links between a manufacturer of an active substance and the person responsible for the placing of a biocidal product on the market or between the person responsible for the placing of a biocidal product on the market and the distributors of the product;
 > (d) names and addresses of persons involved in testing on vertebrates.
-> However, where urgent action is essential to protect human health, animal health, safety or the environment or for other reasons of overriding public interest, the Agency or the compe […truncated by emendrix: 1725 characters omitted…]
+> However, where urgent action is essential to protect human health, animal health, safety or the environment or for other reasons of overriding public interest, the Agency or the comp […truncated by emendrix: 1726 characters omitted…]
 
 *after* (`02012R0528-20140425`)
 
 > Article 66
 > Confidentiality
-> 1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documentsOJ L 145, 31.5.2001, p. 43. and the rules of the Management Board of the Agency, adopted in accordance with Article 118(3) of Regulation (EC) No 1907/2006, shall apply to documents held by the Agency for the purposes of this Regulation.
+> 1. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents
+> OJ L 145, 31.5.2001, p. 43. and the rules of the Management Board of the Agency, adopted in accordance with Article 118(3) of Regulation (EC) No 1907/2006, shall apply to documents held by the Agency for the purposes of this Regulation.
 > 2. The Agency and the competent authorities shall refuse access to information where disclosure would undermine the protection of the commercial interests or the privacy or safety of the persons concerned.
 > Disclosure of the following information shall normally be deemed to undermine the protection of the commercial interests or the privacy or safety of the persons concerned:
 > (a) details of the full composition of a biocidal product;
 > (b) the precise tonnage of the active substance or biocidal product manufactured or made available on the market;
 > (c) links between a manufacturer of an active substance and the person responsible for the placing of a biocidal product on the market or between the person responsible for the placing of a biocidal product on the market and the distributors of the product;
 > (d) names and addresses of persons involved in testing on vertebrates.
-> However, where urgent action is essential to protect human health, animal health, safety or the environment or for other reasons of overriding public interest, the Agency or the compe […truncated by emendrix: 1735 characters omitted…]
+> However, where urgent action is essential to protect human health, animal health, safety or the environment or for other reasons of overriding public interest, the Agency or the comp […truncated by emendrix: 1736 characters omitted…]
 
 **MODIFIED · Art. 67 — Electronic public access** · applies from: unchanged
 
 *within* `AR 67 PA 1 ALN 1`, `AR 67 PA 3 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In paragraph 1, the trigger for public access changed from the date an active substance is approved to the date the Commission adopts an implementing Regulation providing that the active substance is approved, as referred to in point (a) of Article 9(1), and the reference to the substance was changed from active substances generally to that particular active substance. [Art. 67, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_67) [Art. 67, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_67)
+
+Paragraph 3 was changed in the same way, replacing the trigger of an active substance being approved with the Commission adopting an implementing Regulation providing that the active substance is approved, as referred to in point (a) of Article 9(1), and referring to that particular active substance instead of active substances generally. [Art. 67, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_67) [Art. 67, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_67)
 
 *before* (`02012R0528-20130923`)
 
@@ -887,7 +919,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 76 PA 1 ALN 1 PTA (l)` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new point (l) has been added to the list of Secretariat tasks in Article 76(1), covering support and assistance to Member States with regard to control and enforcement activities. [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_76)
 
 *before* (`02012R0528-20130923`)
 
@@ -927,7 +959,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 77 PA 1 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The list of decisions of the Agency whose appeals lie with the Board of Appeal no longer includes Article 26(2) as a basis for appeal. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_77)
+
+The remaining referenced articles (7(2), 13(3), 43(2), 45(3), 54(3), (4) and (5), 63(3) and 64(1)) are retained, though their grouping and punctuation in the sentence are presented differently. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_77)
 
 *before* (`02012R0528-20130923`)
 
@@ -951,7 +985,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 78 PA 2 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The restriction on using Article 96(1) revenues for tasks under this Regulation now carries an exception for a joint purpose or a temporary transfer to ensure the proper functioning of the Agency. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_78)
+
+Likewise, the restriction on using paragraph 1 revenues for tasks under Regulation (EC) No 1907/2006 now carries the same exception for a joint purpose or a temporary transfer to ensure the proper functioning of the Agency. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_78)
 
 *before* (`02012R0528-20130923`)
 
@@ -981,7 +1017,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 86 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision now refers to active substances for which the Commission has adopted directives including them in Annex I to Directive 98/8/EC, rather than simply to substances included in that Annex. [Art. 86, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_86) [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_86)
+
+The text adds that deemed approval takes effect on the date of inclusion, and adds a new sentence stating that approval is subject to the conditions set out in those Commission directives. [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_86)
 
 *before* (`02012R0528-20130923`)
 
@@ -999,7 +1037,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 89 PA 2 ALN 1`, `AR 89 PA 2 ALN 1 PTA (a)`, `AR 89 PA 2 ALN 1 PTA (b)`, `AR 89 PA 2 ALN 2`, `AR 89 PA 3 ALN 1`, `AR 89 PA 3 ALN 2`, `AR 89 PA 3 ALN 3 PTA (b)`, `AR 89 PA 4 ALN 1`, `AR 89 PA 4 ALN 1 PTA (a)`, `AR 89 PA 4 ALN 1 PTA (b)` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 2 extends the derogation period a Member State may apply from two years to up to three years after approval of the last active substance, adds an 18-month period for continued use of biocidal products following a non-approval decision, and restructures the description of qualifying products into sub-points covering existing active substances evaluated or being evaluated under Regulation (EC) No 1451/2007 and combinations of such substances with substances approved under this Regulation. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_89)
+
+Paragraph 3 lengthens the period within which Member States must ensure authorisations are granted, modified or cancelled from two years to three years after approval, removes the reference to submitting applications to Member States' competent authorities, and rephrases the disposal-and-use language for existing stocks as simply continued use for up to 365 days. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_89)
+
+Paragraph 4 is rewritten to also name the Commission, where relevant, alongside the Member State's competent authority as the decision-maker, to cover rejection of authorisation for a product already on the market and decisions imposing conditions requiring a product change, and to replace the prior disposal-and-use wording with a formulation limited to continued use of existing stocks for up to 365 days after the decision. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_89)
 
 *before* (`02012R0528-20130923`)
 
@@ -1007,7 +1049,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3116 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3117 characters omitted…]
 
 *after* (`02012R0528-20140425`)
 
@@ -1015,13 +1057,15 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3975 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3976 characters omitted…]
 
 **MODIFIED · Art. 92 — Transitional measures concerning biocidal products authorised/registered under Directive 98/8/EC** · applies from: unchanged
 
 *within* `AR 92 PA 2 ALN 2` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new sentence was added at the end of paragraph 2 stating that biocidal products authorised under Article 3 or 4 of Directive 98/8/EC are to be considered as authorised in accordance with Article 17 of this Regulation. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_92)
+
+The earlier version ended paragraph 2 with the statement that the Regulation applies to the products referred to in paragraph 1 from 1 September 2013, without this additional sentence. [Art. 92, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_92)
 
 *before* (`02012R0528-20130923`)
 
@@ -1042,7 +1086,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 93 ALN 1`, `AR 93 PA 1`, `AR 93 PA 2` · *dates* +2016-09-01 · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision no longer requires applications for authorisation of these biocidal products to be submitted by 1 September 2017, and instead permits a Member State to continue applying its existing system or practice of making the product available on the market and using it, where the product consists of, contains or generates only active substances that were available or used on 1 September 2013. [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_93) [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_93)
+
+The end point for this permission is now tied to whether applications for approval of all the relevant active substances are submitted by 1 September 2016, in which case the deadlines in Article 89 apply, or, if such an application is not submitted for one of the substances, to 1 September 2017, replacing the former structure that turned on submission of a product authorisation application, the outcome of that application, and separate rules for existing stocks. [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_93) [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_93)
 
 *before* (`02012R0528-20130923`)
 
@@ -1067,7 +1113,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision changes the derogation reference from Article 58 generally to Article 58(2) specifically, and it replaces the earlier single-paragraph test based on treated articles being available on the market on 1 September 2013 with a new test based on active substances being under examination or subject to a pending approval application by 1 September 2016. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_94)
+
+Paragraph 1 now sets out two dated outcomes, split into points (a) and (b), covering a rejection or non-approval decision taken after 1 September 2016 and the approval of the last relevant active substance, replacing the earlier single rule tied to a 1 September 2016 application deadline and a decision on approval. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_94)
+
+The former paragraph 2, which barred placing on the market 180 days after a non-approval decision or from 1 September 2016, whichever was later, is replaced by a new paragraph 2 allowing treated articles with other active substances to be placed on the market until 1 March 2017. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_94)
 
 *before* (`02012R0528-20130923`)
 
@@ -1091,7 +1141,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The provision moves from requiring each relevant person to individually submit a dossier, letter of access, or reference to the Agency, to instead having the Agency itself compile and regularly update a public list of active substances with complete substance dossiers and the persons who submitted them. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_95)
+
+The later text introduces new defined roles of substance supplier and product supplier, adds provisions on fee payment and verification by the Agency, and adds a new paragraph requiring the Agency to remove suppliers from the list if they fail to submit relevant data within twelve months of a renewal. [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_95)
+
+The market restriction and data protection end-date provisions are reworded and renumbered, with the data protection end-date provision now tied to whether a decision on inclusion in Annex I to Directive 98/8/EC was taken before 1 September 2013, a condition absent from the earlier text. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_95)
 
 *before* (`02012R0528-20130923`)
 
@@ -1117,7 +1171,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 96 ALN 1` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The list of articles excepted from the repeal was changed from Articles 86, 89, 90, 91 and 92 to Articles 86, 89 to 93 and 95. [Art. 96, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_96) [Art. 96, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_96)
 
 *before* (`02012R0528-20130923`)
 
@@ -1137,7 +1191,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The heading of Category 6 was changed from referring to substances included in Annex I or IA to Directive 98/8/EC to instead describe substances for which a Member State has validated an active substance dossier under Article 7(3) of the Regulation or accepted such a dossier under Article 11(1) of Directive 98/8/EC. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_I)
+
+Within that category, the entry for the substance formerly listed by EC number 250-753-6 as (Z,E)-Tetradec-9,12-dienyl acetate was replaced with an entry showing no EC number available, naming the substance (9Z,12E)-tetradeca-9,12-dien-1-yl acetate and adding a CAS number. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_I)
+
+The Category 7 heading, which previously appeared on the same line as the preceding entries, now appears on its own separate line. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_I)
 
 *before* (`02012R0528-20130923`)
 
@@ -1175,7 +1233,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The wording of item 8.3 Skin sensitisation under Title 1 for chemical products is unchanged in substance, with only a line break removed so that the heading and the description of the assessment steps now run together rather than being separated onto a new line. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_III)
 
 *before* (`02012R0528-20130923`)
 
@@ -1199,7 +1257,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN V` · *amended by* `32014R0334`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In the description of Product-type 4, the phrasing describing products used to impregnate materials that may contact food was changed to describe products used to be incorporated into materials which may enter into contact with food. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_V)
 
 *before* (`02012R0528-20130923`)
 
