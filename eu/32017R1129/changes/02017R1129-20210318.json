@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -96,11 +96,69 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new point (l) is added to paragraph 4, exempting non-equity securities issued continuously or repeatedly by a credit institution where the total aggregated consideration in the Union is less than EUR 150000000 per credit institution over 12 months, applicable from 18 March 2021 to 31 December 2022, alongside the existing point (j) exemption for such securities under the EUR 75000000 threshold.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1",
+              "label": "Art. 1, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "A parallel new point (k) is added to paragraph 5 with the same EUR 150000000 threshold and the same 18 March 2021 to 31 December 2022 window, sitting alongside the existing point (i) exemption for the EUR 75000000 threshold.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20210318",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1",
+              "label": "Art. 1, 02017R1129-20210318"
+            }
+          ]
+        },
+        {
+          "text": "These additions did not exist in the earlier text, which only contained the lower EUR 75000000 thresholds in point (j) of paragraph 4 and point (i) of paragraph 5.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20191231",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1",
+              "label": "Art. 1, 02017R1129-20191231"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1485,6 +1543,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 24703,
+        "output_tokens": 805,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

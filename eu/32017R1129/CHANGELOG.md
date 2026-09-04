@@ -1986,7 +1986,7 @@ The credit-institution exemption previously located at point (k) with the same w
 - **Act** `eu:32017R1129` · **In force** 2021-03-18 · **Detected** 2026-08-13
 - **Touched** 10 provisions — 10 substantive · 0 date-only · **1 disputed**
 - **Diff** 3 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20191231` · `v2` = `02017R1129-20210318`
 
 ---
@@ -1995,7 +1995,11 @@ The credit-institution exemption previously located at point (k) with the same w
 
 *within* `AR 1 PA 4 ALN 1 PTA (j) PTI (ii)`, `AR 1 PA 4 ALN 1 PTA (l)`, `AR 1 PA 5 ALN 1 PTA (j) PTI (vi)`, `AR 1 PA 5 ALN 1 PTA (k)` · *dates* +2021-03-18 +2022-12-31 · *amended by* `32021R0337`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+A new point (l) is added to paragraph 4, exempting non-equity securities issued continuously or repeatedly by a credit institution where the total aggregated consideration in the Union is less than EUR 150000000 per credit institution over 12 months, applicable from 18 March 2021 to 31 December 2022, alongside the existing point (j) exemption for such securities under the EUR 75000000 threshold. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
+
+A parallel new point (k) is added to paragraph 5 with the same EUR 150000000 threshold and the same 18 March 2021 to 31 December 2022 window, sitting alongside the existing point (i) exemption for the EUR 75000000 threshold. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
+
+These additions did not exist in the earlier text, which only contained the lower EUR 75000000 thresholds in point (j) of paragraph 4 and point (i) of paragraph 5. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
 
 *before* (`02017R1129-20191231`)
 
