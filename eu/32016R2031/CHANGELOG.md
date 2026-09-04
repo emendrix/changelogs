@@ -10,6 +10,605 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02016R2031-20250105 -->
+## Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against […]
+### `02016R2031-20191214` → `02016R2031-20250105`
+
+- **Act** `eu:32016R2031` · **In force** 2025-01-05 · **Detected** 2026-09-04
+- **Touched** 21 provisions — 21 substantive · 0 date-only · **1 disputed**
+- **Diff** 2 inserted · 19 modified · 0 deleted · 0 renumbered · 0 deferred · 104 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02016R2031-20191214` · `v2` = `02016R2031-20250105`
+
+---
+
+**MODIFIED · Art. 18 — Establishment of demarcated areas** · applies from: unchanged
+
+*within* `AR 18 PA 6 ALN 1` · *amended by* `32024R3115`
+
+Paragraph 6 no longer requires Member States to notify the Commission and other Member States annually by 30 April with the number and locations of demarcated areas and measures taken during the preceding calendar year; instead it requires notification of the demarcated areas immediately after their establishment, together with the pests concerned and the measures taken. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_18)
+
+The revised text also adds that these notifications must be made through the electronic notification system referred to in Article 103. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_18)
+
+*before* (`02016R2031-20191214`)
+
+> Article 18
+> Establishment of demarcated areas
+> 1. Where one of the situations referred to in points (a) and (b) of the first paragraph of Article 11 is officially confirmed, the competent authority shall immediately establish one or more areas where the eradication measures referred to in Article 17(1) are to be taken (demarcated area).
+> The demarcated area shall consist of an infested zone and a buffer zone.
+> 2. The infested zone shall, as applicable, contain:
+> (a) all plants known to be infested by the pest concerned;
+> (b) all plants showing signs or symptoms indicating possible infestation by that pest;
+> (c) all other plants liable to have been or become contaminated or infested by that pest, including plants liable to be infested due to their susceptibility to that pest and their close proximity to infested plants or common source of production, if known, with infested plants, or plants grown from them;
+> (d) land, soil, water courses or other elements infested, or liable to be infested, by the pest concerned.
+> 3. The buffer zone shall be adjacent to the infested zone and shall surround it.
+> Its extent shall be appropriate in view of the risk of the pest concerned spreading out of the infested zone naturally or by human activities in the infested zone and its surroundings, and shall be decided in accordance with the principles set out in Section 2 of Annex II.
+> However, where any risk of the pest spreading out of the infested zone is eliminated or reduced to an acceptable level throu […truncated by emendrix: 1486 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 18
+> Establishment of demarcated areas
+> 1. Where one of the situations referred to in points (a) and (b) of the first paragraph of Article 11 is officially confirmed, the competent authority shall immediately establish one or more areas where the eradication measures referred to in Article 17(1) are to be taken (demarcated area).
+> The demarcated area shall consist of an infested zone and a buffer zone.
+> 2. The infested zone shall, as applicable, contain:
+> (a) all plants known to be infested by the pest concerned;
+> (b) all plants showing signs or symptoms indicating possible infestation by that pest;
+> (c) all other plants liable to have been or become contaminated or infested by that pest, including plants liable to be infested due to their susceptibility to that pest and their close proximity to infested plants or common source of production, if known, with infested plants, or plants grown from them;
+> (d) land, soil, water courses or other elements infested, or liable to be infested, by the pest concerned.
+> 3. The buffer zone shall be adjacent to the infested zone and shall surround it.
+> Its extent shall be appropriate in view of the risk of the pest concerned spreading out of the infested zone naturally or by human activities in the infested zone and its surroundings, and shall be decided in accordance with the principles set out in Section 2 of Annex II.
+> However, where any risk of the pest spreading out of the infested zone is eliminated or reduced to an acceptable level throu […truncated by emendrix: 1540 characters omitted…]
+
+**MODIFIED · Art. 19 — Surveys and modifications of demarcated areas and lifting of restrictions** · applies from: unchanged
+
+*within* `AR 19 PA 8` · *amended by* `32024R3115`
+
+A new paragraph 8 has been added, providing that findings of the pest in the buffer zone under paragraph 2 and the abolition of demarcated areas under paragraph 4 are to be notified through the electronic notification system referred to in Article 103. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_19)
+
+This paragraph did not appear in the earlier version of Article 19. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_19)
+
+*before* (`02016R2031-20191214`)
+
+> Article 19
+> Surveys and modifications of demarcated areas and lifting of restrictions
+> 1. Competent authorities shall at least annually, at appropriate times, carry out a survey of each demarcated area as regards the development of the presence of the pest concerned.
+> Those surveys shall be carried out in accordance with Article 22(2).
+> 2. Where, whether or not as a result of a survey as referred to in paragraph 1, a competent authority finds a presence of the pest concerned in the buffer zone, the Member State concerned shall immediately notify the Commission and the other Member States thereof.
+> 3. Competent authorities shall modify the boundaries of infested zones, buffer zones and demarcated areas, where appropriate, in view of the results of the surveys referred to in paragraph 1.
+> 4. Competent authorities may abolish a demarcated area and terminate the respective eradication measures where the pest-free status of that area has been verified. This will be the case where the following two conditions are fulfilled:
+> (a) the survey referred to in paragraph 1 shows that the area has been found to be free from the pest concerned; and
+> (b) the pest concerned has not been found to be present in that demarcated area for a sufficiently long period.
+> 5. When deciding on the modifications referred to in paragraph 3 or the abolition of the demarcated area referred to in paragraph 4, the competent authority concerned shall take into account at least the following factors:
+> (a) the biology of t […truncated by emendrix: 785 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 19
+> Surveys and modifications of demarcated areas and lifting of restrictions
+> 1. Competent authorities shall at least annually, at appropriate times, carry out a survey of each demarcated area as regards the development of the presence of the pest concerned.
+> Those surveys shall be carried out in accordance with Article 22(2).
+> 2. Where, whether or not as a result of a survey as referred to in paragraph 1, a competent authority finds a presence of the pest concerned in the buffer zone, the Member State concerned shall immediately notify the Commission and the other Member States thereof.
+> 3. Competent authorities shall modify the boundaries of infested zones, buffer zones and demarcated areas, where appropriate, in view of the results of the surveys referred to in paragraph 1.
+> 4. Competent authorities may abolish a demarcated area and terminate the respective eradication measures where the pest-free status of that area has been verified. This will be the case where the following two conditions are fulfilled:
+> (a) the survey referred to in paragraph 1 shows that the area has been found to be free from the pest concerned; and
+> (b) the pest concerned has not been found to be present in that demarcated area for a sufficiently long period.
+> 5. When deciding on the modifications referred to in paragraph 3 or the abolition of the demarcated area referred to in paragraph 4, the competent authority concerned shall take into account at least the following factors:
+> (a) the biology of t […truncated by emendrix: 1072 characters omitted…]
+
+**INSERTED · Art. 19a — Union Plant Health Emergency Team** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R3115`
+
+This is a newly inserted article establishing a Union Plant Health Emergency Team composed of experts who can provide Member States, and in justified cases certain third countries, with urgent assistance concerning outbreaks of Union quarantine pests and pests subject to measures under Article 30. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_19a)
+
+The provision sets out how the Commission appoints team members for each case, describes the types of assistance that may be given, allows Member States to submit and update lists of proposed experts, and provides for indemnities and reimbursement of travel and subsistence costs paid by the Commission. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_19a)
+
+*after* (`02016R2031-20250105`)
+
+> Article 19a
+> Union Plant Health Emergency Team
+> 1. A Union Plant Health Emergency Team (the Team), composed of experts, shall be created with the purpose of providing Member States, upon their request, with urgent assistance in relation to the measures to be taken pursuant to Articles 10 to 19, 27 and 28 concerning new outbreaks of Union quarantine pests and pests subject to the measures adopted pursuant to Article 30. In justified cases, the Team may also provide urgent assistance to third countries bordering the Union territory or presenting an imminent phytosanitary risk for that territory, upon the request of one or more Member States and the third country concerned, in relation to the outbreaks in their territories of Union quarantine pests and pests subject to the measures adopted pursuant to Article 30.
+> For each case of assistance, the Commission shall appoint specific members of the Team, on the basis of their expertise, and in consultation with the Member State or third country concerned.
+> That assistance may include in particular:
+> (a) scientific, technical and managerial on-the-spot or remote assistance as regards the eradication of the pests concerned, the prevention of their spread and other measures, in close collaboration with the competent authorities of the Member State or third country concerned by outbreaks of pests or suspicion thereof;
+> (b) specific scientific advice on the suitable diagnostic methods, as appropriate, in coordination with the relevant European […truncated by emendrix: 1218 characters omitted…]
+
+**MODIFIED · Art. 22 — Surveys on Union quarantine pests and pests provisionally qualifying as Union quarantine pests** · applies from: unchanged
+
+*within* `AR 22 PA 3 ALN 1` · *amended by* `32024R3115`
+
+A new sentence has been added to the first subparagraph of paragraph 3 stating that the annual reports on survey results must be submitted through the electronic notification system referred to in Article 103. [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_22)
+
+The remainder of the paragraph and the rest of Article 22 are unchanged between the two versions. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_22)
+
+*before* (`02016R2031-20191214`)
+
+> Article 22
+> Surveys on Union quarantine pests and pests provisionally qualifying as Union quarantine pests
+> 1. Member States shall carry out risk-based surveys, over specific periods of time, checking at least for:
+> (a) the presence of any Union quarantine pest; and
+> (b) signs or symptoms of any pest subject to the measures referred to in Article 29 or to measures adopted pursuant to Article 30(1).
+> Those surveys shall take place in all areas where the pest concerned was not known to be present.
+> Those surveys shall not be required to be carried out for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. The design of the surveys referred to in paragraph 1 shall be based on the risk that the pest occurs in the area covered by each survey. They shall consist, at least, of visual examinations by the competent authority and, where appropriate, the collection of samples and performance of tests. Those surveys shall be carried out in all appropriate locations and shall include, where appropriate, premises, vehicles, machinery and packaging used by professional operators and other persons. They shall be based on sound scientific and technical principles and shall be carried out at appropriate times with regard to the possibility to detect the pest concerned.
+> Those surveys shall take account of scientific and technical evidence, and any other ap […truncated by emendrix: 791 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 22
+> Surveys on Union quarantine pests and pests provisionally qualifying as Union quarantine pests
+> 1. Member States shall carry out risk-based surveys, over specific periods of time, checking at least for:
+> (a) the presence of any Union quarantine pest; and
+> (b) signs or symptoms of any pest subject to the measures referred to in Article 29 or to measures adopted pursuant to Article 30(1).
+> Those surveys shall take place in all areas where the pest concerned was not known to be present.
+> Those surveys shall not be required to be carried out for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. The design of the surveys referred to in paragraph 1 shall be based on the risk that the pest occurs in the area covered by each survey. They shall consist, at least, of visual examinations by the competent authority and, where appropriate, the collection of samples and performance of tests. Those surveys shall be carried out in all appropriate locations and shall include, where appropriate, premises, vehicles, machinery and packaging used by professional operators and other persons. They shall be based on sound scientific and technical principles and shall be carried out at appropriate times with regard to the possibility to detect the pest concerned.
+> Those surveys shall take account of scientific and technical evidence, and any other ap […truncated by emendrix: 895 characters omitted…]
+
+**MODIFIED · Art. 23 — Multiannual survey programmes and collection of information** · applies from: unchanged
+
+*within* `AR 23 PA 1 ALN 3`, `AR 23 PA 2 ALN 1` · *amended by* `32024R3115`
+
+The duration for multiannual survey programmes changed from a period of five to seven years to a period of five to 10 years, and a new sentence was added stating that those programmes shall be reviewed and updated based on applicable rules and the phytosanitary situation of the territory concerned. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_23)
+
+The notification obligation in paragraph 2 was changed so that Member States notify their programmes upon request from the Commission specifically, rather than simply on request, and a new sentence was added requiring that such notifications be submitted through the electronic notification system referred to in Article 103. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_23)
+
+*before* (`02016R2031-20191214`)
+
+> Article 23
+> Multiannual survey programmes and collection of information
+> 1. Member States shall establish multiannual survey programmes setting out the content of the surveys to be carried out pursuant to Article 22. Those programmes shall provide for the collection and recording of the scientific and technical evidence and other information referred to in the second subparagraph of Article 22(2).
+> The multiannual survey programmes shall include the following elements in conformity with Article 22(2):
+> (a) the specific objective of each survey;
+> (b) the scope of each survey as regards the area concerned and the time scale covered, as well as the pests, plants and commodities targeted;
+> (c) the survey methodology and quality management including a description of the procedures for visual examination, sampling and testing and their technical justification;
+> (d) the timing, frequency and numbers of scheduled visual examinations, samples and tests; and
+> (e) the methods of recording and reporting the information collected.
+> The multiannual survey programmes shall be for a period of five to seven years.
+> 2. Member States shall, on request, notify their multiannual survey programmes upon their establishment to the Commission and the other Member States.
+> 3. The Commission may adopt implementing acts establishing the format of the multiannual survey programmes and the practical arrangements for the application of the elements set out in paragraph 1 to specific pest risks.
+> Those implementing act […truncated by emendrix: 94 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 23
+> Multiannual survey programmes and collection of information
+> 1. Member States shall establish multiannual survey programmes setting out the content of the surveys to be carried out pursuant to Article 22. Those programmes shall provide for the collection and recording of the scientific and technical evidence and other information referred to in the second subparagraph of Article 22(2).
+> The multiannual survey programmes shall include the following elements in conformity with Article 22(2):
+> (a) the specific objective of each survey;
+> (b) the scope of each survey as regards the area concerned and the time scale covered, as well as the pests, plants and commodities targeted;
+> (c) the survey methodology and quality management including a description of the procedures for visual examination, sampling and testing and their technical justification;
+> (d) the timing, frequency and numbers of scheduled visual examinations, samples and tests; and
+> (e) the methods of recording and reporting the information collected.
+> The multiannual survey programmes shall be established for a period of five to 10 years. Those programmes shall be reviewed and updated on the basis of the applicable rules and the phytosanitary situation of the territory concerned.
+> 2. Member States shall, on request from the Commission, notify their multiannual survey programmes to the Commission and the other Member States. Those notifications shall be submitted through the electronic notification system referred to i […truncated by emendrix: 352 characters omitted…]
+
+**MODIFIED · Art. 24 — Surveys of priority pests** · applies from: unchanged
+
+*within* `AR 24 PA 2 ALN 1` · *amended by* `32024R3115`
+
+The after text adds a sentence to paragraph 2 stating that the annual survey reports are to be submitted through the electronic notification system referred to in Article 103. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_24)
+
+The before text contained no reference to a submission channel for those reports. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_24)
+
+*before* (`02016R2031-20191214`)
+
+> Article 24
+> Surveys of priority pests
+> 1. For each priority pest, Member States shall carry out a survey annually, as set out in Article 22(1) and (2). Those surveys shall include a sufficiently high number of visual examinations, sampling and testing, as appropriate for each priority pest, to ensure, as far as it is possible given the respective biology of each priority pest and the ecoclimatic conditions, with a high degree of confidence, the timely detection of those pests.
+> The surveys shall not be required to be carried out for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. Member States shall report to the Commission and the other Member States by 30 April of each year the results of the surveys referred to in paragraph 1 which were carried out in the preceding calendar year.
+
+*after* (`02016R2031-20250105`)
+
+> Article 24
+> Surveys of priority pests
+> 1. For each priority pest, Member States shall carry out a survey annually, as set out in Article 22(1) and (2). Those surveys shall include a sufficiently high number of visual examinations, sampling and testing, as appropriate for each priority pest, to ensure, as far as it is possible given the respective biology of each priority pest and the ecoclimatic conditions, with a high degree of confidence, the timely detection of those pests.
+> The surveys shall not be required to be carried out for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. Member States shall report to the Commission and the other Member States by 30 April of each year the results of the surveys referred to in paragraph 1 which were carried out in the preceding calendar year. Those reports shall be submitted through the electronic notification system referred to in Article 103.
+
+**MODIFIED · Art. 25 — Contingency plans for priority pests** · applies from: unchanged
+
+*within* `AR 25 PA 3 ALN 1` · *amended by* `32024R3115`
+
+A new sentence was added to paragraph 3 stating that Member States may cooperate to synchronise contingency plans for certain species, where appropriate for priority pest species with similar biology and overlapping or adjoining host ranges. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_25)
+
+The earlier version of paragraph 3 contained only the provision on combining contingency plans for multiple priority pests with similar biology and host species range, without any mention of cooperation between Member States to synchronise plans. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_25)
+
+*before* (`02016R2031-20191214`)
+
+> Article 25
+> Contingency plans for priority pests
+> 1. Each Member State shall draw up and keep up to date for each priority pest which is capable of entering into and becoming established in its territory, or a part thereof, a separate plan containing information concerning the decision-making processes, procedures and protocols to be followed, and the minimum resources to be made available and the procedures to make available further resources in the event of an officially confirmed or suspected presence of that pest (the contingency plan).
+> Member States shall, at an appropriate stage, consult all relevant stakeholders in the process of drawing up and keeping up to date the contingency plans.
+> No contingency plans shall be required to be drawn up for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. Each contingency plan shall include the following:
+> (a) the roles and responsibilities of the bodies involved in the execution of the plan, in case of a confirmed or suspected presence of the priority pest concerned, as well as the chain of command and procedures for the co-ordination of actions to be taken by competent authorities, other public authorities, as referred to in Article 4(2) of Regulation (EU) 2017/625, delegated bodies or natural persons involved, as referred to in Article 28(1) of that Regulation, laboratories and professio […truncated by emendrix: 2710 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 25
+> Contingency plans for priority pests
+> 1. Each Member State shall draw up and keep up to date for each priority pest which is capable of entering into and becoming established in its territory, or a part thereof, a separate plan containing information concerning the decision-making processes, procedures and protocols to be followed, and the minimum resources to be made available and the procedures to make available further resources in the event of an officially confirmed or suspected presence of that pest (the contingency plan).
+> Member States shall, at an appropriate stage, consult all relevant stakeholders in the process of drawing up and keeping up to date the contingency plans.
+> No contingency plans shall be required to be drawn up for pests for which it is unequivocally concluded that they cannot become established or spread in the Member State concerned due to its ecoclimatic conditions or to the absence of the host species.
+> 2. Each contingency plan shall include the following:
+> (a) the roles and responsibilities of the bodies involved in the execution of the plan, in case of a confirmed or suspected presence of the priority pest concerned, as well as the chain of command and procedures for the co-ordination of actions to be taken by competent authorities, other public authorities, as referred to in Article 4(2) of Regulation (EU) 2017/625, delegated bodies or natural persons involved, as referred to in Article 28(1) of that Regulation, laboratories and professio […truncated by emendrix: 2919 characters omitted…]
+
+**MODIFIED · Art. 30 — Union measures concerning pests not listed as Union quarantine pests** · applies from: unchanged
+
+*within* `AR 30 PA 1 ALN 3` · *amended by* `32024R3115`
+
+A new sentence has been added to the third subparagraph of Article 30(1) stating that the measures may include prohibiting the pest's introduction into, movement within, or holding, multiplication or release in the Union territory, together with requirements on the introduction into and movement within the Union territory of plants, plant products and other objects. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_30)
+
+The corresponding text in the earlier version ended after listing the provisions referred to in points (a) to (g) of Article 28(1), without this additional sentence. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_30)
+
+*before* (`02016R2031-20191214`)
+
+> Article 30
+> Union measures concerning pests not listed as Union quarantine pests
+> 1. Where the Commission receives a notification as referred to in the first subparagraph of Article 29(3), or has other evidence concerning the presence in, or imminent danger of entry into, or spread within, the Union territory of a pest which is not included in the list of Union quarantine pests and it considers that that pest may fulfil the conditions for inclusion in that list, it shall immediately assess whether, as regards the Union territory, that pest fulfils the criteria set out in Subsection 2 of Section 3 of Annex I.
+> Where the Commission concludes that those criteria are fulfilled, it shall immediately, by means of implementing acts, adopt measures for a limited time as regards the risks posed by that pest. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> Those measures shall, where appropriate, implement, specifically for each of the pests concerned, one or more of the provisions referred to in points (a) to (g) of the first subparagraph of Article 28(1).
+> 2. After adopting the measures referred to in paragraph 1, the Commission shall assess whether the pest concerned fulfils, as regards the Union territory, the criteria for quarantine pests set out in Section 1 of Annex I.
+> 3. Where it is concluded, on the basis of surveys referred to in Articles 19 and 22 or other evidence, that the eradication of the pest concerned in […truncated by emendrix: 1603 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 30
+> Union measures concerning pests not listed as Union quarantine pests
+> 1. Where the Commission receives a notification as referred to in the first subparagraph of Article 29(3), or has other evidence concerning the presence in, or imminent danger of entry into, or spread within, the Union territory of a pest which is not included in the list of Union quarantine pests and it considers that that pest may fulfil the conditions for inclusion in that list, it shall immediately assess whether, as regards the Union territory, that pest fulfils the criteria set out in Subsection 2 of Section 3 of Annex I.
+> Where the Commission concludes that those criteria are fulfilled, it shall immediately, by means of implementing acts, adopt measures for a limited time as regards the risks posed by that pest. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> Those measures shall, where appropriate, implement, specifically for each of the pests concerned, one or more of the provisions referred to in points (a) to (g) of the first subparagraph of Article 28(1). They may include the prohibition of the pest’s introduction into, movement within, or holding, multiplication or release in the Union territory and requirements concerning the introduction into, and the movement within, the Union territory of plants, plant products and other objects.
+> 2. After adopting the measures referred to in paragraph 1, the Commission shall asses […truncated by emendrix: 1888 characters omitted…]
+
+**MODIFIED · Art. 34 — Surveys on protected zone quarantine pests** · applies from: unchanged
+
+*within* `AR 34 PA 2 ALN 1` · *amended by* `32024R3115`
+
+The obligation for Member States to notify the Commission and other Member States of survey results by 30 April now includes an added requirement that such notifications be submitted through the electronic notification system referred to in Article 103. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_34)
+
+The earlier version of paragraph 2 contained no reference to any electronic notification system. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_34)
+
+*before* (`02016R2031-20191214`)
+
+> Article 34
+> Surveys on protected zone quarantine pests
+> 1. The competent authority shall carry out annual surveys of each protected zone as regards the presence of the protected zone quarantine pest concerned. Article 22(2) shall apply mutatis mutandis to those surveys.
+> The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by laying down detailed rules for the preparation and the content of those surveys.
+> 2. Member States shall notify the Commission and the other Member States, by 30 April of each year, of the results of the surveys referred to in paragraph 1 which were carried out in the preceding calendar year.
+
+*after* (`02016R2031-20250105`)
+
+> Article 34
+> Surveys on protected zone quarantine pests
+> 1. The competent authority shall carry out annual surveys of each protected zone as regards the presence of the protected zone quarantine pest concerned. Article 22(2) shall apply mutatis mutandis to those surveys.
+> The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by laying down detailed rules for the preparation and the content of those surveys.
+> 2. Member States shall notify the Commission and the other Member States, by 30 April of each year, of the results of the surveys referred to in paragraph 1 which were carried out in the preceding calendar year. Those notifications shall be submitted through the electronic notification system referred to in Article 103.
+
+**MODIFIED · Art. 37 — Prohibition of the introduction and movement of Union regulated non-quarantine pests on plants for planting** · applies from: unchanged
+
+*within* `AR 37 PA 10` · *amended by* `32024R3115`
+
+A new paragraph 10 has been added, requiring Member States to adopt necessary measures where plants for planting have been introduced into or moved within Union territory in non-compliance with paragraph 1, and to notify that non-compliance and those measures to the Commission and other Member States through the electronic notification system referred to in Article 103. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_37)
+
+The new paragraph 10 also requires Member States to notify those measures to the third country from which the plants for planting were introduced into the Union territory, a notification requirement that was not present in the earlier version of Article 37. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_37)
+
+*before* (`02016R2031-20191214`)
+
+> Article 37
+> Prohibition of the introduction and movement of Union regulated non-quarantine pests on plants for planting
+> 1. Professional operators shall not introduce a Union regulated non-quarantine pest into, or move that pest within, the Union territory on the plants for planting through which it is transmitted, as specified in the list referred to in paragraph 2.
+> The prohibition laid down in the first subparagraph shall not apply in the following cases:
+> (a) movement of plants for planting within, or between, the premises of the professional operator concerned;
+> (b) movement of plants for planting necessary for their disinfection.
+> 2. The Commission shall, by means of an implementing act, establish a list setting out the Union regulated non-quarantine pests and the specific plants for planting, as referred to in point (d) of Article 36, where appropriate with the categories referred to in paragraph 7 of this Article and thresholds referred to in paragraph 8 of this Article.
+> 3. The list referred to in paragraph 2 shall include the pests and the respective plants for planting set out in the following provisions:
+> (a) Section II of Part A of Annex II to Directive 2000/29/EC;
+> (b) points (3) and (6) of Annex I and point (3) of Annex II to Directive 66/402/EEC;
+> (c) Annex I to Directive 68/193/EEC;
+> (d) the acts adopted pursuant to Article 5(5) of Council Directive 98/56/EC
+> Council Directive 98/56/EC of 20 July 1998 on the marketing of propagating material of ornamental plants (OJ L 22 […truncated by emendrix: 4310 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 37
+> Prohibition of the introduction and movement of Union regulated non-quarantine pests on plants for planting
+> 1. Professional operators shall not introduce a Union regulated non-quarantine pest into, or move that pest within, the Union territory on the plants for planting through which it is transmitted, as specified in the list referred to in paragraph 2.
+> The prohibition laid down in the first subparagraph shall not apply in the following cases:
+> (a) movement of plants for planting within, or between, the premises of the professional operator concerned;
+> (b) movement of plants for planting necessary for their disinfection.
+> 2. The Commission shall, by means of an implementing act, establish a list setting out the Union regulated non-quarantine pests and the specific plants for planting, as referred to in point (d) of Article 36, where appropriate with the categories referred to in paragraph 7 of this Article and thresholds referred to in paragraph 8 of this Article.
+> 3. The list referred to in paragraph 2 shall include the pests and the respective plants for planting set out in the following provisions:
+> (a) Section II of Part A of Annex II to Directive 2000/29/EC;
+> (b) points (3) and (6) of Annex I and point (3) of Annex II to Directive 66/402/EEC;
+> (c) Annex I to Directive 68/193/EEC;
+> (d) the acts adopted pursuant to Article 5(5) of Council Directive 98/56/EC
+> Council Directive 98/56/EC of 20 July 1998 on the marketing of propagating material of ornamental plants (OJ L 22 […truncated by emendrix: 4831 characters omitted…]
+
+**MODIFIED · Art. 42 — Restrictions on the basis of a preliminary assessment for the introduction into the Union territory of high-risk plants, plant products and other objects** · applies from: unchanged
+
+*within* `AR 42 PA 1a` · *amended by* `32024R3115`
+
+A new paragraph 1a has been added, empowering the Commission to adopt a delegated act, under Article 105, that supplements the Regulation by setting out the procedure for listing high-risk plants, plant products and other objects. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_42)
+
+That delegated act is required to cover the preparation of evidence for assessing such high-risk items, the actions to follow upon receipt of that evidence, the assessment procedures, and the handling of dossiers regarding confidentiality and data protection. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_42)
+
+No such paragraph existed in the earlier version of Article 42. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_42)
+
+*before* (`02016R2031-20191214`)
+
+> Article 42
+> Restrictions on the basis of a preliminary assessment for the introduction into the Union territory of high-risk plants, plant products and other objects
+> 1. A plant, plant product or other object originating in a third country and which is not listed in accordance with Article 40 or not sufficiently covered by the requirements referred to in Article 41 or not subject to the temporary measures of Article 49 and which, on the basis of a preliminary assessment, presents a pest risk of an unacceptable level for the Union territory is a high-risk plant, high-risk plant product or high-risk other object (high-risk plants, plant products or other objects).
+> That preliminary assessment shall take into account, as appropriate for the plant, plant product or other object concerned, the criteria set out in Annex III.
+> 2. High-risk plants, plant products or other objects listed in the implementing act provided for in paragraph 3 shall not be introduced into the Union territory from the third countries, groups of third countries or specific areas of third countries of origin concerned by that listing.
+> 3. The Commission shall adopt implementing acts provisionally listing at the appropriate taxonomic level, pending the risk assessment referred to in paragraph 4, the high-risk plants, plant products or other objects referred to in paragraph 1 and, where appropriate, the third countries, groups of third countries or specific areas of third countries concerned.
+> The first of those impl […truncated by emendrix: 3267 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 42
+> Restrictions on the basis of a preliminary assessment for the introduction into the Union territory of high-risk plants, plant products and other objects
+> 1. A plant, plant product or other object originating in a third country and which is not listed in accordance with Article 40 or not sufficiently covered by the requirements referred to in Article 41 or not subject to the temporary measures of Article 49 and which, on the basis of a preliminary assessment, presents a pest risk of an unacceptable level for the Union territory is a high-risk plant, high-risk plant product or high-risk other object (high-risk plants, plant products or other objects).
+> That preliminary assessment shall take into account, as appropriate for the plant, plant product or other object concerned, the criteria set out in Annex III.
+> 1a. The Commission is empowered to adopt a delegated act, in accordance with Article 105, supplementing this Regulation by setting out the procedure to conduct the listing of high-risk plants, plant products and other objects.
+> That delegated act shall provide for all of the following elements:
+> (a) the preparation of the evidence for the assessment of the high-risk plants, plant products and other objects;
+> (b) the actions to be taken following the receipt of that evidence;
+> (c) the procedures for that assessment;
+> (d) the handling of dossiers concerning confidentiality and data protection.
+> 2. High-risk plants, plant products or other objects listed in the implementin […truncated by emendrix: 3861 characters omitted…]
+
+**INSERTED · Art. 42a — Temporary derogations from the prohibitions provided for in Articles 40 and 42, and from the requirements referred to in Article 41** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R3115`
+
+Article 42a is a newly inserted provision allowing the Commission to adopt temporary derogations, by implementing acts, from the prohibitions in Article 40 and the special or equivalent requirements in Article 41, and from the acts referred to in Article 42, for plants, plant products or other objects whose phytosanitary risk is not yet fully assessed. [Art. 42a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_42a)
+
+The new provision sets out conditions for granting such derogations, requires yearly reporting by the third country concerned, limits the application period of derogations under paragraph 1 to five years unless renewed, and empowers the Commission to adopt a delegated act on the procedure for granting these derogations. [Art. 42a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_42a)
+
+*after* (`02016R2031-20250105`)
+
+> Article 42a
+> Temporary derogations from the prohibitions provided for in Articles 40 and 42, and from the requirements referred to in Article 41
+> 1. By way of derogation from Article 40(1) and Article 41(1), the Commission may, by means of implementing acts, adopt temporary derogations from the prohibition provided for in Article 40(1), and from the special and equivalent requirements referred to in Article 41(2), concerning the introduction into the Union territory of specific plants, plant products and other objects originating from one or more third countries that present a phytosanitary risk which is not yet fully assessed.
+> Those implementing acts shall:
+> (a) set out temporary measures concerning the introduction of those plants, plant products and other objects into the Union territory, in accordance with the principles set out in Section 2 of Annex II; and
+> (b) amend the relevant parts of the implementing acts referred to in Article 40(2) and Article 41(2) by inserting a reference to the derogation concerning the plant, plant product or other object concerned.
+> 2. The temporary derogations referred to in paragraph 1 may be adopted only if the following conditions have been fulfilled:
+> (a) (i) the Commission has received evidence justifying the adoption of temporary derogations with requirements equivalent to, or more stringent than, those referred to in Article 41; or
+> (ii) the third country concerned has submitted to the Commission a request containing official written guaran […truncated by emendrix: 2925 characters omitted…]
+
+**MODIFIED · Art. 44 — Setting out of equivalent requirements** · applies from: unchanged
+
+*within* `AR 44 PA 1 ALN 1 PTA (a)` · *amended by* `32024R3115`
+
+Point (a) of Article 44(1) now refers to special requirements concerning the introduction into, or movement within, the Union territory of the plants, plant products and other objects concerned from other third countries, whereas the earlier text referred only to movement within the Union territory of those items. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_44)
+
+*before* (`02016R2031-20191214`)
+
+> Article 44
+> Setting out of equivalent requirements
+> 1. The Commission shall set out equivalent requirements, by means of implementing acts, on request of a particular third country, if both of the following conditions are fulfilled:
+> (a) the third country concerned ensures, through the application under its official control of one or more specified measures, a level of phytosanitary protection which is equivalent to the special requirements in respect of the movement within the Union territory of the plants, plant products and other objects concerned;
+> (b) the third country concerned demonstrates to the Commission that the specified measures referred to in point (a) achieve the level of phytosanitary protection referred to in that point.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> 2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.
+
+*after* (`02016R2031-20250105`)
+
+> Article 44
+> Setting out of equivalent requirements
+> 1. The Commission shall set out equivalent requirements, by means of implementing acts, on request of a particular third country, if both of the following conditions are fulfilled:
+> (a) the third country concerned ensures, through the application under its official control of one or more specified measures, a level of phytosanitary protection which is equivalent to the special requirements in respect of the introduction into, or movement within, the Union territory of the plants, plant products and other objects concerned from other third countries;
+> (b) the third country concerned demonstrates to the Commission that the specified measures referred to in point (a) achieve the level of phytosanitary protection referred to in that point.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> 2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.
+
+**MODIFIED · Art. 71** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 81 — Exception for direct supply to final users** · applies from: unchanged
+
+*within* `AR 81 PA 3` · *amended by* `32024R3115`
+
+A new paragraph 3 has been added authorizing the Commission to adopt implementing acts identifying cases where the exclusion for distance-contract sales under paragraph 1, point (a), does not apply to particular plants, plant products or other objects. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_81)
+
+The added paragraph also states that such implementing acts may specify conditions for their application and that they are to be adopted under the examination procedure referred to in Article 107(2). [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_81)
+
+Paragraphs 1 and 2 remain unchanged from the earlier version. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_81)
+
+*before* (`02016R2031-20191214`)
+
+> Article 81
+> Exception for direct supply to final users
+> 1. No plant passport shall be required for the movement of plants, plant products or other objects supplied directly to a final user, including home gardeners.
+> That exception shall not apply to:
+> (a) final users receiving those plants, plant products or other objects by means of sales through distance contracts; or
+> (b) final users of plants, plant products or other objects for which a plant passport for protected zones is required pursuant to Article 80.
+> The Commission may, by means of implementing acts, specify that the requirements of point (b) of the second subparagraph shall only apply for particular protected zone pests, plants, plant products or other objects. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by setting out the cases where, for particular plants, plant products or other objects, the exception of paragraph 1 of this Article shall only apply to small quantities. Those delegated acts shall define those quantities per period of time as appropriate to the plant, plant product or other object concerned and the respective pest risks.
+
+*after* (`02016R2031-20250105`)
+
+> Article 81
+> Exception for direct supply to final users
+> 1. No plant passport shall be required for the movement of plants, plant products or other objects supplied directly to a final user, including home gardeners.
+> That exception shall not apply to:
+> (a) final users receiving those plants, plant products or other objects by means of sales through distance contracts; or
+> (b) final users of plants, plant products or other objects for which a plant passport for protected zones is required pursuant to Article 80.
+> The Commission may, by means of implementing acts, specify that the requirements of point (b) of the second subparagraph shall only apply for particular protected zone pests, plants, plant products or other objects. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+> 2. The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by setting out the cases where, for particular plants, plant products or other objects, the exception of paragraph 1 of this Article shall only apply to small quantities. Those delegated acts shall define those quantities per period of time as appropriate to the plant, plant product or other object concerned and the respective pest risks.
+> 3. The Commission may, by means of implementing acts, set out the cases where paragraph 1, point (a), of this Article does not apply to particular plants, plants products or other objects distribute […truncated by emendrix: 234 characters omitted…]
+
+**MODIFIED · Art. 88 — Attaching of the plant passports** · applies from: unchanged
+
+*within* `AR 88 ALN 2`, `AR 88 ALN 3` · *amended by* `32024R3115`
+
+The later text adds provisions not present before, allowing the Commission to adopt implementing acts setting out rules under which certain plants, plant products and other objects may, by derogation from the physical-attachment rule, be moved with a plant passport associated with them in another way due to their size, shape or packaging, and setting rules ensuring such a non-attached passport still refers to those plants, plant products and other objects. [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_88)
+
+The added text also specifies that such implementing acts are to be adopted in accordance with the examination procedure referred to in Article 107(2), a mechanism absent from the earlier version. [Art. 88, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_88) [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_88)
+
+*before* (`02016R2031-20191214`)
+
+> Article 88
+> Attaching of the plant passports
+> Plant passports shall be attached by the professional operators concerned to the trade unit of the plants, plant products and other objects concerned before they are moved within the Union territory pursuant to Article 79 or into or within a protected zone pursuant to Article 80. Where such plants, plant products or other objects are moved in a package, bundle or container, the plant passport shall be attached to that package, bundle or container.
+
+*after* (`02016R2031-20250105`)
+
+> Article 88
+> Attaching of the plant passports
+> Plant passports shall be attached by the professional operators concerned to the trade unit of the plants, plant products and other objects concerned before they are moved within the Union territory pursuant to Article 79 or into or within a protected zone pursuant to Article 80. Where such plants, plant products or other objects are moved in a package, bundle or container, the plant passport shall be attached to that package, bundle or container.
+> The Commission may, by means of implementing acts, set out provisions:
+> (a) determining the plants, plant products and other objects which, by way of derogation from the first paragraph, may be moved within the Union with a plant passport associated with them in a way other than that of a physical attachment, due to their size, shape or way of packaging that make that attachment impossible or very difficult; and
+> (b) providing for rules to ensure that the plant passport concerned, although not attached, still refers to the respective plants, plant products and other objects.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+
+**MODIFIED · Art. 94 — Plant passports replacing phytosanitary certificates** · applies from: unchanged
+
+*within* `AR 94 PA 2 ALN 1`, `AR 94 PA 2 ALN 1 PTA (a)`, `AR 94 PA 2 ALN 1 PTA (b)`, `AR 94 PA 2 ALN 2` · *amended by* `32024R3115`
+
+Paragraph 2 changes the location described from the place of entry (previously called the place of entry) into the Union territory and restructures the single option of a certified copy of the original phytosanitary certificate into two listed alternatives. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_94)
+
+The first alternative, point (a), retains the certified copy mechanism and the requirement that it accompany the movement only up to the point where the plant passport is issued, while removing the earlier wording limiting this to the territory of the respective Member State. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_94)
+
+A new second alternative, point (b), is added allowing use of information contained in the electronic notification system referred to in Article 103, subject to the electronic or digital copy being accessible and made available to competent authorities upon request during the movement up to the point where the plant passport is issued. [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_94)
+
+*before* (`02016R2031-20191214`)
+
+> Article 94
+> Plant passports replacing phytosanitary certificates
+> 1. By way of derogation from Article 87 of this Regulation, where a plant, plant product or other object, introduced into the Union territory from a third country which, for movement within the Union territory, requires a plant passport pursuant to Article 79(1) and 80(1) of this Regulation, the passport shall be issued if the checks under Article 49(1) of Regulation (EU) 2017/625. concerning its introduction have been completed satisfactorily and have led to the conclusion that the plant, plant product or other object concerned fulfils the substantive requirements for issuance of a plant passport in accordance with to Article 85 of this Regulation and, where appropriate, Article 86 of this Regulation.
+> The replacement of a phytosanitary certificate by a plant passport may be carried out at the place of destination of the plant, plant product or other object concerned, instead of the point of entry, where checking at the place of destination is allowed, as referred to in Union legislation on official controls.
+> 2. By way of derogation from the first subparagraph of paragraph 1, Member States may decide to replace a phytosanitary certificate at the place of entry of the plant, plant product or other object concerned into the Union territory by a certified copy of the original phytosanitary certificate.
+> That certified copy of the original phytosanitary certificate shall be issued by the competent authority and shall […truncated by emendrix: 546 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 94
+> Plant passports replacing phytosanitary certificates
+> 1. By way of derogation from Article 87 of this Regulation, where a plant, plant product or other object, introduced into the Union territory from a third country which, for movement within the Union territory, requires a plant passport pursuant to Article 79(1) and 80(1) of this Regulation, the passport shall be issued if the checks under Article 49(1) of Regulation (EU) 2017/625. concerning its introduction have been completed satisfactorily and have led to the conclusion that the plant, plant product or other object concerned fulfils the substantive requirements for issuance of a plant passport in accordance with to Article 85 of this Regulation and, where appropriate, Article 86 of this Regulation.
+> The replacement of a phytosanitary certificate by a plant passport may be carried out at the place of destination of the plant, plant product or other object concerned, instead of the point of entry, where checking at the place of destination is allowed, as referred to in Union legislation on official controls.
+> 2. By way of derogation from the first subparagraph of paragraph 1, Member States may decide to replace a phytosanitary certificate at the point of entry of the plant, plant product or other object concerned into the Union territory by:
+> (a) a certified copy of the original phytosanitary certificate; that copy shall be issued by the competent authority and shall accompany the movement of the plant, plant prod […truncated by emendrix: 860 characters omitted…]
+
+**MODIFIED · Art. 99 — Attestations other than the mark of wood packaging material** · applies from: unchanged
+
+*within* `AR 99 PA 1 ALN 1` · *amended by* `32024R3115`
+
+Paragraph 1 no longer includes the phrase describing the official attestations as being required by the applicable international standards. [Art. 99, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_99) [Art. 99, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_99)
+
+*before* (`02016R2031-20191214`)
+
+> Article 99
+> Attestations other than the mark of wood packaging material
+> 1. The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by setting out the elements to be contained in official attestations specific for plants, plant products or other objects, other than wood packaging material, which are required by the applicable international standards as form of proof of the implementation of measures adopted pursuant to Article 28(1) or (2), Article 30(1) or (3), Article 41(2) or (3), Article 44, or Article 54(2) or (3).
+> 2. The delegated acts referred to in paragraph 1 may also set out requirements concerning one or more of the following:
+> (a) the authorisation of professional operators as regards the issuance of the official attestations referred to in paragraph 1;
+> (b) the supervision by the competent authority of the professional operators authorised pursuant to point (a) of this paragraph;
+> (c) the withdrawal of that authorisation referred to in point (a) of this paragraph.
+> 3. The Commission shall adopt, by means of implementing acts, the format specifications of the attestations referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+
+*after* (`02016R2031-20250105`)
+
+> Article 99
+> Attestations other than the mark of wood packaging material
+> 1. The Commission is empowered to adopt delegated acts in accordance with Article 105 supplementing this Regulation by setting out the elements to be contained in official attestations specific for plants, plant products or other objects, other than wood packaging material, as form of proof of the implementation of measures adopted pursuant to Article 28(1) or (2), Article 30(1) or (3), Article 41(2) or (3), Article 44, or Article 54(2) or (3).
+> 2. The delegated acts referred to in paragraph 1 may also set out requirements concerning one or more of the following:
+> (a) the authorisation of professional operators as regards the issuance of the official attestations referred to in paragraph 1;
+> (b) the supervision by the competent authority of the professional operators authorised pursuant to point (a) of this paragraph;
+> (c) the withdrawal of that authorisation referred to in point (a) of this paragraph.
+> 3. The Commission shall adopt, by means of implementing acts, the format specifications of the attestations referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+
+**MODIFIED · Art. 103 — Establishment of electronic notification system** · applies from: unchanged
+
+*within* `AR 103 ALN 1` · *amended by* `32024R3115`
+
+The provision now describes the electronic system as being for the submission of notifications and reports by the Member States, whereas previously it referred only to notifications. [Art. 103, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_103) [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_103)
+
+*before* (`02016R2031-20191214`)
+
+> Article 103
+> Establishment of electronic notification system
+> The Commission shall establish an electronic system for the submission of notifications by the Member States.
+> That system shall be connected to, and compatible with, the IMSOC.
+
+*after* (`02016R2031-20250105`)
+
+> Article 103
+> Establishment of electronic notification system
+> The Commission shall establish an electronic system for the submission of notifications and reports by the Member States.
+> That system shall be connected to, and compatible with, the IMSOC.
+
+**MODIFIED · Art. 104 — Information items, format and deadlines of notifications, and notifications in the case of suspected presence of pests** · applies from: unchanged
+
+*within* `AR 104 ALN 1` · *amended by* `32024R3115`
+
+The list of cross-referenced articles in the first paragraph was changed by adding a reference to Article 19(8), adding a reference to Article 37(10), and replacing the reference to Article 62(1) with a reference to Article 60(2), while the reference to Article 29(3) first subparagraph was reworded without change of meaning. [Art. 104, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_104) [Art. 104, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_104)
+
+The introductory phrase before the list of elements was also slightly reworded, changing "one or more the following elements" to "one or more of the following elements". [Art. 104, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_104)
+
+*before* (`02016R2031-20191214`)
+
+> Article 104
+> Information items, format and deadlines of notifications, and notifications in the case of suspected presence of pests
+> The Commission may, by means of implementing acts, lay down specific rules concerning the submission of notifications referred to in Article 9(1) and (2), Article 11, Article 17(3), Article 18(6), Article 19(2), Article 28(7), the first subparagraph of Article 29(3), Article 30(8), Article 33(1), Article 40(4), Article 41(4), Article 46(4), Article 49(6), Article 53(4), Article 54(4), Article 62(1), Article 77(2) and Article 95(5). Those rules shall concern one or more the following elements:
+> (a) the information items to be included in those notifications;
+> (b) the format of those notifications and instructions on how to fill in that format;
+> (c) deadlines for the submission of particular information items as referred to in point (a);
+> (d) the cases where the suspected presence of a pest shall be notified due to the need to take swift action in view of its biology and possibility of rapid and wide spread;
+> (e) the cases of non-compliance to be notified where that non-compliance creates a risk for spread of a Union quarantine pest or a pest provisionally qualifying as Union quarantine pest.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+
+*after* (`02016R2031-20250105`)
+
+> Article 104
+> Information items, format and deadlines of notifications, and notifications in the case of suspected presence of pests
+> The Commission may, by means of implementing acts, lay down specific rules concerning the submission of notifications referred to in Article 9(1) and (2), Article 11, Article 17(3), Article 18(6), Article 19(2) and (8), Article 28(7), Article 29(3), first subparagraph, Article 30(8), Article 33(1), Article 37(10), Article 40(4), Article 41(4), Article 46(4), Article 49(6), Article 53(4), Article 54(4), Article 60(2), Article 77(2) and Article 95(5). Those rules shall concern one or more of the following elements:
+> (a) the information items to be included in those notifications;
+> (b) the format of those notifications and instructions on how to fill in that format;
+> (c) deadlines for the submission of particular information items as referred to in point (a);
+> (d) the cases where the suspected presence of a pest shall be notified due to the need to take swift action in view of its biology and possibility of rapid and wide spread;
+> (e) the cases of non-compliance to be notified where that non-compliance creates a risk for spread of a Union quarantine pest or a pest provisionally qualifying as Union quarantine pest.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
+
+**MODIFIED · Art. 105 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 105 PA 2 ALN 2`, `AR 105 PA 3 ALN 1`, `AR 105 PA 6 ALN 1` · *dates* +2025-01-05 · *amended by* `32024R3115`
+
+Paragraph 2 now adds a new sentence conferring on the Commission a further five-year power to adopt delegated acts under Article 42(1a) and Article 42a(3), running from 5 January 2025, with the same reporting and tacit-extension terms as the existing delegation. [Art. 105, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_105)
+
+Paragraph 3's list of provisions whose delegated power may be revoked by the European Parliament or the Council is expanded to include Article 42(1a) and Article 42a(3). [Art. 105, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_105) [Art. 105, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_105)
+
+Paragraph 6's list of provisions under which a delegated act is subject to the two-month non-objection procedure is likewise expanded to include Article 42(1a) and Article 42a(3). [Art. 105, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_105) [Art. 105, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20250105#art_105)
+
+*before* (`02016R2031-20191214`)
+
+> Article 105
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 6(2), Article 7, Article 8(5), Article 19(7), Article 21, Article 32(5), Article 34(1), Article 38, Article 43(2), Article 46(2), Article 48(5), Article 51, Article 65(4), Article 71(4), Article 76(4), Article 81(2), Article 83(6), Article 87(4), Article 89(2), Article 96(2), Article 98(1), Article 99(1), Article 100(4), Article 101(5) and Article 102(6) shall be conferred on the Commission for a period of five years from 13 December 2016. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> 3. The delegation of power referred to in Article 6(2), Article 7, Article 8(5), Article 19(7), Article 21, Article 32(5), Article 34(1), Article 38, Article 43(2), Article 46(2), Article 48(5), Article 51, Article 65(4), Article 71(4), Article 76(4), Article 81(2), Article 83(6), Article 87(4), Article 89(2), Article 96(2), Article 98(1), Article 99(1), Article 100(4), Article 101(5) and Article 102(6) may be revoked at any time by the European Parliament or by the Council […truncated by emendrix: 1554 characters omitted…]
+
+*after* (`02016R2031-20250105`)
+
+> Article 105
+> Exercise of the delegation
+> 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+> 2. The power to adopt delegated acts referred to in Article 6(2), Article 7, Article 8(5), Article 19(7), Article 21, Article 32(5), Article 34(1), Article 38, Article 43(2), Article 46(2), Article 48(5), Article 51, Article 65(4), Article 71(4), Article 76(4), Article 81(2), Article 83(6), Article 87(4), Article 89(2), Article 96(2), Article 98(1), Article 99(1), Article 100(4), Article 101(5) and Article 102(6) shall be conferred on the Commission for a period of five years from 13 December 2016. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+> The power to adopt delegated acts referred to in Article 42(1a) and Article 42a(3) shall be conferred on the Commission for a period of five years from 5 January 2025. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later t […truncated by emendrix: 2144 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02016R2031-20250105 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R2031-20191214 -->
 ## Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against […]
 ### `32016R2031` → `02016R2031-20191214`
