@@ -944,7 +944,7 @@ It also directs ESMA to publish the submitted individual credit ratings on a web
 - **Act** `eu:32009R1060` · **In force** 2013-06-20 · **Detected** 2026-08-13
 - **Touched** 51 provisions — 51 substantive · 0 date-only · **47 disputed**
 - **Diff** 14 inserted · 37 modified · 0 deleted · 0 renumbered · 0 deferred · 40 unchanged
-- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 18 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20110721` · `v2` = `02009R1060-20130620`
 
 ---
@@ -1402,7 +1402,11 @@ The provision also adds rating outlooks alongside credit ratings as the subject 
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The revised text extends paragraph 2 to cover rating outlooks alongside credit ratings, requires the use of applicable rating methodologies, and adds a statement that ratings and outlooks are the agency's opinion to be relied upon to a limited degree; it also adds a new paragraph 2a requiring that changes in credit ratings follow the agency's published rating methodologies. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8)
+
+Paragraph 5 gains a sentence requiring sovereign ratings to be reviewed at least every six months, and a new paragraph 5a requires publication of proposed material methodology changes for a one-month stakeholder comment period with a detailed explanation. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8)
+
+Paragraph 6 now ties methodology changes to Article 14(3) and adds new points (aa) and (ab) requiring ESMA notification and website publication of consultation results, new methodologies and responses, while a new paragraph 7 requires notification, publication and correction of errors found in rating methodologies or their application, none of which appeared in the earlier version. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8) [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_8)
 
 *before* (`02009R1060-20110721`)
 
@@ -1676,7 +1680,9 @@ Paragraph 3 gains an added subparagraph requiring a credit rating agency to noti
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+In the second paragraph, the earlier long-form references to the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 and to the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010, including their official-journal footnote citations, are replaced with the short forms EBA and EIOPA. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
+
+The substantive list of addressees ESMA communicates decisions to, and the rest of Article 18, remain the same. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
 
 *before* (`02009R1060-20110721`)
 
