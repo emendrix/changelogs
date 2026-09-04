@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20250105 -->
+## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
+### `02017R0625-20220128` → `02017R0625-20250105`
+
+- **Act** `eu:32017R0625` · **In force** 2025-01-05 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02017R0625-20220128` · `v2` = `02017R0625-20250105`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32024R3115`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 66 — Measures to be taken in cases of non-compliant consignments entering the Union** · applies from: unchanged
+
+*within* `AR 66 PA 5a` · *amended by* `32024R3115`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new paragraph 5a has been added exempting plants, plant products or other objects covered by Article 1(2), point (g), that enter the Union in passengers' personal luggage or through postal services for personal consumption or use from the notification obligation in paragraph 5, where the non-compliance concerns the absence of the phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
+
+The same new paragraph requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and to the competent authorities of other Member States via the IMSOC. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
+
+This paragraph 5a did not exist in the earlier version of Article 66, which moved directly from paragraph 5 to paragraph 6. [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_66)
+
+*before* (`02017R0625-20220128`)
+
+> Article 66
+> Measures to be taken in cases of non-compliant consignments entering the Union
+> 1. The competent authorities shall place under official detention any consignment of animals or goods entering the Union which does not comply with the rules referred to in Article 1(2) and shall refuse its entry into the Union.
+> The competent authorities shall isolate or quarantine, as appropriate, any such consignment and the animals belonging to it shall be kept, cared for or treated under appropriate conditions pending any further decision. If possible, the competent authorities shall also take into account the interest of providing special care in respect of certain types of goods.
+> 2. The Commission shall, by means of implementing acts, lay down rules on the practical arrangements for the isolation and quarantine provided for in the second subparagraph of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+> 3. The competent authority shall, as regards the consignment referred to in paragraph 1 order, without delay, the operator responsible for the consignment to:
+> (a) destroy the consignment;
+> (b) re-dispatch the consignment outside the Union in accordance with Article 72(1) and (2); or
+> (c) subject the consignment to special treatment in accordance with Article 71(1) and (2) or to any other measure necessary to ensure compliance with the rules referred to in Article 1(2), and, where appropriate […truncated by emendrix: 2779 characters omitted…]
+
+*after* (`02017R0625-20250105`)
+
+> Article 66
+> Measures to be taken in cases of non-compliant consignments entering the Union
+> 1. The competent authorities shall place under official detention any consignment of animals or goods entering the Union which does not comply with the rules referred to in Article 1(2) and shall refuse its entry into the Union.
+> The competent authorities shall isolate or quarantine, as appropriate, any such consignment and the animals belonging to it shall be kept, cared for or treated under appropriate conditions pending any further decision. If possible, the competent authorities shall also take into account the interest of providing special care in respect of certain types of goods.
+> 2. The Commission shall, by means of implementing acts, lay down rules on the practical arrangements for the isolation and quarantine provided for in the second subparagraph of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+> 3. The competent authority shall, as regards the consignment referred to in paragraph 1 order, without delay, the operator responsible for the consignment to:
+> (a) destroy the consignment;
+> (b) re-dispatch the consignment outside the Union in accordance with Article 72(1) and (2); or
+> (c) subject the consignment to special treatment in accordance with Article 71(1) and (2) or to any other measure necessary to ensure compliance with the rules referred to in Article 1(2), and, where appropriate […truncated by emendrix: 3566 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0625-20250105 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20220128 -->
 ## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
 ### `02017R0625-20211028` → `02017R0625-20220128`

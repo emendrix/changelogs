@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0625",
+    "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+  },
+  "from_version": "02017R0625-20220128",
+  "to_version": "02017R0625-20250105",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2025-01-05"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 171,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20250105",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3115",
+            "display_name": "Regulation (EU) 2024/3115 of the European Parliament and of the Council of 27 November 2024 amending Regulation (EU) 2016/2031 as regards multiannual survey programmes, notifications concerning the presence of regulated non-quarantine pests, temporary derogations from import prohibitions and special import requirements and establishment of procedures for granting them, temporary import requirements for high-risk plants, plant products and other objects, the establishment of procedures for the listing of high-risk plants, the content of phytosanitary certificates and the use of plant passports, and as regards certain reporting requirements for demarcated areas and surveys of pests and amending Regulation (EU) 2017/625 as regards certain notifications of non-compliance"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2022-01-28, 2025-01-05]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20250105",
+          "location": "AR 66"
+        },
+        "heading": "Measures to be taken in cases of non-compliant consignments entering the Union",
+        "before": "Article 66\nMeasures to be taken in cases of non-compliant consignments entering the Union\n1. The competent authorities shall place under official detention any consignment of animals or goods entering the Union which does not comply with the rules referred to in Article 1(2) and shall refuse its entry into the Union.\nThe competent authorities shall isolate or quarantine, as appropriate, any such consignment and the animals belonging to it shall be kept, cared for or treated under appropriate conditions pending any further decision. If possible, the competent authorities shall also take into account the interest of providing special care in respect of certain types of goods.\n2. The Commission shall, by means of implementing acts, lay down rules on the practical arrangements for the isolation and quarantine provided for in the second subparagraph of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n3. The competent authority shall, as regards the consignment referred to in paragraph 1 order, without delay, the operator responsible for the consignment to:\n(a) destroy the consignment;\n(b) re-dispatch the consignment outside the Union in accordance with Article 72(1) and (2); or\n(c) subject the consignment to special treatment in accordance with Article 71(1) and (2) or to any other measure necessary to ensure compliance with the rules referred to in Article 1(2), and, where appropriate, allocate the consignment for purposes other than those for which it was originally intended.\nAny action referred to in points (a), (b) and (c) of the first subparagraph shall be performed in compliance with the rules referred to in Article 1(2), including in particular, as regards consignments of live animals, those intended to spare animals any avoidable pain, distress or suffering.\nWhen the consignment consists of plants, plant products or other objects, points (a), (b) and (c) of the first subparagraph shall be applied either to the consignment or to lots thereof.\nBefore ordering the operator to take action in accordance with (a), (b) and (c) of the first subparagraph, the competent authority shall hear the operator concerned, unless immediate action is necessary in order to respond to a risk to human, animal or plant health, animal welfare or, as regards the GMOs and plant protection products, also to the environment.\n4. Where the competent authority orders the operator to take one or more of the actions laid down in point (a), (b) or (c) of the first subparagraph of paragraph 3, that competent authority may exceptionally authorise the action to be taken in respect of a part of the consignment only, provided that the partial destruction, re-dispatch, special treatment, or other measure:\n(a) is such as to ensure compliance;\n(b) does not pose a risk to human, animal or plant health or to animal welfare or, as regards GMOs and plant protection products, also to the environment; and\n(c) does not disrupt official control operations.\n5. The competent authorities shall immediately notify any decision to refuse entry of a consignment as provided for in paragraph 1 of this Article, and any order issued in accordance with paragraphs 3 and 6 of this Article and with Article 67 to:\n(a) the Commission;\n(b) the competent authorities of the other Member States;\n(c) the customs authorities;\n(d) the competent authorities of the third country of origin; and\n(e) the operator responsible for the consignment.\nThat notification shall be performed via the IMSOC.\n6. If a consignment of the categories of animals or goods referred to in Article 47(1) is not presented for the official controls referred to therein, or is not presented in accordance with the requirements laid down in Articles 50(1) and (3), 56(1), (3) and (4), or with the rules adopted under Article 48, Article 49(4), Article 51, Article 53(1) and Article 58, the competent authorities shall order that such consignment be retained or recalled, and placed under official detention without delay.\nParagraphs 1, 3 and 5 of this Article shall apply to such consignments.\n7. The measures referred to in this Article shall be applied at the expense of the operator responsible for the consignment.",
+        "after": "Article 66\nMeasures to be taken in cases of non-compliant consignments entering the Union\n1. The competent authorities shall place under official detention any consignment of animals or goods entering the Union which does not comply with the rules referred to in Article 1(2) and shall refuse its entry into the Union.\nThe competent authorities shall isolate or quarantine, as appropriate, any such consignment and the animals belonging to it shall be kept, cared for or treated under appropriate conditions pending any further decision. If possible, the competent authorities shall also take into account the interest of providing special care in respect of certain types of goods.\n2. The Commission shall, by means of implementing acts, lay down rules on the practical arrangements for the isolation and quarantine provided for in the second subparagraph of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).\n3. The competent authority shall, as regards the consignment referred to in paragraph 1 order, without delay, the operator responsible for the consignment to:\n(a) destroy the consignment;\n(b) re-dispatch the consignment outside the Union in accordance with Article 72(1) and (2); or\n(c) subject the consignment to special treatment in accordance with Article 71(1) and (2) or to any other measure necessary to ensure compliance with the rules referred to in Article 1(2), and, where appropriate, allocate the consignment for purposes other than those for which it was originally intended.\nAny action referred to in points (a), (b) and (c) of the first subparagraph shall be performed in compliance with the rules referred to in Article 1(2), including in particular, as regards consignments of live animals, those intended to spare animals any avoidable pain, distress or suffering.\nWhen the consignment consists of plants, plant products or other objects, points (a), (b) and (c) of the first subparagraph shall be applied either to the consignment or to lots thereof.\nBefore ordering the operator to take action in accordance with (a), (b) and (c) of the first subparagraph, the competent authority shall hear the operator concerned, unless immediate action is necessary in order to respond to a risk to human, animal or plant health, animal welfare or, as regards the GMOs and plant protection products, also to the environment.\n4. Where the competent authority orders the operator to take one or more of the actions laid down in point (a), (b) or (c) of the first subparagraph of paragraph 3, that competent authority may exceptionally authorise the action to be taken in respect of a part of the consignment only, provided that the partial destruction, re-dispatch, special treatment, or other measure:\n(a) is such as to ensure compliance;\n(b) does not pose a risk to human, animal or plant health or to animal welfare or, as regards GMOs and plant protection products, also to the environment; and\n(c) does not disrupt official control operations.\n5. The competent authorities shall immediately notify any decision to refuse entry of a consignment as provided for in paragraph 1 of this Article, and any order issued in accordance with paragraphs 3 and 6 of this Article and with Article 67 to:\n(a) the Commission;\n(b) the competent authorities of the other Member States;\n(c) the customs authorities;\n(d) the competent authorities of the third country of origin; and\n(e) the operator responsible for the consignment.\nThat notification shall be performed via the IMSOC.\n5a. Plants, plant products or other objects subject to the measures referred to in Article 1(2), point (g), which enter the Union as part of passengers’ personal luggage or through postal services intended for personal consumption or use, shall be exempted from the notification obligation set out in paragraph 5 of this Article, if the non-compliance concerns the absence of the phytosanitary certificate or other official attestation as referred to in Article 99(1) of Regulation (EU) 2016/2031.\nThe competent authorities shall keep a record of those cases of non-compliance and shall, on an annual basis, provide the Commission and the competent authorities of the other Member States with a report containing a summary of those records.\nThat report shall be submitted via the IMSOC.\n6. If a consignment of the categories of animals or goods referred to in Article 47(1) is not presented for the official controls referred to therein, or is not presented in accordance with the requirements laid down in Articles 50(1) and (3), 56(1), (3) and (4), or with the rules adopted under Article 48, Article 49(4), Article 51, Article 53(1) and Article 58, the competent authorities shall order that such consignment be retained or recalled, and placed under official detention without delay.\nParagraphs 1, 3 and 5 of this Article shall apply to such consignments.\n7. The measures referred to in this Article shall be applied at the expense of the operator responsible for the consignment.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 66 PA 5a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R3115",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-01-05",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R3115 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R3115, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 5a has been added exempting plants, plant products or other objects covered by Article 1(2), point (g), that enter the Union in passengers' personal luggage or through postal services for personal consumption or use from the notification obligation in paragraph 5, where the non-compliance concerns the absence of the phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20250105",
+                "location": "AR 66"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66",
+              "label": "Art. 66, 02017R0625-20250105"
+            }
+          ]
+        },
+        {
+          "text": "The same new paragraph requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and to the competent authorities of other Member States via the IMSOC.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20250105",
+                "location": "AR 66"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66",
+              "label": "Art. 66, 02017R0625-20250105"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph 5a did not exist in the earlier version of Article 66, which moved directly from paragraph 5 to paragraph 6.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20220128",
+                "location": "AR 66"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_66",
+              "label": "Art. 66, 02017R0625-20220128"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0625",
+      "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+    },
+    "from_version": "02017R0625-20220128",
+    "to_version": "02017R0625-20250105",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 66"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 66"
+        ],
+        "note": "1 annotations in (2022-01-28, 2025-01-05]",
+        "claims": [
+          {
+            "location": "AR 66 PA 5a",
+            "change_type": "INSERTED",
+            "in_force": "2025-01-05",
+            "source": "32024R3115 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3115",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "32024R3115, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 002",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R3115",
+              "display_name": "Regulation (EU) 2024/3115 of the European Parliament and of the Council of 27 November 2024 amending Regulation (EU) 2016/2031 as regards multiannual survey programmes, notifications concerning the presence of regulated non-quarantine pests, temporary derogations from import prohibitions and special import requirements and establishment of procedures for granting them, temporary import requirements for high-risk plants, plant products and other objects, the establishment of procedures for the listing of high-risk plants, the content of phytosanitary certificates and the use of plant passports, and as regards certain reporting requirements for demarcated areas and surveys of pests and amending Regulation (EU) 2017/625 as regards certain notifications of non-compliance"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 2",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 66",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 2"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 5338,
+      "output_tokens": 381,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
