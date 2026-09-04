@@ -978,7 +978,7 @@ A new point 2a has been added allowing Member States to exempt eggs from the poi
 - **Act** `eu:32013R1308` · **In force** 2024-05-13 · **Detected** 2026-09-04
 - **Touched** 21 provisions — 21 substantive · 0 date-only · **13 disputed**
 - **Diff** 1 inserted · 12 modified · 8 deleted · 0 renumbered · 0 deferred · 248 unchanged
-- **Gate** 0 sentences quoted verbatim · 13 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 11 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20231208` · `v2` = `02013R1308-20240513`
 
 ---
@@ -1033,7 +1033,11 @@ Point (b)(iii) changes wording from grapes coming exclusively from that geograph
 
 *within* `AR 94`, `AR 94 PA 1 ALN 1`, `AR 94 PA 1 ALN 1 PTA (b)`, `AR 94 PA 1 ALN 1 PTA (c)`, `AR 94 PA 1 ALN 1 PTA (d)`, `AR 94 PA 1 ALN 1 PTA (d) PTI (i)`, `AR 94 PA 1 ALN 1 PTA (d) PTI (ii)`, `AR 94 PA 1 ALN 1 PTA (e)`, `AR 94 PA 1 ALN 1 PTA (f)`, `AR 94 PA 1 ALN 1 PTA (g)`, `AR 94 PA 1 ALN 1 PTA (h)`, `AR 94 PA 1 ALN 1 PTA (i)`, `AR 94 PA 1 ALN 1 PTA (j)`, `AR 94 PA 2 ALN 1`, `AR 94 PA 2 ALN 2`, `AR 94 PA 2 ALN 3`, `AR 94 PA 3 ALN 1` · *dates* +2024-04-11 · *amended by* `32024R1143`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading changes from 'Applications for protection' to 'Product specification', and the former paragraph 1 listing application elements (name, applicant address, product specification, single document) is removed, with the product specification requirements from the old paragraph 2 now forming the new paragraph 1. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_94)
+
+The list of required specification contents is reordered and altered, adding new points on categories of grapevine products and the type of geographical indication, rewording the geographical area point to refer to 'definition' delimited with regard to the link, and dropping the former point on authorities verifying compliance and their tasks, while the requirements point is reworded to refer to 'other applicable requirements' tied to producer groups rather than organisations managing the designation. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_94)
+
+The sustainable development description clause is replaced with a reference to sustainable practices under Article 7 of Regulation (EU) 2024/1143, and the paragraph on third-country applications proving protection in the country of origin is removed, while the partially de-alcoholised wine provision is retained but renumbered as paragraph 3 referencing paragraph 1, point (d). [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_94) [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_94)
 
 *before* (`02013R1308-20231208`)
 
@@ -1361,7 +1365,9 @@ The earlier version ended the list at point (g) and did not contain this additio
 
 *within* `AR 166a PA 1 ALN 1`, `AR 166a PA 4 ALN 1 PTA (c)` · *amended by* `32024R1143`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now refers to a producer group under Article 32 and a recognised producer group under Article 33 of Regulation (EU) 2024/1143, replacing the earlier references to a group of operators under Article 3(2) of Regulation (EU) No 1151/2012 and a group of producers under Article 95(1) of this Regulation, and it also updates the reference for the protected designation or geographical indication from Article 5(1) and (2) of Regulation (EU) No 1151/2012 to Article 46(1) and (2) of Regulation (EU) 2024/1143, adding a new sentence stating that where a recognised producer group under Article 33 of Regulation (EU) 2024/1143 exists, the producer group under Article 32 of that Regulation shall not have that right. [Art. 166a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_166a) [Art. 166a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_166a)
+
+Point (c) of paragraph 4 now adds an exception allowing the binding period to extend up to six years where requested by a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143, whereas previously the maximum was three years without such an exception. [Art. 166a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_166a) [Art. 166a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_166a)
 
 *before* (`02013R1308-20231208`)
 
