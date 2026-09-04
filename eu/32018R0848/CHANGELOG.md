@@ -10,6 +10,247 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20220101 -->
+## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
+### `02018R0848-20201114` → `02018R0848-20220101`
+
+- **Act** `eu:32018R0848` · **In force** 2022-01-01 · **Detected** 2026-09-04
+- **Touched** 5 provisions — 5 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 62 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02018R0848-20201114` · `v2` = `02018R0848-20220101`
+
+---
+
+**MODIFIED · Art. 36 — Group of operators** · applies from: unchanged
+
+*within* `AR 36 PA 1 ALN 1 PTA (e)`, `AR 36 PA 1 ALN 1 PTA (g)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (i)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (ii)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (iii)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (iv)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (v)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (vi)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (vii)`, `AR 36 PA 1 ALN 1 PTA (g) PTI (viii)`, `AR 36 PA 1 ALN 1 PTA (h)`, `AR 36 PA 2 ALN 2` · *amended by* `32021R0715`
+
+Point (e) now also covers members' possible additional activities referred to in point (a) and adds that the geographical proximity must be within the same Member State or the same third country. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#art_36)
+
+Point (g) is expanded with a detailed list of documented procedures the internal control system must comprise, covering registration, internal inspections, approval of new members or activities, training of inspectors and members, control of documents and records, measures for non-compliance, and internal traceability, and a new point (h) is added setting out the appointment, role and duties of an ICS manager and ICS inspectors. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#art_36)
+
+Paragraph 2 adds a list of situations that shall be considered deficiencies in the internal control system, covering matters such as dealing in products from suspended or withdrawn members, failures to follow approval procedures, missed annual inspections, deviations between internal and official controls, inadequate follow-up of non-compliance, and inadequate numbers or competence of ICS inspectors. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#art_36)
+
+*before* (`02018R0848-20201114`)
+
+> Article 36
+> Group of operators
+> 1. Each group of operators shall:
+> (a) only be composed of members who are farmers or operators that produce algae or aquaculture animals and who in addition may be engaged in processing, preparation or placing on the market of food or feed;
+> (b) only be composed of members:
+> (i) of which the individual certification cost represents more than 2 % of each member’s turnover or standard output of organic production and whose annual turnover of organic production is not more than EUR 25000 or whose standard output of organic production is not more than EUR 15000 per year; or
+> (ii) who have each holdings of maximum:
+> five hectares,
+> 0,5 hectares, in the case of greenhouses, or
+> 15 hectares, exclusively in the case of permanent grassland;
+> (c) be established in a Member State or a third country;
+> (d) have legal personality;
+> (e) only be composed of members whose production activities take place in geographical proximity to each other;
+> (f) set up a joint marketing system for the products produced by the group; and
+> (g) establish a system for internal controls comprising a documented set of control activities and procedures in accordance with which an identified person or body is responsible for verifying compliance with this Regulation of each member of the group.
+> 2. Competent authorities, or, where appropriate, control authorities or control bodies, shall withdraw the certificate referred to in Article 35 for the whole group where deficiencies in the set-up or fu […truncated by emendrix: 1491 characters omitted…]
+
+*after* (`02018R0848-20220101`)
+
+> Article 36
+> Group of operators
+> 1. Each group of operators shall:
+> (a) only be composed of members who are farmers or operators that produce algae or aquaculture animals and who in addition may be engaged in processing, preparation or placing on the market of food or feed;
+> (b) only be composed of members:
+> (i) of which the individual certification cost represents more than 2 % of each member’s turnover or standard output of organic production and whose annual turnover of organic production is not more than EUR 25000 or whose standard output of organic production is not more than EUR 15000 per year; or
+> (ii) who have each holdings of maximum:
+> five hectares,
+> 0,5 hectares, in the case of greenhouses, or
+> 15 hectares, exclusively in the case of permanent grassland;
+> (c) be established in a Member State or a third country;
+> (d) have legal personality;
+> (e) only be composed of members whose production activities or possible additional activities referred to in point (a) take place in geographical proximity to each other in the same Member State or in the same third country;
+> (f) set up a joint marketing system for the products produced by the group; and
+> (g) establish a system for internal controls comprising a documented set of control activities and procedures in accordance with which an identified person or body is responsible for verifying compliance with this Regulation of each member of the group.
+> The system for internal controls (ICS) shall comprise documented procedures on:
+> (i) the re […truncated by emendrix: 7700 characters omitted…]
+
+**MODIFIED · Art. 46 — Recognition of control authorities and control bodies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 46 PA 2 ALN 1`, `AR 46 PA 2 ALN 1 PTA (b)`, `AR 46 PA 2 ALN 1 PTA (c)`, `AR 46 PA 2 ALN 1 PTA (d)`, `AR 46 PA 2 ALN 1 PTA (e)`, `AR 46 PA 2 ALN 1 PTA (f)`, `AR 46 PA 2 ALN 1 PTA (g)`, `AR 46 PA 2 ALN 1 PTA (h)`, `AR 46 PA 2 ALN 1 PTA (i)`, `AR 46 PA 2 ALN 1 PTA (j)`, `AR 46 PA 2 ALN 1 PTA (k)`, `AR 46 PA 2 ALN 1 PTA (l)`, `AR 46 PA 2 ALN 1 PTA (m)`, `AR 46 PA 2 ALN 1 PTA (n)`, `AR 46 PA 2 ALN 1 PTA (o)`, `AR 46 PA 2a` · *dates* +2021-07-13 · *amended by* `32021R1697`
+
+Paragraph 2 expands the recognition criteria for control authorities and control bodies, adding new conditions on non-delegation of control tasks, staff rotation limits, single-accreditation-body requirements, capacity and competency under Delegated Regulation (EU) 2021/1698, facility and procedural requirements, and conditions relating to prior withdrawal of recognition or accreditation, replacing the shorter six-point list that previously existed. [Art. 46, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#art_46) [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#art_46)
+
+A new paragraph 2a is introduced listing specific grounds on which the Commission may withdraw the recognition of a control authority or control body for a specific third country or category of products, covering matters such as failure to meet criteria, reporting and information failures, refusal of on-the-spot examinations, uncorrected non-compliance, transfer-of-file failures, risk of misleading consumers, and prolonged absence of certified operators. [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#art_46)
+
+*before* (`02018R0848-20201114`)
+
+> Article 46
+> Recognition of control authorities and control bodies
+> 1. The Commission may adopt implementing acts to recognise control authorities and control bodies that are competent to carry out controls and to issue organic certificates in third countries, to withdraw the recognition of such control authorities and control bodies, and to establish a list of recognised control authorities and control bodies.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+> 2. Control authorities or control bodies shall be recognised in accordance with paragraph 1 of this Article for the control of import of the categories of products listed in Article 35(7) if they fulfil the following criteria:
+> (a) they are legally established in one Member State or third country;
+> (b) they have the capacity to carry out controls to ensure that the conditions set out in points (a), (b)(i) and (c) of Article 45(1) and in this Article are met in relation to organic products and in-conversion products intended for import into the Union;
+> (c) they offer adequate guarantees of objectivity and impartiality and are free from any conflict of interest as regards the exercise of their control tasks;
+> (d) in the case of control bodies, they are accredited under the relevant harmonised standard for Conformity assessment – Requirements for bodies certifying products, processes and services, the reference of which has been published in the Official Journal of […truncated by emendrix: 4898 characters omitted…]
+
+*after* (`02018R0848-20220101`)
+
+> Article 46
+> Recognition of control authorities and control bodies
+> 1. The Commission may adopt implementing acts to recognise control authorities and control bodies that are competent to carry out controls and to issue organic certificates in third countries, to withdraw the recognition of such control authorities and control bodies, and to establish a list of recognised control authorities and control bodies.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+> 2. Control authorities and control bodies shall be recognised in accordance with paragraph 1 for the control of the import of the categories of products listed in Article 35(7) if they fulfil the following criteria:
+> (a) they are legally established in one Member State or third country;
+> (b) they have the capacity to carry out controls to ensure that the conditions set out in points (a), (b)(i) and (c) of Article 45(1) and in this Article are met in relation to organic products and in-conversion products intended for import into the Union, without delegating control tasks; for the purposes of this point, control tasks carried out by persons working under an individual contract or a formal agreement that place them under the management control and the procedures of the contracting control authorities or control bodies shall not be considered as delegation, and the prohibition to delegate control tasks shall not apply to sampling;
+> (c) they offer adequate guarant […truncated by emendrix: 11847 characters omitted…]
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II`, `AN II SCT 1 SCT 1.3`, `AN II SCT 1 SCT 1.3 PTA (a)`, `AN II SCT 1 SCT 1.3 PTA (b)`, `AN II SCT 1 SCT 1.8`, `AN II SCT 1 SCT 1.8 PTA (a)`, `AN II SCT 1 SCT 1.8 PTA (b)`, `AN II SCT 1 SCT 1.8 PTA (c)`, `AN II SCT 1 SCT 1.8 PTA (d)`, `AN II SCT 1 SCT 1.8 PTA (e)`, `AN II SCT 1 SCT 1.8 PTA (f)`, `AN II SCT 1 SCT 1.8 PTA (g)`, `AN II SCT 1 SCT 1.9`, `AN II SCT 1 SCT 1.10`, `AN II SCT 1 SCT 1.11`, `AN II SCT 1 SCT 1.12`, `AN II SCT 2 SCT 2.2`, `AN II SCT 1.1`, `AN II SCT 1.3 SCT 1.3.4 SCT 1.3.4.5`, `AN II SCT 1.4 SCT 1.4.4`, `AN II SCT 1.5 SCT 1.5.1 SCT 1.5.1.6`, `AN II SCT 1.5 SCT 1.5.2 SCT 1.5.2.7`, `AN II SCT 1.7 SCT 1.7.12`, `AN II SCT 1.9 SCT 1.9.4 SCT 1.9.4.4 PTA (c)`, `AN II SCT 1.9 SCT 1.9.6 SCT 1.9.6.2 PTA (b)`, `AN II SCT 1.9 SCT 1.9.6 SCT 1.9.6.6`, `AN II SCT 1.11`, `AN II SCT 2.2 SCT 2.2.2 PTA (c)`, `AN II SCT 2.3 SCT 2.3.2`, `AN II SCT 3 SCT 3.1 SCT 3.1.2 SCT 3.1.2.3`, `AN II SCT 3 SCT 3.1 SCT 3.1.2 SCT 3.1.2.4`, `AN II SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.3 PTA (e)`, `AN II SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.4`, `AN II SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.5`, `AN II SCT 3 SCT 3.1 SCT 3.1.4 SCT 3.1.4.2 PTA (e)`, `AN II SCT 3 SCT 3.1 SCT 3.1.4 SCT 3.1.4.2 PTA (e) PTI (i)`, `AN II SCT 3 SCT 3.1 SCT 3.1.4 SCT 3.1.4.2 PTA (e) PTI (ii)`, `AN II SCT 3 SCT 3.1 SCT 3.1.4 SCT 3.1.4.2 PTA (e) PTI (iii)`, `AN II SCT 3 SCT 3.1 SCT 3.1.4 SCT 3.1.4.3`, `AN II SCT 3 SCT 3.1 SCT 3.1.5 SCT 3.1.5.3`, `AN II SCT 3 SCT 3.1 SCT 3.1.6 SCT 3.1.6.5`, `AN II PTA (a)` · *dates* +2022-06-30 +2023-06-30 +2036-12-31 · *amended by* `32021R1691`, `32020R0427`, `32020R1794`, `32021R0716`, `32022R0474`
+
+Section 1.3 on sprouted seeds and chicory heads was rewritten in much greater detail, now specifying that sprouted seeds must be organic and moistened in clear water with restrictions on growing medium, and that chicory heads require organic plant reproductive material with conditions on any growing medium used, matters the earlier text stated only in a single brief sentence. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_II)
+
+Section 1.8 on origin of plants and plant reproductive material, including its subpoints on use of in-conversion and non-organic material, was substantially expanded and reworded, adding new procedures, authorisation conditions, official lists to be kept by competent authorities, notification deadlines including 30 June 2022, 30 June 2023 and an authorisation expiry of 31 December 2036, and a new point 1.8.6 on authorising producers of plant reproductive material to use non-organic material. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_II)
+
+Several record-keeping provisions, including sections 1.9, 1.10, 1.11, 1.12 of Part I and section 1.1 and new section 1.3.4.5 of Part II, now require operators to keep additional or more detailed records, such as dates, product names, active substances, quantities, locations, and documentary evidence of derogations, which were not previously required, and the text is truncated before the remainder of the differences can be described. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_II)
+
+*before* (`02018R0848-20201114`)
+
+> ANNEX II
+> DETAILED PRODUCTION RULES REFERRED TO IN CHAPTER III
+> Part I: Plant production rules
+> In addition to the production rules laid down in Articles 9 to 12, the rules set out in this Part shall apply to organic plant production.
+> 1. General requirements
+> 1.1. Organic crops, except those which are naturally grown in water, shall be produced in living soil, or in living soil mixed or fertilised with materials and products allowed in organic production, in connection with the subsoil and bedrock.
+> 1.2. Hydroponic production, which is a method of growing plants which do not naturally grow in water with their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added, is prohibited.
+> 1.3. By way of derogation from point 1.1, the production of sprouts by moistening of seeds and the obtaining of chicory heads including by dipping in clear water shall be allowed.
+> 1.4. By way of derogation from point 1.1, the following practices shall be allowed:
+> (a) growing plants for the production of ornamentals and herbs in pots to be sold together with the pot to the final consumer;
+> (b) growing seedlings or transplants in containers for further transplanting.
+> 1.5. By way of derogation from point 1.1, growing crops in demarcated beds shall only be allowed for the surfaces that have been certified as organic for that practice before 28 June 2017 in Finland, Sweden and Denmark. No extension of those surfaces shall be permitted.
+> That derogation shall expire on 31 Dec […truncated by emendrix: 101834 characters omitted…]
+
+*after* (`02018R0848-20220101`)
+
+> ANNEX II
+> DETAILED PRODUCTION RULES REFERRED TO IN CHAPTER III
+> Part I: Plant production rules
+> In addition to the production rules laid down in Articles 9 to 12, the rules set out in this Part shall apply to organic plant production.
+> 1. General requirements
+> 1.1. Organic crops, except those which are naturally grown in water, shall be produced in living soil, or in living soil mixed or fertilised with materials and products allowed in organic production, in connection with the subsoil and bedrock.
+> 1.2. Hydroponic production, which is a method of growing plants which do not naturally grow in water with their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added, is prohibited.
+> 1.3. By way of derogation from point 1.1, the following shall be allowed:
+> (a) the production of sprouted seeds, which include sprouts, shoots and cress, solely living on the nutritional reserves available in the seeds, by moistening them in clear water, provided that the seeds are organic. The use of growing medium shall be prohibited, except the use of an inert medium intended solely to keep the seeds moist when the components of that inert medium are authorised in compliance with Article 24;
+> (b) the obtaining of chicory heads, including by dipping them in clear water, provided that the plant reproductive material is organic. The use of a growing medium shall be allowed only when its components are authorised in compliance with Article 24.
+> 1.4. By way of derogation f […truncated by emendrix: 121816 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III SCT 2`, `AN III SCT 2 SCT 2.1`, `AN III SCT 2 PTA (a)`, `AN III SCT 2 PTA (b)`, `AN III SCT 2 PTA (c)`, `AN III SCT 2 PTA (d)`, `AN III SCT 5` · *amended by* `32021R0642`
+
+Section 2.1 is restructured into new subpoints 2.1.1, 2.1.2 and 2.1.3, adding separate labelling requirements for compound feed and for mixtures of fodder plant seeds that were not present before, while the closure requirement now refers to alteration, including substitution, of the content rather than substitution alone. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_III)
+
+Point (b) of the former list, describing the name of the product or a description of the compound feedstuff with a reference to organic production, is replaced by a simpler requirement stating only the name of the product, with compound feed labelling moved to the new point 2.1.2. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_III)
+
+Section 5's heading changes from referring to reception of products from other operators of units to reception of products from other operators or units, and the reference to the information in points (a) to (d) being presentable on an accompanying document is changed to cover the information in points 2.1.1 and 2.1.2 and to say it may be presented solely on that document. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_III)
+
+*before* (`02018R0848-20201114`)
+
+> ANNEX III
+> COLLECTION, PACKAGING, TRANSPORT AND STORAGE OF PRODUCTS
+> 1. Collection of products and transport to preparation units
+> Operators may carry out the simultaneous collection of organic, in-conversion and non-organic products only where appropriate measures have been taken to prevent any possible mixture or exchange between organic, in-conversion and non-organic products and to ensure the identification of the organic and in-conversion products. The operator shall keep the information relating to collection days, hours, the circuit and date and time of the reception of the products available to the control authority or control body.
+> 2. Packaging and transport of products to other operators or units
+> 2.1. Operators shall ensure that organic and in-conversion products are transported to other operators or units, including wholesalers and retailers, only in appropriate packaging, containers or vehicles closed in such a manner that substitution of the content cannot be achieved without manipulation or damage of the seal and provided with a label stating, without prejudice to any other indications required by Union law:
+> (a) the name and address of the operator and, where different, of the owner or seller of the product;
+> (b) the name of the product or a description of the compound feedstuff accompanied by a reference to organic production;
+> (c) the name or the code number of the control authority or control body to which the operator is subject; and
+> (d) where relevant, the lot i […truncated by emendrix: 6463 characters omitted…]
+
+*after* (`02018R0848-20220101`)
+
+> ANNEX III
+> COLLECTION, PACKAGING, TRANSPORT AND STORAGE OF PRODUCTS
+> 1. Collection of products and transport to preparation units
+> Operators may carry out the simultaneous collection of organic, in-conversion and non-organic products only where appropriate measures have been taken to prevent any possible mixture or exchange between organic, in-conversion and non-organic products and to ensure the identification of the organic and in-conversion products. The operator shall keep the information relating to collection days, hours, the circuit and date and time of the reception of the products available to the control authority or control body.
+> 2. Packaging and transport of products to other operators or units
+> 2.1. Information to be provided
+> 2.1.1. Operators shall ensure that organic products and in-conversion products are transported to other operators or units, including wholesalers and retailers, only in appropriate packaging, containers or vehicles closed in such a manner that alteration, including substitution, of the content cannot be achieved without manipulation or damage of the seal and provided with a label stating, without prejudice to any other indications required by Union law:
+> (a) the name and address of the operator and, where different, of the owner or seller of the product;
+> (b) the name of the product;
+> (c) the name or the code number of the control authority or control body to which the operator is subject; and
+> (d) where relevant, the lot identification mark in acco […truncated by emendrix: 8688 characters omitted…]
+
+**MODIFIED · Annex VI — MODEL OF THE CERTIFICATE** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN VI`, `AN VI PO 9`, `AN VI PO 1`, `AN VI PO 2`, `AN VI PO 3`, `AN VI PO 4`, `AN VI PO 5`, `AN VI PO 6`, `AN VI PO 7`, `AN VI PO 8` · *dates* +1987-07-23 +2018-05-30 · *amended by* `32021R1006`
+
+The certificate model is reorganised into a mandatory Part I and a new specific optional elements Part II, with the earlier single list of numbered fields replaced by a renumbered Part I sequence and nine additional optional items covering products, quantities, land, premises, activities, subcontracting and accreditation information. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI)
+
+Wording changes include references to the competent authority alongside the control authority or control body, a changed description of activities such as merging distribution and placing on the market, and the addition of citations to Regulation (EU) 2018/848 and Council Regulation (EEC) No 2658/87 with their full dates. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI)
+
+The former separate certificate validity period entries under each product category and the annex list of group members are replaced by a single certificate validity field and a renumbered list of group members within Part I. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI)
+
+*before* (`02018R0848-20201114`)
+
+> ANNEX VI
+> MODEL OF CERTIFICATE
+> Certificate pursuant to Article 35(1) of Regulation (EU) 2018/848 on organic production and labelling of organic products
+> 1. Document number:
+> 2. (tick one box as appropriate)
+> Operator
+> Group of operators – see annex
+> 3. Name and address of operator or group of operators:
+> 4. Activit(y)(ies) of the operator or group of operators (choose as appropriate):
+> Agricultural production
+> Preparation
+> Distribution
+> Storing
+> Import
+> Export
+> Placing on the market
+> 5. Name, address and code number of control authority or control body of the operator or group of operators:
+> 6. Categor(y)(ies) of products as referred to in Article 35(7) of Regulation (EU) 2018/848 and production methods (choose as appropriate):
+> unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> organic production excluding during the conversion period
+> production during the conversion period
+> organic production with non-organic production (pursuant to Article 9(7) of Regulation (EU) 2018/848 or in the case of preparation, distribution, storing, import, export, placing on the market)
+> Certificate validity period from … to …
+> livestock and unprocessed livestock products
+> Production method:
+> organic production excluding during the conversion period
+> production during the conversion period
+> organic production with non-organic production (pursuant to Article 9(7) of Regulation (EU) 2018/848 or in the case of preparation, distribution, storing, import, export, […truncated by emendrix: 2346 characters omitted…]
+
+*after* (`02018R0848-20220101`)
+
+> ANNEX VI
+> MODEL OF THE CERTIFICATE
+> CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND LABELLING OF ORGANIC PRODUCTS
+> Part I: Mandatory elements
+> Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+> 1. Document number 2. (choose as appropriate)
+> Operator
+> Group of operators – see point 9
+> 3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:
+> 5. Activity or activities of the operator or group of operators (choose as appropriate)
+> Production
+> Preparation
+> Distribution/Placing on the market
+> Storing
+> Import
+> Export
+> 6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council
+>  and production methods (choose as appropriate)
+> (a) unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> □ organic production excluding during the conversion period
+> □ production during the conversion period
+> □ organic production with non-organic production
+> (b) livestock and unprocessed livestock products
+> Production method:
+> □ organic production excluding during the con […truncated by emendrix: 4506 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02018R0848-20220101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20201114 -->
 ## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
 ### `02018R0848-20180614` → `02018R0848-20201114`
