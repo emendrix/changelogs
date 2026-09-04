@@ -78,21 +78,21 @@ In point (g), the reference to promotion and enhancement of policies and systems
 > (e) the making available to the Commission of technical expertise for the purpose of assisting the Commission in its implementation of market surveillance administrative cooperation, including the financing of administrative cooperation groups, market surveillance decisions and safeguard clause cases;
 > (f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology and accreditation activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analy […truncated by emendrix: 744 characters omitted…]
 
-**MODIFIED · Art. 39** · applies from: unknown
-
-*amended by* `32019R1020`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Title** · applies from: unknown
 
 *amended by* `32019R1020`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex III** · applies from: unknown
+
+*amended by* `32019R1020`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
