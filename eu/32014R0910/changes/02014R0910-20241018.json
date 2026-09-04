@@ -16,20 +16,20 @@
   "summary": {
     "inserted": 0,
     "modified": 2,
-    "deleted": 2,
+    "deleted": 1,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 4,
+    "touched_units": 3,
     "unchanged_units": 90,
-    "disputed": 4
+    "disputed": 3
   },
   "counts": {
-    "touched": 4,
-    "substantive": 4,
+    "touched": 3,
+    "substantive": 3,
     "date_only": 0,
-    "disputed": 4,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -115,7 +115,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -162,61 +163,6 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32022L2555, 1.000 of its instruction clauses read",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32014R0910",
-            "display_name": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC"
-          },
-          "version": "02014R0910-20241018",
-          "location": "AR 42"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022L2555",
-            "display_name": "Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2024-05-20, 2024-10-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
             "status": "observed",
             "detail": "AR 042",
             "change_types": [
@@ -229,7 +175,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -335,7 +282,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -382,12 +330,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 42"
+          "AR 19"
         ],
         "note": "32022L2555, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 42",
+            "location": "AR 19",
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 042",
@@ -428,10 +376,10 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
@@ -457,13 +405,13 @@
       },
       {
         "unit": "AR 19",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
-          "corpus_metadata"
+          "corpus_metadata",
+          "instruction_parse"
         ],
         "absent_from": [
-          "structural_diff",
-          "instruction_parse"
+          "structural_diff"
         ],
         "kinds": [
           [
@@ -471,20 +419,7 @@
             [
               "DELETED"
             ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 42",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
+          ],
           [
             "instruction_parse",
             [
@@ -514,8 +449,7 @@
       }
     ],
     "metadata_only_units": [
-      "AR 19",
-      "AR 42"
+      "AR 19"
     ]
   },
   "explain": {
@@ -527,6 +461,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 13965,
       "output_tokens": 373,
@@ -546,5 +483,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 4,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }

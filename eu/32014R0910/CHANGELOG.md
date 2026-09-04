@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02014R0910-20240520` → `02014R0910-20241018`
 
 - **Act** `eu:32014R0910` · **In force** 2024-10-18 · **Detected** 2026-08-12
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
-- **Diff** 0 inserted · 2 modified · 2 deleted · 0 renumbered · 0 deferred · 90 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Diff** 0 inserted · 2 modified · 1 deleted · 0 renumbered · 0 deferred · 90 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02014R0910-20240520` · `v2` = `02014R0910-20241018`
 
 ---
@@ -60,17 +60,7 @@ In paragraph 16(b), the term describing the privacy-preserving property that mus
 
 *amended by* `32022L2555`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**DELETED · Art. 42** · applies from: unknown
-
-*amended by* `32022L2555`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
