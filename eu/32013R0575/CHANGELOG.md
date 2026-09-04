@@ -462,7 +462,7 @@ Point (e) of paragraph 6 is expanded from a single assessment of market liquidit
 - **Act** `eu:32013R0575` · **In force** 2024-12-24, 2025-01-01 · **Detected** 2026-08-13
 - **Touched** 283 provisions — 283 substantive · 0 date-only · **41 disputed**
 - **Diff** 44 inserted · 232 modified · 7 deleted · 0 renumbered · 0 deferred · 523 unchanged
-- **Gate** 0 sentences quoted verbatim · 17 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20240709` · `v2` = `02013R0575-20250101`
 
 ---
@@ -2051,7 +2051,11 @@ It also defines what counts as a source of income for this purpose, sets a fallb
 
 *within* `AR 124 PA 1 ALN 1`, `AR 124 PA 1 ALN 1 PTA (a)`, `AR 124 PA 1 ALN 1 PTA (b)`, `AR 124 PA 1 ALN 2`, `AR 124 PA 2 ALN 1`, `AR 124 PA 2 ALN 1 PTA (a)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (i)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (ii)`, `AR 124 PA 2 ALN 1 PTA (a) PTI (iii)`, `AR 124 PA 2 ALN 1 PTA (b)`, `AR 124 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 124 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 124 PA 2 ALN 2`, `AR 124 PA 2 ALN 3`, `AR 124 PA 2 ALN 4`, `AR 124 PA 3 ALN 1`, `AR 124 PA 3 ALN 1 PTA (a)`, `AR 124 PA 3 ALN 1 PTA (b)`, `AR 124 PA 3 ALN 1 PTA (c)`, `AR 124 PA 3 ALN 1 PTA (d)`, `AR 124 PA 3 ALN 1 PTA (e)`, `AR 124 PA 3 ALN 2`, `AR 124 PA 3 ALN 3`, `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 2 PTA (a)`, `AR 124 PA 4 ALN 2 PTA (b)`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)`, `AR 124 PA 6 ALN 1`, `AR 124 PA 6 ALN 1 PTA (a)`, `AR 124 PA 6 ALN 1 PTA (b)`, `AR 124 PA 6 ALN 1 PTA (c)`, `AR 124 PA 6 ALN 2`, `AR 124 PA 6 ALN 3`, `AR 124 PA 7`, `AR 124 PA 8`, `AR 124 PA 9`, `AR 124 PA 10`, `AR 124 PA 13`, `AR 124 PA 1a` · *dates* -2019-12-31 · *amended by* `32024R1623`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision is rewritten from a short general rule assigning a 100% risk weight to unsecured or non-conforming mortgage exposures and giving designated authorities a general power to adjust risk weights for residential and commercial property segments, into a much longer structure that separately defines treatment for non-ADC and ADC exposures, IPRE and non-IPRE exposures, and introduces detailed eligibility conditions, junior-lien recognition rules, and an exposure-to-value (ETV) ratio calculation methodology. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124)
+
+New paragraphs are added covering treatment of undrawn facilities, leasing transactions with a purchase option, and expanded rules on how designated authorities may raise risk weights up to a stated 150% cap or lower exposure-to-value thresholds, matters not present in the earlier text. [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124)
+
+The paragraph numbering is also reorganized, with the authority-designation and risk-weight-assessment provisions moved from paragraphs 1a and 2 to paragraphs 8 and 9, and the cross-Member-State application rule moved from paragraph 6 to paragraph 13. [Art. 124, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_124) [Art. 124, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124)
 
 *before* (`02013R0575-20240709`)
 
@@ -2209,7 +2213,11 @@ The 150% risk weight assignment is retained in the after text but is now applied
 
 *within* `AR 129 PA 1 ALN 4`, `AR 129 PA 3 ALN 2`, `AR 129 PA 4 ALN 1`, `AR 129 PA 5 ALN 1`, `AR 129 PA 5 ALN 1 PTA (aa)`, `AR 129 PA 5 ALN 1 PTA (ab)`, `AR 129 PA 5 ALN 1 PTA (b)`, `AR 129 PA 5 ALN 1 PTA (ba)` · *dates* +2027-07-01 · *amended by* `32024R1623`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now adds a new subparagraph on indirect exposures to unrated credit institutions that guarantee mortgage loans pending registration, treating such exposures as credit quality step 1 under point (c) of the first subparagraph, subject to conditions on short-term grade A classification and eventual eligibility of the guaranteed loans under points (d), (e) and (f), with this treatment stated to apply until 1 July 2027. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
+
+Paragraph 3 gains a new subparagraph allowing competent authorities designated under Directive (EU) 2019/2162 to permit valuation of immovable property at or below market value, or at mortgage lending value where rigorous statutory criteria exist, without applying the limits in Article 229(1), point (e). [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
+
+Paragraphs 4 and 5 now refer to a 'directly applicable' credit assessment and to Table 1 instead of Table 6a, and paragraph 5's correspondence table gains new points (aa), (ab) and (ba) for risk weights of 30 %, 40 % and 75 % respectively, while the risk weight for a 50 % institution exposure changes from 20 % to 25 % under point (b). [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_129) [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
 
 *before* (`02013R0575-20240709`)
 

@@ -30,7 +30,7 @@
     "date_only": 0,
     "disputed": 41,
     "quoted": 0,
-    "unexplained": 17
+    "unexplained": 15
   },
   "changes": [
     {
@@ -6295,11 +6295,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision is rewritten from a short general rule assigning a 100% risk weight to unsecured or non-conforming mortgage exposures and giving designated authorities a general power to adjust risk weights for residential and commercial property segments, into a much longer structure that separately defines treatment for non-ADC and ADC exposures, IPRE and non-IPRE exposures, and introduces detailed eligibility conditions, junior-lien recognition rules, and an exposure-to-value (ETV) ratio calculation methodology.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240709",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_124",
+              "label": "Art. 124, 02013R0575-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124",
+              "label": "Art. 124, 02013R0575-20250101"
+            }
+          ]
+        },
+        {
+          "text": "New paragraphs are added covering treatment of undrawn facilities, leasing transactions with a purchase option, and expanded rules on how designated authorities may raise risk weights up to a stated 150% cap or lower exposure-to-value thresholds, matters not present in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124",
+              "label": "Art. 124, 02013R0575-20250101"
+            }
+          ]
+        },
+        {
+          "text": "The paragraph numbering is also reorganized, with the authority-designation and risk-weight-assessment provisions moved from paragraphs 1a and 2 to paragraphs 8 and 9, and the cross-Member-State application rule moved from paragraph 6 to paragraph 13.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240709",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_124",
+              "label": "Art. 124, 02013R0575-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 124"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_124",
+              "label": "Art. 124, 02013R0575-20250101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6982,11 +7066,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now adds a new subparagraph on indirect exposures to unrated credit institutions that guarantee mortgage loans pending registration, treating such exposures as credit quality step 1 under point (c) of the first subparagraph, subject to conditions on short-term grade A classification and eventual eligibility of the guaranteed loans under points (d), (e) and (f), with this treatment stated to apply until 1 July 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129",
+              "label": "Art. 129, 02013R0575-20250101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 gains a new subparagraph allowing competent authorities designated under Directive (EU) 2019/2162 to permit valuation of immovable property at or below market value, or at mortgage lending value where rigorous statutory criteria exist, without applying the limits in Article 229(1), point (e).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129",
+              "label": "Art. 129, 02013R0575-20250101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 4 and 5 now refer to a 'directly applicable' credit assessment and to Table 1 instead of Table 6a, and paragraph 5's correspondence table gains new points (aa), (ab) and (ba) for risk weights of 30 %, 40 % and 75 % respectively, while the risk weight for a 50 % institution exposure changes from 20 % to 25 % under point (b).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20240709",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_129",
+              "label": "Art. 129, 02013R0575-20240709"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20250101",
+                "location": "AR 129"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129",
+              "label": "Art. 129, 02013R0575-20250101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -43022,6 +43177,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 47247,
+        "output_tokens": 2092,
+        "requests": 4,
+        "schema_repairs": 2
       },
       "coordinates_checked": false
     }
