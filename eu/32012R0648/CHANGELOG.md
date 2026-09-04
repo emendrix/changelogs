@@ -4315,7 +4315,7 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 
 *within* `AR 2 ALN 1 PO 8`, `AR 2 ALN 1 PO 8 PTA (a)`, `AR 2 ALN 1 PO 8 PTA (b)`, `AR 2 ALN 1 PO 8 PTA (c)`, `AR 2 ALN 1 PO 8 PTA (d)`, `AR 2 ALN 1 PO 8 PTA (e)`, `AR 2 ALN 1 PO 8 PTA (f)`, `AR 2 ALN 1 PO 8 PTA (g)` · *dates* +2009-11-25 +2013-06-26 +2014-05-15 +2014-07-23 +2016-12-14 · *amended by* `32019R0834`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20190101`)
 
