@@ -4306,7 +4306,7 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 - **Act** `eu:32012R0648` · **In force** 2019-06-17 · **Detected** 2026-08-13
 - **Touched** 27 provisions — 27 substantive · 0 date-only · **4 disputed**
 - **Diff** 3 inserted · 24 modified · 0 deleted · 0 renumbered · 0 deferred · 77 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20190101` · `v2` = `02012R0648-20190617`
 
 ---
@@ -4315,7 +4315,11 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 
 *within* `AR 2 ALN 1 PO 8`, `AR 2 ALN 1 PO 8 PTA (a)`, `AR 2 ALN 1 PO 8 PTA (b)`, `AR 2 ALN 1 PO 8 PTA (c)`, `AR 2 ALN 1 PO 8 PTA (d)`, `AR 2 ALN 1 PO 8 PTA (e)`, `AR 2 ALN 1 PO 8 PTA (f)`, `AR 2 ALN 1 PO 8 PTA (g)` · *dates* +2009-11-25 +2013-06-26 +2014-05-15 +2014-07-23 +2016-12-14 · *amended by* `32019R0834`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The definition of financial counterparty in point (8) was restructured from a single unbroken list of authorised entities into seven lettered subpoints (a) to (g), each referring to updated legislation. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
+
+References to the earlier directives on investment firms, credit institutions, insurance and reinsurance undertakings, and institutions for occupational retirement provision were replaced with references to Directive 2014/65/EU, Directive 2013/36/EU, Directive 2009/138/EC and Directive (EU) 2016/2341 respectively, and a new subpoint was added covering central securities depositories authorised under Regulation (EU) No 909/2014. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
+
+The treatment of UCITS and alternative investment funds was also changed by adding exclusions for those set up exclusively to serve employee share purchase plans and, for AIFs, for securitisation special purpose entities, along with added conditions on establishment or management by an authorised or registered AIFM. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
 
 *before* (`02012R0648-20190101`)
 

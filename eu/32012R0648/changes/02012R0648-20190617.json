@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 4,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 3
   },
   "changes": [
     {
@@ -103,11 +103,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definition of financial counterparty in point (8) was restructured from a single unbroken list of authorised entities into seven lettered subpoints (a) to (g), each referring to updated legislation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20190617",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2",
+              "label": "Art. 2, 02012R0648-20190617"
+            }
+          ]
+        },
+        {
+          "text": "References to the earlier directives on investment firms, credit institutions, insurance and reinsurance undertakings, and institutions for occupational retirement provision were replaced with references to Directive 2014/65/EU, Directive 2013/36/EU, Directive 2009/138/EC and Directive (EU) 2016/2341 respectively, and a new subpoint was added covering central securities depositories authorised under Regulation (EU) No 909/2014.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20190617",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2",
+              "label": "Art. 2, 02012R0648-20190617"
+            }
+          ]
+        },
+        {
+          "text": "The treatment of UCITS and alternative investment funds was also changed by adding exclusions for those set up exclusively to serve employee share purchase plans and, for AIFs, for securitisation special purpose entities, along with added conditions on establishment or management by an authorised or registered AIFM.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20190617",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2",
+              "label": "Art. 2, 02012R0648-20190617"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20190101",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2",
+              "label": "Art. 2, 02012R0648-20190101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4697,6 +4768,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 9412,
+        "output_tokens": 441,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false
