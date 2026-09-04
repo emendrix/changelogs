@@ -173,28 +173,16 @@ The new article also sets out requirements for that information, including submi
 ### `32017R1131` → `02017R1131-20190101`
 
 - **Act** `eu:32017R1131` · **In force** 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R1131` · `v2` = `02017R1131-20190101`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32018R0990`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 11 — Eligible securitisations and ABCPs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 11 PA 1 ALN 1 PTA (c)` · *dates* +2017-12-12 · *amended by* `32018R0990`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (c) of Article 11(1) no longer refers generically to a simple, transparent and standardised (STS) securitisation or ABCP, but instead specifies that STS status is determined in accordance with the criteria and conditions laid down in Articles 20, 21 and 22 of Regulation (EU) 2017/2402 for securitisations, or Articles 24, 25 and 26 of that Regulation for STS ABCPs. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20190101#art_11)
 
