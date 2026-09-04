@@ -313,7 +313,7 @@ Point (e), which previously set a fixed 18-month rule for Article 29(4) and Arti
 - **Act** `eu:32017R0745` · **In force** 2023-03-20 · **Detected** 2026-08-12
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 137 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0745-20230311` · `v2` = `02017R0745-20230320`
 
 ---
@@ -322,7 +322,11 @@ Point (e), which previously set a fixed 18-month rule for Article 29(4) and Arti
 
 *within* `AR 120 PA 2 ALN 2`, `AR 120 PA 2 ALN 2 PTA (a)`, `AR 120 PA 2 ALN 2 PTA (b)`, `AR 120 PA 3 ALN 1`, `AR 120 PA 3 ALN 2`, `AR 120 PA 3a`, `AR 120 PA 3b`, `AR 120 PA 3c`, `AR 120 PA 3d`, `AR 120 PA 3e`, `AR 120 PA 3f`, `AR 120 PA 4 ALN 1` · *dates* -2024-05-27 -2025-05-26 +2023-03-20 +2024-09-26 +2026-05-26 +2027-12-31 +2028-12-31 · *amended by* `32023R0607`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The single 2024/2025 sunset dates for certificates and devices under the old paragraphs 2 to 4 are replaced by a more detailed set of risk-class-based deadlines running through 2027 and 2028, together with new conditions on certificate validity and on when manufacturers must have signed agreements or lodged applications with notified bodies. [Art. 120, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230311#art_120) [Art. 120, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120)
+
+New paragraphs 3a through 3f are introduced, setting out specific placing-on-the-market deadlines by device class, conditions for extended validity, post-market surveillance rules, surveillance transfer arrangements between notified bodies, and a separate rule for class III custom-made implantable devices. [Art. 120, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120)
+
+Paragraph 4 is reworded so that continued availability on the market or putting into service of devices already placed under paragraphs 3, 3a, 3b and 3f is no longer tied to the previously stated end date. [Art. 120, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230311#art_120) [Art. 120, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120)
 
 *before* (`02017R0745-20230311`)
 

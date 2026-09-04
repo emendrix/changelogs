@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -110,11 +110,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The single 2024/2025 sunset dates for certificates and devices under the old paragraphs 2 to 4 are replaced by a more detailed set of risk-class-based deadlines running through 2027 and 2028, together with new conditions on certificate validity and on when manufacturers must have signed agreements or lodged applications with notified bodies.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20230311",
+                "location": "AR 120"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230311#art_120",
+              "label": "Art. 120, 02017R0745-20230311"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20230320",
+                "location": "AR 120"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120",
+              "label": "Art. 120, 02017R0745-20230320"
+            }
+          ]
+        },
+        {
+          "text": "New paragraphs 3a through 3f are introduced, setting out specific placing-on-the-market deadlines by device class, conditions for extended validity, post-market surveillance rules, surveillance transfer arrangements between notified bodies, and a separate rule for class III custom-made implantable devices.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20230320",
+                "location": "AR 120"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120",
+              "label": "Art. 120, 02017R0745-20230320"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 is reworded so that continued availability on the market or putting into service of devices already placed under paragraphs 3, 3a, 3b and 3f is no longer tied to the previously stated end date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20230311",
+                "location": "AR 120"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230311#art_120",
+              "label": "Art. 120, 02017R0745-20230311"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0745",
+                  "display_name": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )"
+                },
+                "version": "02017R0745-20230320",
+                "location": "AR 120"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20230320#art_120",
+              "label": "Art. 120, 02017R0745-20230320"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -596,6 +680,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 7827,
+        "output_tokens": 432,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false
