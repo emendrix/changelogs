@@ -190,28 +190,18 @@ The percentage defining a relevant notification threshold in paragraph 2 was cha
 ### `32012R0236` → `02012R0236-20140917`
 
 - **Act** `eu:32012R0236` · **In force** 2014-09-17 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 1 deleted · 0 renumbered · 0 deferred · 48 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 0 modified · 1 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32012R0236` · `v2` = `02012R0236-20140917`
 
 ---
 
-**MODIFIED · Art. 15** · applies from: unknown
+**DELETED · Art. 15** · applies from: unknown
 
 *amended by* `32014R0909`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**DELETED · Art. 72** · applies from: unknown
-
-*amended by* `32014R0909`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 

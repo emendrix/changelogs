@@ -15,26 +15,26 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 1,
+    "modified": 0,
     "deleted": 1,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 48,
-    "disputed": 2
+    "disputed": 1
   },
   "counts": {
-    "touched": 2,
-    "substantive": 2,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 2,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
       "change": {
-        "change_type": "MODIFIED",
+        "change_type": "DELETED",
         "provision": {
           "act": {
             "corpus": "eu",
@@ -75,61 +75,6 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0909, 1.000 of its instruction clauses read",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0236",
-            "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
-          },
-          "version": "02012R0236-20140917",
-          "location": "AR 72"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0909",
-            "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2014-09-17]",
-            "change_types": []
-          },
-          "instruction_parse": {
             "status": "observed",
             "detail": "AR 072",
             "change_types": [
@@ -142,7 +87,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -186,12 +132,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 72"
+          "AR 15"
         ],
         "note": "32014R0909, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 72",
+            "location": "AR 15",
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 072",
@@ -232,35 +178,23 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
-        "kind_mismatches": 0
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 1
       }
     ],
     "disagreements": [
       {
         "unit": "AR 15",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": []
-      },
-      {
-        "unit": "AR 72",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
+          "corpus_metadata",
           "instruction_parse"
         ],
         "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
+          "structural_diff"
         ],
         "kinds": [
           [
@@ -273,8 +207,7 @@
       }
     ],
     "metadata_only_units": [
-      "AR 15",
-      "AR 72"
+      "AR 15"
     ]
   },
   "explain": {
@@ -286,6 +219,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 0,
       "output_tokens": 0,
@@ -305,5 +241,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
