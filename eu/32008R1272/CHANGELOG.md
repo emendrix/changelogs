@@ -2769,10 +2769,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20230420` → `02008R1272-20230731`
 
-- **Act** `eu:32008R1272` · **In force** 2023-07-31 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2023-07-31 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20230420` · `v2` = `02008R1272-20230731`
 
 ---
@@ -2783,7 +2783,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new Note X has been added to the list of notes relating to the identification, classification and labelling of substances in section 1.1.3.1, describing classification based only on the properties of the part of the substance common to all substances in the entry, with the non-common part requiring separate evaluation for possibly more severe or broader classification. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230731#anx_VI)
+
+Two new notes, Note 11 and Note 12, have been added to the list of notes relating to the classification and labelling of mixtures in section 1.1.3.2, both addressing when a mixture must be classified as a reproductive toxicant based on summed concentrations of relevant substances. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230731#anx_VI)
+
+The corresponding before text in section 1.1.3.1 ends with Note W and the before text in section 1.1.3.2 ends with Note 10, without these additional notes present. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230420#anx_VI)
 
 *before* (`02008R1272-20230420`)
 
@@ -2796,7 +2800,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2024679 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2024681 characters omitted…]
 
 *after* (`02008R1272-20230731`)
 
@@ -2809,7 +2813,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2025881 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2025883 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20230731 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20230420 -->
