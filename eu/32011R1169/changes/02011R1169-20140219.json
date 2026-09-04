@@ -15,137 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 5,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 5,
+    "touched_units": 3,
     "unchanged_units": 67,
-    "disputed": 5
+    "disputed": 1
   },
   "counts": {
-    "touched": 5,
-    "substantive": 5,
+    "touched": 3,
+    "substantive": 3,
     "date_only": 0,
-    "disputed": 5,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32011R1169",
-            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
-          },
-          "version": "02011R1169-20140219",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0078",
-            "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2013-12-06, 2014-02-19]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32011R1169",
-            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
-          },
-          "version": "02011R1169-20140219",
-          "location": "AR 2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0078",
-            "display_name": "Commission Delegated Regulation (EU) No 78/2014 of 22 November 2013 amending Annexes II and III to Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as regards certain cereals causing allergies or intolerances and foods with added phytosterols, phytosterol esters, phytostanols or phytostanol esters"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2013-12-06, 2014-02-19]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -194,12 +80,14 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0078, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
-        "disputed": true
+        "disputed": false
       },
       "outcome": "passed",
       "sentences": [
@@ -237,7 +125,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -287,12 +176,14 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0078, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
-        "disputed": true
+        "disputed": false
       },
       "outcome": "passed",
       "sentences": [
@@ -330,7 +221,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -447,7 +339,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -507,13 +400,13 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1",
-          "AR 2"
+          "AN II",
+          "AN III"
         ],
         "note": "32014R0078, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 1 PO 1",
+            "location": "AN II PO 1",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001",
@@ -524,7 +417,7 @@
             }
           },
           {
-            "location": "AR 2 PO 5",
+            "location": "AN III PO 5",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 002",
@@ -554,10 +447,10 @@
         "right": "instruction_parse",
         "left_units": 3,
         "right_units": 2,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
         "kind_mismatches": 0
       },
       {
@@ -565,102 +458,14 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 2,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 2",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN II",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN III",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AN VI",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -681,10 +486,7 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "AR 1",
-      "AR 2"
-    ]
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -697,6 +499,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 2,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 17949,
       "output_tokens": 627,
@@ -716,5 +519,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 5,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }

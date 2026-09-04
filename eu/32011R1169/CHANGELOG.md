@@ -195,38 +195,16 @@ The only change in this provision is to the Italian-language indication in point
 ### `02011R1169-20131206` → `02011R1169-20140219`
 
 - **Act** `eu:32011R1169` · **In force** 2014-02-19 · **Detected** 2026-09-04
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
-- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20131206` · `v2` = `02011R1169-20140219`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32014R0078`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32014R0078`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II PO 1` · *amended by* `32014R0078`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In point 1, the listing of cereals containing gluten changed from "wheat, rye, barley, oats, spelt, kamut or their hybridised strains" to "wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains". [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_II)
 
@@ -288,8 +266,6 @@ In point 1, the listing of cereals containing gluten changed from "wheat, rye, b
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32014R0078`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The statement associated with point (3) of item 5.1 was changed from describing the food as intended exclusively for people who want to lower their blood cholesterol level to describing the product as not intended for people who do not need to control their blood cholesterol level. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20140219#anx_III)
 
