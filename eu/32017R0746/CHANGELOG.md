@@ -305,28 +305,16 @@ The clause stating that Directive 98/79/EC continues to apply to the devices ref
 ### `02017R0746-20220128` → `02017R0746-20230311`
 
 - **Act** `eu:32017R0746` · **In force** 2023-03-11 · **Detected** 2026-08-12
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 127 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 127 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0746-20220128` · `v2` = `02017R0746-20230311`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0503`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 40 — Monitoring and re-assessment of notified bodies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 40 PA 10 ALN 1`, `AR 40 PA 10 ALN 2`, `AR 40 PA 10 ALN 3` · *dates* +2023-03-11 · *amended by* `32023R0503`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The interval for the complete re-assessment of a notified body changed from three years after notification and every fourth year thereafter to five years after notification and every fifth year thereafter, and the reference to the joint assessment team procedure now cites Article 35 alone rather than Articles 34 and 35. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20220128#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20230311#art_40)
 
