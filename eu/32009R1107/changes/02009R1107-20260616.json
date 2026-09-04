@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1107",
+    "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+  },
+  "from_version": "02009R1107-20221121",
+  "to_version": "02009R1107-20260616",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-06-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 88,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20260616",
+          "location": "AN III"
+        },
+        "heading": "ANNEX III",
+        "before": "ANNEX III\nList of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27\nThe limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.\nThe limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.\nNo Name EC names/Other names CAS number EC number Classification/Other properties\n1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B\n2. 1,2- Dichloroethane 1,2-Dichloroethane;\nEthane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B\n3. 2-Ethoxyethanol 2-Ethoxyethanol;\nEthanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B\n4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B\n5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;\nN-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B\n6. 2-Methoxyethanol 2-Methoxyethanol;\nEthanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B\n7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;\nEthanol, 2-methoxy-, 1-acetate;\n2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B\n8. 2-Methoxypropanol 2-Methoxypropanol;\n1-Propanol, 2-methoxy- 1589-47-5 216-455-5 Toxic to reproduction cat.1B\n9. 1-Methylpyrrolidin-2-one 1-Methyl-2-pyrrolidone;\n2-Pyrrolidinone, 1-methyl- 872-50-4 212-828-1 Toxic to reproduction cat.1B\n10. 2-Nitropropane 2-Nitropropane;\nPropane, 2-nitro- 79-46-9 201-209-1 Carcinogenic cat.1B\n11. Amines, tallow alkyl, ethoxylated Amines, tallow alkyl, ethoxylated;\nPOE-tallowamine 61791-26-2 Concerns or data gaps related to potential effects on human health or the environment\n12. Amines, tallow alkyl, ethoxylated propoxylated Amines, tallow alkyl, ethoxylated propoxylated;\nPOEP-tallowamine 68213-26-3 Concerns or data gaps related to potential effects on human health or the environment\n13. Asbestos fibres Actinolite asbestos;\nAsbestos, actinolyte 77536-66-4 Carcinogenic cat.1A\n14. Amosite asbestos;\nAsbestos, amosite 12172-73-5 Carcinogenic cat.1A\n15. Anthophyllite asbestos;\nAsbestos, anthophyllite 77536-67-5 Carcinogenic cat.1A\n16. Chrysotile asbestos;\nAsbestol, chrysotile 12001-29-5 Carcinogenic cat.1A\n17. Crocidolite asbestos;\nAsbestos, crocidolite 12001-28-4 Carcinogenic cat.1A\n18. Tremolite asbestos;\nAsbestos, tremolite 77536-68-6 Carcinogenic cat.1A\n19. Benzene Benzene 71-43-2 200-753-7 Carcinogenic cat.1A/\nMutagenic cat.1B\n20. Benzo[def]chrysene;\nBenzo[pqr]tetraphene Benzo[def]chrysene;\nBenzo[a]pyrene 50-32-8 200-028-5 Carcinogenic cat.1B/Mutagenic cat.1B/\nToxic to reproduction cat.1B\n21. Bis(2-methylpropyl) benzene-1,2-dicarboxylate Diisobutyl phthalate 84-69-5 201-553-2 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n22. Boric acid Boric acid 10043-35-3\n11113-50-1 233-139-2\n234-343-4 Toxic to reproduction cat.1B\n23. Disodium octaborate Disodium octaborate; Disodium octaborate anhydrous 12008-41-2 234-541-0 Toxic to reproduction cat.1B\n24. Disodium octaborate, tetrahydrate Boric acid, disodium salt, tetrahydrate; 12280-03-4 234-541-0 Toxic to reproduction cat.1B\n25. Disodium tetraborate, anhydrous Disodium tetraborate, anhydrous;\nBoron sodium oxide 1330-43-4 215-540-4 Toxic to reproduction cat.1B\n26. Disodium tetraborate, decahydrate Borax 1303-96-4 215-540-4 Toxic to reproduction cat.1B\n27. Disodium tetraborate, pentahydrate Boron sodium oxide, hydrated 12179-04-3 215-540-4 Toxic to reproduction cat.1B\n28. Orthoboric acid, sodium salt Orthoboric acid, sodium salt; Boric acid, sodium salt 13840-56-7 237-560-2 Toxic to reproduction cat.1B\n29. Tetraboron disodium heptaoxide, hydrate Tetraboron disodium heptaoxide, hydrate;\nBoron sodium oxide, hydrate 12267-73-1 235-541-3 Toxic to reproduction cat.1B\n30. Buta-1,3-diene Buta-1,3-diene;\n1,3-Butadiene 106-99-0 203-450-8 Carcinogenic cat.1A/\nMutagenic cat.1B\n31. Butane\ncontaining ≥ 0,1 % butadiene (EC No 203-450-8) Butane 106-97-8 203-448-7 Carcinogenic cat.1A\n32. Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride Guanidine, N,N\"’-1,6-hexanediylbis[N’-cyano-, polymer with 1,6-hexanediamine, hydrochloride\nPoly[iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl], hydrochloride\nCyanamide, N-cyano-, compd. with 1,6-hexanediamine (2:1), polymer with 1,6-hexanediamine hydrochloride (1:2);\nPHMB 27083-27-8\nand\n32289-58-0\nand\n1802181-67-4 Not approved for use in biocidal products for product-type 6 (in-can preservatives).\n33. Dibutyl phthalate n-Butyl phthalate;\nDibutyl benzene-1,2-dicarboxylate 84-74-2 201-557-4 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n34. Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-52-5 265-155-0 Carcinogenic cat.1B\n35. Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-54-7 265-157-1 Carcinogenic cat.1B\n36. Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-53-6 265-156-6 Carcinogenic cat.1B\n37. Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-55-8 265-158-7 Carcinogenic cat.1B\n38. Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-65-0 265-169-7 Carcinogenic cat.1B\n39. Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-88-4 265-090-8 Carcinogenic cat.1B\n40. Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-89-5 265-091-3 Carcinogenic cat.1B\n41. Ethylene oxide Ethylene oxide; Oxyrane; Epoxyethane 75-21-8 200-849-9 Carcinogenic cat.1B/\nMutagenic cat. 1B\n42. Formaldehyde Formaldehyde; Formalin; Methanal;,Formol 50-00-0 200-001-8 Carcinogenic cat.1B\n43. Formamide Formamide; Methanamide 75-12-7 200-842-0 Toxic to reproduction cat.1B\n44. Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8)) Isobutane; Propane, 2-methyl- 75-28-5 200-857-2 Carcinogenic cat.1A/\nMutagenic cat. 1B\n45. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-85-9 276-736-3 Carcinogenic cat.1B\n46. Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-86-0 276-737-9 Carcinogenic cat.1B\n47. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-87-1 276-738-4 Carcinogenic cat.1B\n48. Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 101316-70-5 309-875-6 Carcinogenic cat.1B\n49. Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64741-65-7 265-067-2 Carcinogenic cat.1B/\nMutagenic cat.1B\n50. Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-82-1 265-185-4 Carcinogenic cat.1A/\nMutagenic cat.1B\n51. Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7) 92045-53-9 295-434-2 Carcinogenic cat.1A/\nMutagenic cat.1B\n52. Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-48-9 265-150-3 Carcinogenic cat.1A/\nMutagenic cat.1B\n53. Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7) 64742-95-6 265-199-0 Carcinogenic cat.1A/\nMutagenic cat.1B\n54. Nitrobenzene Nitrobenzene;\nBenzene, nitro- 98-95-3 202-716-0 Toxic to reproduction cat.1B\n55. N-methylformamide N-methylformamide; Formamide, N-methyl- 123-39-7 204-624-6 Toxic to reproduction cat.1B\n56. Nonyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. 4-(3,5-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,3-dimethylpentyl)-;\n4-(1-Ethyl-1,3-dimethylpentyl)phenol 186825-36-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n57. 4-(3,6-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,4-dimethylpentyl)-;\n4-(1-Ethyl-1,4-dimethylpentyl)phenol 142731-63-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n58. 4-(2-Methyloctan-2-yl)phenol\np-(1,1-Dimethylheptyl)phenol;\nPhenol, 4-(1,1-dimethylheptyl)- 30784-30-6 250-339-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n59. 4-(3-Methyloctan-3-yl)phenol\nPhenol, 4-(1-ethyl-1-methylhexyl)-;\n4-(1-Ethyl-1-methylhexyl)phenol; 52427-13-1 257-907-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n60. 4-Nonylphenol\np-Nonylphenol;\nPhenol, 4-nonyl- 104-40-5 203-199-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n61. Isononylphenol 11066-49-2 234-284-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n62. p-Isononylphenol;\nPhenol, 4-isononyl- 26543-97-5 247-770-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n63. Nonylphenol;\nPhenol, nonyl- 25154-52-3 246-672-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n64. Phenol, 4-(1-methyloctyl)-;\np-(1-Methyloctyl)phenol 17404-66-9 241-427-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n65. Phenol, 4-nonyl-, branched 84852-15-3 284-325-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n66. Phenol, nonyl-, branched 90481-04-2 291-844-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n67. Nonyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Nonylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy- 500-024-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n68. 4-Nonylphenol, branched, 1 – 2,5 moles ethoxylated\nPoly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 500-315-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n69. 4-Nonylphenol, 1 – 2,5 moles ethoxylated 500-045-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n70. 2-(2-{2-[2-(4-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethan-1-ol\n2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;\nEthanol, 2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 230-770-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n71. 2-[2-(4-Nonylphenoxy)ethoxy]ethanol;\nEthanol, 2-[2-(4-nonylphenoxy)ethoxy]- 20427-84-3 243-816-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n72. 20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol;\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20- (4-nonylphenoxy)- 27942-27-4 248-743-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n73. 2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethan-1-ol\nEthanol,2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n74. 26-(4-Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol\n3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-nonylphenoxy)- 14409-72-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n75. 17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol\n3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-nonylphenoxy)- 34166-38-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n76. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 127087-87-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n77. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy- 26027-38-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n78. Ethanol, 2-(4-nonylphenoxy) 104-35-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n79. Isononylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(isononylphenyl)-ω-hydroxy- 37205-87-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n80. 2-[2-(4-tert-Nonylphenoxy) ethoxy] ethanol\nEthanol, 2-[2-(4-tert-nonylphenoxy)ethoxy]- 156609-10-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n81. Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-\nNonylphenol, ethoxylated 9016-45-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n82. Octyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. p-Octylphenol;\n4-Octylphenol 1806-26-4 217-302-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n83. 4-(2,4,4-Trimethylpentan-2-yl)phenol;\n4-(1,1,3,3-Tetramethylbutyl)phenol;\n4-(tert-octyl) Phenol\nPhenol, 4-(1,1,3,3-tetramethylbutyl)-;\n4-tert-Octylphenol 140-66-9 205-426-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n84. Octylphenol;\nPhenol, octyl- 67554-50-1 266-717-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n85. Phenol, 2-isooctyl- 86378-08-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n86. Phenol, isooctyl-;\nIsooctylphenol 11081-15-5 234-304-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n87. Phenol, 2-octyl-;\no-Octylphenol 949-13-3 213-437-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n88. Phenol, 2-sec-octyl-;\no-sec-Octylphenol 26401-75-2 247-663-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n89. Phenol, 4-isooctyl-;\np-Isooctylphenol 27013-89-4 248-164-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n90. Phenol, 4-sec-octyl-;\np-sec-Octylphenol 27214-47-7 248-330-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n91. Phenol, sec-octyl-;\nsec-Octylphenol 93891-78-2 299-461-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n92. Phenol, 4-(1-ethylhexyl)-;\np-(1-Ethylhexyl)phenol 3307-00-4 221-989-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n93. Phenol, 2-(1-methylheptyl)-;\no-(1Methylheptyl)phenol 18626-98-7 242-459-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n94. Phenol, 2-(1-ethylhexyl)-;\no-(1-Ethylhexyl)phenol 17404-44-3 241-426-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n95. Phenol, 2-(1-propylpentyl)-;\no-(1-Propylpentyl)phenol 37631-10-0 253-574-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n96. Phenol, 4-(1-propylpentyl)-;\np-(1-Propylpentyl)phenol 3307 - 01-5 221-990-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n97. Phenol, 2-(1-methylheptyl)-;\no-(1,1,3,3-Tetramethylbutyl)phenol 3884-95-5 223-420-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n98. Phenol, (1,1,3,3-tetramethylbutyl)-;\n(1,1,3,3-Tetramethylbutyl)phenol 27193-28-8 248-310-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n99. Phenol, (1-methylheptyl)-;\n(1-Methylheptyl)phenol 27985-70-2 248-759-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n100. Phenol, 4-(2-methylheptyl)- 898546-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n101. Phenol, 2-(2-ethylhexyl)- 28752-62-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n102. Phenol, 4-(1-methylheptyl)-;\np-(1-Methylheptyl)phenol 1818-08-2 217-332-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n103. Phenol, 4-(2-ethylhexyl)- 69468-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n104. Phenol, 4-(5-methylheptyl)- 1824164-95-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n105. Phenol, 2-(2-methylheptyl)- 898546-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n106. Phenol, 4-(2-propylpentyl)- 119747-99-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n107. Phenol, 3-octyl- 20056-69-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n108. Phenol, 2-(1,1-dimethylhexyl)- 1824575-79-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n109. Phenol, 4-(1,1-dimethylhexyl)- 30784-29-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n110. Phenol, 4-(5,5-dimethylhexyl)- 13330-52-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n111. Phenol, 2-(5,5-dimethylhexyl)- 1822989-97-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n112. Phenol, 3-(1,1-dimethylhexyl)- 70435-92-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n113. Phenol, 4-(1,4-dimethylhexyl)- 164219-26-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n114. Octyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Poly(oxy-1,2-ethanediyl), α-[(1,1,3,3- tetramethylbutyl) phenyl]-ω-hydroxy-\n2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol\nPolyethylene Glycol Octylphenyl Ether; 9036-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n115. 2-[4-(2,4,4-Trimethylpentan-2-yl)phenoxy]ethanol\nPoly(oxy-1,2-ethanediyl), α-[4-(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-\nOctylphenol ethoxylated 9002-93-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n116. 20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-59-8 219-682-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n117. Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-67-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n118. Ethanol, 2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]- 2315-61-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n119. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-octylphenoxy)-; 42173-90-0 255-695-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n120. Poly(oxy-1,2-ethanediyl), α-(octylphenyl)-ω-hydroxy-, branched 68987-90-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n121. Poly(oxy-1,2-ethanediyl), α-[4-(6-methylheptyl)phenyl]-ω-hydroxy- 59379-12-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n122. Ethanol, 2-(4-octylphenoxy)-;\n2-(p-Octylphenoxy)ethanol 51437-89-9 257-203-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n123. Poly(oxy-1,2-ethanediyl), α-(4-octylphenyl)-ω-hydroxy- 26636-32-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n124. Poly(oxy-1,2-ethanediyl), α-[4-(1-methylheptyl)phenyl]-ω-hydroxy- 73935-42-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n125. 3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-(4-octylphenoxy)-;\n20-(4-Octylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol 32742-88-4 251-190-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n126. Ethanol, 2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]-;\n2-(p-Octylphenoxy)ethanol 51437-92-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n127. Ethanol, 2-[2-(4-octylphenoxy)ethoxy]- 51437-90-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n128. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-octylphenoxy)- 51437-94-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n129. Poly(oxy-1,2-ethanediyl), α-(isooctylphenyl)-ω-hydroxy- 9004-87-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n130. 2-[2-[2-(4-Octylphenoxy)ethoxy]ethoxy]ethanol 51437-91-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n131. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-58-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n132. Ethanol, 2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]- 2315-62-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n133. Ethanol, 2-[2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]ethoxy]- 2315-63-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n134. 3,6,9,12-Tetraoxatetradecan-1-ol, 14-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-64-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n135. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-65-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n136. 3,6,9,12,15,18,21,24,27-Nonaoxanonacosan-1-ol, 29-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-66-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n137. Ethanol, 2-[3-(1,1,3,3-tetramethylbutyl)phenoxy]- 1026254-24-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n138. Ethanol, 2-[2-(1,1,3,3-tetramethylbutyl)phenoxy]- 84658-53-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n139. Ethanol, 2-[2-(octylphenoxy)ethoxy]- 27176-92-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n140. N, N-Dimethylformamide N, N-dimethylformamide; Dimethyl formamide, DMF 68-12-2 200-679-5 Toxic to reproduction cat.1B\n141. Prop-2-enamide Acrylamide; 2-propenamide 79-06-1 201-173-7 Carcinogenic cat.1B/\nMutagenic cat.1B\n142. Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7) 68391-11-7 269-929-9 Carcinogenic cat.1A/\nMutagenic cat.1B\n143. Quinoline Quinoline 91-22-5 202-051-6 Carcinogenic cat.1B\n144. Tetrahydrofurfuryl Alcohol Tetrahydrofurfuryl alcohol;\n2-Furanmethanol, tetrahydro- 97-99-4 202-625-6 Toxic to reproduction cat.1B",
+        "after": "ANNEX III\nList of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27\nThe limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.\nThe limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.\nNo Name EC names/Other names CAS number EC number Classification/Other properties\n1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B\n2. 1,2- Dichloroethane 1,2-Dichloroethane;\nEthane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B\n3. 2-Ethoxyethanol 2-Ethoxyethanol;\nEthanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B\n4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B\n5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;\nN-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B\n6. 2-Methoxyethanol 2-Methoxyethanol;\nEthanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B\n7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;\nEthanol, 2-methoxy-, 1-acetate;\n2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B\n8. 2-Methoxypropanol 2-Methoxypropanol;\n1-Propanol, 2-methoxy- 1589-47-5 216-455-5 Toxic to reproduction cat.1B\n9. 1-Methylpyrrolidin-2-one 1-Methyl-2-pyrrolidone;\n2-Pyrrolidinone, 1-methyl- 872-50-4 212-828-1 Toxic to reproduction cat.1B\n10. 2-Nitropropane 2-Nitropropane;\nPropane, 2-nitro- 79-46-9 201-209-1 Carcinogenic cat.1B\n11. Amines, tallow alkyl, ethoxylated Amines, tallow alkyl, ethoxylated;\nPOE-tallowamine 61791-26-2 Concerns or data gaps related to potential effects on human health or the environment\n12. Amines, tallow alkyl, ethoxylated propoxylated Amines, tallow alkyl, ethoxylated propoxylated;\nPOEP-tallowamine 68213-26-3 Concerns or data gaps related to potential effects on human health or the environment\n13. Asbestos fibres Actinolite asbestos;\nAsbestos, actinolyte 77536-66-4 Carcinogenic cat.1A\n14. Amosite asbestos;\nAsbestos, amosite 12172-73-5 Carcinogenic cat.1A\n15. Anthophyllite asbestos;\nAsbestos, anthophyllite 77536-67-5 Carcinogenic cat.1A\n16. Chrysotile asbestos;\nAsbestol, chrysotile 12001-29-5 Carcinogenic cat.1A\n17. Crocidolite asbestos;\nAsbestos, crocidolite 12001-28-4 Carcinogenic cat.1A\n18. Tremolite asbestos;\nAsbestos, tremolite 77536-68-6 Carcinogenic cat.1A\n19. Benzene Benzene 71-43-2 200-753-7 Carcinogenic cat.1A/\nMutagenic cat.1B\n20. Benzo[def]chrysene;\nBenzo[pqr]tetraphene Benzo[def]chrysene;\nBenzo[a]pyrene 50-32-8 200-028-5 Carcinogenic cat.1B/Mutagenic cat.1B/\nToxic to reproduction cat.1B\n21. Bis(2-methylpropyl) benzene-1,2-dicarboxylate Diisobutyl phthalate 84-69-5 201-553-2 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n22. Boric acid Boric acid 10043-35-3\n11113-50-1 233-139-2\n234-343-4 Toxic to reproduction cat.1B\n23. Disodium octaborate Disodium octaborate; Disodium octaborate anhydrous 12008-41-2 234-541-0 Toxic to reproduction cat.1B\n24. Disodium octaborate, tetrahydrate Boric acid, disodium salt, tetrahydrate; 12280-03-4 234-541-0 Toxic to reproduction cat.1B\n25. Disodium tetraborate, anhydrous Disodium tetraborate, anhydrous;\nBoron sodium oxide 1330-43-4 215-540-4 Toxic to reproduction cat.1B\n26. Disodium tetraborate, decahydrate Borax 1303-96-4 215-540-4 Toxic to reproduction cat.1B\n27. Disodium tetraborate, pentahydrate Boron sodium oxide, hydrated 12179-04-3 215-540-4 Toxic to reproduction cat.1B\n28. Orthoboric acid, sodium salt Orthoboric acid, sodium salt; Boric acid, sodium salt 13840-56-7 237-560-2 Toxic to reproduction cat.1B\n29. Tetraboron disodium heptaoxide, hydrate Tetraboron disodium heptaoxide, hydrate;\nBoron sodium oxide, hydrate 12267-73-1 235-541-3 Toxic to reproduction cat.1B\n30. Buta-1,3-diene Buta-1,3-diene;\n1,3-Butadiene 106-99-0 203-450-8 Carcinogenic cat.1A/\nMutagenic cat.1B\n31. Butane\ncontaining ≥ 0,1 % butadiene (EC No 203-450-8) Butane 106-97-8 203-448-7 Carcinogenic cat.1A\n32. Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride Guanidine, N,N\"’-1,6-hexanediylbis[N’-cyano-, polymer with 1,6-hexanediamine, hydrochloride\nPoly[iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl], hydrochloride\nCyanamide, N-cyano-, compd. with 1,6-hexanediamine (2:1), polymer with 1,6-hexanediamine hydrochloride (1:2);\nPHMB 27083-27-8\nand\n32289-58-0\nand\n1802181-67-4 Not approved for use in biocidal products for product-type 6 (in-can preservatives).\n33. Dibutyl phthalate n-Butyl phthalate;\nDibutyl benzene-1,2-dicarboxylate 84-74-2 201-557-4 Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B\n34. Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-52-5 265-155-0 Carcinogenic cat.1B\n35. Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-54-7 265-157-1 Carcinogenic cat.1B\n36. Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-53-6 265-156-6 Carcinogenic cat.1B\n37. Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-55-8 265-158-7 Carcinogenic cat.1B\n38. Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-65-0 265-169-7 Carcinogenic cat.1B\n39. Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-88-4 265-090-8 Carcinogenic cat.1B\n40. Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64741-89-5 265-091-3 Carcinogenic cat.1B\n41. Ethylene oxide Ethylene oxide; Oxyrane; Epoxyethane 75-21-8 200-849-9 Carcinogenic cat.1B/\nMutagenic cat. 1B\n42. Formaldehyde Formaldehyde; Formalin; Methanal;,Formol 50-00-0 200-001-8 Carcinogenic cat.1B\n43. Formamide Formamide; Methanamide 75-12-7 200-842-0 Toxic to reproduction cat.1B\n44. Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8)) Isobutane; Propane, 2-methyl- 75-28-5 200-857-2 Carcinogenic cat.1A/\nMutagenic cat. 1B\n45. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-85-9 276-736-3 Carcinogenic cat.1B\n46. Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-86-0 276-737-9 Carcinogenic cat.1B\n47. Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 72623-87-1 276-738-4 Carcinogenic cat.1B\n48. Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 101316-70-5 309-875-6 Carcinogenic cat.1B\n49. Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64741-65-7 265-067-2 Carcinogenic cat.1B/\nMutagenic cat.1B\n50. Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-82-1 265-185-4 Carcinogenic cat.1A/\nMutagenic cat.1B\n51. Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7) 92045-53-9 295-434-2 Carcinogenic cat.1A/\nMutagenic cat.1B\n52. Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7) 64742-48-9 265-150-3 Carcinogenic cat.1A/\nMutagenic cat.1B\n53. Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7) 64742-95-6 265-199-0 Carcinogenic cat.1A/\nMutagenic cat.1B\n54. Nitrobenzene Nitrobenzene;\nBenzene, nitro- 98-95-3 202-716-0 Toxic to reproduction cat.1B\n55. N-methylformamide N-methylformamide; Formamide, N-methyl- 123-39-7 204-624-6 Toxic to reproduction cat.1B\n56. Nonyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. 4-(3,5-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,3-dimethylpentyl)-;\n4-(1-Ethyl-1,3-dimethylpentyl)phenol 186825-36-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n57. 4-(3,6-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,4-dimethylpentyl)-;\n4-(1-Ethyl-1,4-dimethylpentyl)phenol 142731-63-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n58. 4-(2-Methyloctan-2-yl)phenol\np-(1,1-Dimethylheptyl)phenol;\nPhenol, 4-(1,1-dimethylheptyl)- 30784-30-6 250-339-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n59. 4-(3-Methyloctan-3-yl)phenol\nPhenol, 4-(1-ethyl-1-methylhexyl)-;\n4-(1-Ethyl-1-methylhexyl)phenol; 52427-13-1 257-907-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n60. 4-Nonylphenol\np-Nonylphenol;\nPhenol, 4-nonyl- 104-40-5 203-199-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n61. Isononylphenol 11066-49-2 234-284-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n62. p-Isononylphenol;\nPhenol, 4-isononyl- 26543-97-5 247-770-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n63. Nonylphenol;\nPhenol, nonyl- 25154-52-3 246-672-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n64. Phenol, 4-(1-methyloctyl)-;\np-(1-Methyloctyl)phenol 17404-66-9 241-427-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n65. Phenol, 4-nonyl-, branched 84852-15-3 284-325-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n66. Phenol, nonyl-, branched 90481-04-2 291-844-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n67. Nonyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Nonylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy- 500-024-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n68. 4-Nonylphenol, branched, 1 – 2,5 moles ethoxylated\nPoly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 500-315-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n69. 4-Nonylphenol, 1 – 2,5 moles ethoxylated 500-045-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n70. 2-(2-{2-[2-(4-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethan-1-ol\n2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;\nEthanol, 2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 230-770-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n71. 2-[2-(4-Nonylphenoxy)ethoxy]ethanol;\nEthanol, 2-[2-(4-nonylphenoxy)ethoxy]- 20427-84-3 243-816-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n72. 20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol;\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20- (4-nonylphenoxy)- 27942-27-4 248-743-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n73. 2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethan-1-ol\nEthanol,2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- 7311-27-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n74. 26-(4-Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol\n3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-nonylphenoxy)- 14409-72-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n75. 17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol\n3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-nonylphenoxy)- 34166-38-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n76. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched 127087-87-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n77. Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy- 26027-38-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n78. Ethanol, 2-(4-nonylphenoxy) 104-35-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n79. Isononylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(isononylphenyl)-ω-hydroxy- 37205-87-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n80. 2-[2-(4-tert-Nonylphenoxy) ethoxy] ethanol\nEthanol, 2-[2-(4-tert-nonylphenoxy)ethoxy]- 156609-10-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n81. Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-\nNonylphenol, ethoxylated 9016-45-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n82. Octyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. p-Octylphenol;\n4-Octylphenol 1806-26-4 217-302-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n83. 4-(2,4,4-Trimethylpentan-2-yl)phenol;\n4-(1,1,3,3-Tetramethylbutyl)phenol;\n4-(tert-octyl) Phenol\nPhenol, 4-(1,1,3,3-tetramethylbutyl)-;\n4-tert-Octylphenol 140-66-9 205-426-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n84. Octylphenol;\nPhenol, octyl- 67554-50-1 266-717-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n85. Phenol, 2-isooctyl- 86378-08-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n86. Phenol, isooctyl-;\nIsooctylphenol 11081-15-5 234-304-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n87. Phenol, 2-octyl-;\no-Octylphenol 949-13-3 213-437-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n88. Phenol, 2-sec-octyl-;\no-sec-Octylphenol 26401-75-2 247-663-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n89. Phenol, 4-isooctyl-;\np-Isooctylphenol 27013-89-4 248-164-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n90. Phenol, 4-sec-octyl-;\np-sec-Octylphenol 27214-47-7 248-330-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n91. Phenol, sec-octyl-;\nsec-Octylphenol 93891-78-2 299-461-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n92. Phenol, 4-(1-ethylhexyl)-;\np-(1-Ethylhexyl)phenol 3307-00-4 221-989-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n93. Phenol, 2-(1-methylheptyl)-;\no-(1Methylheptyl)phenol 18626-98-7 242-459-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n94. Phenol, 2-(1-ethylhexyl)-;\no-(1-Ethylhexyl)phenol 17404-44-3 241-426-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n95. Phenol, 2-(1-propylpentyl)-;\no-(1-Propylpentyl)phenol 37631-10-0 253-574-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n96. Phenol, 4-(1-propylpentyl)-;\np-(1-Propylpentyl)phenol 3307 - 01-5 221-990-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n97. Phenol, 2-(1-methylheptyl)-;\no-(1,1,3,3-Tetramethylbutyl)phenol 3884-95-5 223-420-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n98. Phenol, (1,1,3,3-tetramethylbutyl)-;\n(1,1,3,3-Tetramethylbutyl)phenol 27193-28-8 248-310-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n99. Phenol, (1-methylheptyl)-;\n(1-Methylheptyl)phenol 27985-70-2 248-759-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n100. Phenol, 4-(2-methylheptyl)- 898546-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n101. Phenol, 2-(2-ethylhexyl)- 28752-62-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n102. Phenol, 4-(1-methylheptyl)-;\np-(1-Methylheptyl)phenol 1818-08-2 217-332-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n103. Phenol, 4-(2-ethylhexyl)- 69468-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n104. Phenol, 4-(5-methylheptyl)- 1824164-95-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n105. Phenol, 2-(2-methylheptyl)- 898546-20-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n106. Phenol, 4-(2-propylpentyl)- 119747-99-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n107. Phenol, 3-octyl- 20056-69-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n108. Phenol, 2-(1,1-dimethylhexyl)- 1824575-79-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n109. Phenol, 4-(1,1-dimethylhexyl)- 30784-29-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n110. Phenol, 4-(5,5-dimethylhexyl)- 13330-52-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n111. Phenol, 2-(5,5-dimethylhexyl)- 1822989-97-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n112. Phenol, 3-(1,1-dimethylhexyl)- 70435-92-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n113. Phenol, 4-(1,4-dimethylhexyl)- 164219-26-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n114. Octyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. Poly(oxy-1,2-ethanediyl), α-[(1,1,3,3- tetramethylbutyl) phenyl]-ω-hydroxy-\n2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol\nPolyethylene Glycol Octylphenyl Ether; 9036-19-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n115. 2-[4-(2,4,4-Trimethylpentan-2-yl)phenoxy]ethanol\nPoly(oxy-1,2-ethanediyl), α-[4-(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-\nOctylphenol ethoxylated 9002-93-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n116. 20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-59-8 219-682-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n117. Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-67-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n118. Ethanol, 2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]- 2315-61-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n119. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-octylphenoxy)-; 42173-90-0 255-695-5 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n120. Poly(oxy-1,2-ethanediyl), α-(octylphenyl)-ω-hydroxy-, branched 68987-90-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n121. Poly(oxy-1,2-ethanediyl), α-[4-(6-methylheptyl)phenyl]-ω-hydroxy- 59379-12-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n122. Ethanol, 2-(4-octylphenoxy)-;\n2-(p-Octylphenoxy)ethanol 51437-89-9 257-203-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n123. Poly(oxy-1,2-ethanediyl), α-(4-octylphenyl)-ω-hydroxy- 26636-32-8 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n124. Poly(oxy-1,2-ethanediyl), α-[4-(1-methylheptyl)phenyl]-ω-hydroxy- 73935-42-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n125. 3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-(4-octylphenoxy)-;\n20-(4-Octylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol 32742-88-4 251-190-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n126. Ethanol, 2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]-;\n2-(p-Octylphenoxy)ethanol 51437-92-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n127. Ethanol, 2-[2-(4-octylphenoxy)ethoxy]- 51437-90-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n128. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-octylphenoxy)- 51437-94-6 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n129. Poly(oxy-1,2-ethanediyl), α-(isooctylphenyl)-ω-hydroxy- 9004-87-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n130. 2-[2-[2-(4-Octylphenoxy)ethoxy]ethoxy]ethanol 51437-91-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n131. 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2497-58-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n132. Ethanol, 2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]- 2315-62-0 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n133. Ethanol, 2-[2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]ethoxy]- 2315-63-1 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n134. 3,6,9,12-Tetraoxatetradecan-1-ol, 14-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-64-2 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n135. 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-65-3 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n136. 3,6,9,12,15,18,21,24,27-Nonaoxanonacosan-1-ol, 29-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- 2315-66-4 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n137. Ethanol, 2-[3-(1,1,3,3-tetramethylbutyl)phenoxy]- 1026254-24-9 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n138. Ethanol, 2-[2-(1,1,3,3-tetramethylbutyl)phenoxy]- 84658-53-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n139. Ethanol, 2-[2-(octylphenoxy)ethoxy]- 27176-92-7 Endocrine disrupting properties (REACH Article 57(f) – Environment)\n140. N, N-Dimethylformamide N, N-dimethylformamide; Dimethyl formamide, DMF 68-12-2 200-679-5 Toxic to reproduction cat.1B\n141. Prop-2-enamide Acrylamide; 2-propenamide 79-06-1 201-173-7 Carcinogenic cat.1B/\nMutagenic cat.1B\n142. Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7) 68391-11-7 269-929-9 Carcinogenic cat.1A/\nMutagenic cat.1B\n143. Quinoline Quinoline 91-22-5 202-051-6 Carcinogenic cat.1B\n144. Tetrahydrofurfuryl Alcohol Tetrahydrofurfuryl alcohol;\n2-Furanmethanol, tetrahydro- 97-99-4 202-625-6 Toxic to reproduction cat.1B\n145. Acetaldehyde Ethanal 75-07-0 200-836-8 Carcinogenic cat. 1B\n146. Propylene oxide 1,2-epoxypropane;\nmethyloxirane 75-56-9 200-879-2 Carcinogenic cat. 1B/\nMutagenic cat. 1B\n147. Cumene (1-Methylethyl)benzene 98-82-8 202-704-5 Carcinogenic cat. 1B\n148. Dodecamethylcyclohexasiloxane; (D6) 540-97-6 208-762-8 Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)\n149. Decamethylcyclopentasiloxane; (D5) 541-02-6 208-764-9 Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)\n150. Octamethylcyclotetrasiloxane; (D4) 556-67-2 209-136-7 Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)\n151. 2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazole Bumetrizole 3896-11-5 223-445-4 Very persistent and very bioaccumulative (REACH Article 57(e)\n152. Distillates (petroleum) solvent-dewaxed light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346) 64742-56-9 265-159-2 Carcinogenic cat. 1B\n153. 3,5,7-Triaza-1-azoniatricyclo[3.3.1.1 3,7] decane,1-(3-chloro-2-propen-1-yl)-, chloride Methenamine\n3-chloroallylochloride\n(CTAC) 4080-31-3 223-805-0 Not approved for use in biocidal products for product-type 6 (preservatives for products during storage)\n154. Phosphinic acid, bis(perfluoro-C6-12-alkyl) derivatives 68412-69-1 270-206-5 Persistent organic pollutant (POP)\n155. 1,4-dioxane 123-91-1 204-661-8 Carcinogenic cat. 1B\n156. 2-(4-tert-butylbenzyl)propionaldehyde 80-54-6 201-289-8 Toxic to reproduction cat.1B",
+        "previous_location": null,
+        "changed_within": [
+          "AN III"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1120",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-06-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1120 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32026R1120, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The AFTER text adds twelve new numbered entries (145 through 156) to the table of co-formulants not accepted for inclusion in plant protection products, listing substances such as acetaldehyde, propylene oxide, cumene, several cyclosiloxanes, bumetrizole, a further petroleum distillate, a quaternary ammonium chloride compound, a perfluoroalkyl phosphinic acid derivative, 1,4-dioxane and a propionaldehyde derivative, each with its associated names, CAS/EC numbers and classification or property.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20260616",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III",
+              "label": "Annex III, 02009R1107-20260616"
+            }
+          ]
+        },
+        {
+          "text": "All 144 entries present in the BEFORE version remain unchanged in content and order in the AFTER version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20221121",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20221121#anx_III",
+              "label": "Annex III, 02009R1107-20221121"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20260616",
+                "location": "AN III"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III",
+              "label": "Annex III, 02009R1107-20260616"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1107",
+      "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+    },
+    "from_version": "02009R1107-20221121",
+    "to_version": "02009R1107-20260616",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN III"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN III"
+        ],
+        "note": "1 annotations in (2022-11-21, 2026-06-16]",
+        "claims": [
+          {
+            "location": "AN III PO 145-156",
+            "change_type": "INSERTED",
+            "in_force": "2026-06-16",
+            "source": "32026R1120 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1120",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32026R1120, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN III",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 28398,
+      "output_tokens": 327,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

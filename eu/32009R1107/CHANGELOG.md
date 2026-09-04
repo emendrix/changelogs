@@ -10,6 +10,73 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20260616 -->
+## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
+### `02009R1107-20221121` → `02009R1107-20260616`
+
+- **Act** `eu:32009R1107` · **In force** 2026-06-16 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1107-20221121` · `v2` = `02009R1107-20260616`
+
+---
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III` · *amended by* `32026R1120`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The AFTER text adds twelve new numbered entries (145 through 156) to the table of co-formulants not accepted for inclusion in plant protection products, listing substances such as acetaldehyde, propylene oxide, cumene, several cyclosiloxanes, bumetrizole, a further petroleum distillate, a quaternary ammonium chloride compound, a perfluoroalkyl phosphinic acid derivative, 1,4-dioxane and a propionaldehyde derivative, each with its associated names, CAS/EC numbers and classification or property. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III)
+
+All 144 entries present in the BEFORE version remain unchanged in content and order in the AFTER version. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20221121#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III)
+
+*before* (`02009R1107-20221121`)
+
+> ANNEX III
+> List of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27
+> The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.
+> The limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.
+> No Name EC names/Other names CAS number EC number Classification/Other properties
+> 1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B
+> 2. 1,2- Dichloroethane 1,2-Dichloroethane;
+> Ethane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B
+> 3. 2-Ethoxyethanol 2-Ethoxyethanol;
+> Ethanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B
+> 4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B
+> 5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;
+> N-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B
+> 6. 2-Methoxyethanol 2-Methoxyethanol;
+> Ethanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B
+> 7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;
+> Ethanol, 2-methoxy-, 1-acetate;
+> 2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B
+> 8. 2-Methoxyprop […truncated by emendrix: 21156 characters omitted…]
+
+*after* (`02009R1107-20260616`)
+
+> ANNEX III
+> List of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27
+> The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.
+> The limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008.
+> No Name EC names/Other names CAS number EC number Classification/Other properties
+> 1. 1-Chloro-2,3-epoxypropane Epichlorohydrin, 2,3-Epoxypropyl chloride 106-89-8 203-439-8 Carcinogenic cat.1B
+> 2. 1,2- Dichloroethane 1,2-Dichloroethane;
+> Ethane, 1,2-dichloro- 107-06-2 203-458-1 Carcinogenic cat.1B
+> 3. 2-Ethoxyethanol 2-Ethoxyethanol;
+> Ethanol, 2-ethoxy- 110-80-5 203-804-1 Toxic to reproduction cat.1B
+> 4. 2-Ethoxyethyl acetate 2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate 111-15-9 203-839-2 Toxic to reproduction cat.1B
+> 5. 1-Ethylpyrrolidin-2-one 1-Ethylpyrrolidin-2-one;
+> N-ethyl-2-pyrrolidone 2687-91-4 220-250-6 Toxic to reproduction cat.1B
+> 6. 2-Methoxyethanol 2-Methoxyethanol;
+> Ethanol, 2-methoxy- 109-86-4 203-713-7 Toxic to reproduction cat.1B
+> 7. 2-Methoxyethyl acetate 2-Methoxyethyl acetate;
+> Ethanol, 2-methoxy-, 1-acetate;
+> 2-Methoxyethanol acetate 110-49-6 203-772-9 Toxic to reproduction cat.1B
+> 8. 2-Methoxyprop […truncated by emendrix: 22804 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1107-20260616 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20221121 -->
 ## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
 ### `02009R1107-20210327` → `02009R1107-20221121`
