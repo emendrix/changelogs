@@ -37123,7 +37123,7 @@ The new provision also states that the report shall take into account regulatory
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20160719`)
 
