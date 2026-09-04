@@ -2514,28 +2514,16 @@ The prior text's separate provision allowing a six-month extension of the deadli
 ### `02012R0648-20210211` → `02012R0648-20210213`
 
 - **Act** `eu:32012R0648` · **In force** 2021-02-13 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 126 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 126 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20210211` · `v2` = `02012R0648-20210213`
 
 ---
 
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32021R0168`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 13a — Amendments to legacy contracts for the purpose of the implementation of benchmark reforms** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 13a`, `AR 13a PA 1 ALN 1`, `AR 13a PA 2 ALN 1`, `AR 13a PA 3` · *dates* -2021-02-11 +2021-02-13 · *amended by* `32021R0168`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading changes from a narrower reference to replacing interest rate benchmarks in legacy trades to a broader heading covering amendments to legacy contracts for the implementation of benchmark reforms. [Art. 13a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a) [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_13a)
 
