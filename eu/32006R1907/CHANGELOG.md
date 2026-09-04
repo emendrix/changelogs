@@ -1091,28 +1091,16 @@ In entries 28 to 30, a new point (f) was added to the derogation list in paragra
 ### `02006R1907-20200824` → `02006R1907-20210101`
 
 - **Act** `eu:32006R1907` · **In force** 2021-01-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20200824` · `v2` = `02006R1907-20210101`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32020R0878`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex II — REQUIREMENTS FOR THE COMPILATION OF SAFETY DATA SHEETS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II`, `AN II SCT 0.1`, `AN II SCT 0.1 SCT 0.1.1`, `AN II SCT 0.1 SCT 0.1.2`, `AN II SCT 0.2`, `AN II SCT 0.2 SCT 0.2.1`, `AN II SCT 0.2 SCT 0.2.2`, `AN II SCT 0.2 SCT 0.2.3`, `AN II SCT 0.2 SCT 0.2.4`, `AN II SCT 0.2 SCT 0.2.5`, `AN II SCT 0.5`, `AN II SCT 0.7 SCT 1`, `AN II SCT 0.7 SCT 2`, `AN II SCT 0.7 SCT 3`, `AN II SCT 0.7 SCT 4`, `AN II SCT 0.7 SCT 5`, `AN II SCT 0.7 SCT 6`, `AN II SCT 0.7 SCT 7`, `AN II SCT 0.7 SCT 8`, `AN II SCT 0.7 SCT 9`, `AN II SCT 0.7 SCT 10`, `AN II SCT 0.7 SCT 11`, `AN II SCT 0.7 SCT 12`, `AN II SCT 0.7 SCT 13`, `AN II SCT 0.7 SCT 14`, `AN II SCT 0.7 SCT 15`, `AN II SCT 0.7 SCT 16`, `AN II SCT 1`, `AN II SCT 1 SCT 1.1`, `AN II SCT 1 SCT 1.2`, `AN II SCT 1 SCT 1.3`, `AN II SCT 1 SCT 1.4`, `AN II SCT 2`, `AN II SCT 2 SCT 2.1`, `AN II SCT 2 SCT 2.2`, `AN II SCT 2 SCT 2.3`, `AN II SCT 3`, `AN II SCT 3 SCT 3.1`, `AN II SCT 3 SCT 3.2`, `AN II SCT 4`, `AN II SCT 4 SCT 4.1`, `AN II SCT 4 SCT 4.2`, `AN II SCT 4 SCT 4.3`, `AN II SCT 5`, `AN II SCT 5 SCT 5.1`, `AN II SCT 5 SCT 5.2`, `AN II SCT 5 SCT 5.3`, `AN II SCT 6`, `AN II SCT 6 SCT 6.1`, `AN II SCT 6 SCT 6.2`, `AN II SCT 6 SCT 6.3`, `AN II SCT 6 SCT 6.4`, `AN II SCT 7`, `AN II SCT 7 SCT 7.1`, `AN II SCT 7 SCT 7.2`, `AN II SCT 7 SCT 7.3`, `AN II SCT 8`, `AN II SCT 8 SCT 8.1`, `AN II SCT 8 SCT 8.2`, `AN II SCT 9`, `AN II SCT 9 SCT 9.1`, `AN II SCT 9 SCT 9.2`, `AN II SCT 10`, `AN II SCT 10 SCT 10.1`, `AN II SCT 10 SCT 10.2`, `AN II SCT 10 SCT 10.3`, `AN II SCT 10 SCT 10.4`, `AN II SCT 10 SCT 10.5`, `AN II SCT 10 SCT 10.6`, `AN II SCT 11`, `AN II SCT 11 SCT 11.1`, `AN II SCT 12`, `AN II SCT 12 SCT 12.1`, `AN II SCT 12 SCT 12.2`, `AN II SCT 12 SCT 12.3`, `AN II SCT 12 SCT 12.4`, `AN II SCT 12 SCT 12.5`, `AN II SCT 12 SCT 12.6`, `AN II SCT 13`, `AN II SCT 13 SCT 13.1`, `AN II SCT 14`, `AN II SCT 14 SCT 14.1`, `AN II SCT 14 SCT 14.2`, `AN II SCT 14 SCT 14.3`, `AN II SCT 14 SCT 14.4`, `AN II SCT 14 SCT 14.5`, `AN II SCT 14 SCT 14.6`, `AN II SCT 14 SCT 14.7`, `AN II SCT 15`, `AN II SCT 15 SCT 15.1`, `AN II SCT 15 SCT 15.2`, `AN II SCT 16`, `AN II SCT 16 PTA (a)`, `AN II SCT 16 PTA (b)`, `AN II SCT 16 PTA (c)`, `AN II SCT 16 PTA (d)`, `AN II SCT 16 PTA (e)`, `AN II SCT 16 PTA (f)` · *dates* -1989-12-21 -1996-12-09 -2007-01-01 -2009-01-01 -2015-01-01 +2002-06-27 +2016-03-09 +2017-09-04 +2018-04-19 · *amended by* `32020R0878`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The Annex II text on safety data sheet requirements has been substantially rewritten across nearly all sections, adding new provisions such as a 0.1.3 subsection on nanoforms, references to endocrine-disrupting property criteria under Delegated Regulation (EU) 2017/2100 and Regulation (EU) 2018/605, a unique formula identifier (UFI) reference in subsection 1.1, and revised concentration thresholds and sensitiser categories in Table 1.1 and subsections 3.2.1 to 3.2.3. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200824#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210101#anx_II)
 
