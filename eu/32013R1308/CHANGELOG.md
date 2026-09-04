@@ -10,6 +10,2415 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20211207 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20201229` → `02013R1308-20211207`
+
+- **Act** `eu:32013R1308` · **In force** 2021-01-01, 2021-12-07 · **Detected** 2026-09-04
+- **Touched** 92 provisions — 92 substantive · 0 date-only · **38 disputed**
+- **Diff** 10 inserted · 70 modified · 12 deleted · 0 renumbered · 0 deferred · 191 unchanged
+- **Gate** 0 sentences quoted verbatim · 29 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20201229` · `v2` = `02013R1308-20211207`
+
+---
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 3** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5 — Conversion rates for rice** · applies from: unchanged
+
+*within* `AR 5 ALN 1`, `AR 5 ALN 1 PTA (a)`, `AR 5 ALN 1 PTA (b)` · *amended by* `32021R2117`
+
+The provision no longer lists processing costs and the value of by-products as matters covered by the conversion-rate implementing acts, retaining only the fixing of conversion rates for rice at various stages of processing. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_5)
+
+The separate point authorizing the Commission to adopt all necessary measures regarding the application of conversion rates for rice has been removed. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_5)
+
+*before* (`02013R1308-20201229`)
+
+> Article 5
+> Conversion rates for rice
+> The Commission may adopt implementing acts:
+> (a) fixing the conversion rates for rice at various stages of processing, the processing costs and the value of by-products;
+> (b) adopting all necessary measures regarding the application of conversion rates for rice.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20211207`)
+
+> Article 5
+> Conversion rates for rice
+> The Commission may adopt implementing acts fixing the conversion rates for rice at various stages of processing.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**MODIFIED · Art. 6 — Marketing years** · applies from: unchanged
+
+*within* `AR 6 ALN 1 PTA (c) PTI (iii)`, `AR 6 ALN 1 PTA (c) PTI (iv)`, `AR 6 ALN 1 PTA (c) PTI (v)`, `AR 6 ALN 1 PTA (e)`, `AR 6 ALN 1 PTA (f)` · *amended by* `32021R2117`
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02013R1308-20201229`)
+
+> Article 6
+> Marketing years
+> The following marketing years shall be established:
+> (a) 1 January to 31 December of a given year for the fruit and vegetables, processed fruit and vegetables and banana sectors;
+> (b) 1 April to 31 March of the following year for the dried fodder and silkworm sectors;
+> (c) 1 July to 30 June of the following year for:
+> (i) the cereals sector;
+> (ii) the seeds sector;
+> (iii) the olive oil and table olives sector;
+> (iv) the flax and hemp sector;
+> (v) the milk and milk products sector;
+> (d) 1 August to 31 July of the following year for the wine sector;
+> (e) 1 September to 31 August of the following year for the rice sector;
+> (f) 1 October to 30 September of the following year for the sugar sector.
+
+*after* (`02013R1308-20211207`)
+
+> Article 6
+> Marketing years
+> The following marketing years shall be established:
+> (a) 1 January to 31 December of a given year for the fruit and vegetables, processed fruit and vegetables and banana sectors;
+> (b) 1 April to 31 March of the following year for the dried fodder and silkworm sectors;
+> (c) 1 July to 30 June of the following year for:
+> (i) the cereals sector;
+> (ii) the seeds sector;
+> (iii) the flax and hemp sector;
+> (iv) the milk and milk products sector;
+> (d) 1 August to 31 July of the following year for the wine sector;
+> (e) 1 September to 31 August of the following year for the rice sector and with respect to table olives;
+> (f) 1 October to 30 September of the following year for the sugar sector and with respect to olive oil.
+
+**MODIFIED · Art. 12 — Public intervention periods** · applies from: unchanged
+
+*within* `AR 12 ALN 1 PTA (a)`, `AR 12 ALN 1 PTA (b)`, `AR 12 ALN 1 PTA (c)`, `AR 12 ALN 1 PTA (d)`, `AR 12 ALN 1 PTA (e)` · *amended by* `32021R2117`
+
+The provision now separates common wheat from durum wheat, barley and maize, listing common wheat alone with a period from 1 October to 31 May, while durum wheat, barley and maize are moved to a new point covering the whole year. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_12)
+
+Paddy rice, previously limited to 1 April to 31 July, is now stated to be available throughout the year, and the butter and skimmed milk powder period is changed from 1 March to 1 February as its starting date. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_12)
+
+The list of points is also extended, now running through point (e) instead of ending at point (d), reflecting the addition of the new separate entry for paddy rice's own point in the list structure. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_12)
+
+*before* (`02013R1308-20201229`)
+
+> Article 12
+> Public intervention periods
+> Public intervention shall be available for:
+> (a) common wheat, durum wheat, barley and maize, from 1 November to 31 May;
+> (b) paddy rice, from 1 April to 31 July;
+> (c) beef and veal, throughout the year;
+> (d) butter and skimmed milk powder, from 1 March to 30 September.
+
+*after* (`02013R1308-20211207`)
+
+> Article 12
+> Public intervention periods
+> Public intervention shall be available for:
+> (a) common wheat, from 1 October to 31 May;
+> (b) durum wheat, barley and maize, throughout the year;
+> (c) paddy rice, throughout the year;
+> (d) beef and veal, throughout the year;
+> (e) butter and skimmed milk powder, from 1 February to 30 September.
+
+**MODIFIED · Art. 16 — General principles on disposal from public intervention** · applies from: unchanged
+
+*within* `AR 16 PA 2a`, `AR 16 PA 3 ALN 1` · *amended by* `32021R2117`
+
+A new paragraph 2a was added requiring Member States to notify the Commission of all information needed to monitor compliance with the principles set out in paragraph 1. [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_16)
+
+Paragraph 3 was expanded so the Commission's annual publication now covers conditions under which products were bought as well as sold, and must include the relevant volumes and the buying and selling prices, whereas the earlier text referred only to conditions of sale. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_16)
+
+*before* (`02013R1308-20201229`)
+
+> Article 16
+> General principles on disposal from public intervention
+> 1. Disposal of products bought in under public intervention shall take place in such a way as to:
+> (a) avoid any disturbance of the market,
+> (b) ensure equal access to goods and equal treatment of purchasers, and
+> (c) be in compliance with the commitments resulting from international agreements concluded in accordance with the TFEU.
+> 2. Products bought in under public intervention may be disposed of by making them available for the scheme for food distribution to the most deprived in the Union as set out in the relevant Union legal acts. In such cases, the accounting value of such products shall be at the level of the relevant fixed public intervention price referred to in Article 15(2) of this Regulation.
+> 3. Each year the Commission shall publish details of the conditions under which products bought in under public intervention were sold in the previous year.
+
+*after* (`02013R1308-20211207`)
+
+> Article 16
+> General principles on disposal from public intervention
+> 1. Disposal of products bought in under public intervention shall take place in such a way as to:
+> (a) avoid any disturbance of the market,
+> (b) ensure equal access to goods and equal treatment of purchasers, and
+> (c) be in compliance with the commitments resulting from international agreements concluded in accordance with the TFEU.
+> 2. Products bought in under public intervention may be disposed of by making them available for the scheme for food distribution to the most deprived in the Union as set out in the relevant Union legal acts. In such cases, the accounting value of such products shall be at the level of the relevant fixed public intervention price referred to in Article 15(2) of this Regulation.
+> 2a. Member States shall notify to the Commission all the information needed to allow for the monitoring of compliance with the principles laid down in paragraph 1.
+> 3. Each year the Commission shall publish details of the conditions under which products bought in under public intervention were bought or sold in the previous year. Those details shall include the relevant volumes and the buying and selling prices.
+
+**MODIFIED · Art. 17 — Eligible products** · applies from: unchanged
+
+*within* `AR 17 ALN 1 PTA (b)` · *amended by* `32021R2117`
+
+Point (b) of the list of eligible products now includes table olives alongside olive oil, whereas previously it named only olive oil. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_17)
+
+*before* (`02013R1308-20201229`)
+
+> Article 17
+> Eligible products
+> Aid for private storage may be granted in respect of the following products in accordance with the conditions set out in this Section and any further requirements and conditions to be adopted by the Commission, by means of delegated acts pursuant to Article 18(1) or Article 19 and implementing acts pursuant to Article 18(2) or Article 20:
+> (a) white sugar;
+> (b) olive oil;
+> (c) flax fibre;
+> (d) fresh or chilled meat of bovine animals aged eight months or more;
+> (e) butter produced from cream obtained directly and exclusively from cow's milk;
+> (f) cheese;
+> (g) skimmed milk powder made from cow's milk;
+> (h) pigmeat;
+> (i) sheepmeat and goatmeat.
+> Point (f) of the first paragraph is restricted to cheese benefiting from a protected designation of origin or from a protected geographical indication under Regulation (EU) No 1151/2012 that is stored beyond the period of maturation laid down in the product specification for the product referred to in Article 7 of that Regulation and/or a period of maturation that contributes to increasing the value of the cheese.
+
+*after* (`02013R1308-20211207`)
+
+> Article 17
+> Eligible products
+> Aid for private storage may be granted in respect of the following products in accordance with the conditions set out in this Section and any further requirements and conditions to be adopted by the Commission, by means of delegated acts pursuant to Article 18(1) or Article 19 and implementing acts pursuant to Article 18(2) or Article 20:
+> (a) white sugar;
+> (b) olive oil and table olives;
+> (c) flax fibre;
+> (d) fresh or chilled meat of bovine animals aged eight months or more;
+> (e) butter produced from cream obtained directly and exclusively from cow's milk;
+> (f) cheese;
+> (g) skimmed milk powder made from cow's milk;
+> (h) pigmeat;
+> (i) sheepmeat and goatmeat.
+> Point (f) of the first paragraph is restricted to cheese benefiting from a protected designation of origin or from a protected geographical indication under Regulation (EU) No 1151/2012 that is stored beyond the period of maturation laid down in the product specification for the product referred to in Article 7 of that Regulation and/or a period of maturation that contributes to increasing the value of the cheese.
+
+**MODIFIED · Art. 23 — Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs** · applies from: unchanged
+
+*within* `AR 23 PA 11 ALN 1` · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+In the list of environmental benefits Member States may encourage under paragraph 11, the after text adds a reference to sustainable packaging alongside local or regional purchasing, organic products and short supply chains. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23) [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23)
+
+*before* (`02013R1308-20201229`)
+
+> Article 23
+> Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs
+> 1. Union aid shall be granted in respect of children in the educational establishments referred to in Article 22:
+> (a) for the supply and distribution of eligible products referred to in paragraphs 3, 4 and 5 of this Article;
+> (b) for accompanying educational measures; and
+> (c) to cover certain related costs linked to equipment, publicity, monitoring and evaluation, and, insofar as those costs are not covered by point (a) of this subparagraph, logistics and distribution.
+> The Council shall, in accordance with Article 43(3) TFEU, lay down limits for the proportion of Union aid covering measures and costs referred to in points (b) and (c) of the first subparagraph of this paragraph.
+> 2. For the purposes of this Section:
+> (a) school fruit and vegetables means the products referred to in point (a) of paragraph 3 and point (a) of paragraph 4;
+> (b) school milk means the products referred to in point (b) of paragraph 3 and point (b) of paragraph 4, as well as the products referred to in Annex V.
+> 3. Member States wishing to participate in the aid scheme established pursuant to paragraph 1 (the school scheme) and requesting the corresponding Union aid shall, taking into account national circumstances, prioritise the distribution of products of either or both of the following groups:
+> (a) fruit and vegetables and fresh products of the banana sector;
+> (b) drinking […truncated by emendrix: 5118 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 23
+> Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs
+> 1. Union aid shall be granted in respect of children in the educational establishments referred to in Article 22:
+> (a) for the supply and distribution of eligible products referred to in paragraphs 3, 4 and 5 of this Article;
+> (b) for accompanying educational measures; and
+> (c) to cover certain related costs linked to equipment, publicity, monitoring and evaluation, and, insofar as those costs are not covered by point (a) of this subparagraph, logistics and distribution.
+> The Council shall, in accordance with Article 43(3) TFEU, lay down limits for the proportion of Union aid covering measures and costs referred to in points (b) and (c) of the first subparagraph of this paragraph.
+> 2. For the purposes of this Section:
+> (a) school fruit and vegetables means the products referred to in point (a) of paragraph 3 and point (a) of paragraph 4;
+> (b) school milk means the products referred to in point (b) of paragraph 3 and point (b) of paragraph 4, as well as the products referred to in Annex V.
+> 3. Member States wishing to participate in the aid scheme established pursuant to paragraph 1 (the school scheme) and requesting the corresponding Union aid shall, taking into account national circumstances, prioritise the distribution of products of either or both of the following groups:
+> (a) fruit and vegetables and fresh products of the banana sector;
+> (b) drinking […truncated by emendrix: 5152 characters omitted…]
+
+**MODIFIED · Art. 23a — Financing provisions** · applies from: unchanged
+
+*within* `AR 23a PA 1 ALN 1`, `AR 23a PA 1 ALN 1 PTA (a)`, `AR 23a PA 1 ALN 1 PTA (b)`, `AR 23a PA 1 ALN 2`, `AR 23a PA 4 ALN 1` · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The overall annual funding ceiling for the school scheme was changed from EUR 250 million to EUR 220804135. [Art. 23a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23a) [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23a)
+
+The sub-limits for school fruit and vegetables and for school milk were changed from EUR 150 million and EUR 100 million respectively to EUR 130608466 and EUR 90195669. [Art. 23a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23a) [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23a)
+
+The overall limit figure referenced in the paragraph on transfers between indicative allocations was likewise changed from EUR 250 million to EUR 220804135. [Art. 23a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23a) [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23a)
+
+*before* (`02013R1308-20201229`)
+
+> Article 23a
+> Financing provisions
+> 1. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 250 million per school year.
+> Within that overall limit, the aid shall not exceed:
+> (a) for school fruit and vegetables: EUR 150 million per school year;
+> (b) for school milk: EUR 100 million per school year.
+> 2. The aid referred to in paragraph 1 shall be allocated to each Member State taking into account the following:
+> (a) the number of six- to ten-year-old children in the Member State concerned;
+> (b) the degree of development of the regions within the Member State concerned so as to ensure that higher aid is allocated to less developed regions and to the smaller Aegean Islands within the meaning of Article 1(2) of Regulation (EU) No 229/2013; and
+> (c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
+> The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
+> The allocations for school milk resulting from the appli […truncated by emendrix: 4189 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 23a
+> Financing provisions
+> 1. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 220804135 per school year. Within that overall limit, the aid shall not exceed:
+> (a) for school fruit and vegetables: EUR 130608466 per school year;
+> (b) for school milk: EUR 90195669 per school year.
+> 2. The aid referred to in paragraph 1 shall be allocated to each Member State taking into account the following:
+> (a) the number of six- to ten-year-old children in the Member State concerned;
+> (b) the degree of development of the regions within the Member State concerned so as to ensure that higher aid is allocated to less developed regions and to the smaller Aegean Islands within the meaning of Article 1(2) of Regulation (EU) No 229/2013; and
+> (c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
+> The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
+> The allocations for school milk resulting from the application […truncated by emendrix: 4180 characters omitted…]
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 61 — Duration** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 61 ALN 1` · *dates* -2030-12-31 +2045-12-31 · *amended by* `32021R2117`
+
+The end date for the scheme of authorisations for vine plantings has been changed from 31 December 2030 to 31 December 2045. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_61)
+
+The reference to a single mid-term review has been replaced with a reference to two mid-term reviews, to be undertaken by the Commission in 2028 and 2040. [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_61)
+
+*before* (`02013R1308-20201229`)
+
+> Article 61
+> Duration
+> The scheme of authorisations for vine plantings established in this Chapter shall apply from 1 January 2016 to 31 December 2030, with a mid-term review to be undertaken by the Commission to evaluate the operation of the scheme and, if appropriate, make proposals.
+
+*after* (`02013R1308-20211207`)
+
+> Article 61
+> Duration
+> The scheme of authorisations for vine plantings established in this Chapter shall apply from 1 January 2016 to 31 December 2045, with two mid-term reviews to be undertaken by the Commission in 2028 and 2040 to evaluate the operation of the scheme and, if appropriate, make proposals.
+
+**MODIFIED · Art. 62 — Authorisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 62 PA 3 ALN 2`, `AR 62 PA 3 ALN 3`, `AR 62 PA 3 ALN 4`, `AR 62 PA 4 ALN 1` · *dates* +2022-02-28 +2022-12-31 · *amended by* `32021R2117`
+
+A new subparagraph was inserted allowing Member States to decide that authorisations under Article 66(1) remain valid for six years, rather than three, where replanting occurs on the same parcel or parcels where grubbing up took place, with such authorisations required to clearly identify those parcels. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_62)
+
+The extension of validity for authorisations under Articles 64 and 66(1) was broadened to cover authorisations expiring in 2020 and 2021 and extended until 31 December 2022, rather than covering only those expiring in 2020 and extended to 31 December 2021, and the deadline for producers to notify competent authorities of non-use was moved from 28 February 2021 to 28 February 2022, with an added mechanism letting producers who had already declared non-use by 28 February 2021 retract that declaration in writing by 28 February 2022. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_62)
+
+Paragraph 4's list of purposes exempted from the Chapter was expanded to include areas used for setting-up collections of vine varieties intended to preserve genetic resources. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_62)
+
+*before* (`02013R1308-20201229`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> By way of derogation from the first subparagraph, the validity of authorisations granted in accordance with Article 64 and Article 66(1), which expires in the year 2020, is extended until 31 December 2021.
+> Producers who hold authorisations in accordance with Article 64 and Article 66(1) of this Regulation, which expire in 2020, shall not, by way of derogation from the first subparagraph of this paragraph, be subject to the administrative penalty referred to in Article 89(4) of Regulation (EU) No 1306/2013 provided that they inform the competent authorities by 28 February 2021 that they […truncated by emendrix: 1242 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> By way of derogation from the first subparagraph, Member States may decide that when replanting takes place on the same parcel or parcels on which the grubbing up was undertaken, the authorisations referred to in Article 66(1) are valid for six years from the date on which they were granted. Such authorisations shall clearly identify the parcel or parcels on which the grubbing up and the replanting will take place.
+> By way of derogation from the first subparagraph, the validity of authorisations granted in accordance with Article 64 and Article 66(1), which expires in the years 2020 and […truncated by emendrix: 2237 characters omitted…]
+
+**MODIFIED · Art. 63 — Safeguard mechanism for new plantings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 63 PA 1 ALN 1`, `AR 63 PA 1 ALN 1 PTA (a)`, `AR 63 PA 1 ALN 1 PTA (b)`, `AR 63 PA 2 ALN 2`, `AR 63 PA 3 ALN 1 PTA (b)`, `AR 63 PA 3 ALN 1 PTA (c)`, `AR 63 PA 3a` · *dates* +2015-07-31 +2016-01-01 · *amended by* `32021R2117`
+
+Paragraph 1 now offers member states a choice between the original 1% calculation based on the area planted with vines as measured on 31 July of the previous year, or an alternative 1% calculation based on the area planted as measured on 31 July 2015 combined with areas covered by certain planting rights that were convertible into authorisations on 1 January 2016. [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_63)
+
+Paragraph 2 adds a new subparagraph allowing member states that limit authorisations regionally for protected designation of origin or protected geographical indication areas to require that such authorisations be used within those regions. [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_63)
+
+Paragraph 3's ground concerning devaluation of a protected designation or indication drops the word significant, a new ground is added concerning the wish to contribute to product development while preserving quality, and a new paragraph 3a is inserted allowing member states to take regulatory measures to prevent circumvention of the restrictive measures under paragraphs 2 and 3. [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_63)
+
+*before* (`02013R1308-20201229`)
+
+> Article 63
+> Safeguard mechanism for new plantings
+> 1. Member States shall make available each year authorisations for new plantings corresponding to 1 % of the total area actually planted with vines in their territory, as measured on 31 July of the previous year.
+> 2. Member States may:
+> (a) apply at national level a lower percentage than the percentage set out in paragraph 1;
+> (b) limit the issuing of authorisations at regional level, for specific areas eligible for the production of wines with a protected designation of origin, for areas eligible for the production of wines with a protected geographical indication, or for areas without a geographical indication.
+> 3. Any of the limitations referred to in paragraph 2 shall contribute to an orderly growth of vine plantings, shall be set above 0 %, and shall be justified on one or more of the following specific grounds:
+> (a) the need to avoid a well-demonstrated risk of oversupply of wine products in relation to market prospects for those products, not exceeding what is necessary to satisfy this need;
+> (b) the need to avoid a well-demonstrated risk of significant devaluation of a particular protected designation of origin or a protected geographical indication.
+> 4. Member States shall make public any decisions adopted pursuant to paragraph 2, which shall be duly justified. Member States shall notify the Commission forthwith of those decisions and justifications.
+
+*after* (`02013R1308-20211207`)
+
+> Article 63
+> Safeguard mechanism for new plantings
+> 1. Member States shall make available each year authorisations for new plantings corresponding to either:
+> (a) 1 % of the total area actually planted with vines in their territory, as measured on 31 July of the previous year; or
+> (b) 1 % of an area comprising the area actually planted with vines in their territory, as measured on 31 July 2015, and the area covered by planting rights granted to producers in their territory in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 that were available for conversion into authorisations on 1 January 2016, as referred to in Article 68 of this Regulation.
+> 2. Member States may:
+> (a) apply at national level a lower percentage than the percentage set out in paragraph 1;
+> (b) limit the issuing of authorisations at regional level, for specific areas eligible for the production of wines with a protected designation of origin, for areas eligible for the production of wines with a protected geographical indication, or for areas without a geographical indication.
+> Member States that limit the issuing of authorisations at regional level for specific areas eligible for the production of wines with a protected designation of origin or for areas eligible for the production of wines with a protected geographical indication in accordance with the first subparagraph, point (b), may require such authorisations to be used in those regions.
+> 3. Any of the limitations referred […truncated by emendrix: 997 characters omitted…]
+
+**MODIFIED · Art. 64 — Granting of authorisations for new plantings** · applies from: unchanged
+
+*within* `AR 64 PA 1 ALN 2`, `AR 64 PA 2 ALN 1`, `AR 64 PA 2 ALN 1 PTA (b)`, `AR 64 PA 2 ALN 1 PTA (f)`, `AR 64 PA 2 ALN 1 PTA (h)`, `AR 64 PA 2b` · *amended by* `32021R2117`
+
+The eligibility criteria in paragraph 1 and the priority criteria in paragraph 2 are now described as applicable at national or regional level, wording not present before. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_64)
+
+Point (b) of paragraph 2 now also refers to the conservation of the genetic resources of vines, point (f) is reworded to refer to increasing the production of holdings of the wine-growing sector showing increased cost-efficiency, competitiveness or market presence rather than to increasing competitiveness at farm holding and regional level, and point (h) now refers to small and medium-sized vine holdings. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_64)
+
+A new paragraph 2b has been added allowing Member States to take regulatory measures to prevent circumvention by operators of the restrictive criteria applied under paragraphs 1, 2 and 2a. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_64)
+
+*before* (`02013R1308-20201229`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner.
+> 2. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area for which they have requested […truncated by emendrix: 1435 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria at national or regional level:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner.
+> 2. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area […truncated by emendrix: 1833 characters omitted…]
+
+**MODIFIED · Art. 65 — Role of professional organisations** · applies from: unchanged
+
+*within* `AR 65 ALN 1` · *amended by* `32021R2117`
+
+The provision changes the Member State's action from a permissive "may take into account" to an obligatory "shall take into consideration" regarding recommendations from the listed organisations, groups and other recognised bodies. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_65)
+
+The wording describing the sources of recommendations changes from "of interested groups" and "of other types" to "by interested groups" and "by other types", with the remainder of the sentence, including the three-year limit on recommendations, unchanged. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_65)
+
+*before* (`02013R1308-20201229`)
+
+> Article 65
+> Role of professional organisations
+> When applying Article 63(2), a Member State may take into account recommendations presented by recognised professional organisations operating in the wine sector referred to in Articles 152, 156 and 157, of interested groups of producers referred to in Article 95, or of other types of professional organisation recognised on the basis of that Member State's legislation, provided that those recommendations are preceded by an agreement entered into by the relevant representative parties in the reference geographical area.
+> The recommendations shall be made for no more than three years.
+
+*after* (`02013R1308-20211207`)
+
+> Article 65
+> Role of professional organisations
+> When applying Article 63(2), a Member State shall take into consideration recommendations presented by recognised professional organisations operating in the wine sector referred to in Articles 152, 156 and 157, by interested groups of producers referred to in Article 95, or by other types of professional organisation recognised on the basis of that Member State’s legislation, provided that those recommendations are preceded by an agreement entered into by the relevant representative parties in the reference geographical area.
+> The recommendations shall be made for no more than three years.
+
+**MODIFIED · Art. 68 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 68 PA 2a`, `AR 68 PA 3 ALN 1` · *dates* +2023-01-01 · *amended by* `32021R2117`
+
+A new paragraph 2a was added stating that from 1 January 2023, an area equivalent to that covered by planting rights eligible for conversion into planting authorisations on 31 December 2022 but not yet converted under paragraph 1 remains at the disposal of the Member States concerned, which may grant authorisations under Article 64 at the latest by 31 December 2025. [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_68)
+
+Paragraph 3 was amended so that the areas excluded from the count under Article 63 now include those covered by authorisations granted under both paragraph 1 and the newly added paragraph 2a, rather than only paragraph 1 as before. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_68)
+
+*Applicability:* From 1 January 2023, an area equivalent to the area covered by planting rights that were eligible for conversion into planting authorisations on 31 December 2022 but have not yet been converted into authorisations in accordance to paragraph 1, shall remain at the disposal of the Member States concerned, which may grant authorisations in accordance with Article 64 at the latest by 31 December 2025. [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_68)
+
+*before* (`02013R1308-20201229`)
+
+> Article 68
+> Transitional provisions
+> 1. Planting rights granted to producers in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 before 31 December 2015 which have not been used by those producers and are still valid by that date may be converted into authorisations under this Chapter as from 1 January 2016.
+> Such conversion shall take place upon a request to be submitted by those producers before 31 December 2015. Member States may decide to allow producers to submit such a request to convert rights into authorisations until 31 December 2022.
+> 2. Authorisations granted pursuant to paragraph 1 shall have the same period of validity as the planting rights referred to in paragraph 1. If those authorisations are not used, they shall expire at the latest by 31 December 2018, or, where a Member State has taken the decision referred to in the second subparagraph of paragraph 1, at the latest by 31 December 2025.
+> 3. The areas covered by the authorisations granted pursuant to paragraph 1 shall be not be counted for the purposes of Article 63.
+
+*after* (`02013R1308-20211207`)
+
+> Article 68
+> Transitional provisions
+> 1. Planting rights granted to producers in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 before 31 December 2015 which have not been used by those producers and are still valid by that date may be converted into authorisations under this Chapter as from 1 January 2016.
+> Such conversion shall take place upon a request to be submitted by those producers before 31 December 2015. Member States may decide to allow producers to submit such a request to convert rights into authorisations until 31 December 2022.
+> 2. Authorisations granted pursuant to paragraph 1 shall have the same period of validity as the planting rights referred to in paragraph 1. If those authorisations are not used, they shall expire at the latest by 31 December 2018, or, where a Member State has taken the decision referred to in the second subparagraph of paragraph 1, at the latest by 31 December 2025.
+> 2a. From 1 January 2023, an area equivalent to the area covered by planting rights that were eligible for conversion into planting authorisations on 31 December 2022 but have not yet been converted into authorisations in accordance to paragraph 1, shall remain at the disposal of the Member States concerned, which may grant authorisations in accordance with Article 64 at the latest by 31 December 2025.
+> 3. The areas covered by the authorisations granted pursuant to paragraphs 1 and 2a of this Article shall not be counted for the purposes of […truncated by emendrix: 11 characters omitted…]
+
+**MODIFIED · Art. 81 — Wine grape varieties** · applies from: unchanged
+
+*within* `AR 81 PA 6` · *amended by* `32021R2117`
+
+A new paragraph 6 has been added stating that areas planted with vine varieties for purposes other than wine production, which are unclassified (or, for Member States under paragraph 3, do not comply with the second subparagraph of paragraph 2), are not subject to a grubbing up obligation. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_81)
+
+This new paragraph 6 also states that planting and replanting of such vine varieties for purposes other than wine production is not subject to the authorisation scheme laid down in Part II, Title I, Chapter III. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_81)
+
+The earlier text, ending at paragraph 5, contained no such provision. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_81)
+
+*before* (`02013R1308-20201229`)
+
+> Article 81
+> Wine grape varieties
+> 1. Products listed in Part II of Annex VII and produced in the Union shall be made from wine grape varieties classifiable in accordance with paragraph 2 of this Article.
+> 2. Subject to paragraph 3, Member States shall classify which wine grape varieties may be planted, replanted or grafted on their territories for the purpose of wine production.
+> Only wine grape varieties meeting the following conditions may be classified by Member States:
+> (a) the variety concerned belongs to the species Vitis vinifera or comes from a cross between the species Vitis vinifera and other species of the genus Vitis;
+> (b) the variety is not one of the following: Noah, Othello, Isabelle, Jacquez, Clinton and Herbemont.
+> Where a wine grape variety is deleted from the classification referred to in the first subparagraph, grubbing up of this variety shall take place within 15 years of its deletion.
+> 3. Member States whose wine production does not exceed 50000 hectolitres per wine year, calculated on the basis of the average production during the last five wine years, shall be exempt from the classification obligation provided for in the first subparagraph of paragraph 2.
+> However, also in those Member States, only wine grape varieties complying with the second subparagraph of paragraph 2 may be planted, replanted or grafted for the purpose of wine production.
+> 4. By way of derogation from the first and third subparagraphs of paragraph 2 and the second subparagraph of paragraph […truncated by emendrix: 753 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 81
+> Wine grape varieties
+> 1. Products listed in Part II of Annex VII and produced in the Union shall be made from wine grape varieties classifiable in accordance with paragraph 2 of this Article.
+> 2. Subject to paragraph 3, Member States shall classify which wine grape varieties may be planted, replanted or grafted on their territories for the purpose of wine production.
+> Only wine grape varieties meeting the following conditions may be classified by Member States:
+> (a) the variety concerned belongs to the species Vitis vinifera or comes from a cross between the species Vitis vinifera and other species of the genus Vitis;
+> (b) the variety is not one of the following: Noah, Othello, Isabelle, Jacquez, Clinton and Herbemont.
+> Where a wine grape variety is deleted from the classification referred to in the first subparagraph, grubbing up of this variety shall take place within 15 years of its deletion.
+> 3. Member States whose wine production does not exceed 50000 hectolitres per wine year, calculated on the basis of the average production during the last five wine years, shall be exempt from the classification obligation provided for in the first subparagraph of paragraph 2.
+> However, also in those Member States, only wine grape varieties complying with the second subparagraph of paragraph 2 may be planted, replanted or grafted for the purpose of wine production.
+> 4. By way of derogation from the first and third subparagraphs of paragraph 2 and the second subparagraph of paragraph […truncated by emendrix: 1343 characters omitted…]
+
+**MODIFIED · Art. 86 — Reservation, amendment and cancellation of optional reserved terms** · applies from: unchanged
+
+*within* `AR 86 ALN 1` · *amended by* `32021R2117`
+
+The introductory clause now specifies that the expectations of consumers to be taken into account include those regarding production methods and sustainability in the supply chain, a phrase not present before. [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_86) [Art. 86, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_86)
+
+The remainder of the provision, including the list of delegated act powers in points (a) to (c), is unchanged. [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_86)
+
+*before* (`02013R1308-20201229`)
+
+> Article 86
+> Reservation, amendment and cancellation of optional reserved terms
+> In order to take account of the expectations of consumers, developments in scientific and technical knowledge, the situation in the market and developments in marketing standards and in international standards, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+> (a) reserving an additional optional reserved term, laying down its conditions of use;
+> (b) amending the conditions of use of an optional reserved term; or
+> (c) cancelling an optional reserved term.
+
+*after* (`02013R1308-20211207`)
+
+> Article 86
+> Reservation, amendment and cancellation of optional reserved terms
+> In order to take account of the expectations of consumers, including as regards production methods and sustainability in the supply chain, developments in scientific and technical knowledge, the situation in the market and developments in marketing standards and in international standards, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+> (a) reserving an additional optional reserved term, laying down its conditions of use;
+> (b) amending the conditions of use of an optional reserved term; or
+> (c) cancelling an optional reserved term.
+
+**MODIFIED · Art. 90 — Special provisions for the imports of wine** · applies from: unchanged
+
+*within* `AR 90 PA 1 ALN 1`, `AR 90 PA 3 ALN 1` · *amended by* `32021R2117`
+
+The list of CN codes covered by paragraph 1 now also includes ex22029919, described as other, de-alcoholised wine with an alcoholic strength by volume not exceeding 0.5%, alongside the previously listed codes 200961, 200969 and 2204. [Art. 90, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_90)
+
+Paragraph 3's opening sentence now begins with the same qualifying phrase used elsewhere in the article, stating that it applies save as otherwise provided for in international agreements concluded in accordance with the TFEU, a phrase not present in that sentence before. [Art. 90, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_90) [Art. 90, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_90)
+
+*before* (`02013R1308-20201229`)
+
+> Article 90
+> Special provisions for the imports of wine
+> 1. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the provisions concerning designation of origin and geographical indications and labelling of wine set out in Section 2 of this Chapter, and the definitions, designations and sales descriptions referred to in Article 78 of this Regulation shall apply to products imported into the Union and falling within CN codes 200961, 200969 and 2204.
+> 2. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, products referred to in paragraph 1 of this Article shall be produced in accordance with oenological practices authorised by the Union pursuant to this Regulation or, prior to the authorisation pursuant to Article 80(3), produced in accordance with oenological practices recommended and published by the OIV.
+> 3. The import of the products referred to in paragraph 1 shall be subject to the presentation of:
+> (a) a certificate evincing compliance with the provisions referred to in paragraphs 1 and 2, drawn up by a competent body, included on a list to be made public by the Commission, in the product's country of origin;
+> (b) an analysis report drawn up by a body or department designated by the product's country of origin, if the product is intended for direct human consumption.
+
+*after* (`02013R1308-20211207`)
+
+> Article 90
+> Special provisions for the imports of wine
+> 1. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the provisions concerning designation of origin and geographical indications and labelling of wine set out in Section 2 of this Chapter, and the definitions, designations and sales descriptions referred to in Article 78 of this Regulation shall apply to products imported into the Union and falling within CN codes 200961, 200969, 2204 and, where applicable, ex22029919 (other, de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 %)
+> 2. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, products referred to in paragraph 1 of this Article shall be produced in accordance with oenological practices authorised by the Union pursuant to this Regulation or, prior to the authorisation pursuant to Article 80(3), produced in accordance with oenological practices recommended and published by the OIV.
+> 3. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the import of the products referred to in paragraph 1 shall be subject to the presentation of:
+> (a) a certificate evincing compliance with the provisions referred to in paragraphs 1 and 2, drawn up by a competent body, included on a list to be made public by the Commission, in the product's country of origin;
+> (b) an analysis report drawn up by a body or department designated b […truncated by emendrix: 91 characters omitted…]
+
+**INSERTED · Art. 90a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 92 — Scope** · applies from: unchanged
+
+*within* `AR 92 PA 1 ALN 2` · *amended by* `32021R2117`
+
+Paragraph 1 gains a new sentence stating that the rules laid down in this Section do not apply to products listed in Annex VII, Part II, points (1), (4), (5), (6), (8) and (9), when those products have undergone a total de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_92)
+
+Paragraph 2 remains unchanged between the two versions. [Art. 92, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_92) [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_92)
+
+*before* (`02013R1308-20201229`)
+
+> Article 92
+> Scope
+> 1. Rules on designations of origin, geographical indications and traditional terms laid down in this Section shall apply to the products referred to in points 1, 3 to 6, 8, 9, 11, 15 and 16 of Part II of Annex VII.
+> 2. The rules referred to in paragraph 1 shall be based on:
+> (a) protecting the legitimate interests of consumers and producers;
+> (b) ensuring the smooth operation of the internal market in the products concerned; and
+> (c) promoting the production of quality products referred to in this Section, whilst allowing national quality policy measures.
+
+*after* (`02013R1308-20211207`)
+
+> Article 92
+> Scope
+> 1. Rules on designations of origin, geographical indications and traditional terms laid down in this Section shall apply to the products referred to in points 1, 3 to 6, 8, 9, 11, 15 and 16 of Part II of Annex VII.
+> However, the rules laid down in this section do not apply to products referred to in Annex VII, Part II, points (1), (4), (5), (6), (8) and (9), when such products have undergone a total de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E.
+> 2. The rules referred to in paragraph 1 shall be based on:
+> (a) protecting the legitimate interests of consumers and producers;
+> (b) ensuring the smooth operation of the internal market in the products concerned; and
+> (c) promoting the production of quality products referred to in this Section, whilst allowing national quality policy measures.
+
+**MODIFIED · Art. 93 — Definitions** · applies from: unchanged
+
+*within* `AR 93 PA 1 ALN 1 PTA (a)`, `AR 93 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 93 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 93 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 93 PA 1 ALN 1 PTA (a) PTI (iv)`, `AR 93 PA 1 ALN 1 PTA (a) PTI (v)`, `AR 93 PA 1 ALN 1 PTA (b)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (i)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (iii)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (iv)`, `AR 93 PA 1 ALN 1 PTA (b) PTI (v)`, `AR 93 PA 4 ALN 1` · *amended by* `32021R2117`
+
+The definitions of designation of origin and geographical indication were restructured so that each now identifies a product by a name, including a traditionally used name, with the geographical origin requirement (place, region or exceptional country) set out as a separate numbered point rather than folded into the opening description, and the designation of origin definition now also allows for a cross between Vitis vinifera and other Vitis species, matching the wording already used for geographical indication. [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_93) [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_93)
+
+The requirements under each definition were renumbered from four or five items to five items, with the grape-origin, production-location and vine-variety conditions shifted to later sub-points (i) through (v). [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_93) [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_93)
+
+Paragraph 4 now cross-references paragraph 1, points (a)(iv) and (b)(iv) instead of point (a)(iii), uses "includes" instead of "shall cover", and adds an exception for the harvesting of grapes not coming from the geographical area concerned as referred to in paragraph 1, point (b)(iii). [Art. 93, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_93) [Art. 93, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_93)
+
+*before* (`02013R1308-20201229`)
+
+> Article 93
+> Definitions
+> 1. For the purposes of this Section, the following definitions shall apply:
+> (a) "a designation of origin" means the name of a region, a specific place or, in exceptional and duly justifiable cases, a country used to describe a product referred to in Article 92(1) fulfilling the following requirements:
+> (i) the quality and characteristics of the product are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors;
+> (ii) the grapes from which the product is produced come exclusively from that geographical area;
+> (iii) the production takes place in that geographical area; and
+> (iv) the product is obtained from vine varieties belonging to Vitis vinifera;
+> (b) "a geographical indication" means an indication referring to a region, a specific place or, in exceptional and duly justifiable cases, a country, used to describe a product referred to in Article 92(1) fulfilling the following requirements:
+> (i) it possesses a specific quality, reputation or other characteristics attributable to that geographical origin;
+> (ii) at least 85 % of the grapes used for its production come exclusively from that geographical area;
+> (iii) its production takes place in that geographical area; and
+> (iv) it is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> 2. Certain traditionally used names shall constitute a designation of origin where t […truncated by emendrix: 1000 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 93
+> Definitions
+> 1. For the purposes of this Section, the following definitions shall apply:
+> (a) designation of origin means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose quality or characteristics are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors;
+> (ii) as originating in a specific place, region or, in exceptional cases, country;
+> (iii) produced from grapes which originate exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> (b) geographical indication means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+> (i) whose specific quality, reputation or other characteristics are attributable to its geographical origin;
+> (ii) as originating in a specific place, region or, in exceptional cases, country;
+> (iii) as having at least 85 % of the grapes used for its production come exclusively from that geographical area;
+> (iv) the production of which takes place in that geographical area; and
+> (v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+> 2. Certain traditionally used names shall consti […truncated by emendrix: 1190 characters omitted…]
+
+**MODIFIED · Art. 94 — Applications for protection** · applies from: unchanged
+
+*within* `AR 94 PA 1 ALN 1`, `AR 94 PA 2 ALN 2 PTA (g)`, `AR 94 PA 2 ALN 2 PTA (g) PTI (i)`, `AR 94 PA 2 ALN 2 PTA (g) PTI (ii)`, `AR 94 PA 2 ALN 3` · *amended by* `32021R2117`
+
+Paragraph 1 no longer describes the application contents as a 'technical file', simply listing the required elements directly. [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_94) [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_94)
+
+Point (g) of paragraph 2 now cross-references Article 93(1) using the point (a)(i)/point (b)(i) format instead of the previous phrasing, and adds two new sub-points (i) and (ii) spelling out the link to be shown for designations of origin and for geographical indications respectively. [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_94) [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_94)
+
+Paragraph 2 also gains two new closing subparagraphs, one allowing the product specification to describe the designation's or indication's contribution to sustainable development, and another requiring, where the wine may be partially de-alcoholised, a description of the partially de-alcoholised wine and its oenological practices and restrictions. [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_94)
+
+*before* (`02013R1308-20201229`)
+
+> Article 94
+> Applications for protection
+> 1. Applications for protection of names as designations of origin or geographical indications shall include a technical file containing:
+> (a) the name to be protected;
+> (b) the name and address of the applicant;
+> (c) a product specification, as referred to in paragraph 2; and
+> (d) a single document summarising the product specification referred to in paragraph 2.
+> 2. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication.
+> The product specification shall at least consist of:
+> (a) the name to be protected;
+> (b) a description of the wine or wines:
+> (i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+> (ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+> (c) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+> (d) the demarcation of the geographical area concerned;
+> (e) the maximum yields per hectare;
+> (f) an indication of the wine grape variety or varieties that the wine or wines are obtained from;
+> (g) the details bearing out the link referred to in point (a)(i) or, as the case may be, in point (b)(i) of Article 93(1);
+> (h) applicable requirements laid down in Union or national legislation or, where […truncated by emendrix: 651 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 94
+> Applications for protection
+> 1. Applications for protection of names as designations of origin or geographical indications shall include:
+> (a) the name to be protected;
+> (b) the name and address of the applicant;
+> (c) a product specification, as referred to in paragraph 2; and
+> (d) a single document summarising the product specification referred to in paragraph 2.
+> 2. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication.
+> The product specification shall at least consist of:
+> (a) the name to be protected;
+> (b) a description of the wine or wines:
+> (i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+> (ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+> (c) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+> (d) the demarcation of the geographical area concerned;
+> (e) the maximum yields per hectare;
+> (f) an indication of the wine grape variety or varieties that the wine or wines are obtained from;
+> (g) the details bearing out the link referred to in Article 93(1), point (a)(i), or, as the case may be, point (b)(i):
+> (i) as regards a protected designation of origin, the link between the quality or characteristics of the product […truncated by emendrix: 1926 characters omitted…]
+
+**MODIFIED · Art. 96 — Preliminary national procedure** · applies from: unchanged
+
+*within* `AR 96 PA 5 ALN 2`, `AR 96 PA 5 ALN 3`, `AR 96 PA 6` · *amended by* `32021R2117`
+
+The revised paragraph 5 adds a requirement that when forwarding an application to the Commission the Member State must include a declaration that the application meets the conditions for protection and certify that the single document referred to in Article 94(1)(d) is a faithful summary of the product specification. [Art. 96, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_96)
+
+It also adds a new requirement that Member States inform the Commission of any admissible oppositions submitted under the national procedure, which was not present in the earlier text. [Art. 96, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_96) [Art. 96, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_96)
+
+A new paragraph 6 is added requiring the Member State to inform the Commission without delay of proceedings initiated before a national court or other national body concerning a forwarded application, and of any invalidation of the application at national level by an immediately applicable but not final judicial decision. [Art. 96, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_96)
+
+*before* (`02013R1308-20201229`)
+
+> Article 96
+> Preliminary national procedure
+> 1. Applications for protection of a designation of origin or a geographical indication for wines originating in the Union shall be subject to a preliminary national procedure.
+> 2. The application for protection shall be filed with the Member State in the territory of which the designation of origin or geographical indication originates.
+> 3. The Member State with which the application for protection is filed shall examine it in order to verify whether it meets the conditions set out in this Subsection.
+> That Member State shall carry out a national procedure ensuring adequate publication of the application and providing for a period of at least two months from the date of publication within which any natural or legal person having a legitimate interest and resident or established on its territory may object to the proposed protection by lodging a duly substantiated statement with that Member State.
+> 4. If the Member State assessing the application considers that the designation of origin or the geographical indication does not comply with the conditions laid down in this Subsection or is incompatible with Union law, it shall reject the application.
+> 5. If the Member State assessing the application considers that the requirements are fulfilled, it shall carry out a national procedure which ensures adequate publication of the product specification at least on the Internet and forward the application to the Commission.
+
+*after* (`02013R1308-20211207`)
+
+> Article 96
+> Preliminary national procedure
+> 1. Applications for protection of a designation of origin or a geographical indication for wines originating in the Union shall be subject to a preliminary national procedure.
+> 2. The application for protection shall be filed with the Member State in the territory of which the designation of origin or geographical indication originates.
+> 3. The Member State with which the application for protection is filed shall examine it in order to verify whether it meets the conditions set out in this Subsection.
+> That Member State shall carry out a national procedure ensuring adequate publication of the application and providing for a period of at least two months from the date of publication within which any natural or legal person having a legitimate interest and resident or established on its territory may object to the proposed protection by lodging a duly substantiated statement with that Member State.
+> 4. If the Member State assessing the application considers that the designation of origin or the geographical indication does not comply with the conditions laid down in this Subsection or is incompatible with Union law, it shall reject the application.
+> 5. If the Member State assessing the application considers that the requirements are fulfilled, it shall carry out a national procedure which ensures adequate publication of the product specification at least on the Internet and forward the application to the Commission.
+> When forwarding an applic […truncated by emendrix: 948 characters omitted…]
+
+**MODIFIED · Art. 97 — Scrutiny by the Commission** · applies from: unchanged
+
+*within* `AR 97 PA 2 ALN 1`, `AR 97 PA 2 ALN 2`, `AR 97 PA 3 ALN 1`, `AR 97 PA 3 ALN 1 PTA (a)`, `AR 97 PA 3 ALN 1 PTA (b)`, `AR 97 PA 3 ALN 2`, `AR 97 PA 4 ALN 1`, `AR 97 PA 4 ALN 2`, `AR 97 PA 4 ALN 3` · *amended by* `32021R2117`
+
+Paragraph 2 now specifies that the Commission examines applications received under Article 96(5), checks them for required information and manifest errors while taking into account the outcome of the preliminary national procedure, focuses that scrutiny on the single document under Article 94(1)(d), and adds a six-month scrutiny period with a written explanation to applicants if that period is exceeded. [Art. 97, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_97)
+
+A new paragraph 3 sets out an exemption from the deadline and notification obligation where a Member State communicates that an application has been invalidated by a non-final judicial decision or requests suspension of scrutiny due to pending national judicial proceedings, with the exemption lasting until the Member State restores the application or withdraws the suspension request, and the former paragraphs 3 and 4 are renumbered accordingly. [Art. 97, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_97)
+
+What is now paragraph 4 changes the basis for the Commission's acceptance or rejection of applications from meeting or not meeting the conditions of this Subsection to meeting or not meeting the conditions laid down in Articles 93, 100 and 101, based on the scrutiny under paragraph 2. [Art. 97, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_97) [Art. 97, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_97)
+
+*before* (`02013R1308-20201229`)
+
+> Article 97
+> Scrutiny by the Commission
+> 1. The Commission shall make public the date of submission of the application for protection of the designation of origin or geographical indication.
+> 2. The Commission shall examine whether the applications for protection as referred to in Article 94 meet the conditions laid down in this Subsection.
+> 3. Where the Commission considers that the conditions laid down in this Subsection are met, it shall adopt implementing acts concerning the publication, in the Official Journal of the European Union, of the single document referred to in point (d) of Article 94(1) and of the reference to the publication of the product specification made in the course of the preliminary national procedure. Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+> 4. Where the Commission considers that the conditions laid down in this Subsection are not met, it shall adopt implementing acts rejecting the application.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20211207`)
+
+> Article 97
+> Scrutiny by the Commission
+> 1. The Commission shall make public the date of submission of the application for protection of the designation of origin or geographical indication.
+> 2. The Commission shall examine applications for protection that it receives in accordance with Article 96(5). The Commission shall check that the applications contain the required information and that they do not contain manifest errors, taking into account the outcome of the preliminary national procedure carried out by the Member State concerned. That scrutiny shall focus in particular on the single document referred to in Article 94(1), point (d).
+> Scrutiny by the Commission should not exceed a period of six months from the date of receipt of the application from the Member State. Where that period is exceeded, the Commission shall inform the applicants of the reasons for the delay, in writing.
+> 3. The Commission shall be exempted from the obligation to meet the deadline to perform the scrutiny referred to in paragraph 2, second subparagraph, and to inform the applicant of the reasons for the delay where it receives a communication from a Member State, concerning an application for registration lodged with the Commission in accordance with Article 96(5), which either:
+> (a) informs the Commission that the application has been invalidated at national level by an immediately applicable but not final judicial decision; or
+> (b) requests the Commission to suspend the scrutiny referred to in paragr […truncated by emendrix: 1341 characters omitted…]
+
+**MODIFIED · Art. 98 — Objection procedure** · applies from: unchanged
+
+*within* `AR 98 PA 1`, `AR 98 PA 2`, `AR 98 PA 3`, `AR 98 PA 4`, `AR 98 PA 5`, `AR 98 ALN 1`, `AR 98 ALN 2` · *amended by* `32021R2117`
+
+The article changed from two unstructured paragraphs into five numbered paragraphs, extending the objection period from two months to three months and specifying that objections are addressed to authorities of a Member State or third country, or to natural or legal persons resident or established in a third country, with a separate route for persons resident in another Member State to object via that Member State's authorities. [Art. 98, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_98) [Art. 98, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_98)
+
+New paragraphs were added covering the Commission's assessment of admissibility, the invitation to consultations within a five-month window with a possible three-month extension, and the conduct of consultations, matters not present in the earlier text. [Art. 98, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_98)
+
+The provisions on notifying the Commission of consultation outcomes, repeating scrutiny after substantial amendment, and adopting a decision under Article 99(1) or 99(2) are new additions not found in the before text. [Art. 98, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_98)
+
+*before* (`02013R1308-20201229`)
+
+> Article 98
+> Objection procedure
+> Within two months from the date of the publication of the single document as referred to in point (d) of Article 94(1), any Member State or third country, or any natural or legal person having a legitimate interest and resident or established in a Member State other than that applying for the protection or in a third country, may object to the proposed protection by submitting to the Commission a duly substantiated statement concerning the conditions of eligibility as laid down in this Subsection.
+> In the case of natural or legal persons resident or established in third countries, such a statement shall be submitted, either directly or via the authorities of the third country concerned, within the two month period referred to in the first paragraph.
+
+*after* (`02013R1308-20211207`)
+
+> Article 98
+> Objection procedure
+> 1. Within three months from the date of publication of the single document referred to in Article 94(1), point (d), in the Official Journal of the European Union, the authorities of a Member State or of a third country, or any natural or legal person residing or established in a third country and having a legitimate interest, may submit a reasoned statement of objection to the Commission opposing the proposed protection.
+> Any natural or legal person residing or established in a Member State other than the Member State that forwarded the application for protection and having a legitimate interest, may submit the statement of objection via the authorities of the Member State in which it is resident or established within a time limit permitting a statement of objections to be submitted pursuant to the first subparagraph.
+> 2. If the Commission considers that the objection is admissible, it shall invite the authority or natural or legal person that lodged the objection and the authority or natural or legal person that lodged the application for protection to engage in appropriate consultations for a reasonable period that shall not exceed three months. The invitation shall be issued within a period of five months from the date on which the application for protection to which the reasoned statement of objection relates was published in the Official Journal of the European Union. The invitation shall be accompanied by a copy of the reasoned statement of […truncated by emendrix: 2194 characters omitted…]
+
+**MODIFIED · Art. 99 — Decision on protection** · applies from: unchanged
+
+*within* `AR 99 PA 1`, `AR 99 PA 2`, `AR 99 PA 3`, `AR 99 ALN 1`, `AR 99 ALN 2` · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The earlier version described a single decision procedure in which the Commission adopts implementing acts either conferring or rejecting protection after completion of the objection procedure under Article 98, always following the examination procedure of Article 229(2). [Art. 99, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_99)
+
+The later version splits this into three numbered paragraphs: one covering the case where no admissible statement of objection was received, where protection is conferred without applying Article 229(2) or (3); a second covering the case where an admissible objection was received, where the examination procedure of Article 229(2) applies to a decision to confer or reject protection; and a third stating that protection conferred under the Article does not affect producers' obligations to comply with other Union rules, including those on placing products on the market and on food labelling. [Art. 99, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_99)
+
+*before* (`02013R1308-20201229`)
+
+> Article 99
+> Decision on protection
+> On the basis of the information available to the Commission upon the completion of the objection procedure referred to in Article 98, the Commission shall adopt implementing acts either conferring protection on the designation of origin or geographical indication which meets the conditions laid down in this Subsection and is compatible with Union law, or rejecting the application where those conditions are not met.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20211207`)
+
+> Article 99
+> Decision on protection
+> 1. Where the Commission has not received an admissible statement of objection in accordance with Article 98, it shall adopt implementing acts conferring protection. Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+> 2. Where the Commission has received an admissible statement of objection, it shall adopt implementing acts either conferring protection or rejecting the application. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 3. Protection conferred under this Article is without prejudice to the obligation of producers to comply with other Union rules, in particular those relating to the placing of products on the market and to food labelling.
+
+**MODIFIED · Art. 102 — Relationship with trade marks** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 102 PA 1 ALN 1`, `AR 102 PA 1 ALN 1 PTA (a)`, `AR 102 PA 1 ALN 1 PTA (b)`, `AR 102 PA 1 ALN 2`, `AR 102 PA 2 ALN 1`, `AR 102 PA 2 ALN 2` · *dates* -1996-01-01 -2008-10-22 -2009-02-26 +2015-12-16 +2017-06-14 · *amended by* `32021R2117`
+
+The refusal condition in paragraph 1 no longer refers to a trade mark's non-compliance with the product specification, and instead ties refusal to use that would contravene Article 103(2) and to the submission date of the registration application for the designation of origin or geographical indication itself, dropping the phrase about the designation being 'subsequently protected'. [Art. 102, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_102) [Art. 102, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_102)
+
+Paragraph 1's invalidation rule is now expressed as a separate sentence stating that trade marks registered in breach of the first subparagraph shall be invalidated, rather than as a standalone point (b). [Art. 102, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_102) [Art. 102, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_102)
+
+Paragraph 2 replaces the fixed cut-off date of 1 January 1996 with a reference to the date the protection application was submitted to the Commission, and updates the referenced trade mark instruments from Directive 2008/95/EC and Regulation (EC) No 207/2009 to Directive (EU) 2015/2436 and Regulation (EU) 2017/1001, while also adding a reference to use contravening Article 103(2) and changing 'alongside' to 'as well as use of' regarding the relevant trade marks. [Art. 102, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_102) [Art. 102, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_102)
+
+*before* (`02013R1308-20201229`)
+
+> Article 102
+> Relationship with trade marks
+> 1. The registration of a trade mark that contains or consists of a protected designation of origin or a geographical indication which does not comply with the product specification concerned or the use of which falls under Article 103(2), and that relates to a product falling under one of the categories listed in Part II of Annex VII shall be:
+> (a) refused if the application for registration of the trade mark is submitted after the date of submission of the application for protection of the designation of origin or geographical indication to the Commission and the designation of origin or geographical indication is subsequently protected; or
+> (b) invalidated.
+> 2. Without prejudice to Article 101(2), a trade mark referred to in paragraph 1 of this Article which has been applied for, registered or established by use in good faith, if that possibility is provided for by the law concerned, in the territory of the Union either before the date of protection of the designation of origin or geographical indication in the country of origin, or before 1 January 1996, may continue to be used and renewed notwithstanding the protection of a designation of origin or geographical indication, provided that no grounds for the trade mark's invalidity or revocation exist under Directive 2008/95/EC of the European Parliament and of the Council
+> Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of th […truncated by emendrix: 361 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 102
+> Relationship with trade marks
+> 1. Where a designation of origin or a geographical indication is registered under this Regulation, the registration of a trade mark the use of which would contravene Article 103(2), and which relates to a product falling under one of the categories listed in Annex VII, Part II, shall be refused if the application for registration of the trade mark was submitted after the date of submission of the registration application in respect of the designation of origin or the geographical indication to the Commission.
+> Trade marks registered in breach of the first subparagraph shall be invalidated.
+> 2. Without prejudice to Article 101(2) of this Regulation, a trade mark the use of which contravenes Article 103(2) of this Regulation, which has been applied for, registered or established by use, if that possibility is provided for by the legislation concerned, in good faith within the territory of the Union, before the date on which the application for protection of the designation of origin or geographical indication was submitted to the Commission, may continue to be used and renewed, notwithstanding the registration of a designation of origin or geographical indication, provided that no grounds for the trade mark’s invalidity or revocation exist under Directive (EU) 2015/2436 of the European Parliament and of the Council
+> Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Mem […truncated by emendrix: 438 characters omitted…]
+
+**MODIFIED · Art. 103 — Protection** · applies from: unchanged
+
+*within* `AR 103 PA 2 ALN 1 PTA (a)`, `AR 103 PA 2 ALN 1 PTA (a) PTI (ii)`, `AR 103 PA 2 ALN 1 PTA (b)`, `AR 103 PA 4` · *amended by* `32021R2117`
+
+The protection against commercial use of a protected name in point (a) now explicitly extends to use for products used as ingredients, and the exploitation clause in point (a)(ii) adds weakening or diluting the reputation alongside exploiting it. [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_103)
+
+Point (b) on misuse, imitation or evocation similarly adds coverage for cases where the products concerned are used as ingredients, and the listed accompanying expressions are no longer shown in quotation marks. [Art. 103, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_103) [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_103)
+
+A new paragraph 4 has been added extending the protection in paragraph 2 to goods entering the Union customs territory without release for free circulation and to goods sold through distance selling such as electronic commerce, and it grants an entitlement to the group of producers or any authorised operator to prevent unauthorised third-country goods bearing the protected name from being brought into the Union without release for free circulation. [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_103)
+
+*before* (`02013R1308-20201229`)
+
+> Article 103
+> Protection
+> 1. A protected designation of origin and a protected geographical indication may be used by any operator marketing a wine which has been produced in conformity with the corresponding product specification.
+> 2. A protected designation of origin and a protected geographical indication, as well as the wine using that protected name in conformity with the product specifications, shall be protected against:
+> (a) any direct or indirect commercial use of that protected name:
+> (i) by comparable products not complying with the product specification of the protected name; or
+> (ii) in so far as such use exploits the reputation of a designation of origin or a geographical indication;
+> (b) any misuse, imitation or evocation, even if the true origin of the product or service is indicated or if the protected name is translated, transcripted or transliterated or accompanied by an expression such as "style", "type", "method", "as produced in", "imitation", "flavour", "like" or similar;
+> (c) any other false or misleading indication as to the provenance, origin, nature or essential qualities of the product, on the inner or outer packaging, advertising material or documents relating to the wine product concerned, as well as the packing of the product in a container liable to convey a false impression as to its origin;
+> (d) any other practice liable to mislead the consumer as to the true origin of the product.
+> 3. Protected designations of origin and protected geographical indicati […truncated by emendrix: 79 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 103
+> Protection
+> 1. A protected designation of origin and a protected geographical indication may be used by any operator marketing a wine which has been produced in conformity with the corresponding product specification.
+> 2. A protected designation of origin and a protected geographical indication, as well as the wine using that protected name in conformity with the product specifications, shall be protected against:
+> (a) any direct or indirect commercial use of that protected name, including the use for products used as ingredients:
+> (i) by comparable products not complying with the product specification of the protected name; or
+> (ii) in so far as such use exploits, weakens or dilutes the reputation of a designation of origin or a geographical indication;
+> (b) any misuse, imitation or evocation, even if the true origin of the product or service is indicated or if the protected name is translated, transcripted or transliterated or accompanied by an expression such as style, type, method, as produced in, imitation, flavour, like or similar, including where those products are used as ingredients;
+> (c) any other false or misleading indication as to the provenance, origin, nature or essential qualities of the product, on the inner or outer packaging, advertising material or documents relating to the wine product concerned, as well as the packing of the product in a container liable to convey a false impression as to its origin;
+> (d) any other practice liable to mislead the cons […truncated by emendrix: 1071 characters omitted…]
+
+**MODIFIED · Art. 105 — Amendments to product specifications** · applies from: unchanged
+
+*within* `AR 105 PA 1`, `AR 105 PA 2`, `AR 105 PA 3`, `AR 105 PA 4`, `AR 105 ALN 1` · *amended by* `32021R2117`
+
+The provision was restructured from a single unnumbered paragraph into four numbered paragraphs, with paragraph 1 largely retaining the original wording but replacing the phrase about redemarcating the geographical area with wording about modifying the demarcation of that area, and updating the internal cross-reference format. [Art. 105, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_105) [Art. 105, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_105)
+
+New paragraphs 2, 3 and 4 were added, introducing a classification of amendments into Union amendments and standard amendments, defining these categories and a temporary amendment, and setting out separate approval procedures for Union amendments by the Commission and for standard amendments by Member States or third countries. [Art. 105, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_105)
+
+*before* (`02013R1308-20201229`)
+
+> Article 105
+> Amendments to product specifications
+> An applicant satisfying the conditions laid down in Article 95 may apply for approval of an amendment to the product specification of a protected designation of origin or of a protected geographical indication, in particular to take account of developments in scientific and technical knowledge or to redemarcate the geographical area referred to in point (d) of the second subparagraph of Article 94(2). Applications shall describe and state reasons for the amendments requested.
+
+*after* (`02013R1308-20211207`)
+
+> Article 105
+> Amendments to product specifications
+> 1. An applicant satisfying the conditions laid down in Article 95 may apply for approval of an amendment to the product specification of a protected designation of origin or of a protected geographical indication, in particular to take account of developments in scientific and technical knowledge or to modify the demarcation of the geographical area referred to in Article 94(2), second subparagraph, point (d). Applications shall describe and state reasons for the amendments requested.
+> 2. Amendments to a product specification shall be classified into two categories as regards their importance: Union amendments requiring an objection procedure at Union level and standard amendments to be dealt with at Member State or third country level.
+> For the purposes of this Regulation, Union amendment means an amendment to a product specification that:
+> (a) includes a change in the name of the protected designation of origin or the protected geographical indication;
+> (b) consists of a change, a deletion or an addition of a category of grapevine products referred to in Annex VII, Part II;
+> (c) risks voiding the link referred to in Article 93(1), point (a)(i), for protected designations of origin, or the link referred to in Article 93(1), point (b)(i), for protected geographical indications; or
+> (d) entails further restrictions on the marketing of the product.
+> Standard amendment means any amendment to a product specification that is not a Union am […truncated by emendrix: 1538 characters omitted…]
+
+**MODIFIED · Art. 106 — Cancellation** · applies from: unchanged
+
+*within* `AR 106 ALN 1`, `AR 106 ALN 1 PTA (a)`, `AR 106 ALN 1 PTA (b)`, `AR 106 ALN 1 PTA (c)` · *amended by* `32021R2117`
+
+The provision now lists three separate circumstances, labelled (a) to (c), in which the Commission may adopt implementing acts cancelling protection, replacing the single ground of no longer ensured compliance with the product specification. [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_106)
+
+The former single reason is retained as point (a), now phrased as compliance no longer being guaranteed, and two new grounds are added: no product having been placed on the market under the name for at least seven consecutive years, and an applicant meeting the Article 95 conditions declaring it no longer wishes to maintain the protection. [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_106)
+
+The phrase describing who may request cancellation is reworded from a duly substantiated request by a party to a duly substantiated request of a party, without altering the list of who may make that request. [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_106)
+
+*before* (`02013R1308-20201229`)
+
+> Article 106
+> Cancellation
+> The Commission may, on its own initiative or on a duly substantiated request by a Member State, a third country or a natural or legal person having a legitimate interest, adopt implementing acts cancelling the protection of a designation of origin or a geographical indication if compliance with the corresponding product specification is no longer ensured.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20211207`)
+
+> Article 106
+> Cancellation
+> The Commission may, on its own initiative or at the duly substantiated request of a Member State, a third country, or a natural or legal person having a legitimate interest, adopt implementing acts cancelling the protection of a designation of origin or a geographical indication in one or more of the following circumstances:
+> (a) where compliance with the corresponding product specification is no longer guaranteed;
+> (b) where no product has been placed on the market bearing the designation of origin or geographical indication for at least seven consecutive years;
+> (c) where an applicant satisfying the conditions laid down in Article 95 declares that it no longer wishes to maintain the protection of a designation of origin or a geographical indication.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**INSERTED · Art. 106a — Temporary labelling and presentation** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+This is an entirely new article allowing producers, once an application for protection of a designation of origin or geographical indication has been forwarded to the Commission, to indicate on labelling and presentation that an application has been filed and to use national logos and indications consistent with Union law, including Regulation (EU) No 1169/2011. [Art. 106a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_106a)
+
+It further provides that the Union symbols and indications for protected designation of origin or protected geographical indication may appear on labelling only after publication of the decision granting protection, and that if an application is rejected, grapevine products already labelled under the earlier rule may still be marketed until stocks run out. [Art. 106a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_106a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 106a
+> Temporary labelling and presentation
+> After an application for the protection of a designation of origin or geographical indication has been forwarded to the Commission, producers may indicate in the labelling and presentation of the product that an application has been filed and use national logos and indications, in compliance with Union law, in particular with Regulation (EU) No 1169/2011.
+> Union symbols indicating the protected designation of origin or protected geographical indication and the Union indications protected designation of origin or protected geographical indication may appear on the labelling only after the publication of the decision conferring protection on that designation of origin or geographical indication.
+> Where an application is rejected, any grapevine products labelled in accordance with the first paragraph may be marketed until the stocks are exhausted.
+
+**DELETED · Art. 111** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 116a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 119 — Compulsory particulars** · applies from: unchanged
+
+*within* `AR 119 PA 1 ALN 1 PTA (a)`, `AR 119 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 119 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 119 PA 2 ALN 1` · *amended by* `32021R2117`
+
+Point (a) of Article 119(1)(1) now adds that for certain grapevine product categories that have undergone a de-alcoholisation treatment, the category designation must be accompanied by the term 'de-alcoholised' or 'partially de-alcoholised', depending on the resulting actual alcoholic strength by volume, whereas the earlier text contained no such requirement. [Art. 119, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_119) [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_119)
+
+Article 119(2)(1) now excludes grapevine products that have undergone a de-alcoholisation treatment from the derogation allowing the category reference to be omitted when the label carries a protected designation of origin or geographical indication name, a limitation absent from the earlier wording. [Art. 119, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_119) [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_119)
+
+*before* (`02013R1308-20201229`)
+
+> Article 119
+> Compulsory particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:
+> (a) the designation for the category of the grapevine product in accordance with Part II of Annex VII;
+> (b) for wines with a protected designation of origin or a protected geographical indication:
+> (i) the term "protected designation of origin" or "protected geographical indication"; and
+> (ii) the name of the protected designation of origin or the protected geographical indication;
+> (c) the actual alcoholic strength by volume;
+> (d) an indication of provenance;
+> (e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
+> (f) an indication of the importer in the case of imported wines; and
+> (g) in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, an indication of the sugar content.
+> 2. By way of derogation from point (a) of paragraph 1, the reference to the category of the grapevine product may be omitted for wines whose labels include the name of a protected designation of origin or a protected geographical indication.
+> 3. By way of derogation from point (b) of paragraph 1, the reference to the terms "protected designation of origin" or "protected geographical indicat […truncated by emendrix: 435 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 119
+> Compulsory particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:
+> (a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:
+> (i) the term de-alcoholised if the actual alcoholic strength of the product is no more than 0,5 % by volume; or
+> (ii) the term partially de-alcoholised if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation.
+> (b) for wines with a protected designation of origin or a protected geographical indication:
+> (i) the term "protected designation of origin" or "protected geographical indication"; and
+> (ii) the name of the protected designation of origin or the protected geographical indication;
+> (c) the actual alcoholic strength by volume;
+> (d) an indication of provenance;
+> (e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
+> (f) an indication of the i […truncated by emendrix: 1161 characters omitted…]
+
+**MODIFIED · Art. 122 — Delegated powers** · applies from: unchanged
+
+*within* `AR 122 PA 1 ALN 1 PTA (b) PTI (vi)`, `AR 122 PA 1 ALN 1 PTA (c) PTI (iii)`, `AR 122 PA 1 ALN 1 PTA (d) PTI (i)` · *amended by* `32021R2117`
+
+A new point (vi) was added under point (b), empowering delegated acts on rules for the indication and designation of ingredients for the application of Article 119(1), point (i). [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_122)
+
+A new point (iii) was added under point (c), covering terms referring to a holding and the conditions for their use. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_122)
+
+Point (d)(i) was expanded to also cover the conditions of use of closures, in addition to bottle shapes. [Art. 122, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_122)
+
+*before* (`02013R1308-20201229`)
+
+> Article 122
+> Delegated powers
+> 1. In order to take into account the specific characteristics of the wine sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules and restrictions on:
+> (a) the presentation and use of labelling particulars other than those provided for in this Section;
+> (b) compulsory particulars concerning:
+> (i) terms to be used to formulate the compulsory particulars and their conditions of use;
+> (ii) terms referring to a holding and the conditions for their use;
+> (iii) provisions allowing the producing Member States to establish additional rules relating to compulsory particulars;
+> (iv) provisions allowing further derogations in addition to those referred to in Article 119(2) as regards the omission of the reference to the category of the grapevine product; and
+> (v) provisions on the use of languages;
+> (c) optional particulars concerning:
+> (i) terms to be used to formulate the optional particulars and their conditions of use;
+> (ii) provisions allowing the producing Member States to establish additional rules relating to optional particulars;
+> (d) the presentation concerning:
+> (i) the conditions of use of certain bottle shapes, and a list of certain specific bottle shapes;
+> (ii) the conditions of use of "sparkling wine"-type bottles and closures;
+> (iii) provisions allowing the producing Member States to establish additional rules relating to presentation;
+> (iv) provisions on the use of languages.
+> 2. In order to ensure t […truncated by emendrix: 1024 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 122
+> Delegated powers
+> 1. In order to take into account the specific characteristics of the wine sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules and restrictions on:
+> (a) the presentation and use of labelling particulars other than those provided for in this Section;
+> (b) compulsory particulars concerning:
+> (i) terms to be used to formulate the compulsory particulars and their conditions of use;
+> (ii) terms referring to a holding and the conditions for their use;
+> (iii) provisions allowing the producing Member States to establish additional rules relating to compulsory particulars;
+> (iv) provisions allowing further derogations in addition to those referred to in Article 119(2) as regards the omission of the reference to the category of the grapevine product; and
+> (v) provisions on the use of languages;
+> (vi) rules for the indication and designation of ingredients for the application of Article 119(1), point (i).
+> (c) optional particulars concerning:
+> (i) terms to be used to formulate the optional particulars and their conditions of use;
+> (ii) provisions allowing the producing Member States to establish additional rules relating to optional particulars;
+> (iii) terms referring to a holding and the conditions for their use.
+> (d) the presentation concerning:
+> (i) the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle shapes;
+> (ii) the conditions of use of "sparkling wine"-type […truncated by emendrix: 1220 characters omitted…]
+
+**DELETED · Art. 124** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 125 — Sugar sector agreements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 125 PA 3 ALN 1` · *dates* -2017-10-01 · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Paragraph 3 no longer contains the opening phrase specifying that the conformity requirement applies from 1 October 2017, leaving the sentence to state simply that agreements within the trade shall conform to the purchase terms laid down in Annex X. [Art. 125, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_125) [Art. 125, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_125)
+
+*before* (`02013R1308-20201229`)
+
+> Article 125
+> Sugar sector agreements
+> 1. The terms for buying sugar beet and sugar cane, including pre-sowing delivery contracts, shall be governed by written agreements within the trade concluded between, on the one hand, Union growers of sugar beet and sugar cane or, on their behalf, the organisations of which they are members, and, on the other hand, Union sugar undertakings or, on their behalf, the organisations of which they are members.
+> 2. Agreements within the trade as described in point 6 of Section A of Part II of Annex II shall be notified by sugar undertakings to the competent authorities of the Member State in which they produce sugar.
+> 3. From 1 October 2017, agreements within the trade shall conform to the purchase terms laid down in Annex X.
+> 4. In order to take into account the specific characteristics of the sugar sector and the development of the sector in the period following the ending of production quotas, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to:
+> (a) update the terms referred to in Section A of Part II of Annex II;
+> (b) update the purchase terms for beet referred to in Annex X;
+> (c) lay down further rules on the determination of gross weight, tare and sugar content of sugar beet delivered to an undertaking, and on beet pulp.
+> 5. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article, including in respect of procedures, notifications and administrative a […truncated by emendrix: 206 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 125
+> Sugar sector agreements
+> 1. The terms for buying sugar beet and sugar cane, including pre-sowing delivery contracts, shall be governed by written agreements within the trade concluded between, on the one hand, Union growers of sugar beet and sugar cane or, on their behalf, the organisations of which they are members, and, on the other hand, Union sugar undertakings or, on their behalf, the organisations of which they are members.
+> 2. Agreements within the trade as described in point 6 of Section A of Part II of Annex II shall be notified by sugar undertakings to the competent authorities of the Member State in which they produce sugar.
+> 3. Agreements within the trade shall conform to the purchase terms laid down in Annex X.
+> 4. In order to take into account the specific characteristics of the sugar sector and the development of the sector in the period following the ending of production quotas, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to:
+> (a) update the terms referred to in Section A of Part II of Annex II;
+> (b) update the purchase terms for beet referred to in Annex X;
+> (c) lay down further rules on the determination of gross weight, tare and sugar content of sugar beet delivered to an undertaking, and on beet pulp.
+> 5. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article, including in respect of procedures, notifications and administrative assistance in the case […truncated by emendrix: 185 characters omitted…]
+
+**DELETED · Art. 127** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 145** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 147a — Payment delays for sales of wine in bulk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+A new Article 147a has been added, setting out a derogation allowing Member States, at the request of a recognised wine sector interbranch organisation, to disapply the payment-delay prohibition in Article 3(1), first subparagraph, point (a), of Directive (EU) 2019/633 for payments under supply agreements between wine producers or resellers and their direct buyers concerning bulk wine sales. [Art. 147a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_147a)
+
+The provision conditions this derogation on two elements: that standard contracts made binding before 30 October 2021 contain specific terms permitting payment after 60 days and that such extension is renewed without significant changes disadvantaging bulk wine suppliers, and that the supply agreements between bulk wine suppliers and their direct buyers are or become multiannual. [Art. 147a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_147a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 147a
+> Payment delays for sales of wine in bulk
+> By way of derogation from Article 3(1) of Directive (EU) 2019/633, Member States may, upon request of an interbranch organisation recognised under Article 157 of this Regulation operating in the wine sector, provide that the prohibition referred to in Article 3(1), first subparagraph, point (a), of Directive (EU) 2019/633 does not apply to payments made under supply agreements between producers or resellers of wine and their direct buyers for sales transactions concerning wine in bulk, provided that:
+> (a) specific terms that allow payments to be made after 60 days are included in standard contracts for sales transactions concerning wine in bulk which have been made binding by the Member State pursuant to Article 164 of this Regulation before 30 October 2021 and this extension of the standard contracts is renewed by the Member State as from that date without any significant changes to the terms of payment that would be to the disadvantage of suppliers of wine in bulk; and
+> (b) the supply agreements between suppliers of wine in bulk and their direct buyers are multiannual or become multiannual.
+
+**MODIFIED · Art. 148 — Contractual relations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 148 PA 2 ALN 1 PTA (c) PTI (i)` · *amended by* `32021R2117`
+
+The provision on calculating the price payable by combining factors set out in the contract now describes those factors as objective indicators, indices and methods of calculation of the final price that are easily accessible and comprehensible, rather than simply as market indicators, and adds that such indicators may be based on relevant prices, production and market costs. [Art. 148, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_148)
+
+The revised text also adds that Member States may determine such indicators using objective criteria based on studies of production and the food supply chain, and that the parties to the contract remain free to refer to these or any other indicators they consider relevant. [Art. 148, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_148)
+
+The earlier version contained no such detail on the origin, accessibility or determination of the indicators used to calculate the price. [Art. 148, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_148)
+
+*before* (`02013R1308-20201229`)
+
+> Article 148
+> Contractual relations in the milk and milk products sector
+> 1. Where a Member State decides that every delivery of raw milk in its territory by a farmer to a processor of raw milk must be covered by a written contract between the parties and/or decides that first purchasers must make a written offer for a contract for the delivery of raw milk by the farmers, such contract and/or such offer for a contract shall fulfil the conditions laid down in paragraph 2.
+> Where a Member State decides that deliveries of raw milk by a farmer to a processor of raw milk must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if the delivery of raw milk is made through one or more collectors.
+> For the purposes of this Article, a "collector" means an undertaking which transports raw milk from a farmer or another collector to a processor of raw milk or another collector, where the ownership of the raw milk is transferred in each case.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation, or an association of producer organisations may require that any delivery in raw milk to a processor of raw milk be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in the first subparagraph of paragraph […truncated by emendrix: 3739 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 148
+> Contractual relations in the milk and milk products sector
+> 1. Where a Member State decides that every delivery of raw milk in its territory by a farmer to a processor of raw milk must be covered by a written contract between the parties and/or decides that first purchasers must make a written offer for a contract for the delivery of raw milk by the farmers, such contract and/or such offer for a contract shall fulfil the conditions laid down in paragraph 2.
+> Where a Member State decides that deliveries of raw milk by a farmer to a processor of raw milk must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if the delivery of raw milk is made through one or more collectors.
+> For the purposes of this Article, a "collector" means an undertaking which transports raw milk from a farmer or another collector to a processor of raw milk or another collector, where the ownership of the raw milk is transferred in each case.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation, or an association of producer organisations may require that any delivery in raw milk to a processor of raw milk be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in the first subparagraph of paragraph […truncated by emendrix: 4208 characters omitted…]
+
+**MODIFIED · Art. 149 — Contractual negotiations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 149 PA 2 ALN 1 PTA (c) PTI (i)` · *amended by* `32021R2117`
+
+The threshold for the volume of raw milk covered by producer organisation negotiations, expressed as a share of total Union production, was raised from 3.5% to 4%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_149)
+
+*before* (`02013R1308-20201229`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 3,5 % of total Union production,
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogat […truncated by emendrix: 3101 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 4 % of total Union production,
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate […truncated by emendrix: 3099 characters omitted…]
+
+**DELETED · Art. 150** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 151 — Compulsory declarations in the milk and milk products sector** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 151 ALN 1`, `AR 151 ALN 3` · *dates* -2015-04-01 · *amended by* `32021R2117`
+
+The requirement for first purchasers to declare raw milk quantities no longer refers to a starting date of 1 April 2015, and the declaration must now also state the average price paid, with a distinction made between organic and non-organic milk. [Art. 151, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_151) [Art. 151, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_151)
+
+The related notification obligation on Member States was correspondingly updated to cover average prices in addition to quantities of raw milk. [Art. 151, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_151)
+
+*before* (`02013R1308-20201229`)
+
+> Article 151
+> Compulsory declarations in the milk and milk products sector
+> From 1 April 2015, the first purchasers of raw milk shall declare to the competent national authority the quantity of raw milk that has been delivered to them each month.
+> For the purposes of this Article and Article 148, a "first purchaser" means an undertaking or group which buys milk from producers in order to:
+> (a) subject it to collecting, packing, storing, chilling or processing, including under a contract;
+> (b) sell it to one or more undertakings treating or processing milk or other milk products.
+> Member States shall notify the Commission of the quantity of raw milk referred to in the first subparagraph.
+> The Commission may adopt implementing acts laying down rules on the content, format and timing of such declarations and measures relating to the notifications to be made by the Member States in accordance with this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20211207`)
+
+> Article 151
+> Compulsory declarations in the milk and milk products sector
+> The first purchasers of raw milk shall declare to the competent national authority the quantity of raw milk that has been delivered to them each month and the average price paid. A distinction shall be made between organic and non-organic milk.
+> For the purposes of this Article and Article 148, a "first purchaser" means an undertaking or group which buys milk from producers in order to:
+> (a) subject it to collecting, packing, storing, chilling or processing, including under a contract;
+> (b) sell it to one or more undertakings treating or processing milk or other milk products.
+> Member States shall notify the Commission of the quantities of raw milk and the average prices referred to in the first paragraph.
+> The Commission may adopt implementing acts laying down rules on the content, format and timing of such declarations and measures relating to the notifications to be made by the Member States in accordance with this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**MODIFIED · Art. 152 — Producer organisations** · applies from: unchanged
+
+*within* `AR 152 PA 1 ALN 1 PTA (c) PTI (vii)`, `AR 152 PA 1 ALN 1 PTA (c) PTI (x)` · *amended by* `32021R2117`
+
+Point (c)(vii) now refers to the management and valorisation of by-products, residual flows and waste, adding mention of boosting circularity alongside the existing references to protecting water, soil and landscape quality and preserving or encouraging biodiversity. [Art. 152, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_152) [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_152)
+
+Point (c)(x) now simply refers to managing mutual funds, removing the earlier wording that tied this to mutual funds referred to in operational programmes in the fruit and vegetables sector under point (d) of Article 33(3) and under Article 36 of Regulation (EU) No 1305/2013. [Art. 152, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_152) [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_152)
+
+*before* (`02013R1308-20201229`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);
+> (b) are formed on the initiative of the producers and which carry out at least one of the following activities:
+> (i) joint processing;
+> (ii) joint distribution, including by joint selling platforms or joint transportation;
+> (iii) joint packaging, labelling or promotion;
+> (iv) joint organising of quality control;
+> (v) joint use of equipment or storage facilities;
+> (vi) joint management of waste directly related to the production;
+> (vii) joint procurement of inputs;
+> (viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+> (iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+> (iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+> (v) promoting, and providin […truncated by emendrix: 5353 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);
+> (b) are formed on the initiative of the producers and which carry out at least one of the following activities:
+> (i) joint processing;
+> (ii) joint distribution, including by joint selling platforms or joint transportation;
+> (iii) joint packaging, labelling or promotion;
+> (iv) joint organising of quality control;
+> (v) joint use of equipment or storage facilities;
+> (vi) joint management of waste directly related to the production;
+> (vii) joint procurement of inputs;
+> (viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+> (iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+> (iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+> (v) promoting, and providin […truncated by emendrix: 5219 characters omitted…]
+
+**MODIFIED · Art. 153 — Statutes of producer organisations** · applies from: unchanged
+
+*within* `AR 153 PA 2 ALN 1 PTA (c)`, `AR 153 PA 2a`, `AR 153 PA 3 ALN 1` · *amended by* `32021R2117`
+
+Point (c) of paragraph 2 now also covers producer members scrutinising the organisation's accounts and budgets, in addition to its decisions. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_153)
+
+A new paragraph 2a was added allowing the statutes to permit producer members to have direct contact with purchasers, subject to a condition that this not jeopardise the organisation's concentration of supply and market placement, with concentration of supply deemed ensured when price, quality and volume are negotiated and determined by the organisation. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_153)
+
+Paragraph 3's exclusion for the milk and milk products sector, which previously referred only to paragraphs 1 and 2, now also refers to the new paragraph 2a. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_153)
+
+*before* (`02013R1308-20201229`)
+
+> Article 153
+> Statutes of producer organisations
+> 1. The statutes of a producer organisation shall require its producer members, in particular, to:
+> (a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
+> (b) be members of only one producer organisation for any given product of the holding; however Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+> (c) provide the information requested by the producer organisation for statistical purposes.
+> 2. The statutes of a producer organisation shall also provide for:
+> (a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;
+> (b) the imposition on members of financial contributions needed to finance the producer organisation;
+> (c) rules enabling the producer members to scrutinise democratically their organisation and its decisions;
+> (d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;
+> (e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;
+> (f) the accounting and budgetary rules necessary for the operation of the organisation.
+> 3. Paragraphs 1 and 2 shall not apply to producer organisations in the […truncated by emendrix: 31 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 153
+> Statutes of producer organisations
+> 1. The statutes of a producer organisation shall require its producer members, in particular, to:
+> (a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
+> (b) be members of only one producer organisation for any given product of the holding; however Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+> (c) provide the information requested by the producer organisation for statistical purposes.
+> 2. The statutes of a producer organisation shall also provide for:
+> (a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;
+> (b) the imposition on members of financial contributions needed to finance the producer organisation;
+> (c) rules enabling the producer members to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;
+> (d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;
+> (e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;
+> (f) the accounting and budgetary rules necessary for the operation of the organisation.
+> 2a. The statutes of a producer org […truncated by emendrix: 552 characters omitted…]
+
+**MODIFIED · Art. 154 — Recognition of producer organisations** · applies from: unchanged
+
+*within* `AR 154 PA 1 ALN 1 PTA (b)` · *amended by* `32021R2117`
+
+Point (b) of Article 154(1) now adds a clause stating that the rules a Member State sets on minimum membership or minimum volume or value of marketable production shall not prevent the recognition of producer organisations dedicated to small-scale production. [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_154) [Art. 154, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_154)
+
+*before* (`02013R1308-20201229`)
+
+> Article 154
+> Recognition of producer organisations
+> 1. In order to be recognised by a Member State, the producer organisation applying for such recognition shall be a legal entity or clearly defined part of a legal entity which:
+> (a) fulfils the requirements laid down in points (a), (b) and (c) of Article 152(1);
+> (b) has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates;
+> (c) provides sufficient evidence that it can carry out its activities properly, both over time and in terms of effectiveness, provision of human, material and technical support to its members, and as appropriate concentration of supply;
+> (d) has statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 1a. Member States may, on request, decide to grant more than one recognition to a producer organisation operating in several sectors referred to in Article 1(2) provided the producer organisation fulfils the conditions referred to in paragraph 1 of this Article for each sector for which it seeks recognition.
+> 2. Member States may decide that producer organisations which have been recognised before 1 January 2018 and which fulfil the conditions laid down in paragraph 1 of this Article shall be deemed to be recognised as producer organisations pursuant to Article 152.
+> 3. Where producer organisations have been recognised before 1 January 2018 but do not fulfil the conditions set ou […truncated by emendrix: 981 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 154
+> Recognition of producer organisations
+> 1. In order to be recognised by a Member State, the producer organisation applying for such recognition shall be a legal entity or clearly defined part of a legal entity which:
+> (a) fulfils the requirements laid down in points (a), (b) and (c) of Article 152(1);
+> (b) has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates; such provisions shall not prevent the recognition of producer organisations which are dedicated to small-scale production;
+> (c) provides sufficient evidence that it can carry out its activities properly, both over time and in terms of effectiveness, provision of human, material and technical support to its members, and as appropriate concentration of supply;
+> (d) has statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 1a. Member States may, on request, decide to grant more than one recognition to a producer organisation operating in several sectors referred to in Article 1(2) provided the producer organisation fulfils the conditions referred to in paragraph 1 of this Article for each sector for which it seeks recognition.
+> 2. Member States may decide that producer organisations which have been recognised before 1 January 2018 and which fulfil the conditions laid down in paragraph 1 of this Article shall be deemed to be recognised as producer organisations pursuant to Arti […truncated by emendrix: 1104 characters omitted…]
+
+**MODIFIED · Art. 157 — Interbranch organisations** · applies from: unchanged
+
+*within* `AR 157 PA 1 ALN 1`, `AR 157 PA 1 ALN 1 PTA (c) PTI (vii)`, `AR 157 PA 1 ALN 1 PTA (c) PTI (xiv)`, `AR 157 PA 1 ALN 1 PTA (c) PTI (xvi)`, `AR 157 PA 1a ALN 1` · *amended by* `32021R2117`
+
+The opening of paragraph 1 now adds recognition of interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2), a specification absent from the earlier text. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_157) [Art. 157, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_157)
+
+Point (c)(vii) now also references climate action, animal health and animal welfare alongside protection of the environment, point (c)(xiv) now speaks of developing initiatives for the valorisation of by-products rather than only contributing to their management, and point (c)(xvi) now covers promoting and implementing measures to prevent, control and manage the listed risks, including setting up or contributing to mutual funds to compensate farmers for related costs and losses. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_157) [Art. 157, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_157)
+
+Paragraph 1a no longer refers to the conditions of paragraph 3 alongside those of paragraph 1 when granting more than one recognition. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_157) [Art. 157, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_157)
+
+*before* (`02013R1308-20201229`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply […truncated by emendrix: 6324 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract […truncated by emendrix: 6742 characters omitted…]
+
+**MODIFIED · Art. 158 — Recognition of interbranch organisations** · applies from: unchanged
+
+*within* `AR 158 PA 1 ALN 1 PTA (ca)`, `AR 158 PA 4 ALN 1` · *amended by* `32021R2117`
+
+A new point (ca) is added to Article 158(1), requiring interbranch organisations seeking recognition to strive for a balanced representation of the organisations in the supply-chain stages referred to in Article 157(1), point (a). [Art. 158, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_158)
+
+Article 158(4) is shortened by removing the reference to point (b) of Article 157(3), leaving only the reference to Article 157(1), point (b), as the condition that need not be fulfilled. [Art. 158, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_158) [Art. 158, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_158)
+
+*before* (`02013R1308-20201229`)
+
+> Article 158
+> Recognition of interbranch organisations
+> 1. Member States may recognise interbranch organisations applying for such recognition, provided that they:
+> (a) fulfil the requirements laid down in Article 157;
+> (b) carry out their activities in one or more regions in the territory concerned;
+> (c) account for a significant share of the economic activities referred to in point (a) of Article 157(1);
+> (d) with the exception of the cases laid down in Article 162, do not, themselves, engage in production, processing or trade.
+> 2. Member States may decide that interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are deemed to be recognised as interbranch organisations pursuant to Article 157.
+> 3. Interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which do not fulfil the conditions laid down in paragraph 1 of this Article may continue to exercise their activities under national law until 1 January 2015.
+> 4. Member States may recognise interbranch organisations in all sectors existing prior to 1 January 2014, whether they were recognised on request or established by law, even though they do not fulfil the condition laid down in point (b) of Article 157(1) or in point (b) of Article 157(3).
+> 5. Where Member States recognise an interbranch organisation in accordance with paragraph 1 or 2, they shall:
+> (a) decid […truncated by emendrix: 936 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 158
+> Recognition of interbranch organisations
+> 1. Member States may recognise interbranch organisations applying for such recognition, provided that they:
+> (a) fulfil the requirements laid down in Article 157;
+> (b) carry out their activities in one or more regions in the territory concerned;
+> (c) account for a significant share of the economic activities referred to in point (a) of Article 157(1);
+> (ca) strive for a balanced representation of the organisations in the stages of the supply chain referred to in Article 157(1), point (a), that constitute the interbranch organisation;
+> (d) with the exception of the cases laid down in Article 162, do not, themselves, engage in production, processing or trade.
+> 2. Member States may decide that interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are deemed to be recognised as interbranch organisations pursuant to Article 157.
+> 3. Interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which do not fulfil the conditions laid down in paragraph 1 of this Article may continue to exercise their activities under national law until 1 January 2015.
+> 4. Member States may recognise interbranch organisations in all sectors existing prior to 1 January 2014, whether they were recognised on request or established by law, even though they do not fulfil the condition laid down […truncated by emendrix: 1085 characters omitted…]
+
+**MODIFIED · Art. 163 — Recognition of interbranch organisations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 163 PA 1 ALN 1 PTA (a)`, `AR 163 PA 1 ALN 1 PTA (c)`, `AR 163 PA 2 ALN 1`, `AR 163 PA 3 ALN 1 PTA (d)`, `AR 163 PA 3 ALN 1 PTA (d) PTI (i)`, `AR 163 PA 3 ALN 1 PTA (d) PTI (ii)`, `AR 163 PA 3 ALN 1 PTA (d) PTI (iii)` · *amended by* `32021R2117`
+
+The cross-references in point (a) and point (c) of paragraph 1 were updated, replacing the citation to Article 157(3) with a citation to Article 157 generally in point (a), and replacing the citation to point (a) of Article 157(3) with a citation to Article 157(1), point (a), in point (c). [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_163)
+
+Paragraph 2 now refers to Article 157(1) instead of Article 157(3) as the provision under which interbranch organisations are considered recognised. [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_163)
+
+Point (d) of paragraph 3 was shortened by removing the three numbered grounds for withdrawal of recognition relating to non-fulfilment of conditions, participation in prohibited agreements, and failure to notify, leaving only the single ground that requirements and conditions for recognition are no longer fulfilled. [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_163)
+
+*before* (`02013R1308-20201229`)
+
+> Article 163
+> Recognition of interbranch organisations in the milk and milk products sector
+> 1. Member States may recognise interbranch organisations in the milk and milk products sector provided that such organisations:
+> (a) fulfil the requirements laid down in Article 157(3);
+> (b) carry out their activities in one or more regions in the territory concerned;
+> (c) account for a significant share of the economic activities referred to in point (a) of Article 157(3);
+> (d) do not themselves engage in the production of, the processing of, or the trade in, products in the milk and milk products sector.
+> 2. Member States may decide that interbranch organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 are to be considered to be recognised as interbranch organisations under Article 157(3).
+> 3. Where Member States make use of the option to recognise an interbranch organisation in accordance with paragraph 1 or 2, they shall:
+> (a) decide whether to grant recognition to the interbranch organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+> (b) carry out, at intervals to be determined by them, checks to verify that recognised interbranch organisations are complying with the conditions governing their recognition;
+> (c) in the event of non-complia […truncated by emendrix: 928 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 163
+> Recognition of interbranch organisations in the milk and milk products sector
+> 1. Member States may recognise interbranch organisations in the milk and milk products sector provided that such organisations:
+> (a) fulfil the requirements laid down in Article 157;
+> (b) carry out their activities in one or more regions in the territory concerned;
+> (c) account for a significant share of the economic activities referred to in Article 157(1), point (a);
+> (d) do not themselves engage in the production of, the processing of, or the trade in, products in the milk and milk products sector.
+> 2. Member States may decide that interbranch organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are to be considered to be recognised as interbranch organisations under Article 157(1).
+> 3. Where Member States make use of the option to recognise an interbranch organisation in accordance with paragraph 1 or 2, they shall:
+> (a) decide whether to grant recognition to the interbranch organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+> (b) carry out, at intervals to be determined by them, checks to verify that recognised interbranch organisations are complying with the conditions governing their recognition;
+> (c) in the event of […truncated by emendrix: 523 characters omitted…]
+
+**MODIFIED · Art. 164 — Extension of rules** · applies from: unchanged
+
+*within* `AR 164 PA 2 ALN 1`, `AR 164 PA 4 ALN 1 PTA (l)`, `AR 164 PA 4 ALN 1 PTA (m)`, `AR 164 PA 4 ALN 1 PTA (n)`, `AR 164 PA 4 ALN 2` · *amended by* `32021R2117`
+
+The definition of an economic area in paragraph 2 now also includes, for products with a protected designation of origin or protected geographical indication recognised under Union law, the geographical zone specified in the product specification. [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_164)
+
+In paragraph 4, point (l) now excludes certified seed used for organic production within the meaning of Regulation (EU) 2018/848 from its scope, point (m) now refers to the prevention and management of phytosanitary, animal health, food safety or environmental risks rather than simply animal health, plant health or food safety, and point (n) now refers to the management and valorisation of by-products rather than just their management. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_164)
+
+The closing text of paragraph 4 now adds that the rules shall not prevent the entry of new operators, in addition to the existing prohibition on causing damage to other operators. [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_164)
+
+*before* (`02013R1308-20201229`)
+
+> Article 164
+> Extension of rules
+> 1. In cases where a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation operating in a specific economic area or areas of a Member State is considered to be representative of the production of or trade in, or processing of, a given product, the Member State concerned may, at the request of that organisation, make binding for a limited period of time some of the agreements, decisions or concerted practices agreed within that organisation on other operators acting in the economic area or areas in question, whether individuals or groups, who do not belong to the organisation or association.
+> 2. For the purposes of this Section, an "economic area" means a geographical zone made up of adjoining or neighbouring production regions in which production and marketing conditions are homogeneous.
+> 3. An organisation or association shall be deemed representative where, in the economic area or areas concerned of a Member State, it accounts for:
+> (a) as a proportion of the volume of production of, or of trade in, or of processing of the product or products concerned:
+> (i) for producer organisations in the fruit and vegetables sector, at least 60 %, or
+> (ii) in other cases, at least two thirds; and
+> (b) in the case of producer organisations, more than 50 % of the producers concerned.
+> However, where, in the case of interbranch organisations, the determination of the proportion of the volume of p […truncated by emendrix: 2293 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 164
+> Extension of rules
+> 1. In cases where a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation operating in a specific economic area or areas of a Member State is considered to be representative of the production of or trade in, or processing of, a given product, the Member State concerned may, at the request of that organisation, make binding for a limited period of time some of the agreements, decisions or concerted practices agreed within that organisation on other operators acting in the economic area or areas in question, whether individuals or groups, who do not belong to the organisation or association.
+> 2. For the purposes of this Section, an economic area means a geographical zone made up of adjoining or neighbouring production regions in which production and marketing conditions are homogeneous, or, for products with a protected designation of origin or protected geographical indication recognised under Union law, the geographical zone specified in the product specification.
+> 3. An organisation or association shall be deemed representative where, in the economic area or areas concerned of a Member State, it accounts for:
+> (a) as a proportion of the volume of production of, or of trade in, or of processing of the product or products concerned:
+> (i) for producer organisations in the fruit and vegetables sector, at least 60 %, or
+> (ii) in other cases, at least two thirds; and
+> (b) in the case o […truncated by emendrix: 2679 characters omitted…]
+
+**MODIFIED · Art. 165 — Financial contributions of non-members** · applies from: unchanged
+
+*within* `AR 165 ALN 1` · *amended by* `32021R2117`
+
+The provision changes the phrase describing which activities the costs relate to, from "the activities in question" to "one or more of the activities in question". [Art. 165, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_165) [Art. 165, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_165)
+
+A new sentence is added requiring an organisation receiving contributions from non-members to make available, upon request by a member or a contributing non-member, the parts of its yearly budget relating to the pursuit of activities listed in Article 164(4). [Art. 165, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_165)
+
+*before* (`02013R1308-20201229`)
+
+> Article 165
+> Financial contributions of non-members
+> Where rules of a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation are extended under Article 164 and the activities covered by those rules are in the general economic interest of economic operators whose activities relate to the products concerned, the Member State which has granted recognition may, after consulting the relevant stakeholders, decide that individual economic operators or groups which are not members of the organisation but which benefit from those activities shall pay the organisation all or part of the financial contributions paid by its members to the extent that such contributions are intended to cover costs directly incurred as a result of pursuing the activities in question.
+
+*after* (`02013R1308-20211207`)
+
+> Article 165
+> Financial contributions of non-members
+> Where rules of a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation are extended under Article 164 and the activities covered by those rules are in the general economic interest of economic operators whose activities relate to the products concerned, the Member State which has granted recognition may, after consulting the relevant stakeholders, decide that individual economic operators or groups which are not members of the organisation but which benefit from those activities shall pay the organisation all or part of the financial contributions paid by its members to the extent that such contributions are intended to cover costs directly incurred as a result of pursuing one or more of the activities in question. Any organisation which receives contributions from non-members under this Article, if requested by a member or a non-member that contributes financially to the activities of the organisation, shall make available those parts of its yearly budget which relate to the pursuit of activities listed in Article 164(4).
+
+**INSERTED · Art. 166a — Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+A new Article 166a has been added, allowing Member States to lay down, for a limited period and at the request of specified producer or interbranch bodies, binding rules regulating the supply of agricultural products carrying a protected designation of origin or protected geographical indication. [Art. 166a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_166a)
+
+The new article sets conditions for such rules, including the need for prior agreement among a qualifying majority of producers, special provisions for cheese, limits on scope and duration, prohibitions such as price fixing, and requirements for publication, notification to the Commission, and Commission power to require repeal. [Art. 166a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_166a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 166a
+> Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication
+> 1. Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a group of operators as referred to in Article 3(2) of Regulation (EU) No 1151/2012 or a group of producers as referred to in Article 95(1) of this Regulation, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 5(1) and (2) of Regulation (EU) No 1151/2012 or under Article 93(1), points (a) and (b), of this Regulation.
+> 2. The rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement that is to be concluded between at least two-thirds of the producers of the product as referred to in paragraph 1 of this Article or their representatives, accounting for at least two-thirds of the production of that product in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 or Article 93(1), points (a)(iii) and (b)(iv), of this Regulation for wine. Where the p […truncated by emendrix: 4315 characters omitted…]
+
+**MODIFIED · Art. 168 — Contractual relations** · applies from: unchanged
+
+*within* `AR 168 PA 4 ALN 1 PTA (c) PTI (i)` · *amended by* `32021R2117`
+
+The description of the price-calculation method in point (c)(i) of paragraph 4 has been expanded to specify that the market-condition factors used may consist of objective indicators, indices and methods of calculation of the final price that are easily accessible and comprehensible. [Art. 168, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_168)
+
+It further adds that these indicators may be based on relevant prices, production and market costs, that Member States may determine such indicators using objective criteria drawn from studies of production and the food supply chain, and that contracting parties remain free to refer to these or any other indicators they consider relevant, none of which appeared in the earlier text. [Art. 168, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_168) [Art. 168, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_168)
+
+*before* (`02013R1308-20201229`)
+
+> Article 168
+> Contractual relations
+> 1. Without prejudice to Article 148 concerning the milk and milk products sector and Article 125 concerning the sugar sector, if a Member State decides, in respect of agricultural products from a sector listed in Article 1(2), other than milk and milk products and sugar:
+> (a) that every delivery in its territory of those products by a producer to a processor or distributor must be covered by a written contract between the parties; and/or
+> (b) that the first purchasers must make a written offer for a contract for the delivery in its territory of those agricultural products by the producer,
+> such a contract or such an offer for a contract shall fulfil the conditions laid down in paragraphs 4 and 6 of this Article.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation or an association of producer organisations, in respect of agricultural products in a sector referred to in Article 1(2) other than the milk, milk products and sugar sector, may require that any delivery of its products to a processor or distributor be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in paragraph 4 and in the first subparagraph of paragraph 6 of this Article.
+> If the first purchaser is a micro, small or medium-sized enterprise within the meaning of Recommendation 20 […truncated by emendrix: 4479 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 168
+> Contractual relations
+> 1. Without prejudice to Article 148 concerning the milk and milk products sector and Article 125 concerning the sugar sector, if a Member State decides, in respect of agricultural products from a sector listed in Article 1(2), other than milk and milk products and sugar:
+> (a) that every delivery in its territory of those products by a producer to a processor or distributor must be covered by a written contract between the parties; and/or
+> (b) that the first purchasers must make a written offer for a contract for the delivery in its territory of those agricultural products by the producer,
+> such a contract or such an offer for a contract shall fulfil the conditions laid down in paragraphs 4 and 6 of this Article.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation or an association of producer organisations, in respect of agricultural products in a sector referred to in Article 1(2) other than the milk, milk products and sugar sector, may require that any delivery of its products to a processor or distributor be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in paragraph 4 and in the first subparagraph of paragraph 6 of this Article.
+> If the first purchaser is a micro, small or medium-sized enterprise within the meaning of Recommendation 20 […truncated by emendrix: 4949 characters omitted…]
+
+**DELETED · Art. 172** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 172a — Value sharing** · applies from: unchanged
+
+*within* `AR 172a`, `AR 172a ALN 1` · *amended by* `32021R2117`
+
+**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+
+The heading changes from a hyphenated form to two separate words, reading Value sharing instead of Value-sharing. [Art. 172a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_172a) [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172a)
+
+The party farmers may agree with is changed from their first purchaser to downstream operators. [Art. 172a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_172a) [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172a)
+
+*before* (`02013R1308-20201229`)
+
+> Article 172a
+> Value-sharing
+> Without prejudice to any specific value-sharing clauses in the sugar sector, farmers, including associations of farmers, and their first purchaser may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices for the products concerned or other commodity markets is to be allocated between them.
+
+*after* (`02013R1308-20211207`)
+
+> Article 172a
+> Value sharing
+> Without prejudice to any specific value-sharing clauses in the sugar sector, farmers, including associations of farmers, may agree with downstream operators on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices for the products concerned or other commodity markets is to be allocated between them.
+
+**INSERTED · Art. 172b — Guidance by interbranch organisations for the sale of grapes for wines with a protected designation of origin or protected geographical indication** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new Article 172b is added, allowing interbranch organisations recognised under Article 157 that operate in the wine sector to issue non-mandatory price guidance indicators for the sale of grapes used to produce wines with a protected designation of origin or protected geographical indication, as a derogation from Article 101(1) TFEU. [Art. 172b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172b)
+
+The text specifies that such guidance must not eliminate competition in respect of a substantial proportion of the products concerned. [Art. 172b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172b)
+
+*after* (`02013R1308-20211207`)
+
+> Article 172b
+> Guidance by interbranch organisations for the sale of grapes for wines with a protected designation of origin or protected geographical indication
+> By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation operating in the wine sector may provide non-mandatory price guidance indicators concerning the sale of grapes for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.
+
+**MODIFIED · Art. 182 — Additional import duties** · applies from: unchanged
+
+*within* `AR 182 PA 1 ALN 2`, `AR 182 PA 1 ALN 3`, `AR 182 PA 1 ALN 4` · *amended by* `32021R2117`
+
+The description of the trigger volume was changed from a general reference to market access opportunities based on the previous three years' import share of domestic consumption, to a specific formula setting the trigger volume at 125%, 110% or 105% depending on whether that import share is 10% or less, between 10% and 30%, or above 30%. [Art. 182, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_182) [Art. 182, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_182)
+
+A new sentence was added stating that where domestic consumption is not taken into account, the trigger volume is set at 125%. [Art. 182, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_182)
+
+The other paragraphs of Article 182, including those on exclusions, price determination and implementing measures, remain textually unchanged. [Art. 182, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_182) [Art. 182, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_182)
+
+*before* (`02013R1308-20201229`)
+
+> Article 182
+> Additional import duties
+> 1. The Commission may adopt implementing acts determining the products of the cereals, rice, sugar, fruit and vegetables, processed fruit and vegetables, beef and veal, milk and milk products, pigmeat, sheepmeat and goatmeat, eggs, poultry and bananas sectors, as well as of grape juice and grape must, to which, when imported subject to the rate of duty laid down in the Common Customs Tariff, an additional import duty shall apply in order to prevent or counteract adverse effects on the Union market which may result from those imports, if:
+> (a) the imports are made at a price below the level notified by the Union to the WTO (the trigger price); or
+> (b) the volume of imports in any year exceeds a certain level (the trigger volume).
+> The trigger volume shall be based on market access opportunities defined as imports expressed as a percentage of the corresponding domestic consumption during the three previous years.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. Additional import duties shall not be imposed where the imports are unlikely to disturb the Union market, or where the effects would be disproportionate to the intended objective.
+> 3. For the purposes of point (a) of the first subparagraph of paragraph 1, import prices shall be determined on the basis of the c.i.f. import prices of the consignment under consideration. C.i.f. import prices shall be checked against the r […truncated by emendrix: 339 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 182
+> Additional import duties
+> 1. The Commission may adopt implementing acts determining the products of the cereals, rice, sugar, fruit and vegetables, processed fruit and vegetables, beef and veal, milk and milk products, pigmeat, sheepmeat and goatmeat, eggs, poultry and bananas sectors, as well as of grape juice and grape must, to which, when imported subject to the rate of duty laid down in the Common Customs Tariff, an additional import duty shall apply in order to prevent or counteract adverse effects on the Union market which may result from those imports, if:
+> (a) the imports are made at a price below the level notified by the Union to the WTO (the trigger price); or
+> (b) the volume of imports in any year exceeds a certain level (the trigger volume).
+> The trigger volume shall be equal to either 125 %, 110 % or 105 %, depending on whether market access opportunities, defined as imports expressed as a percentage of the corresponding domestic consumption during the three preceding years, are less than or equal to 10 %, greater than 10 % but less than or equal to 30 %, or greater than 30 %, respectively.
+> Where domestic consumption is not taken into account, the trigger volume shall be equal to 125 %.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. Additional import duties shall not be imposed where the imports are unlikely to disturb the Union market, or where the effects would be disproportionate […truncated by emendrix: 608 characters omitted…]
+
+**DELETED · Art. 192** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Art. 193** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 193a — Suspension of import duties for molasses** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is newly added, empowering the Commission to adopt delegated acts establishing rules for suspending import duties, in whole or in part, on molasses falling within CN Code 1703. [Art. 193a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_193a)
+
+It further allows the Commission, applying those rules, to adopt implementing acts suspending such import duties in whole or in part without using the procedure referred to in Article 229(2) or (3). [Art. 193a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_193a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 193a
+> Suspension of import duties for molasses
+> 1. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by establishing rules for the suspension of import duties in whole or in part for molasses falling within CN Code 1703.
+> 2. In application of the rules referred to in paragraph 1 of this Article, the Commission may adopt implementing acts to suspend in whole or in part import duties for molasses falling within CN Code 1703, without applying the procedure referred to in Article 229(2) or (3).
+
+**MODIFIED · Art. 196** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 206 — Commission guidelines on the application of competition rules to agriculture** · applies from: unchanged
+
+*within* `AR 206 ALN 1` · *amended by* `32021R2117`
+
+The reference to the range of articles that this provision is subject to was extended from Articles 207 to 210 to Articles 207 to 210a. [Art. 206, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_206) [Art. 206, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_206)
+
+*before* (`02013R1308-20201229`)
+
+> Article 206
+> Commission guidelines on the application of competition rules to agriculture
+> Save as otherwise provided in this Regulation, and in accordance with Article 42 TFEU, Articles 101 to 106 TFEU and the implementing provisions thereto shall, subject to Articles 207 to 210 of this Regulation, apply to all agreements, decisions and practices referred to in Article 101(1) and Article 102 TFEU which relate to the production of, or trade in, agricultural products.
+> In order to ensure the functioning of the internal market and the uniform application of Union competition rules, the Commission and the competition authorities of the Member States shall apply the Union competition rules in close cooperation.
+> In addition, the Commission shall, where appropriate, publish guidelines to assist the national competition authorities, as well as undertakings.
+
+*after* (`02013R1308-20211207`)
+
+> Article 206
+> Commission guidelines on the application of competition rules to agriculture
+> Save as otherwise provided in this Regulation, and in accordance with Article 42 TFEU, Articles 101 to 106 TFEU and the implementing provisions thereto shall, subject to Articles 207 to 210a of this Regulation, apply to all agreements, decisions and practices referred to in Article 101(1) and Article 102 TFEU which relate to the production of, or trade in, agricultural products.
+> In order to ensure the functioning of the internal market and the uniform application of Union competition rules, the Commission and the competition authorities of the Member States shall apply the Union competition rules in close cooperation.
+> In addition, the Commission shall, where appropriate, publish guidelines to assist the national competition authorities, as well as undertakings.
+
+**MODIFIED · Art. 208 — Dominant position** · applies from: unchanged
+
+*within* `AR 208 ALN 1` · *amended by* `32021R2117`
+
+The quotation marks around the term "dominant position" have been removed. [Art. 208, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_208)
+
+The list of parties from which independence may be exercised now reads "its competitors, of its suppliers or customers, and ultimately of consumers" instead of "its competitors, customers and ultimately of consumers," adding a reference to suppliers. [Art. 208, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_208) [Art. 208, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_208)
+
+*before* (`02013R1308-20201229`)
+
+> Article 208
+> Dominant position
+> For the purposes of this Chapter, "dominant position" means a position of economic strength enjoyed by an undertaking which enables it to prevent effective competition being maintained in the relevant market by giving it the power to behave to an appreciable extent independently of its competitors, customers and ultimately of consumers.
+
+*after* (`02013R1308-20211207`)
+
+> Article 208
+> Dominant position
+> For the purposes of this Chapter, dominant position means a position of economic strength enjoyed by an undertaking which enables it to prevent effective competition being maintained in the relevant market by giving it the power to behave to an appreciable extent independently of its competitors, of its suppliers or customers, and ultimately of consumers.
+
+**MODIFIED · Art. 210 — Agreements and concerted practices of recognised interbranch organisations** · applies from: unchanged
+
+*within* `AR 210 PA 1 ALN 1`, `AR 210 PA 1 ALN 2`, `AR 210 PA 2 ALN 1`, `AR 210 PA 2 ALN 1 PTA (a)`, `AR 210 PA 2 ALN 1 PTA (b)`, `AR 210 PA 2 ALN 2`, `AR 210 PA 2 ALN 3` · *amended by* `32021R2117`
+
+Paragraph 1 no longer refers to a list of specific activities that must be carried out under Article 157(1)(c) and related provisions, and instead frames the exemption around agreements, decisions and concerted practices being necessary to meet the objectives listed there and not incompatible with Union rules under paragraph 4, with a new sentence stating that qualifying agreements are not prohibited and require no prior decision to that effect. [Art. 210, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_210) [Art. 210, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_210)
+
+Paragraph 2 has been rewritten from a notification-and-non-objection mechanism, where agreements had to be notified to the Commission and could proceed if the Commission raised no incompatibility finding within two months, into a mechanism where recognised interbranch organisations may request a Commission opinion on compatibility, to be issued within four months of a complete request, with provision for the Commission to later declare Article 101(1) TFEU applicable in the future or to change the content of an opinion. [Art. 210, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_210) [Art. 210, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_210)
+
+Paragraph 3 still refers to a two-month period described in point (b) of the first subparagraph of paragraph 2, even though that lettered point structure no longer appears in the rewritten paragraph 2. [Art. 210, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_210)
+
+*before* (`02013R1308-20201229`)
+
+> Article 210
+> Agreements and concerted practices of recognised interbranch organisations
+> 1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of interbranch organisations recognised under Article 157 of this Regulation with the object of carrying out the activities listed in point (c) of Article 157(1) and, for the milk and milk products sector, in point (c) of Article 157(3) of this Regulation, and, for the olive oil and table olives and tobacco sectors, in Article 162 of this Regulation.
+> 2. Paragraph 1 shall apply provided that:
+> (a) the agreements, decisions and concerted practices referred to therein have been notified to the Commission; and
+> (b) within two months of receipt of all the details required the Commission has not found that those agreements, decisions or concerted practices are incompatible with Union rules.
+> Where the Commission finds that the agreements, decisions or concerted practices referred to in paragraph 1 are incompatible with Union rules, it shall set out its finding without applying the procedure referred to in Article 229(2) or (3).
+> 3. The agreements, decisions and concerted practices referred to in paragraph 1 may not be put into effect before the lapse of the two-month period referred to in point (b) of the first subparagraph of paragraph 2.
+> 4. Agreements, decisions and concerted practices shall in any case be declared incompatible with Union rules if they:
+> (a) may lead to the partitioning of markets within the Unio […truncated by emendrix: 1600 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 210
+> Agreements and concerted practices of recognised interbranch organisations
+> 1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of interbranch organisations recognised under Article 157 of this Regulation which are necessary in order to meet the objectives listed in Article 157(1), point (c), of this Regulation or, as regards the olive oil and table olives and tobacco sectors, the objectives listed in Article 162 of this Regulation, and which are not incompatible with Union rules under paragraph 4 of this Article.
+> Agreements, decisions and concerted practices which fulfil the conditions referred to in the first subparagraph of this paragraph shall not be prohibited, no prior decision to that effect being required.
+> 2. Recognised interbranch organisations may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with this Article. The Commission shall send the requesting interbranch organisation its opinion within four months of receipt of a complete request.
+> If the Commission finds at any time after issuing an opinion that the conditions referred to in paragraph 1 of this Article are no longer met, it shall declare that Article 101(1) TFEU shall apply in the future to the agreement, decision or concerted practice in question and inform the interbranch organisation accordingly.
+> The Commission may change the content of an opinion at its own […truncated by emendrix: 2157 characters omitted…]
+
+**INSERTED · Art. 210a — Vertical and horizontal initiatives for sustainability** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+A new Article 210a has been added, setting out conditions under which Article 101(1) TFEU does not apply to agreements, decisions and concerted practices among agricultural producers, or between producers and other supply-chain operators, that aim to apply a sustainability standard higher than required by Union or national law. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_210a)
+
+The new provision defines what counts as a sustainability standard, states that qualifying agreements are not prohibited without a prior decision, and sets out roles for the Commission in issuing guidance and opinions and for national competition authorities in ordering modification or discontinuation of such arrangements in individual cases. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_210a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 210a
+> Vertical and horizontal initiatives for sustainability
+> 1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.
+> 2. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.
+> 3. For the purposes of paragraph 1, sustainability standard means a standard which aims to contribute to one or more of the following objectives:
+> (a) environmental objectives, including climate change mitigation and adaptation, the sustainable use and protection of landscapes, water and soil, the transition to a circular economy, including the reduction of food waste, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems;
+> (b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resista […truncated by emendrix: 2420 characters omitted…]
+
+**DELETED · Art. 212** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 214a** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 218** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 219 — Measures against market disturbance** · applies from: unchanged
+
+*within* `AR 219 PA 1 ALN 1`, `AR 219 PA 1 ALN 4` · *amended by* `32021R2117`
+
+The text now refers to significant disturbance affecting "the market concerned" rather than just "the market", and the insufficiency proviso for other available measures now also covers those measures being "not suitable", not only insufficient. [Art. 219, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_219) [Art. 219, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_219)
+
+The list of possible measures no longer mentions providing for export refunds and changes the wording on import duties from suspending them to adjusting or suspending them, while adding that measures may take the form of a temporary voluntary production reduction scheme, in particular in cases of oversupply. [Art. 219, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_219) [Art. 219, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_219)
+
+*before* (`02013R1308-20201229`)
+
+> Article 219
+> Measures against market disturbance
+> 1. In order to react efficiently and effectively against threats of market disturbance caused by significant price rises or falls on internal or external markets or other events and circumstances significantly disturbing or threatening to disturb the market, where that situation, or its effects on the market, is likely to continue or deteriorate, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to take the measures necessary to address that market situation, while respecting any obligations resulting from international agreements concluded in accordance with the TFEU and provided that any other measures available under this Regulation appear to be insufficient.
+> Where, in the cases of threats of market disturbances referred to in the first subparagraph of this paragraph, imperative grounds of urgency so require, the procedure provided for in Article 228 shall apply to delegated acts adopted pursuant to the first subparagraph of this paragraph.
+> Those imperative grounds of urgency may include the need to take immediate action to address or prevent market disturbance, where threats of market disturbance occur so swiftly or unexpectedly that immediate action is necessary to efficiently and effectively address the situation, or where action would prevent such threats of market disturbance from materialising, continuing or turning into a more severe or prolonged disturbance, or where delaying imm […truncated by emendrix: 1282 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 219
+> Measures against market disturbance
+> 1. In order to react efficiently and effectively against threats of market disturbance caused by significant price rises or falls on internal or external markets or other events and circumstances significantly disturbing or threatening to disturb the market concerned, where that situation, or its effects on the market, is likely to continue or deteriorate, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to take the measures necessary to address that market situation, while respecting any obligations resulting from international agreements concluded in accordance with the TFEU and provided that any other measures available under this Regulation appear to be insufficient or not suitable.
+> Where, in the cases of threats of market disturbances referred to in the first subparagraph of this paragraph, imperative grounds of urgency so require, the procedure provided for in Article 228 shall apply to delegated acts adopted pursuant to the first subparagraph of this paragraph.
+> Those imperative grounds of urgency may include the need to take immediate action to address or prevent market disturbance, where threats of market disturbance occur so swiftly or unexpectedly that immediate action is necessary to efficiently and effectively address the situation, or where action would prevent such threats of market disturbance from materialising, continuing or turning into a more severe or prolonged disturba […truncated by emendrix: 1393 characters omitted…]
+
+**MODIFIED · Art. 220 — Measures concerning animal diseases and plant pests and the loss of consumer confidence due to public, animal or plant health risks** · applies from: unchanged
+
+*within* `AR 220`, `AR 220 PA 1 ALN 1 PTA (a)`, `AR 220 PA 2 ALN 1`, `AR 220 PA 4 ALN 1` · *amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The heading and paragraph 1(a) now refer to plant pests in addition to animal diseases, extending the reference to restrictions arising from measures combating the spread of plant pests alongside animal diseases. [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_220)
+
+Paragraph 2's list of sectors gains a new point covering fruit and vegetables, listed before beef and veal. [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_220)
+
+Paragraph 4 now also allows the measures where the Member State has taken phytosanitary measures to monitor, control, eradicate or contain a pest, in addition to health and veterinary measures to stamp out disease, and it renumbers its internal cross-reference to paragraph 1, first subparagraph, point (a) instead of "point (a) of the first subparagraph of paragraph 1". [Art. 220, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_220) [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_220)
+
+*before* (`02013R1308-20201229`)
+
+> Article 220
+> Measures concerning animal diseases and loss of consumer confidence due to public, animal or plant health risks
+> 1. The Commission may adopt implementing acts taking exceptional support measures for the affected market in order to take account of:
+> (a) restrictions on intra-Union and third-country trade which may result from the application of measures for combating the spread of diseases in animals; and
+> (b) serious market disturbances directly attributed to a loss in consumer confidence due to public, animal or plant health and disease risks.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. The measures provided for in paragraph 1 shall apply to any of the following sectors:
+> (a) beef and veal;
+> (b) milk and milk products;
+> (c) pigmeat;
+> (d) sheepmeat and goatmeat;
+> (e) eggs;
+> (f) poultrymeat.
+> The measures provided for in point (b) of the first subparagraph of paragraph 1 related to a loss in consumer confidence due to public or plant health risks shall also apply to all other agricultural products except those listed in Section 2 of Part XXIV of Annex I.
+> The Commission shall be empowered to adopt delegated acts in accordance with the urgency procedure referred to in Article 228, extending the list of products in the first two subparagraphs of this paragraph.
+> 3. The measures provided for in paragraph 1 shall be taken at the request of the Member State concerned.
+> 4. The measures provided for in point ( […truncated by emendrix: 843 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 220
+> Measures concerning animal diseases and plant pests and the loss of consumer confidence due to public, animal or plant health risks
+> 1. The Commission may adopt implementing acts taking exceptional support measures for the affected market in order to take account of:
+> (a) restrictions on intra-Union and third-country trade which may result from the application of measures for combating the spread of diseases in animals or the spread of plant pests; and
+> (b) serious market disturbances directly attributed to a loss in consumer confidence due to public, animal or plant health and disease risks.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. The measures provided for in paragraph 1 shall apply to any of the following sectors:
+> (-a) fruit and vegetables;
+> (a) beef and veal;
+> (b) milk and milk products;
+> (c) pigmeat;
+> (d) sheepmeat and goatmeat;
+> (e) eggs;
+> (f) poultrymeat.
+> The measures provided for in point (b) of the first subparagraph of paragraph 1 related to a loss in consumer confidence due to public or plant health risks shall also apply to all other agricultural products except those listed in Section 2 of Part XXIV of Annex I.
+> The Commission shall be empowered to adopt delegated acts in accordance with the urgency procedure referred to in Article 228, extending the list of products in the first two subparagraphs of this paragraph.
+> 3. The measures provided for in paragraph 1 shall be taken at the re […truncated by emendrix: 982 characters omitted…]
+
+**INSERTED · Art. 222a — Union market observatories** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This article is entirely new, establishing Union market observatories that the Commission is to set up to improve transparency in the food supply chain, inform economic operators and public authorities, and monitor market developments and threats of disturbance. [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_222a)
+
+It further states that the Commission may decide for which agricultural sectors listed in Article 1(2) such observatories are established, sets out the categories of statistical data and reports the observatories are to produce, and requires Member States to collect and supply that information to the Commission. [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_222a)
+
+*after* (`02013R1308-20211207`)
+
+> Article 222a
+> Union market observatories
+> 1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
+> 2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established.
+> 3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
+> (a) production, supply and stocks;
+> (b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
+> (c) short- and medium-term market forecasts;
+> (d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
+> The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
+> 4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
+
+**INSERTED · Art. 222b — Commission reporting on market developments** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 222b is added, requiring Union market observatories set up under Article 222a to identify threats of market disturbance in their reports, and requiring the Commission to regularly inform the European Parliament and the Council about the market situation for agricultural products, the causes of market disturbances, possible response measures, and the rationale for those measures. [Art. 222b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_222b)
+
+*after* (`02013R1308-20211207`)
+
+> Article 222b
+> Commission reporting on market developments
+> 1. In their reports, Union market observatories established pursuant to Article 222a shall identify threats of market disturbance related to significant price increases or decreases in internal or external markets or to other events or circumstances having similar effects.
+> 2. The Commission shall regularly present to the European Parliament and to the Council information on the market situation for agricultural products, the causes of market disturbances and possible measures to be taken in response to those market disturbances, in particular measures provided for in Part II, Title I, Chapter I, and Articles 219, 220, 221 and 222, as well as the rationale for those measures
+
+**MODIFIED · Art. 223 — Communication requirements** · applies from: unchanged
+
+*within* `AR 223 PA 1 ALN 2`, `AR 223 PA 1 ALN 3` · *amended by* `32021R2117`
+
+The list of recipients to whom obtained information may be transmitted or made available now includes Union and national financial market authorities, alongside the previously named international organisations and third-country competent authorities. [Art. 223, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_223)
+
+A new sentence has been added stating that the Commission shall cooperate and exchange information with competent authorities designated under Article 22 of Regulation (EU) No 596/2014 and with the European Securities and Markets Authority (ESMA), to help them fulfil their tasks under that Regulation. [Art. 223, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_223)
+
+The remainder of paragraph 1 and all of paragraphs 2 and 3 are unchanged between the two versions. [Art. 223, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_223) [Art. 223, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_223)
+
+*before* (`02013R1308-20201229`)
+
+> Article 223
+> Communication requirements
+> 1. For the purposes of applying this Regulation, monitoring, analysing and managing the market in agricultural products, ensuring market transparency, the proper functioning of CAP measures, checking, controlling, monitoring, evaluating and auditing CAP measures, and complying with the requirements laid down in international agreements concluded in accordance with the TFEU, including notification requirements under those agreements, the Commission may, in accordance with the procedure referred to in paragraph 2, adopt the necessary measures regarding communications to be made by undertakings, Member States and third countries. In so doing, it shall take into account the data needs and synergies between potential data sources.
+> The information obtained may be transmitted or made available to international organisations, the competent authorities of third countries and may be made public, subject to the protection of personal data and the legitimate interest of undertakings in the protection of their business secrets, including prices.
+> 2. In order to ensure the integrity of information systems and the authenticity and legibility of documents and associated data transmitted, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+> (a) the nature and type of information to be notified;
+> (b) the categories of data to be processed, the maximum retention periods and the purpose of the processing, in pa […truncated by emendrix: 1038 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 223
+> Communication requirements
+> 1. For the purposes of applying this Regulation, monitoring, analysing and managing the market in agricultural products, ensuring market transparency, the proper functioning of CAP measures, checking, controlling, monitoring, evaluating and auditing CAP measures, and complying with the requirements laid down in international agreements concluded in accordance with the TFEU, including notification requirements under those agreements, the Commission may, in accordance with the procedure referred to in paragraph 2, adopt the necessary measures regarding communications to be made by undertakings, Member States and third countries. In so doing, it shall take into account the data needs and synergies between potential data sources.
+> The information obtained may be transmitted or made available to international organisations, Union and national financial market authorities, the competent authorities of third countries and may be made public, subject to the protection of personal data and the legitimate interest of undertakings in the protection of their business secrets, including prices.
+> The Commission shall cooperate and exchange information with competent authorities designated in accordance with Article 22 of Regulation (EU) No 596/2014 and with the European Securities and Markets Authority (ESMA), to help them fulfil their tasks under Regulation (EU) 596/2014.
+> 2. In order to ensure the integrity of information systems and the authenticity a […truncated by emendrix: 1369 characters omitted…]
+
+**MODIFIED · Art. 225 — Reporting obligation of the Commission** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 225 ALN 1 PTA (d)`, `AR 225 ALN 1 PTA (da)`, `AR 225 ALN 1 PTA (db)`, `AR 225 ALN 1 PTA (dc)`, `AR 225 ALN 1 PTA (dd)` · *dates* -2017-12-31 +2023-12-31 +2024-06-30 +2024-12-31 +2025-12-31 · *amended by* `32021R2117`
+
+Point (d) changes from requiring a report by 31 December 2017 on the application of competition rules to the agricultural sector, covering specific articles, to requiring a report by 31 December 2025 and every seven years thereafter on the application of competition rules to the agricultural sector as laid down in the Regulation generally, without naming those specific articles. [Art. 225, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_225) [Art. 225, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_225)
+
+Four new reporting points are added: (da) a report by 31 December 2023 on the Union market observatories under Article 222a, (db) a report by 31 December 2023 and every three years thereafter on the use of crisis measures adopted under Articles 219 to 222, (dc) a report by 31 December 2024 on the use of new information and communication technologies for market transparency under Article 223, and (dd) a report by 30 June 2024 on sales designations and carcass classification in the sheepmeat and goatmeat sector. [Art. 225, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_225)
+
+*before* (`02013R1308-20201229`)
+
+> Article 225
+> Reporting obligation of the Commission
+> The Commission shall present a report to the European Parliament and to the Council:
+> (a) every three years and for the first time by21 December 2016 the implementation of the measures concerning the apiculture sector as set out in Articles 55, 56 and 57, including on the latest developments on beehive identification systems;
+> (b) by 30 June 2014 and also by 31 December 2018, on the development of the market situation in the milk and milk products sector, and in particular on the operation of Articles 148 to 151, Article 152(3) and Article 157(3), assessing in particular the effects on milk producers and milk production in disadvantaged regions in connection with the general objective of maintaining production in such regions, and covering potential incentives to encourage farmers to enter into joint production agreements, together with any appropriate proposals;
+> (c) by 31 December 2014, on the possibility of extending the scope of the school schemes to include olive oil and table olives;
+> (d) by 31 December 2017, on the application of the competition rules to the agricultural sector in all Member States, in particular on the operation of Articles 209 and 210, and of Articles 169, 170 and 171 in the sectors concerned;
+> (e) by 31 July 2023, on the application of the allocation criteria referred to in Article 23a(2);
+> (f) by 31 July 2023, on the impact of the transfers referred to in Article 23a(4) on the effectiveness of the school […truncated by emendrix: 87 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> Article 225
+> Reporting obligation of the Commission
+> The Commission shall present a report to the European Parliament and to the Council:
+> (a) every three years and for the first time by21 December 2016 the implementation of the measures concerning the apiculture sector as set out in Articles 55, 56 and 57, including on the latest developments on beehive identification systems;
+> (b) by 30 June 2014 and also by 31 December 2018, on the development of the market situation in the milk and milk products sector, and in particular on the operation of Articles 148 to 151, Article 152(3) and Article 157(3), assessing in particular the effects on milk producers and milk production in disadvantaged regions in connection with the general objective of maintaining production in such regions, and covering potential incentives to encourage farmers to enter into joint production agreements, together with any appropriate proposals;
+> (c) by 31 December 2014, on the possibility of extending the scope of the school schemes to include olive oil and table olives;
+> (d) by 31 December 2025, and every seven years thereafter, on the application of the competition rules as laid down in this Regulation to the agricultural sector in all Member States;
+> (da) by 31 December 2023 on the Union market observatories set up in accordance with Article 222a;
+> (db) by 31 December 2023, and every three years thereafter, on the use of the crisis measures in particular adopted pursuant to Articles 219, to 222;
+> (dc) by 31 Dec […truncated by emendrix: 549 characters omitted…]
+
+**MODIFIED · Art. 226** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Part II** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Part III** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Part V** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unchanged
+
+*within* `AN I` · *amended by* `32021R2117`
+
+In Part I, point (d), the entry for CN code 0714 now excludes sweet potatoes of subheading 071420 and Jerusalem artichokes of subheading ex07149090, whereas the earlier text listed sweet potatoes and Jerusalem artichokes among the roots and tubers covered. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_I)
+
+Part IX now carries an added statement that the fruit and vegetables sector includes swedes, adds separate entries for CN codes 071420 (sweet potatoes) and ex07149090 (Jerusalem artichokes), and narrows the exclusion list under ex0709 to name genus Pimenta specifically under ex07096099 and to drop the prior exclusion of 07099960. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_I)
+
+Part XII gains a new point (e) covering CN code ex22029919, described as other de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 % vol, which did not appear in the earlier text, and the truncated remainder of both texts leaves further differences in the Other Products section unreadable. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_I)
+
+*before* (`02013R1308-20201229`)
+
+> ANNEX I
+> LIST OF PRODUCTS REFERRED TO IN ARTICLE 1(2)
+> PART I
+> Cereals
+> The cereals sector shall cover the products listed in the following table:
+> CN code Description
+> (a) 07099960 Sweetcorn, fresh or chilled
+> 07129019 Dried sweetcorn, whole, cut, sliced, broken or in powder, but not further prepared, other than hybrid for sowing
+> 10019120 Common wheat and meslin seed
+> ex10019900 Spelt, common wheat and meslin other than for sowing
+> 1002 Rye
+> 1003 Barley
+> 1004 Oats
+> 10051090 Maize (corn) seed other than hybrid
+> 10059000 Maize other than seed
+> 10071090,
+> 10079000 Grain sorghum, other than hybrids for sowing
+> 1008 Buckwheat, millet and canary seed; other cereals
+> (b) 10011100,
+> 10011900 Durum wheat
+> (c) 110100 Wheat or meslin flour
+> 11029070 Rye flour
+> 110311 Groats and meal of wheat
+> 1107 Malt, whether or not roasted
+> (d) 0714 Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith
+> ex1102 Cereal flours other than of wheat or meslin:
+> 110220 – Maize (corn) flour
+> 110290 – Other:
+> 11029010 – – Barley flour
+> 11029030 – – Oat flour
+> 11029090 – – Other
+> ex1103 Cereal groats, meal and pellets with the exception of groats and meal of wheat (subheading 110311), groats and meal of rice (subheading 11031950) and pellets of rice (subheading 11032050)
+> ex1104 Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), e […truncated by emendrix: 45979 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> ANNEX I
+> LIST OF PRODUCTS REFERRED TO IN ARTICLE 1(2)
+> PART I
+> Cereals
+> The cereals sector shall cover the products listed in the following table:
+> CN code Description
+> (a) 07099960 Sweetcorn, fresh or chilled
+> 07129019 Dried sweetcorn, whole, cut, sliced, broken or in powder, but not further prepared, other than hybrid for sowing
+> 10019120 Common wheat and meslin seed
+> ex10019900 Spelt, common wheat and meslin other than for sowing
+> 1002 Rye
+> 1003 Barley
+> 1004 Oats
+> 10051090 Maize (corn) seed other than hybrid
+> 10059000 Maize other than seed
+> 10071090,
+> 10079000 Grain sorghum, other than hybrids for sowing
+> 1008 Buckwheat, millet and canary seed; other cereals
+> (b) 10011100,
+> 10011900 Durum wheat
+> (c) 110100 Wheat or meslin flour
+> 11029070 Rye flour
+> 110311 Groats and meal of wheat
+> 1107 Malt, whether or not roasted
+> (d) ex0714 - Manioc, arrowroot, salep and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets, excluding sweet potatoes of subheading 071420 and Jerusalem artichokes of subheading ex07149090; sago pith;
+> ex1102 Cereal flours other than of wheat or meslin:
+> 110220 – Maize (corn) flour
+> 110290 – Other:
+> 11029010 – – Barley flour
+> 11029030 – – Oat flour
+> 11029090 – – Other
+> ex1103 Cereal groats, meal and pellets with the exception of groats and meal of wheat (subheading 110311), groats and meal of rice (subheading 11031950) and pellets of rice (subheading 11032050)
+> ex1104 Cereal grains otherwise worked (for […truncated by emendrix: 46259 characters omitted…]
+
+**MODIFIED · Annex II** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +2013-12-16 · *amended by* `32021R2117`
+
+The heading's cross-reference changed from citing Articles 7 and 135 to citing Article 1a of Regulation (EU) No 1370/2013, and a citation line for that Council Regulation of 16 December 2013 was added beneath the title. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_III)
+
+The substantive standards for paddy rice and sugar quality in sections A and B remain unchanged in wording between the two versions. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_III)
+
+*before* (`02013R1308-20201229`)
+
+> ANNEX III
+> STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLES 7 AND 135
+> A. Standard quality for paddy rice
+> Paddy rice of standard quality shall:
+> (a) be of sound, fair and marketable quality, free of odour;
+> (b) contain a moisture content of maximum 13 %;
+> (c) have a yield of wholly milled rice 63 % by weight in whole grains (with a tolerance of 3 % of clipped grains) of which a percentage by weight of wholly milled rice grains which are not of unimpaired quality:
+> chalky grains of paddy rice under CN codes 10061027 and 10061098 1,5 %
+> chalky grains of paddy rice under CN codes other than 10061027 and 10061098: 2,0 %
+> grains striated with red 1,0 %
+> spotted grains 0,50 %
+> stained grains 0,25 %
+> yellow grains 0,02 %
+> amber grains 0,05 %
+> B. Standard qualities for sugar
+> I. Standard quality for sugar beet
+> Standard quality beet shall:
+> (a) be of sound, fair and marketable quality;
+> (b) have a sugar content of 16 % at the reception point.
+> II. Standard quality for white sugar
+> 1. White sugar of the standard quality shall have the following characteristics:
+> (a) sound, fair and marketable quality; dry, in homogeneous granulated crystals, free-flowing;
+> (b) minimum polarisation: 99,7;
+> (c) maximum moisture content: 0,06 %;
+> (d) maximum invert sugar content: 0,04 %;
+> (e) the number of points determined under point 2 not exceeding a total of 22, nor:
+> 15 for the ash content,
+> 9 for the colour type, determined using the method of the Brunswick Institute of Agricultural Technology ("the Brunswick m […truncated by emendrix: 1073 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> ANNEX III
+> STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLE 1a OF REGULATION (EU) No 1370/2013
+> Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12);
+> A. Standard quality for paddy rice
+> Paddy rice of standard quality shall:
+> (a) be of sound, fair and marketable quality, free of odour;
+> (b) contain a moisture content of maximum 13 %;
+> (c) have a yield of wholly milled rice 63 % by weight in whole grains (with a tolerance of 3 % of clipped grains) of which a percentage by weight of wholly milled rice grains which are not of unimpaired quality:
+> chalky grains of paddy rice under CN codes 10061027 and 10061098 1,5 %
+> chalky grains of paddy rice under CN codes other than 10061027 and 10061098: 2,0 %
+> grains striated with red 1,0 %
+> spotted grains 0,50 %
+> stained grains 0,25 %
+> yellow grains 0,02 %
+> amber grains 0,05 %
+> B. Standard qualities for sugar
+> I. Standard quality for sugar beet
+> Standard quality beet shall:
+> (a) be of sound, fair and marketable quality;
+> (b) have a sugar content of 16 % at the reception point.
+> II. Standard quality for white sugar
+> 1. White sugar of the standard quality shall have the following characteristics:
+> (a) sound, fair and marketable quality; dry, in homogeneous granulated crystals, free-flowing;
+> (b) minimum polarisation: 99,7;
+> (c) maximum moisture content: 0,06 %;
+> (d) maximum invert sugar cont […truncated by emendrix: 1316 characters omitted…]
+
+**DELETED · Annex VI** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VII — ANNEX VII** · applies from: unchanged
+
+*within* `AN VII`, `AN VII APP I PO 1 PTA (c)`, `AN VII APP I PO 2 PTA (g)`, `AN VII APP I PO 4 PTA (f)`, `AN VII APP I PO 4 PTA (g)`, `AN VII APP I PO 6 PTA (g)`, `AN VII APP I PO 6 PTA (h)` · *amended by* `32021R2117`
+
+A new sentence has been added at the end of Part I, Section II, allowing the relevant Member State, at the request of a producer group under Article 3(2) of Regulation (EU) No 1151/2012, to decide that the classification conditions do not apply to meat with a protected designation of origin or geographical indication registered before 29 June 2007. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VII)
+
+In Part II, an introductory passage has been added stating that the categories of grapevine products are those set out in points (1) to (17), and that the categories in point (1) and points (4) to (9) may undergo total or partial de-alcoholisation in accordance with Annex VIII, Part I, Section E, after fully attaining their characteristics. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VII)
+
+Point (3)(a) on liqueur wine has been rewritten to add an exception permitting the alcoholic-strength limits to differ for certain wines of prolonged ageing with a designation of origin or geographical indication on a Commission-established list, subject to conditions on the alcoholic strength of the wines entering and completing the ageing process; the remainder of the text, including appendix references, was cut short in the material shown. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VII)
+
+*before* (`02013R1308-20201229`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 51333 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 52692 characters omitted…]
+
+**MODIFIED · Annex VIII — ANNEX VIII** · applies from: unchanged
+
+*within* `AN VIII`, `AN VIII PO 7 PTA (b)` · *amended by* `32021R2117`
+
+The Part I heading now adds de-alcoholisation alongside enrichment, acidification and de-acidification, and a new Section E lists permitted de-alcoholisation processes (partial vacuum evaporation, membrane techniques and distillation) with conditions on organoleptic defects and sugar content, none of which appeared before. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VIII)
+
+Section C on acidification and de-acidification is simplified: the earlier zone-by-zone rules and separate acidification limits for wine and other products (with different thresholds and a climatic-exception provision) are replaced by a single acidification limit of 4 g/l (53,3 milliequivalents per litre) applying to all listed products, and the exceptional-year acidification allowance for zones A and B is removed. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VIII)
+
+In Section B(7)(b), the reference to wines with a designation of origin is changed to wines with a protected designation of origin or protected geographical indication, and in Section D(3) the requirement that acidification and de-acidification take place in the wine-making undertaking is dropped, leaving only the wine-growing zone requirement. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_VIII)
+
+*before* (`02013R1308-20201229`)
+
+> ANNEX VIII
+> OENOLOGICAL PRACTICES REFERRED TO IN ARTICLE 80
+> PART I
+> Enrichment, acidification and de-acidification in certain wine-growing zones
+> A. Enrichment limits
+> 1. Where climatic conditions have made it necessary in certain wine-growing zones of the Union, the Member States concerned may allow to supplement the natural alcoholic strength by volume of fresh grapes, grape must, grape must in fermentation, new wine still in fermentation and wine obtained from wine grape varieties classifiable according to Article 81.
+> 2. The increase in natural alcoholic strength by volume shall be achieved by means of the oenological practices referred to in Section B and shall not exceed the following limits:
+> (a) 3 % volume in wine-growing zone A;
+> (b) 2 % volume in wine-growing zone B;
+> (c) 1,5 % volume in wine-growing zones C.
+> 3. In years when climatic conditions have been exceptionally unfavourable, the limit(s) laid down in point 2 may be raised by 0,5 % by the Member States as an exception for the regions concerned. Member States shall notify the Commission of any such increase.
+> B. Enrichment processes
+> 1. The increase in natural alcoholic strength by volume provided for in Section A shall only be effected:
+> (a) in respect of fresh grapes, grape must in fermentation or new wine still in fermentation, by adding sucrose, concentrated grape must or rectified concentrated grape must;
+> (b) in respect of grape must, by adding sucrose, concentrated grape must or rectified concentrated grape must, o […truncated by emendrix: 10487 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> ANNEX VIII
+> OENOLOGICAL PRACTICES REFERRED TO IN ARTICLE 80
+> PART I
+> Enrichment, acidification, de-acidification in certain wine-growing zones and de-alcoholisation
+> A. Enrichment limits
+> 1. Where climatic conditions have made it necessary in certain wine-growing zones of the Union, the Member States concerned may allow to supplement the natural alcoholic strength by volume of fresh grapes, grape must, grape must in fermentation, new wine still in fermentation and wine obtained from wine grape varieties classifiable according to Article 81.
+> 2. The increase in natural alcoholic strength by volume shall be achieved by means of the oenological practices referred to in Section B and shall not exceed the following limits:
+> (a) 3 % volume in wine-growing zone A;
+> (b) 2 % volume in wine-growing zone B;
+> (c) 1,5 % volume in wine-growing zones C.
+> 3. In years when climatic conditions have been exceptionally unfavourable, the limit(s) laid down in point 2 may be raised by 0,5 % by the Member States as an exception for the regions concerned. Member States shall notify the Commission of any such increase.
+> B. Enrichment processes
+> 1. The increase in natural alcoholic strength by volume provided for in Section A shall only be effected:
+> (a) in respect of fresh grapes, grape must in fermentation or new wine still in fermentation, by adding sucrose, concentrated grape must or rectified concentrated grape must;
+> (b) in respect of grape must, by adding sucrose, concentrated grape must or rectified concent […truncated by emendrix: 10555 characters omitted…]
+
+**MODIFIED · Annex X — ANNEX X** · applies from: unchanged
+
+*within* `AN X` · *amended by* `32021R2117`
+
+Point II(2) no longer defines the standard quality by reference to point B of Annex III, and instead specifies that the price applies to sugar beet of sound, fair and marketable quality with a sugar content of 16% at the reception point, with price adjustments now tied to deviations from that redefined quality standard. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_X)
+
+Point XI(1) changes the cross-reference format for the agreements within the trade described in Annex II and adds a requirement that such agreements contain conciliation or mediation mechanisms in addition to arbitration clauses. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_X)
+
+*before* (`02013R1308-20201229`)
+
+> ANNEX X
+> PURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)
+> POINT I
+> 1. Delivery contracts shall be made in writing for a specified quantity of beet.
+> 2. The duration of the delivery contracts may be pluriannual.
+> 3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.
+> POINT II
+> 1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.
+> 2. The price referred to in paragraph 1 shall apply to sugar beet of a standard quality as defined in point B of Annex III.
+> The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the standard quality.
+> 3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.
+> 4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.
+> The scale shall be based on the yields corresponding to the different sugar contents.
+> POINT III
+> Delivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.
+> POINT IV
+> 1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.
+> 2. Delivery contracts shall provide tha […truncated by emendrix: 4692 characters omitted…]
+
+*after* (`02013R1308-20211207`)
+
+> ANNEX X
+> PURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)
+> POINT I
+> 1. Delivery contracts shall be made in writing for a specified quantity of beet.
+> 2. The duration of the delivery contracts may be pluriannual.
+> 3. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.
+> POINT II
+> 1. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.
+> 2. The price referred to in paragraph 1 shall apply to sugar beet of sound, fair and marketable quality having a sugar content of 16 % at the reception point.
+> The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the quality referred to in the first subparagraph.
+> 3. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.
+> 4. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.
+> The scale shall be based on the yields corresponding to the different sugar contents.
+> POINT III
+> Delivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.
+> POINT IV
+> 1. Delivery contracts shall provide for beet collection places and the conditions linked to […truncated by emendrix: 4792 characters omitted…]
+
+**DELETED · Annex XI** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Annex XII** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**DELETED · Annex XIII** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Appendix I** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · CHA IV** · applies from: unknown
+
+*amended by* `32021R2117`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20211207 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20201229 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20190101` → `02013R1308-20201229`
