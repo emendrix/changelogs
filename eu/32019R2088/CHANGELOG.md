@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02019R2088-20240109` → `02019R2088-20260702`
 
 - **Act** `eu:32019R2088` · **In force** 2026-07-02 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 21 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 21 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R2088-20240109` · `v2` = `02019R2088-20260702`
 
 ---
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Art. 13 — Marketing communications** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 13 PA 3` · *dates* +2024-11-27 · *amended by* `32024R3005`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new paragraph 3 is added requiring financial market participants or financial advisers that issue and disclose an ESG rating, as defined in Regulation (EU) 2024/3005, to third parties as part of their marketing communications to include on their website the same information required by point 1 of Annex III to that Regulation and to disclose in those marketing communications a link to those website disclosures. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20260702#art_13)
 
@@ -50,16 +48,6 @@ Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 13, v1](http
 > 2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.
 > Power is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.
 > 3. Where a financial market participant or a financial adviser issues and discloses to third parties an ESG rating, as defined in Article 3, point (1), of Regulation (EU) 2024/3005 of the European Parliament and of the CouncilRegulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) No 2023/2859 (OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj)., as part of its marketing communications, it shall include on its website the same information as that required by […truncated by emendrix: 809 characters omitted…]
-
-**MODIFIED · Art. 49** · applies from: unknown
-
-*amended by* `32024R3005`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R2088-20260702 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R2088-20240109 -->
