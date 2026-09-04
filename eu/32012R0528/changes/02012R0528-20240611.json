@@ -8,7 +8,7 @@
   },
   "from_version": "02012R0528-20240526",
   "to_version": "02012R0528-20240611",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-04",
   "in_force": [
     "2024-06-11"
   ],
@@ -29,7 +29,7 @@
     "date_only": 1,
     "disputed": 2,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -88,7 +88,7 @@
       "sentences": [],
       "applicability_note": null,
       "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -103,8 +103,8 @@
           "location": "AR 89"
         },
         "heading": "Transitional measures",
-        "before": "Article 89\nTransitional measures\n1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.\nDepending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.\nIn order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the date of approval. Article 9(2) shall apply.\n2. By way of derogation from Articles 17(1), 19(1) and 20(1) of this Regulation, and without prejudice to paragraphs 1 and 3 of this Article, a Member State may continue to apply its current system or practice of making available on the market or using a given biocidal product for up to three years after the date of approval of the last of the active substances to be approved in that biocidal product. The Member State concerned may, in accordance with its national rules, authorise the making available on the market or use in its territory only of a biocidal product containing only:\n(a) existing active substances which:\n(i) have been evaluated under Commission Regulation (EC) No 1451/2007Commission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market (OJ L 325, 11.12.2007, p. 3)., but which have not yet been approved for that product-type; or\n(ii) are being evaluated, under Regulation (EC) No 1451/2007, but which have not yet been approved for that product-type;\nor\n(b) a combination of active substances referred to in point (a) and active substances approved in accordance with this Regulation.\nBy way of derogation from the first subparagraph, in the case of a decision not to approve an active substance, a Member State may continue to apply its current system or practice of making biocidal products available on the market for up to 12 months after the date of the decision not to approve an active substance in accordance with the third subparagraph of paragraph 1, and may continue to apply its current system or practice of using biocidal products for up to 18 months after that decision.\n3. Following a decision to approve a particular active substance for a specific product-type, Member States shall ensure that authorisations for biocidal products of that product-type and containing that active substance are granted, modified or cancelled, as appropriate, in accordance with this Regulation within three years of the date of approval.\nTo that effect, those wishing to apply for the authorisation or mutual recognition in parallel of biocidal products of that product-type containing no active substances other than existing active substances shall submit applications for authorisation or mutual recognition in parallel no later than the date of approval of the active substance(s). In the case of biocidal products containing more than one active substance, applications shall be submitted no later than the date of approval of the last active substance for that product-type.\nWhere no application for authorisation or mutual recognition in parallel has been submitted in accordance with the second subparagraph:\n(a) the biocidal product shall no longer be made available on the market with effect from 180 days after the date of approval of the active substance(s); and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of approval of the active substance(s).\n4. Where a Member State’s competent authority, or where relevant, the Commission, decides to reject an application submitted in accordance with paragraph 3 for authorisation of a biocidal product already made available on the market, or decides not to grant an authorisation or to impose conditions for the authorisation making it necessary to change such a product, the following shall apply:\n(a) a biocidal product which has not been authorised or, where relevant, which does not comply with the conditions of the authorisation, shall no longer be made available on the market with effect from 180 days after the date of the decision of the authority; and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of the decision of the authority.",
-        "after": "Article 89\nTransitional measures\n1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2030. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.\nDepending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.\nIn order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the date of approval. Article 9(2) shall apply.\n2. By way of derogation from Articles 17(1), 19(1) and 20(1) of this Regulation, and without prejudice to paragraphs 1 and 3 of this Article, a Member State may continue to apply its current system or practice of making available on the market or using a given biocidal product for up to three years after the date of approval of the last of the active substances to be approved in that biocidal product. The Member State concerned may, in accordance with its national rules, authorise the making available on the market or use in its territory only of a biocidal product containing only:\n(a) existing active substances which:\n(i) have been evaluated under Commission Regulation (EC) No 1451/2007Commission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market (OJ L 325, 11.12.2007, p. 3)., but which have not yet been approved for that product-type; or\n(ii) are being evaluated, under Regulation (EC) No 1451/2007, but which have not yet been approved for that product-type;\nor\n(b) a combination of active substances referred to in point (a) and active substances approved in accordance with this Regulation.\nBy way of derogation from the first subparagraph, in the case of a decision not to approve an active substance, a Member State may continue to apply its current system or practice of making biocidal products available on the market for up to 12 months after the date of the decision not to approve an active substance in accordance with the third subparagraph of paragraph 1, and may continue to apply its current system or practice of using biocidal products for up to 18 months after that decision.\n3. Following a decision to approve a particular active substance for a specific product-type, Member States shall ensure that authorisations for biocidal products of that product-type and containing that active substance are granted, modified or cancelled, as appropriate, in accordance with this Regulation within three years of the date of approval.\nTo that effect, those wishing to apply for the authorisation or mutual recognition in parallel of biocidal products of that product-type containing no active substances other than existing active substances shall submit applications for authorisation or mutual recognition in parallel no later than the date of approval of the active substance(s). In the case of biocidal products containing more than one active substance, applications shall be submitted no later than the date of approval of the last active substance for that product-type.\nWhere no application for authorisation or mutual recognition in parallel has been submitted in accordance with the second subparagraph:\n(a) the biocidal product shall no longer be made available on the market with effect from 180 days after the date of approval of the active substance(s); and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of approval of the active substance(s).\n4. Where a Member State’s competent authority, or where relevant, the Commission, decides to reject an application submitted in accordance with paragraph 3 for authorisation of a biocidal product already made available on the market, or decides not to grant an authorisation or to impose conditions for the authorisation making it necessary to change such a product, the following shall apply:\n(a) a biocidal product which has not been authorised or, where relevant, which does not comply with the conditions of the authorisation, shall no longer be made available on the market with effect from 180 days after the date of the decision of the authority; and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of the decision of the authority.",
+        "before": "Article 89\nTransitional measures\n1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.\nDepending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.\nIn order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the date of approval. Article 9(2) shall apply.\n2. By way of derogation from Articles 17(1), 19(1) and 20(1) of this Regulation, and without prejudice to paragraphs 1 and 3 of this Article, a Member State may continue to apply its current system or practice of making available on the market or using a given biocidal product for up to three years after the date of approval of the last of the active substances to be approved in that biocidal product. The Member State concerned may, in accordance with its national rules, authorise the making available on the market or use in its territory only of a biocidal product containing only:\n(a) existing active substances which:\n(i) have been evaluated under Commission Regulation (EC) No 1451/2007\nCommission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market (OJ L 325, 11.12.2007, p. 3)., but which have not yet been approved for that product-type; or\n(ii) are being evaluated, under Regulation (EC) No 1451/2007, but which have not yet been approved for that product-type;\nor\n(b) a combination of active substances referred to in point (a) and active substances approved in accordance with this Regulation.\nBy way of derogation from the first subparagraph, in the case of a decision not to approve an active substance, a Member State may continue to apply its current system or practice of making biocidal products available on the market for up to 12 months after the date of the decision not to approve an active substance in accordance with the third subparagraph of paragraph 1, and may continue to apply its current system or practice of using biocidal products for up to 18 months after that decision.\n3. Following a decision to approve a particular active substance for a specific product-type, Member States shall ensure that authorisations for biocidal products of that product-type and containing that active substance are granted, modified or cancelled, as appropriate, in accordance with this Regulation within three years of the date of approval.\nTo that effect, those wishing to apply for the authorisation or mutual recognition in parallel of biocidal products of that product-type containing no active substances other than existing active substances shall submit applications for authorisation or mutual recognition in parallel no later than the date of approval of the active substance(s). In the case of biocidal products containing more than one active substance, applications shall be submitted no later than the date of approval of the last active substance for that product-type.\nWhere no application for authorisation or mutual recognition in parallel has been submitted in accordance with the second subparagraph:\n(a) the biocidal product shall no longer be made available on the market with effect from 180 days after the date of approval of the active substance(s); and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of approval of the active substance(s).\n4. Where a Member State’s competent authority, or where relevant, the Commission, decides to reject an application submitted in accordance with paragraph 3 for authorisation of a biocidal product already made available on the market, or decides not to grant an authorisation or to impose conditions for the authorisation making it necessary to change such a product, the following shall apply:\n(a) a biocidal product which has not been authorised or, where relevant, which does not comply with the conditions of the authorisation, shall no longer be made available on the market with effect from 180 days after the date of the decision of the authority; and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of the decision of the authority.",
+        "after": "Article 89\nTransitional measures\n1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2030. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.\nDepending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.\nIn order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the date of approval. Article 9(2) shall apply.\n2. By way of derogation from Articles 17(1), 19(1) and 20(1) of this Regulation, and without prejudice to paragraphs 1 and 3 of this Article, a Member State may continue to apply its current system or practice of making available on the market or using a given biocidal product for up to three years after the date of approval of the last of the active substances to be approved in that biocidal product. The Member State concerned may, in accordance with its national rules, authorise the making available on the market or use in its territory only of a biocidal product containing only:\n(a) existing active substances which:\n(i) have been evaluated under Commission Regulation (EC) No 1451/2007\nCommission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market (OJ L 325, 11.12.2007, p. 3)., but which have not yet been approved for that product-type; or\n(ii) are being evaluated, under Regulation (EC) No 1451/2007, but which have not yet been approved for that product-type;\nor\n(b) a combination of active substances referred to in point (a) and active substances approved in accordance with this Regulation.\nBy way of derogation from the first subparagraph, in the case of a decision not to approve an active substance, a Member State may continue to apply its current system or practice of making biocidal products available on the market for up to 12 months after the date of the decision not to approve an active substance in accordance with the third subparagraph of paragraph 1, and may continue to apply its current system or practice of using biocidal products for up to 18 months after that decision.\n3. Following a decision to approve a particular active substance for a specific product-type, Member States shall ensure that authorisations for biocidal products of that product-type and containing that active substance are granted, modified or cancelled, as appropriate, in accordance with this Regulation within three years of the date of approval.\nTo that effect, those wishing to apply for the authorisation or mutual recognition in parallel of biocidal products of that product-type containing no active substances other than existing active substances shall submit applications for authorisation or mutual recognition in parallel no later than the date of approval of the active substance(s). In the case of biocidal products containing more than one active substance, applications shall be submitted no later than the date of approval of the last active substance for that product-type.\nWhere no application for authorisation or mutual recognition in parallel has been submitted in accordance with the second subparagraph:\n(a) the biocidal product shall no longer be made available on the market with effect from 180 days after the date of approval of the active substance(s); and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of approval of the active substance(s).\n4. Where a Member State’s competent authority, or where relevant, the Commission, decides to reject an application submitted in accordance with paragraph 3 for authorisation of a biocidal product already made available on the market, or decides not to grant an authorisation or to impose conditions for the authorisation making it necessary to change such a product, the following shall apply:\n(a) a biocidal product which has not been authorised or, where relevant, which does not comply with the conditions of the authorisation, shall no longer be made available on the market with effect from 180 days after the date of the decision of the authority; and\n(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of the decision of the authority.",
         "previous_location": null,
         "changed_within": [
           "AR 89 PA 1 ALN 1"
@@ -147,11 +147,63 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The target date for completing the Commission's work programme on existing active substances was changed from 31 December 2024 to 31 December 2030.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20240611",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_89",
+              "label": "Art. 89, 02012R0528-20240611"
+            }
+          ]
+        },
+        {
+          "text": "All other text of the provision, including the surrounding transitional rules in paragraphs 2 through 4, remains the same between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20240526",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240526#art_89",
+              "label": "Art. 89, 02012R0528-20240526"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20240611",
+                "location": "AR 89"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_89",
+              "label": "Art. 89, 02012R0528-20240611"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -303,31 +355,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 2,
-    "explained": 0,
-    "unavailable": 2,
+    "explained": 1,
+    "unavailable": 1,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 0,
-    "provider_unavailable": 1,
+    "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
+      "input_tokens": 5647,
+      "output_tokens": 198,
+      "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
     "changes": 2,
-    "passed_first": 0,
+    "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 2,
+    "unexplained": 1,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 2,
+    "citations": 3,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0

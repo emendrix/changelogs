@@ -75,10 +75,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20240526` → `02012R0528-20240611`
 
-- **Act** `eu:32012R0528` · **In force** 2024-06-11 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2024-06-11 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 103 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20240526` · `v2` = `02012R0528-20240611`
 
 ---
@@ -99,7 +99,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The target date for completing the Commission's work programme on existing active substances was changed from 31 December 2024 to 31 December 2030. [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_89)
+
+All other text of the provision, including the surrounding transitional rules in paragraphs 2 through 4, remains the same between the two versions. [Art. 89, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240526#art_89) [Art. 89, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_89)
 
 *before* (`02012R0528-20240526`)
 
@@ -107,7 +109,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2024. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3975 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3976 characters omitted…]
 
 *after* (`02012R0528-20240611`)
 
@@ -115,7 +117,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Transitional measures
 > 1. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2030. To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
 > Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
-> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3975 characters omitted…]
+> In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify […truncated by emendrix: 3976 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20240611 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20240526 -->
