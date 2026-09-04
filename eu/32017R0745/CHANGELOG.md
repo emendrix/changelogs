@@ -322,7 +322,7 @@ Point (e), which previously set a fixed 18-month rule for Article 29(4) and Arti
 
 *within* `AR 120 PA 2 ALN 2`, `AR 120 PA 2 ALN 2 PTA (a)`, `AR 120 PA 2 ALN 2 PTA (b)`, `AR 120 PA 3 ALN 1`, `AR 120 PA 3 ALN 2`, `AR 120 PA 3a`, `AR 120 PA 3b`, `AR 120 PA 3c`, `AR 120 PA 3d`, `AR 120 PA 3e`, `AR 120 PA 3f`, `AR 120 PA 4 ALN 1` · *dates* -2024-05-27 -2025-05-26 +2023-03-20 +2024-09-26 +2026-05-26 +2027-12-31 +2028-12-31 · *amended by* `32023R0607`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02017R0745-20230311`)
 
