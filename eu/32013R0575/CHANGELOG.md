@@ -39223,7 +39223,7 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 - **Act** `eu:32013R0575` · **In force** not stated · **Detected** 2026-08-13
 - **Touched** 245 provisions — 238 substantive · 7 date-only · **0 disputed**
 - **Diff** 0 inserted · 238 modified · 0 deleted · 0 renumbered · 7 deferred · 280 unchanged
-- **Gate** 0 sentences quoted verbatim · 10 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32013R0575` · `v2` = `02013R0575-20130628`
 
 ---
@@ -39375,7 +39375,11 @@ The substantive text of paragraphs 1, 2 and 3, including all listed conditions, 
 
 *within* `AR 8`, `AR 8 PA 1 ALN 1 PTA (c)`, `AR 8 PA 1 ALN 2`, `AR 8 PA 4 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading now reads "Derogation from the application of liquidity requirements on an individual basis" instead of "Derogation to the application of liquidity requirements on an individual basis". [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_8)
+
+In point (c) of paragraph 1, the phrase describing when obligations fall due changed from "as they come due" to "as they become due", and paragraph 4 now refers to institutional protection schemes "as referred to in Article 113(7) provided that they meet all the conditions laid down therein" rather than "referred to in Article 113(7)(b), provided that they meet all the conditions laid down in Article 113(7)". [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_8)
+
+Minor punctuation changes were also made, adding commas after "By 1 January 2014" and after "if appropriate, by 31 December 2015" in the first subparagraph following point (d) of paragraph 1. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_8)
 
 *before* (`32013R0575`)
 
@@ -40991,7 +40995,11 @@ The only change is the replacement of the word "and" with "or" in the cross-refe
 
 *within* `AR 92 PA 3 ALN 1 PTA (a)`, `AR 92 PA 3 ALN 1 PTA (f)`, `AR 92 PA 4 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The hyphenation of "risk weighted" was changed to "risk-weighted" in the description of the exposure amounts for credit and dilution risk. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_92)
+
+The same hyphenation change was made to "risk-weighted exposure amounts" in the point concerning counterparty risk arising from trading book business. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_92)
+
+The introductory wording of paragraph 4 was changed from referring to the "total exposure amount" to referring to the "total risk exposure amount" referred to in paragraph 3. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_92)
 
 *before* (`32013R0575`)
 
@@ -41405,7 +41413,9 @@ Paragraph 14(2) changes the deadline by which EBA must submit the draft regulato
 
 *within* `AR 106 PA 1 ALN 1 PTA (e)`, `AR 106 PA 1 ALN 2`, `AR 106 PA 3 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (e) of Article 106(1) now states that monitoring shall be carried out in accordance with adequate procedures, merging the separate sentence that previously described how monitoring shall be ensured into the same clause. [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_106)
+
+The phrase 'risk weighted exposure amounts' in Article 106(3) is now written as 'risk-weighted exposure amounts', a wording change with no substantive difference. [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_106)
 
 *before* (`32013R0575`)
 
@@ -42773,7 +42783,9 @@ The introductory wording of paragraph 1 changes from stating the formulae are ca
 
 *within* `AR 155`, `AR 155 PA 1 ALN 1`, `AR 155 PA 1 ALN 2`, `AR 155 PA 2 ALN 1`, `AR 155 PA 3 ALN 1`, `AR 155 PA 3 ALN 2`, `AR 155 PA 4 ALN 1`, `AR 155 PA 4 ALN 1 PTA (a)`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading and several internal terms are lightly restyled, such as the hyphenation of "risk-weighted" and "non-trading book" phrasing, and the phrase describing treatment of ancillary services undertakings exposures changes from "according to" to "in accordance with". [Art. 155, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_155) [Art. 155, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_155)
+
+Numbered paragraphs 1 through 4 are reformatted so the paragraph numbers stand on their own line before the text, with no substantive wording change to the risk-weight formulas, percentages, or cross-references in paragraphs 2, 3 and 4. [Art. 155, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_155) [Art. 155, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_155)
 
 *before* (`32013R0575`)
 
@@ -43082,7 +43094,9 @@ The wording of paragraph 1 is unchanged apart from a formatting difference, with
 
 *within* `AR 164 PA 5 ALN 1`, `AR 164 PA 7 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+In paragraph 5, the phrase describing property market developments now reads 'immovable property' instead of 'property', and the reference to exposures secured by property is rephrased to specify 'residential property or commercial immovable property', with a further reference to 'property in their territory' changed to 'immovable property in their territory'. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_164)
+
+In paragraph 7, the reference to exposures secured by 'property located in that Member State' is changed to exposures secured by 'immovable property located in that Member State'. [Art. 164, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_164) [Art. 164, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_164)
 
 *before* (`32013R0575`)
 
@@ -45153,7 +45167,9 @@ References to supervisory volatility adjustments in paragraph 1's closing text a
 
 *within* `AR 286`, `AR 286 PA 1 ALN 2`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading's dash character is rendered differently and the word "polices" in paragraph 1 is corrected to "policies", with paragraph numbers reformatted onto their own line before the paragraph text. [Art. 286, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_286) [Art. 286, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_286)
+
+The substantive text of paragraphs 1 through 8, including the listed points and requirements, is otherwise unchanged. [Art. 286, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_286) [Art. 286, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_286)
 
 *before* (`32013R0575`)
 
@@ -46231,7 +46247,11 @@ Paragraph numbering formatting changes such that the numeral of each paragraph n
 
 *within* `AR 384 PA 1 ALN 1`, `AR 384 PA 1 ALN 1 PTA (b)`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The formatting of decimal weights in point (b) was changed from a period-style notation (1.0 %, 3.0 %) to a comma-style notation (1,0 %, 3,0 %), with no change to the values themselves. [Art. 384, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_384) [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_384)
+
+The discount-factor formulas following the definitions of EAD total, Bi and Bind were altered so that the maturity variable used in each discounting expression is now expressed as Mi rather than the previously used Mihedge and Mind variables in those respective formulas. [Art. 384, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_384) [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_384)
+
+The phrase describing the fully adjusted exposure value under Article 223(5) no longer refers to it as EADitotal, simply stating that it may be used as the fully adjusted exposure value. [Art. 384, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_384) [Art. 384, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_384)
 
 *before* (`32013R0575`)
 
@@ -47368,7 +47388,9 @@ The same point also changed the closing phrase from obligations determined "acco
 
 *within* `AR 478 PA 2 ALN 1`, `AR 478 PA 2 ALN 1 PTA (a)`, `AR 478 PA 2 ALN 1 PTA (b)`, `AR 478 PA 2 ALN 1 PTA (c)`, `AR 478 PA 2 ALN 1 PTA (d)`, `AR 478 PA 2 ALN 1 PTA (e)`, `AR 478 PA 2 ALN 1 PTA (f)`, `AR 478 PA 2 ALN 1 PTA (g)`, `AR 478 PA 2 ALN 1 PTA (h)`, `AR 478 PA 2 ALN 1 PTA (i)`, `AR 478 PA 2 ALN 1 PTA (j)` · *dates* -2015-01-02 -2016-01-02 -2017-01-02 -2018-01-02 -2019-01-02 -2020-01-02 -2021-01-02 -2022-01-02 -2023-01-02 -2024-01-02 +2018-01-01 +2018-12-31 +2019-01-01 +2019-12-31 +2020-01-01 +2020-12-31 +2021-01-01 +2021-12-31 +2022-01-01 +2022-12-31 +2023-01-01 +2023-12-31
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The unresolved placeholder date marking when the pre-existing items in point (c) of Article 36(1) must have existed has been filled in as 1 January 2014. [Art. 478, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_478)
+
+The time bands listed in points (a) through (j) of paragraph 2, which previously ran from one 2 January to the next 2 January across consecutive years from 2015 to 2024, have been changed to run from 1 January to 31 December across consecutive years from 2014 to 2023. [Art. 478, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_478) [Art. 478, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_478)
 
 *before* (`32013R0575`)
 
@@ -47694,7 +47716,11 @@ These wording adjustments are formatting and phrasing changes without altering t
 
 *within* `AR 490 PA 1 ALN 1`, `AR 490 PA 2 ALN 1`, `AR 490 PA 3 ALN 1`, `AR 490 PA 4 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now says the items are subject to the whole Article rather than specifically to paragraphs 2 to 7. [Art. 490, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_490)
+
+Paragraph 4 changes the date from which items shall not qualify as Tier 2 items, from 1 January 2013 to 1 January 2014. [Art. 490, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_490)
+
+Paragraphs 2 and 3 add the word "that" after "provided", a wording adjustment with no other change of substance. [Art. 490, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_490)
 
 *before* (`32013R0575`)
 
