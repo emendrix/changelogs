@@ -2047,6 +2047,16 @@ In section IV, points (g) and (h) are reworded to refer to margin simulation at 
 
 ---
 
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32021R0023`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
 **INSERTED · Art. 6b — Suspension of clearing obligation in the case of resolution** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32021R0023`
@@ -2247,16 +2257,6 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 > (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
 > (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3757 characters omitted…]
-
-**MODIFIED · Art. 93** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20220812 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210628 -->
