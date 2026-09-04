@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32016R1011` · **In force** 2026-01-01 · **Detected** 2026-08-13
 - **Touched** 31 provisions — 31 substantive · 0 date-only · **6 disputed**
 - **Diff** 1 inserted · 30 modified · 0 deleted · 0 renumbered · 0 deferred · 60 unchanged
-- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20250117` · `v2` = `02016R1011-20260101`
 
 ---
@@ -420,7 +420,11 @@ In paragraph 2, the requirement that supervised entities reflect their contingen
 
 *within* `AR 29`, `AR 29 PA 1 ALN 1`, `AR 29 PA 1 ALN 2`, `AR 29 PA 1 ALN 3`, `AR 29 PA 1 ALN 4`, `AR 29 PA 1b`, `AR 29 PA 2 ALN 1`, `AR 29 PA 2 ALN 2` · *dates* +2017-06-14 · *amended by* `32025R0914`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading and Article 29(1) shift from a general permission to use any registered benchmark to a prohibition on adding new references to a significant, critical, commodity (Annex II), EU Climate Transition or EU Paris-aligned benchmark whose administrator is subject to a public notice under Article 24a(6) or not on the Article 36 register, with new provisions on ESAP/register consultation and on ESMA or competent authority allowing continued use for 6 to 24 months in specified circumstances. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
+
+A new paragraph 1b requires a supervised entity using an affected benchmark in existing contracts or instruments to replace it within 6 months of a public notice under Article 24a(6) or to publish a reasoned statement explaining why it has not done so, a requirement not present in the earlier text. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
+
+Paragraph 2 changes its reference from prospectuses under Directive 2003/71/EC to prospectuses under Regulation (EU) 2017/1129, expands the categories of referenced benchmarks to include critical, significant, commodity, Climate Transition and Paris-aligned benchmarks, and adds a further subparagraph requiring prospectuses to reflect, without undue delay, any public notice under Article 24a(6) entered in the Article 36 register, compared with the earlier single-paragraph wording. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
 
 *before* (`02016R1011-20250117`)
 
@@ -473,7 +477,11 @@ Paragraph 5 adds a new procedural step requiring ESMA to assess completeness of 
 
 *within* `AR 33 PA 1 ALN 1`, `AR 33 PA 2 ALN 1`, `AR 33 PA 3 ALN 1`, `AR 33 PA 4 ALN 1`, `AR 33 PA 5 ALN 1`, `AR 33 PA 6 ALN 1`, `AR 33 PA 7 ALN 1` · *amended by* `32025R0914`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision now directs the endorsement application, the information supporting it, and the examination and decision on it to ESMA rather than to the relevant national competent authority, and the earlier requirement that the competent authority notify ESMA of an endorsed benchmark is replaced by a rule on transferring authorisation or registration competences to ESMA within six months of the endorsement decision. [Art. 33, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_33) [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33)
+
+The reference to any other supervised entity located in the Union with a clear and well-defined role within the control or accountability framework of a third country administrator as an eligible applicant is removed, so paragraphs 1, 4, 5 and 6 now speak only of the endorsing administrator rather than of an administrator or other supervised entity. [Art. 33, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_33) [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33)
+
+Paragraph 6 also drops the earlier requirement that the competent authority inform ESMA when it requires cessation of an endorsement, since that power and role are now assigned to ESMA itself. [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33)
 
 *before* (`02016R1011-20250117`)
 
@@ -499,7 +507,11 @@ Paragraph 5 adds a new procedural step requiring ESMA to assess completeness of 
 
 *within* `AR 34 PA 1 ALN 1`, `AR 34 PA 1 ALN 1 PTA (a)`, `AR 34 PA 1 ALN 1 PTA (b)`, `AR 34 PA 1 ALN 1 PTA (c)`, `AR 34 PA 1a ALN 1`, `AR 34 PA 3 ALN 1` · *amended by* `32025R0914`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now allows the application to be addressed either to the national competent authority or, in the cases described in paragraph 1a, to ESMA, and it removes the former point (c) covering registration solely for non-significant benchmarks while limiting authorisation and registration to critical, significant, commodity, EU Climate Transition and EU Paris-aligned benchmark categories. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34)
+
+Paragraph 1a adds a further trigger for addressing the application to ESMA, namely where the person simultaneously submits an endorsement application to ESMA under Article 33(1). [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34)
+
+Paragraph 3 adds an alternative timing reference to the time limits set out in Article 24a(2) and (3), as applicable, alongside the existing 30-working-day rule. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34)
 
 *before* (`02016R1011-20250117`)
 

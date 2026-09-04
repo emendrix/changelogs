@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 6,
     "quoted": 0,
-    "unexplained": 8
+    "unexplained": 5
   },
   "changes": [
     {
@@ -1790,11 +1790,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading and Article 29(1) shift from a general permission to use any registered benchmark to a prohibition on adding new references to a significant, critical, commodity (Annex II), EU Climate Transition or EU Paris-aligned benchmark whose administrator is subject to a public notice under Article 24a(6) or not on the Article 36 register, with new provisions on ESAP/register consultation and on ESMA or competent authority allowing continued use for 6 to 24 months in specified circumstances.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29",
+              "label": "Art. 29, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 1b requires a supervised entity using an affected benchmark in existing contracts or instruments to replace it within 6 months of a public notice under Article 24a(6) or to publish a reasoned statement explaining why it has not done so, a requirement not present in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29",
+              "label": "Art. 29, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 changes its reference from prospectuses under Directive 2003/71/EC to prospectuses under Regulation (EU) 2017/1129, expands the categories of referenced benchmarks to include critical, significant, commodity, Climate Transition and Paris-aligned benchmarks, and adds a further subparagraph requiring prospectuses to reflect, without undue delay, any public notice under Article 24a(6) entered in the Article 36 register, compared with the earlier single-paragraph wording.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_29",
+              "label": "Art. 29, 02016R1011-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 29"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29",
+              "label": "Art. 29, 02016R1011-20260101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2017,11 +2088,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision now directs the endorsement application, the information supporting it, and the examination and decision on it to ESMA rather than to the relevant national competent authority, and the earlier requirement that the competent authority notify ESMA of an endorsed benchmark is replaced by a rule on transferring authorisation or registration competences to ESMA within six months of the endorsement decision.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_33",
+              "label": "Art. 33, 02016R1011-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33",
+              "label": "Art. 33, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "The reference to any other supervised entity located in the Union with a clear and well-defined role within the control or accountability framework of a third country administrator as an eligible applicant is removed, so paragraphs 1, 4, 5 and 6 now speak only of the endorsing administrator rather than of an administrator or other supervised entity.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_33",
+              "label": "Art. 33, 02016R1011-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33",
+              "label": "Art. 33, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 6 also drops the earlier requirement that the competent authority inform ESMA when it requires cessation of an endorsement, since that power and role are now assigned to ESMA itself.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 33"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_33",
+              "label": "Art. 33, 02016R1011-20260101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2085,11 +2240,82 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 1 now allows the application to be addressed either to the national competent authority or, in the cases described in paragraph 1a, to ESMA, and it removes the former point (c) covering registration solely for non-significant benchmarks while limiting authorisation and registration to critical, significant, commodity, EU Climate Transition and EU Paris-aligned benchmark categories.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20250117",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_34",
+              "label": "Art. 34, 02016R1011-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34",
+              "label": "Art. 34, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 1a adds a further trigger for addressing the application to ESMA, namely where the person simultaneously submits an endorsement application to ESMA under Article 33(1).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34",
+              "label": "Art. 34, 02016R1011-20260101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 adds an alternative timing reference to the time limits set out in Article 24a(2) and (3), as applicable, alongside the existing 30-working-day rule.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20260101",
+                "location": "AR 34"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_34",
+              "label": "Art. 34, 02016R1011-20260101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5397,6 +5623,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 32718,
+        "output_tokens": 2598,
+        "requests": 6,
+        "schema_repairs": 3
       },
       "coordinates_checked": false
     }
