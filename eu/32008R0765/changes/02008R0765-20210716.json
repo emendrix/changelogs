@@ -1,0 +1,1073 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32008R0765",
+    "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+  },
+  "from_version": "32008R0765",
+  "to_version": "02008R0765-20210716",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-07-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 6,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 6,
+    "unchanged_units": 45,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 6,
+    "substantive": 6,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 5
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "AR 1"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "AR 2"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "AR 32"
+        },
+        "heading": "Activities eligible for Community financing",
+        "before": "Article 32\nActivities eligible for Community financing\n1. The Community may finance the following activities in connection with the application of this Regulation:\n(a) the production and revision of sectoral accreditation schemes referred to in Article 13(3);\n(b) the activities of the secretariat of the body recognised under Article 14, such as the coordination of accreditation activities, the processing of technical work linked to the operation of the peer evaluation system, the provision of interested parties with information and the participation of the body in the activities of international organisations in the field of accreditation;\n(c) the drawing up and updating of contributions to guidelines in the fields of accreditation, notification to the Commission of conformity assessment bodies, conformity assessment and market surveillance;\n(d) inter-comparison activities linked to the operation of safeguard clauses;\n(e) the making available to the Commission of technical expertise for the purpose of assisting the Commission in its implementation of market surveillance administrative cooperation, including the financing of administrative cooperation groups, market surveillance decisions and safeguard clause cases;\n(f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology, accreditation and market surveillance activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analyses, mutual joint visits, research work, the development and maintenance of databases, training activities, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work, as well as European market surveillance campaigns and similar activities;\n(g) activities carried out under programmes of technical assistance, cooperation with third countries and the promotion and enhancement of European conformity assessment, market surveillance and accreditation policies and systems among interested parties in the Community and at international level.\n2. The activities referred to in paragraph 1(a) shall be eligible for Community financing only if the Committee set up by Article 5 of Directive 98/34/EC has been consulted on the requests to be submitted to the body recognised under Article 14 of this Regulation.",
+        "after": "Article 32\nActivities eligible for Community financing\n1. The Community may finance the following activities in connection with the application of this Regulation:\n(a) the production and revision of sectoral accreditation schemes referred to in Article 13(3);\n(b) the activities of the secretariat of the body recognised under Article 14, such as the coordination of accreditation activities, the processing of technical work linked to the operation of the peer evaluation system, the provision of interested parties with information and the participation of the body in the activities of international organisations in the field of accreditation;\n(c) the drawing up and updating of contributions to guidelines in the fields of accreditation, notification to the Commission of conformity assessment bodies and conformity assessment;\n(d) inter-comparison activities linked to the operation of safeguard clauses;\n(e) the making available to the Commission of technical expertise for the purpose of assisting the Commission in its implementation of market surveillance administrative cooperation, including the financing of administrative cooperation groups, market surveillance decisions and safeguard clause cases;\n(f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology and accreditation activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analyses, mutual joint visits, research work, the development and maintenance of databases, training activities, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work;\n(g) activities carried out under programmes of technical assistance, cooperation with third countries and the promotion and enhancement of European conformity assessment and accreditation policies and systems among interested parties in the Community and at international level.\n2. The activities referred to in paragraph 1(a) shall be eligible for Community financing only if the Committee set up by Article 5 of Directive 98/34/EC has been consulted on the requests to be submitted to the body recognised under Article 14 of this Regulation.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 32 PA 1 ALN 1 PTA (c)",
+          "AR 32 PA 1 ALN 1 PTA (f)",
+          "AR 32 PA 1 ALN 1 PTA (g)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 R; 32019R1020 A",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In point (c), the phrase covering conformity assessment and market surveillance has been shortened to refer only to conformity assessment, dropping the reference to market surveillance.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "32008R0765",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R0765#art_32",
+              "label": "Art. 32, 32008R0765"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "02008R0765-20210716",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R0765-20210716#art_32",
+              "label": "Art. 32, 02008R0765-20210716"
+            }
+          ]
+        },
+        {
+          "text": "In point (f), the list of activities linked to Community legislation no longer includes market surveillance among the named fields, and the closing reference to European market surveillance campaigns and similar activities has been removed.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "32008R0765",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R0765#art_32",
+              "label": "Art. 32, 32008R0765"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "02008R0765-20210716",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R0765-20210716#art_32",
+              "label": "Art. 32, 02008R0765-20210716"
+            }
+          ]
+        },
+        {
+          "text": "In point (g), the reference to promotion and enhancement of policies and systems no longer mentions market surveillance, listing only conformity assessment and accreditation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "32008R0765",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R0765#art_32",
+              "label": "Art. 32, 32008R0765"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32008R0765",
+                  "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+                },
+                "version": "02008R0765-20210716",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R0765-20210716#art_32",
+              "label": "Art. 32, 02008R0765-20210716"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "AR 39"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "31 annotations in (the act itself, 2021-07-16]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 039",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "TIT"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32008R0765",
+            "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+          },
+          "version": "02008R0765-20210716",
+          "location": "CHA III"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 A",
+            "change_types": [
+              "INSERTED",
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32008R0765",
+      "display_name": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+    },
+    "from_version": "32008R0765",
+    "to_version": "02008R0765-20210716",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 32"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1",
+          "AR 2",
+          "AR 32",
+          "TIT",
+          "CHA III"
+        ],
+        "note": "31 annotations in (the act itself, 2021-07-16]",
+        "claims": [
+          {
+            "location": "CHA III AR 27",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 2",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 3",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 17",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 17",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 PTA (f)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 15",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 23",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 PTA (e)",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 22",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 24",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 25",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 14",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 18",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 1",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 19",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 1 PA 2",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "TIT",
+            "change_type": "MODIFIED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 20",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 PTA (g)",
+            "change_type": "MODIFIED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 29",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 16",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 18",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 19",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 21",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 28",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 15",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA III AR 26",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 32 PA 1 PTA (d)",
+            "change_type": "INSERTED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 A",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 39"
+        ],
+        "note": "32019R1020, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 39",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 039",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 5,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.33333333333333337,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 5,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 1",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 2",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 32",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 39",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "TIT",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "CHA III",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED",
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 1",
+      "AR 2",
+      "AR 39",
+      "TIT",
+      "CHA III"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 6,
+    "explained": 1,
+    "unavailable": 5,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 5,
+    "usage": {
+      "input_tokens": 3790,
+      "output_tokens": 334,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 6,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 5,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 6,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
