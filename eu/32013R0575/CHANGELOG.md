@@ -19761,7 +19761,7 @@ The rest of the paragraph, including the percentage figures and the 28 June 2025
 - **Act** `eu:32013R0575` · **In force** 2021-04-10, 2021-06-26, 2021-06-28 · **Detected** 2026-08-13
 - **Touched** 230 provisions — 230 substantive · 0 date-only · **128 disputed**
 - **Diff** 85 inserted · 145 modified · 0 deleted · 0 renumbered · 0 deferred · 513 unchanged
-- **Gate** 0 sentences quoted verbatim · 19 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 16 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20201228` · `v2` = `02013R0575-20210629`
 
 ---
@@ -19831,7 +19831,11 @@ Several later points are also altered, including the addition of investment firm
 
 *within* `AR 6 PA 1 ALN 1`, `AR 6 PA 3 ALN 2`, `AR 6 PA 4 ALN 1`, `AR 6 PA 4 ALN 1 PTA (a)`, `AR 6 PA 4 ALN 1 PTA (b)`, `AR 6 PA 4 ALN 1 PTA (c)`, `AR 6 PA 5 ALN 1` · *dates* +2014-07-23 · *amended by* `32019R0876`, `32019R2033`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 1 now lists Parts Two, Three, Four, Seven, Seven A and Eight together with Chapter 2 of Regulation (EU) 2017/2402 as the individual-basis obligations, carving out point (d) of Article 430(1), whereas the earlier text referred only to Parts Two to Five and Eight. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_6)
+
+Paragraph 3 gains an added subparagraph applying Article 437a and point (h) of Article 447 on an individual basis to the institutions referred to in paragraph 1a. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6)
+
+Paragraph 4 is rewritten to require compliance with Part Six and point (d) of Article 430(1) and to add exemptions from Article 413(1) and related Part Seven A liquidity reporting for certain listed institutions, and paragraph 5 is rewritten to exempt institutions covered by the Article 7 derogation and those authorised under Article 14 of Regulation (EU) No 648/2012 from Part Seven obligations and associated Part Seven A leverage ratio reporting, replacing the former text that addressed investment firms and the Commission report under Article 508(3). [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_6)
 
 *before* (`02013R0575-20201228`)
 
@@ -22485,7 +22489,11 @@ The operative text replaced the formula-based calculation of Ki using trade expo
 
 *within* `AR 311 PA 1 ALN 1`, `AR 311 PA 1 ALN 1 PTA (a)`, `AR 311 PA 1 ALN 1 PTA (b)`, `AR 311 PA 2 ALN 1`, `AR 311 PA 2 ALN 1 PTA (a)`, `AR 311 PA 2 ALN 1 PTA (b)`, `AR 311 PA 2 ALN 1 PTA (c)`, `AR 311 PA 2 ALN 2`, `AR 311 PA 2 ALN 3`, `AR 311 PA 3` · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision no longer refers to a notification that a CCP has stopped calculating KCCP under Article 50b of Regulation (EU) No 648/2012, and the trigger condition is now stated as a single condition rather than two alternative conditions, with the actor changed from an institution to institutions. [Art. 311, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_311) [Art. 311, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_311)
+
+The separate process for verifying the reasons why a CCP stopped calculating KCCP, including the competent authority's assessment and disclosure of reasons, and the option to apply Article 310 treatment, has been removed. [Art. 311, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_311) [Art. 311, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_311)
+
+The remaining steps for institutions to take within three months, previously listed as four actions including ceasing to apply the Article 301(2) treatment, are now listed as three actions without that ceasing step, and the cross-references within the list of points have been adjusted accordingly. [Art. 311, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_311) [Art. 311, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_311)
 
 *before* (`02013R0575-20201228`)
 
@@ -23151,7 +23159,11 @@ Paragraph 3 drops the sentence allowing competent authorities to continue collec
 
 *within* `AR 416 PA 3 ALN 1 PTA (a)`, `AR 416 PA 3 ALN 1 PTA (b)`, `AR 416 PA 3 ALN 1 PTA (c)`, `AR 416 PA 3 ALN 1 PTA (d)`, `AR 416 PA 3 ALN 1 PTA (e)`, `AR 416 PA 3 ALN 2`, `AR 416 PA 3 ALN 3`, `AR 416 PA 5 ALN 1`, `AR 416 PA 5 ALN 2`, `AR 416 PA 5 ALN 3`, `AR 416 PA 5 ALN 4`, `AR 416 PA 6 ALN 1`, `AR 416 PA 6 ALN 2` · *dates* -2014-01-01 -2014-03-31 · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 3's list of conditions was rewritten: point (a) now allows uncommitted credit lines when a pool is operated by a central bank, points (a) through (c) were reworded, and the former point (e) on eligibility as central bank collateral was removed, leaving the listed-exchange or tradability condition as the remaining point (d), with the following exemption clause now referring only to points (c) and (d) instead of (c), (d) and (e). [Art. 416, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_416) [Art. 416, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_416)
+
+The former third subparagraph of paragraph 3 on currencies with a narrow definition of central bank eligibility, and the whole of former paragraph 5 on EBA implementing technical standards for listing qualifying currencies, including the 31 March 2014 submission deadline and the 1 January 2014 transitional reference, have been deleted. [Art. 416, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_416) [Art. 416, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_416)
+
+Former paragraphs 6 and 7 on CIU treatment and on ceasing eligibility were renumbered as paragraphs 5 and 6, with the EUR 500 million CIU cap now also expressed as an equivalent amount in domestic currency and the eligibility-cessation wording changed to refer to ceasing to comply with the requirement for liquid assets set out in the Article, while the text as shown still also contains a further paragraph 7 repeating the prior 30-day rule with a cross-reference to paragraph 6. [Art. 416, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_416) [Art. 416, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_416)
 
 *before* (`02013R0575-20201228`)
 
