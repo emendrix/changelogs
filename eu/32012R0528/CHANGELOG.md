@@ -155,10 +155,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20210610` → `02012R0528-20220415`
 
-- **Act** `eu:32012R0528` · **In force** 2022-04-15 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2022-04-15 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20210610` · `v2` = `02012R0528-20220415`
 
 ---
@@ -169,7 +169,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The pre-submission consultation obligation is rephrased so that the applicant must initiate consultation with the prospective evaluating body, and a new requirement is added for the applicant to document such consultations and their outcomes and include the relevant documents in the application. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_II)
+
+The testing-methods provision in point 5 changes the phrase requiring tests to be conducted according to the methods described in Regulation (EC) No 440/2008 to conducted in accordance with those methods or any revised version of them not yet included in that Regulation, and it removes the earlier reference to internationally recognised methods and the requirement that other methods be internationally recognised whenever possible. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_II)
+
+Within the table, several endpoint entries in Title 1, including those on skin corrosion or irritation, eye damage or irritation, skin sensitisation, in vivo genotoxicity, reproductive toxicity, developmental toxicity studies, carcinogenicity in a second species, health data, neurotoxicity, and endocrine disruption, are rewritten with revised tiered testing structures, updated waiving conditions, and new references to specific OECD test guidelines and dates, and the text is truncated before the remainder of the table can be described. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_II)
 
 *before* (`02012R0528-20210610`)
 
@@ -178,7 +182,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1. This Annex sets out the information requirements for the preparation of the dossier referred to in point (a) of Article 6(1).
 > 2. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all active substances. However, in some cases the physical or chemical properties of the substance may mean that it is impossible or unnecessary to provide specific data elements belonging to the CDS.
 > With regard to the ADS, the data elements to be provided for a specific active substance shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the substance, existing data, information which is part of the CDS and the types of products in which the active substance will be used and the exposure patterns related to these uses.
-> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 50340 characters omitted…]
+> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 50350 characters omitted…]
 
 *after* (`02012R0528-20220415`)
 
@@ -187,7 +191,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1. This Annex sets out the information requirements for the preparation of the dossier referred to in point (a) of Article 6(1).
 > 2. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all active substances. However, in some cases the physical or chemical properties of the substance may mean that it is impossible or unnecessary to provide specific data elements belonging to the CDS.
 > With regard to the ADS, the data elements to be provided for a specific active substance shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the substance, existing data, information which is part of the CDS and the types of products in which the active substance will be used and the exposure patterns related to these uses.
-> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 63088 characters omitted…]
+> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. […truncated by emendrix: 63098 characters omitted…]
 
 **MODIFIED · Annex III — ANNEX III** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -195,7 +199,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The introductory part now adds a statement that the information already supplied on non-active substances may not be sufficient or adequate to determine hazardous properties, allowing the evaluating body to conclude further data are required, and it changes the pre-submission consultation wording from an obligation the applicant 'has' to initiate to a duty the applicant 'shall' initiate with the prospective evaluating body, adding a requirement to document such consultations and include the related documents in the application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_III)
+
+Point 5 rewords the testing-methods rule, referencing Commission Regulation (EC) No 440/2008 by its full title and date and dropping the earlier phrase requiring justification to be 'whenever possible internationally recognised', while otherwise keeping the requirement that inappropriate or undescribed methods be replaced with scientifically appropriate ones justified in the application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_III)
+
+Within the biocidal-product data tables, entries 8.1 through 8.3 on skin corrosion/irritation, eye irritation, and skin sensitisation are expanded into detailed tiered testing schemes with new conditions for when product or mixture testing need not be conducted, and a new statement is added recognising in vivo studies carried out or initiated before 15 April 2022 as appropriate to address these information requirements. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_III)
 
 *before* (`02012R0528-20210610`)
 
@@ -213,7 +221,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1. This Annex sets out the information requirements that shall be included in the dossier for the biocidal product accompanying an application for the approval of an active substance in accordance with point (b) of Article 6(1) and the dossier accompanying an application for the authorisation of a biocidal product in accordance with point (a) of Article 20(1).
 > 2. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all biocidal products.
 > With regard to the ADS, the data elements to be provided for a specific biocidal product shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the product, existing data, information which is part of the CDS and the types of products and the exposure patterns related to these uses.
-> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex III table. The general considerations regarding adaptation of information requirements as set out in Annex IV to this Regulation shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the table gives specific indications for the adaptation of some of the data elements which might require the use of such […truncated by emendrix: 42400 characters omitted…]
+> Specific indications for the inclusion of some data elements are provided in column 1 of the Annex III table. The general considerations regarding adaptation of information requirements as set out in Annex IV to this Regulation shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the table gives specific indications for the adaptation of some of the data elements which might require the use of such […truncated by emendrix: 42401 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20220415 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20210610 -->
