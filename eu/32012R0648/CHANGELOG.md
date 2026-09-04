@@ -2309,7 +2309,7 @@ This paragraph 3a did not appear in the earlier version of Article 4, which move
 
 *within* `AR 50a PA 2 ALN 1` · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02012R0648-20210213`)
 
