@@ -1,0 +1,384 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32018R0848",
+    "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+  },
+  "from_version": "02018R0848-20230221",
+  "to_version": "02018R0848-20241201",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2024-12-01"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 65,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32018R0848",
+            "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+          },
+          "version": "02018R0848-20241201",
+          "location": "AN V"
+        },
+        "heading": "ANNEX V",
+        "before": "ANNEX V\nORGANIC PRODUCTION LOGO OF THE EUROPEAN UNION AND CODE NUMBERS\n1. Logo\n1.1. The organic production logo of the European Union shall comply with the model below:\n1.2. The reference colour in Pantone is Green Pantone No 376 and Green (50 % Cyan + 100 % Yellow), when a four-colour process is used.\n1.3. The organic production logo of the European Union may also be used in black and white as shown, only where it is not practicable to apply it in colour:\n1.4. If the background colour of the packaging or label is dark, the symbols may be used in negative format, using the background colour of the packaging or label.\n1.5. If a logo is used in colour on a coloured background which makes it difficult to see, a delimiting outer line around the logo can be used to improve contrast with the background colours.\n1.6. Where there are indications in a single colour on the packaging, the organic production logo of the European Union may be used in the same colour.\n1.7. The organic production logo of the European Union shall have a height of at least 9 mm and a width of at least 13,5 mm; the proportion ratio height/width shall always be 1:1,5. Exceptionally, the minimum size may be reduced to a height of 6 mm for very small packages.\n1.8. The organic production logo of the European Union may be associated with graphical or textual elements referring to organic production under the condition that they do not modify or change the nature of the organic production logo of the European Union, nor any of the indications defined in accordance with Article 32. When associated to national or private logos using a green colour different from the reference colour provided for in point 1.2, the organic production logo of the European Union may be used in that non-reference colour.\n2. Code numbers\nThe general format of the code numbers shall be as follows:\nAB-CDE-999\nwhere:\n(a) AB is the ISO code for the country where the controls take place;\n(b) CDE is a term, indicated in three letters to be decided by the Commission or each Member State, like bio or öko or org or eko establishing a link with organic production; and\n(c) 999 is the reference number, indicated in maximum three digits, to be assigned by:\n(i) each Member State’s competent authority to the control authorities or control bodies to which it has delegated control tasks;\n(ii) the Commission, to:\nthe control authorities and control bodies recognised by the Commission pursuant to Article 46,\nto the competent authorities of third countries recognised by the Commission pursuant to Article 48.",
+        "after": "ANNEX V\nORGANIC PRODUCTION LOGO OF THE EUROPEAN UNION AND CODE NUMBERS\n1. Logo\n1.1. The organic production logo of the European Union shall comply with the model below:\n1.2. The reference colour is green 50/0/100/0 in the CMYK process, No 376 in the Pantone colour chart and 169/201/56 in the RGB colour model.\n1.3. The organic production logo of the European Union may also be used in black and white as shown below, or in a totally inverted white and black (negative format), but only where it is not practicable to use the colour model:\n1.4. If the background colour of the packaging or label is dark, the symbols may be used in negative format, using the background colour of the packaging or label.\n1.5. If a logo is used on a background which makes it difficult to see it, a delimiting outer line around the logo shall be used to improve the contrast with the background.\n1.6. Where there are indications in a single colour on the packaging, the organic production logo of the European Union may be used in the same colour.\n1.7. The organic production logo of the European Union shall have a height of at least 9 mm and a width of at least 13,5 mm; the proportion ratio height/width shall always be 1:1,5. Exceptionally, the minimum size may be reduced to a height of 6 mm for very small packages.\n1.8. The organic production logo of the European Union may be associated with graphical or textual elements referring to organic production under the condition that they do not modify or change the nature of the organic production logo of the European Union, nor any of the indications defined in accordance with Article 32. When associated to national or private logos using a green colour different from the reference colour provided for in point 1.2, the organic production logo of the European Union may be used in that non-reference colour.\n2. Code numbers\nThe general format of the code numbers shall be as follows:\nAB-CDE-999\nwhere:\n(a) AB is the ISO code for the country where the controls take place;\n(b) CDE is a term, indicated in three letters to be decided by the Commission or each Member State, like bio or öko or org or eko establishing a link with organic production; and\n(c) 999 is the reference number, indicated in maximum three digits, to be assigned by:\n(i) each Member State’s competent authority to the control authorities or control bodies to which it has delegated control tasks;\n(ii) the Commission, to:\nthe control authorities and control bodies recognised by the Commission pursuant to Article 46,\nto the competent authorities of third countries recognised by the Commission pursuant to Article 48.",
+        "previous_location": null,
+        "changed_within": [
+          "AN V SCT 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2867",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2024-12-01",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2867 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2867, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32018R0848",
+            "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+          },
+          "version": "02018R0848-20241201",
+          "location": "AN VI"
+        },
+        "heading": "ANNEX VI",
+        "before": "ANNEX VI\nMODEL OF THE CERTIFICATE\nCERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS\nPart I: Mandatory elements\nRegulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).\n1. Document number 2. (choose as appropriate)\nOperator\nGroup of operators – see point 9\n3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:\n5. Activity or activities of the operator or group of operators (choose as appropriate)\nProduction\nPreparation\nDistribution/ Placing on the market\nStoring\nImport\nExport\n6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council\n and production methods (choose as appropriate)\n(a) unprocessed plants and plant products, including seeds and other plant reproductive material\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(b) livestock and unprocessed livestock products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(c) algae and unprocessed aquaculture products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(d) processed agricultural products, including aquaculture products, for use as food\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(e) feed\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(f) wine\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(g) other products listed in Annex I to Regulation (EU) 2018/848 or not covered by the previous categories\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\nThis document has been issued in accordance with Regulation (EU) 2018/848 to certify that the operator or group of operators (choose as appropriate) complies with that Regulation.\n7. Date, place\nName and signature on behalf of the issuing competent authority, or, where appropriate, control authority or control body, or qualified electronic seal: 8. Certificate valid from…[insert date] to …[insert date]\n9. List of members of the group of operators as defined in Article 36 of Regulation (EU) 2018/848\nName of member Address or other form of member identification\nPart II: Specific optional elements\nOne or more elements to be completed if so decided by the competent authority or, where appropriate, the control authority or control body that issues the certificate to the operator or group of operators in accordance with Article 35 of Regulation (EU) 2018/848.\n1. Directory of products\nCouncil Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).\nName of the product and/or Combined Nomenclature (CN) code as referred to in Council Regulation (EEC) No 2658/87\n for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion\n2. Quantity of products\nName of the product and/or CN code as referred to in Regulation (EEC) No 2658/87 for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion Quantity estimated in kilograms, litres or, where relevant, in number of units\n3. Information on the land\nName of the product □ Organic\n□ In-conversion\n□ Non-organic Surface in hectares\n4. List of premises or units where the activity is performed by the operator or group of operators\nAddress or geolocation Description of the activity or activities as referred to in point 5 of part I\n5. Information on the activity or activities carried out by the operator or group of operators and whether the activity is, or the activities are performed for their own purpose or as a subcontractor carrying out the activity or activities for another operator, while the subcontractor remains responsible for the activity or activities performed\nDescription of the activity or activities as referred to in point 5 of part I □ Carrying out activity/activities for own purpose\n□ Carrying out activity/activities as a subcontractor for another operator, while the subcontractor remains responsible for the activity or activities performed\n6. Information on the activity or activities carried out by the subcontracted third party in accordance with Article 34(3) of Regulation (EU) 2018/848\nDescription of the activity or activities as referred to in point 5 of part I □ Operator or group of operators remains responsible\n□ Subcontracted third party is responsible\n7. List of subcontractors carrying out an activity or activities for the operator or group of operators in accordance with Article 34(3) of Regulation (EU) 2018/848, for which the operator or group of operators remains responsible as regards organic production and for which it has not transferred that responsibility to the subcontractor\nName and address Description of the activity or activities as referred to in point 5 of part I\n8. Information on the accreditation of the control body in accordance with Article 40(3) of Regulation (EU) 2018/848\n(a) name of the accreditation body;\n(b) hyperlink to the accreditation certificate.\n9. Other information\n",
+        "after": "ANNEX VI\nMODEL OF THE CERTIFICATE\nCERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS\nPart I: Mandatory elements\nRegulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).\n1. Document number 2. (choose as appropriate)\nOperator\nGroup of operators – see point 9\n3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:\n5. Activity or activities of the operator or group of operators (choose as appropriate)\nProduction\nPreparation\nDistribution/ Placing on the market\nStoring\nImport\nExport\n6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council\n and production methods (choose as appropriate)\n(a) unprocessed plants and plant products, including seeds and other plant reproductive material\nProduction method:\n□ organic production excluding during the conversion period\n□□ production during the conversion period\n□ organic production with non-organic production\n(b) livestock and unprocessed livestock products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(c) algae and unprocessed aquaculture products\nProduction method:\n□ organic production excluding during the conversion period\n□ production during the conversion period\n□ organic production with non-organic production\n(d) processed agricultural products, including aquaculture products, for use as food\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(e) feed\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(f) wine\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\n(g) other products listed in Annex I to Regulation (EU) 2018/848 or not covered by the previous categories\nProduction method:\n□ production of organic products\n□ production of in-conversion products\n□ organic production with non-organic production\nThis document has been issued in accordance with Regulation (EU) 2018/848 to certify that the operator or group of operators (choose as appropriate) complies with that Regulation.\n7. Date, place\nName and signature on behalf of the issuing competent authority, or, where appropriate, control authority or control body, or qualified electronic seal: 8. Certificate valid from…[insert date] to …[insert date]\n9. List of members of the group of operators as defined in Article 36 of Regulation (EU) 2018/848\nName of member Address or other form of member identification\nPart II: Specific optional elements\nOne or more elements to be completed if so decided by the competent authority or, where appropriate, the control authority or control body that issues the certificate to the operator or group of operators in accordance with Article 35 of Regulation (EU) 2018/848.\n1. Directory of products\nCouncil Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).\nName of the product and/or Combined Nomenclature (CN) code as referred to in Council Regulation (EEC) No 2658/87\n for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion\n2. Quantity of products\nName of the product and/or CN code as referred to in Regulation (EEC) No 2658/87 for products within the scope of Regulation (EU) 2018/848 □ Organic\n□ In-conversion Quantity estimated in kilograms, litres or, where relevant, in number of units\n3. Information on the land\nName of the product □ Organic\n□ In-conversion\n□ Non-organic Surface in hectares\n4. List of premises or units where the activity is performed by the operator or group of operators\nAddress or geolocation Description of the activity or activities as referred to in point 5 of part I\n5. Information on the activity or activities carried out by the operator or group of operators and whether the activity is, or the activities are performed for their own purpose or as a subcontractor carrying out the activity or activities for another operator, while the subcontractor remains responsible for the activity or activities performed\nDescription of the activity or activities as referred to in point 5 of part I □ Carrying out activity/activities for own purpose\n□ Carrying out activity/activities as a subcontractor for another operator, while the subcontractor remains responsible for the activity or activities performed\n6. Information on the activity or activities carried out by the subcontracted third party in accordance with Article 34(3) of Regulation (EU) 2018/848\nDescription of the activity or activities as referred to in point 5 of part I □ Operator or group of operators remains responsible\n□ Subcontracted third party is responsible\n7. List of subcontractors carrying out an activity or activities for the operator or group of operators in accordance with Article 34(3) of Regulation (EU) 2018/848, for which the operator or group of operators remains responsible as regards organic production and for which it has not transferred that responsibility to the subcontractor\nName and address Description of the activity or activities as referred to in point 5 of part I\n8. Information on the accreditation of the control body in accordance with Article 40(3) of Regulation (EU) 2018/848\n(a) name of the accreditation body;\n(b) hyperlink to the accreditation certificate.\n9. Other information\n",
+        "previous_location": null,
+        "changed_within": [
+          "AN VI"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "3 annotations in (2023-02-21, 2024-12-01]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2867, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "In the section on category (a) unprocessed plants and plant products, the checkbox symbol before the option for production during the conversion period changed from a single box mark to a doubled box mark.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20241201",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_VI",
+              "label": "Annex VI, 02018R0848-20241201"
+            }
+          ]
+        },
+        {
+          "text": "No other wording, category, or field in the certificate model was altered between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20230221",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI",
+              "label": "Annex VI, 02018R0848-20230221"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32018R0848",
+                  "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+                },
+                "version": "02018R0848-20241201",
+                "location": "AN VI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_VI",
+              "label": "Annex VI, 02018R0848-20241201"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32018R0848",
+      "display_name": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+    },
+    "from_version": "02018R0848-20230221",
+    "to_version": "02018R0848-20241201",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN V",
+          "AN VI"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN V"
+        ],
+        "note": "3 annotations in (2023-02-21, 2024-12-01]",
+        "claims": [
+          {
+            "location": "AN V PO 1.5",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-01",
+            "source": "32024R2867 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2867",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PO 1.2",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-01",
+            "source": "32024R2867 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2867",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN V PO 1.3",
+            "change_type": "MODIFIED",
+            "in_force": "2024-12-01",
+            "source": "32024R2867 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2867",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32024R2867, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN V",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 1,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 6337,
+      "output_tokens": 195,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

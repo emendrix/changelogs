@@ -10,6 +10,123 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20241201 -->
+## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
+### `02018R0848-20230221` → `02018R0848-20241201`
+
+- **Act** `eu:32018R0848` · **In force** 2024-12-01 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02018R0848-20230221` · `v2` = `02018R0848-20241201`
+
+---
+
+**MODIFIED · Annex V — ANNEX V** · applies from: unchanged
+
+*within* `AN V SCT 1` · *amended by* `32024R2867`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+
+*before* (`02018R0848-20230221`)
+
+> ANNEX V
+> ORGANIC PRODUCTION LOGO OF THE EUROPEAN UNION AND CODE NUMBERS
+> 1. Logo
+> 1.1. The organic production logo of the European Union shall comply with the model below:
+> 1.2. The reference colour in Pantone is Green Pantone No 376 and Green (50 % Cyan + 100 % Yellow), when a four-colour process is used.
+> 1.3. The organic production logo of the European Union may also be used in black and white as shown, only where it is not practicable to apply it in colour:
+> 1.4. If the background colour of the packaging or label is dark, the symbols may be used in negative format, using the background colour of the packaging or label.
+> 1.5. If a logo is used in colour on a coloured background which makes it difficult to see, a delimiting outer line around the logo can be used to improve contrast with the background colours.
+> 1.6. Where there are indications in a single colour on the packaging, the organic production logo of the European Union may be used in the same colour.
+> 1.7. The organic production logo of the European Union shall have a height of at least 9 mm and a width of at least 13,5 mm; the proportion ratio height/width shall always be 1:1,5. Exceptionally, the minimum size may be reduced to a height of 6 mm for very small packages.
+> 1.8. The organic production logo of the European Union may be associated with graphical or textual elements referring to organic production under the condition that they do not modify or change the nature of the organic production logo of the European Union […truncated by emendrix: 1070 characters omitted…]
+
+*after* (`02018R0848-20241201`)
+
+> ANNEX V
+> ORGANIC PRODUCTION LOGO OF THE EUROPEAN UNION AND CODE NUMBERS
+> 1. Logo
+> 1.1. The organic production logo of the European Union shall comply with the model below:
+> 1.2. The reference colour is green 50/0/100/0 in the CMYK process, No 376 in the Pantone colour chart and 169/201/56 in the RGB colour model.
+> 1.3. The organic production logo of the European Union may also be used in black and white as shown below, or in a totally inverted white and black (negative format), but only where it is not practicable to use the colour model:
+> 1.4. If the background colour of the packaging or label is dark, the symbols may be used in negative format, using the background colour of the packaging or label.
+> 1.5. If a logo is used on a background which makes it difficult to see it, a delimiting outer line around the logo shall be used to improve the contrast with the background.
+> 1.6. Where there are indications in a single colour on the packaging, the organic production logo of the European Union may be used in the same colour.
+> 1.7. The organic production logo of the European Union shall have a height of at least 9 mm and a width of at least 13,5 mm; the proportion ratio height/width shall always be 1:1,5. Exceptionally, the minimum size may be reduced to a height of 6 mm for very small packages.
+> 1.8. The organic production logo of the European Union may be associated with graphical or textual elements referring to organic production under the condition that they do not modify or change th […truncated by emendrix: 1131 characters omitted…]
+
+**MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
+
+*within* `AN VI`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In the section on category (a) unprocessed plants and plant products, the checkbox symbol before the option for production during the conversion period changed from a single box mark to a doubled box mark. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_VI)
+
+No other wording, category, or field in the certificate model was altered between the two versions. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_VI)
+
+*before* (`02018R0848-20230221`)
+
+> ANNEX VI
+> MODEL OF THE CERTIFICATE
+> CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS
+> Part I: Mandatory elements
+> Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+> 1. Document number 2. (choose as appropriate)
+> Operator
+> Group of operators – see point 9
+> 3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:
+> 5. Activity or activities of the operator or group of operators (choose as appropriate)
+> Production
+> Preparation
+> Distribution/ Placing on the market
+> Storing
+> Import
+> Export
+> 6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council
+>  and production methods (choose as appropriate)
+> (a) unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> □ organic production excluding during the conversion period
+> □ production during the conversion period
+> □ organic production with non-organic production
+> (b) livestock and unprocessed livestock products
+> Production method:
+> □ organic production excluding during th […truncated by emendrix: 4536 characters omitted…]
+
+*after* (`02018R0848-20241201`)
+
+> ANNEX VI
+> MODEL OF THE CERTIFICATE
+> CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS
+> Part I: Mandatory elements
+> Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+> 1. Document number 2. (choose as appropriate)
+> Operator
+> Group of operators – see point 9
+> 3. Name and address of the operator or group of operators: 4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:
+> 5. Activity or activities of the operator or group of operators (choose as appropriate)
+> Production
+> Preparation
+> Distribution/ Placing on the market
+> Storing
+> Import
+> Export
+> 6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council
+>  and production methods (choose as appropriate)
+> (a) unprocessed plants and plant products, including seeds and other plant reproductive material
+> Production method:
+> □ organic production excluding during the conversion period
+> □□ production during the conversion period
+> □ organic production with non-organic production
+> (b) livestock and unprocessed livestock products
+> Production method:
+> □ organic production excluding during t […truncated by emendrix: 4537 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02018R0848-20241201 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02018R0848-20230221 -->
 ## Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and […]
 ### `02018R0848-20220101` → `02018R0848-20230221`
