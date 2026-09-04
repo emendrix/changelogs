@@ -10,6 +10,166 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20260529 -->
+## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
+### `02011R0305-20260108` → `02011R0305-20260529`
+
+- **Act** `eu:32011R0305` · **In force** 2026-05-29 · **Detected** 2026-09-04
+- **Touched** 7 provisions — 7 substantive · 0 date-only · **5 disputed**
+- **Diff** 5 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02011R0305-20260108` · `v2` = `02011R0305-20260529`
+
+---
+
+**MODIFIED · Art. 2 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 2 ALN 1 PO 28`, `AR 2 ALN 1 PO 29`, `AR 2 ALN 1 PO 30` · *dates* +2024-10-09 · *amended by* `32024R2748`
+
+The definitions list gains two new entries after the existing 'life cycle' definition: point 29 defining 'crisis-relevant goods' by reference to Article 3, point (6), of Regulation (EU) 2024/2747, and point 30 defining 'internal market emergency mode' by reference to Article 3, point (3), of the same Regulation. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_2)
+
+The prior version ended the list at point 28 with the 'life cycle' definition and contained no such references. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260108#art_2)
+
+*before* (`02011R0305-20260108`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation the following definitions shall apply:
+> 1. construction product means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;
+> 2. kit means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;
+> 3. construction works means buildings and civil engineering works;
+> 4. essential characteristics means those characteristics of the construction product which relate to the basic requirements for construction works;
+> 5. performance of a construction product means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;
+> 6. level means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;
+> 7. class means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;
+> 8. threshold level means a minimum or maximum performance level of an essential characteristic of a construction product;
+> 9. product-type means the set of representative performance levels or classes of a construc […truncated by emendrix: 3433 characters omitted…]
+
+*after* (`02011R0305-20260529`)
+
+> Article 2
+> Definitions
+> For the purposes of this Regulation the following definitions shall apply:
+> 1. construction product means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;
+> 2. kit means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;
+> 3. construction works means buildings and civil engineering works;
+> 4. essential characteristics means those characteristics of the construction product which relate to the basic requirements for construction works;
+> 5. performance of a construction product means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;
+> 6. level means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;
+> 7. class means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;
+> 8. threshold level means a minimum or maximum performance level of an essential characteristic of a construction product;
+> 9. product-type means the set of representative performance levels or classes of a construc […truncated by emendrix: 4124 characters omitted…]
+
+**INSERTED · Art. 38a — Application of emergency procedures** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article setting out conditions under which Articles 38b to 38d apply, including that the Commission must have adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 for construction products, that the products must be designated as crisis-relevant goods under Article 18(4) of that Regulation, and that the internal market emergency mode must be active under Article 18 of that Regulation. [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38a)
+
+It also allows the Commission to adopt implementing acts on corrective or restrictive actions, procedures, and specific labelling and traceability requirements for construction products placed on the market under Articles 38b and 38c, to be adopted under the examination procedure in Article 64(2a). [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38a)
+
+*after* (`02011R0305-20260529`)
+
+> Article 38a
+> Application of emergency procedures
+> 1. Articles 38b to 38d of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to construction products covered by this Regulation.
+> 2. Articles 38b to 38d of this Regulation shall apply only to construction products which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.
+> 3. Articles 38b to 38d of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.
+> 4. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to construction products placed on the market in accordance with Articles 38b and 38c. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 64(2a).
+
+**INSERTED · Art. 38b — Prioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This new article introduces a requirement that notified bodies make best efforts to prioritise, as a matter of priority, requests for third-party assessment and verification of constancy of performance for construction products designated as crisis-relevant goods, regardless of whether the request was lodged before or after emergency procedures were activated. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38b)
+
+The provision also states that this prioritisation must not result in additional disproportionate costs for the manufacturers who lodged the requests, and that notified bodies shall make reasonable efforts to increase their assessment and verification capacities for the relevant products. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38b)
+
+*after* (`02011R0305-20260529`)
+
+> Article 38b
+> Prioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods
+> 1. This Article applies to construction products listed in the implementing act referred to in Article 38a(1) that are subject to third party tasks of notified bodies related to the assessment and verification of constancy of performance in accordance with Article 28(1).
+> 2. The notified bodies shall make best efforts to process as a matter of priority requests for third party tasks related to the assessment and verification of constancy of performance of construction products referred to in paragraph 1, irrespective of whether those requests have been lodged before or after the activation of the emergency procedures pursuant to Article 38a.
+> 3. The prioritisation of requests for third party tasks related to the assessment and verification of constancy of performance of construction products pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those requests.
+> 4. The notified bodies shall make reasonable efforts to increase their respective assessment and verification capacities regarding construction products referred to in paragraph 1 in respect of which they have been notified.
+
+**INSERTED · Art. 38c — Assessment and declaration of performance based on standards and common specifications** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a newly inserted article that empowers the Commission to adopt implementing acts listing standards or establishing common specifications for assessing and declaring the performance of construction products designated as crisis-relevant goods, applicable in specified situations involving missing harmonised standards or an activated internal market emergency mode. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38c)
+
+The provision sets out procedural steps for adopting and amending such implementing acts, the duration of their application tied to the internal market emergency mode, and rules on the continued validity of declarations of performance made under them after that mode ends. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38c)
+
+*after* (`02011R0305-20260529`)
+
+> Article 38c
+> Assessment and declaration of performance based on standards and common specifications
+> 1. Where construction products have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications to cover the methods and the criteria for assessing the performance of those products in relation to their essential characteristics in the following cases:
+> (a) where a reference to harmonised standards covering the relevant methods and the criteria for assessing the performance of those products in relation to their essential characteristics has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council
+> Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12). and no such reference is expected to be published within a reasonable period; or
+> (b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market eme […truncated by emendrix: 3681 characters omitted…]
+
+**INSERTED · Art. 38d — Prioritisation of market surveillance activities and mutual assistance among authorities** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This is a new article requiring Member States to prioritise market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38d)
+
+It also newly provides that market surveillance authorities are to make best efforts to assist other such authorities during an internal market emergency mode, including through mobilising expert teams or providing logistical support such as reinforced testing capacity for the listed construction products. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38d)
+
+*after* (`02011R0305-20260529`)
+
+> Article 38d
+> Prioritisation of market surveillance activities and mutual assistance among authorities
+> 1. Member States shall prioritise the market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020 of the European Parliament and of the Council
+> Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1)..
+> 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for construction products listed in the implementing act referred to in Article 38a(1).
+
+**MODIFIED · Art. 64 — Committee** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 64 PA 2a` · *dates* +2011-02-16 · *amended by* `32024R2748`
+
+A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that where reference is made to that paragraph, Article 5 of Regulation (EU) No 182/2011 applies. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_64)
+
+*before* (`02011R0305-20260108`)
+
+> Article 64
+> Committee
+> 1. The Commission shall be assisted by a Standing Committee on Construction.
+> 2. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.
+> 3. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.
+
+*after* (`02011R0305-20260529`)
+
+> Article 64
+> Committee
+> 1. The Commission shall be assisted by a Standing Committee on Construction.
+> 2. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.
+> 2a. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council
+> Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). shall apply.
+> 3. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.
+
+**INSERTED · CHA VIa** · applies from: unknown
+
+*amended by* `32024R2748`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20260529 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20260108 -->
 ## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
 ### `02011R0305-20241117` → `02011R0305-20260108`

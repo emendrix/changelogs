@@ -1,0 +1,1028 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R0305",
+    "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+  },
+  "from_version": "02011R0305-20260108",
+  "to_version": "02011R0305-20260529",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-05-29"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 5,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 7,
+    "unchanged_units": 71,
+    "disputed": 5
+  },
+  "counts": {
+    "touched": 7,
+    "substantive": 7,
+    "date_only": 0,
+    "disputed": 5,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 2"
+        },
+        "heading": "Definitions",
+        "before": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions shall apply:\n1. construction product means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;\n2. kit means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;\n3. construction works means buildings and civil engineering works;\n4. essential characteristics means those characteristics of the construction product which relate to the basic requirements for construction works;\n5. performance of a construction product means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;\n6. level means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;\n7. class means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;\n8. threshold level means a minimum or maximum performance level of an essential characteristic of a construction product;\n9. product-type means the set of representative performance levels or classes of a construction product, in relation to its essential characteristics, produced using a given combination of raw materials or other elements in a specific production process;\n10. harmonised technical specifications means harmonised standards and European Assessment Documents;\n11. harmonised standard means a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC, on the basis of a request issued by the Commission, in accordance with Article 6 of that Directive;\n12. European Assessment Document means a document adopted by the organisation of TABs for the purposes of issuing European Technical Assessments;\n13. European Technical Assessment means the documented assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document;\n14. intended use means the intended use of the construction product as defined in the applicable harmonised technical specification;\n15. Specific Technical Documentation means documentation demonstrating that methods within the applicable system for assessment and verification of constancy of performance have been replaced by other methods, provided that the results obtained by those other methods are equivalent to the results obtained by the test methods of the corresponding harmonised standard;\n16. making available on the market means any supply of a construction product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n17. placing on the market means the first making available of a construction product on the Union market;\n18. economic operator means the manufacturer, importer, distributor or authorised representative;\n19. manufacturer means any natural or legal person who manufactures a construction product or who has such a product designed or manufactured, and markets that product under his name or trademark;\n20. distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a construction product available on the market;\n21. importer means any natural or legal person established within the Union, who places a construction product from a third country on the Union market;\n22. authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n23. withdrawal means any measure aimed at preventing a construction product in the supply chain from being made available on the market;\n24. recall means any measure aimed at achieving the return of a construction product that has already been made available to the end-user;\n25. accreditation has the meaning assigned to it by Regulation (EC) No 765/2008;\n26. factory production control means the documented, permanent and internal control of production in a factory, in accordance with the relevant harmonised technical specifications;\n27. micro-enterprise means a micro-enterprise as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises\nOJ L 124, 20.5.2003, p. 36.;\n28. life cycle means the consecutive and interlinked stages of a construction product’s life, from raw material acquisition or generation from natural resources to final disposal.",
+        "after": "Article 2\nDefinitions\nFor the purposes of this Regulation the following definitions shall apply:\n1. construction product means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;\n2. kit means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;\n3. construction works means buildings and civil engineering works;\n4. essential characteristics means those characteristics of the construction product which relate to the basic requirements for construction works;\n5. performance of a construction product means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;\n6. level means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;\n7. class means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;\n8. threshold level means a minimum or maximum performance level of an essential characteristic of a construction product;\n9. product-type means the set of representative performance levels or classes of a construction product, in relation to its essential characteristics, produced using a given combination of raw materials or other elements in a specific production process;\n10. harmonised technical specifications means harmonised standards and European Assessment Documents;\n11. harmonised standard means a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC, on the basis of a request issued by the Commission, in accordance with Article 6 of that Directive;\n12. European Assessment Document means a document adopted by the organisation of TABs for the purposes of issuing European Technical Assessments;\n13. European Technical Assessment means the documented assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document;\n14. intended use means the intended use of the construction product as defined in the applicable harmonised technical specification;\n15. Specific Technical Documentation means documentation demonstrating that methods within the applicable system for assessment and verification of constancy of performance have been replaced by other methods, provided that the results obtained by those other methods are equivalent to the results obtained by the test methods of the corresponding harmonised standard;\n16. making available on the market means any supply of a construction product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n17. placing on the market means the first making available of a construction product on the Union market;\n18. economic operator means the manufacturer, importer, distributor or authorised representative;\n19. manufacturer means any natural or legal person who manufactures a construction product or who has such a product designed or manufactured, and markets that product under his name or trademark;\n20. distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a construction product available on the market;\n21. importer means any natural or legal person established within the Union, who places a construction product from a third country on the Union market;\n22. authorised representative means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;\n23. withdrawal means any measure aimed at preventing a construction product in the supply chain from being made available on the market;\n24. recall means any measure aimed at achieving the return of a construction product that has already been made available to the end-user;\n25. accreditation has the meaning assigned to it by Regulation (EC) No 765/2008;\n26. factory production control means the documented, permanent and internal control of production in a factory, in accordance with the relevant harmonised technical specifications;\n27. micro-enterprise means a micro-enterprise as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises\nOJ L 124, 20.5.2003, p. 36.;\n28. life cycle means the consecutive and interlinked stages of a construction product’s life, from raw material acquisition or generation from natural resources to final disposal;\n29. crisis-relevant goods means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council\nRegulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).;\n30. internal market emergency mode means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 ALN 1 PO 28",
+          "AR 2 ALN 1 PO 29",
+          "AR 2 ALN 1 PO 30"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-10-09"
+        ],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The definitions list gains two new entries after the existing 'life cycle' definition: point 29 defining 'crisis-relevant goods' by reference to Article 3, point (6), of Regulation (EU) 2024/2747, and point 30 defining 'internal market emergency mode' by reference to Article 3, point (3), of the same Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_2",
+              "label": "Art. 2, 02011R0305-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The prior version ended the list at point 28 with the 'life cycle' definition and contained no such references.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260108",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260108#art_2",
+              "label": "Art. 2, 02011R0305-20260108"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 38a"
+        },
+        "heading": "Application of emergency procedures",
+        "before": null,
+        "after": "Article 38a\nApplication of emergency procedures\n1. Articles 38b to 38d of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to construction products covered by this Regulation.\n2. Articles 38b to 38d of this Regulation shall apply only to construction products which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.\n3. Articles 38b to 38d of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.\n4. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to construction products placed on the market in accordance with Articles 38b and 38c. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 64(2a).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2026-01-08, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article setting out conditions under which Articles 38b to 38d apply, including that the Commission must have adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 for construction products, that the products must be designated as crisis-relevant goods under Article 18(4) of that Regulation, and that the internal market emergency mode must be active under Article 18 of that Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38a",
+              "label": "Art. 38a, 02011R0305-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also allows the Commission to adopt implementing acts on corrective or restrictive actions, procedures, and specific labelling and traceability requirements for construction products placed on the market under Articles 38b and 38c, to be adopted under the examination procedure in Article 64(2a).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38a",
+              "label": "Art. 38a, 02011R0305-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 38b"
+        },
+        "heading": "Prioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods",
+        "before": null,
+        "after": "Article 38b\nPrioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods\n1. This Article applies to construction products listed in the implementing act referred to in Article 38a(1) that are subject to third party tasks of notified bodies related to the assessment and verification of constancy of performance in accordance with Article 28(1).\n2. The notified bodies shall make best efforts to process as a matter of priority requests for third party tasks related to the assessment and verification of constancy of performance of construction products referred to in paragraph 1, irrespective of whether those requests have been lodged before or after the activation of the emergency procedures pursuant to Article 38a.\n3. The prioritisation of requests for third party tasks related to the assessment and verification of constancy of performance of construction products pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those requests.\n4. The notified bodies shall make reasonable efforts to increase their respective assessment and verification capacities regarding construction products referred to in paragraph 1 in respect of which they have been notified.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2026-01-08, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This new article introduces a requirement that notified bodies make best efforts to prioritise, as a matter of priority, requests for third-party assessment and verification of constancy of performance for construction products designated as crisis-relevant goods, regardless of whether the request was lodged before or after emergency procedures were activated.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38b",
+              "label": "Art. 38b, 02011R0305-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The provision also states that this prioritisation must not result in additional disproportionate costs for the manufacturers who lodged the requests, and that notified bodies shall make reasonable efforts to increase their assessment and verification capacities for the relevant products.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38b"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38b",
+              "label": "Art. 38b, 02011R0305-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 38c"
+        },
+        "heading": "Assessment and declaration of performance based on standards and common specifications",
+        "before": null,
+        "after": "Article 38c\nAssessment and declaration of performance based on standards and common specifications\n1. Where construction products have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications to cover the methods and the criteria for assessing the performance of those products in relation to their essential characteristics in the following cases:\n(a) where a reference to harmonised standards covering the relevant methods and the criteria for assessing the performance of those products in relation to their essential characteristics has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council\nRegulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12). and no such reference is expected to be published within a reasonable period; or\n(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that provide the relevant methods and criteria for assessing the performance of those products in relation to their essential characteristics, and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.\n2. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing assessment and declaration of performance in accordance with paragraph 5. To that end, the references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.\n3. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 64(2a) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.\n4. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Regulation and shall duly consult all relevant stakeholders.\n5. Without prejudice to Articles 4 and 6, the methods and the criteria provided in the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, may be used for assessing and declaring the performance of construction products covered by those standards or common specifications in relation to their essential characteristics. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible to draw up declarations of performance based on the standards or the common specifications referred to in the implementing act referred to in paragraph 1 of this Article.\n6. By way of derogation from Article 38a(3), unless there is sufficient reason to believe that construction products covered by the standards or common specifications referred to in paragraph 1 of this Article present a risk to the health or safety of persons or fail to achieve the declared performance, the declarations of performance of construction products which have been placed on the market in compliance with those standards or common specifications shall remain valid after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.\n7. When a Member State considers that a standard or common specification as referred to in paragraph 1 is incorrect in terms of methods and criteria for the assessment of performance in relation to essential characteristics, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2026-01-08, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a newly inserted article that empowers the Commission to adopt implementing acts listing standards or establishing common specifications for assessing and declaring the performance of construction products designated as crisis-relevant goods, applicable in specified situations involving missing harmonised standards or an activated internal market emergency mode.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38c",
+              "label": "Art. 38c, 02011R0305-20260529"
+            }
+          ]
+        },
+        {
+          "text": "The provision sets out procedural steps for adopting and amending such implementing acts, the duration of their application tied to the internal market emergency mode, and rules on the continued validity of declarations of performance made under them after that mode ends.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38c"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38c",
+              "label": "Art. 38c, 02011R0305-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 38d"
+        },
+        "heading": "Prioritisation of market surveillance activities and mutual assistance among authorities",
+        "before": null,
+        "after": "Article 38d\nPrioritisation of market surveillance activities and mutual assistance among authorities\n1. Member States shall prioritise the market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020 of the European Parliament and of the Council\nRegulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1)..\n2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for construction products listed in the implementing act referred to in Article 38a(1).",
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "an inserted provision states its own application date only in prose"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "4 annotations in (2026-01-08, 2026-05-29]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "This is a new article requiring Member States to prioritise market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38d",
+              "label": "Art. 38d, 02011R0305-20260529"
+            }
+          ]
+        },
+        {
+          "text": "It also newly provides that market surveillance authorities are to make best efforts to assist other such authorities during an internal market emergency mode, including through mobilising expert teams or providing logistical support such as reinforced testing capacity for the listed construction products.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 38d"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38d",
+              "label": "Art. 38d, 02011R0305-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "AR 64"
+        },
+        "heading": "Committee",
+        "before": "Article 64\nCommittee\n1. The Commission shall be assisted by a Standing Committee on Construction.\n2. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.\n3. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.",
+        "after": "Article 64\nCommittee\n1. The Commission shall be assisted by a Standing Committee on Construction.\n2. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.\n2a. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council\nRegulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). shall apply.\n3. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 64 PA 2a"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2011-02-16"
+        ],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that where reference is made to that paragraph, Article 5 of Regulation (EU) No 182/2011 applies.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20260529",
+                "location": "AR 64"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_64",
+              "label": "Art. 64, 02011R0305-20260529"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20260529",
+          "location": "CHA VIa"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32024R2748",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-05-29",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32024R2748 J",
+            "change_types": [
+              "INSERTED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32024R2748, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R0305",
+      "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+    },
+    "from_version": "02011R0305-20260108",
+    "to_version": "02011R0305-20260529",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 38a",
+          "AR 38b",
+          "AR 38c",
+          "AR 38d",
+          "AR 64"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 64",
+          "CHA VIa"
+        ],
+        "note": "4 annotations in (2026-01-08, 2026-05-29]",
+        "claims": [
+          {
+            "location": "AR 64 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 29",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "CHA VIa",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 2 PO 30",
+            "change_type": "INSERTED",
+            "in_force": "2026-05-29",
+            "source": "32024R2748 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2",
+          "AR 38a",
+          "AR 38b",
+          "AR 38c",
+          "AR 38d",
+          "AR 64"
+        ],
+        "note": "32024R2748, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 38a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 38b",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 38c",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 38d",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 64 PA 2a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32024R2748",
+              "display_name": "Regulation (EU) 2024/2748 of the European Parliament and of the Council of 9 October 2024 amending Regulations (EU) No 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 and (EU) 2023/1230 as regards emergency procedures for the conformity assessment, presumption of conformity, adoption of common specifications and market surveillance due to an internal market emergency (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 6,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.6666666666666666,
+        "f1": 0.4444444444444444,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 6,
+        "right_units": 6,
+        "shared": 6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 3,
+        "right_units": 6,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 0.3333333333333333,
+        "f1": 0.4444444444444444,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 38a",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 38b",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 38c",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 38d",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "observed_by": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "INSERTED"
+            ]
+          ],
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "CHA VIa",
+        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
+        "observed_by": [
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "corpus_metadata",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "CHA VIa"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 7,
+    "explained": 6,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 27388,
+      "output_tokens": 2100,
+      "requests": 8,
+      "schema_repairs": 2
+    }
+  },
+  "gate": {
+    "changes": 7,
+    "passed_first": 6,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 11,
+    "citations": 11,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
