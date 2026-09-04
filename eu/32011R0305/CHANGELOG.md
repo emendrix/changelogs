@@ -253,28 +253,16 @@ Section 2 adds a fourth category, the assessment validation body, defined as a b
 ### `02011R0305-20140616` → `02011R0305-20210716`
 
 - **Act** `eu:32011R0305` · **In force** 2021-07-16 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20140616` · `v2` = `02011R0305-20210716`
 
 ---
 
-**MODIFIED · Art. 40** · applies from: unknown
-
-*amended by* `32019R1020`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 56 — Procedure to deal at national level with construction products presenting a risk** · applies from: unchanged
 
 *within* `AR 56 PA 1 ALN 1` · *amended by* `32019R1020`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The opening clause of paragraph 1 no longer refers to market surveillance authorities having taken action pursuant to Article 20 of Regulation (EC) No 765/2008, leaving only the condition that they have sufficient reason to believe the product does not achieve its declared performance and presents a risk. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20210716#art_56)
 
