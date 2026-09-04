@@ -15,80 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 2,
+    "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 69,
-    "disputed": 2
+    "disputed": 0
   },
   "counts": {
-    "touched": 2,
-    "substantive": 2,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 2,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32011R1169",
-            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
-          },
-          "version": "02011R1169-20131206",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R1155",
-            "display_name": "Commission Delegated Regulation (EU) No 1155/2013 of 21 August 2013 amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers as regards information on the absence or reduced presence of gluten in food"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2011-12-12, 2013-12-06]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -139,12 +82,14 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32013R1155, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
-        "disputed": true
+        "disputed": false
       },
       "outcome": "passed",
       "sentences": [
@@ -201,7 +146,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -247,12 +193,12 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1"
+          "AR 36"
         ],
         "note": "32013R1155, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 1 PA 3 ALN 1 PTA (d)",
+            "location": "AR 36 PA 3 ALN 1 PTA (d)",
             "change_type": "INSERTED",
             "in_force": null,
             "source": "AR 001",
@@ -282,10 +228,10 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
@@ -293,62 +239,15 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 36",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 1"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -361,6 +260,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 3463,
       "output_tokens": 254,
@@ -380,5 +280,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }

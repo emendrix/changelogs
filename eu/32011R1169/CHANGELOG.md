@@ -392,28 +392,16 @@ The Slovak-language indication for the same point was also changed, from spájan
 ### `02011R1169-20111212` → `02011R1169-20131206`
 
 - **Act** `eu:32011R1169` · **In force** 2013-12-06 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20111212` · `v2` = `02011R1169-20131206`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32013R1155`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 36 — Applicable requirements** · applies from: unchanged
 
 *within* `AR 36 PA 3 ALN 1 PTA (b)`, `AR 36 PA 3 ALN 1 PTA (c)`, `AR 36 PA 3 ALN 1 PTA (d)` · *amended by* `32013R1155`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 3 of Article 36 gains a new point (d) covering information on the absence or reduced presence of gluten in food, which was not listed among the voluntary food information items in the earlier version. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20111212#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20131206#art_36)
 
