@@ -1,0 +1,1200 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R0625",
+    "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+  },
+  "from_version": "32017R0625",
+  "to_version": "02017R0625-20170407",
+  "detected_on": "2026-09-04",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 12,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 12,
+    "unchanged_units": 160,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 12,
+    "substantive": 12,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 76"
+        },
+        "heading": "Cooperation between authorities in relation to consignments not subject to specific controls at borders",
+        "before": "Article 76\nCooperation between authorities in relation to consignments not subject to specific controls at borders\n1. Paragraphs 2, 3, and 4 of this Article shall apply in the case of consignments of animals and goods other than those subject to controls at entry into the Union as required by Article 47(1) of this Regulation and for which a customs declaration for release for free circulation has been made in accordance with point 12 of Article 5 of Regulation (EU) No 952/2013 and Articles 158 to 202 of that Regulation.\n2. Customs authorities shall suspend release for free circulation when they have reason to believe that the consignment may present a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, and immediately notify the competent authorities of such suspension.\n3. A consignment whose release for free circulation has been suspended pursuant to paragraph 2 shall be released if, within three working days of the suspension of release, the competent authorities have not requested customs authorities to continue the suspension or have informed customs authorities that no risk is present.\n4. Where the competent authorities consider that a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, is present;\n(a) they shall request the customs authorities not to release the consignment for free circulation and to include the following statement on the commercial invoice accompanying the consignment and on any other relevant accompanying document or the relevant electronic equivalents:\nProduct presents a risk — release for free circulation not authorised — Regulation (EU) 2017/…;\n(b) no other customs procedure shall be permitted without the consent of the competent authorities; and\n(c) Article 66(1), (3), (5) and (6), Articles 67, 68 and 69, Article 71(1) and (2) and Article 72(1) and (2) shall apply.\n5. In the case of consignments of animals and goods other than those subject to controls at entry into the Union as required by Article 47(1) and for which no customs declaration for release for free circulation has been made, customs authorities, where they have reason to believe that the consignment may present a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, shall transmit all relevant information to the customs authorities in the Member States of final destination.",
+        "after": "Article 76\nCooperation between authorities in relation to consignments not subject to specific controls at borders\n1. Paragraphs 2, 3, and 4 of this Article shall apply in the case of consignments of animals and goods other than those subject to controls at entry into the Union as required by Article 47(1) of this Regulation and for which a customs declaration for release for free circulation has been made in accordance with point 12 of Article 5 of Regulation (EU) No 952/2013 and Articles 158 to 202 of that Regulation.\n2. Customs authorities shall suspend release for free circulation when they have reason to believe that the consignment may present a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, and immediately notify the competent authorities of such suspension.\n3. A consignment whose release for free circulation has been suspended pursuant to paragraph 2 shall be released if, within three working days of the suspension of release, the competent authorities have not requested customs authorities to continue the suspension or have informed customs authorities that no risk is present.\n4. Where the competent authorities consider that a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, is present;\n(a) they shall request the customs authorities not to release the consignment for free circulation and to include the following statement on the commercial invoice accompanying the consignment and on any other relevant accompanying document or the relevant electronic equivalents:\nProduct presents a risk — release for free circulation not authorised — Regulation (EU) 2017/625;\n(b) no other customs procedure shall be permitted without the consent of the competent authorities; and\n(c) Article 66(1), (3), (5) and (6), Articles 67, 68 and 69, Article 71(1) and (2) and Article 72(1) and (2) shall apply.\n5. In the case of consignments of animals and goods other than those subject to controls at entry into the Union as required by Article 47(1) and for which no customs declaration for release for free circulation has been made, customs authorities, where they have reason to believe that the consignment may present a risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment, shall transmit all relevant information to the customs authorities in the Member States of final destination.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 76 PA 4 ALN 1 PTA (a)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The only change is that the placeholder regulation number in the required invoice statement, previously shown as an incomplete citation ending in an ellipsis, was completed to read Regulation (EU) 2017/625.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 76"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_76",
+              "label": "Art. 76, 32017R0625"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 76"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_76",
+              "label": "Art. 76, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 151"
+        },
+        "heading": "Amendments to Directive 98/58/EC",
+        "before": "Article 151\nAmendments to Directive 98/58/EC\nDirective 98/58/EC is amended as follows:\n(1) Article 2, point (3) is replaced by the following:\n3. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/.… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;\n(2) Article 6 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(c) in paragraph 3, point (a) is deleted;\n(3) Article 7 is deleted.",
+        "after": "Article 151\nAmendments to Directive 98/58/EC\nDirective 98/58/EC is amended as follows:\n(1) Article 2, point (3) is replaced by the following:\n3. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;\n(2) Article 6 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(c) in paragraph 3, point (a) is deleted;\n(3) Article 7 is deleted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 151 ALN 1 PO 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provisional regulation number placeholder 'Regulation (EU) 2017/…' was replaced with the finalized citation 'Regulation (EU) 2017/625' in the definition of competent authorities.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 151"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_151",
+              "label": "Art. 151, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The blank Official Journal reference placeholder was filled in with the actual publication details, OJ L 95, 7.4.2017, p. 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 151"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_151",
+              "label": "Art. 151, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 154"
+        },
+        "heading": "Amendments to Regulation (EC) No 1/2005 and related transitional measures",
+        "before": "Article 154\nAmendments to Regulation (EC) No 1/2005 and related transitional measures\n1. Regulation (EC) No 1/2005 is amended as follows:\n(1) Article 2 is amended as follows:\n(a) point (d) is replaced by the following:\n(d) border inspection post means a border control post as defined in Article 3(38) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;;\n(b) point (f) is replaced the following:\n(f) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/…;\n(c) point (i) is replaced by the following:\n(i) exit point means an exit point as defined in Article 3(39) of Regulation (EU) 2017/…;\n(d) point (p) is replaced by the following:\n(p) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/….\n(2) Articles 14, 15, 16 and 21, Article 22(2), and Articles 23, 24 and 26 are deleted.\n(3) Article 27 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried by the competent authority to verify compliance with the requirements of this Regulation. The report shall be accompanied by an analysis of the major deficiencies detected and an action plan to address them.;\n(4) Article 28 is deleted.\n2. Articles 14, 15, 16 and 21, Article 22(2), and Articles 23, 24 and 26 of Regulation (EC) No 1/2005 shall continue to apply, instead of the corresponding provisions of this Regulation, until 14 December 2022 or an earlier date to be determined in the delegated act adopted in accordance with paragraph 3 of this Article.\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 2 of this Article. That date shall be the date of application of the corresponding rules to be established pursuant to the delegated or implementing acts provided for in Article 21.",
+        "after": "Article 154\nAmendments to Regulation (EC) No 1/2005 and related transitional measures\n1. Regulation (EC) No 1/2005 is amended as follows:\n(1) Article 2 is amended as follows:\n(a) point (d) is replaced by the following:\n(d) border inspection post means a border control post as defined in Article 3(38) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;\n(b) point (f) is replaced the following:\n(f) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625;\n(c) point (i) is replaced by the following:\n(i) exit point means an exit point as defined in Article 3(39) of Regulation (EU) 2017/625;\n(d) point (p) is replaced by the following:\n(p) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625.\n(2) Articles 14, 15, 16 and 21, Article 22(2), and Articles 23, 24 and 26 are deleted.\n(3) Article 27 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried by the competent authority to verify compliance with the requirements of this Regulation. The report shall be accompanied by an analysis of the major deficiencies detected and an action plan to address them.;\n(4) Article 28 is deleted.\n2. Articles 14, 15, 16 and 21, Article 22(2), and Articles 23, 24 and 26 of Regulation (EC) No 1/2005 shall continue to apply, instead of the corresponding provisions of this Regulation, until 14 December 2022 or an earlier date to be determined in the delegated act adopted in accordance with paragraph 3 of this Article.\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 2 of this Article. That date shall be the date of application of the corresponding rules to be established pursuant to the delegated or implementing acts provided for in Article 21.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 154 PA 1 ALN 1 PO 1 PTA (a)",
+          "AR 154 PA 1 ALN 1 PO 1 PTA (b)",
+          "AR 154 PA 1 ALN 1 PO 1 PTA (c)",
+          "AR 154 PA 1 ALN 1 PO 1 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder references to Regulation (EU) 2017/… have been filled in with the finalized number 2017/625 throughout the amended points (a) through (d) of Article 2.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 154"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_154",
+              "label": "Art. 154, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The Official Journal citation for that regulation, previously left blank, is now completed with the specific volume, date and page reference.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 154"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_154",
+              "label": "Art. 154, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "No other wording of the provision, including the transitional dates and delegated act arrangements, is changed between the two texts.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 154"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_154",
+              "label": "Art. 154, 32017R0625"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 156"
+        },
+        "heading": "Amendments to Directive 2007/43/EC",
+        "before": "Article 156\nAmendments to Directive 2007/43/EC\nDirective 2007/43/EC is amended as follows:\n(1) In Article 2(1), points (c) and (d) are replaced by the following:\n(c) competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;;\n(d) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/…;\n(2) Article 7 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States..",
+        "after": "Article 156\nAmendments to Directive 2007/43/EC\nDirective 2007/43/EC is amended as follows:\n(1) In Article 2(1), points (c) and (d) are replaced by the following:\n(c) competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;\n(d) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625;\n(2) Article 7 is amended as follows:\n(a) paragraph 1 is deleted;\n(b) paragraph 2 is replaced by the following:\n2. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 156 ALN 1 PO 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder regulation number \"2017/…\" used to refer to the Official Controls Regulation is replaced throughout point (1) with the final number 2017/625.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 156"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_156",
+              "label": "Art. 156, 32017R0625"
+            }
+          ]
+        },
+        {
+          "text": "The blank Official Journal citation for that regulation is filled in with the specific reference OJ L 95, 7.4.2017, p. 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 156"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_156",
+              "label": "Art. 156, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 157"
+        },
+        "heading": "Amendments to Directive 2008/119/EC",
+        "before": "Article 157\nAmendments to Directive 2008/119/EC\nDirective 2008/119/EC is amended as follows:\n(1) In Article 2, point (2) is replaced by the following:\n2. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;.\n(2) Article 7 is amended as follows:\n(a) paragraphs 1 and 2 are deleted;\n(b) paragraph 3 is replaced by the following:\n3. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(3) Article 9 is deleted.",
+        "after": "Article 157\nAmendments to Directive 2008/119/EC\nDirective 2008/119/EC is amended as follows:\n(1) In Article 2, point (2) is replaced by the following:\n2. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;.\n(2) Article 7 is amended as follows:\n(a) paragraphs 1 and 2 are deleted;\n(b) paragraph 3 is replaced by the following:\n3. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(3) Article 9 is deleted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 157 ALN 1 PO 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder regulation number \"2017/…\" and its incomplete Official Journal reference are replaced with the finalized citation \"2017/625\" and the full Official Journal reference \"OJ L 95, 7.4.2017, p. 1\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 157"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_157",
+              "label": "Art. 157, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The rest of Article 157, including the text of Article 7 and the deletion of Article 9, is unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 157"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_157",
+              "label": "Art. 157, 32017R0625"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 158"
+        },
+        "heading": "Amendments to Directive 2008/120/EC",
+        "before": "Article 158\nAmendments to Directive 2008/120/EC\nDirective 2008/120/EC is amended as follows:\n(1) In Article 2, point (10) is replaced by the following:\n10. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;.\n(2) Article 8 is amended as follows:\n(a) paragraphs 1 and 2 are deleted;\n(b) paragraph 3 is replaced by the following:\n3. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(3) Article 10 is deleted.",
+        "after": "Article 158\nAmendments to Directive 2008/120/EC\nDirective 2008/120/EC is amended as follows:\n(1) In Article 2, point (10) is replaced by the following:\n10. competent authorities means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;.\n(2) Article 8 is amended as follows:\n(a) paragraphs 1 and 2 are deleted;\n(b) paragraph 3 is replaced by the following:\n3. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.;\n(3) Article 10 is deleted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 158 ALN 1 PO 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder regulation number and blank Official Journal reference in the amended point (10) of Article 2 have been filled in with the finalized citation, Regulation (EU) 2017/625, and its official publication details.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 158"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_158",
+              "label": "Art. 158, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 159"
+        },
+        "heading": "Amendments to Regulation (EC) No 1099/2009",
+        "before": "Article 159\nAmendments to Regulation (EC) No 1099/2009\nRegulation (EC) No 1099/2009 is amended as follows:\n(1) In Article 2, point (q) is replaced by the following:\n(q) competent authorities means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;.\n(2) Article 22 is deleted.",
+        "after": "Article 159\nAmendments to Regulation (EC) No 1099/2009\nRegulation (EC) No 1099/2009 is amended as follows:\n(1) In Article 2, point (q) is replaced by the following:\n(q) competent authorities means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;.\n(2) Article 22 is deleted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 159 ALN 1 PO 1"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder regulation number \"2017/…\" used to refer to the official controls regulation is replaced with the finalized number 2017/625 in both the internal reference and the regulation's title.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 159"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_159",
+              "label": "Art. 159, 32017R0625"
+            }
+          ]
+        },
+        {
+          "text": "The placeholder Official Journal citation \"(OJ L …, p. …)\" is replaced with the specific citation \"(OJ L 95, 7.4.2017, p. 1)\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 159"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_159",
+              "label": "Art. 159, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 160"
+        },
+        "heading": "Amendments to Regulation (EC) No 1069/2009",
+        "before": "Article 160\nAmendments to Regulation (EC) No 1069/2009\nRegulation (EC) No 1069/2009 is amended as follows:\n(1) Article 3 is amended as follows:\n(a) point (10) is replaced by the following:\n10. competent authority means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;.\n(b) point (15) is replaced by the following:\n15. transit means transit as defined in Article 3(44) of Regulation (EU) 2017/….;\n(2) Articles 45, 49 and 50 are deleted.",
+        "after": "Article 160\nAmendments to Regulation (EC) No 1069/2009\nRegulation (EC) No 1069/2009 is amended as follows:\n(1) Article 3 is amended as follows:\n(a) point (10) is replaced by the following:\n10. competent authority means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;.\n(b) point (15) is replaced by the following:\n15. transit means transit as defined in Article 3(44) of Regulation (EU) 2017/625.;\n(2) Articles 45, 49 and 50 are deleted.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 160 ALN 1 PO 1 PTA (a)",
+          "AR 160 ALN 1 PO 1 PTA (b)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder regulation number \"2017/…\" is completed to read \"2017/625\" in both the competent authority definition and the transit definition.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 160"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_160",
+              "label": "Art. 160, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The blank official journal citation for the referenced regulation is filled in with the specific publication reference.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 160"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_160",
+              "label": "Art. 160, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 162"
+        },
+        "heading": "Amendments to Regulation (EU) No 1151/2012",
+        "before": "Article 162\nAmendments to Regulation (EU) No 1151/2012\nRegulation (EU) No 1151/2012 is amended as follows:\n(1) Article 36 is amended as follows:\n(a) the heading is replaced by the following: Content of official controls;\n(b) paragraphs 1 and 2 are deleted;\n(c) in paragraph 3, the introductory phrase is replaced by the following:\n3. Official controls performed in accordance with Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).; shall cover:\n(2) Article 37 is amended as follows:\n(a) in paragraph 1, the first subparagraph is replaced by the following:\n1. In respect of protected designations of origin, protected geographical indications and traditional specialities guaranteed that designate products originating within the Union, verification of compliance with the product specification, before placing the product on the market, shall be carried out by:\n(a) the competent authorities designated in accordance with Article 4 of Regulation (EU) 2017/…; or\n(b) delegated bodies as defined in Article 3(5) of Regulation (EU) 2017/….;\n(b) in paragraph 3, the first subparagraph is deleted;\n(c) in paragraph 4, the words paragraphs 1 and 2 are replaced by the words: paragraph 2;\n(3) Article 38 is deleted;\n(4) Article 39 is replaced by the following:\nArticle 39\nDelegated bodies performing controls in third countries\nThe delegated bodies performing controls in the third countries referred to in paragraph 2(b) of Article 37 shall be accredited to the relevant harmonised standard for Conformity assessment- Requirements for bodies certifying products, processes and services. These delegated bodies may be accredited either by a national accreditation body outside the Union, in accordance with Regulation (EC) No 765/2008, or by an accreditation body outside the Union that is a signatory of a multilateral recognition arrangement under the auspices of the International Accreditation Forum..",
+        "after": "Article 162\nAmendments to Regulation (EU) No 1151/2012\nRegulation (EU) No 1151/2012 is amended as follows:\n(1) Article 36 is amended as follows:\n(a) the heading is replaced by the following: Content of official controls;\n(b) paragraphs 1 and 2 are deleted;\n(c) in paragraph 3, the introductory phrase is replaced by the following:\n3. Official controls performed in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).; shall cover:\n(2) Article 37 is amended as follows:\n(a) in paragraph 1, the first subparagraph is replaced by the following:\n1. In respect of protected designations of origin, protected geographical indications and traditional specialities guaranteed that designate products originating within the Union, verification of compliance with the product specification, before placing the product on the market, shall be carried out by:\n(a) the competent authorities designated in accordance with Article 4 of Regulation (EU) 2017/625; or\n(b) delegated bodies as defined in Article 3(5) of Regulation (EU) 2017/625.;\n(b) in paragraph 3, the first subparagraph is deleted;\n(c) in paragraph 4, the words paragraphs 1 and 2 are replaced by the words: paragraph 2;\n(3) Article 38 is deleted;\n(4) Article 39 is replaced by the following:\nArticle 39\nDelegated bodies performing controls in third countries\nThe delegated bodies performing controls in the third countries referred to in paragraph 2(b) of Article 37 shall be accredited to the relevant harmonised standard for Conformity assessment- Requirements for bodies certifying products, processes and services. These delegated bodies may be accredited either by a national accreditation body outside the Union, in accordance with Regulation (EC) No 765/2008, or by an accreditation body outside the Union that is a signatory of a multilateral recognition arrangement under the auspices of the International Accreditation Forum..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 162 ALN 1 PO 1 PTA (c)",
+          "AR 162 ALN 1 PO 2 PTA (a)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 163"
+        },
+        "heading": "Amendments to Regulation (EU) No 652/2014",
+        "before": "Article 163\nAmendments to Regulation (EU) No 652/2014\nRegulation (EU) No 652/2014 is amended as follows:\n(1) Article 30(1) is replaced by the following:\n1. To cover the costs they incur to implement the work programmes approved by the Commission, grants may be awarded to:\n(a) the European Union reference laboratories referred to in Article 93 of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/.… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …). and to the European Union reference centres referred to in Article 29 of Regulation (EU) 2016/1012 of the European Parliament and of the Council\nRegulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (Animal Breeding Regulation) (OJ L 171, 29.6.2016, p. 66).;;\n(b) the European Union reference centres for animal welfare referred to in Article 95 of Regulation (EU) 2017/…;\n(c) the European Union reference centres for the authenticity and integrity of the agri-food chain referred to in Article 97 of Regulation (EU) 2017/….\n(2) the following Article is inserted:\nArticle 30a\nAccreditation of national reference laboratories for plant health\n1. Grants may be awarded to the national reference laboratories referred to in Article 100 of Regulation (EU) 2017/… for costs incurred for obtaining accreditation according to the standard EN ISO/IEC 17025 on General requirements for the competence of testing and calibration laboratories for the use of methods of laboratory analysis, test and diagnosis to verify compliance with the rules on protective measures against pests of plants.\n2. Grants may be awarded to a single national reference laboratory in each Member State for each European Union reference laboratory for plant health, up to three years after the designation of that European Union reference laboratory..",
+        "after": "Article 163\nAmendments to Regulation (EU) No 652/2014\nRegulation (EU) No 652/2014 is amended as follows:\n(1) Article 30(1) is replaced by the following:\n1. To cover the costs they incur to implement the work programmes approved by the Commission, grants may be awarded to:\n(a) the European Union reference laboratories referred to in Article 93 of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1). and to the European Union reference centres referred to in Article 29 of Regulation (EU) 2016/1012 of the European Parliament and of the Council\nRegulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (Animal Breeding Regulation) (OJ L 171, 29.6.2016, p. 66).;;\n(b) the European Union reference centres for animal welfare referred to in Article 95 of Regulation (EU) 2017/625;\n(c) the European Union reference centres for the authenticity and integrity of the agri-food chain referred to in Article 97 of Regulation (EU) 2017/625.\n(2) the following Article is inserted:\nArticle 30a\nAccreditation of national reference laboratories for plant health\n1. Grants may be awarded to the national reference laboratories referred to in Article 100 of Regulation (EU) 2017/625 for costs incurred for obtaining accreditation according to the standard EN ISO/IEC 17025 on General requirements for the competence of testing and calibration laboratories for the use of methods of laboratory analysis, test and diagnosis to verify compliance with the rules on protective measures against pests of plants.\n2. Grants may be awarded to a single national reference laboratory in each Member State for each European Union reference laboratory for plant health, up to three years after the designation of that European Union reference laboratory..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 163 ALN 1 PO 1",
+          "AR 163 ALN 1 PO 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder references to Regulation (EU) 2017/... are replaced with the finalized citation Regulation (EU) 2017/625 throughout the amended Article 30(1) and the inserted Article 30a.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 163"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_163",
+              "label": "Art. 163, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The blank Official Journal publication reference for that Regulation is also filled in with a specific OJ volume, date and page number.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 163"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_163",
+              "label": "Art. 163, 32017R0625"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 164"
+        },
+        "heading": "Amendments to Regulation (EU) 2016/429 and related transitional provisions",
+        "before": "Article 164\nAmendments to Regulation (EU) 2016/429 and related transitional provisions\n1. Regulation (EU) 2016/429 is amended as follows:\n(1) Article 4 is amended as follows:\n(a) point (33) is replaced by the following:\n(33) official control means any form of control performed in accordance with Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, …, p. …).;;\n(b) point (51) is replaced by the following:\n(51) Traces means a system component integrated into the IMSOC as referred to in Articles 131 to 136 of Regulation (EU) 2017/…;;\n(c) point (53) is replaced by the following:\n(53) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/…;;\n(d) point (55) is replaced by the following:\n(55) competent authority means the central veterinary authority of a Member State responsible for the organisation of official controls and any other official activities in accordance with this Regulation and Regulation (EU) 2017/…, or any other authority to which that responsibility has been delegated;;\n(2) in Article 229, paragraph (2) is replaced by the following:\n2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or territories for the purposes of official control as provided for in Article 47 of Regulation (EU) 2017/….;\n(3) Article 281 is deleted.\n2. The following provisions shall continue to apply in relation to the matters governed by Regulation (EU) 2016/429, until the date of application of that Regulation:\n(a) Article 9 of Directive 89/662/EEC;\n(b) Article 10 of Directive 90/425/EEC;\n(c) Article 18(1), (3), (4), (5), (6), (7) and (8) of Directive 91/496/EEC;\n(d) Article 22(1), (3), (4), (5), (6) and (7) of Directive 97/78/EC.\n3. Having regard to Article 14 of Regulation (EU) 2016/429 and notwithstanding the date of application provided for in that Regulation, for the purpose of Article 31(2) of this Regulation, the condition for its application shall be considered to be fulfilled already from 14 December 2019.",
+        "after": "Article 164\nAmendments to Regulation (EU) 2016/429 and related transitional provisions\n1. Regulation (EU) 2016/429 is amended as follows:\n(1) Article 4 is amended as follows:\n(a) point (33) is replaced by the following:\n(33) official control means any form of control performed in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;\n(b) point (51) is replaced by the following:\n(51) Traces means a system component integrated into the IMSOC as referred to in Articles 131 to 136 of Regulation (EU) 2017/625;;\n(c) point (53) is replaced by the following:\n(53) official veterinarian means an official veterinarian as defined in Article 3(32) of Regulation (EU) 2017/625;;\n(d) point (55) is replaced by the following:\n(55) competent authority means the central veterinary authority of a Member State responsible for the organisation of official controls and any other official activities in accordance with this Regulation and Regulation (EU) 2017/625, or any other authority to which that responsibility has been delegated;;\n(2) in Article 229, paragraph (2) is replaced by the following:\n2. The operators responsible for the consignment in question shall present consignments of animals, germinal products and products of animal origin from third countries or territories for the purposes of official control as provided for in Article 47 of Regulation (EU) 2017/625.;\n(3) Article 281 is deleted.\n2. The following provisions shall continue to apply in relation to the matters governed by Regulation (EU) 2016/429, until the date of application of that Regulation:\n(a) Article 9 of Directive 89/662/EEC;\n(b) Article 10 of Directive 90/425/EEC;\n(c) Article 18(1), (3), (4), (5), (6), (7) and (8) of Directive 91/496/EEC;\n(d) Article 22(1), (3), (4), (5), (6) and (7) of Directive 97/78/EC.\n3. Having regard to Article 14 of Regulation (EU) 2016/429 and notwithstanding the date of application provided for in that Regulation, for the purpose of Article 31(2) of this Regulation, the condition for its application shall be considered to be fulfilled already from 14 December 2019.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 164 PA 1 ALN 1 PO 1 PTA (a)",
+          "AR 164 PA 1 ALN 1 PO 1 PTA (b)",
+          "AR 164 PA 1 ALN 1 PO 1 PTA (c)",
+          "AR 164 PA 1 ALN 1 PO 1 PTA (d)",
+          "AR 164 PA 1 ALN 1 PO 2"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The placeholder references to Regulation (EU) 2017/… were completed with the final regulation number 2017/625 in the definitions of official control, Traces, official veterinarian, and competent authority, as well as in the cross-reference for consignment presentation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 164"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_164",
+              "label": "Art. 164, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The blank Official Journal citation for that regulation was also filled in with the publication reference OJ L 95, 7.4.2017, p. 1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 164"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_164",
+              "label": "Art. 164, 02017R0625-20170407"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R0625",
+            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+          },
+          "version": "02017R0625-20170407",
+          "location": "AR 165"
+        },
+        "heading": "Amendments to Regulation (EU) 2016/2031 and related transitional provisions",
+        "before": "Article 165\nAmendments to Regulation (EU) 2016/2031 and related transitional provisions\n1. Regulation (EU) 2016/2031 is amended as follows:\n(1) Article 2, point (6) is replaced by the following:\n(6) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/… of the European Parliament and of the Council\nRegulation (EU) 2017/… of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L …, p. …).;;\n(2) Article 10 is replaced by the following:\nArticle 10\nOfficial confirmation by the competent authorities of the presence of a Union quarantine pest\nWhere a competent authority suspects, or has received evidence concerning, the presence of a Union quarantine pest, or a pest subject to measures adopted pursuant to Article 30(1), in a part of the territory of the respective Member State where that pest was previously not known to be present, or in a consignment of plants, plant products or other objects introduced into, intended to be introduced into, or moved within the Union territory, it shall immediately take any measures necessary to confirm on the basis of a diagnosis of an official laboratory as referred to in Article 37 of Regulation (EU) 2017/… (to officially confirm), whether that pest is present or not.\nPending the official confirmation of the presence of that pest, the Member States concerned shall, where applicable, take phytosanitary measures to eliminate the risk of spread of that pest.\nThe suspicion or evidence referred to in the first paragraph of this Article may be based on any information received pursuant to Articles 14 and 15, or from any other source.;\n(3) in Article 11, the second paragraph is replaced by the following:\nNotifications under the first paragraph shall be made by the single authority, as referred to in Article 4(2) of Regulation (EU) 2017/…, of the Member State concerned and through the electronic notification system referred to in Article 103.;\n(4) in Article 25(2), point (a) is replaced by the following:\n(a) the roles and responsibilities of the bodies involved in the execution of the plan, in case of a confirmed or suspected presence of the priority pest concerned, as well as the chain of command and procedures for the co-ordination of actions to be taken by competent authorities, other public authorities, as referred to in Article 4(2) of Regulation (EU) 2017/…, delegated bodies or natural persons involved, as referred to in Article 28(1) of that Regulation, laboratories and professional operators, including the co-ordination with neighbouring Member States and neighbouring third countries, where appropriate;;\n(5) in Article 41, paragraph 4 is replaced by the following:\n4. In the event that plants, plant products or other objects have been introduced into, or moved within, the Union territory in violation of paragraph 1 of this Article, Member States shall adopt the necessary measures, as referred to in Article 66(3) of Regulation (EU) 2017/…, and shall notify the Commission and other Member States through the electronic notification system referred to in Article 103.\nWhere applicable, that notification shall also be made to the third country from which the plants, plant products or other objects were introduced into the Union territory.;\n(6) in Article 44, paragraph 2 is replaced by the following:\n2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/…, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.;\n(7) in Article 49(6), the third subparagraph is replaced by the following:\nMember States shall notify, through the electronic notification system referred to in Article 103 of this Regulation, the Commission and the other Member States of any case where the introduction of a plant, plant product or other object into the Union territory was refused, or its movement within the Union territory prohibited, because the Member State concerned considered that the prohibition referred to in point (c) of the second subparagraph of paragraph 2 of this Article was violated. Where applicable, that notification shall include the measures taken by that Member State on the plants, plant products or other objects concerned pursuant to Article 66(3) of Regulation (EU) 2017/….;\n(8) in Article 76, paragraphs 4 and 5 are replaced by the following:\n4. In the case of a third country which is not a contracting party to the IPPC, the competent authority shall only accept the phytosanitary certificates issued by the authorities which are competent in accordance with the national rules of that third country and notified to the Commission. The Commission shall inform the Member States and the operators, through the electronic notification system referred to in Article 103, in accordance with point (a) of Article 132 of Regulation (EU) 2017/…, of the notifications received.\nThe Commission is empowered to adopt delegated acts, in accordance with Article 105, to supplement this Regulation concerning the conditions for acceptance referred to in the first subparagraph of this paragraph, to ensure the reliability of those certificates.\n5. Electronic phytosanitary certificates shall only be accepted when provided through, or in electronic exchange with, the IMSOC referred to in Article 131(1) of Regulation (EU) 2017/….;\n(9) in Article 77(1), the first subparagraph is replaced by the following:\n1. Where a phytosanitary certificate has been issued in accordance with Article 71(1), (2) and (3), and the competent authority concerned concludes that the conditions referred to in Article 76 are not fulfilled, it shall invalidate that phytosanitary certificate and ensure that it does not accompany any longer those plants, plant products or other objects concerned. In that case, and in respect of the plants, plant products or other objects concerned, the competent authority shall take one of the measures set out in Article 66(3) of Regulation (EU) 2017/….;\n(10) in Article 91(1), the second subparagraph is replaced by the following:\nAuthorised operators implementing an approved pest risk management plan may be subject to inspections with a reduced frequency, as referred to in point (b) of Article 22(3) of Regulation (EU) 2017/….;\n(11) in Article 94(1), the first subparagraph is replaced by the following:\n1. By way of derogation from Article 87 of this Regulation, where a plant, plant product or other object, introduced into the Union territory from a third country which, for movement within the Union territory, requires a plant passport pursuant to Article 79(1) and 80(1) of this Regulation, the passport shall be issued if the checks under Article 49(1) of Regulation (EU) 2017/…. concerning its introduction have been completed satisfactorily and have led to the conclusion that the plant, plant product or other object concerned fulfils the substantive requirements for issuance of a plant passport in accordance with to Article 85 of this Regulation and, where appropriate, Article 86 of this Regulation.;\n(12) in Article 100, paragraph 5 is replaced by the following:\n5. Electronic phytosanitary certificates for export shall be provided through, or in electronic exchange with, the IMSOC.;\n(13) in Article 101, paragraph 6 is replaced by the following:\n6. Electronic phytosanitary certificates for re-export shall be provided through, or in electronic exchange with, the IMSOC.;\n(14) in Article 102, paragraph 4 is replaced by the following:\n4. The pre-export certificate shall accompany the plants, plant products and other objects concerned during their movement within the Union territory, unless the information contained in it is exchanged between the Member States concerned through, or in electronic exchange with, the IMSOC.;\n(15) Article 103 is replaced by the following:\nArticle 103\nEstablishment of electronic notification system\nThe Commission shall establish an electronic system for the submission of notifications by the Member States.\nThat system shall be connected to, and compatible with, the IMSOC.;\n(16) in Article 109, paragraph 1 is replaced by the following:\nDirective 2000/29/EC is repealed, without prejudice to Article 165(2), (3) and (4) of Regulation (EU) 2017/…..\n2. The relevant Articles of Directive 2000/29/EC shall continue to apply in relation to the matters governed by Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58 of this Regulation instead of these latter provisions, until 14 December 2022 or an earlier date, after the date of application of this Regulation, to be determined in the delegated act adopted in accordance with paragraph 3 of this Article.\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 2 of this Article.\n4. Without prejudice to paragraphs 2 and 3 of this Article and the date of application provided for in Article 167(1), the Commission shall adopt the delegated acts referred to in points (a) and (e) of Article 53(1), as regards goods referred to in point (c) of Article 47(1), at the latest 12 months before their date of application.",
+        "after": "Article 165\nAmendments to Regulation (EU) 2016/2031 and related transitional provisions\n1. Regulation (EU) 2016/2031 is amended as follows:\n(1) Article 2, point (6) is replaced by the following:\n(6) competent authority means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625 of the European Parliament and of the Council\nRegulation (EU) 2017/625 of the European parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).;;\n(2) Article 10 is replaced by the following:\nArticle 10\nOfficial confirmation by the competent authorities of the presence of a Union quarantine pest\nWhere a competent authority suspects, or has received evidence concerning, the presence of a Union quarantine pest, or a pest subject to measures adopted pursuant to Article 30(1), in a part of the territory of the respective Member State where that pest was previously not known to be present, or in a consignment of plants, plant products or other objects introduced into, intended to be introduced into, or moved within the Union territory, it shall immediately take any measures necessary to confirm on the basis of a diagnosis of an official laboratory as referred to in Article 37 of Regulation (EU) 2017/625 (to officially confirm), whether that pest is present or not.\nPending the official confirmation of the presence of that pest, the Member States concerned shall, where applicable, take phytosanitary measures to eliminate the risk of spread of that pest.\nThe suspicion or evidence referred to in the first paragraph of this Article may be based on any information received pursuant to Articles 14 and 15, or from any other source.;\n(3) in Article 11, the second paragraph is replaced by the following:\nNotifications under the first paragraph shall be made by the single authority, as referred to in Article 4(2) of Regulation (EU) 2017/625, of the Member State concerned and through the electronic notification system referred to in Article 103.;\n(4) in Article 25(2), point (a) is replaced by the following:\n(a) the roles and responsibilities of the bodies involved in the execution of the plan, in case of a confirmed or suspected presence of the priority pest concerned, as well as the chain of command and procedures for the co-ordination of actions to be taken by competent authorities, other public authorities, as referred to in Article 4(2) of Regulation (EU) 2017/625, delegated bodies or natural persons involved, as referred to in Article 28(1) of that Regulation, laboratories and professional operators, including the co-ordination with neighbouring Member States and neighbouring third countries, where appropriate;;\n(5) in Article 41, paragraph 4 is replaced by the following:\n4. In the event that plants, plant products or other objects have been introduced into, or moved within, the Union territory in violation of paragraph 1 of this Article, Member States shall adopt the necessary measures, as referred to in Article 66(3) of Regulation (EU) 2017/625, and shall notify the Commission and other Member States through the electronic notification system referred to in Article 103.\nWhere applicable, that notification shall also be made to the third country from which the plants, plant products or other objects were introduced into the Union territory.;\n(6) in Article 44, paragraph 2 is replaced by the following:\n2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.;\n(7) in Article 49(6), the third subparagraph is replaced by the following:\nMember States shall notify, through the electronic notification system referred to in Article 103 of this Regulation, the Commission and the other Member States of any case where the introduction of a plant, plant product or other object into the Union territory was refused, or its movement within the Union territory prohibited, because the Member State concerned considered that the prohibition referred to in point (c) of the second subparagraph of paragraph 2 of this Article was violated. Where applicable, that notification shall include the measures taken by that Member State on the plants, plant products or other objects concerned pursuant to Article 66(3) of Regulation (EU) 2017/625.;\n(8) in Article 76, paragraphs 4 and 5 are replaced by the following:\n4. In the case of a third country which is not a contracting party to the IPPC, the competent authority shall only accept the phytosanitary certificates issued by the authorities which are competent in accordance with the national rules of that third country and notified to the Commission. The Commission shall inform the Member States and the operators, through the electronic notification system referred to in Article 103, in accordance with point (a) of Article 132 of Regulation (EU) 2017/625, of the notifications received.\nThe Commission is empowered to adopt delegated acts, in accordance with Article 105, to supplement this Regulation concerning the conditions for acceptance referred to in the first subparagraph of this paragraph, to ensure the reliability of those certificates.\n5. Electronic phytosanitary certificates shall only be accepted when provided through, or in electronic exchange with, the IMSOC referred to in Article 131(1) of Regulation (EU) 2017/625.;\n(9) in Article 77(1), the first subparagraph is replaced by the following:\n1. Where a phytosanitary certificate has been issued in accordance with Article 71(1), (2) and (3), and the competent authority concerned concludes that the conditions referred to in Article 76 are not fulfilled, it shall invalidate that phytosanitary certificate and ensure that it does not accompany any longer those plants, plant products or other objects concerned. In that case, and in respect of the plants, plant products or other objects concerned, the competent authority shall take one of the measures set out in Article 66(3) of Regulation (EU) 2017/625.;\n(10) in Article 91(1), the second subparagraph is replaced by the following:\nAuthorised operators implementing an approved pest risk management plan may be subject to inspections with a reduced frequency, as referred to in point (b) of Article 22(3) of Regulation (EU) 2017/625.;\n(11) in Article 94(1), the first subparagraph is replaced by the following:\n1. By way of derogation from Article 87 of this Regulation, where a plant, plant product or other object, introduced into the Union territory from a third country which, for movement within the Union territory, requires a plant passport pursuant to Article 79(1) and 80(1) of this Regulation, the passport shall be issued if the checks under Article 49(1) of Regulation (EU) 2017/625 concerning its introduction have been completed satisfactorily and have led to the conclusion that the plant, plant product or other object concerned fulfils the substantive requirements for issuance of a plant passport in accordance with to Article 85 of this Regulation and, where appropriate, Article 86 of this Regulation.;\n(12) in Article 100, paragraph 5 is replaced by the following:\n5. Electronic phytosanitary certificates for export shall be provided through, or in electronic exchange with, the IMSOC.;\n(13) in Article 101, paragraph 6 is replaced by the following:\n6. Electronic phytosanitary certificates for re-export shall be provided through, or in electronic exchange with, the IMSOC.;\n(14) in Article 102, paragraph 4 is replaced by the following:\n4. The pre-export certificate shall accompany the plants, plant products and other objects concerned during their movement within the Union territory, unless the information contained in it is exchanged between the Member States concerned through, or in electronic exchange with, the IMSOC.;\n(15) Article 103 is replaced by the following:\nArticle 103\nEstablishment of electronic notification system\nThe Commission shall establish an electronic system for the submission of notifications by the Member States.\nThat system shall be connected to, and compatible with, the IMSOC.;\n(16) in Article 109, paragraph 1 is replaced by the following:\nDirective 2000/29/EC is repealed, without prejudice to Article 165(2), (3) and (4) of Regulation (EU) 2017/625..\n2. The relevant Articles of Directive 2000/29/EC shall continue to apply in relation to the matters governed by Article 47(2), Article 48, points (b), (c) and (d) of Article 51(1), point (a) of Article 53(1), Article 54(1) and (3), and point (a) of Article 58 of this Regulation instead of these latter provisions, until 14 December 2022 or an earlier date, after the date of application of this Regulation, to be determined in the delegated act adopted in accordance with paragraph 3 of this Article.\n3. The Commission is empowered to adopt delegated acts in accordance with Article 144 to amend this Regulation concerning the date referred to in paragraph 2 of this Article.\n4. Without prejudice to paragraphs 2 and 3 of this Article and the date of application provided for in Article 167(1), the Commission shall adopt the delegated acts referred to in points (a) and (e) of Article 53(1), as regards goods referred to in point (c) of Article 47(1), at the latest 12 months before their date of application.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 165 PA 1 ALN 1 PO 1",
+          "AR 165 PA 1 ALN 1 PO 2",
+          "AR 165 PA 1 ALN 1 PO 3",
+          "AR 165 PA 1 ALN 1 PO 4",
+          "AR 165 PA 1 ALN 1 PO 5",
+          "AR 165 PA 1 ALN 1 PO 6",
+          "AR 165 PA 1 ALN 1 PO 7",
+          "AR 165 PA 1 ALN 1 PO 8",
+          "AR 165 PA 1 ALN 1 PO 9",
+          "AR 165 PA 1 ALN 1 PO 10",
+          "AR 165 PA 1 ALN 1 PO 11",
+          "AR 165 PA 1 ALN 1 PO 16"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2017-04-07]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Throughout the listed sub-points, the placeholder reference \"Regulation (EU) 2017/…\" is replaced with the finalized citation \"Regulation (EU) 2017/625\" wherever it appears amending Regulation (EU) 2016/2031.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 165"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_165",
+              "label": "Art. 165, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "The blank publication reference for that Regulation is also filled in with the specific Official Journal citation, giving the volume, date and page number.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "02017R0625-20170407",
+                "location": "AR 165"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_165",
+              "label": "Art. 165, 02017R0625-20170407"
+            }
+          ]
+        },
+        {
+          "text": "Aside from these placeholder completions, the substantive wording of each amended provision of Regulation (EU) 2016/2031 remains the same in both versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R0625",
+                  "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+                },
+                "version": "32017R0625",
+                "location": "AR 165"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0625#art_165",
+              "label": "Art. 165, 32017R0625"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R0625",
+      "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
+    },
+    "from_version": "32017R0625",
+    "to_version": "02017R0625-20170407",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 76",
+          "AR 151",
+          "AR 154",
+          "AR 156",
+          "AR 157",
+          "AR 158",
+          "AR 159",
+          "AR 160",
+          "AR 162",
+          "AR 163",
+          "AR 164",
+          "AR 165"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2017-04-07]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 12,
+    "explained": 11,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 1,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 64502,
+      "output_tokens": 2865,
+      "requests": 14,
+      "schema_repairs": 3
+    }
+  },
+  "gate": {
+    "changes": 12,
+    "passed_first": 11,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 22,
+    "citations": 23,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
